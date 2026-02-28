@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>arutz-sheva</source>
+  <source-type>rss</source-type>
+  <feed-url>https://www.israelnationalnews.com/rss</feed-url>
+  <language>en</language>
+  <generated>2026-02-28T08:20:00+02:00</generated>
+  <count>0</count>
+  <status>failed-js</status>
+  <note>❌ Returns JavaScript. Try: https://www.israelnationalnews.com/rss.xml or scraping</note>
+</content-feed>

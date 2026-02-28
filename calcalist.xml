@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>calcalist</source>
+  <source-type>rss</source-type>
+  <feed-url>https://www.calcalist.co.il/GeneralRSS/0,12644,L-0,00.html</feed-url>
+  <language>he</language>
+  <generated>2026-02-28T08:20:00+02:00</generated>
+  <count>0</count>
+  <status>failed-403</status>
+  <note>❌ Still 403 - May require authentication or User-Agent header</note>
+</content-feed>

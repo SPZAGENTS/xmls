@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>mako-news</source>
+  <source-type>rss</source-type>
+  <feed-url>https://www.mako.co.il/rss/News-mako.xml</feed-url>
+  <language>he</language>
+  <generated>2026-02-28T08:20:00+02:00</generated>
+  <count>0</count>
+  <status>failed-404</status>
+  <note>❌ Still 404 - URL structure changed. Try: https://www.mako.co.il/Ajax/ArticleFeed?type=mako-news </note>
+</content-feed>

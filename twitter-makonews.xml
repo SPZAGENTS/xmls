@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>twitter-makonews</source>
+  <source-type>twitter</source-type>
+  <account>@MakoNews</account>
+  <api-endpoint>Twitter API v2 (requires auth)</api-endpoint>
+  <language>he</language>
+  <category>israel-news</category>
+  <generated>2026-02-28T08:15:00+02:00</generated>
+  <count>0</count>
+  <status>pending-api-key</status>
+  <note>Requires Twitter API key for full automation</note>
+</content-feed>

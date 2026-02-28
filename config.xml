@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spz-config>
+  <version>1.0</version>
+  <generated>2026-02-27T18:30:00</generated>
+  
+  <feeds>
+    <feed name="ynet" status="active" language="he">
+      <url>https://www.ynet.co.il/Integration/StoryRss2.xml</url>
+      <category>israeli_news</category>
+      <output>xml/ynet.xml</output>
+    </feed>
+    
+    <feed name="israel-hayom" status="active" language="he">
+      <url>https://www.israelhayom.co.il/rss</url>
+      <category>israeli_news</category>
+      <output>xml/israel-hayom.xml</output>
+    </feed>
+    
+    <feed name="bbc-news" status="active" language="en">
+      <url>http://feeds.bbci.co.uk/news/rss.xml</url>
+      <category>international</category>
+      <output>xml/bbc-news.xml</output>
+    </feed>
+    
+    <feed name="bbc-world" status="active" language="en">
+      <url>http://feeds.bbci.co.uk/news/world/rss.xml</url>
+      <category>international</category>
+      <output>xml/bbc-world.xml</output>
+    </feed>
+    
+    <feed name="bbc-middle-east" status="active" language="en">
+      <url>http://feeds.bbci.co.uk/news/world/middle_east/rss.xml</url>
+      <category>middle_east</category>
+      <output>xml/bbc-middle-east.xml</output>
+    </feed>
+  </feeds>
+  
+  <output_format>
+    <include_image>true</include_image>
+    <include_video>true</include_video>
+    <include_link>false</include_link>
+    <summary_max_chars>280</summary_max_chars>
+  </output_format>
+  
+  <schedule>
+    <fetch_interval>hourly</fetch_interval>
+    <max_items_per_source>10</max_items_per_source>
+  </schedule>
+</spz-config>

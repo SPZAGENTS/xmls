@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>reddit-israelpalestine</source>
+  <source-type>reddit</source-type>
+  <subreddit>r/IsraelPalestine</subreddit>
+  <api-url>https://www.reddit.com/r/IsraelPalestine/new.json</api-url>
+  <language>en</language>
+  <category>middle-east-geopolitics</category>
+  <generated>2026-02-28T08:15:00+02:00</generated>
+  <count>0</count>
+  <status>ready-for-fetch</status>
+</content-feed>

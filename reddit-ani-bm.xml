@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>reddit-ani-bm</source>
+  <source-type>reddit</source-type>
+  <subreddit>r/Ani_Bm</subreddit>
+  <api-url>https://www.reddit.com/r/Ani_Bm/new.json</api-url>
+  <language>he</language>
+  <category>israel-jewish</category>
+  <generated>2026-02-28T08:15:00+02:00</generated>
+  <count>0</count>
+  <status>ready-for-fetch</status>
+</content-feed>

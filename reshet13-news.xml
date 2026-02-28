@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>reshet13-news</source>
+  <source-type>rss</source-type>
+  <feed-url>https://13tv.co.il/rss.xml</feed-url>
+  <language>he</language>
+  <generated>2026-02-28T08:20:00+02:00</generated>
+  <count>0</count>
+  <status>failed-404</status>
+  <note>❌ 404 - Site structure changed. May need web scraping approach</note>
+</content-feed>

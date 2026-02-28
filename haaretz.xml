@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content-feed>
+  <source>haaretz</source>
+  <source-type>rss</source-type>
+  <feed-url>https://www.haaretz.com/cmlink/1.4608521</feed-url>
+  <language>en</language>
+  <generated>2026-02-28T08:20:00+02:00</generated>
+  <count>0</count>
+  <status>failed-html</status>
+  <note>❌ Returns HTML. Alternative: Try https://www.haaretz.com/rss/ or require API key</note>
+</content-feed>
