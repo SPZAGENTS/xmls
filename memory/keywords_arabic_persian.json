@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "created_by": "Pitzi 🐱",
+    "created_date": "2026-02-28",
+    "purpose": "SPZ keyword detection for Arabic/Persian content translation",
+    "total_keywords": 45,
+    "categories": ["war_security", "geopolitics", "leaders"]
+  },
+  "keywords": {
+    "war_security": {
+      "description": "מלחמה וביטחון — War and Security",
+      "terms": [
+        {"hebrew": "מלחמה", "arabic": "حرب", "persian": "جنگ", "transliteration_ar": "harb", "transliteration_fa": "jang"},
+        {"hebrew": "תקיפה", "arabic": "هجوم", "persian": "حمله", "transliteration_ar": "hujum", "transliteration_fa": "hamle"},
+        {"hebrew": "טיל", "arabic": "صاروخ", "persian": "موشک", "transliteration_ar": "sarukh", "transliteration_fa": "mushak"},
+        {"hebrew": "הפצצה", "arabic": "قصف", "persian": "بمباران", "transliteration_ar": "qasf", "transliteration_fa": "bombârân"},
+        {"hebrew": "תקיפה אווירית", "arabic": "غارة", "persian": "حمله هوایی", "transliteration_ar": "ghâra", "transliteration_fa": "hamle havai"},
+        {"hebrew": "חיל אוויר", "arabic": "القوات الجوية", "persian": "نیروی هوایی", "transliteration_ar": "al-quwwât al-jawwiyya", "transliteration_fa": "niru-ye havâyi"},
+        {"hebrew": "חטיפה", "arabic": "اختطاف", "persian": "ربودن", "transliteration_ar": "ikhtitâf", "transliteration_fa": "rubudan"},
+        {"hebrew": "בן ערובה", "arabic": "رهينة", "persian": "گروگان", "transliteration_ar": "rahîna", "transliteration_fa": "gurugân"},
+        {"hebrew": "הרוגים", "arabic": "قتلى", "persian": "کشته شدگان", "transliteration_ar": "qatalâ", "transliteration_fa": "koshte-shodegân"},
+        {"hebrew": "פצועים", "arabic": "جرحى", "persian": "مجروحان", "transliteration_ar": "jurhâ", "transliteration_fa": "majruhan"},
+        {"hebrew": "פיצוץ", "arabic": "انفجار", "persian": "انفجار", "transliteration_ar": "infiâr", "transliteration_fa": "enfejâr"},
+        {"hebrew": "חיסול", "arabic": "اغتيال", "persian": "ترور", "transliteration_ar": "ightiyâl", "transliteration_fa": "terur"}
+      ]
+    },
+    "geopolitics_current_war": {
+      "description": "גאופוליטיקה — המלחמה הנוכחית — Geopolitics",
+      "terms": [
+        {"hebrew": "ישראל", "arabic": "إسرائيل", "persian": "اسرائیل", "transliteration_ar": "Isrâ'îl", "transliteration_fa": "Isrâ'îl"},
+        {"hebrew": "איראן", "arabic": "إيران", "persian": "ایران", "transliteration_ar": "Îrân", "transliteration_fa": "Îrân"},
+        {"hebrew": "ישראלי", "arabic": "إسرائيلي", "persian": "اسرائیلی", "transliteration_ar": "Isrâ'îli", "transliteration_fa": "Isrâ'îli"},
+        {"hebrew": "איראני", "arabic": "إيراني", "persian": "ایرانی", "transliteration_ar": "Îrânî", "transliteration_fa": "Îrânî"},
+        {"hebrew": "חמאס", "arabic": "حماس", "persian": "حماس", "transliteration_ar": "Hamâs", "transliteration_fa": "Hamâs"},
+        {"hebrew": "חיזבאללה", "arabic": "حزب الله", "persian": "حزب الله", "transliteration_ar": "Hizb Allâh", "transliteration_fa": "Hezb-e Allâh"},
+        {"hebrew": "טאליבן", "arabic": "طالبان", "persian": "طالبان", "transliteration_ar": "Tâlibân", "transliteration_fa": "Tâlibân"},
+        {"hebrew": "דאעש", "arabic": "داعش", "persian": "داعش", "transliteration_ar": "Dâ'ish", "transliteration_fa": "Dâ'esh"}
+      ],
+      "locations": [
+        {"hebrew": "טהרן", "arabic": "طهران", "persian": "تهران", "transliteration_ar": "Tihrân", "transliteration_fa": "Tehrân"},
+        {"hebrew": "ירושלים", "arabic": "القدس", "persian": "بیت المقدس", "transliteration_ar": "al-Quds", "transliteration_fa": "Bayt al-Moqaddas"},
+        {"hebrew": "ביירות", "arabic": "بيروت", "persian": "بیروت", "transliteration_ar": "Bayrût", "transliteration_fa": "Beirut"},
+        {"hebrew": "דמשק", "arabic": "دمشق", "persian": "دمشق", "transliteration_ar": "Dimashq", "transliteration_fa": "Dameshq"},
+        {"hebrew": "עזה", "arabic": "غزة", "persian": "غزه", "transliteration_ar": "Ghazza", "transliteration_fa": "Gaza"},
+        {"hebrew": "גדה", "arabic": "الضفة الغربية", "persian": "کرانه باختری", "transliteration_ar": "al-Diffa al-Gharbiyya", "transliteration_fa": "Korâne Bâkhtari"},
+        {"hebrew": "לבנון", "arabic": "لبنان", "persian": "لبنان", "transliteration_ar": "Lubnân", "transliteration_fa": "Lebnân"},
+        {"hebrew": "סוריה", "arabic": "سوريا", "persian": "سوریه", "transliteration_ar": "Sûriyâ", "transliteration_fa": "Suriye"},
+        {"hebrew": "בחריין", "arabic": "البحرين", "persian": "بحرین", "transliteration_ar": "al-Bahrain", "transliteration_fa": "Bahreyn"},
+        {"hebrew": "מצר הורמוז", "arabic": "مضيق هرمز", "persian": "تنگه هرمز", "transliteration_ar": "Madiq Hurmuz", "transliteration_fa": "Tange-ye Hormoz"}
+      ]
+    },
+    "organizations": {
+      "description": "ארגונים וכוחות — Organizations",
+      "terms": [
+        {"hebrew": "צה\"ל", "arabic": "الجيش الإسرائيلي", "persian": "ارتش اسرائیل", "transliteration_ar": "al-Jaysh al-Isrâ'îlî", "transliteration_fa": "Artesh-e Isrâ'îl"},
+        {"hebrew": "משמרות המהפכה", "arabic": "حرس الثورة الإسلامية", "persian": "سپاه پاسداران انقلاب اسلامی", "transliteration_ar": "Haris al-Thawra", "transliteration_fa": "Sepâh-e Pâsdârân"},
+        {"hebrew": "כוח קודס", "arabic": "قوة القدس", "persian": "سپاه قدس", "transliteration_ar": "Qûwat al-Quds", "transliteration_fa": "Sepâh-e Qods"},
+        {"hebrew": "המוסד", "arabic": "الموساد", "persian": "موساد", "transliteration_ar": "al-Mûsâd", "transliteration_fa": "Mosâd"}
+      ]
+    },
+    "leaders": {
+      "description": "מנהיגים — Leaders",
+      "terms": [
+        {"hebrew": "נתניהו", "arabic": "نتنياهو", "persian": "نتانیاهو", "transliteration_ar": "Natanyâhû", "transliteration_fa": "Netanyahu"},
+        {"hebrew": "ביבי", "arabic": "بيبي", "persian": "بیبی", "transliteration_ar": "Bîbî", "transliteration_fa": "Bibi"},
+        {"hebrew": "חמינאי", "arabic": "خامنئي", "persian": "خامنه‌ای", "transliteration_ar": "Khâminî", "transliteration_fa": "Khâmene'i"},
+        {"hebrew": "ראיסי", "arabic": "رئيسي", "persian": "رئیسی", "transliteration_ar": "Raisî", "transliteration_fa": "Raisi"},
+        {"hebrew": "נסראללה", "arabic": "نصر الله", "persian": "نصرالله", "transliteration_ar": "Nasr Allâh", "transliteration_fa": "Nasrallah"},
+        {"hebrew": "סינוואר", "arabic": "السنوار", "persian": "السنوار", "transliteration_ar": "al-Sinwâr", "transliteration_fa": "Sinwar"},
+        {"hebrew": "דף", "arabic": "الضيف", "persian": "الضیف", "transliteration_ar": "al-Dayf", "transliteration_fa": "Dayef"},
+        {"hebrew": "האנייה", "arabic": "الهنية", "persian": "هنیه", "transliteration_ar": "al-Haniyya", "transliteration_fa": "Haniye"}
+      ]
+    }
+  },
+  "usage": {
+    "detection": "Use Arabic/Persian columns to scan Reddit/Twitter posts",
+    "translation": "Map detected keywords to Hebrew for XML output",
+    "note": "This enables automatic translation pipeline for SPZ XML generation"
+  }
+}
