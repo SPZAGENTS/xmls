@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPZ Tech &amp; Innovation Feed</title>
+    <description>Curated tech, AI, and innovation news from BBC and Israeli sources</description>
+    <link>https://github.com/SPZAGENTS/xmls</link>
+    <lastBuildDate>Sat, 28 Feb 2026 06:06:00 GMT</lastBuildDate>
+    <language>en-US</language>
+    <atom:link href="https://raw.githubusercontent.com/SPZAGENTS/xmls/main/spz-tech-feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Trump orders government to stop using Anthropic in battle over AI use</title>
+      <description>The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense. Tech/AI policy news with major implications.</description>
+      <link>https://www.bbc.com/news/articles/cn48jj3y8ezo</link>
+      <guid>bbc-anthropic-trump-2026-02-27</guid>
+      <pubDate>Sat, 28 Feb 2026 03:50:05 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <subcategory>AI policy</subcategory>
+      <priority-score>45</priority-score>
+    </item>
+    
+    <item>
+      <title>OpenAI vows safety policy changes after Tumbler Ridge shooting</title>
+      <description>Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns.</description>
+      <link>https://www.bbc.com/news/articles/cr73m4x8r2lo</link>
+      <guid>bbc-openai-safety-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 21:30:10 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <subcategory>AI safety</subcategory>
+      <priority-score>45</priority-score>
+    </item>
+    
+    <item>
+      <title>The AI videos supercharging Russia's online disinformation campaigns</title>
+      <description>Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.</description>
+      <link>https://www.bbc.com/news/articles/cx2r7grrdwzo</link>
+      <guid>bbc-ai-disinfo-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 07:53:39 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <subcategory>AI security</subcategory>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>Drone jammed near French aircraft carrier was Russian, says Sweden</title>
+      <description>Sweden's prime minister said it was a serious but not unexpected incident - and a "Russian way of acting that we recognise from other places".</description>
+      <link>https://www.bbc.com/news/articles/c1mj3e2nz8ko</link>
+      <guid>bbc-drone-russia-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 19:58:25 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <subcategory>drones</subcategory>
+      <priority-score>35</priority-score>
+    </item>
+    
+    <item>
+      <title>'Obnoxious' AI chatbot talked about its mother, customers say</title>
+      <description>Australian supermarket giant Woolworths tweaks its AI-powered assistant after users said it gave them the "ick".</description>
+      <link>https://www.bbc.com/news/articles/cy7jeyeyd18o</link>
+      <guid>bbc-woolworths-ai-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 15:47:20 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <subcategory>AI assistants</subcategory>
+      <priority-score>30</priority-score>
+    </item>
+    
+    <item>
+      <title>These filmmakers know exactly how to get you hooked on bizarre one-minute dramas</title>
+      <description>The business depends on packing a punch right away because the first five to 10 episodes are free.</description>
+      <link>https://www.bbc.com/news/articles/cvg5q6wq11no</link>
+      <guid>bbc-short-drama-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 23:01:06 GMT</pubDate>
+      <source>BBC World</source>
+      <category>entertainment</category>
+      <subcategory>streaming</subcategory>
+      <priority-score>25</priority-score>
+    </item>
+    
+    <item>
+      <title>Formula 1's new golden age of celebrity may have just begun</title>
+      <description>As the eighth series of Netflix's hugely popular Drive To Survive is released this weekend, has Formula 1 become one big celebrity playground?</description>
+      <link>https://www.bbc.com/news/articles/cp8rz13gdx0o</link>
+      <guid>bbc-f1-drive-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 00:01:44 GMT</pubDate>
+      <source>BBC News</source>
+      <category>entertainment</category>
+      <subcategory>streaming</subcategory>
+      <priority-score>20</priority-score>
+    </item>
+    
+    <item>
+      <title>Resident Evil is back - can it redefine the survival horror genre once more?</title>
+      <description>Director Koshi Nakanishi says balancing action and horror within the game has been a huge challenge.</description>
+      <link>https://www.bbc.com/news/articles/cewzngve9reo</link>
+      <guid>bbc-re-evil-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 00:01:19 GMT</pubDate>
+      <source>BBC News</source>
+      <category>gaming</category>
+      <subcategory>innovation</subcategory>
+      <priority-score>20</priority-score>
+    </item>
+    
+  </channel>
+</rss>

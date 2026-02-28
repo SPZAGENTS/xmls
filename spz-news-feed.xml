@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPZ News Feed - Top Stories</title>
+    <description>Curated news from top Israeli and international sources (ynet, Israel Hayom, BBC)</description>
+    <link>https://github.com/SPZAGENTS/xmls</link>
+    <lastBuildDate>Sat, 28 Feb 2026 06:06:00 GMT</lastBuildDate>
+    <language>en-US</language>
+    <atom:link href="https://raw.githubusercontent.com/SPZAGENTS/xmls/main/spz-news-feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Trump 'not thrilled' with Iran after latest talks on nuclear programme</title>
+      <description>President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack. US-Iran tensions escalate as speculation grows of potential US strikes.</description>
+      <link>https://www.bbc.com/news/articles/c309vz0z893o</link>
+      <guid>bbc-iran-trump-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 22:21:35 GMT</pubDate>
+      <source>BBC Middle East</source>
+      <category>security</category>
+      <priority-score>45</priority-score>
+    </item>
+    
+    <item>
+      <title>Trump orders government to stop using Anthropic in battle over AI use</title>
+      <description>The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense. Tech/AI policy news with major implications.</description>
+      <link>https://www.bbc.com/news/articles/cn48jj3y8ezo</link>
+      <guid>bbc-anthropic-trump-2026-02-27</guid>
+      <pubDate>Sat, 28 Feb 2026 03:50:05 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <priority-score>45</priority-score>
+    </item>
+    
+    <item>
+      <title>Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes</title>
+      <description>The former president told the committee that he would never have flown on Epstein's plane if he "had any inkling of what he was doing". DOJ deposition testimony.</description>
+      <link>https://www.bbc.com/news/articles/cvg345qvld5o</link>
+      <guid>bbc-clinton-epstein-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 03:43:56 GMT</pubDate>
+      <source>BBC News</source>
+      <category>world</category>
+      <priority-score>25</priority-score>
+    </item>
+    
+    <item>
+      <title>OpenAI vows safety policy changes after Tumbler Ridge shooting</title>
+      <description>Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns.</description>
+      <link>https://www.bbc.com/news/articles/cr73m4x8r2lo</link>
+      <guid>bbc-openai-safety-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 21:30:10 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <priority-score>45</priority-score>
+    </item>
+    
+    <item>
+      <title>[UPDATED] At least 15 killed after military plane carrying banknotes crashes in Bolivia</title>
+      <description>UPDATED: Death toll rises from 11 to 15. The cargo plane crashed while landing in El Alto, reportedly hitting vehicles on a motorway. Police used tear gas as crowds tried to take banknotes from crash site.</description>
+      <link>https://www.bbc.com/news/articles/c0rjpxxpp49o</link>
+      <guid>bbc-bolivia-crash-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 06:01:03 GMT</pubDate>
+      <source>BBC News</source>
+      <category>breaking</category>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>Pakistan defence minister says country in 'open war' with Afghanistan after strikes</title>
+      <description>The latest attacks by Pakistan follow months of clashes between the two countries, despite agreeing to a fragile ceasefire in October.</description>
+      <link>https://www.bbc.com/news/articles/cvgjd7pv4y4o</link>
+      <guid>bbc-pakistan-afghanistan-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 13:19:18 GMT</pubDate>
+      <source>BBC World</source>
+      <category>security</category>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat</title>
+      <description>Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary.</description>
+      <link>https://www.bbc.com/news/articles/cd6z382de8yo</link>
+      <guid>bbc-gaza-aid-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 20:31:27 GMT</pubDate>
+      <source>BBC Middle East</source>
+      <category>israel</category>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>The AI videos supercharging Russia's online disinformation campaigns</title>
+      <description>Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.</description>
+      <link>https://www.bbc.com/news/articles/cx2r7grrdwzo</link>
+      <guid>bbc-ai-disinfo-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 07:53:39 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>Starmer vows to fight on after historic Green by-election win</title>
+      <description>The result - in a seat Labour has held for nearly 100 years - heaps further pressure on the PM's position.</description>
+      <link>https://www.bbc.com/news/articles/cp8r56vxmn0o</link>
+      <guid>bbc-starmer-green-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 19:51:18 GMT</pubDate>
+      <source>BBC News</source>
+      <category>world</category>
+      <priority-score>30</priority-score>
+    </item>
+    
+    <item>
+      <title>Anxious days inside Iran as speculation grows of US strikes</title>
+      <description>To many, Iran now seems to be hovering in a tense limbo where everything could change suddenly.</description>
+      <link>https://www.bbc.com/news/articles/cm2reey52n9o</link>
+      <guid>bbc-iran-tension-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 17:48:48 GMT</pubDate>
+      <source>BBC Middle East</source>
+      <category>security</category>
+      <priority-score>40</priority-score>
+    </item>
+    
+    <item>
+      <title>'They seized everything': Yemen's Houthi rebels drive aid groups to the brink</title>
+      <description>Aid groups - a lifeline for millions of Yemenis - are being squeezed out of existence in areas under the control of the rebels, the BBC hears.</description>
+      <link>https://www.bbc.com/news/articles/cj4z129dq8vo</link>
+      <guid>bbc-yemen-houthi-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 09:15:27 GMT</pubDate>
+      <source>BBC Middle East</source>
+      <category>security</category>
+      <priority-score>35</priority-score>
+    </item>
+    
+    <item>
+      <title>Paramount set for $111bn Warner Bros takeover after Netflix drops bid</title>
+      <description>Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.</description>
+      <link>https://www.bbc.com/news/articles/c5y6p5ypgmzo</link>
+      <guid>bbc-paramount-warner-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 04:32:38 GMT</pubDate>
+      <source>BBC World</source>
+      <category>business</category>
+      <priority-score>25</priority-score>
+    </item>
+    
+    <item>
+      <title>At least 55 Ghanaians killed in Russia-Ukraine war, minister says</title>
+      <description>This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war.</description>
+      <link>https://www.bbc.com/news/articles/cgl5gxg3zj9o</link>
+      <guid>bbc-ghana-ukraine-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 16:13:13 GMT</pubDate>
+      <source>BBC World</source>
+      <category>security</category>
+      <priority-score>30</priority-score>
+    </item>
+    
+    <item>
+      <title>Drone jammed near French aircraft carrier was Russian, says Sweden</title>
+      <description>Sweden's prime minister said it was a serious but not unexpected incident - and a "Russian way of acting that we recognise from other places".</description>
+      <link>https://www.bbc.com/news/articles/c1mj3e2nz8ko</link>
+      <guid>bbc-drone-russia-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 19:58:25 GMT</pubDate>
+      <source>BBC World</source>
+      <category>tech</category>
+      <priority-score>35</priority-score>
+    </item>
+    
+    <item>
+      <title>Tram derails in Milan, leaving two dead and dozens injured</title>
+      <description>The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building.</description>
+      <link>https://www.bbc.com/news/articles/c5y599degnqo</link>
+      <guid>bbc-milan-tram-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 19:03:10 GMT</pubDate>
+      <source>BBC World</source>
+      <category>breaking</category>
+      <priority-score>35</priority-score>
+    </item>
+    
+    <item>
+      <title>Why Trump means the Cuban Revolution faces its biggest threat yet</title>
+      <description>Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?</description>
+      <link>https://www.bbc.com/news/articles/c9q5wdeg4j8o</link>
+      <guid>bbc-cuba-trump-2026-02-27</guid>
+      <pubDate>Fri, 27 Feb 2026 12:46:26 GMT</pubDate>
+      <source>BBC World</source>
+      <category>world</category>
+      <priority-score>20</priority-score>
+    </item>
+    
+  </channel>
+</rss>
