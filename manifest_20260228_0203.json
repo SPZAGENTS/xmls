@@ -1,0 +1,156 @@
+{
+  "successful": [
+    {
+      "feed": "ynet-breaking-news",
+      "file": "ynet-breaking-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-main-news",
+      "file": "ynet-main-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-opinions",
+      "file": "ynet-opinions_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-sports",
+      "file": "ynet-sports_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-technology",
+      "file": "ynet-technology_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-economy",
+      "file": "ynet-economy_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-health",
+      "file": "ynet-health_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-culture",
+      "file": "ynet-culture_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "ynet-news-english",
+      "file": "ynet-news-english_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "times-of-israel-latest",
+      "file": "times-of-israel-latest_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "haaretz-israel-news",
+      "file": "haaretz-israel-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "israel-hayom",
+      "file": "israel-hayom_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "walla-news",
+      "file": "walla-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "maariv-news",
+      "file": "maariv-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "arutz-sheva-news",
+      "file": "arutz-sheva-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "jerusalem-post-breaking",
+      "file": "jerusalem-post-breaking_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "jerusalem-post-israel",
+      "file": "jerusalem-post-israel_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "globes-business",
+      "file": "globes-business_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "mako-news",
+      "file": "mako-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "bbc-news",
+      "file": "bbc-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "bbc-world-news",
+      "file": "bbc-world-news_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "bbc-middle-east",
+      "file": "bbc-middle-east_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "cn n-top-stories",
+      "file": "cn n-top-stories_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "cnn-world",
+      "file": "cnn-world_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "nyt-world",
+      "file": "nyt-world_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "nyt-homepage",
+      "file": "nyt-homepage_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "the-guardian-world",
+      "file": "the-guardian-world_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "the-guardian-us",
+      "file": "the-guardian-us_20260228_0203.xml",
+      "articles": 10
+    },
+    {
+      "feed": "nbc-news",
+      "file": "nbc-news_20260228_0203.xml",
+      "articles": 10
+    }
+  ],
+  "failed": [
+    {
+      "feed": "times-of-israel-israel-region",
+      "error": "HTTP 403"
+    }
+  ],
+  "timestamp": "2026-02-28T02:03:39.775206"
+}
