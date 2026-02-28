@@ -4,24 +4,35 @@
     <title>SPZ News Feed - Top Stories</title>
     <description>Curated news from top Israeli and international sources (ynet, Israel Hayom, BBC)</description>
     <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>Sat, 28 Feb 2026 06:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:05:00 GMT</lastBuildDate>
     <language>en-US</language>
     <atom:link href="https://raw.githubusercontent.com/SPZAGENTS/xmls/main/spz-news-feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-      <title>Trump 'not thrilled' with Iran after latest talks on nuclear programme</title>
-      <description>President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack. US-Iran tensions escalate as speculation grows of potential US strikes.</description>
-      <link>https://www.bbc.com/news/articles/c309vz0z893o</link>
-      <guid>bbc-iran-trump-2026-02-27</guid>
-      <pubDate>Fri, 27 Feb 2026 22:21:35 GMT</pubDate>
+      <title>[BREAKING] What we know about the joint US-Israel attack on Iran</title>
+      <description>Donald Trump has described "major combat operations", with explosions heard across Iran. Military action has begun. This is a major escalation from previous reports.</description>
+      <link>https://www.bbc.com/news/articles/cx2dyz6p3weo</link>
+      <guid>bbc-iran-attack-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 09:52:30 GMT</pubDate>
+      <source>BBC Middle East/BBC World</source>
+      <category>security</category>
+      <priority-score>50</priority-score>
+    </item>
+    
+    <item>
+      <title>[VIDEO] Smoke rises in Tehran as explosions heard across country</title>
+      <description>The BBC's Jon Donnison reports from Jerusalem as Trump says "major combat operations" have begun. VIDEO: Live footage of smoke rising over Tehran.</description>
+      <link>https://www.bbc.com/news/videos/clyx9eprwreo</link>
+      <guid>bbc-tehran-smoke-2026-02-28</guid>
+      <pubDate>Sat, 28 Feb 2026 07:54:35 GMT</pubDate>
       <source>BBC Middle East</source>
       <category>security</category>
-      <priority-score>45</priority-score>
+      <priority-score>50</priority-score>
     </item>
     
     <item>
       <title>Trump orders government to stop using Anthropic in battle over AI use</title>
-      <description>The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense. Tech/AI policy news with major implications.</description>
+      <description>The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense. Tech/AI policy news with major implications.</description>
       <link>https://www.bbc.com/news/articles/cn48jj3y8ezo</link>
       <guid>bbc-anthropic-trump-2026-02-27</guid>
       <pubDate>Sat, 28 Feb 2026 03:50:05 GMT</pubDate>
@@ -53,8 +64,8 @@
     </item>
     
     <item>
-      <title>[UPDATED] At least 15 killed after military plane carrying banknotes crashes in Bolivia</title>
-      <description>UPDATED: Death toll rises from 11 to 15. The cargo plane crashed while landing in El Alto, reportedly hitting vehicles on a motorway. Police used tear gas as crowds tried to take banknotes from crash site.</description>
+      <title>At least 15 killed after military plane carrying banknotes crashes in Bolivia</title>
+      <description>Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site.</description>
       <link>https://www.bbc.com/news/articles/c0rjpxxpp49o</link>
       <guid>bbc-bolivia-crash-2026-02-28</guid>
       <pubDate>Sat, 28 Feb 2026 06:01:03 GMT</pubDate>
@@ -108,17 +119,6 @@
     </item>
     
     <item>
-      <title>Anxious days inside Iran as speculation grows of US strikes</title>
-      <description>To many, Iran now seems to be hovering in a tense limbo where everything could change suddenly.</description>
-      <link>https://www.bbc.com/news/articles/cm2reey52n9o</link>
-      <guid>bbc-iran-tension-2026-02-27</guid>
-      <pubDate>Fri, 27 Feb 2026 17:48:48 GMT</pubDate>
-      <source>BBC Middle East</source>
-      <category>security</category>
-      <priority-score>40</priority-score>
-    </item>
-    
-    <item>
       <title>'They seized everything': Yemen's Houthi rebels drive aid groups to the brink</title>
       <description>Aid groups - a lifeline for millions of Yemenis - are being squeezed out of existence in areas under the control of the rebels, the BBC hears.</description>
       <link>https://www.bbc.com/news/articles/cj4z129dq8vo</link>
@@ -127,28 +127,6 @@
       <source>BBC Middle East</source>
       <category>security</category>
       <priority-score>35</priority-score>
-    </item>
-    
-    <item>
-      <title>Paramount set for $111bn Warner Bros takeover after Netflix drops bid</title>
-      <description>Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.</description>
-      <link>https://www.bbc.com/news/articles/c5y6p5ypgmzo</link>
-      <guid>bbc-paramount-warner-2026-02-27</guid>
-      <pubDate>Fri, 27 Feb 2026 04:32:38 GMT</pubDate>
-      <source>BBC World</source>
-      <category>business</category>
-      <priority-score>25</priority-score>
-    </item>
-    
-    <item>
-      <title>At least 55 Ghanaians killed in Russia-Ukraine war, minister says</title>
-      <description>This is the highest number of confirmed casualties from a single African country in the Ukraine-Russia war.</description>
-      <link>https://www.bbc.com/news/articles/cgl5gxg3zj9o</link>
-      <guid>bbc-ghana-ukraine-2026-02-27</guid>
-      <pubDate>Fri, 27 Feb 2026 16:13:13 GMT</pubDate>
-      <source>BBC World</source>
-      <category>security</category>
-      <priority-score>30</priority-score>
     </item>
     
     <item>
@@ -171,17 +149,6 @@
       <source>BBC World</source>
       <category>breaking</category>
       <priority-score>35</priority-score>
-    </item>
-    
-    <item>
-      <title>Why Trump means the Cuban Revolution faces its biggest threat yet</title>
-      <description>Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?</description>
-      <link>https://www.bbc.com/news/articles/c9q5wdeg4j8o</link>
-      <guid>bbc-cuba-trump-2026-02-27</guid>
-      <pubDate>Fri, 27 Feb 2026 12:46:26 GMT</pubDate>
-      <source>BBC World</source>
-      <category>world</category>
-      <priority-score>20</priority-score>
     </item>
     
   </channel>
