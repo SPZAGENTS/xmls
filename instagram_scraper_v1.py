@@ -71,12 +71,29 @@ class InstagramScraper:
             )
             
             # Try to load session if available
-            if self.session_file and Path(self.session_file).exists():
-                try:
-                    self.loader.load_session_from_file(self.session_file)
-                    print(f"Loaded session from {self.session_file}")
-                except Exception as e:
-                    print(f"Could not load session: {e}")
+            if self.session_file:
+                session_path = Path(self.session_file)
+                # Check both exact path and with username suffix
+                if session_path.exists():
+                    try:
+                        # Load the session file - instaloader expects the username in the filename
+                        self.loader.load_session_from_file(str(session_path))
+                        print(f"Loaded session from {session_path}")
+                    except Exception as e:
+                        print(f"Could not load session: {e}")
+                else:
+                    # Try to find any session file in the directory
+                    session_dir = session_path.parent if session_path.parent else Path('.')
+                    session_pattern = session_path.name + '*'
+                    potential_sessions = list(session_dir.glob(session_pattern))
+                    if potential_sessions:
+                        try:
+                            self.loader.load_session_from_file(str(potential_sessions[0]))
+                            print(f"Loaded session from {potential_sessions[0]}")
+                        except Exception as e:
+                            print(f"Could not load session: {e}")
+                    else:
+                        print(f"No session file found at {self.session_file}")
                     
         return self.loader
     
@@ -88,8 +105,15 @@ class InstagramScraper:
             
             # Save session for future use
             if self.session_file:
-                loader.save_session_to_file(self.session_file)
-                print(f"Session saved to {self.session_file}")
+                # instaloader saves as 'session-username' in the file
+                session_path = Path(self.session_file)
+                loader.save_session_to_file(str(session_path))
+                print(f"Session saved to {session_path}")
+                
+                # Also create a simple indicator file
+                indicator = session_path.parent / (session_path.name + '.active')
+                with open(indicator, 'w') as f:
+                    f.write(username)
                 
             return True
         except Exception as e:
