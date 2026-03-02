@@ -138,10 +138,17 @@ class InstagramScraper:
             # Download post
             loader.download_post(post, target=str(user_dir))
             
-            # Find the downloaded video file
-            video_files = list(user_dir.glob(f"{shortcode}*.mp4"))
+            # Find the downloaded video file (search more broadly)
+            video_files = list(user_dir.glob("*.mp4"))
             if not video_files:
-                return {'success': False, 'error': 'video_not_found'}
+                # Also check in shortcode subdirectory
+                shortcode_dir = user_dir / shortcode
+                if shortcode_dir.exists():
+                    video_files = list(shortcode_dir.glob("*.mp4"))
+            
+            if not video_files:
+                print(f"Files in {user_dir}: {list(user_dir.iterdir())}")
+                return {'success': False, 'error': 'video_not_found', 'dir': str(user_dir)}
             
             video_path = video_files[0]
             size_mb = video_path.stat().st_size / (1024 * 1024)
