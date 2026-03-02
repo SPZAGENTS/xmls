@@ -1,10 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<content-feed>
-  <source>bbc-world</source>
-  <source-type>rss</source-type>
-  <feed-url>https://feeds.bbci.co.uk/news/world/rss.xml</feed-url>
-  <language>en</language>
-  <generated>2026-02-28T08:05:00+02:00</generated>
-  <count>0</count>
-  <status>ready-for-fetch</status>
+<?xml version="1.0" encoding="utf-8"?>
+<content-feed source="bbc-world" generated="2026-02-28T14:08:24.825739" count="27">
+  <item>
+    <title>What we know about the joint US-Israel attack on Iran</title>
+    <summary>Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 11:28:16 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes</title>
+    <summary>The former president told the committee that he would never have flown on Epstein's plane if he "had any inkling of what he was doing".</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 03:43:56 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>At least 15 killed after military plane carrying banknotes crashes in Bolivia</title>
+    <summary>Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 06:01:03 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Trump orders government to stop using Anthropic in battle over AI use</title>
+    <summary>The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 03:50:05 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India</title>
+    <summary>The two countries are repairing a strained relationship as they also seek to reduce their trade reliance on the US.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 00:03:55 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat</title>
+    <summary>Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve might be temporary.</summary>
+    <media type="none"/>
+    <published>Fri, 27 Feb 2026 20:31:27 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>DOJ charges 30 more people in Minnesota anti-ICE church protest</title>
+    <summary>Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 02:17:20 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Tram derails in Milan, leaving two dead and dozens injured</title>
+    <summary>The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building.</summary>
+    <media type="none"/>
+    <published>Fri, 27 Feb 2026 19:03:10 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Pakistan defence minister says country in 'open war' with Afghanistan after strikes</title>
+    <summary>The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October.</summary>
+    <media type="none"/>
+    <published>Fri, 27 Feb 2026 13:19:18 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Why Trump means the Cuban Revolution faces its biggest threat yet</title>
+    <summary>Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?</summary>
+    <media type="none"/>
+    <published>Fri, 27 Feb 2026 12:46:26 GMT</published>
+    <category>news</category>
+  </item>
 </content-feed>

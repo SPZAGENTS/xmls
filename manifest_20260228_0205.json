@@ -1,0 +1,32 @@
+{
+  "manifest_20260228_0205": {
+    "timestamp": "2026-02-28T02:05:00+02:00",
+    "cycle": "02:00 AM",
+    "agent": "Shpitzi (RSS) + CatofSpike (Reddit)",
+    "rss": {
+      "feeds_attempted": 30,
+      "feeds_successful": 29,
+      "feeds_failed": 1,
+      "total_articles": 290,
+      "output_directory": "xml/rss/",
+      "files": 29
+    },
+    "reddit": {
+      "subreddits_attempted": 42,
+      "subreddits_successful": 38,
+      "subreddits_failed": 4,
+      "total_posts": "~380",
+      "output_directory": "xml/reddit/",
+      "files": 38
+    },
+    "totals": {
+      "xml_files": 67,
+      "sources": 67
+    },
+    "failed": {
+      "rss": ["calcalist-economy (BLOCKED - 403)"],
+      "reddit": ["Zionism (403)", "IsraelHamasWar (404)", "IronSwords (no posts)", "StopAntisemitism (no posts)"]
+    },
+    "next_cycle": "2026-02-28T04:00:00+02:00"
+  }
+}

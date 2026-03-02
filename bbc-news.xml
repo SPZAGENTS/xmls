@@ -1,10 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?
-<content-feed>
-  <source>bbc-news</source>
-  <source-type>rss</source-type>
-  <feed-url>https://feeds.bbci.co.uk/news/rss.xml</feed-url>
-  <language>en</language>
-  <generated>2026-02-28T08:05:00+02:00</generated>
-  <count>0</count>
-  <status>ready-for-fetch</status>
+<?xml version="1.0" encoding="utf-8"?>
+<content-feed source="bbc-news" generated="2026-02-28T14:08:24.459302" count="37">
+  <item>
+    <title>What we know about the joint US-Israel attack on Iran</title>
+    <summary>Iran has retaliated with a missile barrage towards Israel, while explosions have been heard in Qatar, Bahrain, Saudi Arabia, and the UAE.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 11:28:16 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Starmer chairs Cobra meeting over US-Israeli strikes on Iran</title>
+    <summary>A government spokesperson says it does not want "further escalation" as air travel disrupted.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 11:49:42 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Polanski and Farage don't agree. But they have more in common than you might think</title>
+    <summary>Despite huge political differences, the Green and Reform leaders have much in common, writes Laura Kuenssberg.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 10:44:57 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>The third man who links Andrew with Jeffrey Epstein</title>
+    <summary>For nearly a decade, David Stern acted as a key conduit between Jeffrey Epstein and Andrew Mountbatten-Windsor.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 06:00:27 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes</title>
+    <summary>The former president told the committee that he would never have flown on Epstein's plane if he "had any inkling of what he was doing".</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 03:43:56 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Mahmood to press on with immigration reforms despite by-election defeat</title>
+    <summary>The home secretary is to double down on plans for Danish-style restrictions on asylum seekers.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 10:06:30 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Captured off guard: The art of the snatched backseat car photo</title>
+    <summary>Andrew Mountbatten-Windsor is the latest in a long line of famous people photographed in the back of a car.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 00:00:55 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Formula 1's new golden age of celebrity may have just begun</title>
+    <summary>As the eighth series of Netflix's hugely popular Drive To Survive is released this weekend, has Formula 1 become one big star playground?</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 00:01:44 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>'It feels like my brain is trying to be the class clown' - the reality of Tourette's</title>
+    <summary>After a week of Tourette's in the spotlight, BBC News speaks to people with the condition about what it's like to live with.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 00:01:30 GMT</published>
+    <category>news</category>
+  </item>
+  <item>
+    <title>Resident Evil Requiem's director on redefining the survival horror genre</title>
+    <summary>Director Koshi Nakanishi says balancing action and horror within the game has been a huge challenge.</summary>
+    <media type="none"/>
+    <published>Sat, 28 Feb 2026 00:01:19 GMT</published>
+    <category>news</category>
+  </item>
 </content-feed>
