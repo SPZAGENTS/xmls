@@ -236,50 +236,89 @@
             timeZone: 'Asia/Jerusalem'
         }) + ' IST';
 
-        // Iran Chart
+        // Iran Chart - Fixed with logarithmic scale for wide data range
         const iranCtx = document.getElementById('iranChart').getContext('2d');
-        new Chart(iranCtx, {
+        
+        // Destroy existing chart if it exists
+        if (window.iranChartInstance) {
+            window.iranChartInstance.destroy();
+        }
+        
+        window.iranChartInstance = new Chart(iranCtx, {
             type: 'bar',
             data: {
-                labels: ['Medium-Range\n(Israel-capable)', 'Short-Range\n(Gulf region)', 'Post-War\nReplenishment'],
+                labels: ['Medium-Range (Israel)', 'Short-Range (Regional)', 'Monthly Production'],
                 datasets: [{
-                    label: 'Estimated Inventory',
+                    label: 'Missile Count',
                     data: [2250, 7000, 100],
                     backgroundColor: [
-                        'rgba(239, 68, 68, 0.8)',
-                        'rgba(239, 68, 68, 0.5)',
-                        'rgba(34, 197, 94, 0.8)'
+                        'rgba(239, 68, 68, 0.9)',
+                        'rgba(239, 68, 68, 0.6)',
+                        'rgba(34, 197, 94, 0.9)'
                     ],
                     borderColor: [
                         'rgba(239, 68, 68, 1)',
                         'rgba(239, 68, 68, 0.8)',
                         'rgba(34, 197, 94, 1)'
                     ],
-                    borderWidth: 1
+                    borderWidth: 2,
+                    borderRadius: 4
                 }]
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
+                animation: {
+                    duration: 1000,
+                    easing: 'easeOutQuart'
+                },
                 plugins: {
-                    legend: { display: false },
+                    legend: { 
+                        display: true,
+                        labels: { color: '#94a3b8', font: { size: 11 } }
+                    },
                     tooltip: {
+                        backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                        titleColor: '#94a3b8',
+                        bodyColor: '#e2e8f0',
+                        borderColor: 'rgba(59, 130, 246, 0.3)',
+                        borderWidth: 1,
                         callbacks: {
                             label: function(context) {
-                                return context.parsed.y.toLocaleString() + ' missiles';
+                                return ' ' + context.parsed.y.toLocaleString() + ' missiles';
                             }
                         }
                     }
                 },
                 scales: {
                     y: {
-                        beginAtZero: true,
-                        grid: { color: 'rgba(255,255,255,0.1)' },
-                        ticks: { color: '#94a3b8' }
+                        type: 'logarithmic',
+                        min: 50,
+                        max: 10000,
+                        grid: { 
+                            color: 'rgba(255,255,255,0.05)',
+                            drawBorder: false
+                        },
+                        ticks: { 
+                            color: '#94a3b8',
+                            callback: function(value) {
+                                return value >= 1000 ? (value/1000) + 'K' : value;
+                            }
+                        },
+                        title: {
+                            display: true,
+                            text: 'Missile Count (Log Scale)',
+                            color: '#64748b',
+                            font: { size: 10 }
+                        }
                     },
                     x: {
                         grid: { display: false },
-                        ticks: { color: '#94a3b8', font: { size: 10 } }
+                        ticks: { 
+                            color: '#94a3b8', 
+                            font: { size: 10 },
+                            maxRotation: 0
+                        }
                     }
                 }
             }
