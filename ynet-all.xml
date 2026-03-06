@@ -3,7 +3,7 @@
   <title>Ynet All Articles — Complete Feed</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-03-06T02:05:38.834375</last-updated>
+  <last-updated>2026-03-06T04:06:56.604951</last-updated>
   <article-count>50</article-count>
   <items>
     <item>
@@ -103,6 +103,14 @@
       <priority-score>105</priority-score>
     </item>
     <item>
+      <title>"התכוננו 47 שנים": הכורדים נערכים לתקוף באיראן | זה הסיוע שהם מבקשים מארה"ב</title>
+      <link>https://www.ynet.co.il/news/article/b1tw00jvy11g</link>
+      <description>ארגוני אופוזיציה כורדיים-איראניים בצפון עיראק מתכננים לחצות את הגבול אל איראן, אך הדגישו כי זה לא צפוי לקרות בימים הקרובים. "צריכים שהשמיים ינוקו ושמחסני הנשק של המשטר יושמדו", אמרה לוחמת ב-PAK בשיחה עם BBC. סגן נשיא KDPI, הוסיף: "התקיפות של ישראל וארה"ב - יעזרו לנו להיכנס"</description>
+      <pubDate>Fri, 06 Mar 2026 03:58:57 +0200</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
+    </item>
+    <item>
       <title>צבא ארה"ב עובר ל"שלב הבא" במלחמה מול איראן: "כמות האש תגדל דרמטית"</title>
       <link>https://www.ynet.co.il/news/article/b1nkfkwkze</link>
       <description>מפקד פיקוד המרכז האמריקני חשף כי מפציצי B-2 תקפו אתרי טילים בליסטיים מתחת לאדמה - עם עשרות פצצות חודרות. "הנשיא נתן משימה נוספת, להשמיד את בסיס התעשייה של הטילים. נפרק את הייצור של איראן", אמר. שר המלחמה הגסת': "איראן טועה בגדול אם היא חושבת שלא נוכל להמשיך, אנחנו רק התחלנו"</description>
@@ -131,14 +139,6 @@
       <link>https://www.ynet.co.il/news/article/yokra14700547</link>
       <description>היכולות של חיל האוויר מוכרות לרבים, אך פעילות טייסת 120 - טייסת התדלוק - ידועה למעטים. 550 תדלוקים אוויריים בוצעו בשמי המזרח התיכון מתחילת המלחמה נגד איראן, ובלעדיהם מטוסי הקרב לא היו מגיעים ליעדם. רס"ן במיל' א', טייס בטייסת: "כל תדלוק חייב להסתיים במיקום מדויק ובשנייה מדויקת"</description>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>95</priority-score>
-    </item>
-    <item>
-      <title>הרמטכ"ל על המערכה באיראן: "בידינו מהלכים מפתיעים נוספים שלא אחשוף"</title>
-      <link>https://www.ynet.co.il/news/article/hyxf9bwk11e</link>
-      <description>רא"ל זמיר שיבח את המעורבים במתקפה על הרפובליקה האיסלאמית: "המבצע תוכנן בחשאיות על-ידי אלפי חיילות וחיילים מהמערכים השונים בצה"ל". על טייסי חיל האוויר: "סללו את הדרך לטהרן בתוך 24 שעות". על השלב הבא: "נגביר את הפגיעה ביסודות המשטר". על זירת לבנון: "לא נרפה מהיעד של פירוק חיזבאללה"</description>
-      <pubDate>Thu, 05 Mar 2026 20:49:57 +0200</pubDate>
       <source>ynet-main-news</source>
       <priority-score>95</priority-score>
     </item>
@@ -351,42 +351,18 @@
       <priority-score>80</priority-score>
     </item>
     <item>
+      <title>ארגוני אופוזיציה כורדיים ל-BBC: "מתכננים לחצות את הגבול לאיראן"</title>
+      <link>https://www.ynet.co.il/news/article/hjix00jwkwx</link>
+      <description />
+      <pubDate>Fri, 06 Mar 2026 03:17:21 +0200</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>75</priority-score>
+    </item>
+    <item>
       <title>סעודיה: יירטנו שלושה טילים בליסטיים ששיגרה איראן</title>
       <link>https://www.ynet.co.il/news/article/r1b00rtpywx</link>
       <description />
       <pubDate>Fri, 06 Mar 2026 01:15:46 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>75</priority-score>
-    </item>
-    <item>
-      <title>הגסת': "כמות האש באיראן תגדל. נוכל לפעול מעוד בסיסים"</title>
-      <link>https://www.ynet.co.il/news/article/bjuovkvkwg</link>
-      <description />
-      <pubDate>Fri, 06 Mar 2026 00:36:31 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>75</priority-score>
-    </item>
-    <item>
-      <title>דיווחים: פיצוצים במרכז איראן</title>
-      <link>https://www.ynet.co.il/news/article/bkenvypywx</link>
-      <description />
-      <pubDate>Fri, 06 Mar 2026 00:33:40 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>75</priority-score>
-    </item>
-    <item>
-      <title>מפקד סנטקום: "מפציצי B-2 הטילו עשרות פצצות חודרות באיראן בשעה האחרונה"</title>
-      <link>https://www.ynet.co.il/news/article/b1z7xkvtbl</link>
-      <description />
-      <pubDate>Fri, 06 Mar 2026 00:19:52 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>75</priority-score>
-    </item>
-    <item>
-      <title>שר ההגנה האמריקני על איראן: "רק התחלנו להילחם - ובאופן מכריע"</title>
-      <link>https://www.ynet.co.il/news/article/ryrykfdywe</link>
-      <description />
-      <pubDate>Fri, 06 Mar 2026 00:13:43 +0200</pubDate>
       <source>ynet-breaking-news</source>
       <priority-score>75</priority-score>
     </item>
@@ -405,6 +381,30 @@
       <pubDate>Thu, 05 Mar 2026 23:59:56 +0200</pubDate>
       <source>ynet-main-news</source>
       <priority-score>75</priority-score>
+    </item>
+    <item>
+      <title>סכנת הארי</title>
+      <link>https://www.ynet.co.il/news/article/hjo7xrrtbg</link>
+      <description>האתגר האמיתי העומד כיום לפני הנושאים ונותנים מול איראן הוא גיבוש הסכם לסיום מערכה בהגיון רשת ולא יריעה עמידה. הסכם רשת שהחוטים שבו יהוו תמריץ מספק לאיראן לחתום עליו היום, והחורים שבו ייצרו את התשתית לפירוק המשטר, בעתיד הנראה לעין</description>
+      <pubDate>Wed, 04 Mar 2026 17:36:27 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>75</priority-score>
+    </item>
+    <item>
+      <title>בעידן ה-AI, תוצאות הבחירות של 2026 ייקבעו הרבה לפני שנגיע לקלפי</title>
+      <link>https://www.ynet.co.il/digital/technology/article/hyl8j9jbwe</link>
+      <description>בעידן שבו בינה מלאכותית יודעת לייצר סרטונים, קולות וסיפורים שנראים אמיתיים לגמרי, הבחירות כבר לא מוכרעות רק בקלפי. בלי חקיקה מעודכנת ובלי הבנה של שדה הקרב הדיגיטלי החדש ושלל השחקנים שבו, טוהר הבחירות עלול להפוך לעוד סיסמה ריקה | דעה</description>
+      <pubDate>Mon, 19 Jan 2026 14:12:07 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>75</priority-score>
+    </item>
+    <item>
+      <title>צה"ל החל בגל תקיפות "נרחב" נוסף בטהרן</title>
+      <link>https://www.ynet.co.il/news/article/s1nlq3wk11l</link>
+      <description />
+      <pubDate>Fri, 06 Mar 2026 03:54:52 +0200</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>70</priority-score>
     </item>
   </items>
 </content-feed>
