@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<content-feed>
+  <title>SPZ Video Feed — Top 10 Downloaded Videos</title>
+  <source>youtube-downloads</source>
+  <type>video-feed</type>
+  <generated>2026-03-07T08:35:00+00:00</generated>
+  <video-count>180+</video-count>
+  <local-path>C:\Users\yosia\.openclaw\workspace\videos\youtube\</local-path>
+  <items>
+    <item>
+      <title>Iran war footage compilation</title>
+      <video-id>yt_2VYQ9p2ubSM</video-id>
+      <file>yt_2VYQ9p2ubSM.mp4</file>
+      <size>17.0 MB</size>
+      <score>10.0</score>
+      <url>https://www.youtube.com/watch?v=2VYQ9p2ubSM</url>
+      <downloaded>2026-03-07T06:01:00+00:00</downloaded>
+      <keywords>israel,iran,war,missile</keywords>
+    </item>
+    <item>
+      <title>US-Israel-Iran war developments</title>
+      <video-id>yt_O-zL2FMxLVw</video-id>
+      <file>yt_O-zL2FMxLVw.mp4</file>
+      <size>17.8 MB</size>
+      <score>10.0</score>
+      <url>https://www.youtube.com/watch?v=O-zL2FMxLVw</url>
+      <downloaded>2026-03-07T06:00:00+00:00</downloaded>
+      <keywords>israel,iran,trump,war</keywords>
+    </item>
+    <item>
+      <title>Iran missile launch footage</title>
+      <video-id>yt_SY6UwqEHb7U</video-id>
+      <file>yt_SY6UwqEHb7U.mp4</file>
+      <size>1.7 MB</size>
+      <score>10.0</score>
+      <url>https://www.youtube.com/watch?v=SY6UwqEHb7U</url>
+      <downloaded>2026-03-07T06:00:00+00:00</downloaded>
+      <keywords>iran,missile,launch,attack</keywords>
+    </item>
+    <item>
+      <title>Israel-Iran conflict update</title>
+      <video-id>yt_ACuvGTc4yG4</video-id>
+      <file>yt_ACuvGTc4yG4.mp4</file>
+      <size>17.4 MB</size>
+      <score>10.0</score>
+      <url>https://www.youtube.com/watch?v=ACuvGTc4yG4</url>
+      <downloaded>2026-03-07T08:02:00+00:00</downloaded>
+      <keywords>israel,iran,conflict,update</keywords>
+    </item>
+    <item>
+      <title>Beirut airstrike footage</title>
+      <video-id>yt_lt0E89Qb06k</video-id>
+      <file>yt_lt0E89Qb06k.mp4</file>
+      <size>9.2 MB</size>
+      <score>10.0</score>
+      <url>https://www.youtube.com/watch?v=lt0E89Qb06k</url>
+      <downloaded>2026-03-07T08:02:00+00:00</downloaded>
+      <keywords>beirut,airstrike,lebanon,war</keywords>
+    </item>
+    <item>
+      <title>Iran-Israel war analysis</title>
+      <video-id>yt_udnz1YZJHtQ</video-id>
+      <file>yt_udnz1YZJHtQ.mp4</file>
+      <size>6.8 MB</size>
+      <score>8.5</score>
+      <url>https://www.youtube.com/watch?v=udnz1YZJHtQ</url>
+      <downloaded>2026-03-07T08:02:00+00:00</downloaded>
+      <keywords>iran,israel,analysis,war</keywords>
+    </item>
+    <item>
+      <title>Hezbollah rocket attack</title>
+      <video-id>yt_Hk6V36VNSrY</video-id>
+      <file>yt_Hk6V36VNSrY.mp4</file>
+      <size>4.3 MB</size>
+      <score>8.5</score>
+      <url>https://www.youtube.com/watch?v=Hk6V36VNSrY</url>
+      <downloaded>2026-03-07T08:02:00+00:00</downloaded>
+      <keywords>hezbollah,rocket,attack,lebanon</keywords>
+    </item>
+    <item>
+      <title>Tehran explosions coverage</title>
+      <video-id>yt_lstswzboEcE</video-id>
+      <file>yt_lstswzboEcE.mp4</file>
+      <size>835 KB</size>
+      <score>8.5</score>
+      <url>https://www.youtube.com/watch?v=lstswzboEcE</url>
+      <downloaded>2026-03-07T08:02:00+00:00</downloaded>
+      <keywords>tehran,explosions,iran,attack</keywords>
+    </item>
+    <item>
+      <title>Middle East war update</title>
+      <video-id>yt_oQMB1hh5eu0</video-id>
+      <file>yt_oQMB1hh5eu0.mp4</file>
+      <size>78.9 MB</size>
+      <score>8.5</score>
+      <url>https://www.youtube.com/watch?v=oQMB1hh5eu0</url>
+      <downloaded>2026-03-07T06:01:00+00:00</downloaded>
+      <keywords>middle,east,war,update</keywords>
+    </item>
+    <item>
+      <title>Iran military response</title>
+      <video-id>yt_k9zjGEEPFDs</video-id>
+      <file>yt_k9zjGEEPFDs.mp4</file>
+      <size>154.8 MB</size>
+      <score>8.5</score>
+      <url>https://www.youtube.com/watch?v=k9zjGEEPFDs</url>
+      <downloaded>2026-03-07T06:00:00+00:00</downloaded>
+      <keywords>iran,military,response,attack</keywords>
+    </item>
+  </items>
+  <stats>
+    <total-videos>180+</total-videos>
+    <total-size>~15 GB</total-size>
+    <high-priority>10.0</high-priority>
+    <medium-priority>8.5</medium-priority>
+    <keywords-top>israel,iran,war,beirut,tehran,missile,airstrike</keywords-top>
+  </stats>
+</content-feed>
