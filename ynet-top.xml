@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-07T08:03:24.908425</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-07T08:58:17.644125</generated>
   <items>
     <item>
       <title>Thousands of new targets acquired: what the next phase of the Iran war could look like</title>
       <link>https://www.ynetnews.com/article/r1are4utwg</link>
-      <description>After a week focused on missile launchers and stockpiles, Israel and the United States are shifting to strike Iran’s military industry, targeting factories, assembly plants and supply chains behind its missiles and drones in a bid to cripple production</description>
+      <summary>After a week focused on missile launchers and stockpiles, Israel and the United States are shifting to strike Iran’s military industry, targeting factories, assembly plants and supply chains behind its missiles and drones in a bid to cripple production</summary>
       <pubDate>Fri, 06 Mar 2026 13:01:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>135</priority-score>
+      <priority>135</priority>
     </item>
     <item>
       <title>Iran and Hezbollah launched coordinated missile attack to overwhelm Israeli air defenses, IDF says</title>
       <link>https://www.ynetnews.com/article/hkj2gfokzl</link>
-      <description>In recent days, the number of missiles fired toward Israel from Iran has declined compared with the early days of the war; at the same time, rocket and drone launches by Hezbollah from Lebanon have increased</description>
+      <summary>In recent days, the number of missiles fired toward Israel from Iran has declined compared with the early days of the war; at the same time, rocket and drone launches by Hezbollah from Lebanon have increased</summary>
       <pubDate>Fri, 06 Mar 2026 18:42:20 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>'Next phase' of war begins: IDF strikes highly sensitive defense industry site in Iran</title>
       <link>https://www.ynetnews.com/article/rycvtudkwl</link>
-      <description>Airstrike hits the Parchin defense site near Tehran, long tied to missile production and suspected nuclear weapons research, as Israel expands attacks on Iran’s military industry</description>
+      <summary>Airstrike hits the Parchin defense site near Tehran, long tied to missile production and suspected nuclear weapons research, as Israel expands attacks on Iran’s military industry</summary>
       <pubDate>Fri, 06 Mar 2026 15:49:45 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>With focus on Iran, IDF turns to deception against Hamas in Gaza</title>
       <link>https://www.ynetnews.com/article/skicmuoyzx</link>
-      <description>While Israel’s focus and resources shift to Iran and Lebanon, troops in Gaza continue facing Hamas attempts to regroup and challenge positions along yellow line, using ruses and creative tactics to offset reduced air support and keep terrorists off balance</description>
+      <summary>While Israel’s focus and resources shift to Iran and Lebanon, troops in Gaza continue facing Hamas attempts to regroup and challenge positions along yellow line, using ruses and creative tactics to offset reduced air support and keep terrorists off balance</summary>
       <pubDate>Fri, 06 Mar 2026 15:31:15 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Watch: with Khamenei gone, IDF obliterates Iranian supreme leader’s Tehran bunker in massive airstrike</title>
       <link>https://www.ynetnews.com/article/syay8rutbg</link>
-      <description>About 50 Israeli fighter jets dropped more than 100 munitions on vast underground command complex beneath Iran’s leadership compound in Tehran, military says</description>
+      <summary>About 50 Israeli fighter jets dropped more than 100 munitions on vast underground command complex beneath Iran’s leadership compound in Tehran, military says</summary>
       <pubDate>Fri, 06 Mar 2026 14:28:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran missile fire downed over southern Israel; Katz vows to 'defeat Hezbollah' as north battered</title>
       <link>https://www.ynetnews.com/article/h1hooedkbe</link>
-      <description>No injuries reported in barrage toward Negev and Dead Sea area; IDF strikes highly sensitive defense industry sites in Iran; Hezbollah launches rockets and drones along northern border, setting off warnings from Lebanon frontier to Haifa</description>
+      <summary>No injuries reported in barrage toward Negev and Dead Sea area; IDF strikes highly sensitive defense industry sites in Iran; Hezbollah launches rockets and drones along northern border, setting off warnings from Lebanon frontier to Haifa</summary>
       <pubDate>Fri, 06 Mar 2026 13:41:53 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>'Maximum precision, seconds to execute': how Israeli jets refuel midair on their way to strike Iran</title>
       <link>https://www.ynetnews.com/article/s1zmp4ofze</link>
-      <description>Aerial refueling keeps Israeli jets flying deep into Iran: the 120th Squadron has carried out 550-plus midair refuelings since the war began, with crews given only seconds to connect the boom and minutes to fuel aircraft before strikes continue</description>
+      <summary>Aerial refueling keeps Israeli jets flying deep into Iran: the 120th Squadron has carried out 550-plus midair refuelings since the war began, with crews given only seconds to connect the boom and minutes to fuel aircraft before strikes continue</summary>
       <pubDate>Fri, 06 Mar 2026 13:28:38 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Watch: Iranian TV reporter flees live on air as Israeli strike hits again</title>
       <link>https://www.ynetnews.com/article/rydwofoybx</link>
-      <description>State broadcaster correspondent reporting from a bombed neighborhood in Tehran interrupted by fresh explosions during live broadcast as Israel carries out its 14th wave of strikes on the capital and US-Israeli attacks expand across Iran</description>
+      <summary>State broadcaster correspondent reporting from a bombed neighborhood in Tehran interrupted by fresh explosions during live broadcast as Israel carries out its 14th wave of strikes on the capital and US-Israeli attacks expand across Iran</summary>
       <pubDate>Fri, 06 Mar 2026 11:24:13 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Wave of strikes in Beirut’s Dahieh; US says B-2 bombers hit underground missile sites, 30 Iranian vessels sunk</title>
       <link>https://www.ynetnews.com/article/rj1ac5vt11l</link>
-      <description>US says B-2 bombers struck Iran’s underground missile facilities as Israeli airstrikes pounded Beirut’s Dahieh; Iranian vessels reported sunk and regional tensions escalate</description>
+      <summary>US says B-2 bombers struck Iran’s underground missile facilities as Israeli airstrikes pounded Beirut’s Dahieh; Iranian vessels reported sunk and regional tensions escalate</summary>
       <pubDate>Fri, 06 Mar 2026 02:43:17 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran launches barrage; drone found at Nahariya hospital parking lot as CENTCOM says 3,000 targets hit</title>
       <link>https://www.ynetnews.com/article/h1qcdetyzl</link>
-      <description>Millions in central Israel rushed to shelters three times overnight as sirens sounded across the country; US military says more than 3,000 targets hit in Iran during first week of war; Trump: 'Two sets of their leaders are gone'</description>
+      <summary>Millions in central Israel rushed to shelters three times overnight as sirens sounded across the country; US military says more than 3,000 targets hit in Iran during first week of war; Trump: 'Two sets of their leaders are gone'</summary>
       <pubDate>Sat, 07 Mar 2026 07:44:43 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
+      <priority>125</priority>
     </item>
   </items>
 </content-feed>
