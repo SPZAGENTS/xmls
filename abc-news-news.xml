@@ -2,7 +2,7 @@
 <content-feed>
   <title>abc-news — Top 10</title>
   <source>abc-news</source>
-  <generated>2026-03-07T08:33:39.375257</generated>
+  <generated>2026-03-07T09:01:21.716639</generated>
   <items>
     <item>
       <title>Pakistani Shiites rally to denounce US-Israeli strikes on Iran as US Embassy issues a security alert</title>
@@ -10,6 +10,10 @@
       <summary>Hundreds of minority Shiites are rallying in Pakistan&amp;rsquo;s capital and elsewhere in the country to denounce the killing of Iran&amp;rsquo;s Supreme Leader Ayatollah Ali Khamenei in a U.S.-Israeli campaign as the U.S. Embassy In Islamabad issued a security alert war...</summary>
       <pubDate>Fri, 06 Mar 2026 08:00:19 -0500</pubDate>
       <priority>155</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_c12ae0aab03d78a40c3a1834265c4500_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Japan, Canada sign strategic agreement in defense and energy as war in Mideast fuels oil concerns</title>
@@ -17,13 +21,10 @@
       <summary>Japan and Canada have signed a strategic agreement aimed at strengthening cooperation in defense, economic and energy security as military strikes on Iran by the United States and Israel fueled concern about international oil supplies</summary>
       <pubDate>Fri, 06 Mar 2026 10:11:22 -0500</pubDate>
       <priority>125</priority>
-    </item>
-    <item>
-      <title>Men arrested on suspicion of aiding Iran by spying on Jewish community</title>
-      <link>https://abcnews.com/International/wireStory/london-police-4-men-arrested-suspicion-aiding-iran-130816069</link>
-      <summary>London police say four men have been arrested on suspicion of aiding Iran by spying on the Jewish community</summary>
-      <pubDate>Fri, 06 Mar 2026 03:48:27 -0500</pubDate>
-      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>US imposes visa restrictions on Rwandan officials after sanctions targeting military</title>
@@ -31,6 +32,21 @@
       <summary>The U.S. is imposing visa restrictions on &amp;ldquo;several senior Rwandan officials for fueling instability&amp;rdquo; in eastern Congo, the State Department said on Friday, intensifying pressure on the East African country after sanctions announced earlier this week</summary>
       <pubDate>Fri, 06 Mar 2026 18:17:14 -0500</pubDate>
       <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Motorists stranded and military deployed after heavy rains pound Kenyan capital overnight</title>
+      <link>https://abcnews.com/International/wireStory/motorists-stranded-military-deployed-after-heavy-rains-pound-130850789</link>
+      <summary>Motorists in the Kenyan capital were stranded for hours after roads were flooded following heavy rains overnight</summary>
+      <pubDate>Sat, 07 Mar 2026 01:38:41 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Islamic militants abduct more than 300 people in northeastern Nigeria, officials say</title>
@@ -38,6 +54,10 @@
       <summary>Local officials say Islamic militants attacked a town in northeastern Nigeria, abducting more than 300 people, including women and children</summary>
       <pubDate>Fri, 06 Mar 2026 11:34:54 -0500</pubDate>
       <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_a7f5f647c4a7c9d23120e051aa69d099_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Pakistan, Afghanistan claim killing dozens of other's troops in relentless fighting</title>
@@ -45,6 +65,10 @@
       <summary>Pakistani and Afghan officials say their forces have launched multiple strikes at each other in cross-border clashes, with each side claiming to have killed dozens more enemy troops in what has been the deadliest fighting yet between the two neighbors</summary>
       <pubDate>Fri, 06 Mar 2026 10:02:01 -0500</pubDate>
       <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_c4aa84f196db202fc124578a039ae3c4_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>UN report says Ugandan troops helped South Sudan with deadly airstrikes</title>
@@ -52,27 +76,43 @@
       <summary>A U.N. inquiry says Uganda helped South Sudan carry out airstrikes that killed and badly burned civilians in opposition areas</summary>
       <pubDate>Fri, 06 Mar 2026 08:16:48 -0500</pubDate>
       <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_06b0a8c13d1c680976c09bd2ea7ac279_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Bank employees detained and cash seized in Hungary, Ukraine says</title>
-      <link>https://abcnews.com/International/wireStory/bank-employees-detained-cash-seized-hungary-ukraine-130816789</link>
-      <summary>Ukraine is accusing Hungary of detaining seven Ukrainian bank workers and seizing a major cash-and-gold shipment during a convoy trip across Hungary</summary>
-      <pubDate>Fri, 06 Mar 2026 04:24:21 -0500</pubDate>
-      <priority>70</priority>
-    </item>
-    <item>
-      <title>Kosovo president moves to dissolve Parliament for early election as country plunges into new crisis</title>
-      <link>https://abcnews.com/International/wireStory/kosovo-president-moves-dissolve-parliament-early-election-country-130816957</link>
-      <summary>Kosovo President Vjosa Osmani says she is dissolving Parliament to pave the way for an early election after lawmakers failed to elect her successor</summary>
-      <pubDate>Fri, 06 Mar 2026 06:22:51 -0500</pubDate>
-      <priority>55</priority>
-    </item>
-    <item>
-      <title>Canadian Prime Minister Mark Carney calls for Mountbatten-Windsor's removal from line of succession</title>
-      <link>https://abcnews.com/International/wireStory/canadian-prime-minister-mark-carney-calls-mountbatten-windsors-130845000</link>
-      <summary>Canadian Prime Minister Mark Carney says Andrew Mountbatten-Windsor should be removed from the royal line of succession for his &amp;ldquo;deplorable&amp;rdquo; actions</summary>
-      <pubDate>Fri, 06 Mar 2026 21:11:05 -0500</pubDate>
+      <title>Hong Kong firm seeks $2 billion over Panama's takeover of 2 key canal ports</title>
+      <link>https://abcnews.com/International/wireStory/hong-kong-firm-seeks-2-billion-panamas-takeover-130851245</link>
+      <summary>A subsidiary of a Hong Kong-based company that has lost control of two critical ports on the Panama Canal says it is seeking $2 billion of compensation in damages from Panama over its &amp;ldquo;illegal&amp;rdquo; takeover of the ports</summary>
+      <pubDate>Sat, 07 Mar 2026 01:38:30 -0500</pubDate>
       <priority>50</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_67b0e8643f6a25f0277be0bb28afdb73_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ex-rapper's political party leads early results in Nepal's first election since 2025 youth revolt</title>
+      <link>https://abcnews.com/International/wireStory/rappers-political-party-leads-early-results-nepals-election-130850447</link>
+      <summary>Preliminary and partial results show that a new political party led by an ex-rapper leading Nepal&amp;rsquo;s parliamentary election, the country&amp;rsquo;s first since last year&amp;rsquo;s youth-led revolt</summary>
+      <pubDate>Sat, 07 Mar 2026 01:32:04 -0500</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_aac242077d2dd052e7e9bdd7c088ccc9_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Women in South Africa take up guns and martial arts for protection against gender violence</title>
+      <link>https://abcnews.com/International/wireStory/women-south-africa-guns-martial-arts-protection-gender-130848641</link>
+      <summary>Women in South Africa are turning to guns and martial arts for self-defense in a country where rates of gender-based violence are extremely high</summary>
+      <pubDate>Sat, 07 Mar 2026 01:32:38 -0500</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_c9cf88c04bcd59f83eee495170c7cf98_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
   </items>
 </content-feed>

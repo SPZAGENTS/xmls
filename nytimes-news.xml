@@ -2,7 +2,7 @@
 <content-feed>
   <title>nytimes — Top 10</title>
   <source>nytimes</source>
-  <generated>2026-03-07T08:33:36.353631</generated>
+  <generated>2026-03-07T09:01:17.705574</generated>
   <items>
     <item>
       <title>As Trump Out-Putins Putin, Russia’s Global Influence Erodes</title>
@@ -10,6 +10,10 @@
       <summary>The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russia’s partnerships.</summary>
       <pubDate>Fri, 06 Mar 2026 11:38:53 +0000</pubDate>
       <priority>135</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/04/multimedia/00int-russia-iran-01-ctzp/00int-russia-iran-01-ctzp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Iran’s Friends Include China and Russia. But Where are They Now?</title>
@@ -17,6 +21,10 @@
       <summary>Iran maintains ties with a range of countries, including Turkey, India, Russia and China. Yet in this war, their support is mostly rhetoric.</summary>
       <pubDate>Thu, 05 Mar 2026 10:04:24 +0000</pubDate>
       <priority>130</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/05/multimedia/05int-iran-friends-01-lqbv/05int-iran-friends-01-lqbv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>For Xi, Trump’s Embrace of War Proves China Needs More Power</title>
@@ -24,13 +32,21 @@
       <summary>China is learning lessons from the war in Iran. Chief among them, the United States may pose an even greater threat than Beijing thought.</summary>
       <pubDate>Sat, 07 Mar 2026 05:15:46 +0000</pubDate>
       <priority>125</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-china-iran-power-pjtc/07int-china-iran-power-pjtc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Live Updates: New Wave of Airstrikes Batters Tehran</title>
+      <title>New Airstrikes Batter Tehran</title>
       <link>https://www.nytimes.com/live/2026/03/06/world/iran-war-trump-israel-lebanon</link>
       <summary>The Israeli military said it had sent a broad wave of strikes at the Iranian capital early Saturday. Some strikes hit an area near the Mehrabad Airport. Footage shared on state media showed multiple explosions and columns of smoke.</summary>
-      <pubDate>Sat, 07 Mar 2026 06:25:05 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 06:54:41 +0000</pubDate>
       <priority>125</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/06/multimedia/06iran-live-promo-2355EST-lvmw/06iran-live-promo-2355EST-lvmw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Lebanon at ‘Tipping Point’ as It Seeks to Disarm Hezbollah</title>
@@ -38,13 +54,21 @@
       <summary>The country is waiting to see if the government seizes on this moment to disarm the Iranian-backed armed group and how the militants will respond.</summary>
       <pubDate>Fri, 06 Mar 2026 08:59:40 +0000</pubDate>
       <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/06/multimedia/06int-lebanon-internal-6-jtqm/06int-lebanon-internal-6-jtqm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Iran’s Drone Attacks Plague the Gulf States</title>
       <link>https://www.nytimes.com/2026/03/06/world/middleeast/persian-gulf-states-air-defense-iran.html</link>
       <summary>Missile launches from Iran have slowed, but relentless drone volleys could deplete air defenses in the region.</summary>
-      <pubDate>Fri, 06 Mar 2026 17:50:32 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 06:39:34 +0000</pubDate>
       <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/06/multimedia/06int-iran-defense-1-wmvt/06int-iran-defense-1-wmvt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Israel Pushes Farther Into Lebanon, and Readies for More</title>
@@ -52,6 +76,10 @@
       <summary>Days into its offensive against Hezbollah, Israel is massing armored vehicles near the Lebanese border for a potentially much larger ground incursion.</summary>
       <pubDate>Fri, 06 Mar 2026 16:43:54 +0000</pubDate>
       <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/05/multimedia/05int-israel-north-01-qcft/05int-israel-north-01-qcft-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Defense Without U.S. Help Is a Live Topic for Canada, Japan and Australia</title>
@@ -59,6 +87,10 @@
       <summary>The leaders of Japan and Canada are making a unified front on defense cooperation as President Trump raises the pressure over military spending.</summary>
       <pubDate>Fri, 06 Mar 2026 16:40:27 +0000</pubDate>
       <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/06/multimedia/06int-carney-japan-kbqj/06int-carney-japan-kbqj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>‘Liquor Capital of China’ Is Trying to Save Its Fortunes</title>
@@ -66,6 +98,10 @@
       <summary>Once celebrated for its fiery spirits, the town of Maotai has reeled from a bad Chinese economy, changing tastes and a crackdown on boozy official banquets.</summary>
       <pubDate>Fri, 06 Mar 2026 15:04:55 +0000</pubDate>
       <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/02/22/multimedia/00int-china-maotai-dispatch-01-klpv/00int-china-maotai-dispatch-01-klpv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>South African President on Trump’s Oval Office ‘Ambush’ and ‘Racist’ Policies</title>
@@ -73,6 +109,10 @@
       <summary>In an interview with The New York Times, President Cyril Ramaphosa opened up about the role of middle powers, relations with Washington and apartheid.</summary>
       <pubDate>Thu, 05 Mar 2026 17:54:46 +0000</pubDate>
       <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/05/multimedia/05int-safrica-ramaphosa-interview-TOP-SWAP-wkml/05int-safrica-ramaphosa-interview-TOP-SWAP-wkml-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
   </items>
 </content-feed>
