@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-08T15:42:25.685638</generated>
+  <generated>2026-03-08T16:21:27.536851</generated>
   <items>
     <item>
       <title>PM is standing up for UK interests, says Cooper after Trump criticism</title>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'When you're with me, you're not bored' - Malard bringing sunshine to Man Utd</title>
-      <link>https://www.bbc.com/sport/football/articles/c5y678er1e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Sport meets Manchester United and France forward Melvine Malard to discover her story.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:11:33 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39aa/live/bcadf270-0a94-11f1-bcc6-0d256631bfbc.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e34/live/ef776040-1aef-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Our children paid the ultimate price': The school shooting that changed Britain</title>
+      <link>https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A new BBC documentary charts how the murders of 16 children and their teacher in March 1996 led to a handgun ban in the UK.</summary>
+      <pubDate>Sun, 08 Mar 2026 08:20:49 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3848/live/e1133140-1249-11f1-8b22-397efaf8a324.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
