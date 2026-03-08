@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-08T17:11:29.903047</generated>
+  <generated>2026-03-08T18:01:30.220926</generated>
   <items>
     <item>
       <title>Republican group attacks Thomas Massie for his opposition to Iran war</title>
@@ -56,17 +56,6 @@
       </media>
     </item>
     <item>
-      <title>Ties to Israel plague Democrats in top primaries post-Gaza</title>
-      <link>https://www.politico.com/news/2026/03/03/ties-to-israel-plague-democrats-in-top-primaries-post-gaza-00807240</link>
-      <summary>In Illinois, Texas and Michigan, candidates have been forced to address connections to Israel as support wanes among Democrats.</summary>
-      <pubDate>Tue, 03 Mar 2026 08:00:00 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/04/ef/f44952ae4d1e8bfab8f25aae6abb/israel-palestinians-settler-attack-14237.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>The rural Democrats who say their party has affordability all wrong</title>
       <link>https://www.politico.com/news/2026/03/07/rural-democrats-affordability-midterms-00818040</link>
       <summary>Two Democrats running long-shot campaigns in rural regions against GOP incumbents say their party isn't hitting the mark to address cost-of-living concerns.</summary>
@@ -105,6 +94,17 @@
       <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
       <pubDate>Fri, 06 Mar 2026 05:00:00 EST</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>'Good riddance': Dems cheer Noem’s ouster — and call for more departures</title>
+      <link>https://www.politico.com/news/2026/03/05/kristi-noem-ousted-democrats-response-00815206</link>
+      <summary>Democratic lawmakers said Stephen Miller and Pam Bondi should be next after President Donald Trump announced Kristi Noem would be stepping aside as DHS secretary.</summary>
+      <pubDate>Thu, 05 Mar 2026 16:16:48 EST</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static.politico.com/ab/cb/42f629ab4886ace13680250caf4d/u-s-congress-90859.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
   </items>
 </content-feed>
