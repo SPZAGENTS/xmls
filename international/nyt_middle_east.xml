@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-08T21:21:33.442843</generated>
+  <generated>2026-03-08T22:11:33.972628</generated>
   <items>
+    <item>
+      <title>Pentagon Announces Seventh U.S. Death in War With Iran</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html</link>
+      <summary>The service member killed was not publicly identified, but U.S. Central Command said the death was caused by injuries after an attack on a Saudi military base.</summary>
+      <pubDate>Sun, 08 Mar 2026 19:35:42 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-americans-killed-zphm/08iran-live-americans-killed-zphm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>U.S. Continues Airstrikes Against a Wide Array of Targets in Iran</title>
       <link>https://www.nytimes.com/2026/03/08/us/politics/airstrikes-iran.html</link>
       <summary>A senior U.S. military official said those targets included missile launchers and air-defense sites.</summary>
-      <pubDate>Sun, 08 Mar 2026 18:44:28 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 19:44:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08dc-airstrike-update-gfqb/08dc-airstrike-update-gfqb-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/07/multimedia/2026-03-07-isfahan-tunnel-animation-index/2026-03-07-isfahan-tunnel-animation-index-mediumSquareAt3X-v3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Strikes Oil Facilities in Iran</title>
-      <link>https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html</link>
-      <summary>Huge flames erupted into the sky over Tehran and a nearby city on Saturday.</summary>
-      <pubDate>Sun, 08 Mar 2026 08:44:20 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07iran-live-oil-attacks-mvtj/07iran-live-oil-attacks-mvtj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

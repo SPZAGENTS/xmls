@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-08T21:21:29.683963</generated>
+  <generated>2026-03-08T22:11:30.360018</generated>
   <items>
     <item>
       <title>Trump warns Iran’s new leader won’t ‘last long’ without his approval</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Balkans on edge: Kosovo political crisis sparks fears of renewed instability</title>
-      <link>https://www.foxnews.com/world/balkans-edge-kosovo-political-crisis-sparks-fears-renewed-instability</link>
-      <summary>Trump ally Kosovo President Osmani calls snap elections after parliamentary deadlock blocks presidential vote, creating political uncertainty in the Balkans.</summary>
-      <pubDate>Sun, 08 Mar 2026 12:01:26 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kosovo-vjosa-osmani-nato.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Air Force veteran warns 'cartels don’t collapse — they fracture' after notorious drug lord killed</title>
       <link>https://www.foxnews.com/us/air-force-veteran-warns-cartels-dont-collapse-fracture-after-notorious-drug-lord-killed</link>
       <summary>Death of cartel kingpin &amp;quot;El Mencho&amp;quot; marks major win against fentanyl trafficking, but expert says sustained pressure is still needed to combat cartels.</summary>
@@ -78,6 +67,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/el-mencho-mughsot-cjng.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump admin turns Venezuela into major US oil supplier as global shipping crisis eases</title>
+      <link>https://www.foxnews.com/media/trump-admin-turns-venezuela-major-us-oil-supplier-global-shipping-crisis-eases</link>
+      <summary>Major policy shift sees Venezuela become key U.S. oil supplier under Trump administration, with new contracts signed for Gulf Coast refineries.</summary>
+      <pubDate>Sun, 08 Mar 2026 16:00:34 -0500</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/venezuelan-oil.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
