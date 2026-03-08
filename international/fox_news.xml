@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T00:41:28.408185</generated>
+  <generated>2026-03-09T01:31:28.351353</generated>
   <items>
     <item>
       <title>Waltz shuts down NBC anchor, arguing Trump is ending a war Iran started with the US in 1979</title>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-feb20.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The unlikely tool Trump is eyeing to tackle rising oil prices amid the Iran conflict</title>
-      <link>https://www.foxnews.com/politics/unlikely-tool-trump-eyeing-tackle-rising-oil-prices-amid-iran-conflict</link>
-      <summary>War-risk insurance costs surge as conflict threatens oil shipments through Strait of Hormuz, potentially driving up gas prices for American consumers.</summary>
-      <pubDate>Sun, 08 Mar 2026 13:53:26 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tanker-us-flag-california.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,6 +89,17 @@
       <priority>85</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/venezuelan-oil.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Ghostbusters' actress Jennifer Runyon dead at 65</title>
+      <link>https://www.foxnews.com/entertainment/ghostbusters-actress-dead-65</link>
+      <summary>Actress Jennifer Runyon Corman, who starred in &amp;apos;80s classics such as &amp;quot;Ghostbusters&amp;quot; and &amp;quot;Charles in Charge,&amp;quot; died Friday following a cancer battle. She was 65.</summary>
+      <pubDate>Sun, 08 Mar 2026 19:18:36 -0500</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jennifer-runyon-tv.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

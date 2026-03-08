@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-09T00:41:31.562777</generated>
+  <generated>2026-03-09T01:31:31.439598</generated>
   <items>
     <item>
       <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Here’s What Happened in the Conflict on Sunday</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-war-mojtaba-khamenei.html</link>
+      <summary>Iran named Mojtaba Khamenei, a son of Ayatollah Ali Khamenei, as his father’s successor. The Pentagon announced the death of a seventh U.S. service member.</summary>
+      <pubDate>Sun, 08 Mar 2026 23:13:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-four-fronts-pwqc/08iran-live-four-fronts-pwqc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Who Is Mojtaba Khamenei, Iran’s New Supreme Leader?</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-supreme-leader.html</link>
       <summary>The selection of a son of Ayatollah Ali Khamenei, who was killed in a strike on his compound at the start of the war, could anger Iranians seeking change.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/03/multimedia/03iran-live-khamenei-son-vqtz/03iran-live-khamenei-son-vqtz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html</link>
-      <summary>The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.</summary>
-      <pubDate>Sun, 08 Mar 2026 21:52:30 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/03/multimedia/03int-Iran-successor-01-jtvh/03int-Iran-successor-01-jtvh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
