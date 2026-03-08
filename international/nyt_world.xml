@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-08T13:01:31.544545</generated>
+  <generated>2026-03-08T13:51:31.966405</generated>
   <items>
+    <item>
+      <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
+      <link>https://www.nytimes.com/2026/03/08/us/iran-islamic-revolutionary-guards-corps.html</link>
+      <summary>With their pervasive military, political and economic clout, the Guards are often considered the main impediment to regime change, or any change, in Iran.</summary>
+      <pubDate>Sun, 08 Mar 2026 09:11:46 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08int-iran-guards-wfzb/08int-iran-guards-wfzb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A Loose Band of Emerging Powers Is Divided Over Iran</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/brics-iran-allies-us-israel-war.html</link>
+      <summary>Brazil, China and Russia all denounced the U.S.-Israeli attacks, but other nations in the BRICS group haven’t, even though Iran is a fellow member.</summary>
+      <pubDate>Sun, 08 Mar 2026 09:12:01 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-iran-brics-1-wchl/07int-iran-brics-1-wchl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>In War’s First Week, a Punishing Military Campaign With No Coherent Endgame</title>
       <link>https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html</link>
@@ -71,39 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Defense Without U.S. Help Is a Live Topic for Canada, Japan and Australia</title>
-      <link>https://www.nytimes.com/2026/03/06/world/canada/carney-takaichi-japan-trump.html</link>
-      <summary>The leaders of Japan and Canada are making a unified front on defense cooperation as President Trump raises the pressure over military spending.</summary>
-      <pubDate>Sat, 07 Mar 2026 18:46:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/06/multimedia/06int-carney-japan-kbqj/06int-carney-japan-kbqj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As Trump Out-Putins Putin, Russia’s Global Influence Erodes</title>
-      <link>https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html</link>
-      <summary>The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russia’s partnerships.</summary>
-      <pubDate>Fri, 06 Mar 2026 11:38:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/04/multimedia/00int-russia-iran-01-ctzp/00int-russia-iran-01-ctzp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Loose Band of Emerging Powers Is Divided Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/brics-iran-allies-us-israel-war.html</link>
-      <summary>Brazil, China and Russia all denounced the U.S.-Israeli attacks, but other nations in the BRICS group haven’t, even though Iran is a fellow member.</summary>
-      <pubDate>Sun, 08 Mar 2026 09:12:01 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-iran-brics-1-wchl/07int-iran-brics-1-wchl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Israel Strikes Oil Facilities in Iran</title>
       <link>https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html</link>
       <summary>Huge flames erupted into the sky over Tehran and a nearby city on Saturday.</summary>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/07iran-live-oil-attacks-mvtj/07iran-live-oil-attacks-mvtj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks</title>
+      <link>https://www.nytimes.com/2026/03/07/world/middleeast/larijani-iran-war.html</link>
+      <summary>Ali Larijani, the head of Iran’s Supreme National Security Council and a close confidant of Ayatollah Ali Khamenei, said Iran was determined to avenge the killing of the leader.</summary>
+      <pubDate>Sun, 08 Mar 2026 00:33:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07IRAN-LIVE-LARIJANI-tvmc/07IRAN-LIVE-LARIJANI-tvmc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
