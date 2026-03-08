@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-08T22:11:39.826044</generated>
+  <generated>2026-03-08T23:01:44.057894</generated>
   <items>
     <item>
       <title>Five key takeaways from an annual briefing by China's foreign minister</title>
@@ -17,6 +17,13 @@
       <summary>Israel targeted Iran's oil facilities for the first time early Sunday, with videos showing huge flames lighting up the sky, while Iranian state media reported officials were close to announcing a successor for Ayatollah Ali Khamenei.</summary>
       <pubDate>Sun, 08 Mar 2026 07:49:02 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>OpenAI robotics leader resigns over concerns about Pentagon AI deal</title>
+      <link>https://www.npr.org/2026/03/08/nx-s1-5741779/openai-resigns-ai-pentagon-guardrails-military</link>
+      <summary>A senior member of OpenAI's robotics team said guardrails around certain AI uses were not sufficiently defined before OpenAI announced an agreement with the Pentagon.</summary>
+      <pubDate>Sun, 08 Mar 2026 16:44:11 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Police investigate an explosion outside the U.S. Embassy in Oslo</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/08/nx-s1-5741594/u-s-judge-kari-lake-broke-law-voice-of-america</link>
       <summary>He declared all of Lake's actions over the past year to be null and void, including the layoffs of more than 1,000 journalists and staffers.</summary>
       <pubDate>Sun, 08 Mar 2026 03:04:06 -0500</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>British Columbia to make daylight saving time permanent</title>
-      <link>https://www.npr.org/2026/03/07/nx-s1-5741076/british-columbia-daylight-saving-time</link>
-      <summary>The Canadian province is permanently ending the biannual time shifts for more light at the day's end. But research shows daylight saving increases health risks.</summary>
-      <pubDate>Sat, 07 Mar 2026 18:25:42 -0500</pubDate>
       <priority>50</priority>
     </item>
   </items>

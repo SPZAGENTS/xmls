@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-08T22:11:32.908310</generated>
+  <generated>2026-03-08T23:01:34.490678</generated>
   <items>
     <item>
       <title>For Israel’s Netanyahu, Trump grants wishes, but his support carries risks</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Russia is providing Iran intelligence to target U.S. forces, officials say</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/06/russia-iran-intelligence-us-targets/</link>
-      <summary>The targeting information has included the locations of American warships and aircraft in the Middle East, the officials said.</summary>
-      <pubDate>Fri, 06 Mar 2026 20:27:19 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump is betting that bigger income tax refunds will boost the GOP</title>
       <link>https://www.washingtonpost.com/politics/2026/03/08/trump-tax-return-gop-strategy/</link>
       <summary>Republicans designed parts of Trump’s signature tax law to deliver larger refunds this filing season, offering a potential political boost before the midterms.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/07/clyburn-congress-endorsement-daughter/</link>
       <summary>As a debate about generational change rages in his party, the 85-year-old lawmaker weighs another run.</summary>
       <pubDate>Sat, 07 Mar 2026 10:00:15 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Republicans hope Mullin brings steady hand amid Trump’s shakeup at DHS</title>
+      <link>https://www.washingtonpost.com/immigration/2026/03/07/republicans-hope-mullin-brings-steady-hand-amid-trumps-shakeup-dhs/</link>
+      <summary>If confirmed, Sen. Markwayne Mullin would oversee the sprawling agency amid falling public support for the administration’s mass deportation program.</summary>
+      <pubDate>Sat, 07 Mar 2026 10:00:12 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
