@@ -2,20 +2,9 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-08T13:51:40.512060</generated>
+  <generated>2026-03-08T14:41:38.951001</generated>
   <total_articles>346</total_articles>
   <items>
-    <item>
-      <title>Trump accuses Starmer of seeking to 'join wars after we've already won'</title>
-      <link>https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement in the US's joint offensive with Israel against Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:11:03 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783d/live/9b75ed10-1aac-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
     <item>
       <title>In maps: Nine days of strikes across the Middle East</title>
       <link>https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -28,7 +17,7 @@
       </media>
     </item>
     <item>
-      <title>'This is a moment of grave peril' - UN humanitarian chief</title>
+      <title>Watch: 'This is a moment of grave peril', says UN humanitarian chief</title>
       <link>https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.</summary>
       <pubDate>Sun, 08 Mar 2026 07:05:27 GMT</pubDate>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902e/live/22cb9620-18b9-11f1-97ba-493bedc7637b.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'This is war': BBC speaks to Iranians at Iran-Turkey border</title>
+      <link>https://www.bbc.com/news/videos/c86yeqg86yvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC correspondent James Waterhouse speaks to people at the border, after US-Israeli strikes on Iran.</summary>
+      <pubDate>Thu, 05 Mar 2026 21:20:29 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/266ce7b0-18d8-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
   </items>

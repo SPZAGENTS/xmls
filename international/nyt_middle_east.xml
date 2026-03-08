@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-08T13:51:32.616263</generated>
+  <generated>2026-03-08T14:41:32.614464</generated>
   <items>
+    <item>
+      <title>Vital desalination plants in Iran and Bahrain are attacked.</title>
+      <link>https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/desalination-plants-iran-bahrain</link>
+      <summary />
+      <pubDate>Sun, 08 Mar 2026 12:28:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/08/world/08iran-live-desalination-00001/08iran-live-desalination-00001-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A Loose Band of Emerging Powers Is Divided Over Iran</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/brics-iran-allies-us-israel-war.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/07int-europe-mideast-photo1-jghk/04int-europe-mideast-photo1-jghk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar</title>
-      <link>https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html</link>
-      <summary>President Vladimir V. Putin threatened to cut off remaining gas supplies to Europe as the Iran war drives a surge in energy costs.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:01:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-russia-oil-photo1-cghl/07int-russia-oil-photo1-cghl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

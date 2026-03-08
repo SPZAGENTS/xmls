@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-08T13:51:27.073717</generated>
+  <generated>2026-03-08T14:41:27.586909</generated>
   <items>
-    <item>
-      <title>Trump accuses Starmer of seeking to 'join wars after we've already won'</title>
-      <link>https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The remarks come after a public back-and-forth between Trump and Sir Keir Starmer over UK involvement in the US's joint offensive with Israel against Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:11:03 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783d/live/9b75ed10-1aac-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>In maps: Nine days of strikes across the Middle East</title>
       <link>https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -27,7 +16,7 @@
       </media>
     </item>
     <item>
-      <title>'This is a moment of grave peril' - UN humanitarian chief</title>
+      <title>Watch: 'This is a moment of grave peril', says UN humanitarian chief</title>
       <link>https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.</summary>
       <pubDate>Sun, 08 Mar 2026 07:05:27 GMT</pubDate>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5af/live/1c861270-1951-11f1-b048-c9424b2cf5fd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Explosion at US embassy in Oslo may have been terrorism, Norway police say</title>
+      <link>https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Police say they are investigating other motives after the blast caused minor damage to the embassy building.</summary>
+      <pubDate>Sun, 08 Mar 2026 12:30:16 GMT</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/e25fadf0-1ada-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

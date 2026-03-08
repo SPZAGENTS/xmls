@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-08T13:51:31.966405</generated>
+  <generated>2026-03-08T14:41:32.091728</generated>
   <items>
     <item>
       <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Vital desalination plants in Iran and Bahrain are attacked.</title>
+      <link>https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon/desalination-plants-iran-bahrain</link>
+      <summary />
+      <pubDate>Sun, 08 Mar 2026 12:28:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/08/world/08iran-live-desalination-00001/08iran-live-desalination-00001-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Israel Strikes Oil Facilities in Iran</title>
       <link>https://www.nytimes.com/2026/03/07/world/middleeast/israel-iran-oil-strikes.html</link>
       <summary>Huge flames erupted into the sky over Tehran and a nearby city on Saturday.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/07iran-live-oil-attacks-mvtj/07iran-live-oil-attacks-mvtj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks</title>
-      <link>https://www.nytimes.com/2026/03/07/world/middleeast/larijani-iran-war.html</link>
-      <summary>Ali Larijani, the head of Iran’s Supreme National Security Council and a close confidant of Ayatollah Ali Khamenei, said Iran was determined to avenge the killing of the leader.</summary>
-      <pubDate>Sun, 08 Mar 2026 00:33:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07IRAN-LIVE-LARIJANI-tvmc/07IRAN-LIVE-LARIJANI-tvmc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
