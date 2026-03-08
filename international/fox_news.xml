@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-08T23:51:29.402127</generated>
+  <generated>2026-03-09T00:41:28.408185</generated>
   <items>
     <item>
       <title>Waltz shuts down NBC anchor, arguing Trump is ending a war Iran started with the US in 1979</title>
@@ -66,7 +66,7 @@
       <pubDate>Sun, 08 Mar 2026 16:32:11 -0500</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/maxx-crosby-jamarr-chase.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jamarr-chase-maxx-crosby.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojataba-khamenei.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Police swarm NYC street Sunday amid IED probe near Gracie Mansion</title>
-      <link>https://www.foxnews.com/us/police-swarm-nyc-street-sunday-amid-ied-probe-near-gracie-mansion</link>
-      <summary>Police activity on the Upper East Side follows confirmation that a protest-thrown device was an IED capable of causing serious injury or death.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:40:54 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/police-activity-new-york-ied.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>85</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/venezuelan-oil.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Country Joe' McDonald dead at 84</title>
+      <link>https://www.foxnews.com/entertainment/country-joe-mcdonald-dead-84</link>
+      <summary>Joseph McDonald, a.k.a. &amp;quot;Country Joe&amp;quot; of Country Joe and the Fish, died in Berkeley, Calif. on Saturday following complications with Parkinson&amp;apos;s disease.</summary>
+      <pubDate>Sun, 08 Mar 2026 17:00:00 -0500</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/country-joe.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

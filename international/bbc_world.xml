@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-08T23:51:28.637641</generated>
+  <generated>2026-03-09T00:41:27.843139</generated>
   <items>
     <item>
       <title>Iranian ambassador warns UK to be 'very careful' about further involvement in war</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains</title>
-      <link>https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.</summary>
-      <pubDate>Sat, 07 Mar 2026 19:16:44 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Armed robots take to the battlefield in Ukraine war</title>
       <link>https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.</summary>
@@ -67,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Who is Mojtaba Khamenei, Iran's new supreme leader?</title>
+      <link>https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.</summary>
+      <pubDate>Sun, 08 Mar 2026 21:51:48 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
