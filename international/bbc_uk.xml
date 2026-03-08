@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-08T12:11:30.706148</generated>
+  <generated>2026-03-08T13:01:26.675568</generated>
   <items>
     <item>
       <title>Trump accuses Starmer of seeking to 'join wars after we've already won'</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>PM is standing up for UK interests, says Cooper after Trump criticism</title>
+      <link>https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The foreign secretary says the UK will not agree with the US "on every issue" after the US president attacks the PM's stance.</summary>
+      <pubDate>Sun, 08 Mar 2026 10:12:46 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/a15817d0-1ad4-11f1-a045-1937e4bb08ee.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3848/live/e1133140-1249-11f1-8b22-397efaf8a324.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jessie Buckley says acting helped her overcome eating disorder as a teenager</title>
-      <link>https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Oscar-frontrunner says acting is "like water to me" as she credits her craft with helping her mental health.</summary>
-      <pubDate>Sun, 08 Mar 2026 01:18:22 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/40f51a00-1a1b-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
