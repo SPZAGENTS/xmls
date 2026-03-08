@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-08T19:41:34.822142</generated>
+  <generated>2026-03-08T20:31:33.579471</generated>
   <items>
     <item>
       <title>Lebanon reports 83 children among dead after Israeli attacks</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>In pictures: International Women's Day rallies around the world</title>
-      <link>https://www.france24.com/en/europe/20260308-in-pictures-international-women-s-day-rallies-around-the-world</link>
-      <summary>Women across the world rallied for equal rights, female empowerment and an end to gender-based discrimination and violence as they marked International Women's Day on Sunday, with many events also denouncing the war in the Middle East sparked by US-Israeli strikes.</summary>
-      <pubDate>Sun, 08 Mar 2026 15:46:55 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8459af4c-1aff-11f1-9e38-005056bfb2b6/w:1024/p:16x9/000-A2EK9UJ.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump's Claude ban: the first salvo in a long battle over who controls AI</title>
       <link>https://www.france24.com/en/tv-shows/tech-24/20260308-trump-s-claude-ban-the-first-salvo-in-a-long-battle-over-who-controls-ai</link>
       <summary>A struggle to control artificial intelligence is playing out, just as United States puts the technology to task in conflicts from Venezuela to Iran.</summary>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/4713bd34-1af6-11f1-97fd-005056bf30b7/w:1024/p:16x9/EN-20260308-142201-142708-CS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran targets Tel Aviv, Bersheeva</title>
+      <link>https://www.france24.com/en/iran-targets-tel-aviv-bersheeva</link>
+      <summary>Several blasts have been reported over Tel Aviv after the Israeli army said it detected missiles launched from Iran toward the city and Beersheva. Defensive systems are operating to intercept the threats and the Israel Defense Forces say air defences are active to stop incomin...</summary>
+      <pubDate>Sun, 08 Mar 2026 13:55:54 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/9333714c-1af5-11f1-bd21-005056bf30b7/w:1024/p:16x9/EN-20260308-141625-142053-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
