@@ -2,13 +2,20 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-08T18:51:38.606267</generated>
+  <generated>2026-03-08T19:41:39.379347</generated>
   <items>
     <item>
-      <title>Israel strikes Tehran fuel depots, Beirut hotel as Iran nears naming Khamenei successor</title>
+      <title>U.S.-Israeli war on Iran widens, as Tehran nears naming new supreme leader</title>
       <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-9-9.7119190?cmp=rss</link>
       <summary />
       <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Why Iranian attack drones are a major problem in this war</title>
+      <link>https://www.cbc.ca/player/play/9.7118660?cmp=rss</link>
+      <summary>Iran is reported to have thousands of cheap attack drones, but shooting each one out of the sky costs the U.S. and its allies millions. For The National, CBC’s Eli Glasner breaks down the math and the problem it reveals about modern air defence strategies.</summary>
+      <pubDate>Sat, 07 Mar 2026 09:00:00 EST</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -40,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>How America’s war with Iran has shattered the U.A.E.’s sense of security</title>
-      <link>https://www.cbc.ca/news/world/uae-safety-iran-strikes-9.7114827?cmp=rss</link>
-      <summary>For decades, the United Arab Emirates has positioned itself as an economic and cultural hub, connecting European and Asian markets. But on Saturday, just hours after the U.S. and Israel launched massive strikes against Iran that killed the country’s longtime Supreme Leader Aya...</summary>
-      <pubDate>Thu, 05 Mar 2026 04:00:00 EST</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>U.S. says it worked with Ecuador to bomb alleged drug-trafficking operations site</title>
       <link>https://www.cbc.ca/news/world/us-ecuador-joint-operation-drug-trafficking-9.7118563?cmp=rss</link>
       <summary>The U.S. and Ecuador carried out a joint operation targeting drug trafficking operations in the ‌South American country, authorities in both countries said on Friday, with the U.S. calling the move "lethal kinetic operations."</summary>
@@ -68,10 +68,10 @@
       <priority>80</priority>
     </item>
     <item>
-      <title>Millions of Americans can now claim Canadian citizenship by descent. But they have to prove it</title>
-      <link>https://www.cbc.ca/news/canada/montreal/bill-c-3-canadian-citizenship-by-descent-american-interest-9.7112724?cmp=rss</link>
-      <summary>Amid rising tensions in the United States and increased global volatility, many Americans are looking to Canada — and their roots — for a possible way out following recent changes to Canada’s citizenship rules.</summary>
-      <pubDate>Sun, 08 Mar 2026 04:00:00 EDT</pubDate>
+      <title>Former rapper and Gen Z's candidate poised to win Nepali election by landslide</title>
+      <link>https://www.cbc.ca/news/world/balendra-shah-nepal-gen-z-win-9.7119677?cmp=rss</link>
+      <summary>In a resounding victory that is guaranteed to reshape Nepal's politics, rapper-turned-politician Balendra Shah appeared headed for a landslide win in the South Asian country's first polls since youth-led protests toppled the previous government last fall.</summary>
+      <pubDate>Sun, 08 Mar 2026 13:08:18 EDT</pubDate>
       <priority>65</priority>
     </item>
   </items>
