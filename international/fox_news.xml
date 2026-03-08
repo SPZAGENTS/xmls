@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-08T20:31:28.208447</generated>
+  <generated>2026-03-08T21:21:29.683963</generated>
   <items>
     <item>
       <title>Trump warns Iran’s new leader won’t ‘last long’ without his approval</title>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>UFC announces card for White House event</title>
+      <link>https://www.foxnews.com/sports/ufc-announces-card-white-house-event</link>
+      <summary>The UFC announced its card for the America 250 event that will take place in Washington, D.C., on June 14. Two championship bouts headline the action.</summary>
+      <pubDate>Sun, 08 Mar 2026 15:07:32 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ufc-dana-white-030826-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump vows block on signing new laws until SAVE America Act passes Senate</title>
       <link>https://www.foxnews.com/politics/trump-vows-block-signing-new-laws-until-save-america-act-passes-senate</link>
       <summary>Trump threatens to block all new legislation until Senate passes SAVE America Act requiring voter ID and citizenship proof, setting up a major showdown.</summary>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-next-to-voter-registration-table.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>New Jersey elementary school weighs renaming after President Trump</title>
-      <link>https://www.foxnews.com/us/new-jersey-elementary-school-weighs-renaming-after-president-trump</link>
-      <summary>New Jersey school board considers renaming elementary school after Trump, sparking heated community debate over educational values and political divisions.</summary>
-      <pubDate>Sun, 08 Mar 2026 12:51:57 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/donald-trump-new-jersey-school-board-proposal.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
