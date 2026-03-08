@@ -2,8 +2,30 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-08T18:01:29.635359</generated>
+  <generated>2026-03-08T18:51:29.108370</generated>
   <items>
+    <item>
+      <title>CENTCOM issues safety warning to Iranian civilians as regime uses ‘heavily populated’ areas for launches</title>
+      <link>https://www.foxnews.com/world/centcom-issues-safety-warning-iranian-civilians-regime-uses-heavily-populated-areas-launches</link>
+      <summary>CENTCOM warned Iranian civilians to avoid military-linked sites, accusing Tehran of launching drones and missiles from populated areas.</summary>
+      <pubDate>Sun, 08 Mar 2026 12:45:08 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/brad-cooper-centcom-commander.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Balkans on edge: Kosovo political crisis sparks fears of renewed instability</title>
+      <link>https://www.foxnews.com/world/balkans-edge-kosovo-political-crisis-sparks-fears-renewed-instability</link>
+      <summary>Trump ally Kosovo President Osmani calls snap elections after parliamentary deadlock blocks presidential vote, creating political uncertainty in the Balkans.</summary>
+      <pubDate>Sun, 08 Mar 2026 12:01:26 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kosovo-vjosa-osmani-nato.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s last line of resistance holds back — but Houthi terror group warns it’s ready to act</title>
       <link>https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iris-bushehr.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel pounds Hezbollah targets, daring Lebanon to reclaim sovereignty from Iran-backed terror proxy</title>
-      <link>https://www.foxnews.com/world/israel-pounds-hezbollah-targets-daring-lebanon-reclaim-sovereignty-from-iran-backed-terror-proxy</link>
-      <summary>Lebanon&amp;apos;s government calls for Hezbollah disarmament amid renewed Israel conflict, as international leaders including Macron warn against broader war.</summary>
-      <pubDate>Fri, 06 Mar 2026 06:30:00 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/lebanon-israel-strike.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Private flights account for 30% of departures from Oman airport as wealthy evacuate Middle East</title>
-      <link>https://www.foxnews.com/world/private-flights-account-departures-oman-airport-wealthy-evacuate-middle-east</link>
-      <summary>Private flights account for more than 30% of departures from Oman&amp;apos;s main airport as Middle East evacuation efforts intensify amid conflict escalation.</summary>
-      <pubDate>Thu, 05 Mar 2026 21:14:58 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/muscat-oman.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
