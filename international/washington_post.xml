@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-08T16:21:31.458488</generated>
+  <generated>2026-03-08T17:11:30.728108</generated>
   <items>
+    <item>
+      <title>New Iran supreme leader has been selected, officials say; Israel hits energy infrastructure</title>
+      <link>https://www.washingtonpost.com/world/2026/03/08/iran-war-us-trump-israel-strikes/</link>
+      <summary>The Iranian government warned citizens to stay indoors as environmental fallout from Israeli strikes on fuel depots blanketed parts of the city.</summary>
+      <pubDate>Sun, 08 Mar 2026 15:05:19 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>For Israel’s Netanyahu, Trump grants wishes, but his support carries risks</title>
       <link>https://www.washingtonpost.com/world/2026/03/08/trump-netanyahu-israel-iran-war/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/03/06/us-unprepared-iran-drones-ukraine/</link>
       <summary>Swarms of low-cost drones used by the Russians in Ukraine have been breaching U.S. air defense systems and striking targets across the Middle East.</summary>
       <pubDate>Fri, 06 Mar 2026 20:53:36 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Russia is providing Iran intelligence to target U.S. forces, officials say</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/06/russia-iran-intelligence-us-targets/</link>
-      <summary>The targeting information has included the locations of American warships and aircraft in the Middle East, the officials said.</summary>
-      <pubDate>Fri, 06 Mar 2026 20:27:19 +0000</pubDate>
       <priority>100</priority>
     </item>
   </items>
