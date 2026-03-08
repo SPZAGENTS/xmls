@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-08T09:41:29.922764</generated>
+  <generated>2026-03-08T10:31:27.586174</generated>
   <items>
     <item>
       <title>Iranian ambassador warns UK to be 'very careful' about further involvement in war</title>
@@ -16,17 +16,6 @@
       </media>
     </item>
     <item>
-      <title>We've been speaking to Iranians during one week of war. Here's what they said</title>
-      <link>https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Ordinary Iranians reflect on seven days of conflict and where they see their country going next.</summary>
-      <pubDate>Sat, 07 Mar 2026 06:00:32 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6b0/live/5ec6cc60-1979-11f1-9156-4356592fc9c8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Russian strike on Kharkiv apartment block kills ten</title>
       <link>https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble.</summary>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/782b0310-19f6-11f1-bd6f-8f561353e15e.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>We've been speaking to Iranians during one week of war. Here's what they said</title>
+      <link>https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Ordinary Iranians reflect on seven days of conflict and where they see their country going next.</summary>
+      <pubDate>Sat, 07 Mar 2026 06:00:32 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6b0/live/5ec6cc60-1979-11f1-9156-4356592fc9c8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Trump sets his sights on crisis-hit Cuba after Iran action</title>
-      <link>https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US president has claimed the Cuban authorities “want to make a deal so bad”.</summary>
-      <pubDate>Fri, 06 Mar 2026 19:50:51 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e19/live/086b4680-198c-11f1-a8c7-d931bb8f99d4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains</title>
       <link>https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.</summary>
@@ -89,6 +78,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War fuels debate in Cyprus over UK military bases</title>
+      <link>https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.</summary>
+      <pubDate>Sun, 08 Mar 2026 08:03:40 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6522/live/279c1e80-1abd-11f1-9120-a910fc22c6ac.png</image>
         <type>image/jpeg</type>
       </media>
     </item>

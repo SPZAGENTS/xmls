@@ -2,19 +2,8 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-08T09:41:33.871635</generated>
+  <generated>2026-03-08T10:31:31.643081</generated>
   <items>
-    <item>
-      <title>Mideast Fighting: U.S.-Israeli Strikes Grow as Fuel Depots Burn in Tehran</title>
-      <link>https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon</link>
-      <summary>Prime Minister Benjamin Netanyahu said the attacks on fuel storage, an expansion of the bombing campaign, were aimed at helping destabilize Iran’s government. Iran’s de facto leader vowed to seek vengeance for the killing of the nation’s supreme leader.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:40:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07iran-live-promo-9pmET-cqtm/07iran-live-promo-9pmET-cqtm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>In War’s First Week, a Punishing Military Campaign With No Coherent Endgame</title>
       <link>https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html</link>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/07/multimedia/07IRAN-LIVE-OIL-ATTACKS-ckgv/07IRAN-LIVE-OIL-ATTACKS-ckgv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s De Facto Leader Says Iran Will Not Surrender or Stop Its Attacks</title>
+      <link>https://www.nytimes.com/2026/03/07/world/middleeast/larijani-iran-war.html</link>
+      <summary>Ali Larijani, the head of Iran’s Supreme National Security Council and a close confidant of Ayatollah Ali Khamenei, said Iran was determined to avenge the killing of the leader.</summary>
+      <pubDate>Sun, 08 Mar 2026 00:33:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07IRAN-LIVE-LARIJANI-tvmc/07IRAN-LIVE-LARIJANI-tvmc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
