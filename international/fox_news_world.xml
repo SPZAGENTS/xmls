@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-08T10:31:28.715826</generated>
+  <generated>2026-03-08T11:21:28.827279</generated>
   <items>
+    <item>
+      <title>King Charles to address 'increasing pressures of conflict' in speech as Trump criticizes British PM on Iran</title>
+      <link>https://www.foxnews.com/world/king-charles-address-increasing-pressures-conflict-speech-trump-criticizes-british-pm-iran</link>
+      <summary>King Charles will deliver a Commonwealth Day message about &amp;quot;pressures of conflict&amp;quot; following President Trump&amp;apos;s criticism of the U.K.&amp;apos;s refusal to join the strikes against Iran.</summary>
+      <pubDate>Sun, 08 Mar 2026 05:00:47 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/king-charles-delivering-commonwealth-address.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran warns European countries will be 'legitimate targets' if they join conflict</title>
       <link>https://www.foxnews.com/world/iran-warns-european-countries-legitimate-targets-join-conflict</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/carney-trump-feud.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sri Lanka offloads 208 crew members from second Iranian ship a day after US strike sinks frigate</title>
-      <link>https://www.foxnews.com/world/us-navy-sinks-second-iranian-ship-200-crew-rescued-near-sri-lanka</link>
-      <summary>Sri Lanka assists Iranian vessel crew after deadly U.S. submarine strike kills 87 in Indian Ocean. President announces rescue of 208 crew members.</summary>
-      <pubDate>Thu, 05 Mar 2026 16:29:00 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-warship-sri-lanka.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
