@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-09T14:51:32.985870</generated>
+  <generated>2026-03-09T15:41:36.786813</generated>
   <items>
     <item>
-      <title>Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says</title>
+      <title>Ed Davey Wants King Charles to Cancel his U.S. State Visit Over Iran War</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/king-charles-iran-war-uk-us-trump.html</link>
+      <summary>Ed Davey, the leader of the Liberal Democrats in Britain, said President Trump does not deserve the “diplomatic coup” of hosting the king for a state visit.</summary>
+      <pubDate>Mon, 09 Mar 2026 13:21:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-king-charles-cqtf/09israel-iran-king-charles-cqtf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israeli Forces Raid New Areas in Southern Lebanon</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/israeli-forces-raid-new-areas-in-southern-lebanon.html</link>
+      <summary>Israeli fighter jets also bombarded the southern outskirts of Beirut, the Lebanese capital, as part of its escalating military campaign against Hezbollah.</summary>
+      <pubDate>Mon, 09 Mar 2026 13:08:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Lebanon-wlpk/09israel-iran-Lebanon-wlpk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine Helps U.S. Mideast Bases With Stopping Drones</title>
       <link>https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</link>
       <summary>As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.</summary>
-      <pubDate>Mon, 09 Mar 2026 04:01:19 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 13:29:53 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg</image>
@@ -19,7 +41,7 @@
       <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
       <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
-      <pubDate>Mon, 09 Mar 2026 04:03:50 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 13:04:51 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -85,28 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08dc-airstrike-update-gfqb/08dc-airstrike-update-gfqb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Lebanese Villagers Bury Hezbollah Fighters, Praising Their Defiance of Israel</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/lebanon-hezbollah-fighters-israel.html</link>
-      <summary>After a fierce ground fight between Israeli forces and Iran-backed Hezbollah, the village of Nabi Sheet mourned its dead. “We are not here to bow,” said one villager. “We will not kneel.”</summary>
-      <pubDate>Sun, 08 Mar 2026 18:39:35 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-lebanon-zhjt/08iran-live-lebanon-zhjt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>West Bank Violence Intensifies, as Israeli Settlers Kill 3 Palestinians</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/palestinians-killed-west-bank-israeli-settlers.html</link>
-      <summary>A rise in settler attacks is terrorizing Palestinians in the occupied territory, at a time when global attention is focused on the U.S.-Israeli war with Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 17:39:22 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-west-bank-sub-gwtf/08iran-live-west-bank-sub-gwtf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

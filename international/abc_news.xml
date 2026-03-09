@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T14:51:36.575340</generated>
+  <generated>2026-03-09T15:41:40.346724</generated>
   <items>
     <item>
       <title>Iran live updates: 3 injured as Iranian missiles target central Israel</title>
@@ -16,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>US missile seen hitting building near Iranian girls' school, experts say</title>
-      <link>https://abcnews.com/US/us-missile-hitting-building-iranian-girls-school-experts/story?id=130889601</link>
-      <summary>A newly surfaced video appears to show a U.S.-made missile hitting a building in Iran adjacent to a girls’ school where local officials say 168 people were killed.</summary>
-      <pubDate>Mon, 09 Mar 2026 07:57:35 -0400</pubDate>
+      <title>Iran may be activating sleeper cells outside the country, alert says</title>
+      <link>https://abcnews.com/US/iran-activating-sleeper-cells-alert/story?id=130897687</link>
+      <summary>The U.S. has intercepted encrypted communications believed to have originated in Iran that may serve as “an operational trigger” for “sleeper assets."</summary>
+      <pubDate>Mon, 09 Mar 2026 09:37:37 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran_1773026422243_hpMain_4x3t_384.jpeg</image>
+        <image>https://s.abcnews.com/images/International/tehran-1-ap-jef-260309_1773058622529_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Spring break travel alert</title>
+      <link>https://abcnews.com/GMA/Travel/video/spring-break-travel-alert-130895654</link>
+      <summary>Long delays at airports could make for a messy travel season, but there are some steps you can take.</summary>
+      <pubDate>Mon, 09 Mar 2026 09:24:26 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260309_gma_benitez3_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: 4 killed Friday from tornadoes in Michigan</title>
       <link>https://abcnews.com/WNT/video/4-killed-friday-tornadoes-michigan-130886301</link>
       <summary>Michigan Governor Gretchen Whitmer has declared a state of emergency in several counties.</summary>
@@ -89,17 +100,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260308_wn_beckstrom_michigan_weather1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Burger wars heat up social media</title>
-      <link>https://abcnews.com/GMA/Food/video/burger-wars-heat-social-media-130819034</link>
-      <summary>Burger King is changing its Whopper for the first time in a decade and McDonald's is bringing the Big Arch to the U.S., but video of McDonald's CEO tasting the sandwich is drawing the most attention.</summary>
-      <pubDate>Fri, 06 Mar 2026 12:00:16 -0500</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260306_gma_ally_mcdonalds3_0741_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

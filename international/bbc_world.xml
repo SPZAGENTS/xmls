@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-09T14:51:28.266599</generated>
+  <generated>2026-03-09T15:41:32.140600</generated>
   <items>
     <item>
       <title>India offered sanctuary to Iranian ship three days before US sank it</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/bcb59ac0-1b83-11f1-adbd-33f1e217b4d9.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>We've been speaking to Iranians during one week of war. Here's what they said</title>
-      <link>https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Ordinary Iranians reflect on seven days of conflict and where they see their country going next.</summary>
-      <pubDate>Sat, 07 Mar 2026 06:00:32 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6b0/live/5ec6cc60-1979-11f1-9156-4356592fc9c8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>The heartwarming tale of a father, a daughter, and a wedding band wowing India</title>
-      <link>https://www.bbc.com/news/articles/c7430kn9ze4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Band Baaja Bitiya is the moving tale of a father who goes to rescue his daughter from her matrimonial home.</summary>
-      <pubDate>Sun, 08 Mar 2026 00:02:55 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5af/live/1c861270-1951-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Explosion at US embassy in Oslo may have been terrorism, Norway police say</title>
       <link>https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Police say they are investigating other motives after the blast caused minor damage to the embassy building.</summary>
@@ -82,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Rihanna's Beverly Hills home hit by gunfire, police say</title>
-      <link>https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.</summary>
-      <pubDate>Mon, 09 Mar 2026 03:01:00 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d7/live/644dba30-1b82-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Alleged Bondi gunman seeks order to suppress family's identity</title>
       <link>https://www.bbc.com/news/articles/cy8lwnyj40eo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Naveed Akram is seeking to prevent media publishing details about his mother, sister and brother.</summary>
@@ -100,6 +67,39 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/bb3200a0-1b86-11f1-9819-7b03ffb2517c.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Police release images of Oslo US embassy explosion suspect</title>
+      <link>https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Norwegian police say their investigation so far shows Sunday's blast was caused by an improvised device.</summary>
+      <pubDate>Mon, 09 Mar 2026 12:45:09 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8f/live/e2261460-1bab-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Guinea opposition leader urges 'direct resistance' after 40 parties dissolved</title>
+      <link>https://www.bbc.com/news/articles/cjrqg80y57po?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Cellou Dalein Diallo accuses the junta-leader-turned-president of erasing political threats.</summary>
+      <pubDate>Mon, 09 Mar 2026 12:30:19 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead9/live/ff261740-1bab-11f1-9f65-e32170917420.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rihanna's Beverly Hills home hit by gunfire, police say</title>
+      <link>https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.</summary>
+      <pubDate>Mon, 09 Mar 2026 03:01:00 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d7/live/644dba30-1b82-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

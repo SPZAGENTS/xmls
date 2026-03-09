@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-09T14:51:34.595567</generated>
+  <generated>2026-03-09T15:41:38.503863</generated>
   <items>
     <item>
       <title>Europe rallies around Cyprus after Iranian strikes</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/d7137304-1bb2-11f1-9b8a-005056a97e36/w:1024/p:16x9/EN-20260309-131135-131231-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Watch live: Macron delivers remarks in Cyprus amid security concerns over Middle East war</title>
-      <link>https://www.france24.com/en/macron-arrives-cyprus-to-discuss-regional-security-over-middle-east-war</link>
-      <summary>French President Emmanuel Macron arrived in Cyprus on Monday amid French efforts to bolster security in the Mediterranean as the war in the Middle East continues. Paris deployed warships to the region last week after Cyprus was targeted by Iranian-made drones.</summary>
-      <pubDate>Mon, 09 Mar 2026 12:27:12 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/d49209b4-1bae-11f1-8338-005056a97e36/w:1024/p:16x9/812fec3b55ba84db3a38831c361abc34b486993c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/0a161e7a-1b93-11f1-8c14-005056bfb2b6/w:1024/p:16x9/capture-154652065269ae8680725974-21106036.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israelis divided over war with Iran as conflict expands</title>
+      <link>https://www.france24.com/en/israelis-divided-over-war-with-iran-as-conflict-expands</link>
+      <summary>Air raid sirens ring out across Israel, alerting residents of Iranian missile launches, a sound that now dictates the daily lives of Israelis. The population has grown accustomed to taking shelter as soon as they hear it. But it doesn't stop some in Jerusalem from enjoying out...</summary>
+      <pubDate>Mon, 09 Mar 2026 10:07:03 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/8abf851e-1b9f-11f1-a0ce-005056bf30b7/w:1024/p:16x9/capture-186289703369ae9b7a357718-29463335.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
