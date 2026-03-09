@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-09T04:11:34.060661</generated>
+  <generated>2026-03-09T06:31:28.002577</generated>
   <items>
+    <item>
+      <title>Private security firm helping Americans evacuate the Middle East amid war with Iran</title>
+      <link>https://www.foxnews.com/world/private-security-firm-evacuates-americans-iran-conflict</link>
+      <summary>A global security firm based in Virginia says it has evacuated more than 4,000 people from the Middle East since the U.S. and Israel launched a joint attack on Iran.</summary>
+      <pubDate>Sun, 08 Mar 2026 23:25:44 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/global-guardian.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>CENTCOM issues safety warning to Iranian civilians as regime uses ‘heavily populated’ areas for launches</title>
       <link>https://www.foxnews.com/world/centcom-issues-safety-warning-iranian-civilians-regime-uses-heavily-populated-areas-launches</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/popular-mobilization-forces-iraq.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian vessel suffers engine failure, offloads crew days after US submarine sank other ship</title>
-      <link>https://www.foxnews.com/world/iranian-vessel-suffers-engine-failure-offloads-crew-days-after-us-submarine-sank-other-ship</link>
-      <summary>An Iranian navy logistics ship offloaded its crew to Sri Lanka on Friday after suffering engine trouble at sea, days after the U.S. sank an Iranian warship.</summary>
-      <pubDate>Fri, 06 Mar 2026 09:30:15 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iris-bushehr.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

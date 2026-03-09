@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-09T04:11:43.132979</generated>
+  <generated>2026-03-09T06:31:38.238935</generated>
   <items>
+    <item>
+      <title>Video appears to show U.S. cruise missile striking Iranian school compound</title>
+      <link>https://www.npr.org/2026/03/08/nx-s1-5739395/iran-school-airstrike-tomahawk-missile-trump</link>
+      <summary>The seven-second video was released by Iranian state media and directly contradicts statements made by President Trump, who said Iran was responsible for the strike.</summary>
+      <pubDate>Sun, 08 Mar 2026 22:51:06 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran</title>
       <link>https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100</link>
@@ -40,6 +47,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Trump says he won't sign bills until Congress overhauls voting</title>
+      <link>https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting</link>
+      <summary>President Trump is pushing the Senate to abandon the filibuster and pass SAVE American Act, a bill top Democrat calls 'Jim Crow 2.0'</summary>
+      <pubDate>Sun, 08 Mar 2026 15:48:23 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Police investigate an explosion outside the U.S. Embassy in Oslo</title>
       <link>https://www.npr.org/2026/03/08/nx-s1-5741670/explosion-outside-us-embassy-in-oslo-norway</link>
       <summary>Norwegian police are investigating an explosion outside the U.S. Embassy in Oslo early Sunday, officials said.</summary>
@@ -54,24 +68,10 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Sunday Puzzle: Hush</title>
-      <link>https://www.npr.org/2026/03/08/nx-s1-5737586/sunday-puzzle-hush</link>
-      <summary>Ayesha Rascoe plays the puzzle with BPR listener Wesley Davis and Weekend Edition Puzzlemaster Will Shortz.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:36:23 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election</title>
-      <link>https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election</link>
-      <summary>A Nepali political party led by an ex-rapper is set for a landslide victory in the country's first parliamentary election since Gen Z protests ousted the old leadership that has ruled the Himalayan nation for decades.</summary>
-      <pubDate>Sun, 08 Mar 2026 03:18:54 -0500</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Teens are sleeping less than ever and screens aren't primarily to blame</title>
-      <link>https://www.npr.org/2026/03/08/nx-s1-5737426/time-change-teens-sleep-screens</link>
-      <summary>Nearly a quarter of teens sleep 5 hours or less per night and the majority sleep less than 8 hours. The problem is pervasive and technology doesn't seem to be the main culprit, according to a new report.</summary>
-      <pubDate>Sun, 08 Mar 2026 07:04:00 -0400</pubDate>
+      <title>Photos: Scenes from Jesse Jackson's homegoing services</title>
+      <link>https://www.npr.org/sections/the-picture-show/2026/03/08/g-s1-112915/photos-scenes-from-jesse-jacksons-homegoing-services</link>
+      <summary>Thousands showed up in Chicago over the weekend to pay respects to the civil rights leader, who died last month at the age of 84.</summary>
+      <pubDate>Sun, 08 Mar 2026 14:20:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

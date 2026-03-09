@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-09T04:11:37.379537</generated>
+  <generated>2026-03-09T06:31:31.664006</generated>
   <items>
+    <item>
+      <title>Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</link>
+      <summary>As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:01:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
       <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
-      <pubDate>Mon, 09 Mar 2026 01:44:31 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 04:03:50 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-west-bank-sub-gwtf/08iran-live-west-bank-sub-gwtf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Strikes Energy Infrastructure Crucial to Iran’s Well-Being</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-energy-infrastructure.html</link>
-      <summary>Continued attacks could make the Iranian government and the country as a whole more vulnerable.</summary>
-      <pubDate>Sun, 08 Mar 2026 17:01:15 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-iran-oil-01-bqcf/08iran-live-iran-oil-01-bqcf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

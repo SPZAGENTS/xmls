@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T04:11:33.451718</generated>
+  <generated>2026-03-09T06:31:27.418104</generated>
   <items>
+    <item>
+      <title>Private security firm helping Americans evacuate the Middle East amid war with Iran</title>
+      <link>https://www.foxnews.com/world/private-security-firm-evacuates-americans-iran-conflict</link>
+      <summary>A global security firm based in Virginia says it has evacuated more than 4,000 people from the Middle East since the U.S. and Israel launched a joint attack on Iran.</summary>
+      <pubDate>Sun, 08 Mar 2026 23:25:44 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/global-guardian.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Waltz shuts down NBC anchor, arguing Trump is ending a war Iran started with the US in 1979</title>
       <link>https://www.foxnews.com/media/waltz-shuts-down-nbc-anchor-arguing-trump-ending-war-iran-started-us-1979</link>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jesse-jackson-memorial-service-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rihanna's Beverly Hills home targeted in brazen daylight shooting</title>
-      <link>https://www.foxnews.com/entertainment/rihannas-beverly-hills-home-targeted-brazen-daylight-shooting</link>
-      <summary>Rihanna was reportedly home when a female suspect fired &amp;quot;approximately 10 shots&amp;quot; at her Beverly Hills mansion on Sunday, according to LAPD officials.</summary>
-      <pubDate>Sun, 08 Mar 2026 21:45:57 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rihanna-court.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
