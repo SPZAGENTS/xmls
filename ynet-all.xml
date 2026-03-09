@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-09T12:03:10.457645</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-09T12:39:04.515235</generated>
   <items>
     <item>
-      <title>טראמפ: "אחליט על מועד סיום המלחמה בשיתוף עם נתניהו. המילה האחרונה - שלי"</title>
-      <link>https://www.ynet.co.il/news/article/hkwsvsokbl</link>
-      <description>נשיא ארה"ב אמר כי בלעדיו, "איראן הייתה משמידה את ישראל - אבל אנחנו השמדנו אותה". הוא שוב תקף את הרצוג, כינה אותו "הנשיא הזה" וקרא לו "לתת חנינה לביבי ועכשיו". שר המלחמה סירב לפרט על תנאי הכניעה: "זו רק ההתחלה"</description>
-      <pubDate>Mon, 09 Mar 2026 03:47:47 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <title>Israel strikes Iran as drone hits Bahrain refinery, oil surges past $115 and Trump defends price spike</title>
+      <link>https://www.ynetnews.com/article/sj8550ikwl</link>
+      <summary>Israeli airstrikes hit regime targets in Isfahan as Iranian drone attack injures dozens at Bahrain refinery; oil jumps above $115 while Donald Trump says higher prices are a 'very small price to pay' for global security</summary>
+      <pubDate>Mon, 09 Mar 2026 07:38:19 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>היפוך המגמה באיראן: למה ישראל תוקפת יותר מארה"ב</title>
-      <link>https://www.ynet.co.il/news/article/s1n6ydoybx</link>
-      <description>בימים הראשונים למבצע "שאגת הארי" עיקר התקיפות באיראן היו של צבא ארה"ב, אלא שעם המעבר ל"שלב הבא" צה"ל תוקף הרבה יותר - וזה עוד במקביל לתקיפות בלבנון. הנתונים - והסיבות האפשריות להם</description>
-      <pubDate>Mon, 09 Mar 2026 03:11:12 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <title>One dead, one critical after missile strike at central Israel construction site; man seriously hurt elsewhere</title>
+      <link>https://www.ynetnews.com/article/bk904wht11x</link>
+      <summary>Air raid sirens sounded across the south, north and Sharon after launches from Iran, while Israel struck Hezbollah targets in Beirut’s Dahieh district and explosions were reported in Bahrain following a drone strike on an oil facility</summary>
+      <pubDate>Mon, 09 Mar 2026 11:49:46 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>המלחמה כולה עטופה בסמליות היסטורית</title>
-      <link>https://www.ynet.co.il/news/article/hkpo8fufbg</link>
-      <description>המערכה בין ישראל לאיראן, והמעורבות היוונית שנגררה בעקבותיה, לא רק שהוציאה מהארכיון נרטיבים עתיקים – היא הפכה אותם לכלי מלחמה פעיל</description>
-      <pubDate>Sat, 07 Mar 2026 04:58:00 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
+      <title>Reports: Israeli special forces land in eastern Lebanon again; Hezbollah claims exchange of fire</title>
+      <link>https://www.ynetnews.com/article/bkkltaikwe</link>
+      <summary>Lebanese media and Hezbollah say Israeli special forces arrived by helicopter near Nabi Sheet and exchanged fire with terrorists days after a raid linked to the search for missing Israeli navigator Ron Arad</summary>
+      <pubDate>Mon, 09 Mar 2026 06:18:38 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>סדרת פיצוצים: מאחורי הקלעים של 'טהרן'</title>
-      <link>https://www.ynet.co.il/entertainment/article/yokra14696753</link>
-      <description>גם לפני שהמלחמה באיראן טרפה את הקלפים, האנשים מאחורי הלהיט 'טהרן' בכאן 11 גילו שהחיים עצמם מופרעים יותר מכל תסריט: דנה עדן ז"ל, המפיקה הראשית והאמא של אחת הסדרות המצליחות והיקרות בתולדות המסך הישראלי, נמצאה מתה במהלך הצילומים באתונה, הצוות ההמום נאלץ להדוף קונספירציות מכוערות ...</description>
-      <pubDate>Sun, 08 Mar 2026 06:24:04 +0200</pubDate>
-      <source>ynet-culture</source>
-      <priority-score>115</priority-score>
+      <title>Israel expands travel warnings to Armenia, Georgia and Azerbaijan</title>
+      <link>https://www.ynetnews.com/article/h1i6giik11g</link>
+      <summary>The National Security Council urges Israelis to avoid travel to three additional countries and warns of heightened Iranian efforts to target Israelis and Jews abroad since the launch of Operation Roaring Lion</summary>
+      <pubDate>Mon, 09 Mar 2026 07:10:51 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Why Israel is now striking more targets in Iran than US as the war enters its next phase</title>
-      <link>https://www.ynetnews.com/article/rkzakjnf11e</link>
-      <description>Early in the war, US forces carried out over three times as many strikes in Iran, but since the shift to the 'next phase,' Israel has dramatically increased its attacks, potentially reflecting strategy, munitions limits and political calculations</description>
-      <pubDate>Mon, 09 Mar 2026 08:59:46 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Macron urges Iran to halt regional attacks as Israel strikes IRGC air force headquarters in Tehran</title>
+      <link>https://www.ynetnews.com/article/rjpnqrjkzx</link>
+      <summary>French President Emmanuel Macron calls on Tehran to stop attacks and reopen the Strait of Hormuz as the IDF says it destroyed the IRGC air force headquarters in Tehran, a key command center for Iran’s missiles and drones</summary>
+      <pubDate>Sun, 08 Mar 2026 21:35:40 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Vacation over? IDF strike on Beirut hotel kills IRGC Quds Force commanders, part of Iran’s covert terror network</title>
-      <link>https://www.ynetnews.com/article/b185heifbe</link>
-      <description>Israeli forces struck Beirut’s Ramada Hotel overnight, killing five senior IRGC Quds Force figures meeting inside; the commanders coordinated funding, intelligence and operations for Hezbollah, Hamas and other Iran-backed terrorist groups operating from Lebanon</description>
-      <pubDate>Sun, 08 Mar 2026 20:23:24 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>'Proud to lead on International Women’s Day': female IDF officers on front lines of war with Iran</title>
+      <link>https://www.ynetnews.com/article/s1ysevsy11e</link>
+      <summary>IDF says thousands of women are leading operational efforts on the front lines and home front in the war with Iran; 'My soldiers and I will remain here as long as needed to protect Israel and its citizens,' says the navy’s first female missile ship commander</summary>
+      <pubDate>Sun, 08 Mar 2026 19:51:49 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>IDF strikes IRGC space command; US warns Iran using heavily populated civilian areas for attacks</title>
-      <link>https://www.ynetnews.com/article/bjmqyfotwg</link>
-      <description>Israeli strikes hit Revolutionary Guard space headquarters, the control center of the Khayyam satellite and dozens of military sites, as a UAE official says the most dangerous phase of the war may soon end</description>
-      <pubDate>Sun, 08 Mar 2026 17:50:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>IDF chief: ‘This war will be much longer, but it will shape our future for years’; Sirens across central, southern Israel</title>
+      <link>https://www.ynetnews.com/article/rye03qsf11g</link>
+      <summary>Air defenses intercept missiles launched from Iran as the IDF says it killed the chief aide to the future supreme leader in Tehran and continued strikes on Hezbollah targets in Lebanon</summary>
+      <pubDate>Sun, 08 Mar 2026 19:28:57 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>בדם ואש: האבולוציה של הלחימה</title>
-      <link>https://www.ynet.co.il/news/article/yokra14702349</link>
-      <description>הטכנולוגיה העילאית, המהלך הצבאי הראשוני רב-העוצמה, הניווט המדיני היעיל, הבריתות החכמות, נטרול הכוחות העוינים מאנקרה ועד מוסקבה, העוצמה של העורף – וגם מבט אל מה שנדרש בעתיד. תובנות ראשוניות מהמערכה מול איראן ומה הפנימה ישראל מאז טבח 7 באוקטובר</description>
-      <pubDate>Mon, 09 Mar 2026 00:04:00 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>110</priority-score>
+      <title>Students in southern Israel clean and prepare missile shelters, aid elderly during war</title>
+      <link>https://www.ynetnews.com/article/s1zvemstwx</link>
+      <summary>Students from the Ayalim Association’s student villages in Beersheba, Dimona and Sderot have joined local emergency efforts since start of Operation Roaring Lion against Iran</summary>
+      <pubDate>Sun, 08 Mar 2026 17:42:59 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>בדם ואש: האבולוציה של הלחימה</title>
-      <link>https://www.ynet.co.il/news/article/yokra14702349</link>
-      <description>הטכנולוגיה העילאית, המהלך הצבאי הראשוני רב-העוצמה, הניווט המדיני היעיל, הבריתות החכמות, נטרול הכוחות העוינים מאנקרה ועד מוסקבה, העוצמה של העורף – וגם מבט אל מה שנדרש בעתיד. תובנות ראשוניות מהמערכה מול איראן ומה הפנימה ישראל מאז טבח 7 באוקטובר</description>
-      <pubDate>Mon, 09 Mar 2026 00:04:00 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>110</priority-score>
+      <title>IDF sees chance to dismantle Hezbollah as Israel detects ‘near-total disconnect’ with Iran</title>
+      <link>https://www.ynetnews.com/article/syelrwitzx</link>
+      <summary>‘Hezbollah joined the fighting as anticipated,’ IDF officials say; Northern Command aims to push the terror group north and avoid evacuations as strikes on Iran and Lebanon create what the military calls a rare opportunity to finish it</summary>
+      <pubDate>Sun, 08 Mar 2026 16:23:10 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
+      <title>Black rain falls in Tehran after Israeli strikes oil facilities: 'Hardest night since war began'</title>
+      <link>https://www.ynetnews.com/article/sjj4110qfbl</link>
+      <summary>Thick black smoke blankets Tehran after Israeli strikes on fuel storage sites used by Iran’s military; CNN footage shows rainwater mixed with oil pooling on streets, while residents tell BBC Persian it was the worst night since the conflict began</summary>
+      <pubDate>Sun, 08 Mar 2026 15:40:37 +03:00</pubDate>
+      <priority>130</priority>
     </item>
   </items>
 </content-feed>

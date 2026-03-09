@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-09T12:03:10.457028</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-09T12:39:04.514312</generated>
   <items>
     <item>
       <title>Israel strikes Iran as drone hits Bahrain refinery, oil surges past $115 and Trump defends price spike</title>
       <link>https://www.ynetnews.com/article/sj8550ikwl</link>
-      <description>Israeli airstrikes hit regime targets in Isfahan as Iranian drone attack injures dozens at Bahrain refinery; oil jumps above $115 while Donald Trump says higher prices are a 'very small price to pay' for global security</description>
+      <summary>Israeli airstrikes hit regime targets in Isfahan as Iranian drone attack injures dozens at Bahrain refinery; oil jumps above $115 while Donald Trump says higher prices are a 'very small price to pay' for global security</summary>
       <pubDate>Mon, 09 Mar 2026 07:38:19 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>One dead, one critical after missile strike at central Israel construction site; man seriously hurt elsewhere</title>
       <link>https://www.ynetnews.com/article/bk904wht11x</link>
-      <description>Air raid sirens sounded across the south, north and Sharon after launches from Iran, while Israel struck Hezbollah targets in Beirut’s Dahieh district and explosions were reported in Bahrain following a drone strike on an oil facility</description>
+      <summary>Air raid sirens sounded across the south, north and Sharon after launches from Iran, while Israel struck Hezbollah targets in Beirut’s Dahieh district and explosions were reported in Bahrain following a drone strike on an oil facility</summary>
       <pubDate>Mon, 09 Mar 2026 11:49:46 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Reports: Israeli special forces land in eastern Lebanon again; Hezbollah claims exchange of fire</title>
+      <link>https://www.ynetnews.com/article/bkkltaikwe</link>
+      <summary>Lebanese media and Hezbollah say Israeli special forces arrived by helicopter near Nabi Sheet and exchanged fire with terrorists days after a raid linked to the search for missing Israeli navigator Ron Arad</summary>
+      <pubDate>Mon, 09 Mar 2026 06:18:38 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israel expands travel warnings to Armenia, Georgia and Azerbaijan</title>
       <link>https://www.ynetnews.com/article/h1i6giik11g</link>
-      <description>The National Security Council urges Israelis to avoid travel to three additional countries and warns of heightened Iranian efforts to target Israelis and Jews abroad since the launch of Operation Roaring Lion</description>
+      <summary>The National Security Council urges Israelis to avoid travel to three additional countries and warns of heightened Iranian efforts to target Israelis and Jews abroad since the launch of Operation Roaring Lion</summary>
       <pubDate>Mon, 09 Mar 2026 07:10:51 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Macron urges Iran to halt regional attacks as Israel strikes IRGC air force headquarters in Tehran</title>
       <link>https://www.ynetnews.com/article/rjpnqrjkzx</link>
-      <description>French President Emmanuel Macron calls on Tehran to stop attacks and reopen the Strait of Hormuz as the IDF says it destroyed the IRGC air force headquarters in Tehran, a key command center for Iran’s missiles and drones</description>
+      <summary>French President Emmanuel Macron calls on Tehran to stop attacks and reopen the Strait of Hormuz as the IDF says it destroyed the IRGC air force headquarters in Tehran, a key command center for Iran’s missiles and drones</summary>
       <pubDate>Sun, 08 Mar 2026 21:35:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>'Proud to lead on International Women’s Day': female IDF officers on front lines of war with Iran</title>
       <link>https://www.ynetnews.com/article/s1ysevsy11e</link>
-      <description>IDF says thousands of women are leading operational efforts on the front lines and home front in the war with Iran; 'My soldiers and I will remain here as long as needed to protect Israel and its citizens,' says the navy’s first female missile ship commander</description>
+      <summary>IDF says thousands of women are leading operational efforts on the front lines and home front in the war with Iran; 'My soldiers and I will remain here as long as needed to protect Israel and its citizens,' says the navy’s first female missile ship commander</summary>
       <pubDate>Sun, 08 Mar 2026 19:51:49 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>IDF chief: ‘This war will be much longer, but it will shape our future for years’; Sirens across central, southern Israel</title>
       <link>https://www.ynetnews.com/article/rye03qsf11g</link>
-      <description>Air defenses intercept missiles launched from Iran as the IDF says it killed the chief aide to the future supreme leader in Tehran and continued strikes on Hezbollah targets in Lebanon</description>
+      <summary>Air defenses intercept missiles launched from Iran as the IDF says it killed the chief aide to the future supreme leader in Tehran and continued strikes on Hezbollah targets in Lebanon</summary>
       <pubDate>Sun, 08 Mar 2026 19:28:57 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Students in southern Israel clean and prepare missile shelters, aid elderly during war</title>
       <link>https://www.ynetnews.com/article/s1zvemstwx</link>
-      <description>Students from the Ayalim Association’s student villages in Beersheba, Dimona and Sderot have joined local emergency efforts since start of Operation Roaring Lion against Iran</description>
+      <summary>Students from the Ayalim Association’s student villages in Beersheba, Dimona and Sderot have joined local emergency efforts since start of Operation Roaring Lion against Iran</summary>
       <pubDate>Sun, 08 Mar 2026 17:42:59 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>IDF sees chance to dismantle Hezbollah as Israel detects ‘near-total disconnect’ with Iran</title>
       <link>https://www.ynetnews.com/article/syelrwitzx</link>
-      <description>‘Hezbollah joined the fighting as anticipated,’ IDF officials say; Northern Command aims to push the terror group north and avoid evacuations as strikes on Iran and Lebanon create what the military calls a rare opportunity to finish it</description>
+      <summary>‘Hezbollah joined the fighting as anticipated,’ IDF officials say; Northern Command aims to push the terror group north and avoid evacuations as strikes on Iran and Lebanon create what the military calls a rare opportunity to finish it</summary>
       <pubDate>Sun, 08 Mar 2026 16:23:10 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Black rain falls in Tehran after Israeli strikes oil facilities: 'Hardest night since war began'</title>
       <link>https://www.ynetnews.com/article/sjj4110qfbl</link>
-      <description>Thick black smoke blankets Tehran after Israeli strikes on fuel storage sites used by Iran’s military; CNN footage shows rainwater mixed with oil pooling on streets, while residents tell BBC Persian it was the worst night since the conflict began</description>
+      <summary>Thick black smoke blankets Tehran after Israeli strikes on fuel storage sites used by Iran’s military; CNN footage shows rainwater mixed with oil pooling on streets, while residents tell BBC Persian it was the worst night since the conflict began</summary>
       <pubDate>Sun, 08 Mar 2026 15:40:37 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>Trump: I’ll decide when Iran war ends with Netanyahu</title>
-      <link>https://www.ynetnews.com/article/b1plcoskbx</link>
-      <description>US president says final call on ending the conflict will be his, while Secretary of War Pete Hegseth warns Iran will face 'unconditional surrender' as US and Israeli strikes expand</description>
-      <pubDate>Mon, 09 Mar 2026 04:43:03 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
+      <priority>130</priority>
     </item>
   </items>
 </content-feed>
