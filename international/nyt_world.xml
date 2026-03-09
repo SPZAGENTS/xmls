@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T00:08:11.029478</generated>
+  <generated>2026-03-10T00:51:32.605014</generated>
   <items>
     <item>
-      <title>Live Updates: Trump Takes Questions on 10th Day of Iran War</title>
+      <title>Live Updates: Trump Sends Conflicting Messages on Status of War, and Threatens Harder Hit on Iran</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
-      <summary>President Trump told CBS News in the afternoon that “we’re very far ahead of schedule” on the war, and stocks rose after an early plummet. He later told Republican lawmakers that the U.S. still had more to do.</summary>
-      <pubDate>Mon, 09 Mar 2026 22:01:44 +0000</pubDate>
+      <summary>After a day of gyrating markets over concerns about the world’s oil supply, the president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike harder if needed.</summary>
+      <pubDate>Mon, 09 Mar 2026 22:41:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-200-cjkq/09iran-200-cjkq-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html</link>
+      <summary>Oil prices and stocks initially swung wildly, and Iran’s foreign minister promised “surprises,” calling the strikes against his country “Operation Epic Mistake.”</summary>
+      <pubDate>Mon, 09 Mar 2026 22:44:23 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Ukraine Lends a Hand</title>
       <link>https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html</link>
       <summary>Countries targeted by Iranian drones are eager to tap into Ukrainian expertise to shoot them down.</summary>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/dc-turkey-1-kfcv/dc-turkey-1-kfcv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>On the Road With Zelensky, Weathered, Weary and Fighting On</title>
-      <link>https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</link>
-      <summary>Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.</summary>
-      <pubDate>Mon, 09 Mar 2026 04:01:26 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

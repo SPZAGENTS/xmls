@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-10T00:08:11.458593</generated>
+  <generated>2026-03-10T00:51:33.085942</generated>
   <items>
+    <item>
+      <title>Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html</link>
+      <summary>Oil prices and stocks initially swung wildly, and Iran’s foreign minister promised “surprises,” calling the strikes against his country “Operation Epic Mistake.”</summary>
+      <pubDate>Mon, 09 Mar 2026 22:44:23 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War</title>
       <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
@@ -83,17 +94,6 @@
       <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
       <pubDate>Mon, 09 Mar 2026 20:40:35 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Here’s What Happened in the Conflict on Sunday</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-war-mojtaba-khamenei.html</link>
-      <summary>Iran named Mojtaba Khamenei, a son of Ayatollah Ali Khamenei, as his father’s successor. The Pentagon announced the death of a seventh U.S. service member.</summary>
-      <pubDate>Mon, 09 Mar 2026 12:38:30 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-four-fronts-pwqc/08iran-live-four-fronts-pwqc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
     <item>
       <title>France Is Sending a Large Naval Force to the Middle East</title>
