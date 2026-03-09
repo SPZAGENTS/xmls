@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-09T09:51:31.991848</generated>
+  <generated>2026-03-09T10:41:32.105793</generated>
   <items>
+    <item>
+      <title>Live Updates: Iran Names Khamenei’s Son Supreme Leader</title>
+      <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
+      <summary>Top clerics said Mojtaba Khamenei will succeed his slain father, Ayatollah Ali Khamenei. The Israeli military said it was attacking Tehran and Beirut early Monday, and Iran said it had launched missiles toward Israel.</summary>
+      <pubDate>Mon, 09 Mar 2026 08:18:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-live-promo-2amET-qgmz/09iran-live-promo-2amET-qgmz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</link>
+      <summary>As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:01:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
       <link>https://www.nytimes.com/2026/03/08/us/iran-islamic-revolutionary-guards-corps.html</link>
@@ -60,57 +82,31 @@
       </media>
     </item>
     <item>
-      <title>Russia Attacks Kharkiv and Kyiv in Ukraine</title>
-      <link>https://www.nytimes.com/2026/03/07/world/europe/russia-ukraine-kharkiv-zelensky-airstrike.html</link>
-      <summary>At least 10 people were killed when a Russian missile hit a five-story apartment building in the city of Kharkiv, and Kyiv and several other regions also came under attack.</summary>
-      <pubDate>Sat, 07 Mar 2026 20:44:45 +0000</pubDate>
+      <title>For China, Billions of Dollars Are at Risk From a Widening War</title>
+      <link>https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html</link>
+      <summary>The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:32:54 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-ukraine-attack-mlbz/07int-ukraine-attack-mlbz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/06/multimedia/00biz-iran-china-gulf-01-zlfb/00biz-iran-china-gulf-01-zlfb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>For Xi, Trump’s Embrace of War Proves China Needs More Power</title>
-      <link>https://www.nytimes.com/2026/03/07/world/asia/china-iran-power.html</link>
-      <summary>China is learning lessons from the war in Iran. Chief among them, the United States may pose an even greater threat than Beijing thought.</summary>
-      <pubDate>Sat, 07 Mar 2026 05:15:46 +0000</pubDate>
+      <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
+      <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:03:50 +0000</pubDate>
       <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-china-iran-power-pjtc/07int-china-iran-power-pjtc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
     <item>
-      <title>Lebanon at ‘Tipping Point’ as It Seeks to Disarm Hezbollah</title>
-      <link>https://www.nytimes.com/2026/03/06/world/middleeast/lebanon-hezbollah-iran-disarm.html</link>
-      <summary>The country is waiting to see if the government seizes on this moment to disarm the Iranian-backed armed group and how the militants will respond.</summary>
-      <pubDate>Fri, 06 Mar 2026 08:59:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/06/multimedia/06int-lebanon-internal-6-jtqm/06int-lebanon-internal-6-jtqm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html</link>
-      <summary>As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones.</summary>
-      <pubDate>Mon, 09 Mar 2026 04:01:19 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-ukraine-iran-gbtf/09int-ukraine-iran-gbtf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Assembles a New Coalition to ‘Eradicate’ Cartels</title>
-      <link>https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html</link>
-      <summary>At a gathering in Florida, the president asked the leaders of a dozen Latin American and Caribbean nations to help the U.S. military crush armed trafficking groups.</summary>
-      <pubDate>Sun, 08 Mar 2026 04:16:17 +0000</pubDate>
+      <title>On the Road With Zelensky, Weathered, Weary and Fighting On</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</link>
+      <summary>Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:01:26 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-shield-americas-summit-01-bplg/07int-shield-americas-summit-01-bplg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
