@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T23:11:37.200301</generated>
+  <generated>2026-03-10T00:08:15.273292</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump says ships in Strait of Hormuz need to 'show some guts'</title>
+      <title>Iran live updates: Trump says war is 'going to be a short-term excursion'</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Mon, 09 Mar 2026 16:00:58 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 17:53:27 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Strait-Hormuz-1-rt-gmh-260309_1773066750819_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump dismisses soaring gas prices as 'a little glitch' of Iran war</title>
-      <link>https://abcnews.com/Politics/trump-dismisses-soaring-gas-prices-glitch-iran-war/story?id=130903288</link>
-      <summary>President Trump is dismissing skyrocketing gas prices as Americans start to feel the economic ripple effects of his war with Iran.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:45:30 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260309_1773065597821_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260307_abc_social_gas_price_iran_war_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>LIVE: President Trump holds news conference: ABC News Live</title>
+      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Mon, 09 Mar 2026 17:30:15 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
-      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Fri, 06 Mar 2026 16:27:46 -0500</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Spring break travel alert</title>
       <link>https://abcnews.com/GMA/Travel/video/spring-break-travel-alert-130895654</link>
       <summary>Long delays at airports could make for a messy travel season, but there are some steps you can take.</summary>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Alexander brothers found guilty on all counts in sex trafficking trial</title>
+      <link>https://abcnews.com/US/alexander-brothers-found-guilty-counts-sex-trafficking-trial/story?id=130904145</link>
+      <summary>Throughout the five-week trial, 11 women testified that they were sexually assaulted by one or more of the brothers.</summary>
+      <pubDate>Mon, 09 Mar 2026 18:02:25 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/alexander-2-gty-er-260309_1773093560647_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
