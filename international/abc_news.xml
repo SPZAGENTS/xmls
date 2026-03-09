@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T19:51:37.587248</generated>
+  <generated>2026-03-09T20:41:38.956546</generated>
   <items>
     <item>
       <title>Iran live updates: Trump says he's 'nowhere near' decision on ground operation</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Mon, 09 Mar 2026 13:25:07 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 14:31:28 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg</image>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260307_abc_social_gas_price_iran_war_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Syrian student turns to classical violin, nabs scholarship</title>
+      <link>https://abcnews.com/International/video/syrian-student-turns-classical-violin-nabs-scholarship-130857759</link>
+      <summary>Jad Ibrahim was awarded a full scholarship at Interlochen Center for the Arts in Michigan.</summary>
+      <pubDate>Mon, 09 Mar 2026 13:19:40 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260307_abcnl_11a_ibrahim_devey_syria_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/Business/headquarters-sh-er-260309_1773073127859_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Children's museum celebrates Princes Tiana</title>
-      <link>https://abcnews.com/GMA/Culture/video/childrens-museum-celebrates-princes-tiana-130854702</link>
-      <summary>A new exhibit at the Children's Museum of Indianapolis called "Tiana's Joyful Celebration" celebrates Disney's first Black princess before traveling to other museums across the country.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:35:39 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260307_gma_tiana3_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
