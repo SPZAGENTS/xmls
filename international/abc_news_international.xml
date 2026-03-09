@@ -2,13 +2,24 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-09T12:21:37.476646</generated>
+  <generated>2026-03-09T13:11:37.276849</generated>
   <items>
+    <item>
+      <title>Lebanese parliament extends term for 2 years due to war in Middle East</title>
+      <link>https://abcnews.com/International/wireStory/lebanese-parliament-extends-term-2-years-due-war-130891876</link>
+      <summary>The Lebanese parliament has extended its term for two years due to the U.S.-Israel war with Iran and Israeli operations in Lebanon</summary>
+      <pubDate>Mon, 09 Mar 2026 07:02:49 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_dcb94eb15145a3e9194f05727757822f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran war sends shockwaves through African fuel market and economies</title>
       <link>https://abcnews.com/International/wireStory/iran-war-sends-shockwaves-african-fuel-market-economies-130891016</link>
       <summary>Rising global oil prices triggered by the Iran war are increasing economic pressures across Africa, where most countries rely heavily on imported petroleum products</summary>
-      <pubDate>Mon, 09 Mar 2026 00:43:20 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 06:58:35 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_7decf5392c32718ae05a3d9d0b3906c0_4x3_384.jpg</image>
@@ -38,21 +49,10 @@
       </media>
     </item>
     <item>
-      <title>Iranian state news agency says the latest airstrikes targeted an oil storage facility in Tehran</title>
-      <link>https://abcnews.com/International/wireStory/iranian-state-news-agency-latest-airstrikes-targeted-oil-130862499</link>
-      <summary>Iranian state news agency says the latest airstrikes targeted an oil storage facility in Tehran</summary>
-      <pubDate>Sat, 07 Mar 2026 15:04:22 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Japan prepares for deployment of its first home-developed long-range missile</title>
       <link>https://abcnews.com/International/wireStory/japan-prepares-deployment-home-developed-long-range-missile-130890564</link>
       <summary>Japan started deploying its first batch of domestically-developed long-range missile, with their launchers arriving at a southwestern Japanese army camp Monday as the country accelerates its strike-back capability in response to rising challenges in th...</summary>
-      <pubDate>Mon, 09 Mar 2026 01:46:59 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 06:42:38 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a8e483b5f21609ee3b68e38772b59c86_4x3_384.jpg</image>
@@ -71,39 +71,6 @@
       </media>
     </item>
     <item>
-      <title>A nightclub bombing in Peru injures 33, including minors, authorities say</title>
-      <link>https://abcnews.com/International/wireStory/nightclub-bombing-peru-injures-33-including-minors-authorities-130859546</link>
-      <summary>Authorities say a bombing at a nightclub in Peru has injured 33 people, including minors</summary>
-      <pubDate>Sat, 07 Mar 2026 12:19:51 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China’s Xi calls for political loyalty in the military as purge widens</title>
-      <link>https://abcnews.com/International/wireStory/chinas-xi-calls-political-loyalty-military-anti-corruption-130854096</link>
-      <summary>He says he's pushing the fight against corruption as a military purge widens.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:06:10 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_1f13700eec749f9476810a878368a62a_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine’s low-cost drones draw US, Gulf interest, but wartime ban blocks sales</title>
-      <link>https://abcnews.com/International/wireStory/ukraines-low-cost-shahed-killers-draw-us-gulf-130852955</link>
-      <summary>Ukraine is hoping to trade that know-how for scarce Patriot missiles.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:00:29 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_76c91cad24bb98dd201f8f37a93c3464_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Waste mound collapse at Indonesia's largest landfill kills at least 5</title>
       <link>https://abcnews.com/International/wireStory/waste-mound-collapse-indonesias-largest-landfill-kills-5-130891981</link>
       <summary>Officials say a massive avalanche of garbage at Indonesia&amp;rsquo;s largest landfill has killed at least five people and left several others missing after heavy overnight rain triggered the collapse</summary>
@@ -111,6 +78,39 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_44df10d091059a5e18316f6a6794f471_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>At least 14 migrants drown off Turkey after a chase ends in a deadly collision</title>
+      <link>https://abcnews.com/International/wireStory/14-migrants-drown-off-turkey-after-chase-ends-130893532</link>
+      <summary>At least 14 migrants have drowned after a migrant boat crashed into a coast guard boat during a chase off Turkey&amp;rsquo;s Mediterranean coast, officials said</summary>
+      <pubDate>Mon, 09 Mar 2026 07:05:48 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Police in Norway investigate explosion outside US Embassy in Oslo</title>
+      <link>https://abcnews.com/International/wireStory/police-norway-investigate-explosion-us-embassy-oslo-130873302</link>
+      <summary>A &amp;ldquo;loud bang&amp;rdquo; or explosion was reported at around 1 a.m., Oslo police say.</summary>
+      <pubDate>Sun, 08 Mar 2026 12:35:06 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_4d6647454232241ea640e9ff334f2864_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Renewed hunt for missing Flight MH370 comes up empty as families press for answers</title>
+      <link>https://abcnews.com/International/wireStory/12-years-renewed-hunt-missing-flight-mh370-empty-130873015</link>
+      <summary>Malaysian authorities say a renewed deep-sea search in the southern Indian Ocean has failed so far to find Malaysia Airlines Flight MH370, twelve years after it disappeared</summary>
+      <pubDate>Sun, 08 Mar 2026 03:49:34 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_5c564494723ae2d4ead87d7aeebcdef9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

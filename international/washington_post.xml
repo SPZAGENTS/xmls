@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-09T12:21:31.189594</generated>
+  <generated>2026-03-09T13:11:30.488602</generated>
   <items>
+    <item>
+      <title>Oil prices spike over fears of prolonged conflict; Iran rallies around new leader</title>
+      <link>https://www.washingtonpost.com/world/2026/03/09/iran-war-us-trump-israel-strikes/</link>
+      <summary>President Donald Trump called surging oil costs a “very small price to pay.” Group of 7 leaders are set to convene on Monday to assess the economic fallout.</summary>
+      <pubDate>Mon, 09 Mar 2026 11:07:47 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Khamenei’s son chosen as Iran’s supreme leader, extending hardline rule</title>
       <link>https://www.washingtonpost.com/world/2026/03/08/iran-supreme-leader-ali-khamenei-son-mojtaba/</link>
@@ -66,13 +73,6 @@
       <summary>Ukraine has claimed a slew of successes on the front line in recent days, underscoring the effectiveness of its weapons systems, including anti-drone interceptors.</summary>
       <pubDate>Sat, 07 Mar 2026 19:27:05 +0000</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Trump threat to blow up trade deal puts Canada’s auto town on the spot</title>
-      <link>https://www.washingtonpost.com/business/2026/03/01/trump-canada-auto-industry-woes/</link>
-      <summary>The Canadian auto industry has been rocked by President Donald Trump’s abandonment of subsidies for electric vehicles and embrace of tariffs.</summary>
-      <pubDate>Sun, 08 Mar 2026 11:00:16 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>

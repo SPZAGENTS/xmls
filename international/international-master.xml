@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-09T12:21:39.538487</generated>
-  <total_articles>334</total_articles>
+  <generated>2026-03-09T13:11:39.055550</generated>
+  <total_articles>335</total_articles>
   <items>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
@@ -25,6 +25,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/bcb59ac0-1b83-11f1-adbd-33f1e217b4d9.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Ukrainian drone experts to share their knowledge in the Middle East</title>
+      <link>https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's Diplomatic Correspondent, James Landale, is in Ukraine to see the latest anti-drone technology the country has to offer.</summary>
+      <pubDate>Mon, 09 Mar 2026 10:15:06 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c4/live/e85a34b0-1b9c-11f1-b048-c9424b2cf5fd.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Call off King's US visit over Iran, urge Lib Dems</title>
+      <link>https://www.bbc.com/news/articles/cz6evlwl68do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The party says the planned trip should be scrapped after Donald Trump's criticism of the UK's response to the war.</summary>
+      <pubDate>Mon, 09 Mar 2026 10:39:50 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/386856d0-1ba2-11f1-9f65-e32170917420.jpg</image>
       </media>
     </item>
     <item>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f5/live/4c013a60-196b-11f1-8943-0f02ddbbd48f.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Iran school and nearby military base struck multiple times, satellite image reveals</title>
-      <link>https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranian authorities say the attack, which took place on Saturday, killed 168 people.</summary>
-      <pubDate>Thu, 05 Mar 2026 17:46:24 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d7/live/21061ec0-18c1-11f1-b048-c9424b2cf5fd.png</image>
-      </media>
-    </item>
-    <item>
-      <title>'What is the game plan?': The Iran war is unsettling China and its ambitions</title>
-      <link>https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.</summary>
-      <pubDate>Thu, 05 Mar 2026 23:13:57 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg</image>
       </media>
     </item>
   </items>
