@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-09T11:31:29.937713</generated>
+  <generated>2026-03-09T12:21:31.189594</generated>
   <items>
     <item>
       <title>Khamenei’s son chosen as Iran’s supreme leader, extending hardline rule</title>
@@ -61,18 +61,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Why is the U.S. at war with Iran? Here’s what the Trump administration says.</title>
-      <link>https://www.washingtonpost.com/world/2026/03/07/why-us-fighting-iran-trump-administration/</link>
-      <summary>President Donald Trump and top administration officials have offered a range of rationales for launching Operation Epic Fury.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:00:19 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Ukrainian forces halt advance in Zaporizhzhia, Kyiv officials say</title>
       <link>https://www.washingtonpost.com/world/2026/03/07/ukraine-russia-conflict-zaporizhzhia/</link>
       <summary>Ukraine has claimed a slew of successes on the front line in recent days, underscoring the effectiveness of its weapons systems, including anti-drone interceptors.</summary>
       <pubDate>Sat, 07 Mar 2026 19:27:05 +0000</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Trump threat to blow up trade deal puts Canada’s auto town on the spot</title>
+      <link>https://www.washingtonpost.com/business/2026/03/01/trump-canada-auto-industry-woes/</link>
+      <summary>The Canadian auto industry has been rocked by President Donald Trump’s abandonment of subsidies for electric vehicles and embrace of tariffs.</summary>
+      <pubDate>Sun, 08 Mar 2026 11:00:16 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>

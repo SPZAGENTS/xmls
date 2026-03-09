@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-09T11:31:31.240527</generated>
+  <generated>2026-03-09T12:21:32.265039</generated>
   <items>
     <item>
       <title>Live Updates: Iran Names Khamenei’s Son Supreme Leader</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>Top clerics said Mojtaba Khamenei will succeed his slain father, Ayatollah Ali Khamenei. The Israeli military said it was attacking Tehran and Beirut early Monday, and Iran said it had launched missiles toward Israel.</summary>
-      <pubDate>Mon, 09 Mar 2026 08:18:55 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 09:39:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-live-promo-2amET-qgmz/09iran-live-promo-2amET-qgmz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html</link>
+      <summary>Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.</summary>
+      <pubDate>Mon, 09 Mar 2026 09:36:39 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-voices-mkzf/09int-iran-voices-mkzf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-pakistan-iran-qtwm/07int-pakistan-iran-qtwm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Europe Didn’t Want War With Iran. But So Far, It Can’t Stay Out of It.</title>
-      <link>https://www.nytimes.com/2026/03/07/world/europe/europe-iran-trump-war-dilemma.html</link>
-      <summary>From London to Rome and beyond, leaders are facing diplomatic headwinds and criticism at home as they take part in a conflict they did not seek.</summary>
-      <pubDate>Sat, 07 Mar 2026 10:02:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/07int-europe-mideast-photo1-jghk/04int-europe-mideast-photo1-jghk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
