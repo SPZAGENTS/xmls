@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T21:31:37.637151</generated>
+  <generated>2026-03-09T22:21:35.655028</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump says he's 'nowhere near' decision on ground operation</title>
+      <title>Iran live updates: Trump says ships in Strait of Hormuz need to 'show some guts'</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Mon, 09 Mar 2026 14:31:28 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 16:00:58 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/Strait-Hormuz-1-rt-gmh-260309_1773066750819_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump dismisses soaring gas prices as 'a little glitch' of Iran war</title>
+      <link>https://abcnews.com/Politics/trump-dismisses-soaring-gas-prices-glitch-iran-war/story?id=130903288</link>
+      <summary>President Trump is dismissing skyrocketing gas prices as Americans start to feel the economic ripple effects of his war with Iran.</summary>
+      <pubDate>Mon, 09 Mar 2026 15:45:30 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260309_1773065597821_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Unprecedented': Anthropic sues Trump administration after clash over AI use</title>
-      <link>https://abcnews.com/Business/anthropic-sues-trump-administration-after-clash-ai/story?id=130905672</link>
-      <summary>Anthropic seeks to block White House designation of firm as supply-chain risk.</summary>
-      <pubDate>Mon, 09 Mar 2026 13:18:26 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Business/headquarters-sh-er-260309_1773073127859_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
