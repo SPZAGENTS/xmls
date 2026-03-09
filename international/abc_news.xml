@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T09:01:38.128460</generated>
+  <generated>2026-03-09T09:51:36.432763</generated>
   <items>
     <item>
       <title>Iran live updates: Mojtaba Khamenei chosen as Iran's next supreme leader</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836</link>
       <summary>President Donald Trump called upon the Iranian Revolutionary Guard, military and police to "lay down their arms" against the U.S. and Israel.</summary>
-      <pubDate>Mon, 09 Mar 2026 02:39:12 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 03:33:10 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Mojtaba-khamenei-1-gty-gmh-260308_1773007267246_hpMain_4x3t_384.jpg</image>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: 4 killed Friday from tornadoes in Michigan</title>
+      <link>https://abcnews.com/WNT/video/4-killed-friday-tornadoes-michigan-130886301</link>
+      <summary>Michigan Governor Gretchen Whitmer has declared a state of emergency in several counties.</summary>
+      <pubDate>Mon, 09 Mar 2026 01:33:41 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260308_wn_beckstrom_michigan_weather1_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Burger wars heat up social media</title>
       <link>https://abcnews.com/GMA/Food/video/burger-wars-heat-social-media-130819034</link>
       <summary>Burger King is changing its Whopper for the first time in a decade and McDonald's is bringing the Big Arch to the U.S., but video of McDonald's CEO tasting the sandwich is drawing the most attention.</summary>
@@ -89,17 +100,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260306_gma_ally_mcdonalds3_0741_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Senator helps remove protester during Senate hearing</title>
-      <link>https://abcnews.com/Politics/video/senator-helps-remove-protester-senate-hearing-130792922</link>
-      <summary>Montana Sen. Tim Sheehy was filmed in a confrontation with a protester during a hearing on Capitol Hill Wednesday and assisted officers with his removal.</summary>
-      <pubDate>Thu, 05 Mar 2026 18:59:04 -0500</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/260305_gmafl_war_debate_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

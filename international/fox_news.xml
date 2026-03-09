@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T09:01:29.937977</generated>
+  <generated>2026-03-09T09:51:27.616766</generated>
   <items>
     <item>
       <title>Private security firm helping Americans evacuate the Middle East amid war with Iran</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Bengals star Ja'Marr Chase delivers expletive-filled reaction to Ravens trading for Maxx Crosby: 'Oh my God!'</title>
-      <link>https://www.foxnews.com/sports/bengals-star-jamarr-chase-delivers-expletive-filled-reaction-ravens-trading-maxx-crosby-oh-my-god</link>
-      <summary>Bengals star Ja&amp;apos;Marr Chase unleashed an expletive-filled rant on a livestream after learning the Ravens traded for Raiders pass rusher Maxx Crosby.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:32:11 -0500</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jamarr-chase-maxx-crosby.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>US-sanctioned Mojtaba Khamenei named Iran’s next supreme leader after father’s death: reports</title>
       <link>https://www.foxnews.com/world/us-sanctioned-mojtaba-khamenei-named-irans-next-supreme-leader-after-fathers-death-reports</link>
       <summary>Mojtaba Khamenei, son of Iran&amp;apos;s current late Supreme Leader Ayatollah Ali Khamenei, was reportedly chosen as the next supreme leader under pressure from the IRGC.</summary>
@@ -67,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojataba-khamenei.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US conducts strike on another boat carrying suspected narco-traffickers, killing 6 people</title>
+      <link>https://www.foxnews.com/politics/us-military-strike-suspected-narco-boat-eastern-pacific</link>
+      <summary>The Pentagon struck another boat carrying suspected narco-traffickers, killing 6 people aboard the vessel as the death from U.S. boat attacks reaches at least 156.</summary>
+      <pubDate>Mon, 09 Mar 2026 02:54:32 -0500</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-boat-strike-military-narco-terrorists.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

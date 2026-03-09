@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-09T09:01:38.915414</generated>
+  <generated>2026-03-09T09:51:37.192192</generated>
   <items>
     <item>
       <title>Iran war sends shockwaves through African fuel market and economies</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>At least 7 killed in Ukraine's Kharkiv as Russian missile hits apartment building</title>
-      <link>https://abcnews.com/International/wireStory/7-killed-ukraines-kharkiv-russian-missile-hits-apartment-130851741</link>
-      <summary>Ukrainian officials say that at least seven people have been killed and 10 others, including three children, have been wounded by a Russian missile strike on a five-story residential building in Ukraine&amp;rsquo;s second-largest city, Kharkiv</summary>
-      <pubDate>Sat, 07 Mar 2026 03:59:01 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_f555c370a7439a41393e74a6e603db43_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Japan prepares for deployment of its first home-developed long-range missile</title>
       <link>https://abcnews.com/International/wireStory/japan-prepares-deployment-home-developed-long-range-missile-130890564</link>
       <summary>Japan started deploying its first batch of domestically-developed long-range missile, with their launchers arriving at a southwestern Japanese army camp Monday as the country accelerates its strike-back capability in response to rising challenges in th...</summary>
@@ -67,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a8e483b5f21609ee3b68e38772b59c86_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Officials say 3 arrested in Peru nightclub bombing as number of injured rises to 44</title>
+      <link>https://abcnews.com/International/wireStory/officials-3-arrested-peru-nightclub-bombing-number-injured-130882248</link>
+      <summary>Authorities in Peru tell The Associated Press that they arrested three people following the deadly bombing of a nightclub as the number of those injured rose to 44</summary>
+      <pubDate>Mon, 09 Mar 2026 03:00:55 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Motorists stranded and military deployed after heavy rains pound Kenyan capital</title>
-      <link>https://abcnews.com/International/wireStory/motorists-stranded-military-deployed-after-heavy-rains-pound-130850789</link>
-      <summary>Eight people have died, flights have been disrupted and the military was deployed as motorists in the Kenyan capital, Nairobi, were stranded for hours following heavy rains overnight</summary>
-      <pubDate>Sat, 07 Mar 2026 03:58:41 -0500</pubDate>
-      <priority>90</priority>
+      <title>Waste mound collapse at Indonesia's largest landfill kills at least 5 and leaves several missing</title>
+      <link>https://abcnews.com/International/wireStory/waste-mound-collapse-indonesias-largest-landfill-kills-5-130891981</link>
+      <summary>Officials say a massive avalanche of garbage at Indonesia&amp;rsquo;s largest landfill has killed at least five people and left several others missing after heavy overnight rain triggered the collapse</summary>
+      <pubDate>Mon, 09 Mar 2026 03:30:54 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d110ed756054d1ca6869aa3254b20d1f_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_44df10d091059a5e18316f6a6794f471_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
