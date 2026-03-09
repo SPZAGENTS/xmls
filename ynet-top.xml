@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-09T12:58:21.990229</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-09T14:03:27.690849</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>Israel strikes Iran as drone hits Bahrain refinery, oil surges past $115 and Trump defends price spike</title>
       <link>https://www.ynetnews.com/article/sj8550ikwl</link>
-      <summary>Israeli airstrikes hit regime targets in Isfahan as Iranian drone attack injures dozens at Bahrain refinery; oil jumps above $115 while Donald Trump says higher prices are a 'very small price to pay' for global security</summary>
+      <description>Israeli airstrikes hit regime targets in Isfahan as Iranian drone attack injures dozens at Bahrain refinery; oil jumps above $115 while Donald Trump says higher prices are a 'very small price to pay' for global security</description>
       <pubDate>Mon, 09 Mar 2026 07:38:19 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>IDF launches targeted raid in southern Lebanon: 'The end is not near, it will take time'</title>
       <link>https://www.ynetnews.com/article/sjgtsmntzl</link>
-      <summary>Israeli forces doubled troop levels along the Lebanon border and launched a focused raid against Hezbollah near the frontier, while airstrikes continued in Iran against regime command centers and missile sites’</summary>
+      <description>Israeli forces doubled troop levels along the Lebanon border and launched a focused raid against Hezbollah near the frontier, while airstrikes continued in Iran against regime command centers and missile sites’</description>
       <pubDate>Mon, 09 Mar 2026 12:51:34 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>One dead, one critical after missile strike at central Israel construction site; man seriously hurt elsewhere</title>
       <link>https://www.ynetnews.com/article/bk904wht11x</link>
-      <summary>Iran fires missile barrages across Israel as rockets are also launched from Lebanon; air defenses intercept most threats, but a missile with a split warhead hits central Israel, killing a man and critically wounding another at a Yehud construction site; IDF strikes Hezbollah t...</summary>
+      <description>Iran fires missile barrages across Israel as rockets are also launched from Lebanon; air defenses intercept most threats, but a missile with a split warhead hits central Israel, killing a man and critically wounding another at a Yehud construction site; IDF strikes Hezbollah t...</description>
       <pubDate>Mon, 09 Mar 2026 11:49:46 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>Reports: Israeli special forces land in eastern Lebanon again; Hezbollah claims exchange of fire</title>
-      <link>https://www.ynetnews.com/article/bkkltaikwe</link>
-      <summary>Lebanese media and Hezbollah say Israeli special forces arrived by helicopter near Nabi Sheet and exchanged fire with terrorists days after a raid linked to the search for missing Israeli navigator Ron Arad</summary>
-      <pubDate>Mon, 09 Mar 2026 06:18:38 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Israel expands travel warnings to Armenia, Georgia and Azerbaijan</title>
       <link>https://www.ynetnews.com/article/h1i6giik11g</link>
-      <summary>The National Security Council urges Israelis to avoid travel to three additional countries and warns of heightened Iranian efforts to target Israelis and Jews abroad since the launch of Operation Roaring Lion</summary>
+      <description>The National Security Council urges Israelis to avoid travel to three additional countries and warns of heightened Iranian efforts to target Israelis and Jews abroad since the launch of Operation Roaring Lion</description>
       <pubDate>Mon, 09 Mar 2026 07:10:51 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Macron urges Iran to halt regional attacks as Israel strikes IRGC air force headquarters in Tehran</title>
       <link>https://www.ynetnews.com/article/rjpnqrjkzx</link>
-      <summary>French President Emmanuel Macron calls on Tehran to stop attacks and reopen the Strait of Hormuz as the IDF says it destroyed the IRGC air force headquarters in Tehran, a key command center for Iran’s missiles and drones</summary>
+      <description>French President Emmanuel Macron calls on Tehran to stop attacks and reopen the Strait of Hormuz as the IDF says it destroyed the IRGC air force headquarters in Tehran, a key command center for Iran’s missiles and drones</description>
       <pubDate>Sun, 08 Mar 2026 21:35:40 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>'Proud to lead on International Women’s Day': female IDF officers on front lines of war with Iran</title>
       <link>https://www.ynetnews.com/article/s1ysevsy11e</link>
-      <summary>IDF says thousands of women are leading operational efforts on the front lines and home front in the war with Iran; 'My soldiers and I will remain here as long as needed to protect Israel and its citizens,' says the navy’s first female missile ship commander</summary>
+      <description>IDF says thousands of women are leading operational efforts on the front lines and home front in the war with Iran; 'My soldiers and I will remain here as long as needed to protect Israel and its citizens,' says the navy’s first female missile ship commander</description>
       <pubDate>Sun, 08 Mar 2026 19:51:49 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>IDF chief: ‘This war will be much longer, but it will shape our future for years’; Sirens across central, southern Israel</title>
       <link>https://www.ynetnews.com/article/rye03qsf11g</link>
-      <summary>Air defenses intercept missiles launched from Iran as the IDF says it killed the chief aide to the future supreme leader in Tehran and continued strikes on Hezbollah targets in Lebanon</summary>
+      <description>Air defenses intercept missiles launched from Iran as the IDF says it killed the chief aide to the future supreme leader in Tehran and continued strikes on Hezbollah targets in Lebanon</description>
       <pubDate>Sun, 08 Mar 2026 19:28:57 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Students in southern Israel clean and prepare missile shelters, aid elderly during war</title>
       <link>https://www.ynetnews.com/article/s1zvemstwx</link>
-      <summary>Students from the Ayalim Association’s student villages in Beersheba, Dimona and Sderot have joined local emergency efforts since start of Operation Roaring Lion against Iran</summary>
+      <description>Students from the Ayalim Association’s student villages in Beersheba, Dimona and Sderot have joined local emergency efforts since start of Operation Roaring Lion against Iran</description>
       <pubDate>Sun, 08 Mar 2026 17:42:59 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>IDF sees chance to dismantle Hezbollah as Israel detects ‘near-total disconnect’ with Iran</title>
       <link>https://www.ynetnews.com/article/syelrwitzx</link>
-      <summary>‘Hezbollah joined the fighting as anticipated,’ IDF officials say; Northern Command aims to push the terror group north and avoid evacuations as strikes on Iran and Lebanon create what the military calls a rare opportunity to finish it</summary>
+      <description>‘Hezbollah joined the fighting as anticipated,’ IDF officials say; Northern Command aims to push the terror group north and avoid evacuations as strikes on Iran and Lebanon create what the military calls a rare opportunity to finish it</description>
       <pubDate>Sun, 08 Mar 2026 16:23:10 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
+    </item>
+    <item>
+      <title>Trump: I’ll decide when Iran war ends with Netanyahu</title>
+      <link>https://www.ynetnews.com/article/b1plcoskbx</link>
+      <description>US president says final call on ending the conflict will be his, while Secretary of War Pete Hegseth warns Iran will face 'unconditional surrender' as US and Israeli strikes expand</description>
+      <pubDate>Mon, 09 Mar 2026 04:43:03 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
   </items>
 </content-feed>
