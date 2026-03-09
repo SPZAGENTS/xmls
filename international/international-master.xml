@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-09T19:02:03.931953</generated>
-  <total_articles>294</total_articles>
+  <generated>2026-03-09T19:51:40.335511</generated>
+  <total_articles>335</total_articles>
   <items>
     <item>
       <title>US missile hit military base near Iran school, video analysis shows</title>
@@ -36,17 +36,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Call off King's US visit over Iran, urge Lib Dems</title>
-      <link>https://www.bbc.com/news/articles/cz6evlwl68do?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The party says the planned trip should be scrapped after Donald Trump's criticism of the UK's response to the war.</summary>
-      <pubDate>Mon, 09 Mar 2026 13:35:59 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b41a/live/386856d0-1ba2-11f1-9f65-e32170917420.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444b/live/bb58f060-1b14-11f1-a489-ff7ad54780bc.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president</title>
+      <link>https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The president also calls on Tehran to pick new leaders who are "acceptable" to the White House after six days of war.</summary>
+      <pubDate>Sat, 07 Mar 2026 02:04:06 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg</image>
       </media>
     </item>
   </items>
