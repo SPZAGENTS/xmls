@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-09T01:31:26.940180</generated>
+  <generated>2026-03-09T02:21:28.386873</generated>
   <items>
+    <item>
+      <title>Oil prices jump above $100 for first time in four years</title>
+      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iranian oil facilities were hit as the US and Israel launched a fresh wave of airstrikes at the weekend.</summary>
+      <pubDate>Mon, 09 Mar 2026 00:19:37 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a78/live/00dcd0f0-1b49-11f1-a216-1d27169d9c1c.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -34,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444b/live/bb58f060-1b14-11f1-a489-ff7ad54780bc.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Ayatollah's son chosen' and 'Iran threatens oil facilities'</title>
+      <link>https://www.bbc.com/news/articles/cwy62z5p93zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The naming of Iran's new Supreme Leader as air strikes continue across the Middle East leads Monday's papers.</summary>
+      <pubDate>Mon, 09 Mar 2026 00:10:42 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a40/live/3ea90140-1b46-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4b/live/344edcc0-1b3b-11f1-a078-550de2201805.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>UK opens charter flights booking portal for Britons in Dubai</title>
-      <link>https://www.bbc.com/news/articles/cp8rp70x4n4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It comes after thousands of flights had been cancelled in the Middle East in the past week.</summary>
-      <pubDate>Sun, 08 Mar 2026 11:32:56 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e34/live/ef776040-1aef-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Explosion at US embassy in Oslo may have been terrorism, Norway police say</title>
-      <link>https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Police say they are investigating other motives after the blast caused minor damage to the embassy building.</summary>
-      <pubDate>Sun, 08 Mar 2026 18:32:37 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/e25fadf0-1ada-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T01:31:28.351353</generated>
+  <generated>2026-03-09T02:21:29.782105</generated>
   <items>
     <item>
       <title>Waltz shuts down NBC anchor, arguing Trump is ending a war Iran started with the US in 1979</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Air Force veteran warns 'cartels don’t collapse — they fracture' after notorious drug lord killed</title>
-      <link>https://www.foxnews.com/us/air-force-veteran-warns-cartels-dont-collapse-fracture-after-notorious-drug-lord-killed</link>
-      <summary>Death of cartel kingpin &amp;quot;El Mencho&amp;quot; marks major win against fentanyl trafficking, but expert says sustained pressure is still needed to combat cartels.</summary>
-      <pubDate>Sun, 08 Mar 2026 14:00:46 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/el-mencho-mughsot-cjng.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump admin turns Venezuela into major US oil supplier as global shipping crisis eases</title>
       <link>https://www.foxnews.com/media/trump-admin-turns-venezuela-major-us-oil-supplier-global-shipping-crisis-eases</link>
       <summary>Major policy shift sees Venezuela become key U.S. oil supplier under Trump administration, with new contracts signed for Gulf Coast refineries.</summary>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/country-joe.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UFC announces card for White House event</title>
+      <link>https://www.foxnews.com/sports/ufc-announces-card-white-house-event</link>
+      <summary>The UFC announced its card for the America 250 event that will take place in Washington, D.C., on June 14. Two championship bouts headline the action.</summary>
+      <pubDate>Sun, 08 Mar 2026 15:07:32 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ufc-dana-white-030826-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
