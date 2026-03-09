@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-09T20:41:34.765180</generated>
+  <generated>2026-03-09T21:31:33.080451</generated>
   <items>
     <item>
       <title>Live Updates: Oil Price Surge Rattles Markets; Iranians Appear Conflicted on Choice of Leader</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>Stocks fell on fears of the effects of the Iran war on energy prices. The toll of the escalated fighting rose sharply in Lebanon, where more than 600,000 people have been displaced, according to its president.</summary>
-      <pubDate>Mon, 09 Mar 2026 18:34:36 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 19:21:22 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-200-cjkq/09iran-200-cjkq-mediumSquareAt3X.jpg</image>
@@ -19,10 +19,21 @@
       <title>Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers</title>
       <link>https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html</link>
       <summary>Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.</summary>
-      <pubDate>Mon, 09 Mar 2026 12:01:14 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 18:47:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-voices-mkzf/09int-iran-voices-mkzf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s Choice of New Leader Signals Defiance to Foes</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
+      <summary>Supreme Leader Mojtaba Khamenei could prove to be even more radical than his father and predecessor, Ayatollah Ali Khamenei, who was killed by the U.S. and Israel at the start of the war.</summary>
+      <pubDate>Mon, 09 Mar 2026 19:00:49 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-leader-1-bcjp/09int-iran-leader-1-bcjp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-iran-brics-1-wchl/07int-iran-brics-1-wchl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In War’s First Week, a Punishing Military Campaign With No Coherent Endgame</title>
-      <link>https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html</link>
-      <summary>The U.S. and Israel have pounded Iran’s leadership and undercut its defense capabilities, but President Trump has offered wildly different explanations for what he hopes to achieve.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:23:09 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07DC-IRAN-WAR-01-cpwf/07DC-IRAN-WAR-01-cpwf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
