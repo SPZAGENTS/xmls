@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-09T17:21:31.305728</generated>
+  <generated>2026-03-09T18:11:32.986110</generated>
   <items>
     <item>
       <title>A wartime presidency defined by Trump’s unique political style</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Intel report warns large-scale war ‘unlikely’ to oust Iran’s regime</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/07/iran-intelligence-report-unlikely-oust-regime/</link>
-      <summary>A classified U.S. report doubts that Iran’s opposition would take power following either a short or extended U.S. military campaign.</summary>
-      <pubDate>Sat, 07 Mar 2026 16:09:33 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump is betting that bigger income tax refunds will boost the GOP</title>
       <link>https://www.washingtonpost.com/politics/2026/03/08/trump-tax-return-gop-strategy/</link>
       <summary>Republicans designed parts of Trump’s signature tax law to deliver larger refunds this filing season, offering a potential political boost before the midterms.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/08/texas-elections-latino-turnout-democrats/</link>
       <summary>Strong Democratic turnout last week in heavily Latino parts of Texas has some Republicans fearing they will struggle to maintain the coalition Trump built in 2024.</summary>
       <pubDate>Sun, 08 Mar 2026 09:00:39 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Tim Walz talks about the ‘generational trauma’ his state has faced</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/08/tim-walz-minnesota-trump-pretti-medicaid/</link>
+      <summary>Amid President Donald Trump’s immigration crackdown, Americans saw Minnesotans at their best, looking out for each other, the governor tells The Post.</summary>
+      <pubDate>Sun, 08 Mar 2026 09:00:37 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
