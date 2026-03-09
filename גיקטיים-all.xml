@@ -2,7 +2,7 @@
 <content-feed>
   <title>גיקטיים — All Articles</title>
   <source>גיקטיים</source>
-  <generated>2026-03-07T09:01:07.498401</generated>
+  <generated>2026-03-09T08:02:14.152386</generated>
   <items>
     <item>
       <title>סטארטאפ ישראלי שלח למשתמשים שטר של 100 דולר ומגרסה</title>
@@ -16,13 +16,6 @@
       <link>https://www.geektime.co.il/reclaim-security-raises-20-series-a/</link>
       <summary>חודש ימים. זה משך הזמן שלוקח לחברות וארגונים לתקן לרוב חולשות אבטחה קריטיות. אתם יודעים כמה זמן לוקח לתוקפים לנצל את החולשות הללו? פחות מדקה. הקצב של ההאקרים רק הולך ונהיה מהיר יותר, ואתם תמיד תהיו בעמדת נחיתות מולם. אז סטארטאפ ישראלי טוען שהוא יכול להביס גם את ההאקרים המצוידי...</summary>
       <pubDate>Wed, 04 Mar 2026 15:10:24 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>"היו בהלם ממה שמצאנו": סטארטאפ ישראלי נחשף עם גיוס של 38 מיליון דולר</title>
-      <link>https://www.geektime.co.il/fig-security-comes-out-of-stealth-with-38m-in-funding/</link>
-      <summary>ארגונים משקיעים היום מיליארדים במרכזי תפעול אבטחת המידע שלהם (SecOps), אבל הבעיה היא שקשה להם לסמוך על התשתית הזאת שתתריע ברגע האמת. הסטארטאפ הישראלי החדש Fig Security (פיג) מצא לזה פתרון. הבעיה: כשלים שקטים "כשלים שקטים קורים כל הזמן ושוברים את היכולת של הארגונים להגיב לאיומי...</summary>
-      <pubDate>Tue, 03 Mar 2026 14:00:32 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -40,11 +33,18 @@
       <priority>85</priority>
     </item>
     <item>
-      <title>אפל חושפת מסך חדש: Studio Display XDR</title>
-      <link>https://www.geektime.co.il/apple-announces-studio-display-xdr/</link>
-      <summary>היום השני של שבוע ההכרזות הגדול של אפל כבר הביא עימו את ה-MacBook Air החדש, ואת דגמי ה-MacBook Pro החדשים שמגיעים עם מעבדי ה-M5 Pro ו-M5 Max שפותחו גם בישראל. אבל מה לגבי אביזר משלים לכל הסיפור הזה? בדיוק בשביל זה אפל מכריזה גם על ה-Studio Display, המסך החדש שלה, שמגיע בתצורה ...</summary>
-      <pubDate>Tue, 03 Mar 2026 16:18:57 +0000</pubDate>
-      <priority>85</priority>
+      <title>נטפליקס אנד טיל: המלצות הצפייה של גיקטיים לימים מתוחים</title>
+      <link>https://www.geektime.co.il/shows-to-stream-during-hard-times-round-2/</link>
+      <summary>ושוב אנחנו איתכם בעוד שבוע שבו כולנו נמצאים בטלגרם יותר מאשר מחוץ לבית (כבר הצטרפתם אגב לערוץ הטלגרם של גיקטיים?). כולנו מתוחים. כולנו עצבניים. כולנו עייפים. אז כינסנו לכינוס דחוף את קבינט הבינג' של גיקטיים ואספנו את המלצות הצפייה שלהם ושלהן, לצפייה קצת פחות מחייבת ומותחת ויות...</summary>
+      <pubDate>Sat, 07 Mar 2026 12:44:47 +0000</pubDate>
+      <priority>80</priority>
+    </item>
+    <item>
+      <title>800 אלף בשבוע: לא רק אתם מוצפים בהתראות בשבוע האחרון, גם חובבי החלל</title>
+      <link>https://www.geektime.co.il/vera-c-rubin-observatory-bombards-astronomers-ewith-800k-alerts/</link>
+      <summary>בשבוע האחרון הישראלים מוצפים בהתראות לטלפונים שלהם בעקבות מה שמתרחש מעלינו בשמיים, אבל מתברר שלא רק אנחנו. גם חובבי חלל בכל העולם מוצפים בימים האחרונים בהתראות חוזרות ונשנות &amp;#8211; רק הסיבה משמחת יותר. כמעט כמו התראות פיקוד העורף מצפה הכוכבים ורה רובין בצ'ילה החל להפעיל בשבוע...</summary>
+      <pubDate>Sat, 07 Mar 2026 09:57:52 +0000</pubDate>
+      <priority>70</priority>
     </item>
     <item>
       <title>לא שמר על מפתחות ה-API וסיים עם חוב של 82 אלף דולר לגוגל</title>
