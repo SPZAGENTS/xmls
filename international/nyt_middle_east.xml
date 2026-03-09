@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-09T03:11:33.480684</generated>
+  <generated>2026-03-09T04:11:37.379537</generated>
   <items>
+    <item>
+      <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
+      <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
+      <pubDate>Mon, 09 Mar 2026 01:44:31 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Here’s What Happened in the Conflict on Sunday</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-war-mojtaba-khamenei.html</link>
@@ -41,7 +48,7 @@
       <title>State Dept. Said to Order Diplomats in Saudi Arabia to Leave</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/state-department-diplomats-saudi-arabia-departure.html</link>
       <summary>The ordered departure of U.S. employees in the kingdom indicates that senior diplomats are bracing for a possible surge in violence in the war with Iran, officials say.</summary>
-      <pubDate>Mon, 09 Mar 2026 00:51:41 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 01:55:54 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-saudi-arabia-kftm/08iran-live-saudi-arabia-kftm-mediumSquareAt3X.jpg</image>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-iran-oil-01-bqcf/08iran-live-iran-oil-01-bqcf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israeli Strikes on Fuel Depots Send Black Clouds Over Iranian Capital</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/israeli-strikes-fuel-depots-tehran.html</link>
-      <summary>Immense dark plumes of smoke enveloped Tehran after the Israeli military expanded attacks on energy infrastructure.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:14:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/08iran-live-Iran-scene-qzbk-cover/08iran-live-Iran-scene-qzbk-cover-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

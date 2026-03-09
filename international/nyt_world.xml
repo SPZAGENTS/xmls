@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-09T03:11:32.977703</generated>
+  <generated>2026-03-09T04:11:36.894512</generated>
   <items>
     <item>
       <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
@@ -93,6 +93,13 @@
       </media>
     </item>
     <item>
+      <title>U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows</title>
+      <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html</link>
+      <summary>The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.</summary>
+      <pubDate>Mon, 09 Mar 2026 01:44:31 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Here’s What Happened in the Conflict on Sunday</title>
       <link>https://www.nytimes.com/2026/03/08/world/middleeast/iran-war-mojtaba-khamenei.html</link>
       <summary>Iran named Mojtaba Khamenei, a son of Ayatollah Ali Khamenei, as his father’s successor. The Pentagon announced the death of a seventh U.S. service member.</summary>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08iran-live-four-fronts-pwqc/08iran-live-four-fronts-pwqc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Who Is Mojtaba Khamenei, Iran’s New Supreme Leader?</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-supreme-leader.html</link>
-      <summary>The selection of a son of Ayatollah Ali Khamenei, who was killed in a strike on his compound at the start of the war, could anger Iranians seeking change.</summary>
-      <pubDate>Sun, 08 Mar 2026 22:06:46 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/03/multimedia/03iran-live-khamenei-son-vqtz/03iran-live-khamenei-son-vqtz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
