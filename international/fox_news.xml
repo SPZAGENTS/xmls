@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T13:11:28.289722</generated>
+  <generated>2026-03-09T14:02:42.149965</generated>
   <items>
+    <item>
+      <title>Petraeus calls for immediate sanctions on Russia over alleged intelligence support to Iran</title>
+      <link>https://www.foxnews.com/media/petraeus-calls-immediate-sanctions-russia-over-alleged-intelligence-support-iran</link>
+      <summary>Gen. Petraeus urges immediate Russia sanctions as reports emerge of Moscow providing Iran intelligence support that may explain improved missile accuracy.</summary>
+      <pubDate>Mon, 09 Mar 2026 07:41:36 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/petraeus-iran-arrogance-fox-news-001.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Mojtaba Khamenei named Iran’s new supreme leader after father’s death and more top headlines</title>
       <link>https://www.foxnews.com/us/mojtaba-khamenei-named-irans-new-supreme-leader-after-fathers-death-more-top-headlines</link>
@@ -38,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>Private security firm helping Americans evacuate the Middle East amid war with Iran</title>
-      <link>https://www.foxnews.com/world/private-security-firm-evacuates-americans-iran-conflict</link>
-      <summary>A global security firm based in Virginia says it has evacuated more than 4,000 people from the Middle East since the U.S. and Israel launched a joint attack on Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 23:25:44 -0500</pubDate>
-      <priority>100</priority>
+      <title>Warrants served in New Jersey, Pennsylvania as feds look into possible NYC terrorism</title>
+      <link>https://www.foxnews.com/us/warrants-served-new-jersey-pennsylvania-feds-look-possible-nyc-terrorism</link>
+      <summary>Federal investigators are probing a possible act of terrorism after explosive devices were thrown during a New York City protest.</summary>
+      <pubDate>Mon, 09 Mar 2026 07:20:11 -0500</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/global-guardian.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/police-activity-new-york-ied.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>US conducts strike on another boat carrying suspected narco-traffickers, killing 6 people</title>
-      <link>https://www.foxnews.com/politics/us-military-strike-suspected-narco-boat-eastern-pacific</link>
-      <summary>The Pentagon struck another boat carrying suspected narco-traffickers, killing six people aboard the vessel as the death from U.S. boat attacks reaches at least 156.</summary>
-      <pubDate>Mon, 09 Mar 2026 02:54:32 -0500</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-boat-strike-military-narco-terrorists.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>A cure for cancer would deliver $185T economic windfall, report says</title>
       <link>https://www.foxnews.com/politics/cure-cancer-would-deliver-100-trillion-economic-windfall-report-says</link>
       <summary>New study reveals curing cancer could deliver massive $185 trillion economic jackpot to U.S. economy - roughly $15,000 per American citizen annually.</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Pennsylvania state trooper fatally shot during traffic stop, officials say</title>
-      <link>https://www.foxnews.com/us/pennsylvania-state-trooper-fatally-shot-during-traffic-stop</link>
-      <summary>A Pennsylvania state trooper was shot and killed on Sunday night while conducting a traffic stop in Chester County, according to officials.</summary>
-      <pubDate>Mon, 09 Mar 2026 00:39:19 -0500</pubDate>
-      <priority>80</priority>
+      <title>GOP senator calls for Trump to remove adviser Stephen Miller</title>
+      <link>https://www.foxnews.com/media/gop-senator-calls-trump-remove-adviser-stephen-miller</link>
+      <summary>North Carolina Senator Thom Tillis criticized White House adviser Stephen Miller for his hardline approach to immigration and called him an &amp;quot;embarrassment.&amp;quot;</summary>
+      <pubDate>Mon, 09 Mar 2026 06:00:33 -0500</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/1200/675/pennsylvania-state-police.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/stephen-miller-january-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
