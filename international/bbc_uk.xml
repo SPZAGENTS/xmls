@@ -2,10 +2,10 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-09T07:21:26.674066</generated>
+  <generated>2026-03-09T08:11:27.483125</generated>
   <items>
     <item>
-      <title>Oil prices surge above $110 and shares slide over Iran war</title>
+      <title>Oil prices surge above $100 and shares slide over Iran war</title>
       <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.</summary>
       <pubDate>Mon, 09 Mar 2026 02:19:19 GMT</pubDate>
@@ -19,7 +19,7 @@
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:32:57 GMT</pubDate>
+      <pubDate>Mon, 09 Mar 2026 05:40:05 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ca/live/5edeb9b0-1b04-11f1-ab07-5d250ad452fb.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Starmer and Trump speak for first time since president's Iran criticism</title>
-      <link>https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The phone call comes after a week in which Donald Trump repeatedly expressed frustration at Keir Starmer's stance on Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:56:34 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/cb9345a0-1b0c-11f1-870b-03d961994130.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>'Shameful' pitch invasion by Celtic and Rangers fans condemned by police</title>
       <link>https://www.bbc.com/news/articles/cy4w22znlyvo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>IRA bomb victims' civil court case begins against Gerry Adams</title>
+      <link>https://www.bbc.com/news/articles/cy4ww4dp33jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The men are seeking a ruling that he is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.</summary>
+      <pubDate>Mon, 09 Mar 2026 06:02:08 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1139/live/5082ce20-18ab-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
