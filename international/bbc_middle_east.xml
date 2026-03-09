@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-09T15:41:31.691496</generated>
+  <generated>2026-03-09T16:31:31.386752</generated>
   <items>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ca/live/5edeb9b0-1b04-11f1-ab07-5d250ad452fb.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Five Iranian footballers 'in Australian safe house' after Asian Cup protest</title>
+      <link>https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.</summary>
+      <pubDate>Mon, 09 Mar 2026 14:11:03 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/bcb59ac0-1b83-11f1-adbd-33f1e217b4d9.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/266ce7b0-18d8-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran targets headquarters of Iranian Kurdish forces in Iraq</title>
-      <link>https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.</summary>
-      <pubDate>Thu, 05 Mar 2026 11:35:09 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3094/live/d7016cd0-1893-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

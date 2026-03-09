@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T15:41:40.346724</generated>
+  <generated>2026-03-09T16:31:40.133348</generated>
   <items>
-    <item>
-      <title>Iran live updates: 3 injured as Iranian missiles target central Israel</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
-      <summary>Two men were in serious condition in central Israel, said Magen David Adom.</summary>
-      <pubDate>Mon, 09 Mar 2026 08:41:08 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/tel-aviv-main_1773059951730_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iran may be activating sleeper cells outside the country, alert says</title>
       <link>https://abcnews.com/US/iran-activating-sleeper-cells-alert/story?id=130897687</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/tehran-1-ap-jef-260309_1773058622529_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran live updates: 7th killed service member is identified</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
+      <summary>Two men were in serious condition in central Israel, said Magen David Adom.</summary>
+      <pubDate>Mon, 09 Mar 2026 10:26:20 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/dover-salute-02-gty-jt-260307_1772917222881_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,7 +85,7 @@
       <title>WATCH: Spring break travel alert</title>
       <link>https://abcnews.com/GMA/Travel/video/spring-break-travel-alert-130895654</link>
       <summary>Long delays at airports could make for a messy travel season, but there are some steps you can take.</summary>
-      <pubDate>Mon, 09 Mar 2026 09:24:26 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 09:54:48 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260309_gma_benitez3_hpMain_4x3_384.jpg</image>
