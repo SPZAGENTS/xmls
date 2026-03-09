@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T18:11:37.891583</generated>
+  <generated>2026-03-09T19:02:01.218136</generated>
   <items>
     <item>
       <title>Iran may be activating sleeper cells outside the country, alert says</title>
       <link>https://abcnews.com/US/iran-activating-sleeper-cells-alert/story?id=130897687</link>
       <summary>The U.S. has intercepted encrypted communications believed to have originated in Iran that may serve as “an operational trigger” for “sleeper assets."</summary>
-      <pubDate>Mon, 09 Mar 2026 09:37:37 -0400</pubDate>
+      <pubDate>Mon, 09 Mar 2026 12:35:16 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/tehran-1-ap-jef-260309_1773058622529_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran live updates: 7th killed service member is identified</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
-      <summary>Two men were in serious condition in central Israel, said Magen David Adom.</summary>
-      <pubDate>Mon, 09 Mar 2026 11:27:09 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/Benjamin-Pennington-ht-gmh-260309_1773066973621_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +34,6 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260306_wn_ender_basketball_hero2_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Criminal explosion' strikes synagogue in Belgium, official says</title>
-      <link>https://abcnews.com/International/criminal-explosion-strikes-synagogue-belgium-official/story?id=130892648</link>
-      <summary>The explosion caused "material damage" but there were no casualties and the site, the official said, "has been secured".</summary>
-      <pubDate>Mon, 09 Mar 2026 05:17:46 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/belgium-main_1773046739245_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Anthropic sues Trump administration after clash over AI use</title>
+      <link>https://abcnews.com/Business/anthropic-sues-trump-administration-after-clash-ai/story?id=130905672</link>
+      <summary>Anthropic seeks to block White House designation of firm as supply-chain risk.</summary>
+      <pubDate>Mon, 09 Mar 2026 12:34:10 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Business/headquarters-sh-er-260309_1773073127859_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Children's museum celebrates Princes Tiana</title>
+      <link>https://abcnews.com/GMA/Culture/video/childrens-museum-celebrates-princes-tiana-130854702</link>
+      <summary>A new exhibit at the Children's Museum of Indianapolis called "Tiana's Joyful Celebration" celebrates Disney's first Black princess before traveling to other museums across the country.</summary>
+      <pubDate>Sat, 07 Mar 2026 10:35:39 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260307_gma_tiana3_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
