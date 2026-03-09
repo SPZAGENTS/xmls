@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-09T06:31:35.423616</generated>
+  <generated>2026-03-09T07:21:36.147770</generated>
   <items>
     <item>
       <title>Iran live updates: Mojtaba Khamenei chosen as Iran's next supreme leader</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Mojtaba-khamenei-1-gty-gmh-260308_1773007267246_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US missile seen hitting building near Iranian girls' school, experts say</title>
+      <link>https://abcnews.com/US/us-missile-hitting-building-iranian-girls-school-experts/story?id=130889601</link>
+      <summary>A newly surfaced video appears to show a U.S.-made missile hitting a building in Iran adjacent to a girls’ school where local officials say 168 people were killed.</summary>
+      <pubDate>Mon, 09 Mar 2026 00:59:48 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/iran_1773026422243_hpMain_4x3t_384.jpeg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +56,6 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260306_wn_ender_basketball_hero2_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US military strikes alleged drug boat in the Eastern Pacific, killing 6: SOUTHCOM</title>
-      <link>https://abcnews.com/International/us-military-strikes-alleged-drug-boat-eastern-pacific/story?id=130888727</link>
-      <summary>The United States military announced on Sunday that it struck another boat suspected of carrying drugs in the Eastern Pacific, killing six men.</summary>
-      <pubDate>Sun, 08 Mar 2026 23:16:50 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/strike_1773021163657_hpMain_4x3t_384.jpeg</image>
         <type>image/jpeg</type>
       </media>
     </item>
