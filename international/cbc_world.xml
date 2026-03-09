@@ -2,13 +2,27 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-09T16:31:42.047139</generated>
+  <generated>2026-03-09T17:21:39.740933</generated>
   <items>
     <item>
       <title>Oil price jumps amid strikes on energy infrastructure across Middle East, as Iran names new leader</title>
       <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-10-9.7119190?cmp=rss</link>
       <summary />
       <pubDate>Sun, 08 Mar 2026 08:18:51 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Oil prices spike to highest levels in years as Iran war intensifies</title>
+      <link>https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss</link>
+      <summary>Oil prices spiked to near $120 US a barrel before falling back on Monday as the Iran war intensified, threatening production and shipping in the Middle East and pummelling financial markets.</summary>
+      <pubDate>Mon, 09 Mar 2026 08:23:19 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Iran’s allies and foes, explained</title>
+      <link>https://www.cbc.ca/radio/frontburner/irans-allies-and-foes-explained-9.7119961?cmp=rss</link>
+      <summary>Countries across the Middle East are being pulled into the U.S.-Israeli war on Iran. How long will their opposition to Iran hold?</summary>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -33,20 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>'This is wrong,' Lebanese resident says as hundreds of thousands displaced amid Israeli strikes</title>
-      <link>https://www.cbc.ca/news/world/lebanon-israel-evacuation-orders-iran-war-9.7117084?cmp=rss</link>
-      <summary>Israeli airstrikes continued to pound Lebanon on Friday, forcing hundreds of thousands to flee their homes in densely populated neighbourhoods to seek shelter elsewhere, as aid groups warned the escalating conflict could lead to a humanitarian catastrophe.</summary>
-      <pubDate>Fri, 06 Mar 2026 11:13:47 EST</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>U.S. says it worked with Ecuador to bomb alleged drug-trafficking operations site</title>
-      <link>https://www.cbc.ca/news/world/us-ecuador-joint-operation-drug-trafficking-9.7118563?cmp=rss</link>
-      <summary>The U.S. and Ecuador carried out a joint operation targeting drug trafficking operations in the ‌South American country, authorities in both countries said on Friday, with the U.S. calling the move "lethal kinetic operations."</summary>
-      <pubDate>Fri, 06 Mar 2026 22:15:00 EST</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>At least 42 people killed in Kenya floods</title>
       <link>https://www.cbc.ca/news/world/kenya-nairobi-floods-death-toll-rises-9.7120228?cmp=rss</link>
       <summary>The death toll from heavy rains and flooding in Kenya's capital, Nairobi, and elsewhere has nearly doubled to 42, the government said ‌in a statement issued late on Sunday.</summary>
@@ -54,10 +54,10 @@
       <priority>80</priority>
     </item>
     <item>
-      <title>After deadly Hong Kong fire, the art of bamboo scaffolding hangs in the balance</title>
-      <link>https://www.cbc.ca/news/world/bamboo-scaffolding-hong-kong-9.7105207?cmp=rss</link>
-      <summary>In November 2025, a deadly fire broke out at a Hong Kong apartment complex under renovation, killing at least 168 people. The Wang Fuk Court estate was covered in bamboo scaffolding and safety netting, which came under scrutiny after the tragedy.</summary>
-      <pubDate>Sat, 07 Mar 2026 04:00:00 EST</pubDate>
+      <title>Live Nation, U.S. Department of Justice reach settlement in antitrust trial</title>
+      <link>https://www.cbc.ca/news/entertainment/live-nation-doj-settlement-9.7120378?cmp=rss</link>
+      <summary>The trial in the case began last week after a judge in February rejected Live Nation's bid to dismiss ​the lawsuit.</summary>
+      <pubDate>Mon, 09 Mar 2026 10:12:06 EDT</pubDate>
       <priority>80</priority>
     </item>
     <item>
