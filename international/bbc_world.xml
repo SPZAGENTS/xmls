@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-09T08:11:28.243256</generated>
+  <generated>2026-03-09T09:01:29.392299</generated>
   <items>
-    <item>
-      <title>Oil prices surge above $100 and shares slide over Iran war</title>
-      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.</summary>
-      <pubDate>Mon, 09 Mar 2026 02:19:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iranian ambassador warns UK to be 'very careful' about further involvement in war</title>
       <link>https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd03/live/e25fadf0-1ada-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Stock markets slump as oil prices surge over Strait of Hormuz fears</title>
+      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.</summary>
+      <pubDate>Mon, 09 Mar 2026 02:19:19 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

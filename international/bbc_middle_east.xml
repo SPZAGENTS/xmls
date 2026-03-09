@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-09T08:11:27.934040</generated>
+  <generated>2026-03-09T09:01:29.063892</generated>
   <items>
-    <item>
-      <title>Oil prices surge above $100 and shares slide over Iran war</title>
-      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.</summary>
-      <pubDate>Mon, 09 Mar 2026 02:19:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902e/live/22cb9620-18b9-11f1-97ba-493bedc7637b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'This is war': BBC speaks to Iranians at Iran-Turkey border</title>
+      <link>https://www.bbc.com/news/videos/c86yeqg86yvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC correspondent James Waterhouse speaks to people at the border, after US-Israeli strikes on Iran.</summary>
+      <pubDate>Thu, 05 Mar 2026 21:20:29 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/266ce7b0-18d8-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

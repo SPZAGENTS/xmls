@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-09T08:11:27.483125</generated>
+  <generated>2026-03-09T09:01:28.571707</generated>
   <items>
-    <item>
-      <title>Oil prices surge above $100 and shares slide over Iran war</title>
-      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.</summary>
-      <pubDate>Mon, 09 Mar 2026 02:19:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/6d2ed840-1b56-11f1-b279-7d123f3cf8aa.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,7 +84,7 @@
     <item>
       <title>IRA bomb victims' civil court case begins against Gerry Adams</title>
       <link>https://www.bbc.com/news/articles/cy4ww4dp33jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The men are seeking a ruling that he is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.</summary>
+      <summary>The men are seeking a ruling that Adams is personally liable for decisions to plant car bombs in London and Manchester in 1973 and 1996.</summary>
       <pubDate>Mon, 09 Mar 2026 06:02:08 GMT</pubDate>
       <priority>75</priority>
       <media>
@@ -110,7 +99,18 @@
       <pubDate>Sun, 08 Mar 2026 22:12:57 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4b/live/344edcc0-1b3b-11f1-a078-550de2201805.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae8/live/9ceb49c0-1b82-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Paddington musical dominates WhatsOnStage awards</title>
+      <link>https://www.bbc.com/news/articles/cwy6wn3lnyyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Other winners at the event included Jonathan Bailey, Rachel Zegler, Amber Davies and Sir Stephen Fry.</summary>
+      <pubDate>Mon, 09 Mar 2026 01:04:49 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189b/live/77183d50-1963-11f1-a1cd-a71e69f1cf89.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
