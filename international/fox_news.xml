@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T00:51:29.087600</generated>
+  <generated>2026-03-10T01:41:29.838417</generated>
   <items>
+    <item>
+      <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
+      <link>https://www.foxnews.com/us/storage-facility-raided-feds-investigate-alleged-isis-inspired-nyc-bomb-throwers</link>
+      <summary>Federal investigation underway after Pennsylvania students accused of explosive attack outside mayor&amp;apos;s residence. ISIS inspiration concerns cited.</summary>
+      <pubDate>Mon, 09 Mar 2026 18:49:17 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nyc-terror-penn-storage-01.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Cannabis compounds could reverse disease affecting one-third of adults</title>
       <link>https://www.foxnews.com/health/cannabis-compounds-could-reverse-disease-affecting-one-third-adults</link>
@@ -34,28 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/katie-britt-1-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Whoopi Goldberg erupts over Trump’s Iran strategy, claims he’s ‘sending people in to lose their lives’</title>
-      <link>https://www.foxnews.com/media/whoopi-goldberg-erupts-over-trumps-iran-strategy-claims-hes-sending-people-lose-lives</link>
-      <summary>&amp;quot;The View&amp;quot; co-hosts, including Whoopi Goldberg and Ana Navarro, blasted President Donald Trump&amp;apos;s Iran military actions, comparing them to Venezuela operations and warning of disaster.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:54:21 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/whoopi-goldberg-speaks-at-event.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian Kurdish fighters say they’re ready to strike Tehran, waiting for opening</title>
-      <link>https://www.foxnews.com/world/iranian-kurdish-fighters-say-theyre-ready-strike-tehran-waiting-opening</link>
-      <summary>Iranian Kurdish opposition groups say they are prepared to challenge Tehran but are holding back as the U.S.-Israel-Iran war continues to unfold.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:52:04 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kurds-iran.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Alexander brothers learn fate in federal sex trafficking trial</title>
-      <link>https://www.foxnews.com/us/alexander-brothers-learn-fate-federal-sex-trafficking-trial</link>
-      <summary>Real estate moguls Tal, Oren and their brother Alon Alexander were found guilty of sex trafficking in dramatic fall from luxury broker prominence.</summary>
-      <pubDate>Mon, 09 Mar 2026 18:24:56 -0500</pubDate>
+      <title>Tarik Skubal leaves Team USA to return to Tigers camp despite mixed feelings after successful start</title>
+      <link>https://www.foxnews.com/sports/tarik-skubal-leaves-team-usa-return-tigers-camp-despite-mixed-feelings-after-successful-start</link>
+      <summary>Tarik Skubal will make just one Team USA start after all, as manager Mark DeRosa announced he will return to the Detroit Tigers despite second thoughts.</summary>
+      <pubDate>Mon, 09 Mar 2026 19:04:21 -0500</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/alon-oren-alexander-miami-florida-court-thumb.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tarik-skubal-team-usa.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>40+ House Republicans rally behind Markwayne Mullin for DHS, call it a ‘critical moment’ for border security</title>
+      <link>https://www.foxnews.com/politics/40-house-republicans-rally-behind-markwayne-mullin-dhs-call-critical-moment-border-security</link>
+      <summary>In a letter to President Trump, members of the Republican Main Street Caucus back Sen. Markwayne Mullin to lead Homeland Security after Kristi Noem&amp;apos;s ouster.</summary>
+      <pubDate>Mon, 09 Mar 2026 19:00:55 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senator-markwayne-mullin-next.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
