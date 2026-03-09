@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-09T02:21:29.782105</generated>
+  <generated>2026-03-09T03:11:29.853555</generated>
   <items>
     <item>
       <title>Waltz shuts down NBC anchor, arguing Trump is ending a war Iran started with the US in 1979</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/iran-sat-image-damage.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump warns Iran’s new leader won’t ‘last long’ without his approval</title>
-      <link>https://www.foxnews.com/politics/trump-warns-irans-new-leader-wont-last-long-without-his-approval</link>
-      <summary>Trump warns Iran&amp;apos;s new leader won&amp;apos;t &amp;quot;last long&amp;quot; without U.S. approval as Operation Epic Fury enters second week following Ayatollah Ali Khamenei&amp;apos;s assassination.</summary>
-      <pubDate>Sun, 08 Mar 2026 14:19:01 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-feb20.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,6 +89,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/country-joe.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Jesse Jackson Jr. rebukes Obama, Clinton, and Biden for not truly knowing his father during memorial service</title>
+      <link>https://www.foxnews.com/media/jesse-jackson-jr-rebukes-obama-clinton-biden-not-truly-knowing-his-father-during-memorial-service</link>
+      <summary>Jesse Jackson Jr. rips former presidents Biden, Obama and Clinton at his father&amp;apos;s funeral saying &amp;quot;They do not know Jesse Jackson.&amp;quot;</summary>
+      <pubDate>Sun, 08 Mar 2026 21:00:30 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jesse-jackson-memorial-service-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

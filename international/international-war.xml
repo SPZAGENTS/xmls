@@ -2,19 +2,8 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-09T02:21:41.666594</generated>
+  <generated>2026-03-09T03:11:39.675225</generated>
   <items>
-    <item>
-      <title>Oil prices jump above $100 for first time in four years</title>
-      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranian oil facilities were hit as the US and Israel launched a fresh wave of airstrikes at the weekend.</summary>
-      <pubDate>Mon, 09 Mar 2026 00:19:37 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a78/live/00dcd0f0-1b49-11f1-a216-1d27169d9c1c.jpg</image>
-      </media>
-    </item>
     <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -60,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Oil prices jump above $100 for first time in four years</title>
-      <link>https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranian oil facilities were hit as the US and Israel launched a fresh wave of airstrikes at the weekend.</summary>
-      <pubDate>Mon, 09 Mar 2026 00:19:37 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a78/live/00dcd0f0-1b49-11f1-a216-1d27169d9c1c.jpg</image>
-      </media>
-    </item>
-    <item>
       <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
       <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.</summary>
@@ -112,6 +90,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah</title>
+      <link>https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC sees troops and tanks massing near the border, as speculation mounts that Israel is planning a full-scale ground invasion to fight Hezbollah.</summary>
+      <pubDate>Fri, 06 Mar 2026 16:16:05 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9217/live/f919f380-1958-11f1-a18b-234b2225fd29.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut</title>
+      <link>https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Communities across huge swathes of Lebanon have been told by Israel to leave their homes due to military action against Hezbollah.</summary>
+      <pubDate>Fri, 06 Mar 2026 16:23:57 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f5/live/4c013a60-196b-11f1-8943-0f02ddbbd48f.jpg</image>
       </media>
     </item>
   </items>
