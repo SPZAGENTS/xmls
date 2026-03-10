@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T05:01:31.777440</generated>
+  <generated>2026-03-10T05:51:30.458044</generated>
   <items>
     <item>
       <title>Live Updates: After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed.</summary>
-      <pubDate>Tue, 10 Mar 2026 02:44:03 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 03:46:01 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-promo-8pm-zhlw/09iran-promo-8pm-zhlw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-promo2330h-tlvp/09israel-iran-promo2330h-tlvp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +71,20 @@
       </media>
     </item>
     <item>
+      <title>Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show</title>
+      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html</link>
+      <summary>Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers</summary>
+      <pubDate>Tue, 10 Mar 2026 03:45:59 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On</title>
       <link>https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html</link>
       <summary>The president said the U.S. could accompany tankers through the Strait of Hormuz if necessary to keep oil flowing. “We’ve already won in many ways, but we haven’t won enough,” he said.</summary>
-      <pubDate>Tue, 10 Mar 2026 02:34:15 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 03:15:14 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-iran-vpgt/09dc-trump-iran-vpgt-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-iran4-kfwz/09dc-trump-iran4-kfwz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-front-by-front-flpj/09israel-iran-front-by-front-flpj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html</link>
-      <summary>Oil prices and stocks initially swung wildly, and Iran’s foreign minister promised “surprises,” calling the strikes against his country “Operation Epic Mistake.”</summary>
-      <pubDate>Mon, 09 Mar 2026 23:24:31 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
