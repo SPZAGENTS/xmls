@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-10T21:41:42.215422</generated>
+  <generated>2026-03-10T22:31:42.101299</generated>
   <items>
     <item>
       <title>UK warship HMS Dragon departs for eastern Mediterranean</title>
@@ -13,6 +13,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d52/live/a1fb8630-1cb5-11f1-801d-ed3cff6bf876.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
+      <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.</summary>
+      <pubDate>Tue, 10 Mar 2026 19:35:29 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/722b1ae0-1cb2-11f1-9ab1-b9f56adefedf.jpg</image>
       </media>
     </item>
     <item>
@@ -101,17 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei</title>
-      <link>https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran and Israel continue to exchange attacks, as supporters of Khamenei celebrate the decision to name him supreme leader.</summary>
-      <pubDate>Mon, 09 Mar 2026 23:15:28 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7094/live/c8f27aa0-1bde-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
   </items>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-10T21:41:31.819100</generated>
+  <generated>2026-03-10T22:31:31.838243</generated>
   <items>
+    <item>
+      <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
+      <link>https://www.politico.com/news/2026/03/10/ted-cruz-tucker-carlson-reignite-feud-as-iran-war-heats-up-00821384</link>
+      <summary>Cruz called Carlson a “demagogue” spreading antisemitism, days after Carlson called him and others who trust Israeli intelligence “dumbos.”</summary>
+      <pubDate>Tue, 10 Mar 2026 15:00:34 EST</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.politico.com/af/dd/71dba401459fa3667b3dd05ca88a/u-s-congress-70207.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Republican group attacks Thomas Massie for his opposition to Iran war</title>
       <link>https://www.politico.com/news/2026/03/05/republican-group-attacks-thomas-massie-for-his-opposition-to-iran-war-00815959</link>
@@ -21,17 +32,6 @@
       <summary />
       <pubDate>Thu, 05 Mar 2026 23:59:00 EST</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Talarico defeats Crockett in Texas Senate Democratic primary</title>
-      <link>https://www.politico.com/news/2026/03/04/james-talarico-wins-texas-senate-primary-00811090</link>
-      <summary>He took a big-tent approach to his campaign by appealing to voters from both parties and independents.</summary>
-      <pubDate>Wed, 04 Mar 2026 02:38:55 EST</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static.politico.com/b3/55/b359d28547e2a1f91d4330bc2e6d/ap26060834741110-edit.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
     <item>
       <title>Trump is delaying Texas Senate endorsement to pressure GOP senators on SAVE America Act</title>

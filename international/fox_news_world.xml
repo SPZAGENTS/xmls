@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-10T21:41:31.293361</generated>
+  <generated>2026-03-10T22:31:31.069743</generated>
   <items>
+    <item>
+      <title>Putin caught executing enormous ‘semi-dark’ ship-to-ship oil transfer in Gulf of Oman</title>
+      <link>https://www.foxnews.com/world/putin-caught-executing-enormous-semi-dark-ship-to-ship-oil-transfer-gulf-oman</link>
+      <summary>Russia&amp;apos;s shadow fleet conducted a $29.3 million oil transfer amid an escalating Middle East conflict, according to maritime intelligence firm Windward.</summary>
+      <pubDate>Tue, 10 Mar 2026 15:59:47 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/crude-oil-tanker-oman.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Stranded American in Bahrain recounts surviving reported Iranian strike on high-rise building, pleads for help</title>
       <link>https://www.foxnews.com/world/stranded-american-bahrain-recounts-surviving-reported-iranian-strike-high-rise-building-pleads-help</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/brad-cooper-centcom-commander.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Balkans on edge: Kosovo political crisis sparks fears of renewed instability</title>
-      <link>https://www.foxnews.com/world/balkans-edge-kosovo-political-crisis-sparks-fears-renewed-instability</link>
-      <summary>Trump ally Kosovo President Osmani calls snap elections after parliamentary deadlock blocks presidential vote, creating political uncertainty in the Balkans.</summary>
-      <pubDate>Sun, 08 Mar 2026 12:01:26 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kosovo-vjosa-osmani-nato.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

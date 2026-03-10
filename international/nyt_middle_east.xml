@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-10T21:41:34.865444</generated>
+  <generated>2026-03-10T22:31:34.986128</generated>
   <items>
     <item>
-      <title>Trump’s Shifting Timeline for How Long the Iran War Will Last</title>
+      <title>Imprisoned in Iran, and Under Bombardment</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-prisoners-airstrikes.html</link>
+      <summary>Iranian detention centers, some holding people swept up in a government crackdown on protests along with other prisoners, have been damaged in the U.S.-Israeli airstrikes.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:28:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10iran-live-political-prisoners-hbvq/10iran-live-political-prisoners-hbvq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pentagon Says 140 Service Members Have Been Injured in Iran War</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-injuries-iran-war.html</link>
+      <summary>Eight Americans have been seriously wounded, military officials said, but the bulk of the injured have already returned to duty. Seven Americans have been killed.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:19:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-US-injured--vjpt/10israel-iran-US-injured--vjpt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How Long Will the Iran War Last? Trump Offers Conflicting Answers.</title>
       <link>https://www.nytimes.com/2026/03/10/us/politics/trump-iran-war-how-long-timeline.html</link>
-      <summary>Now 11 days into an expanding military campaign, President Trump and his officials have given conflicting indications on when the United States intends to end the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:37:39 +0000</pubDate>
+      <summary>Now 11 days into an expanding military campaign, President Trump and his officials have given conflicting indications on how long the United States intends the war to last.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:12:06 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-explainer-wtkg/10dc-explainer-wtkg-mediumSquareAt3X.jpg</image>
@@ -19,7 +41,7 @@
       <title>France Bolsters Efforts to Repatriate Citizens Stranded by Iran War</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/france-repatriation-flights-iran-crisis.html</link>
       <summary>France is highlighting its repatriation operations for nationals left stranded by the conflict with Iran.</summary>
-      <pubDate>Tue, 10 Mar 2026 18:59:21 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 19:53:45 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-french-repatriation-cqjw/10israel-iran-french-repatriation-cqjw-mediumSquareAt3X.jpg</image>
@@ -63,7 +85,7 @@
       <title>Higher Oil Prices Could Put the Fed in a Bind as Labor Market Softens</title>
       <link>https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html</link>
       <summary>Investors now expect that the Fed will delay a rate cut until September instead of July, as they had before the war in Iran began.</summary>
-      <pubDate>Tue, 10 Mar 2026 18:54:57 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 20:25:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-iran-fed-wjfv/10dc-iran-fed-wjfv-mediumSquareAt3X.jpg</image>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-pakistan-warships-jwbk/10israel-iran-pakistan-warships-jwbk-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Black Rain and Health Fears After Strikes on Iran Fuel Depots</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html</link>
-      <summary>Health experts warn of long-term respiratory and neurological risks as smoke from burning oil spreads across the region.</summary>
-      <pubDate>Tue, 10 Mar 2026 18:18:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-oil-strikes-health-lqjv/10int-oil-strikes-health-lqjv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</link>
-      <summary>Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.</summary>
-      <pubDate>Tue, 10 Mar 2026 12:18:52 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-migrants-1-ctvj/10int-iran-migrants-1-ctvj-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

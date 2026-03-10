@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-10T21:41:33.223330</generated>
+  <generated>2026-03-10T22:31:32.886980</generated>
   <items>
+    <item>
+      <title>Pentagon says about 140 troops wounded, 8 severely, in war with Iran</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/10/us-troops-wounded-iran-war/</link>
+      <summary>The vast majority of the wounded had minor injuries, a Pentagon spokesman said. The toll is higher than previously disclosed.</summary>
+      <pubDate>Tue, 10 Mar 2026 19:52:55 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>UAE, an oasis for business and partying, faces war</title>
       <link>https://www.washingtonpost.com/world/2026/03/10/dubai-gulf-iran-war-strikes/</link>
@@ -66,13 +73,6 @@
       <summary>Here are rescued chimpanzees, a mountain lion, an elephant and a penguin with the toys they’re attached to.</summary>
       <pubDate>Tue, 10 Mar 2026 12:00:51 +0000</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>The northern lights have peaked. Here’s how to see them before they fade.</title>
-      <link>https://www.washingtonpost.com/travel/2026/03/09/northern-lights-trip-pennsylvania-norway/</link>
-      <summary>As the 11-year cycle downshifts from solar maximum to solar minimum, the lights will begin to diminish, so the time to plan a trip is now.</summary>
-      <pubDate>Mon, 09 Mar 2026 10:00:43 +0000</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>

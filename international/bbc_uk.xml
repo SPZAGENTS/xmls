@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-10T21:41:29.156062</generated>
+  <generated>2026-03-10T22:31:28.551205</generated>
   <items>
     <item>
       <title>UK warship HMS Dragon departs for eastern Mediterranean</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d52/live/a1fb8630-1cb5-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
+      <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.</summary>
+      <pubDate>Tue, 10 Mar 2026 19:35:29 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/722b1ae0-1cb2-11f1-9ab1-b9f56adefedf.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3854/live/b7d29000-1c99-11f1-8f3c-8366692412b1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Millions of PlayStation players charged unfair download fees, court hears</title>
-      <link>https://www.bbc.com/news/articles/c043y6rr7z3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The console maker is accused of charging fans "excessive" fees to obtain software from its official store.</summary>
-      <pubDate>Tue, 10 Mar 2026 15:19:28 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/56c2d660-1caf-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
