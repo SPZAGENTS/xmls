@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T11:41:32.215336</generated>
+  <generated>2026-03-10T12:31:31.716039</generated>
   <items>
     <item>
-      <title>After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End</title>
-      <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
-      <summary>The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed.</summary>
-      <pubDate>Tue, 10 Mar 2026 09:14:32 +0000</pubDate>
+      <title>Live Updates: Trump Sends Mixed Signals On When Iran War Might End</title>
+      <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
+      <summary>Facing pressure after a surge in energy prices, President Trump said the war would be over “very soon.” He later said the fighting would go on for at least another week.</summary>
+      <pubDate>Tue, 10 Mar 2026 10:23:59 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-promo2330h-tlvp/09israel-iran-promo2330h-tlvp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-promo-0210EST-thmj/10israel-iran-promo-0210EST-thmj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As War Comes to Gulf States, Migrant Workers Pay the Highest Price</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</link>
+      <summary>Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.</summary>
+      <pubDate>Tue, 10 Mar 2026 07:41:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-migrants-1-ctvj/10int-iran-migrants-1-ctvj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -23,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-voices-mkzf/09int-iran-voices-mkzf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
-      <summary>Supreme Leader Mojtaba Khamenei could prove to be even more radical than his father and predecessor, Ayatollah Ali Khamenei, who was killed by the U.S. and Israel at the start of the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 01:05:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-leader-1-bcjp/09int-iran-leader-1-bcjp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +56,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/08/multimedia/08int-iran-guards-wfzb/08int-iran-guards-wfzb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Loose Band of Emerging Powers Is Divided Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/08/world/middleeast/brics-iran-allies-us-israel-war.html</link>
-      <summary>Brazil, China and Russia all denounced the U.S.-Israeli attacks, but other nations in the BRICS group haven’t, even though Iran is a fellow member.</summary>
-      <pubDate>Sun, 08 Mar 2026 09:12:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/07/multimedia/07int-iran-brics-1-wchl/07int-iran-brics-1-wchl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,6 +89,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Orders Diplomats to Leave Consulate in Southern Turkey</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-orders-diplomats-to-leave-consulate-in-southern-turkey.html</link>
+      <summary>The order came after the interception of two missiles heading toward Turkey, which has a base that hosts U.S. and NATO forces.</summary>
+      <pubDate>Tue, 10 Mar 2026 10:00:44 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-turkey-evacuations-vjpg/10israel-iran-turkey-evacuations-vjpg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

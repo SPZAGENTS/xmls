@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-10T11:41:29.210483</generated>
+  <generated>2026-03-10T12:31:28.884178</generated>
   <items>
+    <item>
+      <title>Ukraine sending drone team to help protect US bases in Jordan at Washington’s request, Zelenskyy says</title>
+      <link>https://www.foxnews.com/world/ukraine-sending-drone-team-help-protect-us-bases-jordan-washingtons-request-zelenskyy-says</link>
+      <summary>Ukraine reportedly dispatched interceptor drones and experts to Jordan at Washington’s request to help defend U.S. bases amid escalating Iranian missile and drone strikes in the region.</summary>
+      <pubDate>Tue, 10 Mar 2026 06:00:08 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/zelenskyy-ukraine-drones-us-support.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iranian Kurdish fighters say they’re ready to strike Tehran, waiting for opening</title>
       <link>https://www.foxnews.com/world/iranian-kurdish-fighters-say-theyre-ready-strike-tehran-waiting-opening</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/majid-takht-ravanchi.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>While UN Issues mixed signals, Witkoff exposes Iran's nuclear evasion ‘pride’</title>
-      <link>https://www.foxnews.com/world/while-un-issues-mixed-signals-witkoff-exposes-irans-nuclear-evasion-pride</link>
-      <summary>IAEA chief claims no evidence of Iran building nuclear bomb despite U.S. envoy revealing Iranian negotiators boasts having about 460kg weapons-grade uranium stockpile.</summary>
-      <pubDate>Fri, 06 Mar 2026 17:32:05 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/grossi-witkoff.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

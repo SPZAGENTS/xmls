@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-10T11:41:31.641762</generated>
+  <generated>2026-03-10T12:31:31.088176</generated>
   <items>
+    <item>
+      <title>Iran war’s oil shock fuels GOP political anxiety</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/10/iran-war-gas-prices-gop-anxiety/</link>
+      <summary>Oil prices Monday spiked to levels not seen since Russia invaded Ukraine in 2022 before falling, while prices at the pump jumped nearly 50 cents higher than a week ago.</summary>
+      <pubDate>Tue, 10 Mar 2026 10:00:43 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>U.S. orders more diplomats to leave Middle East</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/</link>
@@ -66,13 +73,6 @@
       <summary>J. Todd Inman frequently represented the National Transportation Safety Board in news conferences after the deadly American Airlines crash in D.C. last year.</summary>
       <pubDate>Mon, 09 Mar 2026 17:35:55 +0000</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>Justice Ketanji Brown Jackson criticizes Supreme Court emergency rulings</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/09/supreme-court-ketanji-brown-jackson-emergency-docket-rulings/</link>
-      <summary>During a public forum, Jackson and conservative Justice Brett M. Kavanaugh offered differing views of President Trump’s wins before the high court.</summary>
-      <pubDate>Tue, 10 Mar 2026 01:36:24 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
