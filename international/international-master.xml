@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-10T22:31:42.100663</generated>
+  <generated>2026-03-10T23:21:41.751622</generated>
   <total_articles>342</total_articles>
   <items>
     <item>
@@ -36,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Strait of Hormuz timelapse shows fall in shipping traffic</title>
+      <link>https://www.bbc.com/news/videos/c0rjyr22ypeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The footage demonstrates the flow of ships passing through the Strait of Hormuz in the Gulf since the US-Israeli military offensive began against Iran on 27 February.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:17:18 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae32/live/0065b190-1cbc-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
-      <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.</summary>
-      <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
   </items>

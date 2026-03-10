@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-10T22:31:28.551205</generated>
+  <generated>2026-03-10T23:21:28.836384</generated>
   <items>
     <item>
       <title>UK warship HMS Dragon departs for eastern Mediterranean</title>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Strait of Hormuz timelapse shows fall in shipping traffic</title>
+      <link>https://www.bbc.com/news/videos/c0rjyr22ypeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The footage demonstrates the flow of ships passing through the Strait of Hormuz in the Gulf since the US-Israeli military offensive began against Iran on 27 February.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:17:18 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae32/live/0065b190-1cbc-11f1-9120-a910fc22c6ac.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say</title>
       <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
@@ -67,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3854/live/b7d29000-1c99-11f1-8f3c-8366692412b1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oil and gas prices fall after Trump says war is 'very complete'</title>
-      <link>https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US president's comments lead to a drop in crude costs and a rebound in shares.</summary>
-      <pubDate>Tue, 10 Mar 2026 18:06:58 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc0/live/cc1b4b90-1c23-11f1-bc25-75bff0a63140.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

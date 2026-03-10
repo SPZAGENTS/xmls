@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T22:31:39.382968</generated>
+  <generated>2026-03-10T23:21:39.277433</generated>
   <items>
     <item>
       <title>Trump says he and Vance are 'philosophically' different on Iran war</title>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Investigation into potential terror attack outside NYC mayor's home</title>
-      <link>https://abcnews.com/US/video/investigation-potential-terror-attack-nyc-mayors-home-130936014</link>
-      <summary>Two improvised explosive devices brought to a counterprotest outside Gracie Mansion in New York City are being investigated as "an act of ISIS-inspired terrorism," officials said.</summary>
-      <pubDate>Tue, 10 Mar 2026 15:44:35 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260310_abc_social_nyc_ied_investigation_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Syrian student turns to classical violin, nabs scholarship</title>
       <link>https://abcnews.com/International/video/syrian-student-turns-classical-violin-nabs-scholarship-130857759</link>
       <summary>Jad Ibrahim was awarded a full scholarship at Interlochen Center for the Arts in Michigan.</summary>
@@ -45,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260307_abcnl_11a_ibrahim_devey_syria_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Trump 'would not be happy' if Russia was sharing intelligence with Iran</title>
+      <link>https://abcnews.com/Politics/video/trump-happy-russia-sharing-intelligence-iran-130945841</link>
+      <summary>WH press sec. Karoline Leavitt told ABC News' Karen Travers neither Pres. Trump nor U.S. special envoy Steve Witkoff "would be happy" if it turns out Russia has been sharing intelligence with Iran.</summary>
+      <pubDate>Tue, 10 Mar 2026 17:20:28 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/260310_abc_social_travers_russia_leavitt_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +74,7 @@
       <title>Officer shot while responding to reported burglary, shooting suspect dead: Police</title>
       <link>https://abcnews.com/US/officer-shot-active-shooter-incident-baltimore-suspect-shot/story?id=130939234</link>
       <summary>The shooting occurred on the 6200 block of Park Heights Avenue, according to police.</summary>
-      <pubDate>Tue, 10 Mar 2026 15:38:02 -0400</pubDate>
+      <pubDate>Tue, 10 Mar 2026 16:39:07 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/baltimore-shooting-ht-jt-260310_1773161006701_hpMain_4x3t_384.jpg</image>
@@ -82,24 +82,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: David Muir shares Punch the monkey update and the American zoos inspired by him</title>
-      <link>https://abcnews.com/WNT/video/david-muir-shares-punch-monkey-update-american-zoos-130918920</link>
-      <summary>Japan's Ichikawa Zoo shared the latest on Punch the macaque monkey's progress, including the the new friend he's made.</summary>
-      <pubDate>Mon, 09 Mar 2026 22:39:09 -0400</pubDate>
+      <title>WATCH: Woman reunited with lost cat urges people to microchip their pets</title>
+      <link>https://abcnews.com/GMA/Living/video/woman-reunited-lost-cat-urges-people-microchip-pets-130946551</link>
+      <summary>Jody Popham was reunited with her cat more than a year after he went missing.</summary>
+      <pubDate>Tue, 10 Mar 2026 17:16:55 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/WNT/260309_wn_ender_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260310_gma_digital_woman_reunites_cat_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: Why there's no place like the OZ Museum</title>
-      <link>https://abcnews.com/US/video/place-oz-museum-130861001</link>
-      <summary>Clint Stueve discusses the Kansas museum dedicated to all things "Wizard of Oz," which opened in 2003.</summary>
-      <pubDate>Sat, 07 Mar 2026 13:54:26 -0500</pubDate>
+      <title>WATCH: Gen Z turns to 'grandma hobbies' to fight screen time</title>
+      <link>https://abcnews.com/US/video/gen-turn-grandma-hobbies-fight-screen-time-130925102</link>
+      <summary>ABC News' Danny New profiles people embracing old-school activities for fun.</summary>
+      <pubDate>Tue, 10 Mar 2026 07:37:29 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/260307_abcnl_1p_stueze_oz_museum_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260310_gmafl_grandma_hobbies_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
