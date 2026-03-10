@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-11T01:01:50.003634</generated>
+  <generated>2026-03-11T01:51:36.879259</generated>
   <items>
     <item>
       <title>Large US special ops force needed on ground to seize Iran's uranium, experts say</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/pentagon-1-ht-gmh-260310_1773156500189_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>States urged to settle Live Nation claims after US strikes deal</title>
+      <link>https://abcnews.com/Business/wireStory/judge-urges-states-settle-live-nation-claims-after-130949574</link>
+      <summary>A New York federal judge is urging over two dozen states to settle their antitrust claims against Ticketmaster and its parent company this week after the Justice Department reached a deal and dropped out of an ongoing trial</summary>
+      <pubDate>Tue, 10 Mar 2026 18:43:17 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_9d383a7fd037790d71c6c88f224e5b89_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260309_gma_benitez3_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Woman accused of firing gunshots at Rihanna's home charged with attempted murder</title>
-      <link>https://abcnews.com/Entertainment/wireStory/florida-woman-accused-firing-gunshots-rihannas-los-angeles-130949852</link>
-      <summary>Florida woman accused of firing gunshots at Rihanna's Los Angeles home has been charged with attempted murder</summary>
-      <pubDate>Tue, 10 Mar 2026 18:44:52 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
