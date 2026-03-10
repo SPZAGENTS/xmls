@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-10T20:23:28.686318</generated>
+  <generated>2026-03-10T20:51:27.684931</generated>
   <items>
     <item>
       <title>UK warship HMS Dragon departs for eastern Mediterranean</title>
@@ -27,10 +27,10 @@
       </media>
     </item>
     <item>
-      <title>War expands to central Beirut as Israel says Iranians hit in luxury hotel</title>
+      <title>War expands to central Beirut as Israeli strike kills Iranians in luxury hotel</title>
       <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:56:17 GMT</pubDate>
+      <summary>Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:33:03 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
@@ -77,7 +77,7 @@
       <pubDate>Tue, 10 Mar 2026 15:19:28 GMT</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5376/live/b94ea9b0-1c8e-11f1-9120-a910fc22c6ac.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/56c2d660-1caf-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Calls grow for Reeves to ditch fuel tax hike over Iran</title>
-      <link>https://www.bbc.com/news/articles/cdjmk030vzro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Reform UK has set out further detail of how it would cover the cost of scrapping September's planned rise.</summary>
-      <pubDate>Tue, 10 Mar 2026 17:34:01 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f4/live/f5c83490-1c86-11f1-bbce-43d195bf2b4f.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>How the 'red v blue school wars' exposed the social media gap between children and parents</title>
       <link>https://www.bbc.com/news/articles/cy4wgzdydkeo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Parents were frightened by social posts that seemed to encourage violence at schools. But it was more complicated than it looked</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/641327c0-1bba-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>An 'epidemic' of violence: The women and girls killed by men last year</title>
+      <link>https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>We tracked reports and contacted police and prosecutors for a deeper look at the situation across UK.</summary>
+      <pubDate>Tue, 10 Mar 2026 06:00:04 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272c/live/eb7f2b40-1c74-11f1-801d-ed3cff6bf876.png</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-10T20:23:29.527199</generated>
+  <generated>2026-03-10T20:51:28.537110</generated>
   <items>
     <item>
       <title>'I just want to be able to sleep': Attacks in Iran rock cities and cut power</title>
@@ -34,6 +34,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War expands to central Beirut as Israeli strike kills Iranians in luxury hotel</title>
+      <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:33:03 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say</title>
+      <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:42:31 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21a/live/b079eeb0-1c6d-11f1-8206-178b2777dfa1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Volkswagen to cut 50,000 jobs as profits drop</title>
-      <link>https://www.bbc.com/news/articles/c4gqyyly9v8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Europe's largest carmaker said post-tax profits had dropped to their lowest level since 2016.</summary>
-      <pubDate>Tue, 10 Mar 2026 11:29:25 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1363/live/3224dbe0-1c6f-11f1-8206-178b2777dfa1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Canada police investigate after shots fired at US consulate in Toronto</title>
-      <link>https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:51:39 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9786/live/92e86e50-1c7a-11f1-a7bf-efb6e72f87e6.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

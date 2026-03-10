@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T20:23:38.248002</generated>
+  <generated>2026-03-10T20:51:37.885524</generated>
   <items>
     <item>
       <title>Hegseth says Trump to decide when Iran war is over, amid mixed messages on endgame</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Mojtaba Khamenei chosen as Iran's next supreme leader</title>
-      <link>https://abcnews.com/International/video/mojtaba-khamenei-chosen-irans-supreme-leader-130889118</link>
-      <summary>Iran just named a new supreme leader, the late Ayatollah Khamenei's 56-year-old son, Mojtaba Khamenei. President Trump said just days ago that Khamenei's son would be an "unacceptable choice."</summary>
-      <pubDate>Mon, 09 Mar 2026 01:34:57 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260308_abc_social_wang_doral1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Spring break travel alert</title>
       <link>https://abcnews.com/GMA/Travel/video/spring-break-travel-alert-130895654</link>
       <summary>Long delays at airports could make for a messy travel season, but there are some steps you can take.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260310_gma_bergamotto_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Gen Z turns to 'grandma hobbies' to fight screen time</title>
+      <link>https://abcnews.com/US/video/gen-turn-grandma-hobbies-fight-screen-time-130925102</link>
+      <summary>ABC News' Danny New profiles people embracing old-school activities for fun.</summary>
+      <pubDate>Tue, 10 Mar 2026 07:37:29 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260310_gmafl_grandma_hobbies_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

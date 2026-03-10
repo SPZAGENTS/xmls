@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-10T20:23:34.465118</generated>
+  <generated>2026-03-10T20:51:33.082249</generated>
   <items>
     <item>
       <title>Nearly 700,000 Displaced by War in Lebanon, U.N. Says</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Russia-oil-bzgq/09israel-iran-Russia-oil-bzgq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Higher Oil Prices Could Put the Fed in a Bind as Unemployment Rises</title>
+      <link>https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html</link>
+      <summary>Investors now expect that the Fed will delay a rate cut until September instead of July, as they had before the war in Iran began.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:30:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-iran-fed-wjfv/10dc-iran-fed-wjfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-iran4-kfwz/09dc-trump-iran4-kfwz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Again Suggests Without Evidence That Iran Struck Elementary School</title>
-      <link>https://www.nytimes.com/2026/03/09/us/politics/trump-iran-missile-school.html</link>
-      <summary>After a video showed a Tomahawk missile hitting a naval base next to the school, President Trump claimed Iran possesses such weapons. But the U.S. developed the missile and has sold it only to a few close allies.</summary>
-      <pubDate>Tue, 10 Mar 2026 00:59:00 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-missile1-bhcv/09dc-trump-missile1-bhcv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
