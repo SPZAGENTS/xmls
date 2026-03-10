@@ -2,13 +2,24 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-10T12:31:37.394864</generated>
+  <generated>2026-03-10T13:21:38.918944</generated>
   <items>
+    <item>
+      <title>Russia and Ukraine both claim front-line progress with US-brokered talks on hold</title>
+      <link>https://abcnews.com/International/wireStory/russia-ukraine-claim-front-line-progress-us-brokered-130925844</link>
+      <summary>Russian and Ukrainian officials are making contradictory claims of battlefield successes in their 4-year-old war</summary>
+      <pubDate>Tue, 10 Mar 2026 07:13:55 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_b7267b71dda7a7f5b7fd10770ac04ae8_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>UN peacekeepers defy South Sudan military's order to leave opposition-held town</title>
       <link>https://abcnews.com/International/wireStory/peacekeepers-defy-south-sudan-militarys-order-leave-opposition-130925275</link>
       <summary>The United Nations Mission in South Sudan says it will not comply with a government order to shut down its base in Akobo, an opposition stronghold near the Ethiopian border where tens of thousands of refugees have fled</summary>
-      <pubDate>Tue, 10 Mar 2026 05:48:17 -0400</pubDate>
+      <pubDate>Tue, 10 Mar 2026 06:27:05 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_1b0a532e159525a4bf78c3f23da04a61_4x3_384.jpg</image>
@@ -52,7 +63,7 @@
       <title>Reindeer racing thrills spectators in Finland's frigid north near the Russian border</title>
       <link>https://abcnews.com/International/wireStory/reindeer-racing-thrills-spectators-finlands-frigid-north-russian-130923878</link>
       <summary>Traditional reindeer racing has drawn an international crowd to the town of Salla in northern Finland</summary>
-      <pubDate>Tue, 10 Mar 2026 05:47:09 -0400</pubDate>
+      <pubDate>Tue, 10 Mar 2026 06:11:05 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Weird/wirestory_01f2d5650f0502c5fc13b55b3638c727_4x3_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_66ae035d49217a8bae6fcdddf25e1a40_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hungarian leader Orbán urges European Union to lift Russian energy sanctions</title>
-      <link>https://abcnews.com/International/wireStory/hungarian-leader-orbn-urges-european-union-lift-russian-130897422</link>
-      <summary>Hungary&amp;rsquo;s leader Viktor Orb&amp;aacute;n is urging the European Union to suspend sanctions on Russian energy as oil and gas prices jump</summary>
-      <pubDate>Mon, 09 Mar 2026 11:17:51 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_af6d81352ca6333175afb49c552d11fa_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
