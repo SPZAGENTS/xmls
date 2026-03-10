@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-10T20:23:40.743736</generated>
-  <total_articles>340</total_articles>
+  <generated>2026-03-10T20:53:27.613846</generated>
+  <total_articles>341</total_articles>
   <items>
     <item>
       <title>UK warship HMS Dragon departs for eastern Mediterranean</title>
@@ -13,7 +13,7 @@
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f1/live/9baebe80-1ca8-11f1-9120-a910fc22c6ac.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5e/live/59fb3320-1cb1-11f1-b048-c9424b2cf5fd.jpg</image>
       </media>
     </item>
     <item>
@@ -28,10 +28,10 @@
       </media>
     </item>
     <item>
-      <title>War expands to central Beirut as Israel says Iranians hit in luxury hotel</title>
+      <title>War expands to central Beirut as Israeli strike kills Iranians in luxury hotel</title>
       <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:56:17 GMT</pubDate>
+      <summary>Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:33:03 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
@@ -61,14 +61,25 @@
       </media>
     </item>
     <item>
-      <title>War expands to central Beirut as Israel says Iranians hit in luxury hotel</title>
+      <title>War expands to central Beirut as Israeli strike kills Iranians in luxury hotel</title>
       <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:56:17 GMT</pubDate>
+      <summary>Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:33:03 GMT</pubDate>
       <source>bbc-middle-east</source>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say</title>
+      <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:42:31 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei</title>
-      <link>https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran and Israel continue to exchange attacks, as supporters of Khamenei celebrate the decision to name him supreme leader.</summary>
-      <pubDate>Mon, 09 Mar 2026 23:15:28 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7094/live/c8f27aa0-1bde-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
   </items>
