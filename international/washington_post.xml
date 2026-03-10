@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-10T19:11:30.880852</generated>
+  <generated>2026-03-10T20:01:30.913920</generated>
   <items>
     <item>
       <title>UAE, an oasis for business and partying, faces war</title>
@@ -47,6 +47,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Two men fire gun toward U.S. Consulate in Toronto, police say</title>
+      <link>https://www.washingtonpost.com/world/2026/03/10/canada-shots-consulate-american-us-embassy/</link>
+      <summary>Canadian police opened an investigation into two men who shot “multiple rounds” toward the outside of the building. There are no reports of injuries, police say.</summary>
+      <pubDate>Tue, 10 Mar 2026 17:24:35 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Democrats argue Trump’s China policy risks ‘strategic failure’</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/</link>
       <summary>A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects of American power.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/travel/2026/03/09/northern-lights-trip-pennsylvania-norway/</link>
       <summary>As the 11-year cycle downshifts from solar maximum to solar minimum, the lights will begin to diminish, so the time to plan a trip is now.</summary>
       <pubDate>Mon, 09 Mar 2026 10:00:43 +0000</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Letter written by Mary, Queen of Scots, prior to beheading draws crowds</title>
-      <link>https://www.washingtonpost.com/world/2026/03/09/mary-queen-scots-letter-museum/</link>
-      <summary>The letter, written in prison hours before her execution, is on display in Scotland for the first time in 30 years, enthralling crowds and conspiracy theorists.</summary>
-      <pubDate>Mon, 09 Mar 2026 09:00:38 +0000</pubDate>
       <priority>50</priority>
     </item>
   </items>
