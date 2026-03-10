@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-10T16:41:28.421085</generated>
+  <generated>2026-03-10T17:31:41.926551</generated>
   <items>
     <item>
       <title>Five Iranian footballers granted Australian visas after anthem protest</title>
@@ -22,18 +22,7 @@
       <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b0/live/25083e30-1c73-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home</title>
-      <link>https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The city's police commissioner said one of the suspects said he wanted the attack to be "even larger" than the Boston Marathon bombing.</summary>
-      <pubDate>Tue, 10 Mar 2026 02:57:54 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a83/live/e7db4240-1c00-11f1-9120-a910fc22c6ac.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Signal issues scam warning to users after hackers target officials</title>
+      <link>https://www.bbc.com/news/articles/cp85rpm0lq8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Signal says its systems are secure but it is taking reports of targeted attempts to hack some officials "very seriously".</summary>
+      <pubDate>Tue, 10 Mar 2026 13:04:20 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Madagascar military leader sacks cabinet in surprise move</title>
       <link>https://www.bbc.com/news/articles/c39wywm298lo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Col Randrianirina, who seized power last year, did not give a reason for dissolving his government.</summary>
@@ -67,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54fc/live/646407a0-1c4e-11f1-99c5-cd874f3356a2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Syrian ex-colonel in court on crimes against humanity charge</title>
+      <link>https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.</summary>
+      <pubDate>Tue, 10 Mar 2026 14:17:37 GMT</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/34223f40-1c7f-11f1-a7bf-efb6e72f87e6.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Canada police investigate reports of shots fired at US consulate in Toronto</title>
-      <link>https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.</summary>
-      <pubDate>Tue, 10 Mar 2026 14:22:03 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9786/live/92e86e50-1c7a-11f1-a7bf-efb6e72f87e6.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Volkswagen to cut 50,000 jobs as profits drop</title>
       <link>https://www.bbc.com/news/articles/c4gqyyly9v8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Europe's largest carmaker said post-tax profits had dropped to their lowest level since 2016.</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>China exports surge despite Trump tariffs</title>
-      <link>https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Official data shows shipments rose by 20% this year with growth in European and other Asia markets.</summary>
-      <pubDate>Tue, 10 Mar 2026 06:16:02 GMT</pubDate>
+      <title>Canada police investigate reports of shots fired at US consulate in Toronto</title>
+      <link>https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.</summary>
+      <pubDate>Tue, 10 Mar 2026 14:22:03 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/9e9a05c0-1c33-11f1-b268-3b95e9433703.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9786/live/92e86e50-1c7a-11f1-a7bf-efb6e72f87e6.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
