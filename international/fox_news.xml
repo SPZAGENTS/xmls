@@ -2,19 +2,8 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T07:31:27.366668</generated>
+  <generated>2026-03-10T08:21:27.486656</generated>
   <items>
-    <item>
-      <title>Australia grants asylum to 5 Iranian women’s soccer players amid Iran conflict</title>
-      <link>https://www.foxnews.com/sports/australia-asylum-iran-womens-soccer-players</link>
-      <summary>Australia granted asylum to five Iranian women&amp;apos;s soccer players who sought safety while visiting for a tournament amid the ongoing conflict in their country.</summary>
-      <pubDate>Tue, 10 Mar 2026 00:52:55 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/australia-iran-soccer-team-players-asylum.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
       <link>https://www.foxnews.com/us/storage-facility-raided-feds-investigate-alleged-isis-inspired-nyc-bomb-throwers</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nyc-terror-penn-storage-01.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>21 Iranian women’s soccer players weigh return home after 5 granted asylum</title>
+      <link>https://www.foxnews.com/sports/australia-asylum-iran-womens-soccer-players</link>
+      <summary>Australia granted asylum to five Iranian women&amp;apos;s soccer players who sought safety while visiting for a tournament, although the fate of the rest of team remains uncertain.</summary>
+      <pubDate>Tue, 10 Mar 2026 00:52:55 -0500</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/australia-iran-soccer-team-players-asylum.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
