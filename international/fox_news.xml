@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T05:51:27.160640</generated>
+  <generated>2026-03-10T06:41:27.103284</generated>
   <items>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nyc-terror-penn-storage-01.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cannabis compounds could reverse disease affecting one-third of adults</title>
-      <link>https://www.foxnews.com/health/cannabis-compounds-could-reverse-disease-affecting-one-third-adults</link>
-      <summary>Compounds found in cannabis could provide a new roadmap for treating the world’s most common chronic liver disorder, according to a study released by the Hebrew University of Jerusalem.</summary>
-      <pubDate>Mon, 09 Mar 2026 17:17:43 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/marijuana.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +67,17 @@
       <priority>70</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/sf-protests.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Aaron Judge, Paul Skenes power Team USA over Mexico to secure spot in World Baseball Classic quarterfinal</title>
+      <link>https://www.foxnews.com/sports/aaron-judge-paul-skenes-team-usa-mexico-wbc-quarterfinal</link>
+      <summary>Team USA is heading to the quarterfinals in the World Baseball Classic, as Aaron Judge and Roman Anthony hits home runs, while Paul Skenes dominated Mexico&amp;apos;s lineup on Monday night.</summary>
+      <pubDate>Mon, 09 Mar 2026 23:47:35 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/aaron-judge-usa-mexico-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

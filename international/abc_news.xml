@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T05:51:34.206396</generated>
+  <generated>2026-03-10T06:41:34.286804</generated>
   <items>
     <item>
       <title>Iran live updates: Trump says war will be 'ended soon'</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-8-gty-gmh-260308_1772980681214_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump 'willing to live with' US report on missile strike on Iranian girls' school</title>
+      <link>https://abcnews.com/Politics/trump-live-final-us-report-deadly-missile-strike/story?id=130916651</link>
+      <summary>President Donald Trump said on Monday he doesn't "know enough" about the strike on an Iranian elementary school that Iran says killed at least 168 people.</summary>
+      <pubDate>Tue, 10 Mar 2026 00:19:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/trump-9-gty-260309_1773094264506_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Alexander brothers found guilty on all counts in sex trafficking trial</title>
-      <link>https://abcnews.com/US/alexander-brothers-found-guilty-counts-sex-trafficking-trial/story?id=130904145</link>
-      <summary>Throughout the five-week trial, 11 women testified that they were sexually assaulted by one or more of the brothers.</summary>
-      <pubDate>Mon, 09 Mar 2026 20:04:43 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/alexander-2-gty-er-260309_1773093560647_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

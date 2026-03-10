@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T05:51:30.458044</generated>
+  <generated>2026-03-10T06:41:30.159238</generated>
   <items>
     <item>
       <title>Live Updates: After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed.</summary>
-      <pubDate>Tue, 10 Mar 2026 03:46:01 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 04:38:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-promo2330h-tlvp/09israel-iran-promo2330h-tlvp-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>As War Comes to Gulf States, Migrant Workers Pay the Highest Price</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</link>
+      <summary>Since the American-Israeli attack on Iran began, at least 11 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.</summary>
+      <pubDate>Tue, 10 Mar 2026 04:01:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-migrants-1-ctvj/10int-iran-migrants-1-ctvj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show</title>
       <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html</link>
       <summary>Iranian state media posted mangled remnants it claims were from the Feb. 28 attack in Minab. An analysis shows they have the markings of a missile made by American manufacturers</summary>
@@ -89,24 +100,13 @@
       </media>
     </item>
     <item>
-      <title>Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html</link>
-      <summary>The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.</summary>
-      <pubDate>Tue, 10 Mar 2026 00:24:07 +0000</pubDate>
-      <priority>100</priority>
+      <title>On the Road With Zelensky, Weathered, Weary and Fighting On</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</link>
+      <summary>Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:01:26 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-syria-mwtk/09israel-iran-syria-mwtk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the Conflict on Monday</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-oil-trump.html</link>
-      <summary>President Trump gave conflicting signals about a possible end to the war with Iran amid wild gyrations in global markets.</summary>
-      <pubDate>Mon, 09 Mar 2026 23:54:23 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-front-by-front-flpj/09israel-iran-front-by-front-flpj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
