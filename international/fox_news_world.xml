@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-10T13:21:30.831960</generated>
+  <generated>2026-03-10T14:11:30.053193</generated>
   <items>
+    <item>
+      <title>Vietnam urges work from home amid fuel supply, price crunch in Mideast</title>
+      <link>https://www.foxnews.com/world/vietnam-urges-work-from-home-amid-fuel-supply-price-crunch-mideast</link>
+      <summary>Vietnam urges work from home as fuel crisis deepens amid Middle East conflict. Gasoline prices surge 32%, diesel up 56% as supply disruptions hit.</summary>
+      <pubDate>Tue, 10 Mar 2026 07:37:04 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/vietnam-gas-long-line.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Ukraine sending drone team to help protect US bases in Jordan at Washington’s request, Zelenskyy says</title>
       <link>https://www.foxnews.com/world/ukraine-sending-drone-team-help-protect-us-bases-jordan-washingtons-request-zelenskyy-says</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/king-charles-delivering-commonwealth-address.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran warns European countries will be 'legitimate targets' if they join conflict</title>
-      <link>https://www.foxnews.com/world/iran-warns-european-countries-legitimate-targets-join-conflict</link>
-      <summary>Iran warns European countries could become &amp;quot;legitimate targets&amp;quot; if they join conflict against Tehran, as deputy foreign minister threatens retaliation.</summary>
-      <pubDate>Sat, 07 Mar 2026 08:50:30 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/majid-takht-ravanchi.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
