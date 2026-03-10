@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T01:41:29.838417</generated>
+  <generated>2026-03-10T02:31:28.208711</generated>
   <items>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Katie Britt blasts Democrats for playing 'political games' with shutdown amid airport chaos</title>
-      <link>https://www.foxnews.com/politics/katie-britt-blasts-democrat-playing-political-games-shutdown-amid-airport-chaos</link>
-      <summary>Senate Democrats threatened to freeze legislative business over Trump&amp;apos;s Iran war powers as the partial DHS shutdown entered its fourth week.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:55:09 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/katie-britt-1-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>5 Iranian women's soccer players receive asylum in Australia after Trump pressure</title>
       <link>https://www.foxnews.com/sports/5-iranian-womens-soccer-players-receive-asylum-australia-after-trump-pressure</link>
       <summary>At least five Iranian women&amp;apos;s soccer players were granted asylum in Australia after the country received added pressure from President Donald Trump on Monday.</summary>
@@ -56,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-womens-soccer-030926-5.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Hitchhiker’s Guide to the 'talking filibuster' and the SAVE Act</title>
+      <link>https://www.foxnews.com/politics/hitchhikers-guide-talking-filibuster-save-act</link>
+      <summary>Republicans push to alter Senate filibuster rules to pass Trump&amp;apos;s SAVE Act requiring citizenship proof for voting, despite significant procedural hurdles.</summary>
+      <pubDate>Mon, 09 Mar 2026 20:04:01 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/931/523/232f24c6-capitol-building.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Virginia Dems send Spanberger bill that could let some repeat offenders out without secured bond, expert warns</title>
-      <link>https://www.foxnews.com/politics/virginia-dems-send-spanberger-bill-could-let-some-repeat-offenders-out-without-secured-bond-expert-warns</link>
-      <summary>Bail industry leader warns Virginia&amp;apos;s HB 357 threatens public safety by removing bond requirements for repeat felons. Critics say bill eases jail release.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:57:36 -0500</pubDate>
-      <priority>75</priority>
+      <title>Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries</title>
+      <link>https://www.foxnews.com/world/trump-says-its-honor-keep-strait-hormuz-open-china-other-countries</link>
+      <summary>President says he will keep the Strait of Hormuz open for the world, including China, while announcing plans to waive oil sanctions to lower energy prices.</summary>
+      <pubDate>Mon, 09 Mar 2026 20:12:32 -0500</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/spanberger-jail-2.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-xi-jinping-2025.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
