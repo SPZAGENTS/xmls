@@ -2,12 +2,23 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-10T18:21:41.466648</generated>
+  <generated>2026-03-10T19:11:39.310425</generated>
   <items>
+    <item>
+      <title>Watch: HMS Dragon sets sail from Portsmouth and heads to Cyprus</title>
+      <link>https://www.bbc.com/news/videos/cjeng582d13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The UK has deployed the Type 45 Destroyer to the Mediterranean region, after an Iranian drone struck the runway at the RAF Akrotiri base in Cyprus on 1 March.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:47:23 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/879c/live/2d5b4510-1c9f-11f1-801d-ed3cff6bf876.jpg</image>
+      </media>
+    </item>
     <item>
       <title>'I just want to be able to sleep': Attacks in Iran rock cities and cut power</title>
       <link>https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.</summary>
+      <summary>Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.</summary>
       <pubDate>Tue, 10 Mar 2026 13:26:17 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
@@ -16,14 +27,25 @@
       </media>
     </item>
     <item>
-      <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
-      <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.</summary>
-      <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
+      <title>Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say</title>
+      <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:42:31 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>War expands to central Beirut as Israel says Iranians hit in luxury hotel</title>
+      <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:56:17 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
       </media>
     </item>
     <item>
@@ -38,36 +60,25 @@
       </media>
     </item>
     <item>
-      <title>'My heating oil costs have more than doubled since Iran war started'</title>
-      <link>https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Your Voice hears from someone facing higher bills, as the chancellor says there is "price gouging" in the market.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:03:15 GMT</pubDate>
-      <source>bbc-uk</source>
+      <title>War expands to central Beirut as Israel says Iranians hit in luxury hotel</title>
+      <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Israeli military says it targeted a meeting of Quds Force operatives in a strike after a return to war with the Lebanese group Hezbollah.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:56:17 GMT</pubDate>
+      <source>bbc-middle-east</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/ef5d6000-1be9-11f1-801d-ed3cff6bf876.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
       </media>
     </item>
     <item>
       <title>'I just want to be able to sleep': Attacks in Iran rock cities and cut power</title>
       <link>https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.</summary>
+      <summary>Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.</summary>
       <pubDate>Tue, 10 Mar 2026 13:26:17 GMT</pubDate>
       <source>bbc-middle-east</source>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c358/live/94c81d10-1c75-11f1-a7bf-efb6e72f87e6.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
-      <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.</summary>
-      <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
     <item>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
+      <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.</summary>
+      <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c5/live/781d23c0-1c90-11f1-801d-ed3cff6bf876.jpg</image>
+      </media>
+    </item>
+    <item>
       <title>Strikes shake Iran cities as crowds rally in support of Mojtaba Khamenei</title>
       <link>https://www.bbc.com/news/articles/c3dzy4nede0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Iran and Israel continue to exchange attacks, as supporters of Khamenei celebrate the decision to name him supreme leader.</summary>
@@ -90,28 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7094/live/c8f27aa0-1bde-11f1-9120-a910fc22c6ac.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>US missile hit military base near Iran school, video analysis shows</title>
-      <link>https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A US Tomahawk missile hit a military base near a primary school in southern Iran where Iranian authorities said 168 people were killed, expert video analysis shows.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:09:05 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d5/live/f15d3960-1bc2-11f1-b048-c9424b2cf5fd.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>'Night turned into day': Iranians tell of strikes on oil depots</title>
-      <link>https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Fuel depots were hit in Tehran and Karaj overnight, with videos showing huge fires and plumes of smoke in multiple locations.</summary>
-      <pubDate>Mon, 09 Mar 2026 05:40:05 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ca/live/5edeb9b0-1b04-11f1-ab07-5d250ad452fb.jpg</image>
       </media>
     </item>
   </items>

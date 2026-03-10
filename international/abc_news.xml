@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T18:21:38.571146</generated>
+  <generated>2026-03-10T19:11:36.669349</generated>
   <items>
     <item>
       <title>Iran live updates: Tuesday to mark 'most intense' US strikes in Iran, Hegseth says</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-2-gty-jef-260304_1772628609567_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Investigation into potential terror attack outside NYC mayor's home</title>
+      <link>https://abcnews.com/US/video/investigation-potential-terror-attack-nyc-mayors-home-130936014</link>
+      <summary>Two improvised explosive devices brought to a counterprotest outside Gracie Mansion in New York City are being investigated as "an act of ISIS-inspired terrorism," officials said.</summary>
+      <pubDate>Tue, 10 Mar 2026 11:38:28 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260310_abc_social_nyc_ied_investigation_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260309_gma_benitez3_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Georgia teacher killed in apparent prank gone wrong</title>
-      <link>https://abcnews.com/US/video/georgia-teacher-killed-apparent-prank-wrong-130883463</link>
-      <summary>A Georgia teacher was fatally run over by a pickup truck in an apparent prank gone wrong.</summary>
-      <pubDate>Sun, 08 Mar 2026 17:28:54 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

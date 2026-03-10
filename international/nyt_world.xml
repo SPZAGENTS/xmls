@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T18:21:34.046832</generated>
+  <generated>2026-03-10T19:11:31.926554</generated>
   <items>
     <item>
-      <title>Live Updates: U.S. Warns of ‘Most Intense’ Strikes on Iran as It Eases Limits on Russian Oil</title>
+      <title>Live Updates: Nearly 700,000 Flee Israeli Strikes in Lebanon</title>
       <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
-      <summary>The Trump administration’s move was an apparent attempt to stem rising gas prices. Defense Secretary Pete Hegseth said “the most fighters, the most bombers” would be deployed in Iran on Tuesday.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:11:37 +0000</pubDate>
+      <summary>Lebanese leaders and aid groups warned of a growing humanitarian crisis as Israel targets Hezbollah. Defense Secretary Pete Hegseth predicted Tuesday would bring the most intense day of strikes on Iran since the start of the war.</summary>
+      <pubDate>Tue, 10 Mar 2026 17:04:31 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10iran-carousel-promo8am/10iran-carousel-zzz-mwvg-mediumSquareAt3X.jpg</image>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Nearly 700,000 Displaced by War in Lebanon, U.N. Says</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/nearly-700000-displaced-by-war-in-lebanon-un-says.html</link>
+      <summary>Mass evacuation orders and an intensifying Israeli bombing campaign targeting the Iran-backed militia Hezbollah have caused a humanitarian crisis, aid groups warn.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:17:06 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-lebanon-displaced/10iran-carousel-sub-lmvg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>‘Nothing Will Remain of Tehran,’ Iranians Say Amid Heavy Bombing</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html</link>
       <summary>Some residents described the strikes overnight Monday into Tuesday as among the worst they had experienced since the war started.</summary>
@@ -63,7 +74,7 @@
       <title>U.S. Eases Limits on Russian Energy as Oil Prices Soar</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html</link>
       <summary>The volatility in energy markets because of the war in Iran could not come at a better time for President Vladimir V. Putin.</summary>
-      <pubDate>Tue, 10 Mar 2026 16:07:42 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 16:30:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09israel-iran-Russia-oil-bzgq/09israel-iran-Russia-oil-bzgq-mediumSquareAt3X.jpg</image>
@@ -89,17 +100,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Orders Diplomats to Leave Consulate in Southern Turkey</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html</link>
-      <summary>The order came after the interception of two missiles heading toward Turkey, which has a base that hosts U.S. and NATO forces.</summary>
-      <pubDate>Tue, 10 Mar 2026 10:00:45 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-turkey-evacuations-vjpg/10israel-iran-turkey-evacuations-vjpg-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
