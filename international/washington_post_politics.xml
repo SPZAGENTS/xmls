@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-10T03:21:33.061166</generated>
+  <generated>2026-03-10T04:11:32.873485</generated>
   <items>
     <item>
       <title>U.S. orders more diplomats to leave Middle East</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump confronts ‘bad part of war’ as troops killed in Iran conflict return home</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/07/trump-dover-dignified-transfer-soldiers-iran/</link>
-      <summary>Trump joined grieving families at Dover Air Force Base for a dignified transfer as the remains of the first troops killed in the Iran war returned to the U.S.</summary>
-      <pubDate>Sun, 08 Mar 2026 01:31:03 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump is betting that bigger income tax refunds will boost the GOP</title>
       <link>https://www.washingtonpost.com/politics/2026/03/08/trump-tax-return-gop-strategy/</link>
       <summary>Republicans designed parts of Trump’s signature tax law to deliver larger refunds this filing season, offering a potential political boost before the midterms.</summary>
@@ -73,6 +66,13 @@
       <summary>The hiring push is unfolding under new rules designed to give the White House greater influence over the government’s 2 million-person civilian workforce.</summary>
       <pubDate>Mon, 09 Mar 2026 09:00:50 +0000</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Consumer advocates, Democrats denounce Live Nation deal as inadequate</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/09/ticketmaster-livenation-doj-settlement/</link>
+      <summary>Officials have alleged that Ticketmaster and parent company Live Nation Entertainment held an illegal monopoly over concerts and other live events.</summary>
+      <pubDate>Mon, 09 Mar 2026 23:21:24 +0000</pubDate>
+      <priority>80</priority>
     </item>
   </items>
 </content-feed>

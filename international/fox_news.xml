@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T03:21:30.384636</generated>
+  <generated>2026-03-10T04:11:29.083185</generated>
   <items>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
@@ -34,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-womens-soccer-030926-5.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Tyler Linderbaum's $81M record-breaking deal headlines Raiders' free agent spending spree</title>
+      <link>https://www.foxnews.com/sports/tyler-linderbaums-81m-record-breaking-deal-headlines-raiders-free-agent-spending-spree</link>
+      <summary>The Raiders made Tyler Linderbaum the highest-paid interior lineman in league history with an $81M deal, as Las Vegas goes all-in during the NFL free agency tampering period.</summary>
+      <pubDate>Mon, 09 Mar 2026 21:23:27 -0500</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tyler-linderbaum-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tarik-skubal-team-usa.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>40+ House Republicans rally behind Markwayne Mullin for DHS, call it a ‘critical moment’ for border security</title>
-      <link>https://www.foxnews.com/politics/40-house-republicans-rally-behind-markwayne-mullin-dhs-call-critical-moment-border-security</link>
-      <summary>In a letter to President Trump, members of the Republican Main Street Caucus back Sen. Markwayne Mullin to lead Homeland Security after Kristi Noem&amp;apos;s ouster.</summary>
-      <pubDate>Mon, 09 Mar 2026 19:00:55 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senator-markwayne-mullin-next.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

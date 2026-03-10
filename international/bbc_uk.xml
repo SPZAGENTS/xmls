@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-10T03:21:28.852057</generated>
+  <generated>2026-03-10T04:11:27.624461</generated>
   <items>
     <item>
       <title>US missile hit military base near Iran school, video analysis shows</title>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd51/live/16b88790-1ade-11f1-9120-a910fc22c6ac.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Papers: 'Drive less to save on fuel' and 'War is near end'</title>
+      <link>https://www.bbc.com/news/articles/ce945rrde1yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Experts warning fuel could hit £2 a litre and Trump saying the Iran war is near its end lead Tuesday's papers.</summary>
+      <pubDate>Tue, 10 Mar 2026 01:36:16 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed3/live/8dab3c20-1c10-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed3/live/6f6ac440-1bb3-11f1-8854-75b001a39386.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Paddington first new musical to win nine WhatsOnStage awards in 'record-setting haul'</title>
-      <link>https://www.bbc.com/news/articles/cwy6wn3lnyyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Other winners at the event included Jonathan Bailey, Rachel Zegler, Amber Davies and Sir Stephen Fry.</summary>
-      <pubDate>Mon, 09 Mar 2026 01:04:49 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189b/live/77183d50-1963-11f1-a1cd-a71e69f1cf89.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

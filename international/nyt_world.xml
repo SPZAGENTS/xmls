@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T03:21:33.576025</generated>
+  <generated>2026-03-10T04:11:33.351857</generated>
   <items>
     <item>
       <title>Live Updates: After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed.</summary>
-      <pubDate>Tue, 10 Mar 2026 01:17:34 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 02:07:04 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09iran-promo-8pm-zhlw/09iran-promo-8pm-zhlw-mediumSquareAt3X.jpg</image>
@@ -30,7 +30,7 @@
       <title>Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War</title>
       <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
       <summary>Supreme Leader Mojtaba Khamenei could prove to be even more radical than his father and predecessor, Ayatollah Ali Khamenei, who was killed by the U.S. and Israel at the start of the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 01:05:32 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:05:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-leader-1-bcjp/09int-iran-leader-1-bcjp-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Trump Seeks to Calm Oil and Gas Markets but Says Iran War Will Go On</title>
+      <link>https://www.nytimes.com/2026/03/09/us/politics/trump-gas-oil-iran.html</link>
+      <summary>The president said the U.S. could accompany tankers through the Strait of Hormuz if necessary to keep oil flowing. “We’ve already won in many ways, but we haven’t won enough,” he said.</summary>
+      <pubDate>Tue, 10 Mar 2026 01:41:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09dc-trump-iran-vpgt/09dc-trump-iran-vpgt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Shells Fired From Lebanon Land West of Syrian Capital, Country’s Military Says</title>
       <link>https://www.nytimes.com/2026/03/09/world/middleeast/syria-hezbollah-iran-lebanon.html</link>
       <summary>The Syrian military accused Hezbollah of targeting Syrian army positions outside of Damascus.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine Lends a Hand</title>
-      <link>https://www.nytimes.com/2026/03/09/world/ukraine-iran-drones-war-oil-khamenei.html</link>
-      <summary>Countries targeted by Iranian drones are eager to tap into Ukrainian expertise to shoot them down.</summary>
-      <pubDate>Mon, 09 Mar 2026 21:01:14 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-theworld-ukraine-top-mqbz-promo/10int-theworld-ukraine-top-mqbz-promo-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
