@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T10:01:56.126035</generated>
+  <generated>2026-03-10T10:51:37.044160</generated>
   <items>
     <item>
       <title>Iran live updates: Trump says war will be 'ended soon'</title>
@@ -19,7 +19,7 @@
       <title>Trump 'willing to live with' US report on missile strike on Iranian girls' school</title>
       <link>https://abcnews.com/Politics/trump-live-final-us-report-deadly-missile-strike/story?id=130916651</link>
       <summary>President Donald Trump said on Monday he doesn't "know enough" about the strike on an Iranian elementary school that Iran says killed at least 168 people.</summary>
-      <pubDate>Tue, 10 Mar 2026 00:19:51 -0400</pubDate>
+      <pubDate>Tue, 10 Mar 2026 04:16:33 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/trump-9-gty-260309_1773094264506_hpMain_4x3t_384.jpg</image>
@@ -45,6 +45,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260307_abcnl_11a_ibrahim_devey_syria_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Human Rights Watch details deaths and injuries of police drone attacks in Haiti</title>
+      <link>https://abcnews.com/International/wireStory/human-rights-watch-details-deaths-injuries-police-drone-130923385</link>
+      <summary>Human Rights Watch says drones operated by Haitian security forces and private contractors have killed at least 1,243 people and injured 738 others</summary>
+      <pubDate>Tue, 10 Mar 2026 04:36:14 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_a1e575416a5f1859b7af144d89e5a572_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260308_abc_social_georgia_teacher4_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Asian shares surge, echoing rally on Wall Street as oil prices sank back to about $90</title>
-      <link>https://abcnews.com/Business/wireStory/asian-shares-surge-echoing-rally-wall-street-oil-130923565</link>
-      <summary>Asian shares have rebounded from their sharp declines a day before</summary>
-      <pubDate>Tue, 10 Mar 2026 02:14:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_f650fe82917ead7099e7cb00572702f6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
