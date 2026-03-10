@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-10T14:11:28.722148</generated>
+  <generated>2026-03-10T15:01:37.373856</generated>
   <items>
     <item>
       <title>Five Iranian footballers granted Australian visas after anthem protest</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87eb/live/752fb980-1c1c-11f1-a39b-e900fed13cf7.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
+      <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Aoun outlines a path towards "permanent security and stability", as Israeli strikes targeting Hezbollah continue.</summary>
+      <pubDate>Tue, 10 Mar 2026 12:00:25 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b0/live/25083e30-1c73-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Canada police investigate reports of shots fired at US consulate in Toronto</title>
+      <link>https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It comes as Norwegian police investigate an explosion that occurred outside the US embassy in Oslo on Sunday.</summary>
+      <pubDate>Tue, 10 Mar 2026 12:30:22 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9786/live/92e86e50-1c7a-11f1-a7bf-efb6e72f87e6.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Volkswagen to cut 50,000 jobs as profits drop</title>
       <link>https://www.bbc.com/news/articles/c4gqyyly9v8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Europe's largest carmaker said post-tax profits had dropped to their lowest level since 2016.</summary>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/9e9a05c0-1c33-11f1-b268-3b95e9433703.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US teacher killed after toilet paper prank goes wrong</title>
-      <link>https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Jason Hughes's family does not want the students prosecuted after the prank turned into a fatal car accident.</summary>
-      <pubDate>Mon, 09 Mar 2026 17:09:21 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d5/live/5b5827f0-1be9-11f1-b830-cb1fa32e1d18.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Alleged Bondi gunman seeks order to suppress family's identity</title>
-      <link>https://www.bbc.com/news/articles/cy8lwnyj40eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Naveed Akram is seeking to prevent media publishing details about his mother, sister and brother.</summary>
-      <pubDate>Mon, 09 Mar 2026 08:13:58 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/bb3200a0-1b86-11f1-9819-7b03ffb2517c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
