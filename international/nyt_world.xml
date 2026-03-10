@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T10:51:32.835624</generated>
+  <generated>2026-03-10T11:41:32.215336</generated>
   <items>
     <item>
       <title>After Global Economy Shudders, Trump Zigzags on Whether War Is Nearing End</title>
       <link>https://www.nytimes.com/live/2026/03/09/world/iran-war-trump-israel-lebanon</link>
       <summary>The president told reporters at a news conference in Florida that the fighting is “going to be ended soon” but added that the U.S. would strike Iran harder if needed.</summary>
-      <pubDate>Tue, 10 Mar 2026 08:21:43 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 09:14:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-promo2330h-tlvp/09israel-iran-promo2330h-tlvp-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Black Rain and Health Fears After Strikes on Iran Fuel Depots</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html</link>
+      <summary>Health experts warn of long-term respiratory and neurological risks as smoke from burning oil spreads across the region.</summary>
+      <pubDate>Tue, 10 Mar 2026 09:03:30 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-oil-strikes-health-lqjv/10int-oil-strikes-health-lqjv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Oil Falls and Stocks Rise After a Day of Drastic Swings</title>
       <link>https://www.nytimes.com/2026/03/10/business/stocks-oil-markets-iran.html</link>
       <summary>The price of oil had spiked to nearly $120 a barrel on Monday, drawing remarks by President Trump that he believed the war on Iran was “very complete.”</summary>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10Biz-Stocks-Oil-jltg/10Biz-Stocks-Oil-jltg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As War Comes to Gulf States, Migrant Workers Pay the Highest Price</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html</link>
-      <summary>Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.</summary>
-      <pubDate>Tue, 10 Mar 2026 07:41:36 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-migrants-1-ctvj/10int-iran-migrants-1-ctvj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy</title>
-      <link>https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html</link>
-      <summary>More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.</summary>
-      <pubDate>Tue, 10 Mar 2026 04:01:04 +0000</pubDate>
-      <priority>90</priority>
+      <title>New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html</link>
+      <summary>His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.</summary>
+      <pubDate>Tue, 10 Mar 2026 09:03:19 +0000</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10biz-solar-trump-pzbl/10biz-solar-trump-pzbl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ayatollah3-jkwb/10int-iran-ayatollah3-jkwb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
