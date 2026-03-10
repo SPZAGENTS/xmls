@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T23:21:34.890928</generated>
+  <generated>2026-03-11T00:11:35.300205</generated>
   <items>
     <item>
       <title>Iran Live Updates: Nearly 700,000 Flee Israeli Strikes in Lebanon</title>
       <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
       <summary>Lebanese leaders and aid groups warned of a growing humanitarian crisis as Israel targeted Hezbollah. The Pentagon said 140 American service members had been wounded, eight severely, in the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 21:00:05 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 21:37:15 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-sub-jcvb/10israel-iran-sub-jcvb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-live-promo-530pm-bvfz/10israel-iran-live-promo-530pm-bvfz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,10 +49,43 @@
       </media>
     </item>
     <item>
+      <title>Iranian Military Shows It Knows How to Adapt, U.S. Officials Say</title>
+      <link>https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html</link>
+      <summary>Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.</summary>
+      <pubDate>Tue, 10 Mar 2026 22:02:12 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-military-iran-mjvz/10dc-military-iran-mjvz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Tries to Sidestep Blame for Any Civilian Deaths in Iran</title>
+      <link>https://www.nytimes.com/2026/03/10/us/politics/trump-civilian-deaths-iran-war.html</link>
+      <summary>The president and the Pentagon have cast blame on Iran for the mounting toll. More than 1,800 people have died in the war, including many civilians.</summary>
+      <pubDate>Tue, 10 Mar 2026 22:01:03 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10DC-PREXY-bmqj/10DC-PREXY-bmqj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War in Iran Could Lead to Food Shortages in Region, Experts Warn</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-food-prices.html</link>
+      <summary>Some residents of Lebanon, Gaza and Iran are reporting shortages of food, rising food prices and other disruptions to food supplies as the conflict in the Middle East continues.</summary>
+      <pubDate>Tue, 10 Mar 2026 21:37:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-food-bzjc/10israel-iran-food-bzjc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html</link>
       <summary>Iranians cowered under the barrage as Pete Hegseth, the U.S. defense secretary, said the U.S. aimed to wipe out Iran’s capacity to obtain nuclear weapons “forever.”</summary>
-      <pubDate>Tue, 10 Mar 2026 21:16:56 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 21:16:57 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ledeall-1-tjlm/10int-iran-ledeall-1-tjlm-mediumSquareAt3X.jpg</image>
@@ -71,46 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Pentagon Says 140 Service Members Have Been Injured in Iran War</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-injuries-iran-war.html</link>
-      <summary>Eight Americans have been seriously wounded, military officials said, but the bulk of the injured have already returned to duty. Seven Americans have been killed.</summary>
-      <pubDate>Tue, 10 Mar 2026 20:19:33 +0000</pubDate>
-      <priority>100</priority>
+      <title>Mother of Tumbler Ridge Shooting Victim Sues OpenAI</title>
+      <link>https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html</link>
+      <summary>The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:59:47 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-US-injured--vjpt/10israel-iran-US-injured--vjpt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Long Will the Iran War Last? Trump Offers Conflicting Answers.</title>
-      <link>https://www.nytimes.com/2026/03/10/us/politics/trump-iran-war-how-long-timeline.html</link>
-      <summary>Now 11 days into an expanding military campaign, President Trump and his officials have given conflicting indications on how long the United States intends the war to last.</summary>
-      <pubDate>Tue, 10 Mar 2026 20:12:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-explainer-wtkg/10dc-explainer-wtkg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>France Bolsters Efforts to Repatriate Citizens Stranded by Iran War</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/france-repatriation-flights-iran-crisis.html</link>
-      <summary>France is highlighting its repatriation operations for nationals left stranded by the conflict with Iran.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:53:45 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-french-repatriation-cqjw/10israel-iran-french-repatriation-cqjw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Nearly 700,000 Displaced by War in Lebanon, U.N. Says</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html</link>
-      <summary>Mass evacuation orders and an intensifying Israeli bombing campaign targeting the Iran-backed militia Hezbollah have caused a humanitarian crisis, aid groups warn.</summary>
-      <pubDate>Tue, 10 Mar 2026 17:30:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-lebanon-displaced/10iran-carousel-sub-lmvg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/02/27/multimedia/10canada-openai/27chatbot-threats-print-02-kfbj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
