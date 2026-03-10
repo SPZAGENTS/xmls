@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-11T00:11:41.510503</generated>
+  <generated>2026-03-11T01:01:51.071961</generated>
   <items>
     <item>
       <title>Iranians fleeing cities under attack seek refuge in the countryside</title>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Several dead after postal bus bursts into flames, authorities say</title>
+      <link>https://abcnews.com/International/wireStory/dead-after-postal-bus-bursts-flames-west-swiss-130949295</link>
+      <summary>Police say several people are dead and several others were injured after a postal bus caught fire in a town west of the Swiss capital</summary>
+      <pubDate>Tue, 10 Mar 2026 18:16:06 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_64703071b4fc8de5c2afe9c8c2a0ef7b_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>China announces resumption of passenger trains to North Korea after COVID</title>
       <link>https://abcnews.com/International/wireStory/china-announces-resumption-passenger-trains-north-korea-after-130934748</link>
       <summary>China has reopened passenger train service to North Korea, ending a long COVID-era shutdown and boosting cross-border travel</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_1dbb870993cd1386b4270bb473fee733_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Reindeer racing thrills spectators in Finland's frigid north near the Russian border</title>
-      <link>https://abcnews.com/International/wireStory/reindeer-racing-thrills-spectators-finlands-frigid-north-russian-130923878</link>
-      <summary>Traditional reindeer racing has drawn an international crowd to the town of Salla in northern Finland</summary>
-      <pubDate>Tue, 10 Mar 2026 08:58:56 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Weird/wirestory_01f2d5650f0502c5fc13b55b3638c727_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-11T00:11:32.510864</generated>
+  <generated>2026-03-11T01:01:42.611492</generated>
   <items>
+    <item>
+      <title>Top Iranian cybercriminal on FBI most wanted list reportedly killed in US-Israeli strike</title>
+      <link>https://www.foxnews.com/world/top-iranian-cybercriminal-fbi-most-wanted-list-reportedly-killed-us-israeli-strike</link>
+      <summary>A top Iranian hacker wanted by the FBI was allegedly killed in an Israeli strike. Mohammad Mehdi Farhadi Ramin was accused of stealing U.S. identities and sensitive data.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:05:11 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mehdi-farhadi-mehdi-farhadi.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US strike on key Iran oil hub would fit Trump's 'energy dominance doctrine,' expert says</title>
       <link>https://www.foxnews.com/world/us-strike-key-iran-oil-hub-fit-trumps-energy-dominance-doctrine-says-expert</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/pete-hegseth-speaking.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Private security firm helping Americans evacuate the Middle East amid war with Iran</title>
-      <link>https://www.foxnews.com/world/private-security-firm-evacuates-americans-iran-conflict</link>
-      <summary>A global security firm based in Virginia says it has evacuated more than 4,000 people from the Middle East since the U.S. and Israel launched a joint attack on Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 23:25:44 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/global-guardian.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
