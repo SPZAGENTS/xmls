@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-10T15:01:41.819018</generated>
+  <generated>2026-03-10T15:51:31.781561</generated>
   <items>
     <item>
       <title>Live Updates: Hegseth Says Tuesday Will Be ‘Most Intense’ for U.S. Strikes on Iran</title>
       <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
       <summary>Defense Secretary Pete Hegseth said that “the most fighters, the most bombers” would be deployed. A day earlier, President Trump sent mixed signals on when the war might end.</summary>
-      <pubDate>Tue, 10 Mar 2026 13:00:50 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 13:48:22 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10iran-carousel-promo8am/10iran-carousel-zzz-mwvg-mediumSquareAt3X.jpg</image>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Iran’s Revolutionary Guards: The Spine of a Militarized State</title>
-      <link>https://www.nytimes.com/2026/03/08/us/iran-islamic-revolutionary-guards-corps.html</link>
-      <summary>With their pervasive military, political and economic clout, the Guards are often considered the main impediment to regime change, or any change, in Iran.</summary>
-      <pubDate>Sun, 08 Mar 2026 09:11:46 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/08/multimedia/08int-iran-guards-wfzb/08int-iran-guards-wfzb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Pakistan Sends Navy Escort for Its Ships in the Middle East</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html</link>
       <summary>Pakistan, Iran’s neighbor, has been striving to remain neutral in the conflict. But its government and military have been forced to act to protect its economy.</summary>
@@ -85,7 +74,7 @@
       <title>Oil Falls and Stocks Rise After a Day of Drastic Swings</title>
       <link>https://www.nytimes.com/2026/03/10/business/stocks-oil-markets-iran.html</link>
       <summary>The price of oil had spiked to nearly $120 a barrel on Monday, drawing remarks by President Trump that he believed the war on Iran was “very complete.”</summary>
-      <pubDate>Tue, 10 Mar 2026 12:09:22 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 13:41:29 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10Biz-Stocks-Oil-jltg/10Biz-Stocks-Oil-jltg-mediumSquareAt3X.jpg</image>
@@ -105,12 +94,23 @@
     </item>
     <item>
       <title>U.S. Orders Diplomats to Leave Consulate in Southern Turkey</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-orders-diplomats-to-leave-consulate-in-southern-turkey.html</link>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-diplomats-consulate-turkey.html</link>
       <summary>The order came after the interception of two missiles heading toward Turkey, which has a base that hosts U.S. and NATO forces.</summary>
-      <pubDate>Tue, 10 Mar 2026 10:00:44 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 10:00:45 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-turkey-evacuations-vjpg/10israel-iran-turkey-evacuations-vjpg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cost-Cutting Led to South Korean Airport’s Deadly Wall, Report Finds</title>
+      <link>https://www.nytimes.com/2026/03/10/world/asia/jeju-air-crash-wall-airport.html</link>
+      <summary>The concrete runway barrier played a key role in a disaster that killed 179 people. An audit revealed officials skimped on construction fees and then falsified records.</summary>
+      <pubDate>Tue, 10 Mar 2026 13:49:09 +0000</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-skorea-crash-wall-pbcq/10int-skorea-crash-wall-pbcq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

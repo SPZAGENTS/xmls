@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-10T15:01:42.291625</generated>
+  <generated>2026-03-10T15:51:32.273762</generated>
   <items>
+    <item>
+      <title>Rising Fuel Costs Pressure Airlines and Truckers</title>
+      <link>https://www.nytimes.com/2026/03/10/business/energy-environment/jet-fuel-diesel-airlines-truckers-iran.html</link>
+      <summary>The price of jet fuel and diesel has surged since the war in Iran began, which could force airlines and trucking companies to pass on higher costs to their customers.</summary>
+      <pubDate>Tue, 10 Mar 2026 13:33:23 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10biz-iran-jetfuel-mjfz/10biz-iran-jetfuel-mjfz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Pakistan Sends Navy Escort for Its Ships in the Middle East</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-ledeall-1-gkjq/09int-iran-ledeall-1-gkjq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Choosing Mojtaba Khamenei as Supreme Leader Signals Defiance Amid War</title>
-      <link>https://www.nytimes.com/2026/03/09/world/middleeast/iran-new-supreme-leader-mojtaba-khamenei.html</link>
-      <summary>Supreme Leader Mojtaba Khamenei could prove to be even more radical than his father and predecessor, Ayatollah Ali Khamenei, who was killed by the U.S. and Israel at the start of the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 01:05:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09int-iran-leader-1-bcjp/09int-iran-leader-1-bcjp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
