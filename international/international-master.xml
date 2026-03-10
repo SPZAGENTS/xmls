@@ -2,9 +2,20 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-10T17:31:52.776055</generated>
+  <generated>2026-03-10T18:21:41.465663</generated>
   <total_articles>338</total_articles>
   <items>
+    <item>
+      <title>'I just want to be able to sleep': Attacks in Iran rock cities and cut power</title>
+      <link>https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iranians in Tehran and Karaj tel the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.</summary>
+      <pubDate>Tue, 10 Mar 2026 13:26:17 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c358/live/94c81d10-1c75-11f1-a7bf-efb6e72f87e6.jpg</image>
+      </media>
+    </item>
     <item>
       <title>Lebanon calls for talks with Israel on plan to end Hezbollah conflict</title>
       <link>https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -25,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9c/live/e6859790-1ba3-11f1-9f65-e32170917420.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'My heating oil costs have more than doubled since Iran war started'</title>
+      <link>https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Your Voice hears from someone facing higher bills, as the chancellor says there is "price gouging" in the market.</summary>
+      <pubDate>Tue, 10 Mar 2026 16:03:15 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/ef5d6000-1be9-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
     <item>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ca/live/5edeb9b0-1b04-11f1-ab07-5d250ad452fb.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>'Mind boggles' at doubts over legality of Iran war, Israeli president says</title>
-      <link>https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Isaac Herzog says Israel is acting out of "self-defence" on behalf of Israel, the wider region and Europe.</summary>
-      <pubDate>Sun, 08 Mar 2026 16:53:30 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444b/live/bb58f060-1b14-11f1-a489-ff7ad54780bc.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president</title>
-      <link>https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The president also calls on Tehran to pick new leaders who are "acceptable" to the White House after six days of war.</summary>
-      <pubDate>Sat, 07 Mar 2026 02:04:06 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd6/live/fa5d3e90-197c-11f1-9156-4356592fc9c8.jpg</image>
       </media>
     </item>
   </items>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-10T17:31:50.208613</generated>
+  <generated>2026-03-10T18:21:38.571146</generated>
   <items>
     <item>
       <title>Iran live updates: Tuesday to mark 'most intense' US strikes in Iran, Hegseth says</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Tue, 10 Mar 2026 10:30:39 -0400</pubDate>
+      <pubDate>Tue, 10 Mar 2026 12:06:07 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/pete-hegseth-2-abc-gmh-260310_1773150866074_hpMain_4x3t_384.jpg</image>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-2-gty-jef-260304_1772628609567_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: War in Iran's impact on gas</title>
-      <link>https://abcnews.com/International/video/war-irans-impact-gas-130858678</link>
-      <summary>Oil prices continue to soar, rattling stock markets and threatening price increases for some essential products as war escalated in the Middle East.</summary>
-      <pubDate>Sat, 07 Mar 2026 12:00:05 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260307_abc_social_gas_price_iran_war_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: 4 killed Friday from tornadoes in Michigan</title>
-      <link>https://abcnews.com/WNT/video/4-killed-friday-tornadoes-michigan-130886301</link>
-      <summary>Michigan Governor Gretchen Whitmer has declared a state of emergency in several counties.</summary>
-      <pubDate>Mon, 09 Mar 2026 06:46:06 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260308_wn_beckstrom_michigan_weather1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Georgia teacher killed in apparent prank gone wrong</title>
       <link>https://abcnews.com/US/video/georgia-teacher-killed-apparent-prank-wrong-130883463</link>
       <summary>A Georgia teacher was fatally run over by a pickup truck in an apparent prank gone wrong.</summary>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260309_wn_ender_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Why there's no place like the OZ Museum</title>
+      <link>https://abcnews.com/US/video/place-oz-museum-130861001</link>
+      <summary>Clint Stueve discusses the Kansas museum dedicated to all things "Wizard of Oz," which opened in 2003.</summary>
+      <pubDate>Sat, 07 Mar 2026 13:54:26 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260307_abcnl_1p_stueze_oz_museum_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Growing trend of young girls using makeup</title>
+      <link>https://abcnews.com/GMA/Family/video/growing-trend-young-girls-makeup-130928205</link>
+      <summary>The Wall Street Journal reported brands are now marketing products specifically to children as young as 3 years old.</summary>
+      <pubDate>Tue, 10 Mar 2026 11:05:36 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260310_gma_bergamotto_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
