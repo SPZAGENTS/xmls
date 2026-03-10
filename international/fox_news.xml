@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T02:31:28.208711</generated>
+  <generated>2026-03-10T03:21:30.384636</generated>
   <items>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/marijuana.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump, Thune clash on voter ID ultimatum as GOP remains divided on path forward</title>
-      <link>https://www.foxnews.com/politics/trump-thune-clash-voter-id-ultimatum-gop-remains-divided-path-forward</link>
-      <summary>Senate Republicans are still divided on using the talking filibuster for voter ID legislation as Senate Democrats vow to block the bill.</summary>
-      <pubDate>Mon, 09 Mar 2026 16:35:23 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-shield-of-the-americas-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +60,24 @@
       </media>
     </item>
     <item>
-      <title>‘90 Day Fiancé’ alum's boyfriend on trial for attempted murder over wild ‘Boca Bash’ accusations</title>
-      <link>https://www.foxnews.com/us/90-day-fiance-alums-boyfriend-trial-attempted-murder-over-wild-boca-bash-accusations</link>
-      <summary>&amp;quot;90 Day Fiancé&amp;quot; star&amp;apos;s boyfriend accused of trying to drown her during boat fight. Cole Goldberg faces murder trial after the alleged violent attack.</summary>
-      <pubDate>Mon, 09 Mar 2026 16:23:06 -0500</pubDate>
-      <priority>75</priority>
+      <title>At least 40 percent of California teachers plan to quit in the next decade: survey</title>
+      <link>https://www.foxnews.com/media/least-40-percent-california-teachers-plan-quit-next-decade-survey</link>
+      <summary>Teacher shortage crisis affects California as 40% consider leaving education due to financial issues, while nationwide 35% of teachers plan to exit the profession in the next decade.</summary>
+      <pubDate>Mon, 09 Mar 2026 21:00:21 -0500</pubDate>
+      <priority>70</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/boca-bash-cole-goldberg.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/sf-protests.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump reveals top issues GOP should focus on to secure midterms victory: 'I've never been more confident'</title>
+      <link>https://www.foxnews.com/politics/trump-reveals-top-issues-gop-should-focus-on-secure-midterms-victory</link>
+      <summary>Trump outlined a five-point legislative bucket list he says will secure GOP midterm victories, including voter ID and transgender policy restrictions at Republican conference.</summary>
+      <pubDate>Mon, 09 Mar 2026 20:30:46 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-donald-trump-german-chancellor-friedrich-merz-white-house-002.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

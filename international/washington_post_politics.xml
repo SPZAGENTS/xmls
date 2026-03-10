@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-10T02:31:31.771733</generated>
+  <generated>2026-03-10T03:21:33.061166</generated>
   <items>
     <item>
       <title>U.S. orders more diplomats to leave Middle East</title>
@@ -54,13 +54,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Pakistani man convicted in Iran-backed plot to kill Trump</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/07/trump-iran-assassination-plot/</link>
-      <summary>Asif Merchant’s case played out amid a broadening conflict in the Middle East. He was accused of working with the Iranian government to kill high-ranking U.S. officials.</summary>
-      <pubDate>Sun, 08 Mar 2026 00:40:44 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump is betting that bigger income tax refunds will boost the GOP</title>
       <link>https://www.washingtonpost.com/politics/2026/03/08/trump-tax-return-gop-strategy/</link>
       <summary>Republicans designed parts of Trump’s signature tax law to deliver larger refunds this filing season, offering a potential political boost before the midterms.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/09/trump-iran-soccer-womens-asylum-australia/</link>
       <summary>Trump had said that if Australia didn’t take the players, criticized by Iranian hard-liners for their behavior during the Asian Cup, the U.S. would.</summary>
       <pubDate>Mon, 09 Mar 2026 22:30:02 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>After slashing federal jobs, Trump administration ramps up hiring</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/09/trump-hiring-federal-workers/</link>
+      <summary>The hiring push is unfolding under new rules designed to give the White House greater influence over the government’s 2 million-person civilian workforce.</summary>
+      <pubDate>Mon, 09 Mar 2026 09:00:50 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>

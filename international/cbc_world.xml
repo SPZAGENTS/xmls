@@ -2,13 +2,20 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-10T02:31:38.095435</generated>
+  <generated>2026-03-10T03:21:39.137212</generated>
   <items>
     <item>
       <title>Oil prices dip during a manic day for markets amid U.S.-Israel war with Iran</title>
       <link>https://www.cbc.ca/news/business/oil-prices-spiking-march-9-9.7120238?cmp=rss</link>
       <summary />
       <pubDate>Mon, 02 Mar 2026 17:30:36 EST</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump says war in Iran could be over soon, but U.S. hasn't 'won enough' yet</title>
+      <link>https://www.cbc.ca/news/world/trump-iran-war-9.7121478?cmp=rss</link>
+      <summary>U.S. President Donald Trump hinted on Monday that the war in the Middle East could be over soon — though not this week, he specified — even as hardliners pledged loyalty to their new Supreme Leader Mojtaba Khamenei.</summary>
+      <pubDate>Mon, 09 Mar 2026 21:14:10 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -23,6 +30,13 @@
       <link>https://www.cbc.ca/news/world/iran-minab-school-bellingcat-investigation-9.7120487?cmp=rss</link>
       <summary>New footage shows what an expert investigative group says is likely an American Tomahawk missile hitting a compound in southern Iran, metres from the school where a deadly unclaimed blast killed more than 165 people at the start of the war raging in the Middle East.</summary>
       <pubDate>Mon, 09 Mar 2026 12:30:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>FIFA World Cup COO says tournament 'too big' to be postponed amid global turmoil</title>
+      <link>https://www.cbc.ca/sports/soccer/fifa-world-cup-postponement-talk-global-turmoil-heimo-schirgi-9.7121645?cmp=rss</link>
+      <summary>FIFA's World Cup chief operating officer says the tournament is "too big" to be postponed because of global turmoil caused by the U.S. and Israeli war against Iran.</summary>
+      <pubDate>Mon, 09 Mar 2026 21:01:19 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -59,20 +73,6 @@
       <summary>Iran on Monday named Mojtaba Khamenei to succeed his father, Ali Khamenei, as supreme leader, signalling that hardliners remain firmly in charge in Tehran more than a week ‌into its conflict with the United States and Israel.</summary>
       <pubDate>Sun, 08 Mar 2026 18:58:45 EDT</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>How polar geopolitics are creeping into the Arctic Winter Games</title>
-      <link>https://www.cbc.ca/news/canada/north/how-polar-geopolitics-are-creeping-into-the-arctic-winter-games-9.7120009?cmp=rss</link>
-      <summary>Athletes might be the stars of the show, but the Arctic Winter Games can't escape politics. The games kicked off on Sunday with the flyover of a CF-18 fighter jet at the opening ceremony in Whitehorse. Military aircraft flying over sporting events is nothing new in much of the...</summary>
-      <pubDate>Mon, 09 Mar 2026 12:06:10 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>At least 42 people killed in Kenya floods</title>
-      <link>https://www.cbc.ca/news/world/kenya-nairobi-floods-death-toll-rises-9.7120228?cmp=rss</link>
-      <summary>The death toll from heavy rains and flooding in Kenya's capital, Nairobi, and elsewhere has nearly doubled to 42, the government said ‌in a statement issued late on Sunday.</summary>
-      <pubDate>Mon, 09 Mar 2026 08:12:57 EDT</pubDate>
-      <priority>80</priority>
     </item>
   </items>
 </content-feed>
