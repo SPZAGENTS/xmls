@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T08:21:27.486656</generated>
+  <generated>2026-03-10T09:11:29.345164</generated>
   <items>
+    <item>
+      <title>The war hits home: Why financial pain and economic uncertainty threaten Trump’s drive to topple Iran’s regime</title>
+      <link>https://www.foxnews.com/media/war-hits-home-why-financial-pain-economic-uncertainty-threaten-trumps-drive-topple-irans-regime</link>
+      <summary>As the Pentagon continues churning out videos of bombs wreaking havoc in Iran, an important question arises: how high a price are Americans willing to pay for this war?</summary>
+      <pubDate>Tue, 10 Mar 2026 03:00:22 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/president-donald-trump-feb-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
       <link>https://www.foxnews.com/us/storage-facility-raided-feds-investigate-alleged-isis-inspired-nyc-bomb-throwers</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-donald-trump-german-chancellor-friedrich-merz-white-house-002.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries</title>
-      <link>https://www.foxnews.com/world/trump-says-its-honor-keep-strait-hormuz-open-china-other-countries</link>
-      <summary>President says he will keep the Strait of Hormuz open for the world, including China, while announcing plans to waive oil sanctions to lower energy prices.</summary>
-      <pubDate>Mon, 09 Mar 2026 20:12:32 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-xi-jinping-2025.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
