@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-10T06:41:27.103284</generated>
+  <generated>2026-03-10T07:31:27.366668</generated>
   <items>
+    <item>
+      <title>Australia grants asylum to 5 Iranian women’s soccer players amid Iran conflict</title>
+      <link>https://www.foxnews.com/sports/australia-asylum-iran-womens-soccer-players</link>
+      <summary>Australia granted asylum to five Iranian women&amp;apos;s soccer players who sought safety while visiting for a tournament amid the ongoing conflict in their country.</summary>
+      <pubDate>Tue, 10 Mar 2026 00:52:55 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/australia-iran-soccer-team-players-asylum.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Storage facility raided as feds investigate alleged ISIS-inspired NYC bomb throwers</title>
       <link>https://www.foxnews.com/us/storage-facility-raided-feds-investigate-alleged-isis-inspired-nyc-bomb-throwers</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/donald-trump-xi-jinping-2025.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Tarik Skubal leaves Team USA to return to Tigers camp despite mixed feelings after successful start</title>
-      <link>https://www.foxnews.com/sports/tarik-skubal-leaves-team-usa-return-tigers-camp-despite-mixed-feelings-after-successful-start</link>
-      <summary>Tarik Skubal will make just one Team USA start after all, as manager Mark DeRosa announced he will return to the Detroit Tigers despite second thoughts.</summary>
-      <pubDate>Mon, 09 Mar 2026 19:04:21 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tarik-skubal-team-usa.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
