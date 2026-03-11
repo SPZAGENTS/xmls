@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-11T01:51:31.177523</generated>
+  <generated>2026-03-11T02:41:32.271050</generated>
   <items>
     <item>
       <title>Pentagon says about 140 troops wounded, 8 severely, in war with Iran</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Khamenei’s son chosen as Iran’s supreme leader, extending hard-line rule</title>
-      <link>https://www.washingtonpost.com/world/2026/03/08/iran-supreme-leader-ali-khamenei-son-mojtaba/</link>
-      <summary>The selection of Mojtaba Khamenei sent a message of defiance against Donald Trump after U.S.-Israeli strikes killed his father Ayatollah Ali Khamenei.</summary>
-      <pubDate>Mon, 09 Mar 2026 00:20:01 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Two men fire gun toward U.S. Consulate in Toronto, police say</title>
       <link>https://www.washingtonpost.com/world/2026/03/10/canada-shots-consulate-american-us-embassy/</link>
       <summary>Canadian police are seeking two men suspected of firing a handgun at the U.S. Consulate in Toronto on Tuesday. There are no reports of injuries, police say.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/travel/2026/03/09/northern-lights-trip-pennsylvania-norway/</link>
       <summary>As the 11-year cycle downshifts from solar maximum to solar minimum, the lights will begin to diminish, so the time to plan a trip is now.</summary>
       <pubDate>Mon, 09 Mar 2026 10:00:43 +0000</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>Letter written by Mary, Queen of Scots, prior to beheading draws crowds</title>
+      <link>https://www.washingtonpost.com/world/2026/03/09/mary-queen-scots-letter-museum/</link>
+      <summary>The letter, written in prison hours before her execution, is on display in Scotland for the first time in 30 years, enthralling crowds and conspiracy theorists.</summary>
+      <pubDate>Mon, 09 Mar 2026 09:00:38 +0000</pubDate>
       <priority>50</priority>
     </item>
   </items>

@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-11T01:51:33.025773</generated>
+  <generated>2026-03-11T02:41:34.085860</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Tuesday</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-us-israel-lebanon-recap.html</link>
+      <summary>Trump administration officials cast the president as the sole arbiter on the U.S. war effort. International aid groups were warning of a growing humanitarian crisis in Lebanon, where nearly 700,000 people had been displaced, the U.N. said.</summary>
+      <pubDate>Wed, 11 Mar 2026 00:00:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-front-tcfw/10israel-iran-front-tcfw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Forces Attack Iranian Mine-Laying Ships Near the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-mines-strait-of-hormuz.html</link>
+      <summary>A video posted by the U.S. Central Command showed munitions striking nine vessels, most of which were moored at the time. Whether any mines have been laid in Gulf waters was unclear.</summary>
+      <pubDate>Wed, 11 Mar 2026 00:04:56 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-hormuz-cpwb/10israel-iran-hormuz-cpwb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Democrats Demand Hegseth and Rubio Testify on Iran War</title>
       <link>https://www.nytimes.com/2026/03/10/us/politics/democrats-rubio-hegseth-iran.html</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-explainer-wtkg/10dc-explainer-wtkg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>France Bolsters Efforts to Repatriate Citizens Stranded by Iran War</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/france-repatriation-flights-iran-crisis.html</link>
-      <summary>France is highlighting its repatriation operations for nationals left stranded by the conflict with Iran.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:53:45 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-french-repatriation-cqjw/10israel-iran-french-repatriation-cqjw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Nearly 700,000 Displaced by War in Lebanon, U.N. Says</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html</link>
-      <summary>Mass evacuation orders and an intensifying Israeli bombing campaign targeting the Iran-backed militia Hezbollah have caused a humanitarian crisis, aid groups warn.</summary>
-      <pubDate>Tue, 10 Mar 2026 17:30:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-lebanon-displaced/10iran-carousel-sub-lmvg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

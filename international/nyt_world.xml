@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-11T01:51:32.483378</generated>
+  <generated>2026-03-11T02:41:33.577130</generated>
   <items>
     <item>
       <title>Iran Live Updates: U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route</title>
       <link>https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel</link>
       <summary>Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war.</summary>
-      <pubDate>Tue, 10 Mar 2026 23:48:35 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 00:38:27 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-live-promo-530pm-bvfz/10israel-iran-live-promo-530pm-bvfz-mediumSquareAt3X.jpg</image>
@@ -49,6 +49,28 @@
       </media>
     </item>
     <item>
+      <title>Here’s What Happened in the War in the Middle East on Tuesday</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-us-israel-lebanon-recap.html</link>
+      <summary>Trump administration officials cast the president as the sole arbiter on the U.S. war effort. International aid groups were warning of a growing humanitarian crisis in Lebanon, where nearly 700,000 people had been displaced, the U.N. said.</summary>
+      <pubDate>Wed, 11 Mar 2026 00:00:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-front-tcfw/10israel-iran-front-tcfw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Forces Attack Iranian Mine-Laying Ships Near the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-mines-strait-of-hormuz.html</link>
+      <summary>A video posted by the U.S. Central Command showed munitions striking nine vessels, most of which were moored at the time. Whether any mines have been laid in Gulf waters was unclear.</summary>
+      <pubDate>Wed, 11 Mar 2026 00:04:56 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-hormuz-cpwb/10israel-iran-hormuz-cpwb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iranian Military Shows It Knows How to Adapt, U.S. Officials Say</title>
       <link>https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html</link>
       <summary>Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.</summary>
@@ -71,39 +93,6 @@
       </media>
     </item>
     <item>
-      <title>War in Iran Could Lead to Food Shortages in Region, Experts Warn</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-food-prices.html</link>
-      <summary>Some residents of Lebanon, Gaza and Iran are reporting shortages of food, rising food prices and other disruptions to food supplies as the conflict in the Middle East continues.</summary>
-      <pubDate>Tue, 10 Mar 2026 21:37:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-food-bzjc/10israel-iran-food-bzjc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html</link>
-      <summary>Iranians cowered under the barrage as Pete Hegseth, the U.S. defense secretary, said the U.S. aimed to wipe out Iran’s capacity to obtain nuclear weapons “forever.”</summary>
-      <pubDate>Tue, 10 Mar 2026 22:51:42 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ledeall-1-tjlm/10int-iran-ledeall-1-tjlm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Imprisoned in Iran, and Under Bombardment</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-prisoners-airstrikes.html</link>
-      <summary>Iranian detention centers, some holding people swept up in a government crackdown on protests along with other prisoners, have been damaged in the U.S.-Israeli airstrikes.</summary>
-      <pubDate>Tue, 10 Mar 2026 20:36:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10iran-live-political-prisoners-hbvq/10iran-live-political-prisoners-hbvq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Mother of Tumbler Ridge Shooting Victim Sues OpenAI</title>
       <link>https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html</link>
       <summary>The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims.</summary>
@@ -111,6 +100,17 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/02/27/multimedia/10canada-openai/27chatbot-threats-print-02-kfbj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>On the Road With Zelensky, Weathered, Weary and Fighting On</title>
+      <link>https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html</link>
+      <summary>Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.</summary>
+      <pubDate>Mon, 09 Mar 2026 04:01:26 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/09/multimedia/09-int-ukraine-zelensky-wjcl/09-int-ukraine-zelensky-wjcl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
