@@ -3,17 +3,9 @@
   <title>Ynet All Articles — Complete Feed</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-03-11T14:03:13.472962</last-updated>
+  <last-updated>2026-03-11T16:03:03.608222</last-updated>
   <article-count>10</article-count>
   <items>
-    <item>
-      <title>Report: US, Israel at odds over timing and goals for ending war with Iran</title>
-      <link>https://www.ynetnews.com/article/sksbry0kwl</link>
-      <description>Despite close coordination between Jerusalem and Washington, some American officials are concerned Israel may want the war to continue longer than the United States does</description>
-      <pubDate>Wed, 11 Mar 2026 08:49:26 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
     <item>
       <title>Iran missile barrage triggers sirens across Israel as IDF warns Hezbollah expanding attacks</title>
       <link>https://www.ynetnews.com/article/rkvucr6kzx</link>
@@ -63,10 +55,10 @@
       <priority-score>110</priority-score>
     </item>
     <item>
-      <title>תופעת המדינה כמלון: מוסר של תיירים</title>
-      <link>https://www.ynet.co.il/news/article/yokra14705141</link>
-      <description>אלה שבכל מלחמה או מבצע שבים ודורשים אסטרטגיית יציאה מיידית, הם כמעט תמיד אלו שילדיהם לא יצטרכו לחיות בטווח האש של המחדל הבא</description>
-      <pubDate>Wed, 11 Mar 2026 07:06:12 +0200</pubDate>
+      <title>בעיצומה של המלחמה: הוקם יישוב חדש בשומרון</title>
+      <link>https://www.ynet.co.il/news/article/rjtznccfzl</link>
+      <description>היישוב עיבל הוקם בהחלטת הקבינט ממאי אשתקד, ובלילה הועברו אליו מבנים ראשונים. המאמץ: להקים את כל היישובים שאושרו עד הבחירות. ראש מועצת שומרון דגן: "עומדים כאן בשם כל עם ישראל לדורותיו"</description>
+      <pubDate>Wed, 11 Mar 2026 09:39:21 +0200</pubDate>
       <source>ynet-main-news</source>
       <priority-score>100</priority-score>
     </item>
@@ -79,12 +71,20 @@
       <priority-score>100</priority-score>
     </item>
     <item>
-      <title>על רקע המלחמה והטלטלות במחירי הנפט בעולם: ירידות חדות בבורסה בת"א</title>
+      <title>על רקע המלחמה והטלטלות במחירי הנפט בעולם: יום נוסף של ירידות בבורסה בת"א</title>
       <link>https://www.ynet.co.il/economy/article/byokibakwg</link>
-      <description>המשך המלחמה עם איראן ומשבר האנרגיה שבעקבותיה נותנים את אותותיהם במסחר בבורסה: המדדים המובילים יורדים בעד 2%, ת"א ביטוח צונח בכ-3%</description>
-      <pubDate>Wed, 11 Mar 2026 13:51:49 +0200</pubDate>
+      <description>המשך המלחמה עם איראן ומשבר האנרגיה שבעקבותיה נותנים את אותותיהם במסחר בבורסה: המדדים המובילים יורדים בעד 1.2%, לאחר שקודם לכן ירדו בכמעט 3%. ת"א בנייה יורד ב-3%, מדד הבנקים עולה ב-1.3%</description>
+      <pubDate>Wed, 11 Mar 2026 15:47:03 +0200</pubDate>
       <source>ynet-economy</source>
       <priority-score>100</priority-score>
+    </item>
+    <item>
+      <title>דיווח: איראן מייצאת יותר נפט דרך מצרי הורמוז מאז שהחלה המלחמה</title>
+      <link>https://www.ynet.co.il/news/article/b10nkj1511l</link>
+      <description />
+      <pubDate>Wed, 11 Mar 2026 14:32:17 +0200</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>95</priority-score>
     </item>
   </items>
 </content-feed>
