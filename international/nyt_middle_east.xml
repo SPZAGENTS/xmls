@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-11T14:02:22.067349</generated>
+  <generated>2026-03-11T16:00:57.808308</generated>
   <items>
+    <item>
+      <title>At Least 3 Ships Are Struck In and Around the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/ships-attack-strait-hormuz.html</link>
+      <summary>Three vessels were hit on Wednesday, according to a British maritime agency. The Strait of Hormuz is all but closed as war in the Middle East expands.</summary>
+      <pubDate>Wed, 11 Mar 2026 13:14:41 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-ship-attacks-lhgc/11israel-iran-ship-attacks-lhgc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Democrats Demand Accountability from Hegseth on Iranian School Strike</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/democrats-hegseth-minab-school-strike.html</link>
       <summary>A majority of Senate Democrats called on Secretary of Defense Pete Hegseth to disclose whether the U.S. carried out the deadly attack.</summary>
-      <pubDate>Wed, 11 Mar 2026 10:01:03 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 13:20:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-DOD-school-strike-1-jpzc/11israel-iran-DOD-school-strike-1-jpzc-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>World Heritage Sites Hit in Airstrikes on Iran</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/iram-heritage-sites-damaged.html</link>
       <summary>Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.</summary>
-      <pubDate>Wed, 11 Mar 2026 09:43:58 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 13:16:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/iran10-intl-heritage-zpgk/iran10-intl-heritage-zpgk-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10dc-military-iran-mjvz/10dc-military-iran-mjvz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Tries to Sidestep Blame for Any Civilian Deaths in Iran</title>
-      <link>https://www.nytimes.com/2026/03/10/us/politics/trump-civilian-deaths-iran-war.html</link>
-      <summary>The president and the Pentagon have cast blame on Iran for the mounting toll. More than 1,800 people have died in the war, including many civilians.</summary>
-      <pubDate>Tue, 10 Mar 2026 23:21:17 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10DC-PREXY-bmqj/10DC-PREXY-bmqj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

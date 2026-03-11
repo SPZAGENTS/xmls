@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-11T14:02:18.131610</generated>
+  <generated>2026-03-11T16:00:54.188417</generated>
   <items>
+    <item>
+      <title>US diplomatic facility in Iraq struck by drone</title>
+      <link>https://www.foxnews.com/world/us-diplomatic-facility-iraq-struck-drone</link>
+      <summary>U.S. diplomatic facility in Baghdad hit by suspected retaliatory drone strike amid State Department warnings for Americans to leave Middle East countries due to Iran conflict escalation.</summary>
+      <pubDate>Wed, 11 Mar 2026 08:04:34 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/baghdad-diplomatic-support-center-iraq.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Hezbollah, Iran unleash coordinated cluster bomb strikes on Israel in major escalation</title>
       <link>https://www.foxnews.com/world/hezbollah-iran-unleash-coordinated-cluster-bomb-strikes-israel-major-escalation</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kurds-iran.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s new supreme leader is ‘his father on steroids,’ experts warn of hardline rule</title>
-      <link>https://www.foxnews.com/world/irans-new-supreme-leader-his-father-steroids-experts-warn-hardline-rule</link>
-      <summary>Mojtaba Khamenei reportedly selected as Iran&amp;apos;s new supreme leader in succession move, described as &amp;apos;his father on steroids&amp;apos; with deeper security ties.</summary>
-      <pubDate>Mon, 09 Mar 2026 13:52:25 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojtaba-khamenei.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
