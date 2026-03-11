@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-11T22:00:59.572953</generated>
+  <generated>2026-03-12T00:00:56.509742</generated>
   <items>
+    <item>
+      <title>Iranian school was on U.S. target list, may have been mistaken as military site</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/11/us-strike-iran-elementary-school-ai-target-list/</link>
+      <summary>The strike on an Iranian elementary school killed at least 175, many of them children, raising questions as to whether the military’s use of AI-enabled targeting was a factor.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:48:20 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Nations agree to release oil reserves as war in Iran hits global economy</title>
       <link>https://www.washingtonpost.com/world/2026/03/11/strait-hormuz-cargo-ships-iran/</link>
@@ -47,11 +54,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Early Iran strikes cost $5.6 billion in munitions, Pentagon estimates</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/09/iran-war-cost/</link>
-      <summary>The figure, accounting for the war’s first two days, is likely to intensify concerns in Congress that U.S. forces are churning through a scarce supply of advanced weaponry.</summary>
-      <pubDate>Mon, 09 Mar 2026 21:25:21 +0000</pubDate>
-      <priority>100</priority>
+      <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
+      <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
+      <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:11:25 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Two men fire gun toward U.S. Consulate in Toronto, police say</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/</link>
       <summary>A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects of American power.</summary>
       <pubDate>Tue, 10 Mar 2026 14:22:28 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Punch the monkey isn’t alone in bonding with his emotional support toy</title>
-      <link>https://www.washingtonpost.com/lifestyle/2026/03/10/punch-monkey-animal-support-toys-rescue/</link>
-      <summary>Here are rescued chimpanzees, a mountain lion, an elephant and a penguin with the toys they’re attached to.</summary>
-      <pubDate>Tue, 10 Mar 2026 12:00:51 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

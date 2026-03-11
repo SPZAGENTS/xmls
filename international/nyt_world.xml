@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-11T22:01:00.843853</generated>
+  <generated>2026-03-12T00:00:58.278492</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Airstrikes Shake Beirut, and Drones Spread Fear in Tehran</title>
+      <title>Iran War Live Updates: Israeli Airstrikes Shake Beirut and Drone Attacks Hit Tehran</title>
       <link>https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel</link>
-      <summary>The U.S.-Israeli war on Iran, now in its 12th day, shows no sign of easing. Three ships were hit by projectiles near the Strait of Hormuz, a conduit for a fifth of the world’s oil.</summary>
-      <pubDate>Wed, 11 Mar 2026 19:53:05 +0000</pubDate>
+      <summary>The Middle East conflict showed no sign of letup, as Israeli airstrikes hammered the Beirut outskirts, drone attacks spread fear in Iran and three ships were hit near the Strait of Hormuz.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:51:27 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11iran-blog-carousel--vbgm/11iran-blog-carousel--vbgm-mediumSquareAt3X.jpg</image>
@@ -19,7 +19,7 @@
       <title>How Trump’s War With Iran Changed the World in a Week</title>
       <link>https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html</link>
       <summary>The conflict is reshaping travel patterns, energy dependencies, living costs, trade routes and diplomatic alliances.</summary>
-      <pubDate>Wed, 11 Mar 2026 09:44:07 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 20:30:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-Trump-Global-Fallout-zlmk/11int-Trump-Global-Fallout-zlmk-mediumSquareAt3X.jpg</image>
@@ -41,7 +41,7 @@
       <title>Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html</link>
       <summary>Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.</summary>
-      <pubDate>Wed, 11 Mar 2026 06:19:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 20:52:30 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-iran-khamenei-1-vplm/11int-iran-khamenei-1-vplm-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>Will Trump TACO on Iran?</title>
+      <link>https://www.nytimes.com/2026/03/11/world/trump-iran-oil-britain-starmer-mandelson.html</link>
+      <summary>It’s a crucial election year and economic and political costs of the war are rising. It won’t be easy for the president to declare victory and walk away.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:32:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-theworld-iran-plgh-promo/12int-theworld-iran-plgh-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-war-costs-pentagon.html</link>
+      <summary>In a Capitol Hill briefing, officials gave their most comprehensive assessment of the cost of the first six days of the war, but the number omitted several aspects of the operation.</summary>
+      <pubDate>Wed, 11 Mar 2026 20:49:42 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-dod-briefing-cjzq/11israel-iran-dod-briefing-cjzq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Banks in Gulf Evacuate Their Offices</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/citi-standard-chartered-evacuation.html</link>
       <summary>After an overnight attack on a bank, Iranian officials signaled a new willingness to target economic centers and banks with ties to the United States.</summary>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-lebanon-scene-02-pbzh/11israel-iran-lebanon-scene-02-pbzh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran holds a public mourning ceremony for commanders killed by strikes.</title>
-      <link>https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/iran-holds-public-mourning-ceremony-for-commanders</link>
-      <summary>Thousands of people mourned in a state-sanctioned ceremony, as people in Tehran described deepening anxiety and fear as the war continued.</summary>
-      <pubDate>Wed, 11 Mar 2026 17:14:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-tehran-mood-03-tvmz/11israel-iran-tehran-mood-03-tvmz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s Retaliatory Strikes Appear to Be Slowing</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html</link>
-      <summary>U.S. officials say the country’s weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.</summary>
-      <pubDate>Wed, 11 Mar 2026 16:10:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

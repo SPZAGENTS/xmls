@@ -2,16 +2,38 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-11T22:01:05.916914</generated>
+  <generated>2026-03-12T00:01:03.669844</generated>
   <items>
     <item>
       <title>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert</title>
       <link>https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820</link>
       <summary>The warning came in a bulletin that was reviewed by ABC News.</summary>
-      <pubDate>Wed, 11 Mar 2026 15:27:21 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 16:14:29 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pro-Iran hacking group claims responsibility for cyberattack on Stryker</title>
+      <link>https://abcnews.com/International/pro-iran-hacking-group-claims-responsibility-cyberattack-stryker/story?id=130979414</link>
+      <summary>Stryker, the medical technology group that specializes in surgical tools, announced it was hit with a cyberattack on Wednesday.</summary>
+      <pubDate>Wed, 11 Mar 2026 17:36:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/stryker-medical-hq-gty-jt-260311_1773258271630_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: FBI warns Iran could attack California with drones: Alert</title>
+      <link>https://abcnews.com/US/video/fbi-warns-iran-attack-california-drones-alert-130979604</link>
+      <summary>The FBI has warned police departments in California that Iran wants to retaliate for American attacks by launching offensive drones against the West Coast, according to an alert reviewed by ABC News.</summary>
+      <pubDate>Wed, 11 Mar 2026 16:00:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260311_abc_social_drone_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,28 +49,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Pentagon releases new video as U.S. airstrikes intensify in Iran</title>
-      <link>https://abcnews.com/US/video/pentagon-releases-new-video-us-airstrikes-intensify-iran-130954872</link>
-      <summary>The Pentagon released new video Tuesday showing the U.S. unleashing massive air attacks on Iranian targets.</summary>
-      <pubDate>Wed, 11 Mar 2026 02:05:31 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260310_abc_social_iran_airstrikes6_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Survivor of deadly Kuwait drone attack speaks out from hospital</title>
-      <link>https://abcnews.com/US/survivor-deadly-kuwait-drone-attack-speaks-hospital/story?id=130938614</link>
-      <summary>The injured soldier spoke to ABC Minneapolis affiliate KSTP from his hospital room in the Walter Reed National Military Medical Center in Maryland.</summary>
-      <pubDate>Wed, 11 Mar 2026 15:57:46 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/drone-abc-er-260310_1773160468408_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Crews battle intense barge fire in Delaware</title>
       <link>https://abcnews.com/WNT/video/crews-battle-intense-barge-fire-delaware-130949901</link>
       <summary>A massive fire erupted on an unmanned barge in New Castle, Delaware. Flames scorched through mounds of scrap metal as fire crew battled the flames for hours.</summary>
@@ -56,17 +56,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260310_wn_vo_barge_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Trump 'would not be happy' if Russia was sharing intelligence with Iran</title>
-      <link>https://abcnews.com/Politics/video/trump-happy-russia-sharing-intelligence-iran-130945841</link>
-      <summary>WH press sec. Karoline Leavitt told ABC News' Karen Travers neither Pres. Trump nor U.S. special envoy Steve Witkoff "would be happy" if it turns out Russia has been sharing intelligence with Iran.</summary>
-      <pubDate>Tue, 10 Mar 2026 17:20:28 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/260310_abc_social_travers_russia_leavitt_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>US medical equipment company Stryker says cyberattack disrupted its global networks</title>
-      <link>https://abcnews.com/Technology/wireStory/us-medical-equipment-company-stryker-cyberattack-disrupted-global-130977180</link>
-      <summary>Stryker, a U.S. medical equipment company, says a cyberattack has disrupted its global networks</summary>
-      <pubDate>Wed, 11 Mar 2026 14:47:05 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Alabama father and son tell David Muir about redeeming decades-long birthday promise</title>
       <link>https://abcnews.com/WNT/video/alabama-father-son-david-muir-redeeming-decades-long-130949884</link>
       <summary>Jimmy Rush and his 99-year-old dad are the first customers of Wintzell's Oyster House in Alabama to redeem the restaurant's reward of free oysters to any 80-year-old accompanied by their father.</summary>
@@ -104,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Dems call for probe into 'troubling pattern' of legal wins for Pam Bondi's brother</title>
+      <link>https://abcnews.com/Politics/dems-call-probe-troubling-pattern-legal-wins-pam/story?id=130945630</link>
+      <summary>Two Democrats are calling on the DOJ internal watchdog to launch a probe into what they say is a "troubling pattern" of favorable outcomes for Brad Bondi's clients.</summary>
+      <pubDate>Wed, 11 Mar 2026 12:05:58 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/pam-bondi-20-gty-gmh-260211_1770835218656_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Gen Z's nostalgia for the 1990s</title>
       <link>https://abcnews.com/Nightline/video/gen-zs-nostalgia-1990s-130958311</link>
       <summary>Nostalgia for the 1990s has found a new following online as Gen Z discovers the aesthetics of John F. Kennedy, Jr. and Carolyn Bessette Kennedy with the release of the FX series "Love Story."</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Nightline/260310_ntl_gen_z_nostalgia1_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: WNBA season up in the air as CBA negotiations deadline closes in</title>
+      <link>https://abcnews.com/Sports/video/wnba-season-air-cba-negotiations-deadline-closes-130946513</link>
+      <summary>ESPN's Alexa Philippou gives an update on negotiations as the deadline for talks between the WNBA and the player's association nears.</summary>
+      <pubDate>Tue, 10 Mar 2026 20:03:33 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Sports/260310_abcnl_5p_wnba_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
