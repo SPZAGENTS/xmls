@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-11T06:01:31.111472</generated>
+  <generated>2026-03-11T06:51:32.175178</generated>
   <items>
+    <item>
+      <title>New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html</link>
+      <summary>Officials say Mojtaba Khamanei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being named leader three days ago.</summary>
+      <pubDate>Wed, 11 Mar 2026 04:17:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-iran-khamenei-1-vplm/11int-iran-khamenei-1-vplm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>How Trump and His Advisers Miscalculated Iran’s Response to War</title>
       <link>https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html</link>
@@ -19,7 +30,7 @@
       <title>Missiles, Drones and Airstrikes Pound Middle East Into 12th Day of War</title>
       <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-israel-middle-east-strikes.html</link>
       <summary>The effects of the war are being felt through the Persian Gulf.</summary>
-      <pubDate>Wed, 11 Mar 2026 01:13:34 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 01:13:35 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-strikes-lpkc/10israel-iran-strikes-lpkc-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ledeall-1-tjlm/10int-iran-ledeall-1-tjlm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Imprisoned in Iran, and Under Bombardment</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/iran-prisoners-airstrikes.html</link>
-      <summary>Iranian detention centers, some holding people swept up in a government crackdown on protests along with other prisoners, have been damaged in the U.S.-Israeli airstrikes.</summary>
-      <pubDate>Tue, 10 Mar 2026 20:36:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10iran-live-political-prisoners-hbvq/10iran-live-political-prisoners-hbvq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
