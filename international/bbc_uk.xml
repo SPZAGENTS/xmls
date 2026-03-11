@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-11T16:00:52.175625</generated>
+  <generated>2026-03-11T18:02:49.945035</generated>
   <items>
     <item>
       <title>Mortgage rates rise and deals pulled over Iran war turmoil</title>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>Record release of emergency oil reserves planned as prices surge</title>
-      <link>https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began</summary>
-      <pubDate>Wed, 11 Mar 2026 13:46:37 GMT</pubDate>
+      <title>Why air strikes on Tehran oil facilities are causing black rain</title>
+      <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
+      <pubDate>Tue, 10 Mar 2026 19:39:58 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>EU and UK demand Israel stop surge in West Bank settler violence since Iran war</title>
+      <link>https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.</summary>
+      <pubDate>Wed, 11 Mar 2026 14:13:52 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6d4/live/fb87bbe0-1d4d-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Why air strikes on Tehran oil facilities are causing black rain</title>
-      <link>https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:39:58 GMT</pubDate>
-      <priority>100</priority>
+      <title>UK government loses appeal over Kneecap terror charge</title>
+      <link>https://www.bbc.com/news/articles/c5yjdpy7vvro?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Liam Óg Ó hAnnaidh, known as Mo Chara, had been accused of showing support for proscribed organisation Hezbollah following a gig in London in 2024.</summary>
+      <pubDate>Wed, 11 Mar 2026 15:23:17 GMT</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:35:29 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/722b1ae0-1cb2-11f1-9ab1-b9f56adefedf.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0f7/live/c8806780-1d55-11f1-a00b-6f91831af046.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd4a/live/a4a46300-1d4d-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pop music's bias towards English is fading, says Spotify</title>
-      <link>https://www.bbc.com/news/articles/c9v04gney9yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Songs in 16 languages featured in the global chart last year, as genres like Brazilian Funk explode.</summary>
-      <pubDate>Wed, 11 Mar 2026 10:30:18 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ae/live/16f83ec0-1d46-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c91/live/03db26a0-1d27-11f1-b048-c9424b2cf5fd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What happens if Iran shuts the Strait of Hormuz?</title>
+      <link>https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iran says it will "set fire" to ships trying to sail through the world's most vital oil transit point.</summary>
+      <pubDate>Wed, 11 Mar 2026 10:29:40 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c7d/live/4972bc60-16af-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

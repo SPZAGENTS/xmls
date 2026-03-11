@@ -2,16 +2,27 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-11T16:00:53.008783</generated>
+  <generated>2026-03-11T18:02:50.855238</generated>
   <items>
     <item>
-      <title>Record release of emergency oil reserves planned as prices surge</title>
+      <title>Countries agree to record release of emergency oil reserves as prices surge</title>
       <link>https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began</summary>
-      <pubDate>Wed, 11 Mar 2026 13:46:37 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 15:51:11 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>EU and UK demand Israel stop surge in West Bank settler violence since Iran war</title>
+      <link>https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.</summary>
+      <pubDate>Wed, 11 Mar 2026 14:13:52 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6d4/live/fb87bbe0-1d4d-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,24 +49,13 @@
       </media>
     </item>
     <item>
-      <title>From New Zealand to Orkney: Why we brought this classic car half way round the world</title>
-      <link>https://www.bbc.com/news/articles/cge8vln5pp5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Dutchman Hans Compter travelled around the world to deliver the Austin to Cathleen Hourie in Orkney.</summary>
-      <pubDate>Wed, 11 Mar 2026 06:23:42 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebf8/live/e43b8f20-1d25-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Large parts of Dresden evacuated after 250kg WW2 bomb found</title>
-      <link>https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.</summary>
-      <pubDate>Wed, 11 Mar 2026 09:08:09 GMT</pubDate>
+      <title>French aid worker among three killed in drone strikes in rebel-held DR Congo city</title>
+      <link>https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.</summary>
+      <pubDate>Wed, 11 Mar 2026 15:24:57 GMT</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c6/live/607ec730-1d4b-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom</title>
-      <link>https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.</summary>
-      <pubDate>Wed, 11 Mar 2026 00:00:50 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7669/live/a33cbbc0-1c94-11f1-8f3c-8366692412b1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Member of Iranian football delegation granted Australian asylum changes her mind</title>
       <link>https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>One of the seven women who received visas has reversed her decision after speaking to teammates, minister says</summary>
@@ -89,6 +78,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/273a2e60-1cec-11f1-9b34-c51430981061.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Large WW2 bomb defused after Dresden evacuated</title>
+      <link>https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.</summary>
+      <pubDate>Wed, 11 Mar 2026 15:55:47 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

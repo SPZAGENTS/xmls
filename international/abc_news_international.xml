@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-11T16:01:02.812707</generated>
+  <generated>2026-03-11T18:03:00.922198</generated>
   <items>
     <item>
       <title>Germany, Austria to release oil from reserves in response to 400M barrel request</title>
@@ -45,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a091960cc5f438b2313aae5e243c9c13_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Drone strike hits school and medical center in Sudan, killing 17, mostly schoolgirls</title>
+      <link>https://abcnews.com/International/wireStory/drone-strike-hits-school-medical-center-southern-sudan-130969191</link>
+      <summary>An explosive-laden drone blamed on Sudanese paramilitaries has struck a secondary school and a health care center in southern Sudan, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said</summary>
+      <pubDate>Wed, 11 Mar 2026 11:55:02 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9bb42b64495d16ffb11f3298f5b354dd_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Senegal boarding school that drew students from the US is at the center of an abuse investigation</title>
-      <link>https://abcnews.com/International/wireStory/senegal-boarding-school-drew-students-us-center-abuse-130958640</link>
-      <summary>The American Dara Academy in Senegal is at the center of abuse allegations after students describe harsh punishments in a room they call the &amp;ldquo;magic room.&amp;rdquo;</summary>
-      <pubDate>Wed, 11 Mar 2026 03:12:23 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_395ed77765c2c3470de2182fb4836ca8_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-11T16:00:54.188417</generated>
+  <generated>2026-03-11T18:02:52.028048</generated>
   <items>
+    <item>
+      <title>Canada’s Carney under pressure to act after synagogues shot at in latest antisemitic incidents</title>
+      <link>https://www.foxnews.com/world/canadas-carney-under-pressure-act-after-synagogues-shot-latest-antisemitic-incidents</link>
+      <summary>Gunfire attacks on Toronto synagogues highlight Canada&amp;apos;s rising antisemitism crisis, as hate incidents against the country&amp;apos;s Jewish community continues.</summary>
+      <pubDate>Wed, 11 Mar 2026 10:58:00 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/carney-toronto-shooting.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US diplomatic facility in Iraq struck by drone</title>
       <link>https://www.foxnews.com/world/us-diplomatic-facility-iraq-struck-drone</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/zelenskyy-ukraine-drones-us-support.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian Kurdish fighters say they’re ready to strike Tehran, waiting for opening</title>
-      <link>https://www.foxnews.com/world/iranian-kurdish-fighters-say-theyre-ready-strike-tehran-waiting-opening</link>
-      <summary>Iranian Kurdish opposition groups say they are prepared to challenge Tehran but are holding back as the U.S.-Israel-Iran war continues to unfold.</summary>
-      <pubDate>Mon, 09 Mar 2026 15:52:04 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kurds-iran.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

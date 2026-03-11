@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-11T16:01:01.757088</generated>
+  <generated>2026-03-11T18:02:59.971330</generated>
   <items>
     <item>
-      <title>Iran live updates: Iran launches 'most strikes yet'</title>
+      <title>Iran live updates: Trump says there’s 'practically nothing left to target' in Iran</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Wed, 11 Mar 2026 09:11:23 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 11:45:45 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-4-rt-gmh-260311_1773233315589_hpMain_4x3t_384.jpg</image>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Business/grocery-store-gty-jt-260224_1773173965189_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Germany, Austria to release oil from reserves in response to 400M barrel request</title>
-      <link>https://abcnews.com/International/wireStory/germany-austria-release-oil-reserves-response-400-million-130962416</link>
-      <summary>Germany and Austria say they will release parts of their oil reserves following an International Energy Agency request for members to release a record 400 million barrels to help calm energy price spikes due to the Iran war</summary>
-      <pubDate>Wed, 11 Mar 2026 09:22:42 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_eaf0cf9988cd7e06f0dc2a8ee800762e_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260310_wn_ender_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>At least 2 dead in severe weather overnight</title>
+      <link>https://abcnews.com/US/100-million-people-texas-michigan-path-severe-weather/story?id=130928394</link>
+      <summary>More than 65 million people are in the path of severe weather expected to move in Tuesday night and into Wednesday from Houston to Philadelphia.</summary>
+      <pubDate>Wed, 11 Mar 2026 09:59:39 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/tornado-damage-1-ap-jef-260311_1773235439194_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
