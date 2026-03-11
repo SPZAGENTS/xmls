@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-11T10:14:33.258504</generated>
+  <generated>2026-03-11T12:01:01.742696</generated>
   <items>
     <item>
       <title>Lebanon's latest conflict brings rare public backlash against Hezbollah as war flares again</title>
@@ -27,32 +27,10 @@
       </media>
     </item>
     <item>
-      <title>US allies and rivals in Asia gauge fallout from war in the Middle East</title>
-      <link>https://abcnews.com/International/wireStory/us-allies-rivals-asia-gauge-fallout-war-middle-130921701</link>
-      <summary>North Korea, South Korea, Japan, and China are watching warily as war spreads across the Middle East</summary>
-      <pubDate>Tue, 10 Mar 2026 08:26:50 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_9cfa951ff45fdefe6c48380ce5b431b5_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As pope seeks dialogue and diplomacy, 2 US cardinals reject US-Israeli war in Iran</title>
-      <link>https://abcnews.com/International/wireStory/pope-seeks-dialogue-diplomacy-2-us-cardinals-reject-130916856</link>
-      <summary>Pope Leo XIV is calling for an end to the U.S.-Israeli war in Iran and expressing deep sorrow for those killed</summary>
-      <pubDate>Tue, 10 Mar 2026 08:29:24 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0156c759d1bbdf1cadc0cd8f48cc8c82_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>North Korean leader Kim watches cruise missile tests with his daughter</title>
       <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-watches-cruise-missile-tests-130953931</link>
       <summary>North Korean leader Kim Jong Un and his teenage daughter have observed tests of strategic cruise missiles fired from a warship as North Korea threatened responses to U.S.-South Korean military drills</summary>
-      <pubDate>Tue, 10 Mar 2026 23:47:27 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 04:42:42 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a091960cc5f438b2313aae5e243c9c13_4x3_384.jpg</image>
@@ -89,6 +67,28 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a1e575416a5f1859b7af144d89e5a572_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Japan marks 15 years since tsunami as Takaichi pushes more nuclear energy use</title>
+      <link>https://abcnews.com/International/wireStory/japan-marks-15-years-tsunami-disaster-takaichi-pushes-130959342</link>
+      <summary>Japan is marking the 15th anniversary of the earthquake, tsunami and nuclear disaster on its northeastern coast as the government pushes for atomic energy use</summary>
+      <pubDate>Wed, 11 Mar 2026 05:22:40 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9727fc1f169a199246cc0932719eae68_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A bus fire that killed 6 people could have been set deliberately, Swiss police say</title>
+      <link>https://abcnews.com/International/wireStory/bus-fire-killed-6-people-set-deliberately-swiss-130959013</link>
+      <summary>Swiss police are investigating whether a deadly bus fire in Kerzers was set on purpose</summary>
+      <pubDate>Wed, 11 Mar 2026 04:40:20 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9bb42b64495d16ffb11f3298f5b354dd_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

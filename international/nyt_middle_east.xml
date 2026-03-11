@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-11T10:14:29.412118</generated>
+  <generated>2026-03-11T12:00:56.595080</generated>
   <items>
+    <item>
+      <title>World Heritage Sites Hit in Airstrikes on Iran</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iram-heritage-sites-damaged.html</link>
+      <summary>Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.</summary>
+      <pubDate>Wed, 11 Mar 2026 09:43:58 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/iran10-intl-heritage-zpgk/iran10-intl-heritage-zpgk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html</link>
@@ -66,7 +77,7 @@
       <pubDate>Wed, 11 Mar 2026 01:39:04 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-democrat-hearings-qwlc/10israel-iran-democrat-hearings-qwlc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-democrat-hearings-qwlc/10israel-iran-democrat-hearings-qwlc-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/10israel-iran-food-bzjc/10israel-iran-food-bzjc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says</title>
-      <link>https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html</link>
-      <summary>Iranians cowered under the barrage as Pete Hegseth, the U.S. defense secretary, said the U.S. aimed to wipe out Iran’s capacity to obtain nuclear weapons “forever.”</summary>
-      <pubDate>Wed, 11 Mar 2026 03:05:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/10int-iran-ledeall-1-tjlm/10int-iran-ledeall-1-tjlm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

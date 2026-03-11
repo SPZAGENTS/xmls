@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-11T10:14:34.831931</generated>
+  <generated>2026-03-11T12:01:03.585769</generated>
   <items>
     <item>
       <title>Senate Democrats ramp up pressure campaign for public hearings on war with Iran</title>
@@ -33,24 +33,31 @@
       <priority>70</priority>
     </item>
     <item>
+      <title>Americans are split on wanting the National Guard to monitor voting, a new poll finds</title>
+      <link>https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security</link>
+      <summary>Nearly half of Americans support the National Guard monitoring November's elections, potentially signaling an openness to the sort of nationalizing of elections that President Trump says he wants.</summary>
+      <pubDate>Wed, 11 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Federal oversight protects student borrowers. Some of it has stopped, watchdog says</title>
+      <link>https://www.npr.org/2026/03/11/nx-s1-5735661/student-loans-gao-education-department</link>
+      <summary>Without this Education Department oversight, borrowers could "be placed in the wrong loan repayment status, billed for incorrect amounts" and more, the U.S. Government Accountability Office says.</summary>
+      <pubDate>Wed, 11 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>The Trump DOJ is giving guns back to felons, including one alleged fake elector</title>
+      <link>https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department</link>
+      <summary>The Department of Justice is quietly restarting a decades-dormant program to restore gun rights to felons. One of them was an alleged fake elector in 2020.</summary>
+      <pubDate>Wed, 11 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Wheelchair curler Steve Emt's path from drunk driver to three-time Paralympian</title>
       <link>https://www.npr.org/2026/03/10/nx-s1-5743543/steve-emt-paralympics-wheelchair-curling</link>
       <summary>Steve Emt and Laura Dwyer represent the U.S. in the Paralympics' new mixed doubles wheelchair curling event. They could bring home Team USA's first wheelchair curling medal ever.</summary>
       <pubDate>Tue, 10 Mar 2026 14:10:13 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>'Pro-worker AI,' streaming fatalities, and other fascinating new economic studies</title>
-      <link>https://www.npr.org/sections/planet-money/2026/03/10/g-s1-112700/pro-worker-ai-streaming-fatalities-and-other-fascinating-new-economic-studies</link>
-      <summary>From artificial intelligence to fatalities from music streaming to the effects of immigrants on elderly health care, the Planet Money newsletter rounds up some interesting new economic studies.</summary>
-      <pubDate>Tue, 10 Mar 2026 06:30:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>GLP-1s have transformed weight loss and diabetes. Is addiction next?</title>
-      <link>https://www.npr.org/2026/03/10/nx-s1-5739396/glp-1-ozempic-addiction-substance-use-disorders-weight-loss</link>
-      <summary>A large study found that people taking GLP-1 drugs like Ozempic for diabetes were less likely to be diagnosed with substance use disorder.</summary>
-      <pubDate>Tue, 10 Mar 2026 06:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/11/g-s1-113252/prosecutor-says-rihanna-family-were-home-when-woman-charged-with-attempted-murder-fired</link>
       <summary>Rihanna, her partner A$AP Rocky, their three children and her mother were all at home when a woman now charged with attempted murder is alleged to have fired at the property, a prosecutor said.</summary>
       <pubDate>Wed, 11 Mar 2026 01:50:41 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>A dose of psilocybin helps smokers quit in new study</title>
-      <link>https://www.npr.org/2026/03/10/nx-s1-5742457/psilocybin-magic-mushroom-quit-smoking</link>
-      <summary>The psychoactive substance in magic mushrooms appears to have a powerful effect on people trying to stop smoking.</summary>
-      <pubDate>Tue, 10 Mar 2026 11:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

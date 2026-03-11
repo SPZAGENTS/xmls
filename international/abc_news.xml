@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-11T10:14:32.464014</generated>
+  <generated>2026-03-11T12:01:00.852305</generated>
   <items>
     <item>
       <title>Iran live updates: 140 US troops wounded so far, mostly minor injuries</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Wed, 11 Mar 2026 03:10:04 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 05:35:38 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-13-ht-gmh-260310_1773158692081_hpMain_4x3t_384.jpg</image>
@@ -16,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Hegseth says Trump to decide when Iran war is over, amid mixed messages on endgame</title>
-      <link>https://abcnews.com/Politics/hegseth-trump-amid-mixed-messages-timeline-nation-building/story?id=130935341</link>
-      <summary>Defense Secretary Pete Hegseth on Tuesday said the U.S. will end its war with Iran "on our timeline."</summary>
-      <pubDate>Tue, 10 Mar 2026 14:07:26 -0400</pubDate>
+      <title>Inflation report to be released as Iran war sends gas prices surging</title>
+      <link>https://abcnews.com/Business/inflation-report-released-iran-war-sends-gas-prices/story?id=130928386</link>
+      <summary>Overall prices cooled in recent months but remain above the Fed's target.</summary>
+      <pubDate>Wed, 11 Mar 2026 05:38:27 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/pentagon-1-ht-gmh-260310_1773156500189_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Business/grocery-store-gty-jt-260224_1773173965189_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Syrian student turns to classical violin, nabs scholarship</title>
-      <link>https://abcnews.com/International/video/syrian-student-turns-classical-violin-nabs-scholarship-130857759</link>
-      <summary>Jad Ibrahim was awarded a full scholarship at Interlochen Center for the Arts in Michigan.</summary>
-      <pubDate>Mon, 09 Mar 2026 13:19:40 -0400</pubDate>
-      <priority>95</priority>
+      <title>WATCH: Crews battle intense barge fire in Delaware</title>
+      <link>https://abcnews.com/WNT/video/crews-battle-intense-barge-fire-delaware-130949901</link>
+      <summary>A massive fire erupted on an unmanned barge in New Castle, Delaware. Flames scorched through mounds of scrap metal as fire crew battled the flames for hours.</summary>
+      <pubDate>Wed, 11 Mar 2026 04:26:47 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/260307_abcnl_11a_ibrahim_devey_syria_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/WNT/260310_wn_vo_barge_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +67,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Spring break travel alert</title>
-      <link>https://abcnews.com/GMA/Travel/video/spring-break-travel-alert-130895654</link>
-      <summary>Long delays at airports could make for a messy travel season, but there are some steps you can take.</summary>
-      <pubDate>Mon, 09 Mar 2026 11:17:59 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260309_gma_benitez3_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260310_gmafl_grandma_hobbies_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Growing trend of young girls using makeup</title>
+      <link>https://abcnews.com/GMA/Family/video/growing-trend-young-girls-makeup-130928205</link>
+      <summary>The Wall Street Journal reported brands are now marketing products specifically to children as young as 3 years old.</summary>
+      <pubDate>Tue, 10 Mar 2026 11:05:36 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260310_gma_bergamotto_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
