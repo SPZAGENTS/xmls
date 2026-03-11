@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-11T10:11:26.000190</generated>
+  <generated>2026-03-11T10:14:23.810001</generated>
   <items>
-    <item>
-      <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:35:29 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/722b1ae0-1cb2-11f1-9ab1-b9f56adefedf.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
       <link>https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7669/live/a33cbbc0-1c94-11f1-8f3c-8366692412b1.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Member of Iranian football delegation granted Australian asylum changes her mind</title>
+      <link>https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>One of the seven women who received visas has reversed her decision after speaking to teammates, minister says</summary>
+      <pubDate>Wed, 11 Mar 2026 04:14:40 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/273a2e60-1cec-11f1-9b34-c51430981061.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
