@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-11T05:11:29.352601</generated>
+  <generated>2026-03-11T06:01:27.505394</generated>
   <items>
     <item>
       <title>Hezbollah, Iran unleash coordinated cluster bomb strikes on Israel in major escalation</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-iran-missile-attack.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: NYC terror suspect allegedly seen purchasing fireworks fuse days before attack</title>
+      <link>https://www.foxnews.com/us/watch-nyc-terror-suspect-allegedly-seen-purchasing-fireworks-fuse-before-attack</link>
+      <summary>A Pennsylvania man accused in an ISIS terror plot allegedly bought a fireworks fuse days before throwing explosive devices at a NYC protest outside Gracie Mansion.</summary>
+      <pubDate>Tue, 10 Mar 2026 21:37:56 -0500</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/emil-balat-fireworks.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>More Iranian women's soccer personnel accept asylum in Australia amid threat of punishment in home country</title>
-      <link>https://www.foxnews.com/sports/more-iranian-womens-soccer-players-accept-asylum-australia-amid-threat-punishment-home-country</link>
-      <summary>Seven Iranian women&amp;apos;s soccer players accepted asylum in Australia after Trump urges protection, fearing severe punishment if they are forced to return to Iran.</summary>
-      <pubDate>Tue, 10 Mar 2026 19:19:10 -0500</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-womens-soccer-030926-6.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>San Jose police investigate violent altercation caught on camera as potential antisemitic hate crime</title>
       <link>https://www.foxnews.com/us/san-jose-police-investigate-violent-altercation-caught-camera-potential-antisemitic-hate-crime</link>
       <summary>San Jose police are investigating a potential antisemitic hate crime following a violent attack at Santana Row. Authorities say the suspects allegedly used antisemitic hate speech.</summary>
@@ -49,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>Terror suspect bought fireworks fuse before allegedly hurling explosives at NYC protesters</title>
-      <link>https://www.foxnews.com/us/terror-suspect-bought-fireworks-fuse-before-allegedly-hurling-explosives-nyc-protesters</link>
-      <summary>A Pennsylvania man accused in an alleged ISIS terror plot bought a fireworks fuse days before allegedly throwing explosive devices at a NYC protest outside Gracie Mansion.</summary>
-      <pubDate>Tue, 10 Mar 2026 21:37:56 -0500</pubDate>
+      <title>Rubio designates Afghanistan as 'state sponsor of wrongful detention': 'Despicable tactics'</title>
+      <link>https://www.foxnews.com/world/rubio-designates-afghanistan-state-sponsor-wrongful-detention-despicable-tactics</link>
+      <summary>Secretary of State Marco Rubio designated Afghanistan as a state sponsor of wrongful detention, accusing the Taliban of using terrorist tactics against Americans.</summary>
+      <pubDate>Tue, 10 Mar 2026 23:55:30 -0500</pubDate>
       <priority>70</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/emil-balat-fireworks.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/marco-rubio-state-department.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

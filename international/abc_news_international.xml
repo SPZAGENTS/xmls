@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-11T05:11:37.838220</generated>
+  <generated>2026-03-11T06:01:36.014463</generated>
   <items>
     <item>
       <title>Iranians fleeing cities under attack seek refuge in the countryside</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_0156c759d1bbdf1cadc0cd8f48cc8c82_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>North Korean leader Kim watches cruise missile tests with his daughter</title>
+      <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-watches-cruise-missile-tests-130953931</link>
+      <summary>North Korean leader Kim Jong Un and his teenage daughter have observed tests of strategic cruise missiles fired from a warship as North Korea threatened responses to U.S.-South Korean military drills</summary>
+      <pubDate>Tue, 10 Mar 2026 23:47:27 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_a091960cc5f438b2313aae5e243c9c13_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -84,8 +95,8 @@
     <item>
       <title>Several dead after postal bus bursts into flames, authorities say</title>
       <link>https://abcnews.com/International/wireStory/dead-after-postal-bus-bursts-flames-west-swiss-130949295</link>
-      <summary>Police say several people are dead and several others were injured after a postal bus caught fire in a town west of the Swiss capital</summary>
-      <pubDate>Tue, 10 Mar 2026 18:16:06 -0400</pubDate>
+      <summary>A bus caught fire in a Swiss town and police say at least six people were killed</summary>
+      <pubDate>Tue, 10 Mar 2026 22:18:34 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_64703071b4fc8de5c2afe9c8c2a0ef7b_4x3_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hungary orders authorities to hold some $82 million in seized Ukrainian cash and gold</title>
-      <link>https://abcnews.com/International/wireStory/hungarys-orbn-orders-authorities-hold-82-million-seized-130927247</link>
-      <summary>Hungarian Prime Minister Viktor Orb&amp;aacute;n has ordered that a shipment of Ukrainian cash and gold seized last week by Hungarian authorities be held in custody for up to 60 days while his country&amp;rsquo;s tax authority investigates the case</summary>
-      <pubDate>Tue, 10 Mar 2026 08:26:52 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_1dbb870993cd1386b4270bb473fee733_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
