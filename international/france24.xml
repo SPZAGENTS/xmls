@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-11T04:21:33.333647</generated>
+  <generated>2026-03-11T05:11:35.032357</generated>
   <items>
+    <item>
+      <title>Live: Israel and Iran exchange strikes as missile threats escalate</title>
+      <link>https://www.france24.com/en/middle-east/20260311-israel-and-iran-exchange-strikes-as-missile-threats-escalate</link>
+      <summary>Israel activated air defences on Wednesday after detecting multiple missile salvoes from Iran, while Iranian Revolutionary Guards targeted Israeli and US military sites across the Middle East. Civilians near Tel Aviv reported injuries, highlighting rising tensions and the wide...</summary>
+      <pubDate>Wed, 11 Mar 2026 02:39:39 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/6a28c238-1c7c-11f1-9137-005056a90284/w:1024/p:16x9/2026-03-10T071121Z-1611880611-RC2I1KAZ7UG0-RTRMADP-3-IRAN-CRISIS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US strikes Iranian mine-laying vessels as Middle East war intensifies</title>
       <link>https://www.france24.com/en/middle-east/20260311-us-strikes-iranian-mine-laying-vessels-as-middle-east-war-intensifies</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/9bb29508-1ca0-11f1-80c7-005056bf30b7/w:1024/p:16x9/miniature-minab.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israelis vow to stay put as war rages across border</title>
-      <link>https://www.france24.com/en/video/20260310-israelis-vow-to-stay-put-as-war-rages-across-border</link>
-      <summary>After the October 7th attacks, Israel spent billions housing 200,000 displaced citizens. Now, the government is determined to keep people in their homes even as war rages just across the border in southern Lebanon, while esidents say they aren’t going anywhere, no matter the r...</summary>
-      <pubDate>Tue, 10 Mar 2026 16:48:07 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/3f3c7e90-1c9d-11f1-b09b-005056a97e36/w:1024/p:16x9/EN-20260310-170801-171015-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
