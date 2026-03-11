@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-11T20:01:35.714383</generated>
+  <generated>2026-03-11T22:01:05.916914</generated>
   <items>
     <item>
       <title>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert</title>
       <link>https://abcnews.com/US/fbi-warns-iran-aspired-attack-california-drones-retaliation/story?id=130973820</link>
       <summary>The warning came in a bulletin that was reviewed by ABC News.</summary>
-      <pubDate>Wed, 11 Mar 2026 13:35:51 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 15:27:21 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg</image>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260310_abc_social_iran_airstrikes6_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Survivor of deadly Kuwait drone attack speaks out from hospital</title>
+      <link>https://abcnews.com/US/survivor-deadly-kuwait-drone-attack-speaks-hospital/story?id=130938614</link>
+      <summary>The injured soldier spoke to ABC Minneapolis affiliate KSTP from his hospital room in the Walter Reed National Military Medical Center in Maryland.</summary>
+      <pubDate>Wed, 11 Mar 2026 15:57:46 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/drone-abc-er-260310_1773160468408_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>US medical equipment company Stryker says cyberattack disrupted its global networks</title>
+      <link>https://abcnews.com/Technology/wireStory/us-medical-equipment-company-stryker-cyberattack-disrupted-global-130977180</link>
+      <summary>Stryker, a U.S. medical equipment company, says a cyberattack has disrupted its global networks</summary>
+      <pubDate>Wed, 11 Mar 2026 14:47:05 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Alabama father and son tell David Muir about redeeming decades-long birthday promise</title>
       <link>https://abcnews.com/WNT/video/alabama-father-son-david-muir-redeeming-decades-long-130949884</link>
       <summary>Jimmy Rush and his 99-year-old dad are the first customers of Wintzell's Oyster House in Alabama to redeem the restaurant's reward of free oysters to any 80-year-old accompanied by their father.</summary>
@@ -78,28 +100,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260310_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Dems call for probe into 'troubling pattern' of legal wins for Pam Bondi's brother</title>
-      <link>https://abcnews.com/Politics/dems-call-probe-troubling-pattern-legal-wins-pam/story?id=130945630</link>
-      <summary>Two Democrats are calling on the DOJ internal watchdog to launch a probe into what they say is a "troubling pattern" of favorable outcomes for Brad Bondi's clients.</summary>
-      <pubDate>Wed, 11 Mar 2026 12:05:58 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/pam-bondi-20-gty-gmh-260211_1770835218656_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>At least 2 dead in severe weather overnight</title>
-      <link>https://abcnews.com/US/100-million-people-texas-michigan-path-severe-weather/story?id=130928394</link>
-      <summary>More than 65 million people are in the path of severe weather expected to move in Tuesday night and into Wednesday from Houston to Philadelphia.</summary>
-      <pubDate>Wed, 11 Mar 2026 09:59:39 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/tornado-damage-1-ap-jef-260311_1773235439194_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

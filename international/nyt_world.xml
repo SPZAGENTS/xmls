@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-11T20:01:30.907336</generated>
+  <generated>2026-03-11T22:01:00.843853</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Coalition of 32 Countries to Tap Oil Reserves to Keep Prices in Check</title>
+      <title>Iran War Live Updates: Airstrikes Shake Beirut, and Drones Spread Fear in Tehran</title>
       <link>https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel</link>
-      <summary>The Strait of Hormuz, a conduit for a fifth of the world’s oil, is all but closed as war in the Middle East expands. A British agency said three ships were hit by unidentified projectiles in or near the strait.</summary>
-      <pubDate>Wed, 11 Mar 2026 17:55:55 +0000</pubDate>
+      <summary>The U.S.-Israeli war on Iran, now in its 12th day, shows no sign of easing. Three ships were hit by projectiles near the Strait of Hormuz, a conduit for a fifth of the world’s oil.</summary>
+      <pubDate>Wed, 11 Mar 2026 19:53:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11iran-blog-carousel--vbgm/11iran-blog-carousel--vbgm-mediumSquareAt3X.jpg</image>
@@ -63,7 +63,7 @@
       <title>World Heritage Sites Hit in Airstrikes on Iran</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html</link>
       <summary>Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.</summary>
-      <pubDate>Wed, 11 Mar 2026 14:40:17 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:32:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/10/multimedia/iran10-intl-heritage-zpgk/iran10-intl-heritage-zpgk-mediumSquareAt3X.jpg</image>
@@ -71,10 +71,21 @@
       </media>
     </item>
     <item>
-      <title>Lebanese residents left in shock and fear as Israeli strikes reach center of Beirut.</title>
+      <title>Banks in Gulf Evacuate Their Offices</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/citi-standard-chartered-evacuation.html</link>
+      <summary>After an overnight attack on a bank, Iranian officials signaled a new willingness to target economic centers and banks with ties to the United States.</summary>
+      <pubDate>Wed, 11 Mar 2026 19:21:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/arts/11israel-iran-banks/11israel-iran-banks-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanese residents are left in shock and fear as Israeli strikes reach the center of Beirut.</title>
       <link>https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/lebanese-residents-left-in-shock-and-fear-as-israeli-strikes-reach-center-of-beirut</link>
       <summary />
-      <pubDate>Wed, 11 Mar 2026 17:49:38 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:10:38 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-lebanon-scene-02-pbzh/11israel-iran-lebanon-scene-02-pbzh-mediumSquareAt3X.jpg</image>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Iran Has Fired Widely Banned Cluster Munitions at Israel</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-israel-cluster-munitions.html</link>
-      <summary>Accounts from Israeli officials and footage verified by The New York Times show that Iran has targeted Israel with the weapons. Experts say this has exposed civilians to indiscriminate attacks.</summary>
-      <pubDate>Wed, 11 Mar 2026 17:29:08 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
