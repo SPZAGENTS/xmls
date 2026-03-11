@@ -3,25 +3,9 @@
   <title>Ynet All Articles — Complete Feed</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-03-11T12:03:31.910519</last-updated>
+  <last-updated>2026-03-11T14:03:13.472962</last-updated>
   <article-count>10</article-count>
   <items>
-    <item>
-      <title>שיא של כל הזמנים: 52 ישראלים ברשימת עשירי העולם של פורבס</title>
-      <link>https://www.ynet.co.il/economy/article/hyjleyat11e</link>
-      <description>שווי הישראלים זינק ב-24% בשנה האחרונה ועומד על 308 מיליארד דולר, למרות המלחמה בעזה והעימות מול איראן. וגם: הפער העצום של מאסק משאר עשירי העולם</description>
-      <pubDate>Wed, 11 Mar 2026 07:59:58 +0200</pubDate>
-      <source>ynet-economy</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Israel establishes new settlement Ebal in West Bank amid Iran war</title>
-      <link>https://www.ynetnews.com/article/skne003ak11l</link>
-      <description>The settlement was established by the Samaria Regional Council and the Amana settlement movement after about six months of preparations and planning</description>
-      <pubDate>Wed, 11 Mar 2026 11:43:17 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
     <item>
       <title>Report: US, Israel at odds over timing and goals for ending war with Iran</title>
       <link>https://www.ynetnews.com/article/sksbry0kwl</link>
@@ -55,14 +39,6 @@
       <priority-score>115</priority-score>
     </item>
     <item>
-      <title>בדם ואש: האבולוציה של הלחימה</title>
-      <link>https://www.ynet.co.il/news/article/yokra14702349</link>
-      <description>הטכנולוגיה העילאית, המהלך הצבאי הראשוני רב-העוצמה, הניווט המדיני היעיל, הבריתות החכמות, נטרול הכוחות העוינים מאנקרה ועד מוסקבה, העוצמה של העורף – וגם מבט אל מה שנדרש בעתיד. תובנות ראשוניות מהמערכה מול איראן ומה הפנימה ישראל מאז טבח 7 באוקטובר</description>
-      <pubDate>Mon, 09 Mar 2026 00:04:00 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
       <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
       <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
       <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
@@ -85,6 +61,30 @@
       <pubDate>Tue, 10 Mar 2026 15:16:30 +03:00</pubDate>
       <source>ynet-news-english</source>
       <priority-score>110</priority-score>
+    </item>
+    <item>
+      <title>תופעת המדינה כמלון: מוסר של תיירים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14705141</link>
+      <description>אלה שבכל מלחמה או מבצע שבים ודורשים אסטרטגיית יציאה מיידית, הם כמעט תמיד אלו שילדיהם לא יצטרכו לחיות בטווח האש של המחדל הבא</description>
+      <pubDate>Wed, 11 Mar 2026 07:06:12 +0200</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>100</priority-score>
+    </item>
+    <item>
+      <title>תופעת המדינה כמלון: מוסר של תיירים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14705141</link>
+      <description>אלה שבכל מלחמה או מבצע שבים ודורשים אסטרטגיית יציאה מיידית, הם כמעט תמיד אלו שילדיהם לא יצטרכו לחיות בטווח האש של המחדל הבא</description>
+      <pubDate>Wed, 11 Mar 2026 07:06:12 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>100</priority-score>
+    </item>
+    <item>
+      <title>על רקע המלחמה והטלטלות במחירי הנפט בעולם: ירידות חדות בבורסה בת"א</title>
+      <link>https://www.ynet.co.il/economy/article/byokibakwg</link>
+      <description>המשך המלחמה עם איראן ומשבר האנרגיה שבעקבותיה נותנים את אותותיהם במסחר בבורסה: המדדים המובילים יורדים בעד 2%, ת"א ביטוח צונח בכ-3%</description>
+      <pubDate>Wed, 11 Mar 2026 13:51:49 +0200</pubDate>
+      <source>ynet-economy</source>
+      <priority-score>100</priority-score>
     </item>
   </items>
 </content-feed>
