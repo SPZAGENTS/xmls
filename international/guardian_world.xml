@@ -2,8 +2,19 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-11T12:00:57.362960</generated>
+  <generated>2026-03-11T14:02:22.698342</generated>
   <items>
+    <item>
+      <title>French aid worker among three killed in drone attack in eastern DRC, M23 rebels say</title>
+      <link>https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels</link>
+      <summary>Attack on residential part of M23-controlled city of Goma blamed by rebel group on governmentAt least three people, including a French humanitarian worker for the UN children’s agency, were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23...</summary>
+      <pubDate>Wed, 11 Mar 2026 11:18:07 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/6e218f8a4cc4aad893ce80e7f7030516a0c75943/849_0_4489_3592/master/4489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=622a89f3a873fed976a7700e48016762</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Shots fired at US consulate in Canada in what police call ‘national security incident’</title>
       <link>https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto</link>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/0b9efb44f9d585b1f0ca04b59c3c3d5e852ddd18/1170_104_1067_854/master/1067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93e017ed3dc15fdbedc354b483fac43b</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Three killed in drone attack on Goma in eastern DRC, M23 rebels say</title>
-      <link>https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels</link>
-      <summary>Attack on residential part of M23-controlled city blamed by rebel group on government At least three people were killed in a drone attack in Goma early on Wednesday morning, a spokesperson for the M23 rebel group has said.The attack happened at about 4am in a residential neigh...</summary>
-      <pubDate>Wed, 11 Mar 2026 09:41:04 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/8ce25482cf616e9c0c3896d323d5022dd441b76a/0_0_5840_4672/master/5840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=713b3fbe362bbe6d8735b96d658a003a</image>
         <type>image/jpeg</type>
       </media>
     </item>

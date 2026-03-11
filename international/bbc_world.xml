@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-11T12:00:50.462055</generated>
+  <generated>2026-03-11T14:02:16.927056</generated>
   <items>
     <item>
       <title>Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c358/live/94c81d10-1c75-11f1-a7bf-efb6e72f87e6.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War expands to central Beirut as Israeli strike kills Iranians in luxury hotel</title>
+      <link>https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Israel's military says it targeted Quds Force operatives after a return to war with Lebanon's Hezbollah movement, but Iran says they were diplomats.</summary>
+      <pubDate>Tue, 10 Mar 2026 18:33:03 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4544/live/2cd65170-1cfe-11f1-ad67-1389c2bfbcfe.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Syrian ex-colonel in court on crimes against humanity charge</title>
-      <link>https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.</summary>
-      <pubDate>Tue, 10 Mar 2026 14:17:37 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/34223f40-1c7f-11f1-a7bf-efb6e72f87e6.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

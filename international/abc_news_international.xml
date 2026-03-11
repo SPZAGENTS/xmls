@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-11T12:01:01.742696</generated>
+  <generated>2026-03-11T14:02:27.437819</generated>
   <items>
     <item>
       <title>Lebanon's latest conflict brings rare public backlash against Hezbollah as war flares again</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_73ed7f61f88e411b5fb13a888eb45cb3_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Drone strike reportedly kills at least 1 person in the eastern Congo city of Goma</title>
+      <link>https://abcnews.com/International/wireStory/drone-strike-reportedly-kills-1-person-eastern-congo-130960021</link>
+      <summary>A series of explosions attributed to drones has killed at least one person as the attack rocked downtown Goma, Democratic Republic of Congo</summary>
+      <pubDate>Wed, 11 Mar 2026 07:48:50 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_606b7feba8685436d1f757de65d4efce_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>UN peacekeepers defy South Sudan military's order to leave opposition-held town</title>
-      <link>https://abcnews.com/International/wireStory/peacekeepers-defy-south-sudan-militarys-order-leave-opposition-130925275</link>
-      <summary>The United Nations Mission in South Sudan says it will not comply with a government order to shut down its base in Akobo, an opposition stronghold near the Ethiopian border where tens of thousands of refugees have fled</summary>
-      <pubDate>Tue, 10 Mar 2026 06:27:05 -0400</pubDate>
-      <priority>90</priority>
+      <title>South Africa deploys troops in Johannesburg to tackle organized crime</title>
+      <link>https://abcnews.com/International/wireStory/south-africa-deploys-troops-johannesburg-tackle-organized-crime-130960815</link>
+      <summary>Troops have been deployed on the streets of South Africa&amp;rsquo;s biggest city after the president announced plans last month to use the army to help police fight gang violence and illegal mining</summary>
+      <pubDate>Wed, 11 Mar 2026 07:46:54 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_1b0a532e159525a4bf78c3f23da04a61_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Human Rights Watch details deaths and injuries of police drone attacks in Haiti</title>
-      <link>https://abcnews.com/International/wireStory/human-rights-watch-details-deaths-injuries-police-drone-130923385</link>
-      <summary>Human Rights Watch says drones operated by Haitian security forces and private contractors have killed at least 1,243 people and injured 738 others</summary>
-      <pubDate>Tue, 10 Mar 2026 04:36:14 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_a1e575416a5f1859b7af144d89e5a572_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_d92dd6dc8eea76bdf1abd878200379f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +74,7 @@
       <title>Japan marks 15 years since tsunami as Takaichi pushes more nuclear energy use</title>
       <link>https://abcnews.com/International/wireStory/japan-marks-15-years-tsunami-disaster-takaichi-pushes-130959342</link>
       <summary>Japan is marking the 15th anniversary of the earthquake, tsunami and nuclear disaster on its northeastern coast as the government pushes for atomic energy use</summary>
-      <pubDate>Wed, 11 Mar 2026 05:22:40 -0400</pubDate>
+      <pubDate>Wed, 11 Mar 2026 07:14:42 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9727fc1f169a199246cc0932719eae68_4x3_384.jpg</image>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Several dead after postal bus bursts into flames, authorities say</title>
-      <link>https://abcnews.com/International/wireStory/dead-after-postal-bus-bursts-flames-west-swiss-130949295</link>
-      <summary>A bus caught fire in a Swiss town and police say at least six people were killed</summary>
-      <pubDate>Wed, 11 Mar 2026 03:30:49 -0400</pubDate>
+      <title>At least 6 people killed, 3 hospitalized with severe injuries after bus catches fire west of Swiss capital, police say</title>
+      <link>https://abcnews.com/International/wireStory/6-people-killed-3-hospitalized-severe-injuries-after-130949961</link>
+      <summary>At least 6 people killed, 3 hospitalized with severe injuries after bus catches fire west of Swiss capital, police say</summary>
+      <pubDate>Wed, 11 Mar 2026 07:53:24 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_64703071b4fc8de5c2afe9c8c2a0ef7b_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
