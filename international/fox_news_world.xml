@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-11T03:31:29.575938</generated>
+  <generated>2026-03-11T04:21:28.400482</generated>
   <items>
+    <item>
+      <title>Hezbollah, Iran unleash coordinated cluster bomb strikes on Israel in major escalation</title>
+      <link>https://www.foxnews.com/world/hezbollah-iran-unleash-coordinated-cluster-bomb-strikes-israel-major-escalation</link>
+      <summary>Hezbollah prepares guerrilla warfare tactics in south Lebanon as Israel launches airstrikes against Beirut strongholds, with expert predicting Israeli ground invasion.</summary>
+      <pubDate>Tue, 10 Mar 2026 21:20:26 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-iran-missile-attack.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Top Iranian cybercriminal on FBI most wanted list reportedly killed in US-Israeli strike</title>
       <link>https://www.foxnews.com/world/top-iranian-cybercriminal-fbi-most-wanted-list-reportedly-killed-us-israeli-strike</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojtaba-khamenei.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hegseth warns ‘more casualties’ expected in Operation Epic Fury against Iran</title>
-      <link>https://www.foxnews.com/world/hegseth-warns-more-casualties-expected-operation-epic-fury-against-iran</link>
-      <summary>Secretary of War Pete Hegseth warned more U.S. casualties are expected in Operation Epic Fury in Iran, with seven American soldiers already killed in the military operation.</summary>
-      <pubDate>Mon, 09 Mar 2026 08:50:52 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/pete-hegseth-speaking.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
