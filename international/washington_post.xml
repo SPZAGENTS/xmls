@@ -2,13 +2,20 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-12T18:00:59.977480</generated>
+  <generated>2026-03-12T20:00:56.662791</generated>
   <items>
     <item>
-      <title>Lebanon appeals to Israel’s allies to intervene as hundreds reported killed</title>
+      <title>Lebanon appeals to Israel’s allies to stop strikes as death toll rises</title>
       <link>https://www.washingtonpost.com/world/2026/03/12/israel-hezbollah-lebanon-war/</link>
-      <summary>Fighting near Beirut and in southern Lebanon has killed more than 630 people and forced at least 800,000 from their homes.</summary>
-      <pubDate>Thu, 12 Mar 2026 14:55:20 +0000</pubDate>
+      <summary>The Iran war is expanding into Lebanon, as the Israeli offensive to dismantle Hezbollah has displaced 800,000 people there, with more than 680 people killed.</summary>
+      <pubDate>Thu, 12 Mar 2026 16:47:08 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>U.S. sailors injured in fire aboard aircraft carrier supporting Iran war</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/12/aircraft-carrier-laundry-fire-iran/</link>
+      <summary>The incident, in a laundry room on the USS Gerald R. Ford, is another setback during the ship’s extended deployment.</summary>
+      <pubDate>Thu, 12 Mar 2026 16:04:35 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -16,6 +23,13 @@
       <link>https://www.washingtonpost.com/world/2026/03/11/strait-hormuz-cargo-ships-iran/</link>
       <summary>The International Energy Agency announced that it would carry out its largest-ever release of oil reserves — 400 million barrels.</summary>
       <pubDate>Thu, 12 Mar 2026 01:39:01 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Satellite companies restrict access to Middle East imagery amid Iran war</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/11/satellite-images-middle-east-iran/</link>
+      <summary>The U.S.-based companies, Planet Labs and Vantor, say they were not instructed by any government to restrict image access.</summary>
+      <pubDate>Wed, 11 Mar 2026 22:17:38 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -58,20 +72,6 @@
       <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
       <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
       <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
-      <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
-      <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
-      <pubDate>Wed, 11 Mar 2026 21:11:25 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Two men fire gun toward U.S. Consulate in Toronto, police say</title>
-      <link>https://www.washingtonpost.com/world/2026/03/10/canada-shots-consulate-american-us-embassy/</link>
-      <summary>Canadian police are seeking two men suspected of firing a handgun at the U.S. Consulate in Toronto on Tuesday. There are no reports of injuries, police say.</summary>
-      <pubDate>Tue, 10 Mar 2026 20:35:12 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>

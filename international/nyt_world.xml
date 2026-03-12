@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-12T18:01:01.160936</generated>
+  <generated>2026-03-12T20:00:58.081778</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: New Supreme Leader Issues Defiant Statement Amid Growing Disruption to Global Oil Supplies</title>
+      <title>Iran War Live Updates: Israel Bombs Central Beirut in Expanding Attack</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>Iranian state media said Mojtaba Khamenei had released his first written statement as supreme leader, vowing that Iran would continue to block the Strait of Hormuz, a vital oil route. Global oil markets have been roiled by the war.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:52:48 +0000</pubDate>
+      <summary>Israeli airstrikes pounded the Lebanese capital, expanding attacks on Hezbollah and displacing more Lebanese. In Iran, the newly appointed leader vowed his country would avenge “the blood of the martyrs.”</summary>
+      <pubDate>Thu, 12 Mar 2026 17:55:49 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-1030-pfkq/12israel-iran-1030-pfkq-mediumSquareAt3X.jpg</image>
@@ -49,39 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Iran’s Retaliatory Strikes Appear to Be Slowing</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html</link>
-      <summary>U.S. officials say the country’s weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.</summary>
-      <pubDate>Wed, 11 Mar 2026 16:10:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Trump’s War With Iran Changed the World in a Week</title>
-      <link>https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html</link>
-      <summary>The conflict is reshaping travel patterns, energy dependencies, living costs, trade routes and diplomatic alliances.</summary>
-      <pubDate>Wed, 11 Mar 2026 20:30:05 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-Trump-Global-Fallout-zlmk/11int-Trump-Global-Fallout-zlmk-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Casts a Shadow Over One of Mexico’s Deadliest States</title>
-      <link>https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html</link>
-      <summary>President Trump wants to strike cartels inside Mexico. In Sinaloa State, a cartel stronghold, some residents said they were willing to entertain U.S. intervention.</summary>
-      <pubDate>Thu, 12 Mar 2026 01:37:36 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/09/multimedia/int-mexico-trump-sinaloa-promo/int-mexico-trump-sinaloa-jhmg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>15 Are Sentenced to Life for Moscow Concert Hall Massacre</title>
       <link>https://www.nytimes.com/2026/03/12/world/europe/moscow-concert-hall-attack.html</link>
       <summary>At least 149 people died in the 2024 terror attack outside the Russian capital, for which the Islamic State claimed responsibility.</summary>
@@ -93,10 +60,43 @@
       </media>
     </item>
     <item>
+      <title>Iran’s Retaliatory Strikes Appear to Be Slowing</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html</link>
+      <summary>U.S. officials say the country’s weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.</summary>
+      <pubDate>Wed, 11 Mar 2026 16:10:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Yanar Mohammed, 65, Iraqi Women’s Rights Advocate, Is Killed by Gunmen</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/yanar-mohammed-dead.html</link>
+      <summary>She established a network of safe houses for abused women and was an outspoken critic of her country’s repressive institutions, despite the constant threat of violence.</summary>
+      <pubDate>Thu, 12 Mar 2026 17:01:42 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Mohammed-03-ltjf/11Mohammed-03-ltjf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html</link>
+      <summary>Mojtaba Khamenei struck a defiant tone and signaled that Iran would not back down in a war that has spread across the Middle East.</summary>
+      <pubDate>Thu, 12 Mar 2026 16:05:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-Khamenei-tjgc/12israel-iran-Khamenei-tjgc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Displaced Lebanese Haunted by Strikes from the Sky</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-displaced-strikes-israel-iran.html</link>
       <summary>With airstrikes expanding beyond the limits of Beirut’s southern suburbs, people in the city say that even the once-safest corners may no longer be off-limits.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:36:18 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 16:09:18 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-lebanon-01-qhzj/12israel-iran-lebanon-01-qhzj-mediumSquareAt3X.jpg</image>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-12T18:01:05.485126</generated>
+  <generated>2026-03-12T20:01:02.825574</generated>
   <items>
     <item>
       <title>Iran live updates: 1st purported message from new supreme leader read on state TV</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>Mojtaba Khamenei was chosen on Sunday to replace his father, Ali Khamenei, the former supreme leader, who was killed on the first day of the U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 12 Mar 2026 10:54:40 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 12:26:02 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/motjaba-main_1773319659513_hpMain_4x3t_384.jpg</image>
@@ -49,24 +49,24 @@
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
-      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Tue, 10 Mar 2026 14:51:19 -0400</pubDate>
-      <priority>80</priority>
+      <title>WATCH: ISIS-inspired teens considered other targets before Gracie Mansion protest</title>
+      <link>https://abcnews.com/US/video/isis-inspired-teens-considered-targets-gracie-mansion-protest-131004745</link>
+      <summary>The two PA teens charged with attempting what authorities described as an ISIS-inspired attack in New York considered other targets before driving into Manhattan with homemade bombs, sources said.</summary>
+      <pubDate>Thu, 12 Mar 2026 12:02:49 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260312_abc_social_nyc_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>2 injured, gunman dead in shooting at Old Dominion University, school says</title>
-      <link>https://abcnews.com/US/police-respond-active-incident-dominion-university-virginia/story?id=131002472</link>
-      <summary>Police in Norfolk, Virginia, said they are at the scene of "an active incident" at Old Dominion University.</summary>
-      <pubDate>Thu, 12 Mar 2026 11:50:15 -0400</pubDate>
+      <title>LIVE: Officials respond to active shooting incident at Michigan synagogue</title>
+      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 12 Mar 2026 13:54:26 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/old-dominion-university-shooting-ht-jt-260312_1773328805187_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +78,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260312_gma_play_oscars3_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Active shooting incident at synagogue in Michigan; suspect at large</title>
+      <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
+      <summary>Authorities are responding to reports of an active shooter at a synagogue in West Bloomfield, Michigan, according to the Oakland County Sheriff's Office.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:56:47 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/Temple-Israel-3-ht-gmh-260312_1773335977369_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Nightline/260310_ntl_gen_z_nostalgia1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Shelter rescues kitten who appeared inflated like a balloon</title>
-      <link>https://abcnews.com/US/video/shelter-rescues-kitten-appeared-inflated-balloon-130993005</link>
-      <summary>ABC News' Danny New speaks to a veterinarian who believes the condition was caused by damage to the cat's windpipe.</summary>
-      <pubDate>Thu, 12 Mar 2026 07:39:14 -0400</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260312_gmafl_kitten_hpMain.jpg_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
