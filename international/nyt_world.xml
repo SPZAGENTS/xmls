@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-12T12:11:46.786618</generated>
+  <generated>2026-03-12T14:01:10.362200</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Iraq Closes Oil Terminals as Energy Prices Surge</title>
+      <title>Iran War Live Updates: Iraq Closes Oil Terminals Amid Growing Disruption to Global Supplies</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>Two oil tankers were burning off the Iraqi coast on Thursday as the conflict in the Middle East deepened disruptions to the global energy supply. Israeli airstrikes also shook Beirut, the Lebanese capital.</summary>
-      <pubDate>Thu, 12 Mar 2026 10:08:54 +0000</pubDate>
+      <summary>Iran claimed responsibility for striking one of two oil tankers that were burning off the Iraqi coast on Thursday. The International Energy Agency warned that the war had caused “the largest supply disruption in the history of the global oil market.”</summary>
+      <pubDate>Thu, 12 Mar 2026 11:59:17 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/12israel-iran-promo-7am-London/12israel-iran-promo-7am-London-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump’s Iran War Is Causing Problems For His Ally in Italy, Giorgia Meloni</title>
+      <link>https://www.nytimes.com/2026/03/12/world/europe/meloni-trump-iran-italy.html</link>
+      <summary>War in the Middle East has left Italy’s prime minister in a domestic bind, presenting her with one of the biggest challenges of a previously stable tenure.</summary>
+      <pubDate>Thu, 12 Mar 2026 09:03:51 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Italy-Iran-01-ztml/11Italy-Iran-01-ztml-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +60,24 @@
       </media>
     </item>
     <item>
-      <title>Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html</link>
-      <summary>Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.</summary>
-      <pubDate>Wed, 11 Mar 2026 20:52:30 +0000</pubDate>
+      <title>Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack</title>
+      <link>https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html</link>
+      <summary>The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.</summary>
+      <pubDate>Thu, 12 Mar 2026 11:24:23 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-iran-khamenei-1-vplm/11int-iran-khamenei-1-vplm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/12INT-IRAN-SHIPS-TICKTOCK-pcgz/00INT-SRI-LANKA-SHIPS-pcgz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Russia Says Ukraine’s Strike on Factory City Was Deadly</title>
-      <link>https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html</link>
-      <summary>Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia.</summary>
-      <pubDate>Wed, 11 Mar 2026 15:21:49 +0000</pubDate>
+      <title>Ground Down by War, Hezbollah’s Loyal Base Shows Cracks</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html</link>
+      <summary>“We just want to be back in our homes,” said a Lebanese man who, like many others in the latest round of fighting, has to flee.</summary>
+      <pubDate>Thu, 12 Mar 2026 11:02:40 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Russia-strike-ckpg/11Russia-strike-ckpg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12lebanon-war-01-zwfq/12lebanon-war-01-zwfq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Iran War Is Causing Problems For His Ally in Italy, Giorgia Meloni</title>
-      <link>https://www.nytimes.com/2026/03/12/world/europe/meloni-trump-iran-italy.html</link>
-      <summary>War in the Middle East has left Italy’s prime minister in a domestic bind, presenting her with one of the biggest challenges of a previously stable tenure.</summary>
-      <pubDate>Thu, 12 Mar 2026 09:03:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Italy-Iran-01-ztml/11Italy-Iran-01-ztml-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>How Hegseth Came to See Moral Purpose in War as Weakness</title>
       <link>https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html</link>
       <summary>Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Ukraine Can Now Manufacture ‘China-Free’ Drones</title>
-      <link>https://www.nytimes.com/2026/03/11/world/europe/ukraine-drones-china.html</link>
-      <summary>The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult.</summary>
-      <pubDate>Wed, 11 Mar 2026 04:01:06 +0000</pubDate>
+      <title>How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse</title>
+      <link>https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html</link>
+      <summary>Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown.</summary>
+      <pubDate>Thu, 12 Mar 2026 09:02:33 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-ukraine-china-free-03-mftg/11int-ukraine-china-free-03-mftg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-energy-01-wqmk/12int-ukraine-energy-01-wqmk-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-12T12:11:47.372789</generated>
+  <generated>2026-03-12T14:01:10.914330</generated>
   <items>
+    <item>
+      <title>Ground Down by War, Hezbollah’s Loyal Base Shows Cracks</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html</link>
+      <summary>“We just want to be back in our homes,” said a Lebanese man who, like many others in the latest round of fighting, has to flee.</summary>
+      <pubDate>Thu, 12 Mar 2026 11:02:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12lebanon-war-01-zwfq/12lebanon-war-01-zwfq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s Naval Mines: A History of Threats to Persian Gulf Shipping</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-mines-ships-history.html</link>
@@ -30,7 +41,7 @@
       <title>Deadly Attack on Oil Tankers Prompts Iraq to Close Oil Terminals</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html</link>
       <summary>An attack off the Iraqi coast engulfed two oil tankers in flames, killing at least one person. Senior Iraqi officials believe the attack was Iranian.</summary>
-      <pubDate>Thu, 12 Mar 2026 08:53:46 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 10:50:06 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/12vid-israel-iran-ship-attacks-76861-cover/12vid-israel-iran-ship-attacks-76861-cover-mediumSquareAt3X.jpg</image>
@@ -71,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>California Officials See No Imminent Threat of Drone Attacks by Iran</title>
+      <title>Newsom Sees No Imminent Threat After F.B.I. Warning That Iranian Drones Could Attack California</title>
       <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-california-drones-fbi.html</link>
       <summary>Just before the war began, the Federal Bureau of Investigation told state officials that Iran might respond with drone attacks on California. No specific, credible threats have been identified.</summary>
       <pubDate>Wed, 11 Mar 2026 23:17:29 +0000</pubDate>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-dod-briefing-cjzq/11israel-iran-dod-briefing-cjzq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Banks in Gulf Evacuate Their Offices</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/citi-standard-chartered-evacuation.html</link>
-      <summary>After an overnight attack on a bank, Iranian officials signaled a new willingness to target economic centers and banks with ties to the United States.</summary>
-      <pubDate>Wed, 11 Mar 2026 19:21:08 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/arts/11israel-iran-banks/11israel-iran-banks-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

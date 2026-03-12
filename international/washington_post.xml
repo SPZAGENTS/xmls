@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-12T12:11:45.603070</generated>
+  <generated>2026-03-12T14:01:08.701841</generated>
   <items>
     <item>
       <title>War against Iran expands into Lebanon as Israel battles Hezbollah</title>
@@ -54,6 +54,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Ukraine strikes Russian electronics plant that builds missile components</title>
+      <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
+      <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
+      <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
       <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
       <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
@@ -66,13 +73,6 @@
       <summary>Canadian police are seeking two men suspected of firing a handgun at the U.S. Consulate in Toronto on Tuesday. There are no reports of injuries, police say.</summary>
       <pubDate>Tue, 10 Mar 2026 20:35:12 +0000</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Democrats argue Trump’s China policy risks ‘strategic failure’</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/</link>
-      <summary>A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects of American power.</summary>
-      <pubDate>Tue, 10 Mar 2026 14:22:28 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
