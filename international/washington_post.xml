@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-12T00:00:56.509742</generated>
+  <generated>2026-03-12T02:00:56.500435</generated>
   <items>
     <item>
       <title>Iranian school was on U.S. target list, may have been mistaken as military site</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>U.S. orders more diplomats to leave Middle East</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/09/us-diplomats-middle-east-iran/</link>
-      <summary>The State Department’s most recent directives apply to personnel in Turkey and Saudi Arabia, underscoring the ongoing threat posed by Iranian counterattacks.</summary>
-      <pubDate>Mon, 09 Mar 2026 22:54:25 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
       <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
       <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/</link>
       <summary>A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects of American power.</summary>
       <pubDate>Tue, 10 Mar 2026 14:22:28 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Punch the monkey isn’t alone in bonding with his emotional support toy</title>
+      <link>https://www.washingtonpost.com/lifestyle/2026/03/10/punch-monkey-animal-support-toys-rescue/</link>
+      <summary>Here are rescued chimpanzees, a mountain lion, an elephant and a penguin with the toys they’re attached to.</summary>
+      <pubDate>Tue, 10 Mar 2026 12:00:51 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
