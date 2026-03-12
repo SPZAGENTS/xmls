@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-12T08:11:18.177552</generated>
+  <generated>2026-03-12T10:06:55.970206</generated>
   <items>
+    <item>
+      <title>Trump suddenly seems anxious to end the war as American casualties mount and Iran finds ways to hit back</title>
+      <link>https://www.foxnews.com/media/trump-suddenly-seems-anxious-end-war-american-casualties-mount-iran-finds-ways-hit-back</link>
+      <summary>Trump&amp;apos;s military campaign against Iran is facing unexpected resistance, as officials report 140 U.S. service members were wounded in initial strikes.</summary>
+      <pubDate>Thu, 12 Mar 2026 03:00:20 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/donald-trump-changes-tune-on-war-in-iran.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>'Unprecedented' agreement releases emergency oil reserves as gas prices spark concerns</title>
       <link>https://www.foxnews.com/politics/unprecedented-agreement-releases-emergency-oil-reserves-gas-prices-spark-concerns</link>
@@ -23,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/larry-fink.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rogan says voters feel 'betrayed' by Trump's Iran campaign after he pledged 'no more wars' for years</title>
-      <link>https://www.foxnews.com/media/rogan-says-voters-feel-betrayed-trumps-iran-strikes-after-he-campaigned-no-more-wars</link>
-      <summary>The U.S. strikes on Iran contradict President Donald Trump&amp;apos;s 2024 campaign pledge to avoid wars, podcast host Joe Rogan said Tuesday while discussing the conflict.</summary>
-      <pubDate>Wed, 11 Mar 2026 19:00:10 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/joe-rogan-gesture.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Trump administration puts key Biden-era immigration policy on notice: 'Unsustainable cycle'</title>
-      <link>https://www.foxnews.com/politics/trump-admin-puts-key-biden-era-immigration-policy-on-notice-unsustainable-cycle</link>
-      <summary>The Trump administration is looking to undo temporary protected status designations for hundreds of thousands of migrants in the U.S., which would reverse a key Biden-era policy.</summary>
-      <pubDate>Wed, 11 Mar 2026 18:57:03 -0500</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-donald-trump-2026.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Dr Oz helps older woman who collapsed during Trump's speech at Kentucky event</title>
       <link>https://www.foxnews.com/politics/dr-oz-helps-older-woman-who-collapsed-during-trumps-speech-kentucky-event</link>
       <summary>Dr. Mehmet Oz sprang into action during President Donald Trump’s speech in Kentucky when an older woman collapsed, prompting the president to pause his remarks and call for assistance.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/dr.-mehmet-oz-gives-the-thumbs-up-to-president-donald-trump-.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>California State University board meeting falls into chaos amid SJSU lawsuit vs Trump admin over trans scandal</title>
+      <link>https://www.foxnews.com/sports/california-state-university-board-meeting-falls-chaos-amid-sjsu-lawsuit-vs-trump-admin-over-trans-scandal</link>
+      <summary>CSU and San Jose State University sued the federal government over Title IX transgender volleyball findings after Education Secretary threatened funding cuts.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:27:26 -0500</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/brooke-slusser-and-liberate-the-csu-protester-02.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

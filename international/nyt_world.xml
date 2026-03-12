@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-12T08:11:21.049317</generated>
+  <generated>2026-03-12T10:06:59.500067</generated>
   <items>
     <item>
-      <title>First 6 Days of Iran War Cost U.S. $11.3 Billion, Pentagon Says</title>
-      <link>https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel</link>
-      <summary>Defense Department officials told Congress that the estimate excludes many costs tied to the military buildup. Airstrikes were shaking Beirut and Tehran, and the price of oil surged past $100 a barrel.</summary>
-      <pubDate>Thu, 12 Mar 2026 05:38:24 +0000</pubDate>
+      <title>Iran War Live Updates: Oil Tops $100 a Barrel as Attacks Spread Across Middle East</title>
+      <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
+      <summary>Global oil prices surged despite pledges from the United States and other countries to release reserves. Airstrikes shook Beirut and Tehran, and more ships were attacked in the Persian Gulf.</summary>
+      <pubDate>Thu, 12 Mar 2026 07:56:21 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-promo-11pm-mzbq/11israel-iran-promo-11pm-mzbq-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/12israel-iran-promo-7am-London/12israel-iran-promo-7am-London-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s Retaliatory Strikes Appear to Be Slowing</title>
+      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html</link>
+      <summary>U.S. officials say the country’s weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.</summary>
+      <pubDate>Wed, 11 Mar 2026 16:10:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Russia-strike-ckpg/11Russia-strike-ckpg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>World Heritage Sites Hit in Airstrikes on Iran</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html</link>
-      <summary>Revered cultural icons that have withstood the upheavals of history are being hit hard in the war being waged by Israel and the United States.</summary>
-      <pubDate>Wed, 11 Mar 2026 18:32:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/10/multimedia/iran10-intl-heritage-zpgk/iran10-intl-heritage-zpgk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
