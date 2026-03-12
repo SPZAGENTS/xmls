@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-12T20:00:58.616882</generated>
+  <generated>2026-03-12T22:01:16.194614</generated>
   <items>
+    <item>
+      <title>Iraq vents anger at strikes on former militias now under government control.</title>
+      <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/iraq-angered-by-strikes-on-former-militias-now-under-government-control</link>
+      <summary />
+      <pubDate>Thu, 12 Mar 2026 19:36:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-update-kwzv/12israel-iran-update-kwzv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Yanar Mohammed, 65, Iraqi Women’s Rights Advocate, Is Killed by Gunmen</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/yanar-mohammed-dead.html</link>
       <summary>She established a network of safe houses for abused women and was an outspoken critic of her country’s repressive institutions, despite the constant threat of violence.</summary>
-      <pubDate>Thu, 12 Mar 2026 17:01:42 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 17:01:43 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Mohammed-03-ltjf/11Mohammed-03-ltjf-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html</link>
       <summary>Mojtaba Khamenei struck a defiant tone and signaled that Iran would not back down in a war that has spread across the Middle East.</summary>
-      <pubDate>Thu, 12 Mar 2026 16:05:36 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 18:26:46 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-Khamenei-tjgc/12israel-iran-Khamenei-tjgc-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>Displaced Lebanese Haunted by Strikes from the Sky</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-displaced-strikes-israel-iran.html</link>
       <summary>With airstrikes expanding beyond the limits of Beirut’s southern suburbs, people in the city say that even the once-safest corners may no longer be off-limits.</summary>
-      <pubDate>Thu, 12 Mar 2026 16:09:18 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 18:43:29 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-lebanon-01-qhzj/12israel-iran-lebanon-01-qhzj-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/12vid-israel-iran-ship-attacks-76861-cover/12vid-israel-iran-ship-attacks-76861-cover-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Bombards Lebanese Capital in Latest Round of Strikes</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/beirut-lebanon-israel-strikes.html</link>
-      <summary>Lebanon’s health ministry said at least seven people were killed in the Beirut attacks early Thursday.</summary>
-      <pubDate>Thu, 12 Mar 2026 05:15:39 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-lebanon-mbpv/11israel-iran-lebanon-mbpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

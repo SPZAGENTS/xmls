@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-12T20:00:54.696638</generated>
+  <generated>2026-03-12T22:01:12.954077</generated>
   <items>
+    <item>
+      <title>Trump warns of Iranian 'sleeper cells' as Canada accused of harboring regime operatives</title>
+      <link>https://www.foxnews.com/world/trump-warns-iranian-sleeper-cells-canada-accused-harboring-regime-operatives</link>
+      <summary>Canadian Conservatives slam Liberal government for allegedly allowing hundreds of Iranian regime officials to remain despite known security risks.</summary>
+      <pubDate>Thu, 12 Mar 2026 15:54:16 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/anti-war-protest-iran-khamenei.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel hits back after coordinated Iran-Hezbollah missile, drone strikes, urges Beirut to rein in terrorists</title>
       <link>https://www.foxnews.com/world/israel-hits-back-after-coordinated-iran-hezbollah-missile-drone-strikes-urges-beirut-rein-terrorists</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/bahrain-buildings-hit.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran regime cited as Trump admin set to designate Sudan’s Muslim Brotherhood a terror group</title>
-      <link>https://www.foxnews.com/world/iran-regime-cited-trump-admin-set-designate-sudans-muslim-brotherhood-terror-group</link>
-      <summary>Trump administration designates Sudanese Muslim Brotherhood as terrorist organization amid Sudan&amp;apos;s civil war that has seen thousands of deaths and millions of displacements.</summary>
-      <pubDate>Tue, 10 Mar 2026 13:56:10 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-sudan-army.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
