@@ -2,28 +2,21 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-12T10:06:58.842233</generated>
+  <generated>2026-03-12T12:11:46.179195</generated>
   <items>
+    <item>
+      <title>We asked 1,000 Americans if U.S. strikes on Iran should continue. Here’s what they said.</title>
+      <link>https://www.washingtonpost.com/politics/interactive/2026/iran-war-strikes-poll/</link>
+      <summary>Resistance to the U.S. military campaign in Iran is easing overall, though a majority of Americans still favor ending the strikes.</summary>
+      <pubDate>Thu, 12 Mar 2026 10:00:41 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump touts economic agenda on tour as Iran war stirs prices, GOP dissent</title>
       <link>https://www.washingtonpost.com/politics/2026/03/11/trump-economy-midterms-massie/</link>
       <summary>The Ohio and Kentucky stops were meant to promote economic gains, but rising oil prices and Republican dissent over Iran threaten to complicate the message.</summary>
       <pubDate>Wed, 11 Mar 2026 23:32:24 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran war’s oil shock fuels GOP political anxiety</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/10/iran-war-gas-prices-gop-anxiety/</link>
-      <summary>Defense Secretary Pete Hegseth said Tuesday would be “our most intense day of strikes,” after President Trump sent conflicting messages about the administration’s plans.</summary>
-      <pubDate>Tue, 10 Mar 2026 13:30:33 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Australia grants asylum to 5 Iranian soccer players after Trump pressure</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/09/trump-iran-soccer-womens-asylum-australia/</link>
-      <summary>The late-night visa approval came after a days-long operation, authorities said. The players had been criticized back home after they stood silently during the Iranian anthem.</summary>
-      <pubDate>Tue, 10 Mar 2026 11:55:14 +0000</pubDate>
-      <priority>90</priority>
     </item>
     <item>
       <title>Tracking who Trump is appointing to fill key administration roles</title>
@@ -38,6 +31,20 @@
       <summary>Clay Fuller, a district attorney, led among Republicans to replace the former congresswoman in deep-red Georgia, while Rep. Bennie Thompson (D-Mississippi) fended off a primary challenge.</summary>
       <pubDate>Wed, 11 Mar 2026 02:15:20 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>AI money is already influencing the midterms. And more is coming.</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/12/ai-funding-midterm-elections/</link>
+      <summary>Candidates backed by AI companies have found early success — of the 20 candidates in the Texas and North Carolina primaries who received AI funds, only one lost her race.</summary>
+      <pubDate>Thu, 12 Mar 2026 09:00:51 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>DHS pick Markwayne Mullin once hired felon who illegally stored guns at work</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/12/dhs-pick-markwayne-mullin-once-hired-felon-who-illegally-stored-guns-work/</link>
+      <summary>Sen. Markwayne Mullin denied knowing about the employee’s criminal record, but the employee says he did. A “cache” of weapons was found at Mullin’s business.</summary>
+      <pubDate>Thu, 12 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Police say Jan. 6 plaque is unlawfully hidden from public at U.S. Capitol</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/health/2026/03/11/covid-vaccine-recommendation-panel/</link>
       <summary>Some members of the CDC’s vaccine advisory panel have publicly questioned the safety and manufacturing of the shots, including raising a debunked theory that DNA contaminants in the vaccines are harmful.</summary>
       <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>‘Titanic’ statue of Trump and Epstein on the Mall draws praise, scorn</title>
-      <link>https://www.washingtonpost.com/dc-md-va/2026/03/10/trump-epstein-statue-titanic-mall-washington/</link>
-      <summary>The statue, depicting them embracing on a copy of the Titanic bow, is the third placed on the Mall by the artists depicting a connection between Trump and Epstein.</summary>
-      <pubDate>Wed, 11 Mar 2026 00:57:18 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

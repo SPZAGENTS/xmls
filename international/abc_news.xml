@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-12T10:07:04.784476</generated>
+  <generated>2026-03-12T12:11:51.261185</generated>
   <items>
     <item>
-      <title>Iran live updates: US senators told Iran war cost $11.3B in first 6 days</title>
+      <title>Iran live updates: 3 more ships set afire by 'unknown' projectiles in Persian Gulf</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</summary>
-      <pubDate>Wed, 11 Mar 2026 22:11:05 -0400</pubDate>
+      <summary>At least six ships have been struck by projectiles in the Persian Gulf or the Strait of Hormuz since early Wednesday, according to U.K. Maritime Trade Operations.</summary>
+      <pubDate>Thu, 12 Mar 2026 06:01:14 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran-16-gty-gmh-260311_1773240970834_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/IRAN-CRISIS-IRAQTANKERS_1773285203167_hpMain_2_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/GettyImages-2147784914_1773248758057_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian court convicts 19 people over deadly 2024 Moscow concert hall attack</title>
+      <link>https://abcnews.com/International/wireStory/russian-court-convicts-19-people-deadly-2024-moscow-130992385</link>
+      <summary>A Moscow court has convicted 19 people over the 2024 Crocus City Hall shooting that killed 149 and injured more than 600 people</summary>
+      <pubDate>Thu, 12 Mar 2026 06:07:38 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_fb1676669f24ba7d3952b6c238591a62_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260310_wn_vo_barge_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US struggles to evacuate personnel from facilities under fire in Iraq: Officials</title>
-      <link>https://abcnews.com/International/us-struggles-evacuate-american-personnel-facilities-fire-iraq/story?id=130981420</link>
-      <summary>Some U.S. staff were flown out by the British air force, officials said.</summary>
-      <pubDate>Wed, 11 Mar 2026 22:29:21 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/us-embassy-baghdad-gty-jt-260311_1773265001107_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
