@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-12T14:01:16.109085</generated>
+  <generated>2026-03-12T16:01:14.836182</generated>
   <items>
     <item>
       <title>Zelenskyy says Ukraine awaits White House sign-off on US drone production deal</title>
@@ -18,8 +18,8 @@
     <item>
       <title>Russian court convicts 19 people over deadly 2024 Moscow concert hall attack</title>
       <link>https://abcnews.com/International/wireStory/russian-court-convicts-19-people-deadly-2024-moscow-130992385</link>
-      <summary>A Moscow court has convicted 19 people over the 2024 Crocus City Hall shooting that killed 149 and injured more than 600 people</summary>
-      <pubDate>Thu, 12 Mar 2026 06:43:11 -0400</pubDate>
+      <summary>A Moscow court has convicted 19 people of involvement in the 2024 shootings that killed 149 and injured more than 600 at a concert hall in Moscow</summary>
+      <pubDate>Thu, 12 Mar 2026 08:19:06 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_fb1676669f24ba7d3952b6c238591a62_4x3_384.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Drone strike reportedly kills at least 1 person in the eastern Congo city of Goma</title>
-      <link>https://abcnews.com/International/wireStory/drone-strike-reportedly-kills-1-person-eastern-congo-130960021</link>
-      <summary>A series of explosions attributed to drones has killed at least one person as the attack rocked downtown Goma, Democratic Republic of Congo</summary>
-      <pubDate>Wed, 11 Mar 2026 07:48:50 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_606b7feba8685436d1f757de65d4efce_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Drone strike hits school and medical center in Sudan, killing 17, mostly schoolgirls</title>
       <link>https://abcnews.com/International/wireStory/drone-strike-hits-school-medical-center-southern-sudan-130969191</link>
       <summary>An explosive-laden drone blamed on Sudanese paramilitaries has struck a secondary school and a health care center in southern Sudan, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said</summary>
@@ -89,6 +78,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hungary to declassify security report as PM claims Ukraine illegally funding opponent</title>
+      <link>https://abcnews.com/International/wireStory/hungary-declassify-security-report-orbn-claims-ukraine-illegally-130997330</link>
+      <summary>Hungary&amp;rsquo;s government says it is declassifying a national security report that Prime Minister Viktor Orb&amp;aacute;n claims shows his top rival takes illegal money from Ukraine</summary>
+      <pubDate>Thu, 12 Mar 2026 09:01:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_1c71a8b1f94e5f706fcea92cfec5fbb7_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

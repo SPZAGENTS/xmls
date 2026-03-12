@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-12T14:01:10.914330</generated>
+  <generated>2026-03-12T16:01:09.314792</generated>
   <items>
+    <item>
+      <title>Iran War Causing Largest Ever Oil Disruption, I.E.A. Says</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-oil-iea.html</link>
+      <summary>Conflict is forcing producers to slash production and close ports as Iran steps up attacks on energy infrastructure.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:47:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-IEA-warning-fgtc/12israel-iran-IEA-warning-fgtc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Ground Down by War, Hezbollah’s Loyal Base Shows Cracks</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html</link>
@@ -41,7 +52,7 @@
       <title>Deadly Attack on Oil Tankers Prompts Iraq to Close Oil Terminals</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/iraq-oil-tankers-attack-iran-war.html</link>
       <summary>An attack off the Iraqi coast engulfed two oil tankers in flames, killing at least one person. Senior Iraqi officials believe the attack was Iranian.</summary>
-      <pubDate>Thu, 12 Mar 2026 10:50:06 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 13:11:52 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/12vid-israel-iran-ship-attacks-76861-cover/12vid-israel-iran-ship-attacks-76861-cover-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-front-by-front-qhgw/11israel-iran-front-by-front-qhgw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-war-costs-pentagon.html</link>
-      <summary>In a Capitol Hill briefing, officials gave their most comprehensive assessment of the cost of the first six days of the war, but the number omitted several aspects of the operation.</summary>
-      <pubDate>Wed, 11 Mar 2026 20:49:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-dod-briefing-cjzq/11israel-iran-dod-briefing-cjzq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

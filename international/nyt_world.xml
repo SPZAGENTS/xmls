@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-12T14:01:10.362200</generated>
+  <generated>2026-03-12T16:01:08.731120</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Iraq Closes Oil Terminals Amid Growing Disruption to Global Supplies</title>
+      <title>Iran War Live Updates: New Supreme Leader Issues Defiant Statement Amid Growing Disruption to Global Oil Supplies</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>Iran claimed responsibility for striking one of two oil tankers that were burning off the Iraqi coast on Thursday. The International Energy Agency warned that the war had caused “the largest supply disruption in the history of the global oil market.”</summary>
-      <pubDate>Thu, 12 Mar 2026 11:59:17 +0000</pubDate>
+      <summary>Iranian state media said Mojtaba Khamenei had released his first written statement as supreme leader, vowing that Iran would continue to block the Strait of Hormuz, a vital oil route. Global oil markets have been roiled by the war.</summary>
+      <pubDate>Thu, 12 Mar 2026 14:00:52 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/12israel-iran-promo-7am-London/12israel-iran-promo-7am-London-mediumSquareAt3X.jpg</image>
@@ -60,10 +60,21 @@
       </media>
     </item>
     <item>
+      <title>Iran War Causing Largest Ever Oil Disruption, I.E.A. Says</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-oil-iea.html</link>
+      <summary>Conflict is forcing producers to slash production and close ports as Iran steps up attacks on energy infrastructure.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:47:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-IEA-warning-fgtc/12israel-iran-IEA-warning-fgtc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack</title>
       <link>https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html</link>
       <summary>The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.</summary>
-      <pubDate>Thu, 12 Mar 2026 11:24:23 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 12:35:16 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/12INT-IRAN-SHIPS-TICKTOCK-pcgz/00INT-SRI-LANKA-SHIPS-pcgz-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11dc-hegseth-war-01-mvlk/11dc-hegseth-war-01-mvlk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse</title>
-      <link>https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html</link>
-      <summary>Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown.</summary>
-      <pubDate>Thu, 12 Mar 2026 09:02:33 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-energy-01-wqmk/12int-ukraine-energy-01-wqmk-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

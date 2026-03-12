@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-12T14:01:05.805825</generated>
+  <generated>2026-03-12T16:01:03.137686</generated>
   <items>
     <item>
       <title>'Fingers on the trigger': Deadly warnings for Iranians being urged to take action</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/f2533390-1dae-11f1-9b9f-e70729f325ca.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Nineteen jailed over deadly Moscow concert attack</title>
+      <link>https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:29:01 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cde5/live/b07e1900-1e10-11f1-8753-7d33c5bf0351.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large</title>
-      <link>https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.</summary>
-      <pubDate>Wed, 11 Mar 2026 16:45:28 GMT</pubDate>
+      <title>Questions mount for Hegseth over possible US involvement in strike on Iranian school</title>
+      <link>https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Democrats have written to ask the defence secretary whether the US was responsible, but he says the issue is being investigated.</summary>
+      <pubDate>Thu, 12 Mar 2026 12:22:22 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9d9/live/89059d00-1d7d-11f1-a17e-358a512ba0b9.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5656/live/185d26e0-1dff-11f1-b048-c9424b2cf5fd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How Iran war laid bare the world's reliance on Gulf oil and gas</title>
+      <link>https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Countries around the world are feeling the impact of the conflict and the resulting energy price shock.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:57:56 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f51/live/d65ed2b0-1e0e-11f1-b2b0-1752c6d93b6f.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>What did we learn from China's biggest political meeting?</title>
-      <link>https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC correspondents give us their biggest takeaways from China's National People's Congress.</summary>
-      <pubDate>Thu, 12 Mar 2026 08:10:16 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eec8/live/52db8a60-1dbd-11f1-ab60-99e4924fa43c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>No evidence Swiss bus fire was terrorism, officials say</title>
       <link>https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Initial reports suggest a man with "psychological problems" set himself on fire on the bus, according to police.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5814/live/1927fc80-1df5-11f1-a719-d5d170d20a8c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Pussycat Dolls confirm reunion: 'We're celebrating where we're at as women'</title>
-      <link>https://www.bbc.com/news/articles/cwykd08eyg5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Nicole Scherzinger, Ashley Roberts and Kimberly Wyatt announce a new single and world tour.</summary>
-      <pubDate>Thu, 12 Mar 2026 08:03:26 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6590/live/a1beeec0-1d2b-11f1-8436-5d0a9bb808e5.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

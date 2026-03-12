@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-12T14:01:07.039868</generated>
+  <generated>2026-03-12T16:01:04.304938</generated>
   <items>
+    <item>
+      <title>Israel hits back after coordinated Iran-Hezbollah missile, drone strikes, urges Beirut to rein in terrorists</title>
+      <link>https://www.foxnews.com/world/israel-hits-back-after-coordinated-iran-hezbollah-missile-drone-strikes-urges-beirut-rein-terrorists</link>
+      <summary>Hezbollah fired 200 missiles and drones into Israel in what Israeli media called an integrated attack with Iran, prompting fierce Israeli Defense Forces strikes.</summary>
+      <pubDate>Thu, 12 Mar 2026 08:31:50 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-attacks-hezbollah-beirut.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Spain permanently pulls ambassador from Israel amid Iran war</title>
       <link>https://www.foxnews.com/world/spain-permanently-pulls-ambassador-from-israel-amid-iran-war</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-sudan-army.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Vietnam urges work from home amid fuel supply, price crunch in Mideast</title>
-      <link>https://www.foxnews.com/world/vietnam-urges-work-from-home-amid-fuel-supply-price-crunch-mideast</link>
-      <summary>Vietnam urges work from home as fuel crisis deepens amid Middle East conflict. Gasoline prices surge 32%, diesel up 56% as supply disruptions hit.</summary>
-      <pubDate>Tue, 10 Mar 2026 07:37:04 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/vietnam-gas-long-line.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
