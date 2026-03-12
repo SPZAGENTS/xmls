@@ -2,13 +2,20 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-12T16:01:16.023076</generated>
+  <generated>2026-03-12T18:01:07.465041</generated>
   <items>
     <item>
       <title>Putin is trying to pitch himself as peacemaker in Iran, but Russia also sees opportunity</title>
       <link>https://www.cbc.ca/news/world/russia-iran-us-oil-9.7124540?cmp=rss</link>
       <summary>The Kremlin wants to exert its influence in the Middle East and has publicly said its support for Iran, a strategic ally, is unwavering. But experts say there are limits to how far Moscow will go: It does not want to antagonize Washington, and it also stands to gain economical...</summary>
       <pubDate>Thu, 12 Mar 2026 04:00:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Israel strikes on Lebanon expand, as Iran's new supreme leader issues 1st statement</title>
+      <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-13-9.7119190?cmp=rss</link>
+      <summary />
+      <pubDate>Sun, 08 Mar 2026 08:18:51 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -23,13 +30,6 @@
       <link>https://www.cbc.ca/news/world/iran-school-strike-preliminary-investigation-9.7124641?cmp=rss</link>
       <summary>A Republican senator says the U.S. must not pretend Iran school strike didn't happen, and admit to the mistake if in fact the U.S. military was responsible for the attack.</summary>
       <pubDate>Wed, 11 Mar 2026 18:22:11 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran tightens grip on Strait of Hormuz, targets Gulf energy sites and ships as conflict escalates</title>
-      <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-13-9.7119190?cmp=rss</link>
-      <summary />
-      <pubDate>Sun, 08 Mar 2026 08:18:51 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -68,11 +68,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>How high will the U.S.-Israel war with Iran push gas prices? | About That</title>
-      <link>https://www.cbc.ca/player/play/9.7123237?cmp=rss</link>
-      <summary>Oil and gas prices are rapidly rising around the world amid the U.S.-Israel war with Iran. Andrew Chang explains what's driving the surge and why predicting the next moves in the oil market is so difficult. CORRECTION (March 11, 2026): At 2:36 in this video, the graphic incorr...</summary>
-      <pubDate>Tue, 10 Mar 2026 19:02:07 EDT</pubDate>
-      <priority>100</priority>
+      <title>Can Trump's 'gunboat diplomacy' stop Iran from blocking the flow of oil? Not likely, say experts</title>
+      <link>https://www.cbc.ca/news/world/strait-of-hormuz-trump-control-9.7125202?cmp=rss</link>
+      <summary>The Strait of Hormuz is only 60 metres at its shallowest and 33 kilometres at its narrowest, with shipping lanes no more than two kilometres wide. Naval experts like Mark Norman, a retired vice-admiral of the Canadian navy, are skeptical the U.S. can re-establish shipping thro...</summary>
+      <pubDate>Thu, 12 Mar 2026 10:26:00 EDT</pubDate>
+      <priority>90</priority>
     </item>
   </items>
 </content-feed>

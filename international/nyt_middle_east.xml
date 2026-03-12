@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-12T16:01:09.314792</generated>
+  <generated>2026-03-12T18:01:01.679443</generated>
   <items>
+    <item>
+      <title>Displaced Lebanese Haunted by Strikes from the Sky</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-displaced-strikes-israel-iran.html</link>
+      <summary>With airstrikes expanding beyond the limits of Beirut’s southern suburbs, people in the city say that even the once-safest corners may no longer be off-limits.</summary>
+      <pubDate>Thu, 12 Mar 2026 15:36:18 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-lebanon-01-qhzj/12israel-iran-lebanon-01-qhzj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Stryker Cyberattack Adds to Fears of New Front in Iran War</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/stryker-iran-cyberattack.html</link>
+      <summary>A hacking group seemed to claim responsibility for the attack on a U.S. manufacturer, calling it retaliation for a strike on an Iranian school.</summary>
+      <pubDate>Thu, 12 Mar 2026 14:56:29 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-stryker-kgql/12israel-iran-stryker-kgql-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran War Causing Largest Ever Oil Disruption, I.E.A. Says</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-oil-iea.html</link>
       <summary>Conflict is forcing producers to slash production and close ports as Iran steps up attacks on energy infrastructure.</summary>
-      <pubDate>Thu, 12 Mar 2026 13:47:35 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 14:11:23 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-IEA-warning-fgtc/12israel-iran-IEA-warning-fgtc-mediumSquareAt3X.jpg</image>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/11/multimedia/11int-iran-leadall-gbjz/11int-iran-leadall-gbjz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Newsom Sees No Imminent Threat After F.B.I. Warning That Iranian Drones Could Attack California</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-california-drones-fbi.html</link>
-      <summary>Just before the war began, the Federal Bureau of Investigation told state officials that Iran might respond with drone attacks on California. No specific, credible threats have been identified.</summary>
-      <pubDate>Wed, 11 Mar 2026 23:17:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/us/11israel-iran-california-drone-threat/11israel-iran-california-drone-threat-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What Happened in the U.S.-Israeli War on Iran on Wednesday</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-war-middle-east-recap.html</link>
-      <summary>Israel and the Iran-backed armed group Hezbollah in Lebanon traded strikes on Wednesday. Three ships were hit near the Strait of Hormuz, a vital oil route.</summary>
-      <pubDate>Wed, 11 Mar 2026 22:56:45 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11israel-iran-front-by-front-qhgw/11israel-iran-front-by-front-qhgw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
