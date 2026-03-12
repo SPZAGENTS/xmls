@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-12T04:01:34.265379</generated>
+  <generated>2026-03-12T06:01:53.930533</generated>
   <items>
     <item>
       <title>'Unprecedented' agreement releases emergency oil reserves as gas prices spark concerns</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/joe-rogan-gesture.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>CNN's Abby Phillip issues on-air correction, says she takes 'full responsibility' for Mamdani flub</title>
+      <link>https://www.foxnews.com/media/cnn-abby-phillip-correction-mamdani-terror-attack</link>
+      <summary>CNN host Abby Phillip issued an on-air correction for falsely claiming that New York City Mayor Zohran Mamdani was the target of Saturday&amp;apos;s terrorist attack.</summary>
+      <pubDate>Wed, 11 Mar 2026 23:46:42 -0500</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/phillip-reid-conservatives.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/brooke-slusser-and-liberate-the-csu-protester-02.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump predicts political future for boxer Jake Paul, offers 'complete and total endorsement' at Kentucky rally</title>
-      <link>https://www.foxnews.com/sports/trump-predicts-political-future-boxer-jake-paul-offers-complete-total-endorsement-kentucky-rally</link>
-      <summary>President Donald Trump introduced Jake Paul at a political rally in Hebron, Kentucky, on Wednesday, predicting the YouTuber turned boxer will one day seek political office.</summary>
-      <pubDate>Wed, 11 Mar 2026 20:57:37 -0500</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jake-paul-donald-trump.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

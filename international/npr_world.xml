@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-12T04:01:44.855746</generated>
+  <generated>2026-03-12T06:02:04.428953</generated>
   <items>
     <item>
       <title>Iran's soccer team cannot participate in the FIFA World Cup, Iranian minister says</title>
@@ -40,13 +40,6 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>ChatGPT might give you bad medical advice, studies warn</title>
-      <link>https://www.npr.org/2026/03/11/nx-s1-5744035/chatgpt-might-give-you-bad-medical-advice-studies-warn</link>
-      <summary>New research finds AI can point people in the wrong direction. And the quality of health information it imparts depends on how well you prompt the tools.</summary>
-      <pubDate>Wed, 11 Mar 2026 11:21:14 -0400</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Rebecca Gayheart Dane on caring for her late husband, Eric Dane, and synthetic voices</title>
       <link>https://www.npr.org/2026/03/11/nx-s1-5742420/rebecca-gayheart-dane-eric-dane</link>
       <summary>The wife of 'Grey's Anatomy' actor Eric Dane says caring for him gave her an "extra dose" of compassion for others.</summary>
@@ -66,6 +59,13 @@
       <summary>Before making her upcoming sixth album, the country star returned to her small-town Texas home and discovered the power of in-between spaces. "I found a lot of clarity there," she says.</summary>
       <pubDate>Wed, 11 Mar 2026 12:03:19 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>The government is investigating new claims that DOGE misused Social Security data</title>
+      <link>https://www.npr.org/2026/03/11/nx-s1-5745153/doge-social-security-data-whistleblower-investigation</link>
+      <summary>The fallout from DOGE staffers' efforts to access sensitive Social Security data continues as an agency watchdog disclosed a new investigation into "potential misuse" reported by a whistleblower.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:53:23 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Chile turns right: Kast inaugurated as nation's most conservative leader since Pinochet</title>

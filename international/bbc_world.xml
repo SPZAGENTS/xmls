@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-12T04:01:33.655483</generated>
+  <generated>2026-03-12T06:01:53.288963</generated>
   <items>
+    <item>
+      <title>Oil hits $100 a barrel despite deal to release record amount of reserves</title>
+      <link>https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.</summary>
+      <pubDate>Thu, 12 Mar 2026 03:04:24 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7f186850-1db8-11f1-9502-59ba76ba5db5.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large</title>
       <link>https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,7 +99,7 @@
       <pubDate>Wed, 11 Mar 2026 23:03:12 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b0/live/12dbb070-1d2c-11f1-8436-5d0a9bb808e5.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eec8/live/52db8a60-1dbd-11f1-ab60-99e4924fa43c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80d/live/273a2e60-1cec-11f1-9b34-c51430981061.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Large WW2 bomb defused after Dresden evacuated</title>
-      <link>https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.</summary>
-      <pubDate>Wed, 11 Mar 2026 15:55:47 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
