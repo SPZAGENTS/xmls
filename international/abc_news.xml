@@ -2,30 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-12T22:01:20.213018</generated>
+  <generated>2026-03-13T00:01:00.280889</generated>
   <items>
-    <item>
-      <title>LIVE: Suspect dead after attack on Michigan synagogue, sources say</title>
-      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 12 Mar 2026 14:30:14 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran live updates: 1st purported message from new supreme leader read on state TV</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
-      <summary>Mojtaba Khamenei was chosen on Sunday to replace his father, Ali Khamenei, the former supreme leader, who was killed on the first day of the U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:06:30 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/motjaba-main_1773319659513_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Zelenskyy says Ukraine awaits White House sign-off on US drone production deal</title>
       <link>https://abcnews.com/International/wireStory/zelenskyy-ukraine-awaits-white-house-sign-off-us-130993358</link>
@@ -38,24 +16,35 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Israel continues to target Beirut in airstrikes</title>
-      <link>https://abcnews.com/International/video/israel-continues-target-beirut-airstrikes-130979610</link>
-      <summary>ABC News' Matt Rivers reports from the scene of an Israeli airstrike in Beirut, Lebanon, where the IDF is executing precision strikes across the country in an effort to destroy Hezbollah strongholds.</summary>
-      <pubDate>Wed, 11 Mar 2026 16:00:47 -0400</pubDate>
-      <priority>100</priority>
+      <title>WATCH: ISIS-inspired teens considered other targets before Gracie Mansion protest</title>
+      <link>https://abcnews.com/US/video/isis-inspired-teens-considered-targets-gracie-mansion-protest-131004745</link>
+      <summary>The two PA teens charged with attempting what authorities described as an ISIS-inspired attack in New York considered other targets before driving into Manhattan with homemade bombs, sources said.</summary>
+      <pubDate>Thu, 12 Mar 2026 16:43:07 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/260311_abc_social_beirut_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260312_abc_social_nyc_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: ISIS-inspired teens considered other targets before Gracie Mansion protest</title>
-      <link>https://abcnews.com/US/video/isis-inspired-teens-considered-targets-gracie-mansion-protest-131004745</link>
-      <summary>The two PA teens charged with attempting what authorities described as an ISIS-inspired attack in New York considered other targets before driving into Manhattan with homemade bombs, sources said.</summary>
-      <pubDate>Thu, 12 Mar 2026 12:02:49 -0400</pubDate>
-      <priority>95</priority>
+      <title>Old Dominion suspected gunman ID'd as ex-Army National Guard member: FBI</title>
+      <link>https://abcnews.com/US/police-respond-active-incident-dominion-university-virginia/story?id=131002472</link>
+      <summary>The school shooting was allegedly committed by a former Army National Guardsman who was convicted of giving material support to ISIS, an FBI official told ABC News.</summary>
+      <pubDate>Thu, 12 Mar 2026 17:57:02 -0400</pubDate>
+      <priority>85</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/260312_abc_social_nyc_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/old-dominion-shooting-ap-jt-260312_1773344426867_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 12 Mar 2026 17:42:14 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +63,7 @@
       <title>Suspect dead after ramming truck into Detroit-area synagogue: Sheriff</title>
       <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
       <summary>A suspect is dead after a shooting and vehicle ramming incident at a synagogue in West Bloomfield, Michigan, law enforcement sources told ABC News.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:42:09 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 16:38:46 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg</image>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260311_abc_social_close_call_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Meteorite fragment crashes through roof of house in Germany</title>
+      <link>https://abcnews.com/International/video/meteorite-fragment-crashes-roof-house-germany-131013884</link>
+      <summary>A meteorite was spotted this past weekend over several European countries. It eventually broke into pieces, with one fragment smashing through the roof of a house in Germany.</summary>
+      <pubDate>Thu, 12 Mar 2026 15:55:33 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260311_abc_social_metorite_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

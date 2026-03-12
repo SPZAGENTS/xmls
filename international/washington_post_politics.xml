@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-12T22:01:15.039214</generated>
+  <generated>2026-03-13T00:00:54.909583</generated>
   <items>
     <item>
       <title>Former NFL players decry White House video mixing big hits, airstrikes</title>
@@ -31,6 +31,13 @@
       <summary>The Ohio and Kentucky stops were meant to promote economic gains, but rising oil prices and Republican dissent over Iran threaten to complicate the message.</summary>
       <pubDate>Wed, 11 Mar 2026 23:32:24 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Pentagon bars press photographers over ‘unflattering’ Hegseth photos</title>
+      <link>https://www.washingtonpost.com/business/2026/03/11/hegseth-press-briefings-photos-iran/</link>
+      <summary>Defense Secretary Pete Hegseth’s staff took issue with photos taken in a rare briefing last week and decided to shut out press photographers from two subsequent news conferences.</summary>
+      <pubDate>Wed, 11 Mar 2026 18:26:05 +0000</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Tracking who Trump is appointing to fill key administration roles</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/12/ai-funding-midterm-elections/</link>
       <summary>Candidates backed by AI companies have found early success — of the 20 candidates in the Texas and North Carolina primaries who received AI funds, only one lost her race.</summary>
       <pubDate>Thu, 12 Mar 2026 09:00:51 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>DHS pick Markwayne Mullin once hired felon who illegally stored guns at work</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/12/dhs-pick-markwayne-mullin-once-hired-felon-who-illegally-stored-guns-work/</link>
-      <summary>Sen. Markwayne Mullin denied knowing about the employee’s criminal record, but the employee says he did. A “cache” of weapons was found at Mullin’s business.</summary>
-      <pubDate>Thu, 12 Mar 2026 09:00:00 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
