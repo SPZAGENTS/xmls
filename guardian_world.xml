@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-13T20:07:12.533606</generated>
+  <generated>2026-03-13T22:05:01.134037</generated>
   <items>
     <item>
       <title>Asia scrambles to confront energy crisis unleashed by Iran war – with no end in sight</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/be3aaa12e6723b4b87f81766e40d81622c438676/1471_0_7857_6286/master/7857.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06ae46e84f77c568a7b0d0289cedac91</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Bolivia arrests alleged drug kingpin accused of putting hit on Paraguayan prosecutor</title>
+      <link>https://www.theguardian.com/world/2026/mar/13/uruguayan-drug-trafficking-suspect-sebastian-marset-arrested-bolivia</link>
+      <summary>Bolivian interior ministry says Sebastián Marset is being extradited to US, where he’s wanted for money launderingSign up for the Breaking News US email to get newsletter alerts in your inboxSebastián Marset, an alleged Uruguayan drug trafficker and one of South America’s most...</summary>
+      <pubDate>Fri, 13 Mar 2026 18:37:31 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/26efbf2967922d41c5ecc57191bb3865c7971f74/410_0_4103_3282/master/4103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f84bf0cbbbfc8d7a76afbf30248a37e</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/bafe6ee30fcd1954e5dd910b112c79fd770295d6/381_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc931b10d6e82d3945ef693619b4f39e</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Halal certifier accused rival of Islamic extremism links – then signed contract to replace them, court hears</title>
-      <link>https://www.theguardian.com/australia-news/2026/mar/14/halal-certifier-ahaa-midfield-meats-contract-victoria-ntwnfb</link>
-      <summary>Accusations were false and primary cause of major meat supplier ‘panicking’ and cancelling contract, Victorian judge finds on balance of probabilitiesGet our breaking news email, free app or daily news podcastA halal certifier wrongly accused a rival of being connected to Isla...</summary>
-      <pubDate>Fri, 13 Mar 2026 14:00:56 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/ebfb28b4ca656b412ca6b0f7e2c137428a193ffc/191_81_2141_1713/master/2141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a9ef9e291e332792147f1cbdf493c64</image>
         <type>image/jpeg</type>
       </media>
     </item>
