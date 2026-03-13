@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-13T02:01:02.041587</generated>
+  <generated>2026-03-13T04:06:30.949053</generated>
   <items>
     <item>
       <title>Zelenskyy says Ukraine awaits White House sign-off on US drone production deal</title>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Carney announces billions for defense and infrastructure in Canada's North</title>
+      <link>https://abcnews.com/International/wireStory/carney-announces-billions-defense-infrastructure-canadas-north-131021685</link>
+      <summary>Canadian Prime Minister Mark Carney says he will spend billions on forward operating locations in the North to assert sovereignty over the increasingly contested region</summary>
+      <pubDate>Thu, 12 Mar 2026 20:11:28 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e4e75a5c1cec98dfbba50c2c25b6cdee_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>New permanent exhibition shows plaster casts of Pompeii victims</title>
       <link>https://abcnews.com/International/wireStory/new-permanent-exhibition-shows-plaster-casts-pompeii-victims-131007572</link>
       <summary>A new permanent exhibition has opened in Pompeii that shows plaster casts of people killed in the Mount Vesuvius eruption, frozen in their final moments</summary>
@@ -56,17 +67,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_494f332602b623c29db9132710def3c9_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Drone strike hits school and medical center in Sudan, killing 17, mostly schoolgirls</title>
-      <link>https://abcnews.com/International/wireStory/drone-strike-hits-school-medical-center-southern-sudan-130969191</link>
-      <summary>An explosive-laden drone blamed on Sudanese paramilitaries has struck a secondary school and a health care center in southern Sudan, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said</summary>
-      <pubDate>Wed, 11 Mar 2026 11:55:02 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
