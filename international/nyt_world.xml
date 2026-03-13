@@ -2,16 +2,38 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-13T10:02:42.476839</generated>
+  <generated>2026-03-13T12:03:27.281106</generated>
   <items>
     <item>
-      <title>U.S. Refueling Plane Crashes in Iraq, Military Says</title>
-      <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>The incident was not a result of hostile or friendly fire, according to U.S. Central Command. President Trump lifted sanctions on Russia to increase the oil supply. American officials say Iran is mining the Strait of Hormuz.</summary>
-      <pubDate>Fri, 13 Mar 2026 08:00:52 +0000</pubDate>
+      <title>Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center</title>
+      <link>https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel</link>
+      <summary>The attacks heightened fears that the war was expanding beyond Hezbollah’s traditional strongholds into parts of Beirut once considered comparatively safe. New strikes were also reported in Iran, Iraq and Israel.</summary>
+      <pubDate>Fri, 13 Mar 2026 10:01:30 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-promo-915pm-zhtv/12israel-iran-promo-915pm-zhtv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-promo-130amest-bqwz/13israel-iran-promo-130amest-bqwz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How the War in Iran Could Help China and Change Asia</title>
+      <link>https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html</link>
+      <summary>American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:00:37 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13int-asia-us-iran-01-jtqc/13int-asia-us-iran-01-jtqc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict</title>
+      <link>https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html</link>
+      <summary>A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:01:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00cambodia-temple-promo-ljfp/00cambodia-temple-promo-ljfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,46 +71,31 @@
       </media>
     </item>
     <item>
-      <title>15 Are Sentenced to Life for Moscow Concert Hall Massacre</title>
-      <link>https://www.nytimes.com/2026/03/12/world/europe/moscow-concert-hall-attack.html</link>
-      <summary>At least 149 people died in the 2024 terror attack outside the Russian capital, for which the Islamic State claimed responsibility.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:40:31 +0000</pubDate>
+      <title>Where Israeli Strikes Are Hitting Beirut</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000010764777/where-israeli-strikes-are-hitting-beirut.html</link>
+      <summary>Our Beirut bureau chief, Christina Goldbaum, shows how Israeli airstrikes have affected Lebanon and its capital. Hundreds of thousands of people have fled areas around Beirut and in a huge swath of southern Lebanon after Israel issued evacuation warnings in its conflict with H...</summary>
+      <pubDate>Fri, 13 Mar 2026 09:02:15 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict</title>
+      <link>https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html</link>
+      <summary>Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.</summary>
+      <pubDate>Fri, 13 Mar 2026 01:32:01 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-russia-attack-sentence-lfpg/12int-russia-attack-sentence-lfpg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12dc-russiasanctions-whjc/12dc-russiasanctions-whjc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Iran’s Retaliatory Strikes Appear to Be Slowing</title>
-      <link>https://www.nytimes.com/2026/03/11/world/middleeast/iran-weapons-missiles-israel-gulf.html</link>
-      <summary>U.S. officials say the country’s weapons have been diminished, slowing its attacks on Gulf nations and Israel. Iran may also be holding some weapons in reserve in case the conflict is prolonged.</summary>
-      <pubDate>Wed, 11 Mar 2026 16:10:53 +0000</pubDate>
-      <priority>100</priority>
+      <title>Drone Strike Has Cyprus, and Europe, on Edge</title>
+      <link>https://www.nytimes.com/2026/03/13/world/middleeast/cyprus-iran-drone-strike.html</link>
+      <summary>Allies have rushed to defend the Mediterranean nation, where the drone hit a British base. Some Cypriots wonder why the bases are still there.</summary>
+      <pubDate>Fri, 13 Mar 2026 09:50:28 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00int-iran-weapons-01-bhtl/00int-iran-weapons-01-bhtl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict</title>
-      <link>https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html</link>
-      <summary>A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:01:17 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00cambodia-temple-promo-ljfp/00cambodia-temple-promo-ljfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How the War in Iran Could Help China and Change Asia</title>
-      <link>https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html</link>
-      <summary>American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:00:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13int-asia-us-iran-01-jtqc/13int-asia-us-iran-01-jtqc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/00int-cyprus-jztl/00int-cyprus-jztl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-energy-01-wqmk/12int-ukraine-energy-01-wqmk-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html</link>
-      <summary>After a prisoner arrived at a hospital with broken ribs and a torn rectum, Israelis were once again at odds over the issue of mistreatment and impunity.</summary>
-      <pubDate>Thu, 12 Mar 2026 19:47:38 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-israel-prisoner-zlgh/12int-israel-prisoner-zlgh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

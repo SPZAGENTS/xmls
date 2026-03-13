@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-13T10:02:40.793824</generated>
+  <generated>2026-03-13T12:03:25.430905</generated>
   <items>
     <item>
       <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
@@ -16,11 +16,15 @@
       </media>
     </item>
     <item>
-      <title>War, Trump and Washington’s Gridlock | Sen. Katie Britt</title>
-      <link>https://www.politico.com/video/2026/03/05/war-trump-and-washingtons-gridlock-sen-katie-britt-1944611</link>
-      <summary />
-      <pubDate>Thu, 05 Mar 2026 23:59:00 EST</pubDate>
-      <priority>90</priority>
+      <title>How a top DC strategist courted Jeffrey Epstein</title>
+      <link>https://www.politico.com/news/2026/03/13/how-a-top-dc-strategist-courted-jeffrey-epstein-00827448</link>
+      <summary>Crisis communications consultant Juleanna Glover corresponded with the late sex offender during a 15-month period shortly before his death in 2019. She says it was all in service of tanking Trump.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:55:00 EST</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static.politico.com/dd/2a/b9abe6bf45438df6891933118d62/main-glover-epstein.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Furious MAGA allies lobby Trump to keep deporting migrants</title>
@@ -43,6 +47,13 @@
         <image>https://static.politico.com/c5/28/e73151364032a796ca5993b6f5ef/trump-39571.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>The nation’s cartoonists on the week in politics</title>
+      <link>https://www.politico.com/gallery/2026/03/13/the-nations-cartoonists-on-the-week-in-politics-00826684</link>
+      <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 EST</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Democrats are trouncing Republicans in state elections since Trump took office</title>
@@ -90,17 +101,6 @@
       <summary>A new poll is offering a state-of-play of the race that was shaken up last week with the abrupt announcement by Republican Rep. Darrell Issa that he would leave office at the end of his term.</summary>
       <pubDate>Tue, 10 Mar 2026 17:39:30 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Unearthed audio appears to contradict Rep. Rob Bresnahan’s stock trading claims</title>
-      <link>https://www.politico.com/news/2026/03/10/unearthed-audio-appears-to-contradict-rep-rob-bresnahans-stock-trading-claims-00819366</link>
-      <summary>Facing questions about his stock trading in a highly competitive House seat, the Pennsylvania Republican told a local radio host he talked with his financial adviser about “what different positions are coming up.”</summary>
-      <pubDate>Tue, 10 Mar 2026 04:56:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/21/62/8772421045ceb11f647d1de507ca/congress-trump-politics-27791.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
