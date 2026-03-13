@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-13T08:10:40.161252</generated>
+  <generated>2026-03-13T10:02:42.476839</generated>
   <items>
     <item>
       <title>U.S. Refueling Plane Crashes in Iraq, Military Says</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
       <summary>The incident was not a result of hostile or friendly fire, according to U.S. Central Command. President Trump lifted sanctions on Russia to increase the oil supply. American officials say Iran is mining the Strait of Hormuz.</summary>
-      <pubDate>Fri, 13 Mar 2026 05:26:42 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 08:00:52 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-promo-915pm-zhtv/12israel-iran-promo-915pm-zhtv-mediumSquareAt3X.jpg</image>
@@ -85,21 +85,10 @@
       <title>How the War in Iran Could Help China and Change Asia</title>
       <link>https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html</link>
       <summary>American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:00:36 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 04:00:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13int-asia-us-iran-01-jtqc/13int-asia-us-iran-01-jtqc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict</title>
-      <link>https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html</link>
-      <summary>Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.</summary>
-      <pubDate>Fri, 13 Mar 2026 01:32:01 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12dc-russiasanctions-whjc/12dc-russiasanctions-whjc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-ukraine-energy-01-wqmk/12int-ukraine-energy-01-wqmk-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html</link>
+      <summary>After a prisoner arrived at a hospital with broken ribs and a torn rectum, Israelis were once again at odds over the issue of mistreatment and impunity.</summary>
+      <pubDate>Thu, 12 Mar 2026 19:47:38 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-israel-prisoner-zlgh/12int-israel-prisoner-zlgh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
