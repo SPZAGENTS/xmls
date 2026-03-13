@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — All Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-13T16:02:39.472862</generated>
+  <title>Ynet All Articles — Complete Feed</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-13T16:04:27.332788</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
-      <title>Turkey hasn’t fought Iran since 1639 — and may not risk that peace now</title>
-      <link>https://www.ynetnews.com/article/hywybogcwg</link>
-      <summary>Despite hopes that war with Iran could improve ties between Jerusalem and Ankara, Israeli officials remain pessimistic; Erdogan condemned antisemitism but continues attacking Israel and has not condemned Iranian missiles</summary>
-      <pubDate>Fri, 13 Mar 2026 04:11:43 +03:00</pubDate>
-      <priority>130</priority>
+      <title>לא רק טילים: כך איראן נלחמת במערב דרך דעת הקהל</title>
+      <link>https://www.ynet.co.il/news/article/h1zipb11511g</link>
+      <description>בתקשורת, באקדמיה וברשתות החברתיות: איראן מנהלת מערכה מתמשכת להשפיע על דעת הקהל במערב נגד ישראל, לפגוע באמון הציבור של המערב במוסדותיו, לייצר פילוג ושיסוע פנימי ולכרסם בלגיטימציה של ממשלות מערביות. אין ברירה אלא להשיב לה מלחמה גם בחזית הזו</description>
+      <pubDate>Fri, 13 Mar 2026 15:47:48 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Official warns Hezbollah fighting in north could continue 'even after war with Iran ends'</title>
-      <link>https://www.ynetnews.com/article/syje2cx911l</link>
-      <summary>As the security cabinet discusses expanding operations in Lebanon, a senior official said Hezbollah planned to fire about 600 rockets in last night’s barrage but launched only around 200; the Washington Post reported Israel rejected a Lebanese ceasefire proposal that included ...</summary>
-      <pubDate>Thu, 12 Mar 2026 23:41:36 +03:00</pubDate>
-      <priority>130</priority>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Massive blow to Iran’s Basij? Israel targets the regime’s ‘informant army’</title>
-      <link>https://www.ynetnews.com/article/hyhscyeq11g</link>
-      <summary>After targeting Iran’s nuclear and missile programs, Israel has intensified strikes in Tehran aimed at the regime’s repression apparatus, including the Basij militia — a force of millions blamed for crushing protests; Israel claims significant damage and hopes it could fuel in...</summary>
-      <pubDate>Thu, 12 Mar 2026 21:12:44 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>Katz threatens to seize Lebanon land if Hezbollah fire persists</title>
-      <link>https://www.ynetnews.com/article/skmljqlqwe</link>
-      <summary>Defense minister says military preparing to expand operations in Lebanon and warns that if Beirut fails to stop Hezbollah attacks on northern Israel, Israeli forces will take territory to restore security</summary>
-      <pubDate>Thu, 12 Mar 2026 14:12:51 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>Iran missiles trigger sirens across greater Jerusalem, all intercepted</title>
-      <link>https://www.ynetnews.com/article/ryghkxg9zx</link>
-      <summary>Air defenses intercept missiles launched toward greater Jerusalem, the Shfela and the Jordan Valley on Thursday morning, with no injuries reported, as emergency teams check reports of a road impact near Har Gilo and interceptor debris in Mamilla</summary>
-      <pubDate>Thu, 12 Mar 2026 09:53:15 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
-      <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
-      <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
-      <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
-      <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
+      <title>החומרים ששומרים על עירנות הטייסים שתוקפים באיראן</title>
+      <link>https://www.ynet.co.il/health/article/yokra14707218</link>
+      <description>הגיחות המרוחקות והבלתי פוסקות לאיראן מתאפשרות לא רק בזכות הסגולות הטבעיות של הטייסים הישראלים. חיל האוויר מספק להם חומרים מעוררים ששומרים על העירנות ומשפרים ביצועים | בכיר בצה"ל חושף לראשונה את המערך המדעי שמאפשר זאת, וכולל גם חיישנים ביומטריים המתריעים כשהגוף מתחיל להיכנע לעי...</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
+      <source>ynet-health</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
       <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
+      <description>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</description>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
-      <priority>125</priority>
+      <source>ynet-culture</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>IDF strikes Tehran during Iran’s 'Quds Day' as crowds chant 'death to Trump'</title>
-      <link>https://www.ynetnews.com/article/hkldfw11qbl</link>
-      <summary>Iranian media showed crowds in Tehran stepping on US and Israeli flags and chanting 'death to Trump' during 'Quds Day,' as smoke rose nearby and Israeli strikes were reported in Tehran, Shiraz and Ahvaz</summary>
-      <pubDate>Fri, 13 Mar 2026 12:33:45 +03:00</pubDate>
-      <priority>125</priority>
+      <title>Bank Hapoalim offers emergency grants to Zarzir residents whose homes were hit by missile</title>
+      <link>https://www.ynetnews.com/article/s14peyz5be</link>
+      <description>Bank Hapoalim will grant 2,000 shekels and emotional support to customers whose homes were damaged in the Iranian missile strike in northern Israel village Zarzir</description>
+      <pubDate>Fri, 13 Mar 2026 14:38:36 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>IDF strikes Hezbollah crossing point as Trump warns: 'Watch what happens today'</title>
-      <link>https://www.ynetnews.com/article/sjb49vzqbe</link>
-      <summary>IDF targets Litani River bridge used by Hezbollah terrorists as missile from Iran intercepted near Eilat; Israel reports expanded strikes on Iranian targets</summary>
-      <pubDate>Fri, 13 Mar 2026 09:37:04 +03:00</pubDate>
-      <priority>125</priority>
+      <title>Hezbollah launches 217 rockets and drones at Israel in rare overnight barrage</title>
+      <link>https://www.ynetnews.com/article/rkkndueq11x</link>
+      <description>Hezbollah launched more than 200 rockets at Israel in the past 24 hours, with 127 crossing into Israeli territory — nearly matching the roughly 300 missiles Iran has fired since the war began</description>
+      <pubDate>Thu, 12 Mar 2026 17:57:25 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>Mojtaba Khamenei in his first message: 'We will avenge the blood of our martyrs'</title>
+      <link>https://www.ynetnews.com/article/rjjuqbg9zg</link>
+      <description>Twelve days after Ayatollah Ali Khamenei was killed in the war’s opening strike, Iran released the first message from his successor, Mojtaba Khamenei, who vowed to continue attacks on the US, Israel and Gulf states while calling for revenge for 'the blood of the martyrs'</description>
+      <pubDate>Thu, 12 Mar 2026 16:08:52 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>110</priority-score>
+    </item>
+    <item>
+      <title>Iranian hackers breach IDF Spokesperson’s Unit officer’s phone, leak contact details</title>
+      <link>https://www.ynetnews.com/article/skoglqzqze</link>
+      <description>Iranian hacker group 'Handala' published contact names and phone numbers from the phone of an IDF Spokesperson’s Unit officer; the IDF says the breach occurred about six months ago and the data was only recently reposted, prompting new security guidelines for personnel</description>
+      <pubDate>Fri, 13 Mar 2026 08:34:40 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
+    </item>
+    <item>
+      <title>US refueling plane crashes in Iraq; second aircraft declares emergency, lands in Israel</title>
+      <link>https://www.ynetnews.com/article/bjgt11q11911g</link>
+      <description>US Central Command says a KC-135 refueling plane carrying six crew members crashed in western Iraq 'not from enemy fire or friendly fire'; a second aircraft involved in the incident declared an emergency and landed at Ben-Gurion Airport</description>
+      <pubDate>Fri, 13 Mar 2026 07:42:49 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
   </items>
 </content-feed>
