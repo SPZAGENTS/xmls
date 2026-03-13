@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-13T18:06:09.285016</generated>
+  <generated>2026-03-13T20:07:07.375620</generated>
   <items>
     <item>
       <title>Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated</title>
@@ -34,6 +34,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209a/live/871e2c60-1e4e-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine and allies fear easing Russian sanctions will prolong war</title>
+      <link>https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Ukraine's president says the US decision "certainly does not help achieve peace".</summary>
+      <pubDate>Fri, 13 Mar 2026 16:12:27 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/899c8480-1eeb-11f1-8cb7-433d6fa8d367.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Michigan synagogue attack was 'hate, plain and simple', says governor</title>
+      <link>https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The FBI says it is investigating the incident as a "targeted act of violence against the Jewish community", but a motive for the crime remains unclear.</summary>
+      <pubDate>Fri, 13 Mar 2026 16:57:30 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ab/live/2db468c0-1ee8-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>'There's no hiding place on a ship': The sailors stranded in the Gulf</title>
-      <link>https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.</summary>
-      <pubDate>Fri, 13 Mar 2026 01:47:54 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran's new supreme leader vows to block Strait of Hormuz in first statement</title>
       <link>https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region.</summary>
@@ -89,17 +100,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/24bf66b0-1e26-11f1-8cc8-6d61f147f0ba.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>French vote tests polarised electorate with right hoping to win control of Paris</title>
-      <link>https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The highest-profile contest is for the mayorship of Paris - which has been under left-wing control for 25 years.</summary>
-      <pubDate>Fri, 13 Mar 2026 00:15:23 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d9/live/de4095d0-1987-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-13T18:06:11.567960</generated>
+  <generated>2026-03-13T20:07:10.598882</generated>
   <items>
+    <item>
+      <title>Cuba acknowledges secret meetings with U.S. as Trump dials up threats</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/13/cuba-us-secret-talks-trump-pressure/</link>
+      <summary>Trump has warned that Cuba is next in line after Venezuela and Iran, saying that the Havana regime is in its “last moments of life.”</summary>
+      <pubDate>Fri, 13 Mar 2026 17:36:31 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>6 dead after U.S. Air Force refueler crashes in Iraq while supporting Iran war</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
       <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
       <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
-      <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
-      <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
-      <pubDate>Wed, 11 Mar 2026 21:11:25 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>
