@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian Middle East — Top 10 Articles</title>
   <source>Guardian Middle East</source>
-  <generated>2026-03-13T06:03:10.767081</generated>
+  <generated>2026-03-13T08:10:41.939611</generated>
   <items>
     <item>
       <title>Tehran diary: dark and bitter, the terror of life under US-Israeli bombardment</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/b15a71bc0546c06492cd5adcc1a1f188e7e45e89/0_0_2805_2244/master/2805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec01ec1b05d80999ef4ebadeecf6c943</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Shock, awe, death, joy and looting: how the Guardian covered the outbreak of the Iraq war – podcast</title>
+      <link>https://www.theguardian.com/news/audio/2026/mar/13/shock-awe-death-joy-and-looting-how-the-guardian-covered-the-outbreak-of-the-iraq-war-podcast</link>
+      <summary>In spring 2003, exuberance at the fall of Saddam was swiftly followed by a descent into deadly chaos. Whether moving independently or embedded with troops, Guardian reporters witnessed the violence on the groundBy Ian Mayes. Read by Karl Queensborough Continue reading...</summary>
+      <pubDate>Fri, 13 Mar 2026 05:00:42 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/2a488ab47db67178dca15e14532674432e272712/202_0_2061_1648/master/2061.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22d85f1d08741a58850a07916253b917</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/9c67078e1d0f6fd5e9f404275486d257d804dc34/931_0_3867_3095/master/3867.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=557d67efc8a24dbf33d4f0169bddea92</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran steps up attack on oil infrastructure in Middle East - video report</title>
-      <link>https://www.theguardian.com/world/video/2026/mar/12/iran-steps-up-attack-on-oil-infrastructure-in-middle-east-video-report</link>
-      <summary>Iran has stepped up attacks on oil and transport facilities in a number of countries including Bahrain, Oman and Iraq. A fire broke out after a drone strike at the port of Salalah in Oman. A fuel tank storage facility at a government facility in Bahrain also went up in flames,...</summary>
-      <pubDate>Thu, 12 Mar 2026 16:35:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/8d4d879d1e0fe3a02c90495f3a9a7fca8fd1f206/0_409_2036_1629/master/2036.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79825ad98b5c3bd1b05bbc7f58ea18dd</image>
         <type>image/jpeg</type>
       </media>
     </item>

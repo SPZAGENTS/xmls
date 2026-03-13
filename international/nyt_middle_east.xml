@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-13T06:03:09.538237</generated>
+  <generated>2026-03-13T08:10:40.700325</generated>
   <items>
+    <item>
+      <title>Surging Energy Costs Put German Industry ‘Really in Danger’</title>
+      <link>https://www.nytimes.com/2026/03/13/business/energy-environment/iran-energy-costs-germany-factories.html</link>
+      <summary>Four years after the Russian invasion of Ukraine sent energy prices soaring, the war in Iran is posing another challenge to efforts to revive European factories.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:00:22 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict</title>
       <link>https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html</link>
@@ -30,7 +37,7 @@
       <title>War in Iran Has India Scrambling to Keep Stoves Lit for Cooking</title>
       <link>https://www.nytimes.com/2026/03/12/business/iran-war-india-cooking-gas.html</link>
       <summary>India relies on huge quantities of cooking gas that is normally shipped from the Persian Gulf.</summary>
-      <pubDate>Fri, 13 Mar 2026 00:00:06 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 05:32:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12biz-india-cooking-gas-vmgc/12biz-india-cooking-gas-vmgc-mediumSquareAt3X.jpg</image>
@@ -52,7 +59,7 @@
       <title>What Is the Strait of Hormuz and Why Is Iran Blocking It?</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/strait-of-hormuz-iran-blockade-explained.html</link>
       <summary>With attacks and threats, Tehran is using the world’s most important transit point for oil and gas as leverage against its enemies.</summary>
-      <pubDate>Fri, 13 Mar 2026 01:38:21 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 01:38:22 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-hormuz-gulf-wtk-new/2026-03-06-mideast-energy-index-mediumSquareAt3X.jpg</image>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-Khamenei-tjgc/12israel-iran-Khamenei-tjgc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Displaced Lebanese Haunted by Strikes from the Sky</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-displaced-strikes-israel-iran.html</link>
-      <summary>With airstrikes expanding beyond the limits of Beirut’s southern suburbs, people in the city say that even the once-safest corners may no longer be off-limits.</summary>
-      <pubDate>Thu, 12 Mar 2026 20:03:49 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-lebanon-01-qhzj/12israel-iran-lebanon-01-qhzj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

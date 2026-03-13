@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-13T06:03:09.018153</generated>
+  <generated>2026-03-13T08:10:40.161252</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says</title>
+      <title>U.S. Refueling Plane Crashes in Iraq, Military Says</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>The incident was not because of hostile fire or friendly fire, U.S. Central Command said. In the Strait of Hormuz, Iran is using smaller boats to lay mines, an American official said. President Trump lifted sanctions on Russia to help with the flow of oil.</summary>
-      <pubDate>Fri, 13 Mar 2026 02:30:19 +0000</pubDate>
+      <summary>The incident was not a result of hostile or friendly fire, according to U.S. Central Command. President Trump lifted sanctions on Russia to increase the oil supply. American officials say Iran is mining the Strait of Hormuz.</summary>
+      <pubDate>Fri, 13 Mar 2026 05:26:42 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-promo-915pm-zhtv/12israel-iran-promo-915pm-zhtv-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict</title>
+      <link>https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html</link>
+      <summary>A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:01:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/11/multimedia/00cambodia-temple-promo-ljfp/00cambodia-temple-promo-ljfp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How the War in Iran Could Help China and Change Asia</title>
+      <link>https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html</link>
+      <summary>American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.</summary>
+      <pubDate>Fri, 13 Mar 2026 04:00:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13int-asia-us-iran-01-jtqc/13int-asia-us-iran-01-jtqc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict</title>
       <link>https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html</link>
       <summary>Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.</summary>
@@ -78,28 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12dc-russiasanctions-whjc/12dc-russiasanctions-whjc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-middle-east-beirut-recap.html</link>
-      <summary>Iran’s new supreme leader delivered a forceful message in his first public statement since succeeding his slain father, as the Israeli military bombarded Tehran and the Lebanese capital with strikes.</summary>
-      <pubDate>Fri, 13 Mar 2026 00:16:22 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-front-by-front-kcqp/12israel-iran-front-by-front-kcqp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. KC-135 Refueling Plane Crashes in Iraq, Military Says</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html</link>
-      <summary>The crash was not because of hostile fire or friendly fire, U.S. Central Command said.</summary>
-      <pubDate>Fri, 13 Mar 2026 01:14:34 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-american-jet-crash-bkvc/12israel-iran-american-jet-crash-bkvc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

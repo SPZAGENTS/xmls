@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-13T06:03:05.264881</generated>
+  <generated>2026-03-13T08:10:36.799320</generated>
   <items>
+    <item>
+      <title>Who is Ayman Mohamad Ghazali? Lebanese-born American accused in Jewish synagogue attack</title>
+      <link>https://www.foxnews.com/us/ayman-mohamad-ghazali-michigan-synagogue-attack</link>
+      <summary>Suspect allegedly rammed vehicle into Michigan synagogue, exchanged gunfire with security before being killed. Multiple injured in West Bloomfield.</summary>
+      <pubDate>Fri, 13 Mar 2026 00:20:08 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/reported-active-shooter-temple-israel-michigan.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Mamdani touts landmark court victory against repeat offender landlord in housing enforcement push</title>
       <link>https://www.foxnews.com/politics/mamdani-touts-landmark-court-victory-against-repeat-offender-landlord-housing-enforcement-push</link>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Long Island teen who vanished after trip to NYC found dead in Brooklyn waters</title>
+      <link>https://www.foxnews.com/us/long-island-teen-found-dead-brooklyn-waters</link>
+      <summary>Long Island teen Thomas Medlin, who reportedly went to meet someone from Roblox, was found dead in Brooklyn waters after vanishing from Manhattan Bridge.</summary>
+      <pubDate>Fri, 13 Mar 2026 00:40:28 -0500</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/thomas-medlin-missing-split2.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>California shootings leave 2 deputies, utility worker injured; suspect also shot: officials</title>
       <link>https://www.foxnews.com/us/california-shooting-leaves-2-deputies-utility-worker-injured-suspect-also-shot-officials</link>
       <summary>Two El Dorado sheriff&amp;apos;s deputies and a Pacific Gas and Electric Co. worker were wounded in California shootings, with the suspect in both incidents also shot.</summary>
@@ -89,28 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/el-dorado-probe-deputies-crew-shot-california-shooting-swat.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Illegal alien's violent tussle with federal officer leads to multiple charges after suspected Biden-era entry</title>
-      <link>https://www.foxnews.com/politics/illegal-aliens-violent-tussle-federal-officer-leads-multiple-charges-after-suspected-biden-era-entry</link>
-      <summary>Lawmakers in the U.S. Senate remain sharply divided over how to proceed with fully funding DHS as the agency&amp;apos;s shutdown neared the 30-day mark.</summary>
-      <pubDate>Thu, 12 Mar 2026 20:10:12 -0500</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/illegal-immigrant-arrest-fox-news-001.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>White House balks at new CBS staffer over Liz Cheney ties</title>
-      <link>https://www.foxnews.com/media/white-house-balks-new-cbs-staffer-over-liz-cheney-ties</link>
-      <summary>The White House was irked by news CBS News hired a top staffer for ex-Republican Rep. Liz Cheney, a staunch critic of President Donald Trump.</summary>
-      <pubDate>Thu, 12 Mar 2026 20:00:34 -0500</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jeremy-adler.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
