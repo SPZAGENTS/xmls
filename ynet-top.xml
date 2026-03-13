@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-13T04:04:13.379653</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-13T04:05:44.440358</generated>
   <items>
     <item>
       <title>At least 33 wounded, two in moderate condition, after projectile hits home in northern Israel</title>
       <link>https://www.ynetnews.com/article/bjunj0x9be</link>
-      <description>The strike hit a residential building in Zarzir near Nazareth after three waves of launches from Iran triggered widespread air raid sirens across northern Israel within about an hour</description>
+      <summary>The strike hit a residential building in Zarzir near Nazareth after three waves of launches from Iran triggered widespread air raid sirens across northern Israel within about an hour</summary>
       <pubDate>Fri, 13 Mar 2026 02:38:39 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Official warns Hezbollah fighting in north could continue 'even after war with Iran ends'</title>
       <link>https://www.ynetnews.com/article/syje2cx911l</link>
-      <description>As the security cabinet discusses expanding operations in Lebanon, a senior official said Hezbollah planned to fire about 600 rockets in last night’s barrage but launched only around 200; the Washington Post reported Israel rejected a Lebanese ceasefire proposal that included ...</description>
+      <summary>As the security cabinet discusses expanding operations in Lebanon, a senior official said Hezbollah planned to fire about 600 rockets in last night’s barrage but launched only around 200; the Washington Post reported Israel rejected a Lebanese ceasefire proposal that included ...</summary>
       <pubDate>Thu, 12 Mar 2026 23:41:36 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Massive blow to Iran’s Basij? Israel targets the regime’s ‘informant army’</title>
       <link>https://www.ynetnews.com/article/hyhscyeq11g</link>
-      <description>After targeting Iran’s nuclear and missile programs, Israel has intensified strikes in Tehran aimed at the regime’s repression apparatus, including the Basij militia — a force of millions blamed for crushing protests; Israel claims significant damage and hopes it could fuel in...</description>
+      <summary>After targeting Iran’s nuclear and missile programs, Israel has intensified strikes in Tehran aimed at the regime’s repression apparatus, including the Basij militia — a force of millions blamed for crushing protests; Israel claims significant damage and hopes it could fuel in...</summary>
       <pubDate>Thu, 12 Mar 2026 21:12:44 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Katz threatens to seize Lebanon land if Hezbollah fire persists</title>
       <link>https://www.ynetnews.com/article/skmljqlqwe</link>
-      <description>Defense minister says military preparing to expand operations in Lebanon and warns that if Beirut fails to stop Hezbollah attacks on northern Israel, Israeli forces will take territory to restore security</description>
+      <summary>Defense minister says military preparing to expand operations in Lebanon and warns that if Beirut fails to stop Hezbollah attacks on northern Israel, Israeli forces will take territory to restore security</summary>
       <pubDate>Thu, 12 Mar 2026 14:12:51 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran missiles trigger sirens across greater Jerusalem, all intercepted</title>
       <link>https://www.ynetnews.com/article/ryghkxg9zx</link>
-      <description>Air defenses intercept missiles launched toward greater Jerusalem, the Shfela and the Jordan Valley on Thursday morning, with no injuries reported, as emergency teams check reports of a road impact near Har Gilo and interceptor debris in Mamilla</description>
+      <summary>Air defenses intercept missiles launched toward greater Jerusalem, the Shfela and the Jordan Valley on Thursday morning, with no injuries reported, as emergency teams check reports of a road impact near Har Gilo and interceptor debris in Mamilla</summary>
       <pubDate>Thu, 12 Mar 2026 09:53:15 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israel says cracks forming in Iran’s military chain of command</title>
       <link>https://www.ynetnews.com/article/bje4x0kqwx</link>
-      <description>After almost two weeks of war, officials say Iran’s forces are showing weaker coordination, lower motivation and sharply reduced launch rates, even as the Israeli Air Force expands strikes on military industries, missile launchers and Basij headquarters</description>
+      <summary>After almost two weeks of war, officials say Iran’s forces are showing weaker coordination, lower motivation and sharply reduced launch rates, even as the Israeli Air Force expands strikes on military industries, missile launchers and Basij headquarters</summary>
       <pubDate>Thu, 12 Mar 2026 07:55:08 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>‘If a nuclear Iran took the Strait of Hormuz, who would control the world’s oil?’</title>
+      <link>https://www.ynetnews.com/article/s1ebxa19zg</link>
+      <summary>Israeli Ambassador to the United States Yechiel Leiter argues the US-Israeli campaign aims to stop Tehran from acquiring nuclear weapons, exporting terrorism and gaining leverage over global energy routes</summary>
+      <pubDate>Thu, 12 Mar 2026 07:41:46 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israel shifts to Gaza-style defense in Lebanon as IDF pushes fight beyond border to protect northern towns</title>
       <link>https://www.ynetnews.com/article/r1ltkny911x</link>
-      <description>Reservists operating inside southern Lebanon say the goal is to keep Hezbollah threats away from Israeli communities by pushing the front line deeper into enemy territory as the military prepares for a prolonged campaign</description>
+      <summary>Reservists operating inside southern Lebanon say the goal is to keep Hezbollah threats away from Israeli communities by pushing the front line deeper into enemy territory as the military prepares for a prolonged campaign</summary>
       <pubDate>Thu, 12 Mar 2026 06:05:12 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>How Israel lost the element of surprise against Hezbollah as war with Iran reshaped the battlefield</title>
       <link>https://www.ynetnews.com/article/bjvwdcjcbg</link>
-      <description>IDF had prepared a surprise strike against Hezbollah leadership and rocket units, but political delays and the war with Iran shifted resources and cost Israel the element of surprise as tensions along the Lebanon border escalate</description>
+      <summary>IDF had prepared a surprise strike against Hezbollah leadership and rocket units, but political delays and the war with Iran shifted resources and cost Israel the element of surprise as tensions along the Lebanon border escalate</summary>
       <pubDate>Thu, 12 Mar 2026 03:36:07 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
-      <title>40 שניות, 40 חיסולים: כך סוכלה הצמרת הביטחונית של איראן</title>
-      <link>https://www.ynet.co.il/news/article/yokra14704831</link>
-      <description>הסיפור שטרם סופר: כך הצליחה ישראל להפתיע את איראן – ולסכל את הצמרת הביטחונית שלה בתוך פחות מדקה &gt; המתקפה תוכננה לשבת בערב – אבל אז התברר שפגישת בכירי המשטר הוקדמה לבוקר, וכל המהלך הוקדם ב-12 שעות &gt; ידיעת הזהב שחמינאי מצוי בביתו הגיעה לאמ"ן רק כמה שעות לפני המראת המטוסים – והמט...</description>
+      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
+      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
+      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>"לא הייתי מוציא פוליסת ביטוח חיים": הבכירים שמובילים את איראן במלחמה</title>
-      <link>https://www.ynet.co.il/news/article/h1xqque5zg</link>
-      <description>לא רק חמינאי הבן: למרות גל החיסולים בימי המלחמה האחרונים, בטהרן עדיין נותרה הנהגה שממשיכה לנהל את המדינה ולהשמיע איומים כלפי ישראל וארה"ב. מהבכיר שאיים על טראמפ ועד מפקד הצבא שהבטיח כי "איראן תגן על כבודה עד טיפת הדם האחרונה"</description>
-      <pubDate>Thu, 12 Mar 2026 22:39:59 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <priority>125</priority>
     </item>
   </items>
 </content-feed>
