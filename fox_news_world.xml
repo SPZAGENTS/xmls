@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-13T16:03:29.115867</generated>
+  <generated>2026-03-13T18:06:10.350737</generated>
   <items>
+    <item>
+      <title>Inside the Israeli drone unit taking on Iran and Hezbollah</title>
+      <link>https://www.foxnews.com/world/inside-israeli-drone-unit-taking-iran-hezbollah</link>
+      <summary>Israel Squadron 200 UAV operations destroyed over half of Iranian missile launchers according to IDF commanders, achieving near complete success in stopping Iranian attacks.</summary>
+      <pubDate>Fri, 13 Mar 2026 11:33:01 -0500</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/idf-heron-drone-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump warns of Iranian 'sleeper cells' as Canada is accused of harboring regime operatives</title>
       <link>https://www.foxnews.com/world/trump-warns-iranian-sleeper-cells-canada-accused-harboring-regime-operatives</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/crude-oil-tanker-oman.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Stranded American in Bahrain recounts surviving reported Iranian strike on high-rise building, pleads for help</title>
-      <link>https://www.foxnews.com/world/stranded-american-bahrain-recounts-surviving-reported-iranian-strike-high-rise-building-pleads-help</link>
-      <summary>An American tourist in Bahrain described a terrifying drone strike on his building as the Iran conflict escalates, leaving thousands of citizens stranded abroad.</summary>
-      <pubDate>Tue, 10 Mar 2026 15:25:28 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/bahrain-buildings-hit.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

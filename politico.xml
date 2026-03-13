@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-13T16:03:29.741066</generated>
+  <generated>2026-03-13T18:06:10.872302</generated>
   <items>
     <item>
       <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
@@ -45,6 +45,17 @@
       <priority>75</priority>
       <media>
         <image>https://static.politico.com/c5/28/e73151364032a796ca5993b6f5ef/trump-39571.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Can Democrats actually flip this red Kentucky district?</title>
+      <link>https://www.politico.com/news/2026/03/13/kentucky-democrats-2026-house-election-00826224</link>
+      <summary>With Mitch McConnell retiring and Andy Barr opting to run for the upper chamber, a rare open House seat is now in play.</summary>
+      <pubDate>Fri, 13 Mar 2026 11:00:00 EST</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static.politico.com/d1/e4/5f1ae4e940a3a27774dab19d4461/election-2018-trump-14702.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -94,13 +105,6 @@
         <image>https://static.politico.com/58/a7/69bed3e94ec5912f6c2f7b245448/clayton-fuller-shawn-harris.png</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Lake Research Partners poll CD 48 March 2026</title>
-      <link>https://www.politico.com/f/?id=0000019c-d9e5-d7a9-adbd-dfffdf0f0000</link>
-      <summary>A new poll is offering a state-of-play of the race that was shaken up last week with the abrupt announcement by Republican Rep. Darrell Issa that he would leave office at the end of his term.</summary>
-      <pubDate>Tue, 10 Mar 2026 17:39:30 EST</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
