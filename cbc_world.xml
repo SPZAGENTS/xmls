@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-13T04:06:32.130249</generated>
+  <generated>2026-03-13T06:03:15.669768</generated>
   <items>
     <item>
       <title>FBI investigating Detroit-area synagogue attack as 'targeted act of violence against the Jewish community'</title>
@@ -30,6 +30,13 @@
       <link>https://www.cbc.ca/news/world/russia-iran-us-oil-9.7124540?cmp=rss</link>
       <summary>The Kremlin wants to exert its influence in the Middle East and has publicly said its support for Iran, a strategic ally, is unwavering. But experts say there are limits to how far Moscow will go: It does not want to antagonize Washington, and it also stands to gain economical...</summary>
       <pubDate>Thu, 12 Mar 2026 04:00:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Iran's new supreme leader vows to keep Strait of Hormuz blocked in war against U.S. and Israel</title>
+      <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-13-9.7119190?cmp=rss</link>
+      <summary />
+      <pubDate>Sun, 08 Mar 2026 08:18:51 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.cbc.ca/news/world/strait-of-hormuz-trump-control-9.7125202?cmp=rss</link>
       <summary />
       <pubDate>Thu, 12 Mar 2026 05:57:50 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>At least 17 killed after drone strikes school in Sudan</title>
-      <link>https://www.cbc.ca/news/world/sudan-white-nile-school-strike-rsf-blamed-9.7124191?cmp=rss</link>
-      <summary>An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health-care centre in southern Sudan Wednesday, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said.</summary>
-      <pubDate>Wed, 11 Mar 2026 12:58:37 EDT</pubDate>
       <priority>90</priority>
     </item>
   </items>
