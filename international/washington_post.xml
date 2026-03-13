@@ -2,20 +2,20 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-13T12:03:25.869792</generated>
+  <generated>2026-03-13T14:06:32.717222</generated>
   <items>
+    <item>
+      <title>4 dead after U.S. Air Force refueler crashes in Iraq while supporting Iran war</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/</link>
+      <summary>The KC-135 tanker, which had a crew of six, was involved in an apparent accident with another KC-135. The other aircraft landed safely, officials said.</summary>
+      <pubDate>Fri, 13 Mar 2026 10:01:15 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Unpopular war makes friendship with Trump a liability for Italy’s Meloni</title>
       <link>https://www.washingtonpost.com/world/2026/03/13/trump-meloni-unpopular-war-europe/</link>
       <summary>The war in Iran, which is deeply unpopular in Europe, has put Trump’s closest European allies, a constellation of conservative and populist leaders, on the defensive.</summary>
       <pubDate>Fri, 13 Mar 2026 08:37:43 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>U.S. Air Force refueler crashes in Iraq while supporting Iran war</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/</link>
-      <summary>Rescue efforts are ongoing, officials said, after the KC-135 tanker was involved in an apparent accident with another KC-135.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:32:21 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -61,17 +61,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>After Iran assault, Russians say U.S. can’t be trusted in Ukraine talks</title>
-      <link>https://www.washingtonpost.com/world/2026/03/11/russia-ukraine-iran-trump-negotiations-trust/</link>
-      <summary>As Washington focuses on its push to topple Iran’s government, delaying talks on Russia’s war in Ukraine, some in Moscow say the Kremlin must achieve its goals militarily.</summary>
-      <pubDate>Wed, 11 Mar 2026 10:00:22 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Ukraine strikes Russian electronics plant that builds missile components</title>
       <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
       <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
       <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>Aid worker killed in drone strike on building used by Congo relief staff</title>
+      <link>https://www.washingtonpost.com/world/2026/03/11/congo-drc-drone-strike-french-aid-worker-unicef/</link>
+      <summary>French aid worker Karine Buisset died in the attack. Two others were also killed, according to rebel group M23. Congo’s government and M23 blamed each other.</summary>
+      <pubDate>Wed, 11 Mar 2026 21:11:25 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>

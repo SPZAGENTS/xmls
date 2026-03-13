@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-13T12:03:27.712716</generated>
+  <generated>2026-03-13T14:06:34.109489</generated>
   <items>
+    <item>
+      <title>Turkey Says NATO Defenses Shot Down a Third Iranian Missile</title>
+      <link>https://www.nytimes.com/2026/03/13/world/middleeast/turkey-nato-iran-missile.html</link>
+      <summary>Turkey did not say where the missile was intercepted. But residents near Incirlik Air Base, which hosts U.S. troops, reported hearing sirens and a loud boom.</summary>
+      <pubDate>Fri, 13 Mar 2026 11:23:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-turkey-missile-vfcm/13israel-iran-turkey-missile-vfcm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Where Israeli Strikes Are Hitting Beirut</title>
       <link>https://www.nytimes.com/video/world/middleeast/100000010764777/where-israeli-strikes-are-hitting-beirut.html</link>
@@ -92,17 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-iran-ledeall-new1-tbkh/12int-iran-ledeall-new1-tbkh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iraq vents anger at strikes on former militias now under government control.</title>
-      <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel/iraq-angered-by-strikes-on-former-militias-now-under-government-control</link>
-      <summary />
-      <pubDate>Thu, 12 Mar 2026 19:36:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-update-kwzv/12israel-iran-update-kwzv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
