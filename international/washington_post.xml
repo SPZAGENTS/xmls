@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-13T20:07:10.598882</generated>
+  <generated>2026-03-13T22:04:59.292498</generated>
   <items>
+    <item>
+      <title>Hegseth vows thorough probe of school strike that Trump blamed on Iran</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/13/hegseth-iran-school-strike/</link>
+      <summary>The announcement appeared to tacitly acknowledge a growing body of evidence that U.S. forces, not Iran, were responsible for the deadly attack.</summary>
+      <pubDate>Fri, 13 Mar 2026 19:02:16 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Cuba acknowledges secret meetings with U.S. as Trump dials up threats</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/13/cuba-us-secret-talks-trump-pressure/</link>
@@ -66,13 +73,6 @@
       <summary>The strike on an Iranian elementary school killed at least 175, many of them children, raising questions as to whether the military’s use of AI-enabled targeting was a factor.</summary>
       <pubDate>Wed, 11 Mar 2026 21:48:20 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Ukraine strikes Russian electronics plant that builds missile components</title>
-      <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
-      <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
-      <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>
