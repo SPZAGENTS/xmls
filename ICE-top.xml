@@ -2,7 +2,7 @@
 <content-feed>
   <title>ICE — Top 10 Articles</title>
   <source>ICE</source>
-  <generated>2026-03-13T16:02:39.481326</generated>
+  <generated>2026-03-13T18:05:23.102158</generated>
   <items>
     <item>
       <title>בשורה משמחת להמוני ישראלים: מענק של 2,000 שקל יועבר לחשבונכם</title>
@@ -12,6 +12,17 @@
       <priority>105</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_497/rsz_615_346_9ice17120204.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>פנינה רוזנבלום מפתיעה: "הוא אשם, אבל הוא לא האשם היחידי"</title>
+      <link>https://www.ice.co.il/financial-gossip/news/article/1106093</link>
+      <summary>אשת העסקים והזמרת פנינה רוזנבלום שהוציאה שיר נוסף על המלחמה, התייחסה למצב הפוליטי בישראל, לביקורת על הממשלה ולשאלת האחריות לאירועי ה-7 באוקטובר, והבהירה כי היא עדיין מעניקה קרדיט לראש הממשלה נתניהו</summary>
+      <pubDate>2026/03/13 17:20:00</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_269/rsz_615_346_פנינה1.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>עידן עופר מושך את הבכיר, ומאות מיליונרים חדשים בישראל</title>
-      <link>https://www.ice.co.il/finance/news/article/1106071</link>
-      <summary>5 מניות עם פוטנציאל צמיחה אדיר, עופר ינאי בצעד בשווי 700 מיליון שקל ואהרון פרנקל משתלט על תמר פטרוליום: אלו היו ידיעות השבוע ב-ice</summary>
-      <pubDate>2026/03/13 12:15:33</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_589/rsz_615_346_110320261055.jpeg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>מנכ"ל רשת 13 חוגג את הבשורה: "השקעה משמעותית בערוץ"</title>
       <link>https://www.ice.co.il/media/news/article/1106090</link>
       <summary>מנכ״ל רשת 13 אמיליאנו קלמזוק בעקבות החתימה עם קבוצת Merit: ההשקעה החדשה צפויה לאפשר את המשך פיתוח התוכן האיכותי, האצת החדשנות והתהליכים הדיגיטליים וחיזוק מעמדה של רשת 13 בשוק המדיה הישראלי</summary>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>ביטוח לאומי יחזיר את הקצבאות אחרי 15 שנה: זו הבשורה שהתקבלה</title>
+      <link>https://www.ice.co.il/law/news/article/1106091</link>
+      <summary>התביעה התקבלה וביטוח לאומי ישלם את הקצבאות באיחור: סדרן בעמדת רב־קו שהותקף ב-2011 ונפגע יפוצה, בנוסף לתגמולי הביטוח הלאומי בסך 414 אלף שקל. האחריות חולקה בין התוקפת לבין חברת האוטובוסים "אגד"</summary>
+      <pubDate>2026/03/13 16:38:39</pubDate>
+      <priority>55</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_513/rsz_615_346_39ice23022025.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>ויקטורי מרסקת מחיר למותג היוקרתי: 699 שקל במקום 1990 אצל המתחרים</title>
       <link>https://www.ice.co.il/consumerism/news/article/1106088</link>
       <summary>מנכ"ל רשת ויקטורי אייל רביד פרסם בפייסבוק מבצע לשואב שוטף מבית Dreame במחיר חריג של 699 שקל בלבד. ברשת ממשיכים לפרסם שורת מבצעים נוספים על מוצרי חשמל ואלקטרוניקה</summary>
@@ -100,17 +111,6 @@
       <priority>55</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_576/rsz_615_346_1ice04122025.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>סיכום המסחר בבורסה: עליות במדדים, נקסט ויז'ן ממשיכה לחגוג</title>
-      <link>https://www.ice.co.il/finance/news/article/1106086</link>
-      <summary>הבורסה לניירות ערך בתל אביב נסגרה עם עליות בשני מדדי הדגל. מדד ת"א 35 רשם עלייה של 0.76% לרמה של 4,177.58 אגורות. מדד ת"א 125 רשם עלייה של 0.55% לרמה של 4,118.09 אגורות</summary>
-      <pubDate>2026/03/13 14:21:00</pubDate>
-      <priority>55</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_584/rsz_615_346_21ice19012026.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

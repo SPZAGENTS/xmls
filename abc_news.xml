@@ -2,27 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-13T14:06:37.600740</generated>
+  <generated>2026-03-13T16:03:37.324613</generated>
   <items>
     <item>
-      <title>LIVE: Pentagon holds briefing on war with Iran: ABC News Live</title>
-      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Fri, 13 Mar 2026 07:54:51 -0400</pubDate>
+      <title>4 dead after US refueling aircraft goes down in western Iraq</title>
+      <link>https://abcnews.com/International/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069</link>
+      <summary>Four U.S. military members have been killed when their refueling aircraft "went down" in friendly airspace in western Iraq, according to U.S. Central Command.</summary>
+      <pubDate>Fri, 13 Mar 2026 09:17:47 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>4 dead after US refueling aircraft goes down in western Iraq</title>
-      <link>https://abcnews.com/US/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069</link>
-      <summary>Four U.S. military members have been killed when their refueling aircraft "went down" in friendly airspace in western Iraq, according to U.S. Central Command.</summary>
-      <pubDate>Fri, 13 Mar 2026 07:56:44 -0400</pubDate>
+      <title>Suspect in Michigan synagogue attack lost family in Israeli strike on Lebanon: Mayor</title>
+      <link>https://abcnews.com/US/suspect-michigan-synagogue-attack-lost-family-israeli-strike/story?id=131031752</link>
+      <summary>Dearborn Heights Mayor Mo Baydoun said Ayman Ghazali, 41, suspect in a Detroit-area synagogue shooting and ramming, lost relatives in an Israeli strike in Lebanon.</summary>
+      <pubDate>Fri, 13 Mar 2026 09:52:37 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/synagogue-attack-michigan_1773402406083_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Synagogue ramming probed as targeted act of violence against Jewish community: FBI</title>
-      <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
-      <summary>A suspect is dead after a shooting and vehicle ramming incident at a synagogue in West Bloomfield, Michigan, law enforcement sources told ABC News.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:20:16 -0400</pubDate>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Fri, 13 Mar 2026 09:50:27 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river</title>
-      <link>https://abcnews.com/Technology/wireStory/us-weather-nuts-blizzard-polar-vortex-heat-dome-131027530</link>
-      <summary>The United States is getting slammed by a stretch of weather extremes, from flooding rain to record heat and late-season snow</summary>
-      <pubDate>Fri, 13 Mar 2026 03:45:28 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Technology/wirestory_55e3baf6877e81ee1961aade3cb361c3_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: David Muir shares moment high school hockey player scores goal sending team to finals</title>
       <link>https://abcnews.com/WNT/video/david-muir-shares-moment-high-school-hockey-player-131020741</link>
       <summary>Nearly a month after his family was killed at his high school hockey game by a former family member, Colin Dorgan scored a double-overtime goal sending his team to the state title game.</summary>
@@ -89,6 +78,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260312_wn_ender_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Golden retriever trio shines bright at sunset</title>
+      <link>https://abcnews.com/GMA/Living/video/golden-retriever-trio-shines-bright-sunset-131031613</link>
+      <summary>A woman was out shopping in Malibu when she stumbled upon three Golden Retriever pups in a truck bed at the peak of golden hour in the Golden State.</summary>
+      <pubDate>Fri, 13 Mar 2026 08:24:35 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260313_gma_play_golden_retrievers_0748_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
