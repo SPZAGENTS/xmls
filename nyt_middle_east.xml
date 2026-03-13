@@ -2,13 +2,20 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-13T10:02:42.935935</generated>
+  <generated>2026-03-13T12:03:27.712716</generated>
   <items>
+    <item>
+      <title>Where Israeli Strikes Are Hitting Beirut</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000010764777/where-israeli-strikes-are-hitting-beirut.html</link>
+      <summary>Our Beirut bureau chief, Christina Goldbaum, shows how Israeli airstrikes have affected Lebanon and its capital. Hundreds of thousands of people have fled areas around Beirut and in a huge swath of southern Lebanon after Israel issued evacuation warnings in its conflict with H...</summary>
+      <pubDate>Fri, 13 Mar 2026 09:02:15 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Surging Energy Costs Put German Industry ‘Really in Danger’</title>
       <link>https://www.nytimes.com/2026/03/13/business/energy-environment/iran-energy-costs-germany-factories.html</link>
       <summary>Four years after the Russian invasion of Ukraine sent energy prices soaring, the war in Iran is posing another challenge to efforts to revive European factories.</summary>
-      <pubDate>Fri, 13 Mar 2026 04:00:22 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 09:32:33 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -30,6 +37,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-front-by-front-kcqp/12israel-iran-front-by-front-kcqp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>4 Killed in Crash of U.S. Refueling Plane in Iraq, Military Says</title>
+      <link>https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html</link>
+      <summary>The crash was not because of hostile or friendly fire, U.S. Central Command said. Four crew members died, it said, bringing the number of U.S. service members killed in the Iran conflict to at least 11.</summary>
+      <pubDate>Fri, 13 Mar 2026 09:55:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-american-jet-crash-bkvc/12israel-iran-american-jet-crash-bkvc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,28 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-update-kwzv/12israel-iran-update-kwzv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Yanar Mohammed, 65, Iraqi Women’s Rights Advocate, Is Killed by Gunmen</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/yanar-mohammed-dead.html</link>
-      <summary>She established a network of safe houses for abused women and was an outspoken critic of her country’s repressive institutions, despite the constant threat of violence.</summary>
-      <pubDate>Thu, 12 Mar 2026 17:01:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/11/multimedia/11Mohammed-03-ltjf/11Mohammed-03-ltjf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mojtaba Khamenei, Iran’s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html</link>
-      <summary>Mojtaba Khamenei struck a defiant tone and signaled that Iran would not back down in a war that has spread across the Middle East.</summary>
-      <pubDate>Thu, 12 Mar 2026 18:26:46 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-Khamenei-tjgc/12israel-iran-Khamenei-tjgc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-13T10:02:46.177212</generated>
+  <generated>2026-03-13T12:03:31.772161</generated>
   <items>
     <item>
       <title>ROTC students subdued and killed Old Dominion University gunman, officials say</title>
       <link>https://abcnews.com/US/police-respond-active-incident-dominion-university-virginia/story?id=131002472</link>
       <summary>The school shooting was allegedly committed by a former Army National Guardsman who was convicted of giving material support to ISIS, an FBI official told ABC News.</summary>
-      <pubDate>Fri, 13 Mar 2026 00:55:46 -0400</pubDate>
+      <pubDate>Fri, 13 Mar 2026 04:21:02 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/old-dominion-shooting-ap-jt-260312_1773344426867_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Zelenskyy says Ukraine awaits White House sign-off on US drone production deal</title>
-      <link>https://abcnews.com/International/wireStory/zelenskyy-ukraine-awaits-white-house-sign-off-us-130993358</link>
-      <summary>Ukrainian President Volodymyr Zelenskyy says he is awaiting White House approval for a major drone production agreement proposed by Kyiv last year</summary>
-      <pubDate>Thu, 12 Mar 2026 07:17:28 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_a0204c7973df02715a3990fcdc666db4_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,7 +30,7 @@
       <title>Synagogue ramming probed as targeted act of violence against Jewish community: FBI</title>
       <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
       <summary>A suspect is dead after a shooting and vehicle ramming incident at a synagogue in West Bloomfield, Michigan, law enforcement sources told ABC News.</summary>
-      <pubDate>Thu, 12 Mar 2026 22:12:00 -0400</pubDate>
+      <pubDate>Fri, 13 Mar 2026 04:20:16 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg</image>
@@ -78,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260312_gma_play_oscars3_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river</title>
+      <link>https://abcnews.com/Technology/wireStory/us-weather-nuts-blizzard-polar-vortex-heat-dome-131027530</link>
+      <summary>The United States is getting slammed by a stretch of weather extremes, from flooding rain to record heat and late-season snow</summary>
+      <pubDate>Fri, 13 Mar 2026 03:45:28 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Technology/wirestory_55e3baf6877e81ee1961aade3cb361c3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
