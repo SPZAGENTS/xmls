@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-13T00:00:58.039473</generated>
+  <generated>2026-03-13T02:00:58.765176</generated>
   <items>
+    <item>
+      <title>FBI opens terrorism investigation after deadly shooting at Virginia university</title>
+      <link>https://www.france24.com/en/americas/20260312-michigan-synagogue-attack-fbi-targeted-jewish-community</link>
+      <summary>The FBI opened a terrorism investigation after a gunman opened fire Thursday at Old Dominion University in Norfolk, Virginia, killing one person and wounding two US Army personnel, officials said. The suspect, previously convicted of aiding terrorists, was subdued by ROTC stud...</summary>
+      <pubDate>Thu, 12 Mar 2026 23:36:18 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/a8fc88e8-1e6e-11f1-b5dd-005056bf30b7/w:1024/p:16x9/AP26071796580722.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Six French soldiers wounded in Iraqi Kurdistan 'drone attack', follow our live coverage</title>
       <link>https://www.france24.com/en/middle-east/20260312-middle-east-war-live-israel-lebanon-iran-gulf</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/435c830c-1e29-11f1-bacb-005056a90284/w:1024/p:16x9/EN-20260312-153821-154008-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Middle East war: Dubai targeted by fresh Iranian drone strikes</title>
-      <link>https://www.france24.com/en/video/20260312-middle-east-war-dubai-targeted-by-fresh-iranian-drone-strikes</link>
-      <summary>#Dubai was among the targets of fresh Iranian drone strikes early on March 12, alongside Kuwait's airport. This comes after #Iran denounced a #UN Security Council resolution that demanded strikes on the #Gulf countries stop. Eleven civilians have died since the start of Irania...</summary>
-      <pubDate>Thu, 12 Mar 2026 16:15:12 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8fe8ae62-1e2e-11f1-87c5-005056bfb2b6/w:1024/p:16x9/Vignette-Dubai.png</image>
         <type>image/jpeg</type>
       </media>
     </item>

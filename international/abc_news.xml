@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-13T00:01:00.280889</generated>
+  <generated>2026-03-13T02:01:00.972467</generated>
   <items>
+    <item>
+      <title>ROTC students subdued and killed Old Dominion University gunman, officials say</title>
+      <link>https://abcnews.com/US/police-respond-active-incident-dominion-university-virginia/story?id=131002472</link>
+      <summary>The school shooting was allegedly committed by a former Army National Guardsman who was convicted of giving material support to ISIS, an FBI official told ABC News.</summary>
+      <pubDate>Thu, 12 Mar 2026 18:35:19 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/old-dominion-shooting-ap-jt-260312_1773344426867_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Zelenskyy says Ukraine awaits White House sign-off on US drone production deal</title>
       <link>https://abcnews.com/International/wireStory/zelenskyy-ukraine-awaits-white-house-sign-off-us-130993358</link>
@@ -19,7 +30,7 @@
       <title>WATCH: ISIS-inspired teens considered other targets before Gracie Mansion protest</title>
       <link>https://abcnews.com/US/video/isis-inspired-teens-considered-targets-gracie-mansion-protest-131004745</link>
       <summary>The two PA teens charged with attempting what authorities described as an ISIS-inspired attack in New York considered other targets before driving into Manhattan with homemade bombs, sources said.</summary>
-      <pubDate>Thu, 12 Mar 2026 16:43:07 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 19:31:53 -0400</pubDate>
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260312_abc_social_nyc_hpMain_4x3_384.jpg</image>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Old Dominion suspected gunman ID'd as ex-Army National Guard member: FBI</title>
-      <link>https://abcnews.com/US/police-respond-active-incident-dominion-university-virginia/story?id=131002472</link>
-      <summary>The school shooting was allegedly committed by a former Army National Guardsman who was convicted of giving material support to ISIS, an FBI official told ABC News.</summary>
-      <pubDate>Thu, 12 Mar 2026 17:57:02 -0400</pubDate>
-      <priority>85</priority>
+      <title>Synagogue ramming probed as targeted act of violence against Jewish community: FBI</title>
+      <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
+      <summary>A suspect is dead after a shooting and vehicle ramming incident at a synagogue in West Bloomfield, Michigan, law enforcement sources told ABC News.</summary>
+      <pubDate>Thu, 12 Mar 2026 19:04:26 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/old-dominion-shooting-ap-jt-260312_1773344426867_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,10 +52,21 @@
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 12 Mar 2026 17:42:14 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 18:33:13 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: How active shooter training helped thwart Michigan synagogue attack</title>
+      <link>https://abcnews.com/US/video/active-shooter-training-helped-thwart-michigan-synagogue-attack-131013879</link>
+      <summary>Retired FBI agent Brad Garrett discusses how an active shooter training in January helped prepare the West Bloomfield, Michigan, synagogue on how to respond to Thursday's vehicle ramming incident.</summary>
+      <pubDate>Thu, 12 Mar 2026 19:31:11 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260312_abcnl_4p_active_shooter_training_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Suspect dead after ramming truck into Detroit-area synagogue: Sheriff</title>
-      <link>https://abcnews.com/US/active-shooter-reported-synagogue-west-bloomfield-michigan-sheriff/story?id=131007066</link>
-      <summary>A suspect is dead after a shooting and vehicle ramming incident at a synagogue in West Bloomfield, Michigan, law enforcement sources told ABC News.</summary>
-      <pubDate>Thu, 12 Mar 2026 16:38:46 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/Temple-Israel-11-gty-gmh-260312_1773342019971_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: No deal in Homeland Security shutdown talks</title>
       <link>https://abcnews.com/Politics/video/deal-homeland-security-shutdown-talks-130993380</link>
       <summary>Travelers looking to escape for spring break are encountering long security lines and more widespread travel problems as the latest partial government shutdown drags on.</summary>
@@ -82,21 +93,10 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Gen Z's nostalgia for the 1990s</title>
-      <link>https://abcnews.com/Nightline/video/gen-zs-nostalgia-1990s-130958311</link>
-      <summary>Nostalgia for the 1990s has found a new following online as Gen Z discovers the aesthetics of John F. Kennedy, Jr. and Carolyn Bessette Kennedy with the release of the FX series "Love Story."</summary>
-      <pubDate>Wed, 11 Mar 2026 05:45:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Nightline/260310_ntl_gen_z_nostalgia1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Pickup truck narrowly avoids children boarding school bus</title>
       <link>https://abcnews.com/US/video/meteorite-fragment-crashes-roof-house-germany-131013402</link>
       <summary>Authorities in Maryland are asking for the public's help identifying the driver of a pickup truck seen in video narrowly missing children getting onto a school bus in Cecil County, Maryland.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:45:32 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 18:47:31 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260311_abc_social_close_call_hpMain_4x3_384.jpg</image>
@@ -107,7 +107,7 @@
       <title>WATCH: Meteorite fragment crashes through roof of house in Germany</title>
       <link>https://abcnews.com/International/video/meteorite-fragment-crashes-roof-house-germany-131013884</link>
       <summary>A meteorite was spotted this past weekend over several European countries. It eventually broke into pieces, with one fragment smashing through the roof of a house in Germany.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:55:33 -0400</pubDate>
+      <pubDate>Thu, 12 Mar 2026 19:35:23 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260311_abc_social_metorite_hpMain_4x3_384.jpg</image>

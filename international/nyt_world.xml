@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-13T00:00:55.523379</generated>
+  <generated>2026-03-13T02:00:56.467871</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Bombs Central Beirut and Tehran</title>
+      <title>Iran War Live Updates: U.S. Officials Say Iran Is Laying Mines in Key Oil Route</title>
       <link>https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel</link>
-      <summary>Israeli airstrikes pounded the Lebanese and Iranian capitals. In Iran, the newly appointed leader vowed his country would avenge “the blood of the martyrs.”</summary>
-      <pubDate>Thu, 12 Mar 2026 21:55:07 +0000</pubDate>
+      <summary>Iran is using smaller boats for the operation in the Strait of Hormuz, an American official said. A U.S. refueling plane crashed in Iraq. And Israeli airstrikes pounded the Lebanese and Iranian capitals.</summary>
+      <pubDate>Thu, 12 Mar 2026 23:57:06 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12israel-iran-promo-530pm-htmw/12israel-iran-promo-530pm-htmw-mediumSquareAt3X.jpg</image>
@@ -74,21 +74,10 @@
       <title>What Is the Strait of Hormuz and Why Is Iran Blocking It?</title>
       <link>https://www.nytimes.com/2026/03/12/world/middleeast/strait-of-hormuz-iran-blockade-explained.html</link>
       <summary>With attacks and threats, Tehran is using the world’s most important transit point for oil and gas as leverage against its enemies.</summary>
-      <pubDate>Thu, 12 Mar 2026 21:41:10 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2026 23:08:01 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-hormuz-gulf-wtk-new/2026-03-06-mideast-energy-index-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>New Iranian Leader Vows to Keep Global Oil Gateway Blocked</title>
-      <link>https://www.nytimes.com/2026/03/12/world/middleeast/iran-oil-war.html</link>
-      <summary>Oil prices surged on Thursday after ships came under attack in the Persian Gulf, and Iran’s supreme leader vowed revenge for U.S. and Israeli airstrikes.</summary>
-      <pubDate>Thu, 12 Mar 2026 21:04:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-iran-ledeall-new1-tbkh/12int-iran-ledeall-new1-tbkh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-israel-prisoner-zlgh/12int-israel-prisoner-zlgh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>With New Right-Wing President, Chile Shifts Toward Region’s Conservative, Pro-Trump Alignment</title>
+      <link>https://www.nytimes.com/2026/03/12/world/americas/chile-kast-conservatism-trump.html</link>
+      <summary>The inauguration of Chile’s new president, José Antonio Kast, is the latest milestone in a broader shift toward conservatism and pro-Trump alignment in the region.</summary>
+      <pubDate>Thu, 12 Mar 2026 22:24:03 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/12/multimedia/12int-chile-right-pzcg/12int-chile-right-pzcg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

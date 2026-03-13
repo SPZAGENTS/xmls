@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-13T00:01:03.194644</generated>
+  <generated>2026-03-13T02:01:03.942983</generated>
   <items>
     <item>
       <title>Fear of Iranian mines in the Strait of Hormuz could further slow the flow of oil</title>
@@ -12,9 +12,9 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Suspect in attack at Michigan synagogue is dead, officials say</title>
+      <title>FBI says its taking over the Michigan synagogue attack investigation</title>
       <link>https://www.npr.org/2026/03/12/nx-s1-5745970/suspect-in-attack-at-michigan-synagogue-is-dead-officials-say</link>
-      <summary>Security officers at Temple Israel had "engaged with the suspect" after a vehicle rammed into the building, according to Oakland County Sheriff Mike Bouchard.</summary>
+      <summary>Security officers at Temple Israel "engaged with the suspect" after a vehicle rammed into the building, according to Oakland County Sheriff Mike Bouchard.</summary>
       <pubDate>Thu, 12 Mar 2026 14:27:18 -0400</pubDate>
       <priority>100</priority>
     </item>
@@ -24,6 +24,13 @@
       <summary>The Pritzker Prize was awarded Thursday. "In every work, he is able to answer with radical originality, making the unobvious obvious," said fellow Chilean architect and prize chair Alejandro Aravena.</summary>
       <pubDate>Thu, 12 Mar 2026 09:44:22 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>NASA targets Artemis II crewed moon mission for April 1 launch</title>
+      <link>https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch</link>
+      <summary>A six-day launch window opens on April 1 from NASA's Kennedy Space Center in Florida. The lunar orbital mission would be the first time humans have returned to the moon since Apollo 17 in 1972.</summary>
+      <pubDate>Thu, 12 Mar 2026 17:33:15 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Bruno Mars adds yet another milestone to his career with 'The Romantic'</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/12/nx-s1-5745008/el-nino-summer-2026-forecast-hot</link>
       <summary>A potentially strong El Niño weather pattern will likely emerge this summer and persist through the rest of the year. The hottest years on record generally occur in years when El Niño is active.</summary>
       <pubDate>Thu, 12 Mar 2026 09:01:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>'Songs from the Hole': The story behind JJ'88's documentary and visual album</title>
-      <link>https://www.npr.org/sections/the-picture-show/2026/03/12/g-s1-113054/jj-88-album-songs-from-the-hole</link>
-      <summary>The visual album and documentary Songs from the Hole tells the story of James Jacobs, the hip-hop artist JJ'88, as he reflects on his coming-of-age within California's state prison system.</summary>
-      <pubDate>Thu, 12 Mar 2026 06:30:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

@@ -2,15 +2,8 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-13T00:01:02.620800</generated>
+  <generated>2026-03-13T02:01:03.303617</generated>
   <items>
-    <item>
-      <title>Suspected attacker dead after vehicle rams into Detroit-area synagogue</title>
-      <link>https://www.cbc.ca/news/world/detroit-synagogue-active-shooter-9.7126056?cmp=rss</link>
-      <summary>Police say a suspected gunman who attacked a Detroit-area synagogue with a vehicle is dead.</summary>
-      <pubDate>Thu, 12 Mar 2026 13:46:12 EDT</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Silence from Ottawa 'shameful' after report of Canadian camp hit by missile: Conservative MP</title>
       <link>https://www.cbc.ca/news/politics/kuwait-attack-canadian-camp-9.7126481?cmp=rss</link>
@@ -30,13 +23,6 @@
       <link>https://www.cbc.ca/news/world/russia-iran-us-oil-9.7124540?cmp=rss</link>
       <summary>The Kremlin wants to exert its influence in the Middle East and has publicly said its support for Iran, a strategic ally, is unwavering. But experts say there are limits to how far Moscow will go: It does not want to antagonize Washington, and it also stands to gain economical...</summary>
       <pubDate>Thu, 12 Mar 2026 04:00:00 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran's new supreme leader defiant in first statement as Israel bombards Lebanon</title>
-      <link>https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-13-9.7119190?cmp=rss</link>
-      <summary />
-      <pubDate>Sun, 08 Mar 2026 08:18:51 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -68,10 +54,24 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>FBI investigating Detroit-area synagogue attack as 'targeted act of violence against the Jewish community'</title>
+      <link>https://www.cbc.ca/news/world/detroit-synagogue-active-shooter-9.7126056?cmp=rss</link>
+      <summary>The FBI says it is investigating Thursday's attack at a Detroit-area synagogue as a "targeted act of violence against the Jewish community," but have not yet been able to identify the attacker or confirm a motive.</summary>
+      <pubDate>Thu, 12 Mar 2026 13:46:12 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Can Trump's 'gunboat diplomacy' stop Iran from blocking the flow of oil? Not likely, say experts</title>
       <link>https://www.cbc.ca/news/world/strait-of-hormuz-trump-control-9.7125202?cmp=rss</link>
       <summary />
       <pubDate>Thu, 12 Mar 2026 05:57:50 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>At least 17 killed after drone strikes school in Sudan</title>
+      <link>https://www.cbc.ca/news/world/sudan-white-nile-school-strike-rsf-blamed-9.7124191?cmp=rss</link>
+      <summary>An explosive-laden drone blamed on Sudanese paramilitaries struck a secondary school and a health-care centre in southern Sudan Wednesday, killing at least 17 people, mostly schoolgirls, a hospital official and a medical group said.</summary>
+      <pubDate>Wed, 11 Mar 2026 12:58:37 EDT</pubDate>
       <priority>90</priority>
     </item>
   </items>

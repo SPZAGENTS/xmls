@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian Middle East — Top 10 Articles</title>
   <source>Guardian Middle East</source>
-  <generated>2026-03-13T00:00:57.268726</generated>
+  <generated>2026-03-13T02:00:58.183194</generated>
   <items>
     <item>
       <title>Tehran diary: dark and bitter, the terror of life under US-Israeli bombardment</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/b15a71bc0546c06492cd5adcc1a1f188e7e45e89/0_0_2805_2244/master/2805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec01ec1b05d80999ef4ebadeecf6c943</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Middle East crisis live: rescue under way after US military refuelling plane crashes in Iraq; top Iranian nuclear scientists killed, Israel says</title>
+      <link>https://www.theguardian.com/world/live/2026/mar/12/iran-war-live-updates-oil-trump-middle-east-crisis-israel-lebanon-iraq-latest-news</link>
+      <summary>US central command says aircraft lost in ‘friendly airspace’ as report says six onboard; Israeli PM Benjamin Netanyahu issues veiled threat to kill new Iranian supreme leaderMiddle East war creating ‘largest supply disruption in history of oil markets’How have you been affecte...</summary>
+      <pubDate>Thu, 12 Mar 2026 23:59:48 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/6669fe6a8e8e202cfffe7da072845fa41e564059/863_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3b7553b9c5b62fb6418ff938034f3c5</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/8d4d879d1e0fe3a02c90495f3a9a7fca8fd1f206/0_409_2036_1629/master/2036.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79825ad98b5c3bd1b05bbc7f58ea18dd</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran vows to fight on in first message issued in name of Mojtaba Khamenei</title>
-      <link>https://www.theguardian.com/world/2026/mar/12/iran-vows-to-fight-on-in-first-message-issued-in-name-of-mojtaba-khamenei</link>
-      <summary>Tehran will keep strait of Hormuz closed and continue attacks on US assets, speech read out on state TV says Middle East crisis – live updatesIran issued its first message in the name of its new supreme leader, Mojtaba Khamenei, on Thursday, saying it would keep the strait of ...</summary>
-      <pubDate>Thu, 12 Mar 2026 16:27:49 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/abcf1e2ec7db173ed73c8e26589154f2b8eb4572/568_210_3225_2581/master/3225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c554e8161f1d75367940facd2b869739</image>
         <type>image/jpeg</type>
       </media>
     </item>
