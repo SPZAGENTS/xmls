@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-13T12:03:23.218817</generated>
+  <generated>2026-03-13T14:06:27.911134</generated>
   <items>
-    <item>
-      <title>Four killed after US refuelling plane crashes in Iraq, military confirms</title>
-      <link>https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq.</summary>
-      <pubDate>Fri, 13 Mar 2026 09:55:20 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>'There's no hiding place on a ship': The sailors stranded near Iran</title>
       <link>https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated</title>
+      <link>https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.</summary>
+      <pubDate>Fri, 13 Mar 2026 10:43:21 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
