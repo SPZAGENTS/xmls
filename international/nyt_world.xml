@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-14T02:04:56.328999</generated>
+  <generated>2026-03-14T04:01:45.326941</generated>
   <items>
     <item>
       <title>Israel-Iran Conflict: Iran War Live Updates: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says</title>
       <link>https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel</link>
       <summary>The strikes on Kharg Island hit military sites, including those storing missiles and mines, a U.S. military official said, adding that economic infrastructure was not targeted. Oil prices have risen by more than 40 percent since the start of the war.</summary>
-      <pubDate>Fri, 13 Mar 2026 23:58:11 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 01:40:54 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-promo-6pm-bjkp/13israel-iran-promo-6pm-bjkp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-promo-9pm-tjcv/13israel-iran-promo-9pm-tjcv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,10 +71,32 @@
       </media>
     </item>
     <item>
+      <title>Trump’s War Alliance With Israel Is Reshaping the Middle East. But It Carries Risks.</title>
+      <link>https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html</link>
+      <summary>President Trump is the first American leader to embrace fighting a full-fledged, joint war with Israel. Washington has tried to avoid that level of coordination in the past.</summary>
+      <pubDate>Sat, 14 Mar 2026 00:11:12 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13DC-PREXY-bkqw/13DC-PREXY-bkqw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Friday</title>
+      <link>https://www.nytimes.com/2026/03/13/world/middleeast/iran-war-middle-east-recap.html</link>
+      <summary>Defense Secretary Pete Hegseth said Friday would be the most intense day of the U.S. air campaign in Iran as a vital oil supply route remained choked off.</summary>
+      <pubDate>Sat, 14 Mar 2026 00:10:45 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-front-by-front-qlct/13israel-iran-front-by-front-qlct-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>U.S. Attacks Iran’s Kharg Island, a Key Port for Oil Exporting, Trump Says</title>
       <link>https://www.nytimes.com/2026/03/13/world/middleeast/kharg-island-iran-oil-trump.html</link>
       <summary>The strikes on Kharg Island targeted Iranian military forces, not economic infrastructure on the island, a U.S. military official said.</summary>
-      <pubDate>Fri, 13 Mar 2026 23:58:09 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 01:22:17 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-Kharg-Island-bptg/13israel-iran-Kharg-Island-bptg-mediumSquareAt3X.jpg</image>
@@ -91,24 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/13int-iran-ledeall/14iran-print-A1-bzkp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>More Marines and Warships Being Sent to Middle East, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html</link>
-      <summary>Iran’s response to days of aerial bombardment and long-range artillery strikes has proved more resilient than Trump administration officials anticipated.</summary>
-      <pubDate>Fri, 13 Mar 2026 20:17:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-more-us-troops-kzgt/13israel-iran-more-us-troops-kzgt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S.-Made Launcher Fired Missiles From Bahrain Toward Iran, Video Shows</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/bahrain-us-missile-strike-iran.html</link>
-      <summary>It is unclear from the video alone whether the U.S. or Bahraini military launched the missiles. Iran has frequently accused Persian Gulf countries of allowing their territory to be used as a launchpad for U.S. attacks.</summary>
-      <pubDate>Fri, 13 Mar 2026 20:46:45 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
