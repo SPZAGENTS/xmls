@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-14T12:01:58.231896</generated>
+  <generated>2026-03-14T14:03:01.114715</generated>
   <items>
     <item>
       <title>Iran live updates: US 'bombing raid' strikes Kharg Island, Trump says</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Sat, 14 Mar 2026 04:24:12 -0400</pubDate>
+      <pubDate>Sat, 14 Mar 2026 06:56:40 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/trump-3-rt-er-260313_1773442374033_hpMain_4x3t_384.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Feds arrest man who allegedly sold gun to Old Dominion shooter</title>
-      <link>https://abcnews.com/US/feds-arrest-man-allegedly-sold-gun-dominion-shooter/story?id=131048707</link>
-      <summary>Authorities have arrested a man accused of unlawfully selling a firearm to man, who authorities said killed an instructor and injured two students at Old Dominion.</summary>
-      <pubDate>Sat, 14 Mar 2026 01:55:38 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/old-dominion-ap-jt-260312_1773351042471_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: A day out in Hollywood with Andy Richter</title>
       <link>https://abcnews.com/GMA/Culture/video/day-hollywood-andy-richter-131034558</link>
       <summary>"GMA" spends a day in Hollywood with Richter ahead of the 2026 Oscars as he prepares to livestream on TikTok while Conan O'Brien hosts the ceremony.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260313_gma_play_golden_retrievers_0748_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: David Muir shares moment high school hockey player scores goal sending team to finals</title>
+      <link>https://abcnews.com/WNT/video/david-muir-shares-moment-high-school-hockey-player-131020741</link>
+      <summary>Nearly a month after his family was killed at his high school hockey game by a former family member, Colin Dorgan scored a double-overtime goal sending his team to the state title game.</summary>
+      <pubDate>Thu, 12 Mar 2026 20:24:48 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260312_wn_ender_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

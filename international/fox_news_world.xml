@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-14T12:01:51.457735</generated>
+  <generated>2026-03-14T14:02:54.577962</generated>
   <items>
+    <item>
+      <title>Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors</title>
+      <link>https://www.foxnews.com/world/iranian-drone-attacks-strain-us-air-defenses-ukraine-pitches-low-cost-interceptors</link>
+      <summary>The rapid spread of low-cost Iranian Shahed drones is forcing the U.S. and its allies to use expensive missile defenses to counter mass attacks.</summary>
+      <pubDate>Sat, 14 Mar 2026 06:00:26 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/wild-hornets-sting-interceptor-drones.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Inside the Israeli drone unit taking on Iran and Hezbollah</title>
       <link>https://www.foxnews.com/world/inside-israeli-drone-unit-taking-iran-hezbollah</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kharg-island-002.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Putin caught executing enormous ‘semi-dark’ ship-to-ship oil transfer in Gulf of Oman</title>
-      <link>https://www.foxnews.com/world/putin-caught-executing-enormous-semi-dark-ship-to-ship-oil-transfer-gulf-oman</link>
-      <summary>Russia&amp;apos;s shadow fleet conducted a $29.3 million oil transfer amid an escalating Middle East conflict, according to maritime intelligence firm Windward.</summary>
-      <pubDate>Tue, 10 Mar 2026 15:59:47 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/crude-oil-tanker-oman.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

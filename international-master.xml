@@ -2,9 +2,20 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-14T12:02:00.468310</generated>
+  <generated>2026-03-14T14:03:03.333024</generated>
   <total_articles>335</total_articles>
   <items>
+    <item>
+      <title>How the Iran war exposed cracks in Trump's Republican coalition</title>
+      <link>https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The president's most dedicated supporters are on his side - but significant numbers of Republicans have serious doubts.</summary>
+      <pubDate>Sat, 14 Mar 2026 00:02:00 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfbc/live/d152aac0-1f95-11f1-9120-a910fc22c6ac.jpg</image>
+      </media>
+    </item>
     <item>
       <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
       <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -14,39 +25,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>How the Iran war exposed cracks in Trump's Republican coalition</title>
-      <link>https://www.bbc.com/news/articles/cev7wn213rvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The president's most dedicated supporters are on his side - but significant numbers of Republicans have serious doubts.</summary>
-      <pubDate>Sat, 14 Mar 2026 00:02:00 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119f/live/155cf8a0-1ee3-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>As hopes of regime change in Iran fade, Netanyahu faces political test</title>
-      <link>https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Israeli leaders are framing the bombing campaign as having transformed the Middle East in their favour as pressure to end the conflict builds.</summary>
-      <pubDate>Fri, 13 Mar 2026 15:35:26 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b0/live/50d502f0-1ee4-11f1-9120-a910fc22c6ac.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>The Papers: Epstein files photo 'bombshell' and 'Iran war spirals'</title>
-      <link>https://www.bbc.com/news/articles/cj4zjk2l8xjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Middle East war and a photo Andrew Mountbatten-Windsor with Jeffrey Epstein and Peter Mandelson dominate Saturday's front pages.</summary>
-      <pubDate>Sat, 14 Mar 2026 05:03:47 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cf/live/f2d7bad0-1f38-11f1-b048-c9424b2cf5fd.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +91,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209a/live/871e2c60-1e4e-11f1-801d-ed3cff6bf876.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'What if we're left with ruins?': Doubts creep in for Iranians who supported war</title>
+      <link>https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.</summary>
+      <pubDate>Thu, 12 Mar 2026 12:49:14 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99e/live/f9e96ec0-1e09-11f1-b2b0-1752c6d93b6f.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israel pounds Beirut suburbs and south Lebanon after Hezbollah rocket barrage</title>
+      <link>https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Some Israeli strikes also hit other parts of the Lebanese capital, with 12 people reportedly killed along the seafront.</summary>
+      <pubDate>Thu, 12 Mar 2026 21:33:16 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/78eafcf0-1e02-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
   </items>
