@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-14T18:11:27.715844</generated>
+  <generated>2026-03-14T20:11:46.328192</generated>
   <items>
+    <item>
+      <title>Lebanon’s Displaced Flee Israeli Strikes One Year Into War</title>
+      <link>https://www.nytimes.com/2026/03/14/world/middleeast/lebanon-beirut-israel-displaced.html</link>
+      <summary>Israeli calls for the evacuation of huge swaths of southern Lebanon have led 830,000 people, about 14 percent of Lebanon’s population, to flee.</summary>
+      <pubDate>Sat, 14 Mar 2026 16:49:24 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/14/multimedia/14israel-iran-lebanon-displaced-01-cfvq/14israel-iran-lebanon-displaced-01-cfvq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Netanyahu Has the War He Always Wanted, but on Trump’s Terms</title>
       <link>https://www.nytimes.com/2026/03/14/world/middleeast/netanyahu-iran-war-trump.html</link>
@@ -48,7 +59,7 @@
       <title>What to Know About Iran’s Kharg Island</title>
       <link>https://www.nytimes.com/2026/03/14/world/middleeast/kharg-island-iran-oil-us-trump.html</link>
       <summary>The Persian Gulf island, targeted by U.S. strikes, is home to Iran’s main oil export terminal. Any disruption could jolt global energy markets.</summary>
-      <pubDate>Sat, 14 Mar 2026 12:36:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 17:56:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13Israel-Iran-Kharg-Island-vtjm/13Israel-Iran-Kharg-Island-vtjm-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/13int-iran-ledeall/14iran-print-A1-bzkp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>More Marines and Warships Being Sent to Middle East, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html</link>
-      <summary>Iran’s response to days of aerial bombardment and long-range artillery strikes has proved more resilient than Trump administration officials anticipated.</summary>
-      <pubDate>Fri, 13 Mar 2026 20:17:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-more-us-troops-kzgt/13israel-iran-more-us-troops-kzgt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

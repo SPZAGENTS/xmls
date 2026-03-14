@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-14T18:11:33.510544</generated>
-  <total_articles>334</total_articles>
+  <generated>2026-03-14T20:11:54.118098</generated>
+  <total_articles>333</total_articles>
   <items>
     <item>
       <title>Hamas urges key ally Iran to halt attacks on Gulf states</title>
@@ -25,17 +25,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfbc/live/d152aac0-1f95-11f1-9120-a910fc22c6ac.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
-      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
-      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99e/live/f9e96ec0-1e09-11f1-b2b0-1752c6d93b6f.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israel pounds Beirut suburbs and south Lebanon after Hezbollah rocket barrage</title>
+      <link>https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Some Israeli strikes also hit other parts of the Lebanese capital, with 12 people reportedly killed along the seafront.</summary>
+      <pubDate>Thu, 12 Mar 2026 21:33:16 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/78eafcf0-1e02-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
   </items>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-14T18:11:23.956019</generated>
+  <generated>2026-03-14T20:11:42.618660</generated>
   <items>
+    <item>
+      <title>Transactional partners: How 200-year distrust shapes Russia’s response to the Iran conflict</title>
+      <link>https://www.foxnews.com/world/transactional-partners-how-200-year-distrust-shapes-russias-response-iran-conflict</link>
+      <summary>From rivalry to military cooperation, the Russia-Iran relationship remains transactional. How Ukraine changed their strategic partnership dynamics.</summary>
+      <pubDate>Sat, 14 Mar 2026 12:00:50 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/931/523/russia-iran-2.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US offers $10M reward for info on Iran’s new supreme leader, top IRGC officials</title>
       <link>https://www.foxnews.com/world/us-offers-10m-reward-info-irans-new-supreme-leader-top-irgc-officials</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-iran-missile-attack.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Top Iranian cybercriminal on FBI most wanted list reportedly killed in US-Israeli strike</title>
-      <link>https://www.foxnews.com/world/top-iranian-cybercriminal-fbi-most-wanted-list-reportedly-killed-us-israeli-strike</link>
-      <summary>A top Iranian hacker wanted by the FBI was allegedly killed in an Israeli strike. Mohammad Mehdi Farhadi Ramin was accused of stealing U.S. identities and sensitive data.</summary>
-      <pubDate>Tue, 10 Mar 2026 18:05:11 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mehdi-farhadi-mehdi-farhadi.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
