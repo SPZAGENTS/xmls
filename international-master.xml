@@ -2,20 +2,9 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-14T08:02:02.096571</generated>
+  <generated>2026-03-14T10:11:33.376006</generated>
   <total_articles>335</total_articles>
   <items>
-    <item>
-      <title>F1 races in Middle East to be cancelled because of war in Iran</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.</summary>
-      <pubDate>Fri, 13 Mar 2026 17:12:12 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg</image>
-      </media>
-    </item>
     <item>
       <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
       <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df7/live/48199650-1c94-11f1-b048-c9424b2cf5fd.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Emirati minister tells BBC Iran must end strikes on Gulf</title>
+      <link>https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The UAE says more than 1,800 drones and missiles have been projected at the country since the war began.</summary>
+      <pubDate>Thu, 12 Mar 2026 20:20:50 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209a/live/871e2c60-1e4e-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
   </items>

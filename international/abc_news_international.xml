@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-14T08:02:00.430802</generated>
+  <generated>2026-03-14T10:11:31.713491</generated>
   <items>
+    <item>
+      <title>War has already displaced nearly a million Lebanese, and aid groups warn of a humanitarian crisis</title>
+      <link>https://abcnews.com/International/wireStory/war-displaced-million-lebanese-aid-groups-warn-humanitarian-131062203</link>
+      <summary>Hundreds of thousands of people in Lebanon have fled their homes since Israel issued mass evacuation orders and ramped up its airstrikes on the militant group Hezbollah</summary>
+      <pubDate>Sat, 14 Mar 2026 03:22:18 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_249cacd33642bb03b0b90f4704e82c49_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Zelenskyy says US 30-day waiver on Russian oil sanctions is 'not the right decision'</title>
       <link>https://abcnews.com/International/wireStory/zelenskyy-us-30-day-waiver-russian-oil-sanctions-131038045</link>
@@ -16,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>Afghanistan accuses Pakistan of targeting homes in airstrikes that kill at least 4 civilians</title>
-      <link>https://abcnews.com/International/wireStory/afghanistan-accuses-pakistan-targeting-homes-airstrikes-kill-4-131028580</link>
-      <summary>Afghanistan&amp;rsquo;s Taliban government has accused Pakistan&amp;rsquo;s military of targeting homes in airstrikes in Kabul and Kandahar province</summary>
-      <pubDate>Fri, 13 Mar 2026 02:41:25 -0400</pubDate>
+      <title>North Korea fires about 10 missiles toward sea in show of force, Seoul says</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-fires-10-missiles-sea-show-force-131061822</link>
+      <summary>North Korea on Saturday has fired about 10 ballistic missiles toward the eastern sea, South Korea&amp;rsquo;s military says, staging its own show of force as the rival South conducts a joint military exercise with the United States</summary>
+      <pubDate>Sat, 14 Mar 2026 03:21:24 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_eb61a70a88f6b44ef114e88064b84136_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_44a03aff91a068f76b6dfd89023dd378_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_d1c8d2469457127feef33b0e107020f9_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Afghanistan accuses Pakistan of airstrikes on homes in Kabul and Kandahar as fighting enters third week</title>
-      <link>https://abcnews.com/International/wireStory/afghanistan-accuses-pakistan-airstrikes-homes-kabul-kandahar-fighting-131028397</link>
-      <summary>Afghanistan accuses Pakistan of airstrikes on homes in Kabul and Kandahar as fighting enters third week</summary>
-      <pubDate>Fri, 13 Mar 2026 02:41:31 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

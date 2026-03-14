@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-14T08:01:51.203804</generated>
+  <generated>2026-03-14T10:11:23.380810</generated>
   <items>
-    <item>
-      <title>F1 races in Middle East to be cancelled because of war in Iran</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.</summary>
-      <pubDate>Fri, 13 Mar 2026 17:12:12 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
       <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -60,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Why do Glasgow's historic buildings keep catching fire?</title>
+      <link>https://www.bbc.com/news/articles/cdxz0enqykgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The fire that devastated a building on Union Street is the latest in a series of blazes to strike the city's historic sites.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:52:47 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/3f5e8430-1eec-11f1-8cb7-433d6fa8d367.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths</title>
       <link>https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.</summary>
@@ -67,6 +67,28 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c670/live/c49e5040-141e-11f1-963a-55716ece1b4d.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Why Kharg Island is a lifeline for Iran</title>
+      <link>https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.</summary>
+      <pubDate>Sat, 14 Mar 2026 01:21:14 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ea/live/befde950-1f42-11f1-9120-a910fc22c6ac.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Hate-watch classic' War of the Worlds sweeps Razzie Awards</title>
+      <link>https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Ice Cube's alien invasion adaptation receives five Razzies, which go to the year's worst movies.</summary>
+      <pubDate>Sat, 14 Mar 2026 04:34:30 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83db/live/08115180-744a-11f0-a975-cb151ca452f4.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b01/live/ce740d30-1ed7-11f1-aedd-0da0e866b1f3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Hate-watch classic' War of the Worlds sweeps Razzie Awards</title>
-      <link>https://www.bbc.com/news/articles/c23zx8pgx28o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Ice Cube's alien invasion adaptation receives five Razzies, which go to the year's worst movies.</summary>
-      <pubDate>Sat, 14 Mar 2026 04:34:30 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83db/live/08115180-744a-11f0-a975-cb151ca452f4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Watch: Why Kharg Island is a lifeline for Iran</title>
-      <link>https://www.bbc.com/news/videos/c4g7ddn9xz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Security Brief's Mikey Kay breaks down why Kharg Island is so strategically important for Tehran.</summary>
-      <pubDate>Sat, 14 Mar 2026 01:21:14 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ea/live/befde950-1f42-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
