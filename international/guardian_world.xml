@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-14T20:11:47.037157</generated>
+  <generated>2026-03-14T22:03:29.580204</generated>
   <items>
     <item>
       <title>Asia scrambles to confront energy crisis unleashed by Iran war – with no end in sight</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/95fbbc27b71ebb5292561848c4f42d3dbe6af174/801_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59394eb744c6a678bc221b48dbf26366</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Australia’s pornography age-verification: a victory for advocates or a gateway to ‘darker corners of the internet’</title>
+      <link>https://www.theguardian.com/australia-news/2026/mar/14/australia-porn-age-verification-user-experience-vpn-dark-web-ntwnfb</link>
+      <summary>As users turn to VPNs to access pornography, experts warn collection of information creates a ‘honeytrap’ for bad actors Get our breaking news email, free app or daily news podcastWhen porn sites began blocking Australians from access, it also meant X began age-checking users ...</summary>
+      <pubDate>Sat, 14 Mar 2026 19:00:05 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/ae5415b46aecfb398b1529a993e91833cb19008b/342_0_4055_3244/master/4055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=166a452c2dd25c9dad6bf2bda0cc3afe</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>NSW emerges as main loser from GST carve-up as WA gets extra $5.5bn</title>
-      <link>https://www.theguardian.com/australia-news/2026/mar/13/nsw-emerges-as-main-loser-from-gst-carve-up-as-wa-gets-extra-55bn</link>
-      <summary>NSW premier says latest distribution calculation, with a reduction in the state’s share of revenue relative to its population, is unfair and ‘past its use-by date’Get our breaking news email, free app or daily news podcastAustralia’s richest state will receive an extra $5.5bn ...</summary>
-      <pubDate>Fri, 13 Mar 2026 08:25:20 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/6203db72db066e9442f5baa144f322c706b55902/786_0_7857_6286/master/7857.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=020464f11289eeef5a3009beb74978a9</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pocock repeats calls for 25% tax on gas exports – as it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/mar/13/iran-war-politics-market-reactions-anthony-albanese-labor-angus-taylor-liberals-matt-canavan-nationals-ntwnfb</link>
-      <summary>This blog is now closedAustralia to release nearly 20% of fuel stockpile as Bowen insists country ‘nowhere near’ running outGet our breaking news email, free app or daily news podcastJoyce says surge in support for One Nation reflects will of the people, not political jostling...</summary>
-      <pubDate>Fri, 13 Mar 2026 07:04:13 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/de91d57826aa52a499b2bbdb0d5eb176af8bf75b/508_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93951160f1c434641e7c5cd84686282d</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts</title>
       <link>https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts</link>
       <summary>Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report findsThe rapid expansion of AI-powered mass-surveillance systems across Africa is violating citizens’ right to privacy and having a chil...</summary>
@@ -100,6 +89,17 @@
       <priority>90</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/bafe6ee30fcd1954e5dd910b112c79fd770295d6/381_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc931b10d6e82d3945ef693619b4f39e</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Queensland arts minister ignored recommendation that new theatre be named after poet Oodgeroo Noonuccal</title>
+      <link>https://www.theguardian.com/australia-news/2026/mar/14/queensland-arts-minister-ignored-recommendation-that-new-theatre-be-named-after-poet-oodgeroo-noonuccal-ntwnfb</link>
+      <summary>Exclusive: Queensland Performing Arts Centre board nominated Oodgeroo as their preferred name for the theatre in 2024, but it was not one of the four options put to public vote by the LNPGet our breaking news email, free app or daily news podcastA Queensland government ministe...</summary>
+      <pubDate>Sat, 14 Mar 2026 19:00:06 GMT</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/61dd50e349361c0197a93bf50a74578ad41204f9/251_0_5327_4261/master/5327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf3f893711924085d497aa21f91d9417</image>
         <type>image/jpeg</type>
       </media>
     </item>
