@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-14T00:06:11.007187</generated>
-  <total_articles>336</total_articles>
+  <generated>2026-03-14T02:05:02.635261</generated>
+  <total_articles>334</total_articles>
   <items>
     <item>
       <title>F1 races in Middle East to be cancelled because of war in Iran</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
+      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209a/live/871e2c60-1e4e-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>'What if we're left with ruins?': Doubts creep in for Iranians who supported war</title>
-      <link>https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos.</summary>
-      <pubDate>Thu, 12 Mar 2026 12:49:14 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99e/live/f9e96ec0-1e09-11f1-b2b0-1752c6d93b6f.jpg</image>
       </media>
     </item>
   </items>

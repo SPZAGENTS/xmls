@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-14T00:06:08.952180</generated>
+  <generated>2026-03-14T02:05:00.326404</generated>
   <items>
     <item>
-      <title>Iran live updates: 2,200 Marines headed to Middle East</title>
+      <title>Iran live updates: US 'bombing raid' strikes Kharg Island, Trump says</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Fri, 13 Mar 2026 16:10:41 -0400</pubDate>
+      <pubDate>Fri, 13 Mar 2026 19:51:36 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/hegseth-3-ht-gmh-260313_1773404075909_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Politics/trump-3-rt-er-260313_1773442374033_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Iranian-American journalists on the sentiment inside Iran as war rages</title>
+      <link>https://abcnews.com/US/video/sentiment-inside-iran-war-rages-131050178</link>
+      <summary>Yeganeh Rezaian and Jason Rezaian discuss life in Iran and how they escaped an Iranian prison after being accused of being spies by the government. The Rezaians now reside in the U.S.</summary>
+      <pubDate>Fri, 13 Mar 2026 18:50:42 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260313_abcnl_3p_rezaian_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Woman ordered released from ICE detention for 3rd time but may remain detained</title>
+      <link>https://abcnews.com/US/palestinian-woman-ordered-released-ice-detention-3rd-time/story?id=131046935</link>
+      <summary>Leqaa Kordia, a Palestinian woman, was ordered released from ICE detention for the third time, but it’s unclear if she’ll be freed.</summary>
+      <pubDate>Fri, 13 Mar 2026 19:44:49 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/Leqaa-Kordia-1-gty-gmh-260313_1773428524224_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -34,6 +56,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Feds arrest man who allegedly sold gun to Old Dominion shooter</title>
+      <link>https://abcnews.com/US/feds-arrest-man-allegedly-sold-gun-dominion-shooter/story?id=131048707</link>
+      <summary>Authorities have arrested a man accused of unlawfully selling a firearm to man, who authorities said killed an instructor and injured two students at Old Dominion.</summary>
+      <pubDate>Fri, 13 Mar 2026 19:43:58 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/old-dominion-ap-jt-260312_1773351042471_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,28 +104,6 @@
       </media>
     </item>
     <item>
-      <title>Cuba, US confirm high-level negotiations after Trump predicts regime's fall</title>
-      <link>https://abcnews.com/Politics/cuba-us-confirm-high-level-negotiationsafter-trump-predicts/story?id=131049007</link>
-      <summary>Cuba’s president has publicly acknowledged that his government was holding secretive talks with the U.S. as President Donald Trump intensifies his pressure campaign.</summary>
-      <pubDate>Fri, 13 Mar 2026 17:30:11 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/cuba-president-gty-jt-260313_1773433267082_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jury finds ex-NY trooper guilty of manslaughter in 2020 chase that killed 11-year-old</title>
-      <link>https://abcnews.com/US/wireStory/jury-finds-ny-trooper-guilty-manslaughter-2020-chase-131046282</link>
-      <summary>A former New York state trooper accused of ramming his vehicle into an SUV during a high-speed chase leading to the death of an 11-year-old girl has been convicted of manslaughter at his second trial</summary>
-      <pubDate>Fri, 13 Mar 2026 14:35:06 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_5aecbaa651c253f248e09d49a3fe9083_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Golden retriever trio shines bright at sunset</title>
       <link>https://abcnews.com/GMA/Living/video/golden-retriever-trio-shines-bright-sunset-131031613</link>
       <summary>A woman was out shopping in Malibu when she stumbled upon three Golden Retriever pups in a truck bed at the peak of golden hour in the Golden State.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260313_gma_play_golden_retrievers_0748_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: David Muir shares moment high school hockey player scores goal sending team to finals</title>
-      <link>https://abcnews.com/WNT/video/david-muir-shares-moment-high-school-hockey-player-131020741</link>
-      <summary>Nearly a month after his family was killed at his high school hockey game by a former family member, Colin Dorgan scored a double-overtime goal sending his team to the state title game.</summary>
-      <pubDate>Thu, 12 Mar 2026 20:24:48 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260312_wn_ender_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

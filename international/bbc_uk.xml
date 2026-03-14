@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-14T00:06:02.442397</generated>
+  <generated>2026-03-14T02:04:51.410925</generated>
   <items>
     <item>
       <title>F1 races in Middle East to be cancelled because of war in Iran</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
+      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Pink Floyd guitar sold for record-breaking $14.6m</title>
+      <link>https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.</summary>
+      <pubDate>Fri, 13 Mar 2026 21:50:22 GMT</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f395/live/d7cb3440-1f1c-11f1-b5ee-ad10117609fa.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>'I don't even think it was his message': Iranians on new supreme leader's first address</title>
       <link>https://www.bbc.com/news/articles/czj1z0enk70o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>People in Iran are questioning who's really in charge after Mojtaba Khamenei's first address came via a presenter on state TV.</summary>
@@ -67,17 +89,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc7/live/4a92b800-1ed6-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Son of British couple jailed in Iran urges global leaders to help free them</title>
-      <link>https://www.bbc.com/news/articles/c6204d300ndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Lindsay and Craig Foreman were detained in January 2025 and later sentenced to 10 years in prison.</summary>
-      <pubDate>Fri, 13 Mar 2026 16:15:43 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7c/live/60262980-1f04-11f1-ba8d-c985cd7dd7c1.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d19/live/24b052a0-1ec2-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why has Trump eased sanctions on Russian oil - and will it help Putin?</title>
-      <link>https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US said easing sanctions on Russian oil would provide only a limited financial boost to Putin.</summary>
-      <pubDate>Fri, 13 Mar 2026 16:07:39 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af02/live/ab211230-1ef8-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

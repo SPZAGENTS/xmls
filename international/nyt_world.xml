@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-14T00:06:06.078054</generated>
+  <generated>2026-03-14T02:04:56.328999</generated>
   <items>
     <item>
-      <title>Israel-Iran Conflict: Iran War Live Updates: Oil Prices Settle at 4-Year High Despite Measures to Ease Pressure on Supply</title>
+      <title>Israel-Iran Conflict: Iran War Live Updates: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says</title>
       <link>https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel</link>
-      <summary>The price settled at more than $103 a barrel, an increase of over 40 percent since the start of the war on Feb. 28. U.S. officials said another 2,500 Marines and as many as three more warships were heading to the Middle East.</summary>
-      <pubDate>Fri, 13 Mar 2026 21:53:11 +0000</pubDate>
+      <summary>The strikes on Kharg Island hit military sites, including those storing missiles and mines, a U.S. military official said, adding that economic infrastructure was not targeted. Oil prices have risen by more than 40 percent since the start of the war.</summary>
+      <pubDate>Fri, 13 Mar 2026 23:58:11 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-promo-6pm-bjkp/13israel-iran-promo-6pm-bjkp-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>U.S. Attacks Iran’s Kharg Island, a Key Port for Oil Exporting, Trump Says</title>
+      <link>https://www.nytimes.com/2026/03/13/world/middleeast/kharg-island-iran-oil-trump.html</link>
+      <summary>The strikes on Kharg Island targeted Iranian military forces, not economic infrastructure on the island, a U.S. military official said.</summary>
+      <pubDate>Fri, 13 Mar 2026 23:58:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-Kharg-Island-bptg/13israel-iran-Kharg-Island-bptg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Vows to Block Iran’s Attempt to Shut Down Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/13/world/middleeast/iran-strait-of-hormuz-us-war.html</link>
+      <summary>Defense Secretary Pete Hegseth said that the disruptions in the Strait of Hormuz were “something we are dealing with.” And about 2,500 Marines were headed to the Middle East to bolster the war effort.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:34:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/14/multimedia/13int-iran-ledeall/14iran-print-A1-bzkp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>More Marines and Warships Being Sent to Middle East, U.S. Officials Say</title>
       <link>https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html</link>
       <summary>Iran’s response to days of aerial bombardment and long-range artillery strikes has proved more resilient than Trump administration officials anticipated.</summary>
@@ -87,28 +109,6 @@
       <summary>It is unclear from the video alone whether the U.S. or Bahraini military launched the missiles. Iran has frequently accused Persian Gulf countries of allowing their territory to be used as a launchpad for U.S. attacks.</summary>
       <pubDate>Fri, 13 Mar 2026 20:46:45 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>U.S. Says, ‘Dealing With’ Shipping Lane but Offers No Timetable</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/iran-strait-of-hormuz-us-war.html</link>
-      <summary>Defense Secretary Pete Hegseth said that the disruptions in the Strait of Hormuz were “something we are dealing with.” And about 2,500 Marines were headed to the Middle East to bolster the war effort.</summary>
-      <pubDate>Fri, 13 Mar 2026 22:00:10 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/14/multimedia/13int-iran-ledeall/14iran-print-A1-bzkp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Drone Strike Has Cyprus, and Europe, on Edge</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/cyprus-iran-drone-strike.html</link>
-      <summary>Allies have rushed to defend the Mediterranean nation, where the drone hit a British base. Some Cypriots wonder why the bases are still there.</summary>
-      <pubDate>Fri, 13 Mar 2026 14:49:40 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/12/multimedia/00int-cyprus-jztl/00int-cyprus-jztl-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
