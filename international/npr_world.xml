@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-14T14:03:03.329783</generated>
+  <generated>2026-03-14T16:11:40.941616</generated>
   <items>
     <item>
       <title>U.S. military bombs Kharg Island, Iran's main oil export hub, Trump says</title>
@@ -12,18 +12,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>These are the casualties and cost of the war in Iran 2 weeks into the conflict</title>
-      <link>https://www.npr.org/2026/03/14/nx-s1-5746623/iran-war-cost-deaths</link>
-      <summary>The war in Iran has already cost the U.S. billions of dollars. Here's the impact by the numbers.</summary>
-      <pubDate>Sat, 14 Mar 2026 03:04:21 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>With boom in prediction markets, some lawmakers worry about how to police themselves</title>
       <link>https://www.npr.org/2026/03/14/nx-s1-5744006/congress-prediction-markets-disclosure-rules</link>
       <summary>House and Senate ethics committees give no financial disclosure guidance on event contracts or prediction markets — unlike stock, cryptocurrency and bond trades.</summary>
       <pubDate>Sat, 14 Mar 2026 06:00:00 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Brazil's ex-President Bolsonaro is in intensive care with pneumonia, hospital says</title>
+      <link>https://www.npr.org/2026/03/14/nx-s1-5747897/brazils-ex-president-bolsonaro-intensive-care-pneumonia</link>
+      <summary>One of Bolsonaro's doctor's described the former Brazilian president's medical condition as "serious."</summary>
+      <pubDate>Sat, 14 Mar 2026 08:24:12 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Why women have an especially tough time in Senegal's prisons</title>
@@ -54,13 +54,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Kennedy Center president departs – months before the art complex's scheduled closing</title>
-      <link>https://www.npr.org/2026/03/13/nx-s1-5747149/grenell-kennedy-center-president</link>
-      <summary>In a post on Truth Social, President Trump announced Friday afternoon that Richard Grenell is leaving the Kennedy Center. The arts complex is scheduled to close in July for renovations.</summary>
-      <pubDate>Fri, 13 Mar 2026 18:17:45 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>House GOP leadership silent as more members post anti-Muslim statements</title>
       <link>https://www.npr.org/2026/03/14/g-s1-113667/republicans-sharia-law-andy-ogles-mike-johnson</link>
       <summary>A growing number of Republicans in Congress are embracing rhetoric against Muslims. Their remarks have faced little public pushback from leadership.</summary>
@@ -68,10 +61,17 @@
       <priority>60</priority>
     </item>
     <item>
-      <title>Class-action lawsuit filed after the Potomac sewage spill</title>
-      <link>https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit</link>
-      <summary>A class-action lawsuit has been filed after part of a decades-old sewer line in Maryland collapsed in January, sending raw sewage into the Potomac River. After weather delays, repair work has resumed.</summary>
-      <pubDate>Fri, 13 Mar 2026 18:25:54 -0400</pubDate>
+      <title>As the risk of measles grows, why are parents so divided on vaccines?</title>
+      <link>https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines</link>
+      <summary>In South Carolina, some parents embrace vaccines, others opt out. Why do people make such different choices? A mix of politics, distrust and misinformation is pushing neighbors apart.</summary>
+      <pubDate>Sat, 14 Mar 2026 08:42:00 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>Opinion: An ancient, sophisticated palate</title>
+      <link>https://www.npr.org/2026/03/14/nx-s1-5741107/opinion-an-ancient-sophisticated-palate</link>
+      <summary>Researchers looking at foodcrusts on the pottery shards of ancient humans say there's evidence of a wide variety of ingredients, indicating that they may have been experimenting with "recipes."</summary>
+      <pubDate>Sat, 14 Mar 2026 08:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
