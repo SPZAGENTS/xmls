@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-14T04:01:41.170244</generated>
+  <generated>2026-03-14T06:01:25.101417</generated>
   <items>
     <item>
       <title>High school senior charged with 'random' murder after 68-year-old woman found dead in Massachusetts home</title>
@@ -49,28 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Nine convicted in North Texas ICE attack as Kash Patel issues warning to those who target federal officers</title>
-      <link>https://www.foxnews.com/politics/nine-convicted-north-texas-ice-attack-kash-patel-issues-warning-target-federal-officers</link>
-      <summary>Mixed verdict delivered in federal trial of nine people accused of 2025 ICE facility attack in Texas, with convictions on terrorism and explosives charges.</summary>
-      <pubDate>Fri, 13 Mar 2026 18:12:42 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/benjamin-song-fbi-wanted.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Formula 1 drops Bahrain, Saudi Arabia races amid escalating Iran war tensions: reports</title>
-      <link>https://www.foxnews.com/sports/formula-1-drops-bahrain-saudi-arabia-races-amid-escalating-iran-war-tensions-reports</link>
-      <summary>The Formula 1 races scheduled for April in Bahrain and Saudi Arabia won’t go on as planned, according to reports. The decision comes amid the ongoing conflict involving Iran.</summary>
-      <pubDate>Fri, 13 Mar 2026 17:13:36 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/f1-jeddah-e-prix.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>GOP lawmakers would strip citizenship from terrorists after attacks tied to naturalized citizens</title>
       <link>https://www.foxnews.com/politics/gop-lawmakers-promise-bill-strip-citizenship-from-terrorists-after-attacks-tied-naturalized-citizens</link>
       <summary>A spate of terror attacks by naturalized U.S. citizens has several Republican lawmakers calling for naturalized citizens to be stripped of their citizenship if they engage in terror.</summary>
@@ -111,6 +89,28 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jason-laura-hughes-georgia-prank.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Travel agencies warn spring break tourists about Mexico safety risks after recent surge of cartel violence</title>
+      <link>https://www.foxnews.com/lifestyle/travel-agencies-warn-spring-break-tourists-about-mexico-safety-risks-after-recent-surge-cartel-violence</link>
+      <summary>Travel agencies advise heightened caution for Mexico trips as cartel conflicts created temporary violence spikes in popular resort regions last month, with safety varying significantly by state.</summary>
+      <pubDate>Fri, 13 Mar 2026 21:59:54 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/aerial-view-of-puerto-vallarta-after-cartel-violence.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Man accused of attacking TSA officers, seriously injuring Dallas cop at airport</title>
+      <link>https://www.foxnews.com/us/man-accused-attacking-tsa-officers-seriously-injuring-dallas-cop-airport</link>
+      <summary>A California man faces 20 years in prison after allegedly assaulting TSA officers and injuring a Dallas police officer at Love Field Airport in a violent incident.</summary>
+      <pubDate>Fri, 13 Mar 2026 21:11:44 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/idress-vinay-solomon-allegedly-punched-tsa-officers-and-dallas-police.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
