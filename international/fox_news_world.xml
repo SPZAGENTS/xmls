@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-14T22:03:25.011512</generated>
+  <generated>2026-03-15T00:01:14.866018</generated>
   <items>
+    <item>
+      <title>Protesters torch Communist Party HQ in Cuba as video appears to capture gunfire</title>
+      <link>https://www.foxnews.com/world/protesters-attack-communist-party-hq-cuba-video-appears-capture-gunfire</link>
+      <summary>Dramatic footage appears to show protester on the ground after alleged gunfire as crowds attack Communist Party building in Cuba, chanting &amp;apos;Freedom!&amp;apos; amid crisis.</summary>
+      <pubDate>Sat, 14 Mar 2026 16:32:33 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/cuba-protests.gif</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Transactional partners: How 200-year distrust shapes Russia’s response to the Iran conflict</title>
       <link>https://www.foxnews.com/world/transactional-partners-how-200-year-distrust-shapes-russias-response-iran-conflict</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/baghdad-diplomatic-support-center-iraq.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hezbollah, Iran unleash coordinated cluster bomb strikes on Israel in major escalation</title>
-      <link>https://www.foxnews.com/world/hezbollah-iran-unleash-coordinated-cluster-bomb-strikes-israel-major-escalation</link>
-      <summary>Hezbollah prepares guerrilla warfare tactics in south Lebanon as Israel launches airstrikes against Beirut strongholds, with expert predicting Israeli ground invasion.</summary>
-      <pubDate>Tue, 10 Mar 2026 21:20:26 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-iran-missile-attack.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

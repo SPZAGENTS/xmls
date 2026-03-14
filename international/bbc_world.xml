@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-14T22:03:23.794531</generated>
+  <generated>2026-03-15T00:01:13.756407</generated>
   <items>
     <item>
       <title>Hamas urges key ally Iran to halt attacks on Gulf states</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d793/live/0c4b6660-1fac-11f1-b048-c9424b2cf5fd.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia exploiting Iran war, Zelensky says after fresh bombardment</title>
+      <link>https://www.bbc.com/news/articles/c0mger2zkmwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Volodymyr Zelensky cast concern over the supply of air-defence missiles after a heavy overnight attack kills at least five.</summary>
+      <pubDate>Sat, 14 Mar 2026 21:50:22 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6553/live/73c89b00-1fe3-11f1-b555-079273b0986e.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated</title>
-      <link>https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.</summary>
-      <pubDate>Fri, 13 Mar 2026 10:43:21 GMT</pubDate>
+      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
+      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +56,6 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf4/live/8a4b88f0-1f8a-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Bahrain &amp; Saudi Arabia Grands Prix to be cancelled</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Bahrain and Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war.</summary>
-      <pubDate>Fri, 13 Mar 2026 17:12:12 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583/live/811badb0-1efd-11f1-ba8d-c985cd7dd7c1.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
