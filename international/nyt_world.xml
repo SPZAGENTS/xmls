@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-14T06:01:29.186913</generated>
+  <generated>2026-03-14T08:01:55.853450</generated>
   <items>
     <item>
-      <title>Israel-Iran Conflict: Iran War Live Updates: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says</title>
+      <title>Israel-Iran Conflict: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says</title>
       <link>https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel</link>
       <summary>The strikes on Kharg Island hit military sites, including those storing missiles and mines, a U.S. military official said, adding that economic infrastructure was not targeted. Oil prices have risen by more than 40 percent since the start of the war.</summary>
-      <pubDate>Sat, 14 Mar 2026 02:28:39 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 05:28:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-promo-9pm-tjcv/13israel-iran-promo-9pm-tjcv-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>What to Know About Iran’s Kharg Island</title>
+      <link>https://www.nytimes.com/2026/03/14/world/middleeast/what-to-know-about-kharg-island.html</link>
+      <summary>The Persian Gulf island, targeted by U.S. strikes, is home to Iran’s main oil export terminal. Any disruption could jolt global energy markets.</summary>
+      <pubDate>Sat, 14 Mar 2026 05:22:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13Israel-Iran-Kharg-Island-vtjm/13Israel-Iran-Kharg-Island-vtjm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump’s War Alliance With Israel Is Reshaping the Middle East. But It Carries Risks.</title>
       <link>https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html</link>
       <summary>President Trump is the first American leader to embrace fighting a full-fledged, joint war with Israel. Washington has tried to avoid that level of coordination in the past.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/13/multimedia/13israel-iran-Kharg-Island-bptg/13israel-iran-Kharg-Island-bptg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Vows to Block Iran’s Attempt to Shut Down Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/13/world/middleeast/iran-strait-of-hormuz-us-war.html</link>
-      <summary>Defense Secretary Pete Hegseth said that the disruptions in the Strait of Hormuz were “something we are dealing with.” And about 2,500 Marines were headed to the Middle East to bolster the war effort.</summary>
-      <pubDate>Fri, 13 Mar 2026 22:34:10 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/14/multimedia/13int-iran-ledeall/14iran-print-A1-bzkp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
