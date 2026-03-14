@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-14T00:04:57.504536</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-14T02:03:41.059942</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>Iran fires cluster missile as barrages spark fires and damage in central Israel</title>
       <link>https://www.ynetnews.com/article/h1jimcbqwg</link>
-      <summary>Cluster missiles fired again at central Israel; fire breaks out in Shoham as eight impact sites reported in Rishon Lezion, where a bomblet hit a street and set areas ablaze; earlier fire reported at Holon horse ranch, no injuries reported; IDF says more than 350 terrorists kil...</summary>
+      <description>Cluster missiles fired again at central Israel; fire breaks out in Shoham as eight impact sites reported in Rishon Lezion, where a bomblet hit a street and set areas ablaze; earlier fire reported at Holon horse ranch, no injuries reported; IDF says more than 350 terrorists kil...</description>
       <pubDate>Fri, 13 Mar 2026 21:40:02 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Turkey hasn’t fought Iran since 1639 — and may not risk that peace now</title>
       <link>https://www.ynetnews.com/article/hywybogcwg</link>
-      <summary>Despite hopes that war with Iran could improve ties between Jerusalem and Ankara, Israeli officials remain pessimistic; Erdogan condemned antisemitism but continues attacking Israel and has not condemned Iranian missiles</summary>
+      <description>Despite hopes that war with Iran could improve ties between Jerusalem and Ankara, Israeli officials remain pessimistic; Erdogan condemned antisemitism but continues attacking Israel and has not condemned Iranian missiles</description>
       <pubDate>Fri, 13 Mar 2026 04:11:43 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Official warns Hezbollah fighting in north could continue 'even after war with Iran ends'</title>
       <link>https://www.ynetnews.com/article/syje2cx911l</link>
-      <summary>As the security cabinet discusses expanding operations in Lebanon, a senior official said Hezbollah planned to fire about 600 rockets in last night’s barrage but launched only around 200; the Washington Post reported Israel rejected a Lebanese ceasefire proposal that included ...</summary>
+      <description>As the security cabinet discusses expanding operations in Lebanon, a senior official said Hezbollah planned to fire about 600 rockets in last night’s barrage but launched only around 200; the Washington Post reported Israel rejected a Lebanese ceasefire proposal that included ...</description>
       <pubDate>Thu, 12 Mar 2026 23:41:36 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Massive blow to Iran’s Basij? Israel targets the regime’s ‘informant army’</title>
       <link>https://www.ynetnews.com/article/hyhscyeq11g</link>
-      <summary>After targeting Iran’s nuclear and missile programs, Israel has intensified strikes in Tehran aimed at the regime’s repression apparatus, including the Basij militia — a force of millions blamed for crushing protests; Israel claims significant damage and hopes it could fuel in...</summary>
+      <description>After targeting Iran’s nuclear and missile programs, Israel has intensified strikes in Tehran aimed at the regime’s repression apparatus, including the Basij militia — a force of millions blamed for crushing protests; Israel claims significant damage and hopes it could fuel in...</description>
       <pubDate>Thu, 12 Mar 2026 21:12:44 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
       <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
+      <description>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</description>
       <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
-      <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
-      <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
-      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
-      <priority>125</priority>
+      <source>ynet-opinions</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>IDF strikes Tehran during Iran’s 'Quds Day' as crowds chant 'death to Trump'</title>
       <link>https://www.ynetnews.com/article/hkldfw11qbl</link>
-      <summary>Iranian media showed crowds in Tehran stepping on US and Israeli flags and chanting 'death to Trump' during 'Quds Day,' as smoke rose nearby and Israeli strikes were reported in Tehran, Shiraz and Ahvaz</summary>
+      <description>Iranian media showed crowds in Tehran stepping on US and Israeli flags and chanting 'death to Trump' during 'Quds Day,' as smoke rose nearby and Israeli strikes were reported in Tehran, Shiraz and Ahvaz</description>
       <pubDate>Fri, 13 Mar 2026 12:33:45 +03:00</pubDate>
-      <priority>125</priority>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>IDF strikes Hezbollah crossing point as Trump warns: 'Watch what happens today'</title>
       <link>https://www.ynetnews.com/article/sjb49vzqbe</link>
-      <summary>IDF targets Litani River bridge used by Hezbollah terrorists as missile from Iran intercepted near Eilat; Israel reports expanded strikes on Iranian targets</summary>
+      <description>IDF targets Litani River bridge used by Hezbollah terrorists as missile from Iran intercepted near Eilat; Israel reports expanded strikes on Iranian targets</description>
       <pubDate>Fri, 13 Mar 2026 09:37:04 +03:00</pubDate>
-      <priority>125</priority>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>לא מתפרקים, לא מתפוררים</title>
       <link>https://www.ynet.co.il/news/article/yokra14707609</link>
-      <summary>בחלוף כמעט שבועיים של מלחמה בין ישראל לאיראן וחיזבאללה, מתברר כי מזכ"ל חיזבאללה נעים קאסם מצליח להיות מקבל ההחלטות הבכיר ביותר ולשמר שרשרת מסודרת יחסית של פיקוד ושליטה</summary>
+      <description>בחלוף כמעט שבועיים של מלחמה בין ישראל לאיראן וחיזבאללה, מתברר כי מזכ"ל חיזבאללה נעים קאסם מצליח להיות מקבל ההחלטות הבכיר ביותר ולשמר שרשרת מסודרת יחסית של פיקוד ושליטה</description>
       <pubDate>Fri, 13 Mar 2026 22:19:01 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>זו חייבת להיות המלחמה האחרונה</title>
+      <link>https://www.ynet.co.il/news/article/yokra14707965</link>
+      <description>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</description>
+      <pubDate>Fri, 13 Mar 2026 22:16:35 +0200</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>זו חייבת להיות המלחמה האחרונה</title>
+      <link>https://www.ynet.co.il/news/article/yokra14707965</link>
+      <description>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</description>
+      <pubDate>Fri, 13 Mar 2026 22:16:35 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
