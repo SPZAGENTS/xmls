@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-14T10:11:24.826786</generated>
+  <generated>2026-03-14T12:01:50.905264</generated>
   <items>
+    <item>
+      <title>Video allegedly shows Michigan synagogue attacker buying $2K in fireworks days before truck rampage</title>
+      <link>https://www.foxnews.com/us/video-allegedly-shows-michigan-synagogue-attacker-buying-2k-fireworks-days-before-truck-rampage</link>
+      <summary>Ayman Mohamad Ghazali allegedly purchased $2,250 worth of fireworks before ramming a truck into Temple Israel synagogue in West Bloomfield, Michigan.</summary>
+      <pubDate>Sat, 14 Mar 2026 05:36:12 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ayman-mohamad-ghazali-purchasing-fireworks.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>High school senior charged with 'random' murder after 68-year-old woman found dead in Massachusetts home</title>
       <link>https://www.foxnews.com/us/high-school-senior-charged-random-murder-68-year-old-woman-found-dead-massachusetts-home</link>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/trump-listens-press-conference.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Dem senators in the hot seat as Republicans rip their DHS vote amid terror threats: 'Under attack'</title>
-      <link>https://www.foxnews.com/politics/dem-senators-hot-seat-republicans-rip-dhs-vote-terror-threats-under-attack</link>
-      <summary>Democrats content that Republicans rejected an offer from Sen. Schiff&amp;apos;s to spare disaster response agency from an ongoing government shutdown on Thursday.</summary>
-      <pubDate>Fri, 13 Mar 2026 18:13:23 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/sen-adam-schiff-october-2025.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Charges dropped against teens after teacher dies in senior prank incident outside his home</title>
-      <link>https://www.foxnews.com/us/charges-dropped-against-teens-after-teacher-dies-senior-prank-incident-outside-his-home</link>
-      <summary>Charges were dropped against teens involved in a teacher&amp;apos;s death during a toilet paper prank. The family of the victim chose forgiveness over prosecution in the heartbreaking case.</summary>
-      <pubDate>Fri, 13 Mar 2026 18:13:09 -0500</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jason-laura-hughes-georgia-prank.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Travel agencies warn spring break tourists about Mexico safety risks after recent surge of cartel violence</title>
       <link>https://www.foxnews.com/lifestyle/travel-agencies-warn-spring-break-tourists-about-mexico-safety-risks-after-recent-surge-cartel-violence</link>
       <summary>Travel agencies advise heightened caution for Mexico trips as cartel conflicts created temporary violence spikes in popular resort regions last month, with safety varying significantly by state.</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/idress-vinay-solomon-allegedly-punched-tsa-officers-and-dallas-police.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump welcomes PRCA, WPRA champions at White House in return of rodeo tradition</title>
+      <link>https://www.foxnews.com/sports/trump-welcomes-prca-wpra-champions-white-house-return-rodeo-tradition</link>
+      <summary>Rodeo buckle winners visited the White House for the first time in more than four decades when President Donald Trump hosted PRCA and WPRA world champions.</summary>
+      <pubDate>Fri, 13 Mar 2026 19:51:06 -0500</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/professional-rodeo-cowboys-association.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

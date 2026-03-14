@@ -2,8 +2,22 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-14T10:11:26.559092</generated>
+  <generated>2026-03-14T12:01:52.788185</generated>
   <items>
+    <item>
+      <title>Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’</title>
+      <link>https://www.washingtonpost.com/world/2026/03/14/iranians-dubai-war-fear-relatives/</link>
+      <summary>Some Iranians living in Dubai say their families celebrated the death of the supreme leader, Ayatollah Ali Khamenei, but the war could leave Iran in a worse situation than before.</summary>
+      <pubDate>Sat, 14 Mar 2026 09:00:40 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>For Russia, Trump’s sanctions pause means more money to fight Ukraine</title>
+      <link>https://www.washingtonpost.com/world/2026/03/14/russia-oil-sanction-iran-war-trump/</link>
+      <summary>The Kremlin hopes the Trump administration’s move to contain oil prices sent soaring by the U.S.-Israeli war on Iran will lead to further relief.</summary>
+      <pubDate>Sat, 14 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump says U.S. bombed Kharg Island, striking core of Iran’s oil economy</title>
       <link>https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/</link>
@@ -59,13 +73,6 @@
       <summary>The incident, in a laundry room on the USS Gerald R. Ford, is another setback during the ship’s extended deployment.</summary>
       <pubDate>Thu, 12 Mar 2026 16:04:35 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Ukraine strikes Russian electronics plant that builds missile components</title>
-      <link>https://www.washingtonpost.com/world/2026/03/12/ukraine-electronics-plant-russia-war/</link>
-      <summary>The general staff said that it used Storm Shadow missiles, which are produced jointly by Britain and France, to hit a plant that makes microchips and high-end electronics.</summary>
-      <pubDate>Thu, 12 Mar 2026 10:23:47 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>

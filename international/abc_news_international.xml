@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-14T10:11:31.713491</generated>
+  <generated>2026-03-14T12:01:58.957657</generated>
   <items>
+    <item>
+      <title>Russian strike on Ukraine's Kyiv region kills at least 4, wounds over a dozen</title>
+      <link>https://abcnews.com/International/wireStory/russian-strike-kyiv-region-kills-4-wounds-15-131063087</link>
+      <summary>A Russian missile and drone strike hit the Kyiv region and killed at least four people, Ukrainian officials said</summary>
+      <pubDate>Sat, 14 Mar 2026 05:50:30 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_4aed3cc6ff151c82a474acaf1a3a05ff_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>War has already displaced nearly a million Lebanese, and aid groups warn of a humanitarian crisis</title>
       <link>https://abcnews.com/International/wireStory/war-displaced-million-lebanese-aid-groups-warn-humanitarian-131062203</link>
@@ -34,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_44a03aff91a068f76b6dfd89023dd378_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australian jury convicts Sydney consultant over deals with suspected Chinese spies</title>
-      <link>https://abcnews.com/International/wireStory/australian-jury-convicts-sydney-business-consultant-deals-suspected-131029417</link>
-      <summary>A Sydney business consultant has been convicted of breaking Australia&amp;rsquo;s foreign interference laws by providing reports to two people he should have suspected were Chinese spies</summary>
-      <pubDate>Fri, 13 Mar 2026 03:28:53 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_c731f021b7082ac0977a2ceb99d0de8b_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
