@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-15T00:01:17.892219</generated>
+  <generated>2026-03-15T02:01:06.087744</generated>
   <items>
+    <item>
+      <title>F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage</title>
+      <link>https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html</link>
+      <summary>The comment from Brendan Carr came on the heels of a social media message from President Trump criticizing the news media’s coverage of the war with Iran.</summary>
+      <pubDate>Sat, 14 Mar 2026 23:47:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/14/multimedia/14israel-iran-fcc-mkfh/14israel-iran-fcc-mkfh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the U.S.-Israel War With Iran on Saturday</title>
+      <link>https://www.nytimes.com/2026/03/14/world/middleeast/iran-war-recap-kharg-island-oil.html</link>
+      <summary>The U.S. Embassy in Baghdad was attacked overnight. Israeli strikes continued to hit the capitals of Iran and Lebanon, as Iran refused to relinquish control over a vital oil route.</summary>
+      <pubDate>Sat, 14 Mar 2026 22:26:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/14/multimedia/14israel-iran-front-by-front-topart-bwqv/14israel-iran-front-by-front-topart-bwqv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Tehran Seems Largely Empty, as Many Flee and Others Weary of the Fighting</title>
       <link>https://www.nytimes.com/2026/03/14/world/middleeast/tehran-empty-iran-strikes.html</link>
       <summary>Residents say a heavy, lifeless atmosphere hangs over the streets of Iran’s capital, which has endured relentless attacks throughout the war.</summary>
-      <pubDate>Sat, 14 Mar 2026 19:55:29 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 22:42:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/14israel-iran-tehran-scene-topart-kcvp/14israel-iran-tehran-scene-topart-kcvp-mediumSquareAt3X.jpg</image>
@@ -89,24 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/16/multimedia/13biz-iran-mideast-oil-01-gvqm/13biz-iran-mideast-oil-01-gvqm-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Migrant Workers Have Been Affected by Iran’s Strikes</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010766123/how-migrant-workers-have-been-affected-by-irans-strikes.html</link>
-      <summary>Since the U.S.-Israeli attack on Iran began, Iran has fired hundreds of missiles and drones in retaliation at Gulf countries. Iranian officials say that they are attacking U.S. military bases and American interests in the Gulf countries, not civilian targets. Our reporter Vivi...</summary>
-      <pubDate>Sat, 14 Mar 2026 09:01:59 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>What to Know About Kharg Island, Iran’s Key Oil Hub</title>
-      <link>https://www.nytimes.com/2026/03/14/world/middleeast/kharg-island-iran-oil-us-trump.html</link>
-      <summary>The Persian Gulf island, targeted by U.S. strikes, is home to Iran’s main oil export terminal. Any disruption could jolt global energy markets.</summary>
-      <pubDate>Sat, 14 Mar 2026 17:56:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/13/multimedia/13Israel-Iran-Kharg-Island-vtjm/13Israel-Iran-Kharg-Island-vtjm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

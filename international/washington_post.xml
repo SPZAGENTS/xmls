@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-15T00:01:16.415085</generated>
+  <generated>2026-03-15T02:01:04.137556</generated>
   <items>
     <item>
       <title>Trump says U.S. struck Kharg Island, core of Iran’s oil economy</title>
@@ -61,18 +61,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Lebanon appeals to Israel’s allies to intervene and says hundreds are killed</title>
-      <link>https://www.washingtonpost.com/world/2026/03/12/israel-hezbollah-lebanon-war/</link>
-      <summary>The war is expanding into Lebanon, as an Israeli offensive to dismantle Hezbollah has displaced 800,000 people there, with more than 680 people killed.</summary>
-      <pubDate>Thu, 12 Mar 2026 22:01:50 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>What Earth’s longest-lived animals can teach us about aging better</title>
       <link>https://www.washingtonpost.com/science/2026/03/15/oldest-animals-longevity-aging/</link>
       <summary>Inside the growing scientific quest to understand what creatures with the extraordinary ability to defy the ravages of time can teach us about making human aging better.</summary>
       <pubDate>Sat, 14 Mar 2026 10:34:28 +0000</pubDate>
       <priority>95</priority>
+    </item>
+    <item>
+      <title>They came to build China’s EV future. Investigators found conditions akin to ‘slavery.’</title>
+      <link>https://www.washingtonpost.com/world/2026/03/01/byd-slavery-allegations-brazil/</link>
+      <summary>Few Chinese laborers have spoken out about the abuses they allegedly suffered while toiling abroad. Until now.</summary>
+      <pubDate>Sat, 14 Mar 2026 09:00:10 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
