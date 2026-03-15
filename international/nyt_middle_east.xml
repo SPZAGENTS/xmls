@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-15T16:03:15.767848</generated>
+  <generated>2026-03-15T18:03:12.854349</generated>
   <items>
+    <item>
+      <title>Nations Respond With Caution to Trump’s Call to Send Warships to Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html</link>
+      <summary>President Trump has urged China, Britain, France, Japan and South Korea to send warships to help reopen the waterway, even though they were not involved in the U.S.-Israeli attack on Iran.</summary>
+      <pubDate>Sun, 15 Mar 2026 15:53:56 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-reaction-to-trump-1-fkjz/15israel-iran-reaction-to-trump-1-fkjz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel Says Michigan Synagogue Attacker’s Brother Was a Hezbollah Commander</title>
       <link>https://www.nytimes.com/2026/03/15/world/middleeast/israel-lebanon-michigan-synagogue-hezbollah.html</link>
       <summary>The Israeli military said it killed the brother of Ayman Mohamad Ghazali in an airstrike in Lebanon a week before the attack on the synagogue.</summary>
-      <pubDate>Sun, 15 Mar 2026 13:50:07 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:50:08 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-michigan-shooter-2-vzbq/15israel-iran-michigan-shooter-2-vzbq-mediumSquareAt3X.jpg</image>
@@ -27,10 +38,10 @@
       </media>
     </item>
     <item>
-      <title>Iran and the United States: A Long History of Antagonism</title>
+      <title>A Timeline of the Fraught Relationship Between Iran and the U.S.</title>
       <link>https://www.nytimes.com/2026/03/15/world/middleeast/united-states-iran-history.html</link>
       <summary>The governments of both countries have repeatedly cast the other as evil, perpetuating a cycle that has culminated in the present war.</summary>
-      <pubDate>Sun, 15 Mar 2026 09:01:30 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 15:57:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15iran-US-Enmity-01-lmbt/15iran-US-Enmity-01-lmbt-mediumSquareAt3X.jpg</image>
@@ -71,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage</title>
+      <title>FCC Chair Threatens to Revoke Broadcasters’ Licenses Over Iran War Coverage</title>
       <link>https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html</link>
       <summary>The comment from Brendan Carr came on the heels of a social media message from President Trump criticizing the news media’s coverage of the war with Iran.</summary>
       <pubDate>Sun, 15 Mar 2026 04:37:53 +0000</pubDate>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/14israel-iran-tehran-scene-topart-kcvp/14israel-iran-tehran-scene-topart-kcvp-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How a Marine Unit in the Middle East Could Open New Phase of Iran War</title>
-      <link>https://www.nytimes.com/2026/03/14/us/politics/marines-iran-war.html</link>
-      <summary>The unit’s arrival in the coming days will give the Pentagon the ability to quickly launch raids.</summary>
-      <pubDate>Sat, 14 Mar 2026 18:50:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/14/multimedia/00dc-marines-ljhc/00dc-marines-ljhc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

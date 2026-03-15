@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-15T16:03:14.613296</generated>
+  <generated>2026-03-15T18:03:11.806085</generated>
   <items>
     <item>
       <title>Trump is eager to declare victory, but a battered Iran still has cards to play</title>
@@ -33,13 +33,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>6 dead after U.S. Air Force refueler crashes in Iraq while supporting Iran war</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/12/kc-135-crash-iraq-iran/</link>
-      <summary>The KC-135 tanker was involved in an apparent accident with another KC-135. The other aircraft landed safely, officials said.</summary>
-      <pubDate>Fri, 13 Mar 2026 14:50:38 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>GOP, fearing tough fight for Texas Senate seat, paints Democrat as radical</title>
       <link>https://www.washingtonpost.com/politics/2026/03/14/james-talarico-texas-senate-gop-attacks/</link>
       <summary>Talarico, who is looking to flip Texas blue in his quest for the U.S. Senate, says the attacks from Republicans are a distraction from real issues.</summary>
@@ -49,7 +42,7 @@
     <item>
       <title>Appointee wants to replace White House columns with the ones Trump prefers</title>
       <link>https://www.washingtonpost.com/politics/2026/03/15/white-house-columns-ionic-corinthian/</link>
-      <summary>The head of a federal arts commission is proposing the more ornate Corinthian style for the nearly 200-year-old columns at the building’s front entrance</summary>
+      <summary>The head of a federal arts commission is proposing the more ornate Corinthian style for the nearly 200-year-old columns at the building’s front entrance.</summary>
       <pubDate>Sun, 15 Mar 2026 09:00:49 +0000</pubDate>
       <priority>75</priority>
     </item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/15/illinois-senate-primary-cypto-pritzker/</link>
       <summary>The Democratic contest highlights divisions over crypto regulation and billionaire influence in politics, as the industry spends millions in a battle with the governor.</summary>
       <pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>60</priority>
+    </item>
+    <item>
+      <title>Push for GOP voting law has many switching sides on filibuster issue</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/14/senate-filibusters-election-legislation/</link>
+      <summary>Some Republicans, just like Democrats in 2022, are eager to change the Senate’s rules in an effort to pass a national election law.</summary>
+      <pubDate>Sat, 14 Mar 2026 15:22:18 +0000</pubDate>
       <priority>60</priority>
     </item>
   </items>
