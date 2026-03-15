@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-15T02:01:10.283448</generated>
+  <generated>2026-03-15T04:01:50.369725</generated>
   <items>
-    <item>
-      <title>Iran live updates: Trump calls on other countries to assist in Strait of Hormuz</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Sat, 14 Mar 2026 17:00:38 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/tankers-gulf-rt-jt-260314_1773503995890_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Iranian-American journalists on the sentiment inside Iran as war rages</title>
       <link>https://abcnews.com/US/video/sentiment-inside-iran-war-rages-131050178</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260313_abcnl_3p_rezaian_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pentagon identifies 6 Air Force airmen killed in KC-135 refueling aircraft crash</title>
+      <link>https://abcnews.com/International/4-dead-after-us-refueling-aircraft-western-iraq/story?id=131031069</link>
+      <summary>Six U.S. service members have been killed when their refueling aircraft "went down" in friendly airspace in western Iraq, according to U.S. Central Command.</summary>
+      <pubDate>Sat, 14 Mar 2026 21:47:46 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/KC-135-aircraft-down_1773395728285_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
