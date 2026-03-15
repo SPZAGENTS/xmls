@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-15T20:03:44.392856</generated>
+  <generated>2026-03-15T22:06:42.690769</generated>
   <items>
+    <item>
+      <title>Iran arrests dozens accused of spying for Israel in new internal crackdown</title>
+      <link>https://www.foxnews.com/world/iran-arrests-dozens-accused-spying-israel-new-internal-crackdown</link>
+      <summary>Iran says it has arrested dozens of alleged spies linked to Israel across several provinces, accusing them of sharing the locations of military sites and economic infrastructure.</summary>
+      <pubDate>Sun, 15 Mar 2026 14:17:03 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-police-men-tehran.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US could take Iran’s main oil export hub ‘at a time of our choosing,’ Jack Keane says</title>
       <link>https://www.foxnews.com/media/us-could-take-irans-main-oil-export-hub-at-time-our-choosing-keane-says</link>
@@ -27,24 +38,24 @@
       </media>
     </item>
     <item>
-      <title>Smart glasses detector app warns if you're being recorded</title>
-      <link>https://www.foxnews.com/tech/smart-glasses-detector-app-warns-youre-being-recorded</link>
-      <summary>New Android app detects nearby smart glasses that could be secretly recording you. Nearby Glasses scans Bluetooth to alert users of potential cameras.</summary>
-      <pubDate>Sun, 15 Mar 2026 11:57:10 -0400</pubDate>
-      <priority>100</priority>
+      <title>String of attacks connected to naturalized citizens raises national security questions</title>
+      <link>https://www.foxnews.com/politics/string-attacks-connected-naturalized-citizens-raises-national-security-questions</link>
+      <summary>Four alleged terror attacks connected naturalized U.S. citizens in March expose critical security gaps in America, a security expert warned on Fox News.</summary>
+      <pubDate>Sun, 15 Mar 2026 14:41:07 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/siemens-ag-ray-ban-meta-smart-glasses-1.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-naturalized-citizen-attack-suspects.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Brother of Michigan synagogue attacker was Hezbollah commander, Israel alleges</title>
-      <link>https://www.foxnews.com/us/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges</link>
-      <summary>Ibrahim Muhammad Ghazali, brother of the Michigan synagogue attacker, was a Hezbollah commander killed in an Israeli strike, Israeli intelligence revealed.</summary>
-      <pubDate>Sun, 15 Mar 2026 11:33:44 -0400</pubDate>
-      <priority>100</priority>
+      <title>FCC chair Brendan Carr warns broadcasters must 'correct course' on 'news distortions' before license renewals</title>
+      <link>https://www.foxnews.com/media/fcc-chair-brendan-carr-warns-broadcasters-must-correct-course-news-distortions-before-license-renewals</link>
+      <summary>FCC chair Brendan Carr warned broadcasters running &amp;quot;fake news&amp;quot; could lose licenses during renewals, citing public interest requirements and media accountability.</summary>
+      <pubDate>Sun, 15 Mar 2026 15:00:35 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ayman-mohamad-ghazali-purchasing-fireworks.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/brendan-carr-fcc-warning.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +71,35 @@
       </media>
     </item>
     <item>
-      <title>Airline CEOs torch lawmakers for turning air travel into a ‘political football’</title>
-      <link>https://www.foxnews.com/politics/airline-ceos-torch-lawmakers-turning-air-travel-political-football</link>
-      <summary>Airline leaders warned the DHS shutdown left TSA workers unpaid and travelers facing long lines as spring travel demand surged and pressure mounted on the aviation system.</summary>
-      <pubDate>Sun, 15 Mar 2026 11:49:30 -0400</pubDate>
-      <priority>90</priority>
+      <title>Illegal immigrant released under Biden charged with groping female students at Virginia high school</title>
+      <link>https://www.foxnews.com/media/illegal-immigrant-released-under-biden-charged-groping-female-students-virginia-high-school</link>
+      <summary>Mother of three students speaks out about alleged sexual assault case at Virginia high school, criticizing delayed notification and school district policies.</summary>
+      <pubDate>Sun, 15 Mar 2026 16:00:37 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tsa-long-lines-shutdown-fox-news.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fairfax-county-public-schools-bus.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rihanna shooting suspect’s disturbing posts emerge as star joins growing celebrity list facing fan threats</title>
+      <link>https://www.foxnews.com/entertainment/rihanna-shooting-suspects-disturbing-posts-emerge-star-joins-growing-celebrity-list-facing-fan-threats</link>
+      <summary>Unwelcome visitors for celebrities reach a dangerous new level as Rihanna joins a list of stars like Taylor Swift and Ariana Grande facing obsessed fans and attackers.</summary>
+      <pubDate>Sun, 15 Mar 2026 14:00:01 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ivanna-ortiz-5.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>CarGurus breach linked to ShinyHunters exposes 12.4M records</title>
+      <link>https://www.foxnews.com/tech/cargurus-breach-linked-shinyhunters-exposes-12-4m-records</link>
+      <summary>CarGurus users face a security risk after the ShinyHunters hacking group allegedly leaked 12.4 million records containing names, addresses and finance data.</summary>
+      <pubDate>Sun, 15 Mar 2026 16:00:05 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/used-car-lot.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/california-librarian-dolly-parton-imagination-library.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>California Baptist punches NCAA Tournament ticket as Utah Valley suffers heartbreak</title>
-      <link>https://www.foxnews.com/sports/california-baptist-punches-ncaa-tournament-ticket-utah-valley-suffers-heartbreak</link>
-      <summary>The California Baptist Lancers were able to take home the men&amp;apos;s WAC Championship on Saturday with a victory over the Utah Valley Wolverines.</summary>
-      <pubDate>Sun, 15 Mar 2026 13:01:19 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/california-baptist-wins-031526-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Whiskey mogul offers free $200M college campus to religious groups, with one major catch</title>
-      <link>https://www.foxnews.com/food-drink/whiskey-mogul-offers-free-200m-college-campus-religious-groups-one-major-catch</link>
-      <summary>A Vermont whiskey founder offers a free $200 million college campus to Christian institutions for a spiritual revival. Raj Peter Bhakta bought Green Mountain College in 2020.</summary>
-      <pubDate>Sun, 15 Mar 2026 12:45:10 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/raj-peter-bhakta-split-green-mountain-college.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Bryson DeChambeau wins LIV Golf Singapore event, surviving bunker fall and agonizing playoff</title>
-      <link>https://www.foxnews.com/sports/bryson-dechambeau-wins-liv-golf-singapore-event-surviving-bunker-fall-agonizing-playoff</link>
-      <summary>Bryson DeChambeau suffered an embarrassing fall into the sand trap on Saturday and survived a tense playoff hole on Sunday to win a LIV Golf Singapore.</summary>
-      <pubDate>Sun, 15 Mar 2026 12:23:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/liv-golf-bryson-dechambeau-031526-3.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

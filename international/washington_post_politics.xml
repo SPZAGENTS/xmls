@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-15T20:03:47.452305</generated>
+  <generated>2026-03-15T22:06:45.772215</generated>
   <items>
     <item>
       <title>Trump is eager to declare victory, but a battered Iran still has cards to play</title>
@@ -23,13 +23,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/</link>
       <summary>The strikes destroyed more than 90 military targets, including missile facilities, but preserved oil infrastructure, U.S. Central Command said Saturday.</summary>
       <pubDate>Sat, 14 Mar 2026 16:29:25 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Hegseth vows thorough probe of school strike that Trump blamed on Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/13/hegseth-iran-school-strike/</link>
-      <summary>The announcement appeared to tacitly acknowledge a growing body of evidence that U.S. forces, not Iran, were responsible for the deadly attack.</summary>
-      <pubDate>Fri, 13 Mar 2026 19:02:16 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -73,6 +66,13 @@
       <summary>Some Republicans, just like Democrats in 2022, are eager to change the Senate’s rules in an effort to pass a national election law.</summary>
       <pubDate>Sat, 14 Mar 2026 15:22:18 +0000</pubDate>
       <priority>60</priority>
+    </item>
+    <item>
+      <title>Court blocks Justice Department subpoenas of Federal Reserve</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/13/fed-reserve-powell-subpoenas-boasberg/</link>
+      <summary>U.S. District Judge James E. Boasberg cited a lack of evidence against central bank chief Jerome H. Powell and suggested the subpoenas aimed to pressure him.</summary>
+      <pubDate>Fri, 13 Mar 2026 21:36:05 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
