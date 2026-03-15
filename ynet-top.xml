@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-15T20:04:40.191766</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-15T20:06:11.596673</generated>
   <items>
     <item>
       <title>Zelensky says Russia supplying Iran with Shahed drones used against US and Israel</title>
       <link>https://www.ynetnews.com/article/h1hmq9mczx</link>
-      <description>As Netanyahu seeks talks with the Ukrainian leader, Kyiv says it is expanding cooperation with Israel and the United States on countering Iranian-designed drones, while Tehran warns Ukraine could become a target</description>
+      <summary>As Netanyahu seeks talks with the Ukrainian leader, Kyiv says it is expanding cooperation with Israel and the United States on countering Iranian-designed drones, while Tehran warns Ukraine could become a target</summary>
       <pubDate>Sun, 15 Mar 2026 04:53:58 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>Mossad hunts Iranian terror cells abroad as officials warn restraints are off</title>
       <link>https://www.ynetnews.com/article/sypvtd7511e</link>
-      <description>Senior Israeli officials say Iran has unleashed a global terror push to attack Jews and Israelis since the war began, with the spy agency pursuing cells worldwide amid what they described as a staggering surge in attempted attacks</description>
+      <summary>Senior Israeli officials say Iran has unleashed a global terror push to attack Jews and Israelis since the war began, with the spy agency pursuing cells worldwide amid what they described as a staggering surge in attempted attacks</summary>
       <pubDate>Sun, 15 Mar 2026 02:29:48 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran tried to down an Israeli fighter jet, IDF says</title>
       <link>https://www.ynetnews.com/article/sknu2b75bx</link>
-      <description>The shootdown attempt failed due to the alertness and professionalism of the pilot, the IDF said, adding that the mission was completed successfully</description>
+      <summary>The shootdown attempt failed due to the alertness and professionalism of the pilot, the IDF said, adding that the mission was completed successfully</summary>
       <pubDate>Sat, 14 Mar 2026 18:28:41 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>IDF kills senior Iranian intelligence officials in Tehran strike</title>
       <link>https://www.ynetnews.com/article/sy1mrwqqbx</link>
-      <description>Since Operation Roaring Lion began, the Israeli Air Force has carried out about 400 waves of strikes across western and central Iran, hitting missile launchers, air defenses and military infrastructure</description>
+      <summary>Since Operation Roaring Lion began, the Israeli Air Force has carried out about 400 waves of strikes across western and central Iran, hitting missile launchers, air defenses and military infrastructure</summary>
       <pubDate>Sat, 14 Mar 2026 18:04:33 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
       <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <description>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</description>
+      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
       <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>125</priority-score>
+      <priority>125</priority>
+    </item>
+    <item>
+      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
+      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
+      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
+      <priority>125</priority>
     </item>
     <item>
       <title>דובר צה"ל ל-CNN: מתכננים לתקוף לפחות עד פסח; בצבא מכחישים: אין כרגע מחסור במיירטים</title>
       <link>https://www.ynet.co.il/news/article/rjr1007n911x</link>
-      <description>תא"ל אפי דפרין אמר כי לצה"ל יש עוד אלפי מטרות באיראן, ומתכנן לתקוף לפחות עוד כ-3 שבועות, עד לחג: "יש לנו תוכניות עמוקות עוד יותר, לא פועלים עם שעון עצר". גורם ביטחוני ל"וול סטריט ג'ורנל": השיגורים האחרונים לישראל כללו טיל אחד או שניים בלבד | הסיבה - והטענה האיראנית: "שיגרנו הי...</description>
+      <summary>תא"ל אפי דפרין אמר כי לצה"ל יש עוד אלפי מטרות באיראן, ומתכנן לתקוף לפחות עוד כ-3 שבועות, עד לחג: "יש לנו תוכניות עמוקות עוד יותר, לא פועלים עם שעון עצר". גורם ביטחוני ל"וול סטריט ג'ורנל": השיגורים האחרונים לישראל כללו טיל אחד או שניים בלבד | הסיבה - והטענה האיראנית: "שיגרנו הי...</summary>
       <pubDate>Sun, 15 Mar 2026 15:20:44 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>נמלטו מחשש הטילים - ו"פגשו" אותם מקרוב: "פחות שווה ללכת באילת למקלט"</title>
       <link>https://www.ynet.co.il/news/article/rjvsof4q11g</link>
-      <description>ישראלים רבים שחיפשו הפוגה בזמן המלחמה חשבו למצוא אותה בעיר הנופש הדרומית. שורת ההתרעות בסוף השבוע על שיגורים מאיראן, התקבלה אצל כמה מהם באכזבה גדולה. "הטילים באו כנראה בעקבותינו", סיפר תושב קריית שמונה</description>
+      <summary>ישראלים רבים שחיפשו הפוגה בזמן המלחמה חשבו למצוא אותה בעיר הנופש הדרומית. שורת ההתרעות בסוף השבוע על שיגורים מאיראן, התקבלה אצל כמה מהם באכזבה גדולה. "הטילים באו כנראה בעקבותינו", סיפר תושב קריית שמונה</summary>
       <pubDate>Sun, 15 Mar 2026 14:52:57 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>זו חייבת להיות המלחמה האחרונה</title>
       <link>https://www.ynet.co.il/news/article/yokra14707965</link>
-      <description>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</description>
+      <summary>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</summary>
       <pubDate>Sat, 14 Mar 2026 19:59:17 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>לא רק טילים: כך איראן נלחמת במערב דרך דעת הקהל</title>
       <link>https://www.ynet.co.il/news/article/h1zipb11511g</link>
-      <description>בתקשורת, באקדמיה וברשתות החברתיות: איראן מנהלת מערכה מתמשכת להשפיע על דעת הקהל במערב נגד ישראל, לפגוע באמון הציבור של המערב במוסדותיו, לייצר פילוג ושיסוע פנימי ולכרסם בלגיטימציה של ממשלות מערביות. אין ברירה אלא להשיב לה מלחמה גם בחזית הזו</description>
+      <summary>בתקשורת, באקדמיה וברשתות החברתיות: איראן מנהלת מערכה מתמשכת להשפיע על דעת הקהל במערב נגד ישראל, לפגוע באמון הציבור של המערב במוסדותיו, לייצר פילוג ושיסוע פנימי ולכרסם בלגיטימציה של ממשלות מערביות. אין ברירה אלא להשיב לה מלחמה גם בחזית הזו</summary>
       <pubDate>Fri, 13 Mar 2026 15:47:48 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
-      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
-      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
