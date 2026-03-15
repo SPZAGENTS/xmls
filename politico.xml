@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-14T00:06:04.827504</generated>
+  <generated>2026-03-15T04:01:43.782726</generated>
   <items>
     <item>
       <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
@@ -45,6 +45,17 @@
       <priority>75</priority>
       <media>
         <image>https://static.politico.com/c5/28/e73151364032a796ca5993b6f5ef/trump-39571.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>2028 Dem veteran? Uncle Sam wants you.</title>
+      <link>https://www.politico.com/news/2026/03/14/2028-iran-war-democrats-00829204</link>
+      <summary>In a year after many Democrats pined for a metaphorical fighter, the party is now wondering whether it needs a more literal fighter.</summary>
+      <pubDate>Sat, 14 Mar 2026 09:43:15 EST</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static.politico.com/d7/01/64a5e9a644cda8afdf76438cf772/u-s-congress-37003.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -92,17 +103,6 @@
       <priority>65</priority>
       <media>
         <image>https://static.politico.com/b1/b9/b170315d47de89ec0e6fb805f6b5/capitol-breach-investigation-94886.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump-endorsed Republican advances to runoff in Georgia special election for MTG’s seat</title>
-      <link>https://www.politico.com/news/2026/03/10/clayton-fuller-shawn-harris-georgia-special-election-runoff-00822374</link>
-      <summary>Clayton Fuller, the Republican candidate, is headed into the head-to-head matchup with a significant advantage in the deeply conservative district</summary>
-      <pubDate>Tue, 10 Mar 2026 19:15:55 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/58/a7/69bed3e94ec5912f6c2f7b245448/clayton-fuller-shawn-harris.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
