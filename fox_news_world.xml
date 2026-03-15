@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-15T20:03:44.960558</generated>
+  <generated>2026-03-15T22:06:43.212233</generated>
   <items>
+    <item>
+      <title>Iran arrests dozens accused of spying for Israel in new internal crackdown</title>
+      <link>https://www.foxnews.com/world/iran-arrests-dozens-accused-spying-israel-new-internal-crackdown</link>
+      <summary>Iran says it has arrested dozens of alleged spies linked to Israel across several provinces, accusing them of sharing the locations of military sites and economic infrastructure.</summary>
+      <pubDate>Sun, 15 Mar 2026 14:17:03 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-police-men-tehran.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump seeks warships from other countries to help secure Strait of Hormuz</title>
       <link>https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/idf-heron-drone-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump warns of Iranian 'sleeper cells' as Canada is accused of harboring regime operatives</title>
-      <link>https://www.foxnews.com/world/trump-warns-iranian-sleeper-cells-canada-accused-harboring-regime-operatives</link>
-      <summary>Canadian Conservatives slam Liberal government for allegedly allowing hundreds of Iranian regime officials to remain despite known security risks.</summary>
-      <pubDate>Thu, 12 Mar 2026 15:54:16 -0500</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/anti-war-protest-iran-khamenei.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
