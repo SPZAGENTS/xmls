@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-16T08:04:09.919858</generated>
+  <generated>2026-03-16T10:04:24.920660</generated>
   <items>
     <item>
       <title>Pope escalates call for ceasefire in Iran by addressing those responsible for the war</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>North Korean leader Kim observes test of rocket launch systems with his daughter</title>
-      <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-observes-test-rocket-launch-131077851</link>
-      <summary>North Korea says leader Kim Jong Un has observed a live-fire test of multiple rocket launch systems to examine the country&amp;rsquo;s war deterrence</summary>
-      <pubDate>Sat, 14 Mar 2026 22:51:00 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d822ed5740333e255a7a562cf43f9e97_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Armed group killed security personnel in an ambush in north-central Nigeria, authorities say</title>
       <link>https://abcnews.com/International/wireStory/armed-group-killed-security-personnel-ambush-north-central-131082639</link>
       <summary>Gunmen ambushed and killed security personnel in Nigeria&amp;rsquo;s Plateau state.</summary>
@@ -56,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Myanmar’s parliament meets for first time in 5 years with military controlling most seats</title>
+      <link>https://abcnews.com/International/wireStory/myanmars-parliament-meets-time-5-years-military-controlling-131107649</link>
+      <summary>Myanmar has opened its first parliamentary session in more than five years following an election that did not include major opposition parties, ensuring that the ruling military is set to retain a firm grasp on power</summary>
+      <pubDate>Mon, 16 Mar 2026 03:27:37 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_d5a1f9b01eca6da31c30e6919011236a_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
