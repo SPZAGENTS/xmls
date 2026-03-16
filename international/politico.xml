@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-16T22:04:57.918065</generated>
+  <generated>2026-03-17T00:00:57.346324</generated>
   <items>
     <item>
       <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
@@ -47,6 +47,13 @@
         <image>https://static.politico.com/c5/28/e73151364032a796ca5993b6f5ef/trump-39571.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>Hochul promotes her agenda with state-funded ad campaign</title>
+      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/03/16/hochul-promotes-her-agenda-with-state-funded-ad-campaign-00830436</link>
+      <summary />
+      <pubDate>Mon, 16 Mar 2026 16:14:01 EST</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>‘We’re going to have a problem’: Republicans want Trump to move on from 2020</title>
@@ -98,13 +105,6 @@
         <image>https://static.politico.com/ee/34/c3ebb65a4515b77229b08a40dbb0/fetal-homicide-law-iowa-17703.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>The POLITICO Poll - Feb 2026</title>
-      <link>https://www.politico.com/f/?id=0000019c-dd9a-d628-a9bf-dffe2d910000</link>
-      <summary>The international POLITICO Poll on adults' ratings of different attributes of the United States.</summary>
-      <pubDate>Wed, 11 Mar 2026 10:55:56 EST</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
