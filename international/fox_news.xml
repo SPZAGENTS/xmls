@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-16T10:04:15.957011</generated>
+  <generated>2026-03-16T12:04:32.392534</generated>
   <items>
+    <item>
+      <title>Iran war success gives president a Trump card to play in China meeting</title>
+      <link>https://www.foxnews.com/opinion/iran-war-success-gives-president-trump-card-play-china-meeting</link>
+      <summary>President Donald Trump&amp;apos;s March summit with Chinese President Xi Jinping in Beijing should emphasize Iran war leverage over traditional trade issues.</summary>
+      <pubDate>Mon, 16 Mar 2026 05:00:12 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/trump-xi-1.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>CNN liberal panelist argues billions spent on defense should go to health insurance instead</title>
       <link>https://www.foxnews.com/media/cnn-liberal-panelist-argues-billions-spent-defense-should-go-health-insurance-instead</link>
@@ -27,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Pope Leo urges war leaders to halt fighting after deadly strike on school sparks outrage</title>
-      <link>https://www.foxnews.com/world/pope-leo-urges-war-leaders-halt-fighting-after-deadly-strike-school-sparks-outrage</link>
-      <summary>Pope Leo XIV called Sunday for an immediate ceasefire in the war involving Iran, urgently urging world leaders to halt violence after deadly strikes hit schools and civilian areas.</summary>
-      <pubDate>Sun, 15 Mar 2026 16:43:50 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/pope-leo-schism.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>2026 Oscars: Winners and losers</title>
       <link>https://www.foxnews.com/entertainment/2026-oscars-winners-losers</link>
       <summary>A comprehensive roundup of the 98th Academy Awards, including the full list of nominees and winners.</summary>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sinners-ryan-coogler-michael-b-jordan.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Schiff, Booker deflect on shutdown blame amid terror concerns, thousands of DHS workers without pay</title>
-      <link>https://www.foxnews.com/media/schiff-booker-deflect-blame-dhs-shutdown-workers-go-weeks-without-pay</link>
-      <summary>Democratic senators Schiff and Booker deflected blame over the DHS shutdown amid terror concerns in the U.S. on Sunday, as workers have gone weeks without pay.</summary>
-      <pubDate>Sun, 15 Mar 2026 17:00:58 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/booker-schiff-dhs.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Illegal immigrant released under Biden charged with groping female students at Virginia high school</title>
-      <link>https://www.foxnews.com/media/illegal-immigrant-released-under-biden-charged-groping-female-students-virginia-high-school</link>
-      <summary>Mother of three students speaks out about alleged sexual assault case at Virginia high school, criticizing delayed notification and school district policies.</summary>
-      <pubDate>Sun, 15 Mar 2026 16:00:37 -0400</pubDate>
+      <title>Chinese spy tech is endangering US hospitals. Texas is trying to shut that down</title>
+      <link>https://www.foxnews.com/opinion/chinese-spy-tech-endangering-us-hospitals-texas-trying-shut-down</link>
+      <summary>Texas Gov. Greg Abbott leads fight against Chinese medical devices after Food and Drug Administration warns of backdoors in hospital equipment.</summary>
+      <pubDate>Mon, 16 Mar 2026 05:00:43 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fairfax-county-public-schools-bus.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chinese-spyware-in-hospitals.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Foreigners are snapping up US homes and stealing the American dream out from under families</title>
+      <link>https://www.foxnews.com/opinion/foreigners-snapping-up-us-homes-stealing-american-dream-out-from-under-families</link>
+      <summary>Foreign homebuyers purchased 78,000 American homes in just one year, many of them single-family residences that are especially desirable to young buyers.</summary>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/houses-on-lake-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

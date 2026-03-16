@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-16T10:04:19.544458</generated>
+  <generated>2026-03-16T12:04:35.827596</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Pressures NATO Allies and China for Warships to Guard Oil Shipments</title>
-      <link>https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel</link>
-      <summary>Iran has largely closed the Strait of Hormuz to America and its allies, but the president’s earlier call for more naval reinforcements has gained little traction. The U.S. energy secretary, Chris Wright, acknowledged energy prices could remain high.</summary>
-      <pubDate>Mon, 16 Mar 2026 06:23:58 +0000</pubDate>
+      <title>Iran War Live Updates: Trump Pressures Countries to Open Vital Shipping Route</title>
+      <link>https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon</link>
+      <summary>As fighting in the Middle East entered its third week, President Trump warned that failing to help secure the Strait of Hormuz would be “very bad for the future of NATO.”</summary>
+      <pubDate>Mon, 16 Mar 2026 10:00:36 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-promo-0020EST/15israel-iran-400-vmbl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16mideast-live-promo-lfwc/16mideast-live-promo-lfwc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.</title>
+      <link>https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html</link>
+      <summary>This time, President Trump went to war without preparing the public, seeking U.N. approval or even consulting allies. But they will have to pick up the pieces.</summary>
+      <pubDate>Mon, 16 Mar 2026 09:34:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16int-iran-iraq-europe-qftw/16int-iran-iraq-europe-qftw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15int-israel-westbank-killings-fblh/15int-israel-westbank-killings-fblh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In Scolding the New U.S. Ambassador, South Africa Signals Defiance</title>
-      <link>https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html</link>
-      <summary>The latest clash between the two countries illustrates the depths to which relations have sunk and the struggle to forge a new path forward.</summary>
-      <pubDate>Sun, 15 Mar 2026 17:04:19 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15int-safrica-ambassador-analysis-vjpq/15int-safrica-ambassador-analysis-vjpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

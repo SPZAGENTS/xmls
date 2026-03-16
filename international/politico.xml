@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-16T10:04:17.076011</generated>
+  <generated>2026-03-16T12:04:33.435605</generated>
   <items>
     <item>
       <title>Ted Cruz, Tucker Carlson reignite feud over Iran war</title>
@@ -45,6 +45,17 @@
       <priority>75</priority>
       <media>
         <image>https://static.politico.com/c5/28/e73151364032a796ca5993b6f5ef/trump-39571.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>‘We’re going to have a problem’: Republicans want Trump to move on from 2020</title>
+      <link>https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317</link>
+      <summary>Facing a difficult midterm landscape, there's a growing view in the GOP that revisiting election grievances risks distracting from the issues that matter most.</summary>
+      <pubDate>Mon, 16 Mar 2026 04:40:00 EST</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static.politico.com/43/9f/830e4a354c15872b7c0eb7c6bc31/trump-58772.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -94,17 +105,6 @@
       <summary>The international POLITICO Poll on adults' ratings of different attributes of the United States.</summary>
       <pubDate>Wed, 11 Mar 2026 10:55:56 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Pelosi backs former Capitol Police officer over Hoyer’s preferred successor in Maryland</title>
-      <link>https://www.politico.com/news/2026/03/11/pelosi-capitol-police-officer-hoyer-maryland-00822368</link>
-      <summary>The former House speaker is endorsing Harry Dunn over retiring Rep. Steny Hoyer’s former campaign manager.</summary>
-      <pubDate>Wed, 11 Mar 2026 04:55:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/b1/b9/b170315d47de89ec0e6fb805f6b5/capitol-breach-investigation-94886.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
