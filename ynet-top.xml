@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-16T02:03:22.416888</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-16T02:04:55.094878</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>Israel braces for Iran war to last into April as hopes of regime collapse become more unlikely</title>
       <link>https://www.ynetnews.com/article/rjucnun9bg</link>
-      <summary>Defense Minister Katz pushing for expanding ground operation in Lebanon and capturing territory to push anti-tank threats farther away from border, while Netanyahu confidant Dermer said to oversee efforts to reach ceasefire deal with Beirut</summary>
+      <description>Defense Minister Katz pushing for expanding ground operation in Lebanon and capturing territory to push anti-tank threats farther away from border, while Netanyahu confidant Dermer said to oversee efforts to reach ceasefire deal with Beirut</description>
       <pubDate>Sun, 15 Mar 2026 20:50:30 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>Zelensky says Russia supplying Iran with Shahed drones used against US and Israel</title>
       <link>https://www.ynetnews.com/article/h1hmq9mczx</link>
-      <summary>As Netanyahu seeks talks with the Ukrainian leader, Kyiv says it is expanding cooperation with Israel and the United States on countering Iranian-designed drones, while Tehran warns Ukraine could become a target</summary>
+      <description>As Netanyahu seeks talks with the Ukrainian leader, Kyiv says it is expanding cooperation with Israel and the United States on countering Iranian-designed drones, while Tehran warns Ukraine could become a target</description>
       <pubDate>Sun, 15 Mar 2026 04:53:58 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>Israel identifies terror group behind recent wave of attacks on Jewish sites in Europe</title>
       <link>https://www.ynetnews.com/article/b1ya1s45zg</link>
-      <summary>Israel’s Diaspora Affairs Ministry says the terror group Ashab al-Yamin al-Islamia used lone attackers to target synagogues and Jewish sites in the Netherlands, Belgium and Greece, possibly linked to pro-Iranian networks and psychological intimidation</summary>
+      <description>Israel’s Diaspora Affairs Ministry says the terror group Ashab al-Yamin al-Islamia used lone attackers to target synagogues and Jewish sites in the Netherlands, Belgium and Greece, possibly linked to pro-Iranian networks and psychological intimidation</description>
       <pubDate>Sun, 15 Mar 2026 23:20:15 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Mossad hunts Iranian terror cells abroad as officials warn restraints are off</title>
       <link>https://www.ynetnews.com/article/sypvtd7511e</link>
-      <summary>Senior Israeli officials say Iran has unleashed a global terror push to attack Jews and Israelis since the war began, with the spy agency pursuing cells worldwide amid what they described as a staggering surge in attempted attacks</summary>
+      <description>Senior Israeli officials say Iran has unleashed a global terror push to attack Jews and Israelis since the war began, with the spy agency pursuing cells worldwide amid what they described as a staggering surge in attempted attacks</description>
       <pubDate>Sun, 15 Mar 2026 02:29:48 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Iran tried to down an Israeli fighter jet, IDF says</title>
       <link>https://www.ynetnews.com/article/sknu2b75bx</link>
-      <summary>The shootdown attempt failed due to the alertness and professionalism of the pilot, the IDF said, adding that the mission was completed successfully</summary>
+      <description>The shootdown attempt failed due to the alertness and professionalism of the pilot, the IDF said, adding that the mission was completed successfully</description>
       <pubDate>Sat, 14 Mar 2026 18:28:41 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>IDF kills senior Iranian intelligence officials in Tehran strike</title>
       <link>https://www.ynetnews.com/article/sy1mrwqqbx</link>
-      <summary>Since Operation Roaring Lion began, the Israeli Air Force has carried out about 400 waves of strikes across western and central Iran, hitting missile launchers, air defenses and military infrastructure</summary>
+      <description>Since Operation Roaring Lion began, the Israeli Air Force has carried out about 400 waves of strikes across western and central Iran, hitting missile launchers, air defenses and military infrastructure</description>
       <pubDate>Sat, 14 Mar 2026 18:04:33 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
       <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
+      <description>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</description>
       <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
+      <source>ynet-opinions</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>אושר: סוכנות האנרגיה הבינלאומית תשחרר 400 מיליון חביות נפט ממאגרי החירום</title>
       <link>https://www.ynet.co.il/economy/article/bynaaveqbl</link>
-      <summary>השחרור נועד להתמודד עם הזינוק במחירי הנפט מאז פרוץ המלחמה בעקבות סגירת מצרי הורמוז ע"י איראן. המלאי ממדינות אסיה ואוקיאניה יהיה זמין מיידית, ‏ומאירופה ואמריקה בסוף החודש</summary>
+      <description>השחרור נועד להתמודד עם הזינוק במחירי הנפט מאז פרוץ המלחמה בעקבות סגירת מצרי הורמוז ע"י איראן. המלאי ממדינות אסיה ואוקיאניה יהיה זמין מיידית, ‏ומאירופה ואמריקה בסוף החודש</description>
       <pubDate>Sun, 15 Mar 2026 20:32:28 +0200</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
-      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
-      <priority>125</priority>
+      <source>ynet-economy</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>איראן: מלחמה מחוץ למצלמה</title>
       <link>https://www.ynet.co.il/news/article/yokra14710366</link>
-      <summary>גורם בכיר בצה”ל אומר שהציבור בישראל ובעולם כמעט ואינו מבין מה באמת מתרחש באיראן. בעזה או בלבנון, כל תקיפה כמעט מתועדת תוך דקות. סרטונים עולים לרשתות החברתיות, תמונות מופצות בערוצי טלגרם. באיראן המצב הפוך: המשטר מגביל את האינטרנט ולעיתים אף סוגר אותו לחלוטין, וכמעט ואין תיעוד מ...</summary>
+      <description>גורם בכיר בצה”ל אומר שהציבור בישראל ובעולם כמעט ואינו מבין מה באמת מתרחש באיראן. בעזה או בלבנון, כל תקיפה כמעט מתועדת תוך דקות. סרטונים עולים לרשתות החברתיות, תמונות מופצות בערוצי טלגרם. באיראן המצב הפוך: המשטר מגביל את האינטרנט ולעיתים אף סוגר אותו לחלוטין, וכמעט ואין תיעוד מ...</description>
       <pubDate>Mon, 16 Mar 2026 00:08:00 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>המשטר ייפול? כלל לא בטוח: ההערכות על מלחמה באיראן גם בליל הסדר - ודרכי הפעולה</title>
+      <link>https://www.ynet.co.il/news/article/hjxntn45zx</link>
+      <description>בישראל כבר מדברים בצניעות רבה יותר לגבי אפשרות שהמשטר ייפול, ולכן רוצים לשלול יכולות שיגור וייצור טילים. הקריאה להמונים לצאת לרחובות עוד על הפרק, חשבון המוסד בפרסית קרא לראשונה גם לכוחות הביטחון לערוק</description>
+      <pubDate>Sun, 15 Mar 2026 20:32:50 +0200</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>

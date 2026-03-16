@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — All Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-16T02:03:22.417679</generated>
+  <title>Ynet All Articles — Complete Feed</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-16T02:04:55.095451</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
-      <title>Israel braces for Iran war to last into April as hopes of regime collapse become more unlikely</title>
-      <link>https://www.ynetnews.com/article/rjucnun9bg</link>
-      <summary>Defense Minister Katz pushing for expanding ground operation in Lebanon and capturing territory to push anti-tank threats farther away from border, while Netanyahu confidant Dermer said to oversee efforts to reach ceasefire deal with Beirut</summary>
-      <pubDate>Sun, 15 Mar 2026 20:50:30 +03:00</pubDate>
-      <priority>140</priority>
+      <title>זו חייבת להיות המלחמה האחרונה</title>
+      <link>https://www.ynet.co.il/news/article/yokra14707965</link>
+      <description>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</description>
+      <pubDate>Sat, 14 Mar 2026 19:59:17 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Zelensky says Russia supplying Iran with Shahed drones used against US and Israel</title>
-      <link>https://www.ynetnews.com/article/h1hmq9mczx</link>
-      <summary>As Netanyahu seeks talks with the Ukrainian leader, Kyiv says it is expanding cooperation with Israel and the United States on countering Iranian-designed drones, while Tehran warns Ukraine could become a target</summary>
-      <pubDate>Sun, 15 Mar 2026 04:53:58 +03:00</pubDate>
-      <priority>140</priority>
+      <title>לא רק טילים: כך איראן נלחמת במערב דרך דעת הקהל</title>
+      <link>https://www.ynet.co.il/news/article/h1zipb11511g</link>
+      <description>בתקשורת, באקדמיה וברשתות החברתיות: איראן מנהלת מערכה מתמשכת להשפיע על דעת הקהל במערב נגד ישראל, לפגוע באמון הציבור של המערב במוסדותיו, לייצר פילוג ושיסוע פנימי ולכרסם בלגיטימציה של ממשלות מערביות. אין ברירה אלא להשיב לה מלחמה גם בחזית הזו</description>
+      <pubDate>Fri, 13 Mar 2026 15:47:48 +0200</pubDate>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Israel identifies terror group behind recent wave of attacks on Jewish sites in Europe</title>
-      <link>https://www.ynetnews.com/article/b1ya1s45zg</link>
-      <summary>Israel’s Diaspora Affairs Ministry says the terror group Ashab al-Yamin al-Islamia used lone attackers to target synagogues and Jewish sites in the Netherlands, Belgium and Greece, possibly linked to pro-Iranian networks and psychological intimidation</summary>
-      <pubDate>Sun, 15 Mar 2026 23:20:15 +03:00</pubDate>
-      <priority>130</priority>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Mossad hunts Iranian terror cells abroad as officials warn restraints are off</title>
-      <link>https://www.ynetnews.com/article/sypvtd7511e</link>
-      <summary>Senior Israeli officials say Iran has unleashed a global terror push to attack Jews and Israelis since the war began, with the spy agency pursuing cells worldwide amid what they described as a staggering surge in attempted attacks</summary>
-      <pubDate>Sun, 15 Mar 2026 02:29:48 +03:00</pubDate>
-      <priority>130</priority>
+      <title>האינפלציה תעלה הערב - והמלחמה עם איראן קוברת את תקוות הורדת הריבית</title>
+      <link>https://www.ynet.co.il/economy/article/hkh2wqxcwl</link>
+      <description>למרות שמדד פברואר יעלה רק ב-0.2%, על פי החזאים, בתקופה המקבילה אשתקד המדד היה אפסי - ולכן האינפלציה השנתית תעלה לאיזור 2%. התייקרות הדלק בעקבות המלחמה במזרח התיכון, ובכלל המצב באיזור, מונעים כמעט בוודאות הורדת ריבית ע"י בנק ישראל בעוד כשבועיים</description>
+      <pubDate>Sun, 15 Mar 2026 07:15:23 +0200</pubDate>
+      <source>ynet-economy</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Iran tried to down an Israeli fighter jet, IDF says</title>
-      <link>https://www.ynetnews.com/article/sknu2b75bx</link>
-      <summary>The shootdown attempt failed due to the alertness and professionalism of the pilot, the IDF said, adding that the mission was completed successfully</summary>
-      <pubDate>Sat, 14 Mar 2026 18:28:41 +03:00</pubDate>
-      <priority>130</priority>
+      <title>החומרים ששומרים על עירנות הטייסים שתוקפים באיראן</title>
+      <link>https://www.ynet.co.il/health/article/yokra14707218</link>
+      <description>הגיחות המרוחקות והבלתי פוסקות לאיראן מתאפשרות לא רק בזכות הסגולות הטבעיות של הטייסים הישראלים. חיל האוויר מספק להם חומרים מעוררים ששומרים על העירנות ומשפרים ביצועים | בכיר בצה"ל חושף לראשונה את המערך המדעי שמאפשר זאת, וכולל גם חיישנים ביומטריים המתריעים כשהגוף מתחיל להיכנע לעי...</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
+      <source>ynet-health</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>IDF kills senior Iranian intelligence officials in Tehran strike</title>
-      <link>https://www.ynetnews.com/article/sy1mrwqqbx</link>
-      <summary>Since Operation Roaring Lion began, the Israeli Air Force has carried out about 400 waves of strikes across western and central Iran, hitting missile launchers, air defenses and military infrastructure</summary>
-      <pubDate>Sat, 14 Mar 2026 18:04:33 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>כשאמריקה התעוררה למלחמה: טראמפ, איראן ודעת הקהל</title>
-      <link>https://www.ynet.co.il/news/article/hjvkx9z5zg</link>
-      <summary>הציבור האמריקאי לא ממש הבין בהתחלה למה צריך לצאת למלחמה רחוקה מבית, בזמן שבו לא נראה היה שיש איום ישיר ומיידי על ארצות הברית. מה הביא לשינוי?</summary>
-      <pubDate>Fri, 13 Mar 2026 15:53:49 +0200</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>אושר: סוכנות האנרגיה הבינלאומית תשחרר 400 מיליון חביות נפט ממאגרי החירום</title>
-      <link>https://www.ynet.co.il/economy/article/bynaaveqbl</link>
-      <summary>השחרור נועד להתמודד עם הזינוק במחירי הנפט מאז פרוץ המלחמה בעקבות סגירת מצרי הורמוז ע"י איראן. המלאי ממדינות אסיה ואוקיאניה יהיה זמין מיידית, ‏ומאירופה ואמריקה בסוף החודש</summary>
-      <pubDate>Sun, 15 Mar 2026 20:32:28 +0200</pubDate>
-      <priority>125</priority>
+      <title>אביו של זוהראן ממדאני עובד על ספר חדש שיעסוק בישראל ובפלסטינים</title>
+      <link>https://www.ynet.co.il/entertainment/article/r14q87mcze</link>
+      <description>פרופסור מחמוד ממדאני, אביו של ראש עיריית ניו-יורק, עובד על ספר חדש שבו הוא מבקר את רעיון ה״מולדת״ ומקשר אותו לסכסוך הישראלי-פלסטיני ולהפגנות בקמפוסים. עמדותיו ממשיכות קו ביקורתי ותיק שלו כלפי ישראל, הכולל תמיכה בחרם והשוואות לאפרטהייד, לצד תמיכה בפלסטינים מאז תחילת המלחמה בעזה</description>
+      <pubDate>Sat, 14 Mar 2026 20:28:11 +0200</pubDate>
+      <source>ynet-culture</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
       <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
+      <description>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</description>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0200</pubDate>
-      <priority>125</priority>
+      <source>ynet-culture</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>איראן: מלחמה מחוץ למצלמה</title>
-      <link>https://www.ynet.co.il/news/article/yokra14710366</link>
-      <summary>גורם בכיר בצה”ל אומר שהציבור בישראל ובעולם כמעט ואינו מבין מה באמת מתרחש באיראן. בעזה או בלבנון, כל תקיפה כמעט מתועדת תוך דקות. סרטונים עולים לרשתות החברתיות, תמונות מופצות בערוצי טלגרם. באיראן המצב הפוך: המשטר מגביל את האינטרנט ולעיתים אף סוגר אותו לחלוטין, וכמעט ואין תיעוד מ...</summary>
-      <pubDate>Mon, 16 Mar 2026 00:08:00 +0200</pubDate>
-      <priority>115</priority>
+      <title>IDF says Iran war to last for at least 3 more weeks; army denies interceptor shortage</title>
+      <link>https://www.ynetnews.com/article/sjoszbnqwe</link>
+      <description>IDF spokesman Brig. Gen. Effie Defrin says Israel has thousands of targets left in Iran and plans operations for at least three more weeks; security officials say Iranian missile launches have sharply declined in recent days</description>
+      <pubDate>Sun, 15 Mar 2026 16:36:29 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>Report: Israel warns US it is running dangerously low on interceptors</title>
+      <link>https://www.ynetnews.com/article/rk3c8rx5zx</link>
+      <description>Officials tell Semafor that Israel had already entered the current war with limited interceptor supplies after using significant numbers during last summer’s fighting with Iran</description>
+      <pubDate>Sat, 14 Mar 2026 22:40:39 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>Iran fires cluster-warhead at central, southern Israel; no injuries reported</title>
+      <link>https://www.ynetnews.com/article/s1ee00l7911l</link>
+      <description>Earlier in the day, a cluster-warhead missile fired from Iran toward Eilat wounded several people after interception fragments fell across the southern city</description>
+      <pubDate>Sat, 14 Mar 2026 17:05:24 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
