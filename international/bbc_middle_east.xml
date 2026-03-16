@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-16T14:03:58.210060</generated>
+  <generated>2026-03-16T16:04:52.415813</generated>
   <items>
+    <item>
+      <title>Who wants what from the Iran war?</title>
+      <link>https://www.bbc.com/news/articles/cgk2lm5znyro?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Most people, although not everybody, want this war to end as quickly as possible. But on what terms?</summary>
+      <pubDate>Mon, 16 Mar 2026 11:00:03 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c0/live/047c9c00-2133-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>What Iranians are being told about the war</title>
       <link>https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -49,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
-      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
-      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'There's no hiding place on a ship': The sailors stranded near Iran</title>
-      <link>https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf.</summary>
-      <pubDate>Fri, 13 Mar 2026 01:47:54 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8278/live/dbf69dd0-1ec1-11f1-801d-ed3cff6bf876.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated</title>
       <link>https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.</summary>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9c/live/e6859790-1ba3-11f1-9f65-e32170917420.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Under drone fire, exiled Kurds wait to confront Iranian regime</title>
+      <link>https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A group of fighters based in Iraq say they are "ready to go home", as they face drone attacks from Tehran.</summary>
+      <pubDate>Fri, 13 Mar 2026 22:02:39 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

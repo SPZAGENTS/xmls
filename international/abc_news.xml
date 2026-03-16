@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-16T14:04:06.321047</generated>
+  <generated>2026-03-16T16:05:00.927625</generated>
   <items>
     <item>
       <title>WATCH: Powerful cross-country storm to slam Midwest and barrel toward the East Coast</title>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Michael B. Jordan delivers emotional speech after best actor Oscar win</title>
+      <link>https://abcnews.com/GMA/Culture/2026-oscars-michael-b-jordan-best-actor/story?id=131103754</link>
+      <summary>Jordan thanked his family and fellow actors in his Oscars speech.</summary>
+      <pubDate>Mon, 16 Mar 2026 10:00:12 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/oscars-100-gty-gmh-260315_1773627912921_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: A day out in Hollywood with Andy Richter</title>
       <link>https://abcnews.com/GMA/Culture/video/day-hollywood-andy-richter-131034558</link>
       <summary>"GMA" spends a day in Hollywood with Richter ahead of the 2026 Oscars as he prepares to livestream on TikTok while Conan O'Brien hosts the ceremony.</summary>
@@ -52,10 +63,10 @@
       <title>Oscars 2026: Full winners list from the 98th Academy Awards</title>
       <link>https://abcnews.com/GMA/Culture/oscars-2026-full-winners-list/story?id=130769299</link>
       <summary>See who won best picture, which films took home the most Oscars and more.</summary>
-      <pubDate>Mon, 16 Mar 2026 06:17:01 -0400</pubDate>
+      <pubDate>Mon, 16 Mar 2026 08:47:13 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/oscars-107-rt-gmh-260315_1773629292374_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/oscars-1-abc-gmh-260316_1773663014574_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260315_abc_social_northern_lights_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Sinners' star Michael B. Jordan wins best actor Oscar</title>
-      <link>https://abcnews.com/GMA/Culture/2026-oscars-michael-b-jordan-best-actor/story?id=131103754</link>
-      <summary>Jordan thanked his family and fellow actors in his Oscars speech.</summary>
-      <pubDate>Mon, 16 Mar 2026 06:12:34 -0400</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/oscars-100-gty-gmh-260315_1773627912921_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-16T14:03:59.669244</generated>
+  <generated>2026-03-16T16:04:54.007301</generated>
   <items>
+    <item>
+      <title>US warns Iraq must act against Iran-backed militia attacks on American assets</title>
+      <link>https://www.foxnews.com/world/us-warns-iraq-must-act-against-iran-backed-militia-attacks-american-assets</link>
+      <summary>Iran-backed Popular Mobilization Forces have been accused of attacking U.S. assets in Iraq as Prime Minister Mohammed Shia al-Sudani&amp;apos;s government told to rein in terror proxies.</summary>
+      <pubDate>Mon, 16 Mar 2026 08:27:12 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-embassy-baghdad-iraq.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Pope Leo urges war leaders to halt fighting after deadly strike on school sparks outrage</title>
       <link>https://www.foxnews.com/world/pope-leo-urges-war-leaders-halt-fighting-after-deadly-strike-school-sparks-outrage</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/6-headshots-irgc.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian drone attacks strain US air defenses as Ukraine pitches low-cost interceptors</title>
-      <link>https://www.foxnews.com/world/iranian-drone-attacks-strain-us-air-defenses-ukraine-pitches-low-cost-interceptors</link>
-      <summary>The rapid spread of low-cost Iranian Shahed drones is forcing the U.S. and its allies to use expensive missile defenses to counter mass attacks.</summary>
-      <pubDate>Sat, 14 Mar 2026 06:00:26 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/wild-hornets-sting-interceptor-drones.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
