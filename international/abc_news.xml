@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-16T18:03:38.217082</generated>
+  <generated>2026-03-16T20:06:43.104091</generated>
   <items>
+    <item>
+      <title>Iran live updates: Trump says countries 'on the way'</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
+      <pubDate>Mon, 16 Mar 2026 13:52:16 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-rt-gmh-260316_1773678812540_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: Powerful cross-country storm to slam Midwest and barrel toward the East Coast</title>
       <link>https://abcnews.com/WNT/video/powerful-cross-country-storm-slammidwestand-barrel-theeastcoast-131093121</link>
@@ -16,46 +27,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Most iconic and unexpected moments in Oscar history</title>
-      <link>https://abcnews.com/GMA/Culture/video/iconic-unexpected-moments-inoscar-history-131065497</link>
-      <summary>ABC News’ Will Ganss looks back at some of the most memorable moments in the Academy Awards’ nearly 100-year history.</summary>
-      <pubDate>Sat, 14 Mar 2026 11:32:28 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260314_gma_ganss_oscars1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Sun, 15 Mar 2026 18:52:17 -0400</pubDate>
+      <pubDate>Mon, 16 Mar 2026 12:34:28 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: A day out in Hollywood with Andy Richter</title>
-      <link>https://abcnews.com/GMA/Culture/video/day-hollywood-andy-richter-131034558</link>
-      <summary>"GMA" spends a day in Hollywood with Richter ahead of the 2026 Oscars as he prepares to livestream on TikTok while Conan O'Brien hosts the ceremony.</summary>
-      <pubDate>Fri, 13 Mar 2026 11:10:47 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260313_gma_spencer_hollywood1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oscars 2026: Full winners list from the 98th Academy Awards</title>
-      <link>https://abcnews.com/GMA/Culture/oscars-2026-full-winners-list/story?id=130769299</link>
-      <summary>See who won best picture, which films took home the most Oscars and more.</summary>
-      <pubDate>Mon, 16 Mar 2026 08:47:13 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/oscars-1-abc-gmh-260316_1773663014574_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +49,35 @@
       </media>
     </item>
     <item>
-      <title>University of Florida moves to disband College Republicans after antisemitism reports</title>
-      <link>https://abcnews.com/US/wireStory/university-florida-moves-deactivate-college-republicans-after-report-131118235</link>
-      <summary>The University of Florida is moving to deactivate its College Republicans chapter after reports of antisemitic behavior by some members</summary>
-      <pubDate>Mon, 16 Mar 2026 11:31:09 -0400</pubDate>
+      <title>Biggest wildfire in Nebraska history continues to burn out of control</title>
+      <link>https://abcnews.com/US/biggest-wildfire-nebraska-history-continues-burn-control/story?id=131086196</link>
+      <summary>Three major wildfires, including the largest one in Nebraska history, have burned around 600,000 acres of wildland in rural central and western Nebraska .</summary>
+      <pubDate>Mon, 16 Mar 2026 12:37:44 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/wirestory_d49e6de7a9de5cdf66c4ef3abe979072_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/Nebraska-wildfires-two-hd-bh-260315_1773589696549_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Backstage with Oscars’ biggest winners</title>
+      <link>https://abcnews.com/GMA/Culture/video/backstage-oscars-biggest-winners-131109687</link>
+      <summary>From “Sinners” winners Michael B. Jordan and Ryan Coogler to “Hamnet” winner Jessie Buckley and Ejae of “KPop Demon Hunters,” “GMA” spoke with the Oscar winners backstage.</summary>
+      <pubDate>Mon, 16 Mar 2026 10:40:21 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260316_gma_oscars_sinners_0708_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Golden retriever trio shines bright at sunset</title>
+      <link>https://abcnews.com/GMA/Living/video/golden-retriever-trio-shines-bright-sunset-131031613</link>
+      <summary>A woman was out shopping in Malibu when she stumbled upon three Golden Retriever pups in a truck bed at the peak of golden hour in the Golden State.</summary>
+      <pubDate>Fri, 13 Mar 2026 11:13:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260313_gma_play_golden_retrievers_0748_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Oscars winner Amy Madigan shares what she thought of host Conan O'Brien's Gladys</title>
-      <link>https://abcnews.com/GMA/Culture/amy-madigan-opens-winning-1st-oscar-age-75/story?id=131111050</link>
-      <summary>Actress Amy Madigan spoke to ABC News about winning her first Oscar at 75, her first win since her first nomination 40 years ago.</summary>
-      <pubDate>Mon, 16 Mar 2026 11:04:57 -0400</pubDate>
-      <priority>50</priority>
+      <title>White House chief of staff Susie Wiles says she has been diagnosed with breast cancer</title>
+      <link>https://abcnews.com/Politics/white-house-chief-staff-susie-wiles-diagnosed-breast/story?id=131120016</link>
+      <summary>She will begin treatment immediately, the president said.</summary>
+      <pubDate>Mon, 16 Mar 2026 13:21:35 -0400</pubDate>
+      <priority>60</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/madigan-abc-jef-260316_1773662614430_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/susie-wiles-1-ap-gmh-260316_1773677240964_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-16T18:03:29.873990</generated>
+  <generated>2026-03-16T20:06:36.236709</generated>
   <items>
+    <item>
+      <title>Wary allies show there's no quick fix to Trump's Iran crisis</title>
+      <link>https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option.</summary>
+      <pubDate>Mon, 16 Mar 2026 17:34:13 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f521/live/30b2ab10-214d-11f1-8771-8f3ba04352de.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Ukraine's urgent fight on the financial frontline</title>
       <link>https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC</title>
-      <link>https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Residents describe new security checkpoints around the capital, where they say people are stopped and searched.</summary>
-      <pubDate>Mon, 16 Mar 2026 04:43:43 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11a/live/30940050-211d-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says</title>
       <link>https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences.</summary>
@@ -67,6 +67,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a6/live/52eac690-2134-11f1-8293-3398b1b15181.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC</title>
+      <link>https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Residents describe new security checkpoints around the capital, where they say people are stopped and searched.</summary>
+      <pubDate>Mon, 16 Mar 2026 04:43:43 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11a/live/30940050-211d-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/62f891c0-2125-11f1-821c-5783b4f9d6f9.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ecuador deploys 75,000 soldiers and police to combat drug gangs</title>
-      <link>https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Citizens of the most violent-wracked provinces have been warned the government is "at war" with the gangs.</summary>
-      <pubDate>Mon, 16 Mar 2026 11:58:42 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5816/live/88067c00-212c-11f1-821c-5783b4f9d6f9.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

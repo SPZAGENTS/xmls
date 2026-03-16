@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-16T18:03:38.862397</generated>
+  <generated>2026-03-16T20:06:43.772033</generated>
   <items>
     <item>
       <title>Pope escalates call for ceasefire in Iran by addressing those responsible for the war</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>After quieter weeks, Taiwan reports large-scale Chinese military aircraft presence near the island</title>
-      <link>https://abcnews.com/International/wireStory/after-quieter-weeks-taiwan-reports-large-scale-chinese-131081611</link>
-      <summary>Taiwan is seeing a surge of Chinese military planes near the island after a sharp drop in flights over the past two weeks had sparked discussions among observers</summary>
-      <pubDate>Sun, 15 Mar 2026 04:38:25 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Police in Haiti arrest lawmaker Arnel Belizaire, who faces charges including terror financing</title>
       <link>https://abcnews.com/International/wireStory/police-haiti-arrest-lawmaker-arnel-belizaire-faces-charges-131117308</link>
       <summary>Haitian authorities say they have arrested legislator Arnel Belizaire</summary>
@@ -100,6 +89,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_15de9a35d08aa0c265de42a13d1ddaea_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>BBC asks US court to dismiss Trump's $10 billion defamation lawsuit</title>
+      <link>https://abcnews.com/International/wireStory/bbc-asks-us-court-dismiss-trumps-10-billion-131121421</link>
+      <summary>The BBBC has asked a U.S. judge to throw out President Donald Trump&amp;rsquo;s $10 billion lawsuit over an edited documentary clip</summary>
+      <pubDate>Mon, 16 Mar 2026 13:24:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_243128261f72a22de342d0cc02c0e4f1_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

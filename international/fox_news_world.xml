@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-16T18:03:30.981736</generated>
+  <generated>2026-03-16T20:06:37.271958</generated>
   <items>
+    <item>
+      <title>New terror group with reported Iran ties claims 4 attacks across Europe</title>
+      <link>https://www.foxnews.com/world/new-terror-group-reported-iran-ties-claims-4-attacks-across-europe</link>
+      <summary>Harakat Ashab al-Yamin al-Islamiyya attacks on European Jewish institutions may be linked to Iranian proxy networks, according to security analysts and Israeli officials.</summary>
+      <pubDate>Mon, 16 Mar 2026 12:49:42 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/liege-synagogue-attack.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US warns Iraq must act against Iran-backed militia attacks on American assets</title>
       <link>https://www.foxnews.com/world/us-warns-iraq-must-act-against-iran-backed-militia-attacks-american-assets</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/931/523/russia-iran-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US offers $10M reward for info on Iran’s new supreme leader, top IRGC officials</title>
-      <link>https://www.foxnews.com/world/us-offers-10m-reward-info-irans-new-supreme-leader-top-irgc-officials</link>
-      <summary>The U.S. is offering a $10 million reward for intel on Iran&amp;apos;s new Supreme Leader Mojtaba Khamenei and IRGC officials accused of attacks against Americans.</summary>
-      <pubDate>Sat, 14 Mar 2026 10:58:46 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/6-headshots-irgc.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

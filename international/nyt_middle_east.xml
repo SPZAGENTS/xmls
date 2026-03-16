@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-16T18:03:34.511647</generated>
+  <generated>2026-03-16T20:06:39.857509</generated>
   <items>
+    <item>
+      <title>As Israel Expands Ground Assault in Lebanon, One Strategic Town Resists</title>
+      <link>https://www.nytimes.com/2026/03/16/world/middleeast/lebanon-strategic-town-khiam.html</link>
+      <summary>The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts.</summary>
+      <pubDate>Mon, 16 Mar 2026 16:17:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-khiam-gkqw/16israel-iran-khiam-gkqw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts</title>
       <link>https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/14int-israel-north-01-vgwb-promo/14int-israel-north-01-vgwb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Amid War in Iran, Europe’s Flashes of Military Strength Also Show Its Weakness</title>
-      <link>https://www.nytimes.com/2026/03/15/world/europe/europe-iran-military.html</link>
-      <summary>To defend allies from Iran, the continent’s powers have mounted a rare show of force. But those efforts have diverted limited resources from other hot spots.</summary>
-      <pubDate>Sun, 15 Mar 2026 09:01:01 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15int-europe-iran-military-01-gcvb/15int-europe-iran-military-01-gcvb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

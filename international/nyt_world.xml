@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-16T18:03:34.023360</generated>
+  <generated>2026-03-16T20:06:39.430894</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Set to Speak as Allies Rebuff His Appeal for Help in Strait of Hormuz</title>
+      <title>Iran War Live Updates: Trump Disparages Allies for Rebuffing His Requests for Military Assistance</title>
       <link>https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon</link>
-      <summary>Germany and other nations rejected President Trump’s call for warships to reopen the vital oil route. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:57:19 +0000</pubDate>
+      <summary>“We don’t need anybody,” the president declared, even as he said several countries had agreed to help reopen the Strait of Hormuz. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.</summary>
+      <pubDate>Mon, 16 Mar 2026 17:56:07 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16mideast-live-promo-lfwc/16mideast-live-promo-lfwc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-wbfz/16israel-iran-wbfz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/14/multimedia/14int-israel-north-01-vgwb-promo/14int-israel-north-01-vgwb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As Israel Expands Ground Assault in Lebanon, One Strategic Town Resists</title>
+      <link>https://www.nytimes.com/2026/03/16/world/middleeast/lebanon-strategic-town-khiam.html</link>
+      <summary>The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts.</summary>
+      <pubDate>Mon, 16 Mar 2026 16:17:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-khiam-gkqw/16israel-iran-khiam-gkqw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,21 +107,10 @@
       <title>Europe Rejects Trump’s Demands for Warships to Reopen the Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html</link>
       <summary>While some European countries said they were discussing ways to help reopen the Strait of Hormuz, several rejected President Trump’s calls to send warships.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:47:45 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 17:38:02 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/16/multimedia/16vid-hormuz-trump1-jkpc/16vid-hormuz-trump1-jkpc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations</title>
-      <link>https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html</link>
-      <summary>President Trump warned that he could postpone a meeting set to begin in just over two weeks if China refuses to help reopen the Strait of Hormuz.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:19:31 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-trump-china-jgmv/16israel-iran-trump-china-jgmv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
