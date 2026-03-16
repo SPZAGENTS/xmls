@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-16T12:04:40.708167</generated>
+  <generated>2026-03-16T14:04:07.215748</generated>
   <items>
     <item>
       <title>Pope escalates call for ceasefire in Iran by addressing those responsible for the war</title>
@@ -27,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>After attacks on Iran's oil facilities, toxic black rain endangers the public</title>
-      <link>https://abcnews.com/International/wireStory/after-attacks-irans-oil-facilities-toxic-black-rain-131080943</link>
-      <summary>Black rain fell in Iran's capital after airstrikes on oil facilities sent up dark clouds of toxic smoke</summary>
-      <pubDate>Sun, 15 Mar 2026 03:30:40 -0400</pubDate>
-      <priority>100</priority>
+      <title>Artillery attack on a Yemen village kills at least 10 as government blames Houthi rebels</title>
+      <link>https://abcnews.com/International/wireStory/artillery-attack-yemen-village-kills-10-government-blames-131109890</link>
+      <summary>An artillery strike has hit a village in northern Yemen and killed at least 10 people, including six children</summary>
+      <pubDate>Mon, 16 Mar 2026 07:00:00 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d5f67db4a772775c83dfa3fd303cf25d_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_35f7ee9557460e6983263b8eef82018a_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,7 +41,7 @@
       <title>2 dead after 2 boats carrying students capsize off US base construction site in southern Japan</title>
       <link>https://abcnews.com/International/wireStory/2-dead-after-2-boats-carrying-students-capsize-131109048</link>
       <summary>Two boats carrying 21 people capsized off Henoko, a controversial relocation site for a U.S. military base on the Japanese island of Okinawa, throwing all into the water and killing two, officials said</summary>
-      <pubDate>Mon, 16 Mar 2026 05:30:59 -0400</pubDate>
+      <pubDate>Mon, 16 Mar 2026 06:59:17 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_f353010b49d2073843f7e2d93ec164ef_4x3_384.jpg</image>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Roof collapse at Pakistan welfare payment site kills at least 8 women</title>
+      <link>https://abcnews.com/International/wireStory/roof-collapse-pakistan-welfare-payment-site-kills-8-131111246</link>
+      <summary>A crowded welfare payment line in eastern Pakistan has turned deadly after a shop roof collapsed, killing at least eight women</summary>
+      <pubDate>Mon, 16 Mar 2026 07:50:58 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9e67be7c6bf9b0ff1a5de9a6bbba1b4f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Kazakhstan's new constitution cementing president's grip on power approved in a referendum</title>
       <link>https://abcnews.com/International/wireStory/kazakhstans-new-constitution-cementing-presidents-grip-power-approved-131109138</link>
       <summary>A new constitution that strengthens President Kassym-Jomart Tokayev&amp;rsquo;s grip on power in Kazakhstan, Central Asia&amp;rsquo;s largest country, has won overwhelming approval in a referendum</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_89d92610c9eb73454592faafa7504587_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mexico City sets the world record for the largest soccer class</title>
-      <link>https://abcnews.com/International/wireStory/mexico-city-sets-world-record-largest-soccer-class-131093616</link>
-      <summary>Mexico City set a world record on Sunday with the largest soccer class ever, with 9,500 participants in the capital&amp;rsquo;s Zocalo square as the country prepares to host the opening match of the World Cup in June</summary>
-      <pubDate>Sun, 15 Mar 2026 19:39:54 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_4151a7d9cec86b187ab67645eabea875_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
