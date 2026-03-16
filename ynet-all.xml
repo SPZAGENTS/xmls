@@ -3,17 +3,9 @@
   <title>Ynet All Articles — Complete Feed</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-03-16T10:03:24.010863</last-updated>
+  <last-updated>2026-03-16T12:03:25.914640</last-updated>
   <article-count>10</article-count>
   <items>
-    <item>
-      <title>זו חייבת להיות המלחמה האחרונה</title>
-      <link>https://www.ynet.co.il/news/article/yokra14707965</link>
-      <description>אנחנו דורשים בצפון את מה שקורה ברצועת עזה - העברת שטח הלחימה לצד של האויב והכרעת האיומים שעלולים לסכן את כוחותינו. זה אומר "קו צהוב" בצפון. אזור חיץ אמיתי, נקי מאיומים, עד נהר הליטני. הגליל לא יכול להמשיך להיות רצועת הביטחון של מדינת ישראל</description>
-      <pubDate>Sat, 14 Mar 2026 19:59:17 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
-    </item>
     <item>
       <title>לא רק טילים: כך איראן נלחמת במערב דרך דעת הקהל</title>
       <link>https://www.ynet.co.il/news/article/h1zipb11511g</link>
@@ -55,6 +47,14 @@
       <priority-score>115</priority-score>
     </item>
     <item>
+      <title>Iran missile barrage hits central Israel with banned cluster munition; woman lightly injured</title>
+      <link>https://www.ynetnews.com/article/sknn2nbqwl</link>
+      <description>Woman in her 30s suffers light injuries while inside a reinforced room; medics say protected space likely prevented far more serious harm; strikes reported in Rishon Lezion, Shoham and Lod, with damage to a car, sidewalk and private yard</description>
+      <pubDate>Mon, 16 Mar 2026 10:26:14 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
       <title>Rocket and missile alert sirens activated throughout central, southern Israel</title>
       <link>https://www.ynetnews.com/article/byulcpn9we</link>
       <description>Shortly after the missile barrage, the IDF announced that is has begun 'a wide-scale wave of strikes targeting Iranian terror regime infrastructure in Tehran'</description>
@@ -71,19 +71,19 @@
       <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Report: Israel warns US it is running dangerously low on interceptors</title>
-      <link>https://www.ynetnews.com/article/rk3c8rx5zx</link>
-      <description>Officials tell Semafor that Israel had already entered the current war with limited interceptor supplies after using significant numbers during last summer’s fighting with Iran</description>
-      <pubDate>Sat, 14 Mar 2026 22:40:39 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
       <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
       <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
       <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
       <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
       <source>ynet-technology</source>
+      <priority-score>110</priority-score>
+    </item>
+    <item>
+      <title>IDF says destroyed 70% of Iran's missile launchers as war progresses 'beyond expectations'</title>
+      <link>https://www.ynetnews.com/article/b1gfxue511x</link>
+      <description>Officials say dozens of nuclear-related targets have been struck in Iran while the IDF expands operations against Hezbollah, which officials say has been weakened significantly during the war</description>
+      <pubDate>Sun, 15 Mar 2026 18:01:32 +03:00</pubDate>
+      <source>ynet-news-english</source>
       <priority-score>110</priority-score>
     </item>
   </items>
