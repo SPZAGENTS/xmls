@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-16T02:04:05.367511</generated>
+  <generated>2026-03-16T04:04:51.143198</generated>
   <items>
     <item>
-      <title>Oscars 2026 live updates: 1st awards handed out</title>
+      <title>Oscars 2026: Live updates, winners, best moments</title>
       <link>https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802</link>
       <summary>All the top moments from the 98th Academy Awards, airing live from the Dolby Theatre in Los Angeles.</summary>
-      <pubDate>Sun, 15 Mar 2026 20:01:39 -0400</pubDate>
+      <pubDate>Sun, 15 Mar 2026 22:02:59 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/oscars-42-gty-gmh-260315_1773616565629_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/oscars-83-rt-gmh-260315_1773625057285_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Billy Crystal delivers emotional tribute to Rob Reiner, wife Michele at 2026 Oscars</title>
+      <link>https://abcnews.com/GMA/Culture/oscars-2026-in-memoriam/story?id=130769733</link>
+      <summary>The Reiners were found dead last December in Los Angeles.</summary>
+      <pubDate>Sun, 15 Mar 2026 21:30:40 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/oscars-69-gty-gmh-260315_1773622707976_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260315_abc_social_northern_lights_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: What to know about the gender pay gap</title>
-      <link>https://abcnews.com/US/video/gender-pay-gap-131085386</link>
-      <summary>Gender economist Katica Roy breaks down the latest data, which shows that the gender pay gap more than doubles over the course of a woman's career.</summary>
-      <pubDate>Sun, 15 Mar 2026 11:13:23 -0400</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260315_abcnl_10a_roy_paygap_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

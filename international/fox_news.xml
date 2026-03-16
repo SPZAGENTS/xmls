@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-16T02:03:57.042795</generated>
+  <generated>2026-03-16T04:04:43.413001</generated>
   <items>
+    <item>
+      <title>CNN liberal panelist argues billions spent on defense should go to health insurance instead</title>
+      <link>https://www.foxnews.com/media/cnn-liberal-panelist-argues-billions-spent-defense-should-go-health-insurance-instead</link>
+      <summary>CNN panelists debate U.S. priorities as Leigh McGowan questions whether spending on the Iran conflict should instead go toward addressing healthcare challenges at home.</summary>
+      <pubDate>Sun, 15 Mar 2026 21:00:05 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/cnn-panelists-clash-over-iranian-war-helthcare-debate-1.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iranian foreign minister claims Trump launched war 'because it is fun'</title>
       <link>https://www.foxnews.com/media/iranian-foreign-minister-claims-trump-launched-war-because-fun</link>
@@ -27,28 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Iran arrests dozens accused of spying for Israel in new internal crackdown</title>
-      <link>https://www.foxnews.com/world/iran-arrests-dozens-accused-spying-israel-new-internal-crackdown</link>
-      <summary>Iran says it has arrested dozens of alleged spies linked to Israel across several provinces, accusing them of sharing the locations of military sites and economic infrastructure.</summary>
-      <pubDate>Sun, 15 Mar 2026 14:17:03 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-police-men-tehran.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>String of attacks connected to naturalized citizens raises national security questions</title>
-      <link>https://www.foxnews.com/politics/string-attacks-connected-naturalized-citizens-raises-national-security-questions</link>
-      <summary>Four alleged terror attacks connected naturalized U.S. citizens in March expose critical security gaps in America, a security expert warned on Fox News.</summary>
-      <pubDate>Sun, 15 Mar 2026 14:41:07 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-naturalized-citizen-attack-suspects.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>2026 Oscars: Winners and losers</title>
       <link>https://www.foxnews.com/entertainment/2026-oscars-winners-losers</link>
       <summary>A comprehensive roundup of the 98th Academy Awards, including the full list of nominees and winners.</summary>
@@ -56,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/oscars-amy-madigan.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>FCC chair Brendan Carr warns broadcasters must 'correct course' on 'news distortions' before license renewals</title>
-      <link>https://www.foxnews.com/media/fcc-chair-brendan-carr-warns-broadcasters-must-correct-course-news-distortions-before-license-renewals</link>
-      <summary>FCC chair Brendan Carr warned broadcasters running &amp;quot;fake news&amp;quot; could lose licenses during renewals, citing public interest requirements and media accountability.</summary>
-      <pubDate>Sun, 15 Mar 2026 15:00:35 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/brendan-carr-fcc-warning.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,7 +60,18 @@
       </media>
     </item>
     <item>
-      <title>Woman accused of fatal hit-and-run that killed 8 year old laughs during first court appearance</title>
+      <title>Arizona man who admitted to crucifying pastor asks for death penalty so 'we can move on with our lives'</title>
+      <link>https://www.foxnews.com/us/arizona-man-who-admitted-crucifying-pastor-asks-death-penalty-so-we-can-move-our-lives</link>
+      <summary>An Arizona man accused of crucifying a pastor requested the death penalty, saying he wants the case to end quickly and has never claimed to be innocent.</summary>
+      <pubDate>Sun, 15 Mar 2026 21:49:33 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/schonemann-sheafe-az-death-penalty-murder.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Woman accused of fatal hit-and-run that killed 8-year-old laughs during first court appearance</title>
       <link>https://www.foxnews.com/us/woman-accused-fatal-hit-and-run-killed-8-year-old-laughs-during-first-court-appearance</link>
       <summary>A Florida woman accused in a fatal hit-and-run was seen laughing during a court hearing as the judge read charges for an 8-year-old boy&amp;apos;s death in the Winter Haven crash incident.</summary>
       <pubDate>Sun, 15 Mar 2026 19:41:06 -0400</pubDate>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/lamar-odom-kobe-bryant-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Illegal immigrant released under Biden charged with groping female students at Virginia high school</title>
+      <link>https://www.foxnews.com/media/illegal-immigrant-released-under-biden-charged-groping-female-students-virginia-high-school</link>
+      <summary>Mother of three students speaks out about alleged sexual assault case at Virginia high school, criticizing delayed notification and school district policies.</summary>
+      <pubDate>Sun, 15 Mar 2026 16:00:37 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fairfax-county-public-schools-bus.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
