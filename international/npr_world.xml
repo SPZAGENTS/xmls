@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-16T06:03:18.152318</generated>
+  <generated>2026-03-16T08:04:11.579853</generated>
   <items>
     <item>
       <title>'We never asked for a ceasefire,' says Iran's foreign minister, as war keeps raging</title>
@@ -10,6 +10,13 @@
       <summary>Israel announced a barrage of new strikes on western Iran on Sunday, while Iran's foreign minister said the country has not asked for a ceasefire as President Trump had claimed.</summary>
       <pubDate>Sun, 15 Mar 2026 07:00:08 -0400</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>5 takeaways from an Oscars night that spread the love</title>
+      <link>https://www.npr.org/2026/03/16/nx-s1-5739288/oscars-2026-takeaways-winners-best-picture-actor</link>
+      <summary>It's thrilling to see the Academy recognize a weird, funny, scary performance like Amy Madigan's in Weapons. Here's what NPR critic Linda Holmes thought of the awards.</summary>
+      <pubDate>Mon, 16 Mar 2026 00:34:40 -0400</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>'One Battle After Another' takes best picture. Here's the full list of Oscar winners</title>
@@ -26,25 +33,18 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Pentagon tightens controls over Stars and Stripes after calling it "woke"</title>
-      <link>https://www.npr.org/2026/03/14/nx-s1-5748020/pentagon-tightens-controls-over-stars-and-stripes-after-calling-it-woke</link>
-      <summary>The new rules for the independent military newspaper are the Defense Department's latest effort to put extraordinary restrictions on journalists covering the agency.</summary>
-      <pubDate>Sat, 14 Mar 2026 18:18:02 -0400</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
-      <title>See the Oscars red carpet looks</title>
-      <link>https://www.npr.org/2026/03/15/nx-s1-5739286/oscars-2026-red-carpet-best-actor-best-actress-photos</link>
-      <summary>Stars are arriving for the Academy Awards. The show starts at 7 p.m. ET, 4 p.m. PT on ABC and Hulu.</summary>
-      <pubDate>Sun, 15 Mar 2026 18:48:35 -0400</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Israeli soldiers fire on family car in occupied West Bank, killing 4</title>
       <link>https://www.npr.org/2026/03/15/g-s1-113834/israeli-soldiers-fire-on-family-car-in-occupied-west-bank-killing-4</link>
       <summary>Israeli soldiers fired on a car carrying a family in the northern West Bank, killing four people including two children, the Palestinian Authority's Health Ministry said.</summary>
       <pubDate>Sun, 15 Mar 2026 07:41:22 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>See the Oscars red carpet looks</title>
+      <link>https://www.npr.org/2026/03/15/nx-s1-5739286/oscars-2026-red-carpet-best-actor-best-actress-photos</link>
+      <summary>See looks from best actor Michael B. Jordan, best actress Jessie Buckley and more stars on the Oscars red carpet on Sunday night.</summary>
+      <pubDate>Sun, 15 Mar 2026 18:48:35 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Selection Sunday: Duke No. 1 overall in men's tournament, UConn women get top seed</title>
