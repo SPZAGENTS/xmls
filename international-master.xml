@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-16T04:04:53.517344</generated>
+  <generated>2026-03-16T06:03:18.155058</generated>
   <total_articles>325</total_articles>
   <items>
     <item>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcc/live/de4b0bd0-2087-11f1-8af0-cf4f458e05d4.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'It's a tie, I'm not joking' - unusual Oscars moment sees two films share award</title>
+      <link>https://www.bbc.com/news/articles/ce3gd8pk91jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The rare but not unprecedented tie saw The Singers and Two People Exchanging Saliva both win for best short live action film.</summary>
+      <pubDate>Mon, 16 Mar 2026 02:47:47 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202a/live/2bfecd20-20e3-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Emirati minister tells BBC Iran must end strikes on Gulf</title>
-      <link>https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The UAE says more than 1,800 drones and missiles have been projected at the country since the war began.</summary>
-      <pubDate>Thu, 12 Mar 2026 20:20:50 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/209a/live/871e2c60-1e4e-11f1-801d-ed3cff6bf876.jpg</image>
       </media>
     </item>
   </items>
