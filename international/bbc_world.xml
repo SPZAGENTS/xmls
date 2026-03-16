@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-16T00:03:33.739335</generated>
+  <generated>2026-03-16T02:03:56.443422</generated>
   <items>
-    <item>
-      <title>BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah</title>
-      <link>https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting "terrorist infrastructure".</summary>
-      <pubDate>Sat, 14 Mar 2026 22:55:40 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bb/live/986d6330-1fea-11f1-9436-9505a8c587fc.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>US names six crew killed in refuelling plane crash in Iraq</title>
       <link>https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -45,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c41/live/70cd9010-1f0a-11f1-801d-ed3cff6bf876.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah</title>
+      <link>https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting "terrorist infrastructure".</summary>
+      <pubDate>Sat, 14 Mar 2026 22:55:40 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bb/live/986d6330-1fea-11f1-9436-9505a8c587fc.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

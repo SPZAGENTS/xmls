@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-16T00:03:42.191867</generated>
+  <generated>2026-03-16T02:04:05.367511</generated>
   <items>
     <item>
-      <title>Oscars 2026: Rose Byrne, Jessie Buckley and more walk the red carpet</title>
+      <title>Oscars 2026 live updates: 1st awards handed out</title>
       <link>https://abcnews.com/GMA/Culture/live-updates/oscars-2026/?id=130977802</link>
       <summary>All the top moments from the 98th Academy Awards, airing live from the Dolby Theatre in Los Angeles.</summary>
-      <pubDate>Sun, 15 Mar 2026 18:02:30 -0400</pubDate>
+      <pubDate>Sun, 15 Mar 2026 20:01:39 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/oscars-8-rt-gmh-260315_1773607649272_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Energy Secretary Wright says war with Iran 'will certainly' end in next few weeks</title>
-      <link>https://abcnews.com/Politics/energy-secretary-wright-war-iran-end-weeks/story?id=131082819</link>
-      <summary>Wright said gas prices should come down soon, but there is no guarantee.</summary>
-      <pubDate>Sun, 15 Mar 2026 12:36:00 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/strait-of-hormuz-20260315-rt-jh_1773581826055_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/oscars-42-gty-gmh-260315_1773616565629_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Israel continues striking Beirut as fighting intensifies</title>
+      <link>https://abcnews.com/International/video/israel-continues-striking-beirut-fighting-intensifies-131026992</link>
+      <summary>ABC News' Matt Rivers reports from Beirut as the fighting between Israel and Hezbollah intensifies.</summary>
+      <pubDate>Fri, 13 Mar 2026 00:42:16 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260312_abc_soc_rivers_beirut_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Most iconic and unexpected moments in Oscar history</title>
       <link>https://abcnews.com/GMA/Culture/video/iconic-unexpected-moments-inoscar-history-131065497</link>
       <summary>ABC News’ Will Ganss looks back at some of the most memorable moments in the Academy Awards’ nearly 100-year history.</summary>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Sun, 15 Mar 2026 18:52:17 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: A day out in Hollywood with Andy Richter</title>
       <link>https://abcnews.com/GMA/Culture/video/day-hollywood-andy-richter-131034558</link>
       <summary>"GMA" spends a day in Hollywood with Richter ahead of the 2026 Oscars as he prepares to livestream on TikTok while Conan O'Brien hosts the ceremony.</summary>
@@ -56,17 +67,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260313_gma_spencer_hollywood1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Biggest wildfire in Nebraska history continues to burn out of control</title>
-      <link>https://abcnews.com/US/biggest-wildfire-nebraska-history-continues-burn-control/story?id=131086196</link>
-      <summary>Three major wildfires, including the largest one in Nebraska history, have burned around 600,000 acres of wildland in rural central and western Nebraska .</summary>
-      <pubDate>Sun, 15 Mar 2026 14:00:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/Nebraska-wildfires-two-hd-bh-260315_1773589696549_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Entertainment experts share their Oscar predictions</title>
-      <link>https://abcnews.com/GMA/Culture/video/entertainment-experts-share-oscar-predictions-131082408</link>
-      <summary>ABC News' Entertainment Contributor Kelley Carter and Variety Chief Awards Editor Clayton Davis share their predictions on who will take home Oscar gold.</summary>
-      <pubDate>Sun, 15 Mar 2026 10:29:12 -0400</pubDate>
-      <priority>60</priority>
+      <title>WATCH: Stunning northern lights display in Alaska</title>
+      <link>https://abcnews.com/US/video/stunning-northern-lights-display-alaska-131088920</link>
+      <summary>Onlookers in Fairbanks, Alaska, were treated to a mesmerizing display of the northern lights.</summary>
+      <pubDate>Sun, 15 Mar 2026 14:58:34 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260315_gma_davis_carter_oscars1_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260315_abc_social_northern_lights_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>2 DOGE staffers say 'no' regrets for people losing income: Depositions</title>
-      <link>https://abcnews.com/Politics/2-doge-staffers-regrets-people-losing-income-reduce/story?id=131050170</link>
-      <summary>Deposition videos are providing a look at two people responsible for the largest termination of federal grants in the National Endowment for the Humanities' history.</summary>
-      <pubDate>Sat, 14 Mar 2026 09:17:47 -0400</pubDate>
+      <title>WATCH: What to know about the gender pay gap</title>
+      <link>https://abcnews.com/US/video/gender-pay-gap-131085386</link>
+      <summary>Gender economist Katica Roy breaks down the latest data, which shows that the gender pay gap more than doubles over the course of a woman's career.</summary>
+      <pubDate>Sun, 15 Mar 2026 11:13:23 -0400</pubDate>
       <priority>50</priority>
       <media>
-        <image>https://s.abcnews.com/images/Politics/doge-bro-ht-jt-260313_1773435792003_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260315_abcnl_10a_roy_paygap_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

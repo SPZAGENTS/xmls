@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-16T00:03:42.872403</generated>
+  <generated>2026-03-16T02:04:06.169634</generated>
   <items>
     <item>
       <title>Pope escalates call for ceasefire in Iran by addressing those responsible for the war</title>
@@ -45,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_d822ed5740333e255a7a562cf43f9e97_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Anti-war protests in Italy and Spain as high-stakes referendum on Italian judges looms</title>
-      <link>https://abcnews.com/International/wireStory/anti-war-protests-italy-spain-high-stakes-referendum-131074209</link>
-      <summary>Thousands of people have protested in Italy against wars in the Middle East and proposed judicial reforms by Italian Prime Minister Giorgia Meloni</summary>
-      <pubDate>Sat, 14 Mar 2026 18:00:31 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_1a007751a1ea7fbf6c579cdf6085eb4e_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Brazil ex-President Bolsonaro's kidney function improves but he remains in intensive care</title>
-      <link>https://abcnews.com/International/wireStory/brazil-president-bolsonaros-kidney-function-improves-remains-intensive-131086304</link>
-      <summary>Former Brazilian President Jair Bolsonaro&amp;rsquo;s kidney function has improved but he will remain in an intensive care unit because of pneumonia</summary>
-      <pubDate>Sun, 15 Mar 2026 11:47:33 -0400</pubDate>
+      <title>Mexico City sets the world record for the largest soccer class</title>
+      <link>https://abcnews.com/International/wireStory/mexico-city-sets-world-record-largest-soccer-class-131093616</link>
+      <summary>Mexico City set a world record on Sunday with the largest soccer class ever, with 9,500 participants in the capital&amp;rsquo;s Zocalo square as the country prepares to host the opening match of the World Cup in June</summary>
+      <pubDate>Sun, 15 Mar 2026 19:39:54 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_6a604ababab70be9214919489bd63556_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_4151a7d9cec86b187ab67645eabea875_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cuban political activist says police not allowing her to leave home</title>
+      <link>https://abcnews.com/International/wireStory/cuban-political-activist-yoani-snchez-police-allowing-leave-131093162</link>
+      <summary>Yoani S&amp;aacute;nchez says a purported policeman in civilian clothes is stopping her.</summary>
+      <pubDate>Sun, 15 Mar 2026 18:39:45 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
