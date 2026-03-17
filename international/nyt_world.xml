@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-17T20:02:11.270796</generated>
+  <generated>2026-03-17T22:00:55.628814</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader</title>
+      <title>Iran War Live Updates: Israel Says It Has Dealt Double Blow to Iranian Leadership</title>
       <link>https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon</link>
-      <summary>Ali Larijani, Iran’s top security official, was killed in an overnight strike, the Israeli military said. His death would deal another severe blow to Iran’s power structure.</summary>
-      <pubDate>Tue, 17 Mar 2026 17:56:47 +0000</pubDate>
+      <summary>The Israeli military said it had killed the security council leader in Tehran and a top militia official. In Washington, President Trump said he did not “need or desire” help from NATO allies to reopen the Strait of Hormuz.</summary>
+      <pubDate>Tue, 17 Mar 2026 19:49:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-1230-mzcv/17israel-iran-1230-mzcv-mediumSquareAt3X.jpg</image>
@@ -19,7 +19,7 @@
       <title>Dozens Dead in Pakistani Airstrike on Kabul</title>
       <link>https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html</link>
       <summary>The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.</summary>
-      <pubDate>Tue, 17 Mar 2026 17:44:28 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 17:44:29 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-afghanistan-strike-lhmv/17int-afghanistan-strike-lhmv-mediumSquareAt3X-v2.jpg</image>
@@ -30,7 +30,7 @@
       <title>At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help</title>
       <link>https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html</link>
       <summary>A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram.</summary>
-      <pubDate>Tue, 17 Mar 2026 11:45:17 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 11:45:18 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-nigeria-attacks-01-lzwt/17int-nigeria-attacks-01-lzwt-mediumSquareAt3X.jpg</image>
@@ -71,10 +71,21 @@
       </media>
     </item>
     <item>
+      <title>U.N. Says Attacks on Iran Set to Drive Hunger to Record Levels</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-strikes-hunger-record-levels.html</link>
+      <summary>Tens of millions more people around the world could face acute hunger as the war in the Middle East continues to disrupt shipping and drive up oil prices.</summary>
+      <pubDate>Tue, 17 Mar 2026 19:45:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-un-food-bpkz/17israel-iran-un-food-bpkz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Inside the Supply Line Delivering American Guns to Mexican Cartels</title>
       <link>https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html</link>
       <summary>A surge of weapons is flowing from the U.S. to Mexico. These firearms — sourced from gun shops, shows, websites and apps — are funneled across the border to fuel the country’s most violent crimes.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:00:18 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 19:02:25 +0000</pubDate>
       <priority>95</priority>
     </item>
     <item>
@@ -96,17 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/04/multimedia/04iran-live-Ali-Larijani-who-is-hfo-hkgp/04iran-live-Ali-Larijani-who-is-hfo-hkgp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ali Larijani Killing Fuels Anxiety in Iran</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/larijani-iran-reaction.html</link>
-      <summary>The death of Iran’s top national security official has ignited concern about the country’s future.</summary>
-      <pubDate>Tue, 17 Mar 2026 17:56:44 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-reaction-bvqt/17israel-iran-reaction-bvqt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-17T20:02:17.710497</generated>
+  <generated>2026-03-17T22:01:01.739302</generated>
   <items>
     <item>
       <title>Ukraine strings nets over cities as killer drones turn streets into war zones</title>
@@ -33,17 +33,24 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Khamenei's killing renews questions about US assassinating foreign leaders</title>
+      <link>https://www.npr.org/2026/03/17/g-s1-114070/assassination-iran-supreme-leader-questions-democracies</link>
+      <summary>Technology allowed the U.S. and Israel to kill Iran's Supreme Leader, but raised longstanding questions about whether the U.S. as a democracy should be assassinating foreign leaders.</summary>
+      <pubDate>Tue, 17 Mar 2026 15:22:49 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Adam Gopnik salutes the immigrant experience that shaped American music</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5686739/adam-gopnik-lara-downes-america-250</link>
+      <summary>In a conversation with pianist Lara Downes, the New Yorker staff writer says music in America will keep evolving as long as the country keeps an open door to new people and new sounds.</summary>
+      <pubDate>Tue, 17 Mar 2026 14:30:11 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Geopolitics may test the World Cup — a new book draws lessons from the past</title>
       <link>https://www.npr.org/2026/03/17/nx-s1-5750358/we-are-the-world-cup-book-review</link>
       <summary>Countries all around the world will soon send players to the U.S. to compete in one of soccer's biggest events. Roger Bennett explores how past competitions met cultural and geopolitical moments.</summary>
       <pubDate>Tue, 17 Mar 2026 10:02:17 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Reproductive health clinics scramble as Title X funding cliff approaches</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5745199/title-x-birth-control-sti-clinics-trump-rfk-jr-hhs-house-dems</link>
-      <summary>Title X is a 56-year-old federal grant program that supports thousands of clinics that provide birth control and STI testing and treatment. Those clinics could face a funding gap because of a Trump administration delay.</summary>
-      <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -61,18 +68,11 @@
       <priority>50</priority>
     </item>
     <item>
-      <title>I'm concerned about my blood pressure. Can I check it at home?</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5747421/im-concerned-about-my-blood-pressure-can-i-check-it-at-home</link>
-      <summary>If you get a high reading at the doctor's office, it may not be definitive. Here's what to know about your risk — and testing your blood pressure at home.</summary>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Bringing marine life back to South Florida's 'forgotten edge'</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5615448/seawall-marine-wildlife-biodiversity-artificial-habitat-mangrove</link>
-      <summary>Seawalls are great at protecting property and people. A new nature-inspired seawall add-on is trying to make them better at protecting marine wildlife too.</summary>
-      <pubDate>Tue, 17 Mar 2026 06:00:00 -0400</pubDate>
-      <priority>50</priority>
+      <title>She's won 24 Paralympic medals. But Oksana Masters wants to talk about times she lost</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5749163/oksana-masters-2026-winter-paralympics-medals</link>
+      <summary>Oksana Masters leaves Italy with five new para Nordic skiing medals, extending her reign as the most decorated U.S. Winter Paralympian. She competes in summer sports too and is already eyeing LA 2028.</summary>
+      <pubDate>Tue, 17 Mar 2026 14:19:20 -0400</pubDate>
+      <priority>35</priority>
     </item>
   </items>
 </content-feed>
