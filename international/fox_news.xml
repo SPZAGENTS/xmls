@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-17T06:00:50.450741</generated>
+  <generated>2026-03-17T08:02:01.791413</generated>
   <items>
     <item>
       <title>Jasmine Crockett defends her security guard who was killed in police standoff, wanted for impersonating cop</title>
@@ -27,28 +27,6 @@
       </media>
     </item>
     <item>
-      <title>Bessent pushes back on CNBC reporter over Trump’s Russian oil strategy</title>
-      <link>https://www.foxnews.com/media/bessent-pushes-back-cnbc-reporter-over-trumps-russian-oil-strategy</link>
-      <summary>Scott Bessent challenged CNBC’s framing of global oil shortages, arguing markets remain supplied despite disruptions tied to the Iran conflict.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:00:59 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/usa-treasury-secretary-scott-bessent-world-economic-forum.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hamas reasserts control in Gaza as Iran war dominates regional attention and global focus</title>
-      <link>https://www.foxnews.com/world/hamas-reasserts-control-gaza-iran-war-dominates-regional-attention-global-focus</link>
-      <summary>Hamas reportedly reasserts control in Gaza as Iran war shifts international focus, according to analysts raising serious doubts about postwar planning.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:00:39 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/hamas.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Rex Culpepper, former Syracuse quarterback, dead at 28 from injuries in Georgia dirt bike crash</title>
       <link>https://www.foxnews.com/sports/rex-culpepper-former-syracuse-quarterback-dead-28-from-injuries-georgia-dirt-bike-crash</link>
       <summary>Former Syracuse quarterback Rex Culpepper, tragically died in a dirt bike accident weeks after proposing to his fiancee, who confirmed the heartbreaking news.</summary>
@@ -67,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/jane-fonda-oscars.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Minnesota bill would ban warrants allowing police to collect data from devices near a crime scene</title>
+      <link>https://www.foxnews.com/politics/minnesota-bill-would-ban-warrants-allowing-police-collect-data-from-devices-near-crime-scene</link>
+      <summary>Minnesota lawmakers proposed a bill to ban reverse location warrants allowing police to collect cellphone data near crime scenes, which they say violates the Fourth Amendment.</summary>
+      <pubDate>Tue, 17 Mar 2026 00:09:18 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/reverse-location-data-collection-waraants-minnesota.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/matt-clark.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Search for missing retired Air Force general enters third week as investigators probe new clues</title>
+      <link>https://www.foxnews.com/us/search-missing-retired-air-force-general-enters-third-week-investigators-probe-new-clues</link>
+      <summary>Hiking boots believed to belong to missing retired Air Force Maj. Gen. William McCasland found at vacation home as search continues into second week.</summary>
+      <pubDate>Mon, 16 Mar 2026 19:19:13 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/william-neil-mccasland-split-new.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

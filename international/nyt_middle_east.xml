@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-17T06:00:54.071311</generated>
+  <generated>2026-03-17T08:02:05.414012</generated>
   <items>
+    <item>
+      <title>As War With Iran Hurts Oil Prices, U.S. Turns to Iranian Boats for Help</title>
+      <link>https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html</link>
+      <summary>Iranian-linked ships carrying Russian oil were among those that received temporary exemptions from sanctions, a sign of how dire the energy crisis is becoming.</summary>
+      <pubDate>Tue, 17 Mar 2026 04:00:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/00biz-iran-oil-sanctions-02-wpjc/00biz-iran-oil-sanctions-02-wpjc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Monday</title>
       <link>https://www.nytimes.com/2026/03/16/world/middleeast/iran-war-recap-lebanon-ground-invasion.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15dc-iran-mftw/15dc-iran-mftw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution</title>
-      <link>https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html</link>
-      <summary>President Trump has urged China, Britain, France, Japan and South Korea to send warships to help reopen the waterway, even though they are not involved in the U.S.-Israeli attack on Iran.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:25:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-reaction-to-trump-1-fkjz/15israel-iran-reaction-to-trump-1-fkjz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
