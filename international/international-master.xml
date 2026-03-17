@@ -2,14 +2,14 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-17T14:01:34.587244</generated>
-  <total_articles>329</total_articles>
+  <generated>2026-03-17T16:01:24.360286</generated>
+  <total_articles>330</total_articles>
   <items>
     <item>
       <title>Easter holidaymakers switching from Dubai to Spain as flights fill up</title>
       <link>https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.</summary>
-      <pubDate>Tue, 17 Mar 2026 11:21:19 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 13:33:44 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
@@ -17,18 +17,7 @@
       </media>
     </item>
     <item>
-      <title>Surge in US petrol prices deepens political peril for Trump over Iran</title>
-      <link>https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.</summary>
-      <pubDate>Tue, 17 Mar 2026 00:24:01 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f02/live/958f4b90-2181-11f1-b297-95b0a0a8331e.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Surge in US petrol prices deepens political peril for Trump over Iran</title>
+      <title>Surge in US gas prices deepens political peril for Trump over Iran</title>
       <link>https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.</summary>
       <pubDate>Tue, 17 Mar 2026 00:24:01 GMT</pubDate>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d793/live/0c4b6660-1fac-11f1-b048-c9424b2cf5fd.png</image>
+      </media>
+    </item>
+    <item>
+      <title>Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated</title>
+      <link>https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.</summary>
+      <pubDate>Fri, 13 Mar 2026 10:43:21 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg</image>
       </media>
     </item>
   </items>
