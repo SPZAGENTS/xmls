@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-17T08:02:01.791413</generated>
+  <generated>2026-03-17T10:01:03.023063</generated>
   <items>
+    <item>
+      <title>Why Trump is denouncing the media’s Iran war coverage as too negative – boosted by rhetorical FCC backing</title>
+      <link>https://www.foxnews.com/media/why-trump-denouncing-medias-iran-war-coverage-too-negative-boosted-rhetorical-fcc-backing</link>
+      <summary>Media tensions escalate as the Trump administration criticizes press coverage of the Iran conflict, with officials questioning journalistic approaches to war.</summary>
+      <pubDate>Tue, 17 Mar 2026 03:00:52 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-trump-mar-9-2026.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Jasmine Crockett defends her security guard who was killed in police standoff, wanted for impersonating cop</title>
       <link>https://www.foxnews.com/politics/jasmine-crockett-defends-security-guard-killed-police-standoff-wanted-impersonating-cop</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/matt-clark.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Search for missing retired Air Force general enters third week as investigators probe new clues</title>
-      <link>https://www.foxnews.com/us/search-missing-retired-air-force-general-enters-third-week-investigators-probe-new-clues</link>
-      <summary>Hiking boots believed to belong to missing retired Air Force Maj. Gen. William McCasland found at vacation home as search continues into second week.</summary>
-      <pubDate>Mon, 16 Mar 2026 19:19:13 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/william-neil-mccasland-split-new.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

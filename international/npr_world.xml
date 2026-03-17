@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-17T08:02:10.745614</generated>
+  <generated>2026-03-17T10:01:12.160258</generated>
   <items>
     <item>
       <title>Gasoline prices are still rising as the Iran war stretches into its third week</title>
@@ -10,6 +10,13 @@
       <summary>U.S. gasoline prices are up nearly 80 cents from a month ago, while diesel prices have shot up even more. Diesel is now just under $5 a gallon, according to AAA, up $1.34 from last month.</summary>
       <pubDate>Mon, 16 Mar 2026 13:50:30 -0400</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Last protester in detention after Trump's campus crackdown has been released</title>
+      <link>https://www.npr.org/2026/03/17/g-s1-114023/last-protester-campus-crackdown-released</link>
+      <summary>Leqaa Kordia, a 33-year-old from the West Bank who has lived in New Jersey since 2016, had been held in a U.S. immigration detention center in Texas since last March.</summary>
+      <pubDate>Tue, 17 Mar 2026 02:56:39 -0400</pubDate>
+      <priority>95</priority>
     </item>
     <item>
       <title>Afghanistan says 400 people killed in Pakistan strike on Kabul hospital</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/16/g-s1-113246/sleeping-sickness-drug-treatment-tsetse-fly</link>
       <summary>The goal in the world of global health is to bring an end to this scourge by 2030. A new drug looks as if it could do the job.</summary>
       <pubDate>Mon, 16 Mar 2026 15:52:02 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>There's room for everyone in 'Now I Surrender,' an epic American Western</title>
-      <link>https://www.npr.org/2026/03/16/nx-s1-5746725/now-i-surrender-alvaro-enrigue-review</link>
-      <summary>Mexican novelist Álvaro Enrigue re-imagines the story of the American West — and the Apache fight for survival — in an epic that's both defiantly challenging and, at times, magical.</summary>
-      <pubDate>Mon, 16 Mar 2026 11:33:26 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

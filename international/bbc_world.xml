@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-17T08:02:01.206130</generated>
+  <generated>2026-03-17T10:01:02.458819</generated>
   <items>
     <item>
       <title>Trump's confidence is undimmed - but every Iran option comes with risk</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f02/live/958f4b90-2181-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gas on the line: will the Iran war squeeze India's piped gas next?</title>
+      <link>https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?</summary>
+      <pubDate>Tue, 17 Mar 2026 06:47:42 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a248/live/ca970430-21c3-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11a/live/30940050-211d-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Far-left and far-right gains throw French mainstream parties into a quandary</title>
-      <link>https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Awkward choices emerge for mainstream parties after the first round of mayoral elections.</summary>
-      <pubDate>Mon, 16 Mar 2026 10:46:41 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/155f/live/c6e5b910-2120-11f1-801d-ed3cff6bf876.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
