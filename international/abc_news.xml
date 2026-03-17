@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-17T02:01:27.217618</generated>
+  <generated>2026-03-17T04:00:58.114957</generated>
   <items>
     <item>
       <title>Rubio orders US diplomats to push countries to act against Iran amid 'risk of attack'</title>
@@ -41,7 +41,7 @@
       <title>WATCH: Michael B. Jordan brings Oscar trophy to In-N-Out after ceremony</title>
       <link>https://abcnews.com/Entertainment/video/michael-jordan-brings-oscar-trophy-after-ceremony-131128395</link>
       <summary>Michael B. Jordan celebrated his Oscar win for best actor with a burger from In-N-Out after Sunday night's Academy Awards ceremony.</summary>
-      <pubDate>Mon, 16 Mar 2026 16:22:43 -0400</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:15:11 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/Entertainment/260316_abc_social_jordan_hpMain_4x3_384.jpg</image>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Utah mom found guilty of fatally poisoning husband with fentanyl</title>
+      <link>https://abcnews.com/US/closing-arguments-murder-trial-kouri-richins-utah-mom/story?id=131117904</link>
+      <summary>Kouri Richins, 35, was charged with aggravated murder in connection with the 2022 death of her husband, Eric Richins.</summary>
+      <pubDate>Mon, 16 Mar 2026 20:47:01 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/richins-ht-er-260316_1773682670792_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Josh Groban's Oscar moment fit for a king</title>
       <link>https://abcnews.com/GMA/GMA3/video/josh-grobans-oscar-moment-fit-king-131124388</link>
       <summary>A costumed Groban sings to the tune of 'Zadok the Priest' for an operatic Oscars opening sketch.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260316_gma_oscars_sinners_0708_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Stunning northern lights display in Alaska</title>
-      <link>https://abcnews.com/US/video/stunning-northern-lights-display-alaska-131088920</link>
-      <summary>Onlookers in Fairbanks, Alaska, were treated to a mesmerizing display of the northern lights.</summary>
-      <pubDate>Sun, 15 Mar 2026 14:58:34 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260315_abc_social_northern_lights_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
