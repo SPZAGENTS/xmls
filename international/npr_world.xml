@@ -2,10 +2,17 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-17T12:01:04.757242</generated>
+  <generated>2026-03-17T14:01:34.584591</generated>
   <items>
     <item>
-      <title>'Rewarding loyalists,' punishing critics: How Trump's Treasury sanctions foreigners</title>
+      <title>Israel says it killed two top Iranian commanders in targeted strike</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders</link>
+      <summary>Israel says it killed Ali Larijani and Gholamreza Soleimani, the highest profile assassinations since the targeting of Iran's supreme leader Ayatollah Ali Khamenei on the first day of the war.</summary>
+      <pubDate>Tue, 17 Mar 2026 06:47:00 -0400</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>How Trump's Treasury is shifting sanctions to punish his critics and reward friends</title>
       <link>https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish</link>
       <summary>Spain's Prime Minister called U.S. strikes against Iran "unjustified." When other foreigners in power have used similar language against the U.S. or Israel, they were sanctioned by the Treasury.</summary>
       <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
@@ -26,27 +33,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Supreme Court to hear expedited arguments on protected status for migrants</title>
-      <link>https://www.npr.org/2026/03/16/nx-s1-5745069/supreme-court-tps-syria-haiti</link>
-      <summary>The court temporarily blocked the Trump administration from deporting some 6,000 Syrians and 350,000 Haitians who were granted Temporary Protected Status.</summary>
-      <pubDate>Mon, 16 Mar 2026 17:25:20 -0400</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
-      <title>Cuba hit by island-wide blackout as energy crisis deepens</title>
-      <link>https://www.npr.org/2026/03/16/nx-s1-5749457/cuba-blackout-sanctions-oil</link>
-      <summary>On Monday Cuba was plunged into an island-wide blackout affecting 11 million people after a "complete disconnection" of its electrical system, officials said, amid a worsening fuel shortage.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:50:42 -0400</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
-      <title>Reproductive health clinics scramble as Title X funding cliff approaches</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5745199/title-x-birth-control-sti-clinics-trump-rfk-jr-hhs-house-dems</link>
-      <summary>Title X is a 56-year-old federal grant program that supports thousands of clinics that provide birth control and STI testing and treatment around the country. Now those clinics could face a funding gap because of a Trump administration delay.</summary>
-      <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>From Descartes to punk rock, X has an extraordinary history</title>
       <link>https://www.npr.org/2026/03/17/nx-s1-5732951/letter-x-etymology-religion-punk-descartes-romans-algebra</link>
       <summary>The letter X can be a lot of things: rebellious, mysterious, religious. For this Word of the Week, we examine its origins and many uses.</summary>
@@ -54,24 +40,38 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Federal judge halts RFK Jr.'s changes to children's vaccine policies</title>
-      <link>https://www.npr.org/2026/03/16/nx-s1-5749530/judge-blocks-rfk-jr-vaccine-changes</link>
-      <summary>In a rebuke, a federal district court judge blocked the administration's reduction in the number of immunizations recommended for kids and also changes to an influential vaccine committee.</summary>
-      <pubDate>Mon, 16 Mar 2026 19:03:44 -0400</pubDate>
+      <title>Reproductive health clinics scramble as Title X funding cliff approaches</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5745199/title-x-birth-control-sti-clinics-trump-rfk-jr-hhs-house-dems</link>
+      <summary>Title X is a 56-year-old federal grant program that supports thousands of clinics that provide birth control and STI testing and treatment. Those clinics could face a funding gap because of a Trump administration delay.</summary>
+      <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Is there a more fair way to sell World Cup tickets?</title>
+      <link>https://www.npr.org/sections/planet-money/2026/03/17/g-s1-113996/is-there-a-more-fair-way-to-sell-world-cup-tickets</link>
+      <summary>World Cup tickets are expensive, and buying them has been frustrating and confusing. But this is what economics is for: figuring out the best ways to allocate scarce resources. FIFA, steal these ideas.</summary>
+      <pubDate>Tue, 17 Mar 2026 06:30:00 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>I'm concerned about my blood pressure. Can I check it at home?</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5747421/im-concerned-about-my-blood-pressure-can-i-check-it-at-home</link>
+      <summary>If you get a high reading at the doctor's office, it may not be definitive. Here's what to know about your risk — and testing your blood pressure at home.</summary>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>Bringing marine life back to South Florida's 'forgotten edge'</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5615448/seawall-marine-wildlife-biodiversity-artificial-habitat-mangrove</link>
+      <summary>Seawalls are great at protecting property and people. A new nature-inspired seawall add-on is trying to make them better at protecting marine wildlife too.</summary>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material</title>
       <link>https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images</link>
       <summary>The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.</summary>
       <pubDate>Mon, 16 Mar 2026 21:02:37 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>A new drug could be the beginning of the end for sleeping sickness</title>
-      <link>https://www.npr.org/2026/03/16/g-s1-113246/sleeping-sickness-drug-treatment-tsetse-fly</link>
-      <summary>The goal in the world of global health is to bring an end to this scourge by 2030. A new drug looks as if it could do the job.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:52:02 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
