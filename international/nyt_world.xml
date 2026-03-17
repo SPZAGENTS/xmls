@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-17T00:01:01.047744</generated>
+  <generated>2026-03-17T02:01:23.599072</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Says He Wants to Delay Visit to China Because of Conflict</title>
       <link>https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon</link>
       <summary>“I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz.</summary>
-      <pubDate>Mon, 16 Mar 2026 21:40:04 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 23:54:41 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-430p-wtbf/16israel-iran-430p-wtbf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-promo-8pm-ztgc/16israel-iran-promo-8pm-ztgc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Israeli Schools Begin Reopening in Some Areas Seen as Safer</title>
-      <link>https://www.nytimes.com/2026/03/16/world/middleeast/israel-schools.html</link>
-      <summary>Some classes resumed on Monday in areas far from the populous cities and border regions that have come under attack in the conflict with Iran and the Iran-backed militia, Hezbollah.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:02:40 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>How the Makers of ‘Mr. Nobody Against Putin’ Addressed ‘an Ethical Minefield’</title>
       <link>https://www.nytimes.com/2026/03/16/world/europe/oscar-documentary-mr-nobody-against-putin.html</link>
       <summary>The documentary about Vladimir V. Putin’s wartime indoctrination of Russian schoolchildren won an Oscar at Sunday’s Academy Awards.</summary>
@@ -81,7 +74,7 @@
       <title>Pakistani-Afghan War Takes Heavy Toll on Civilians</title>
       <link>https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html</link>
       <summary>Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight.</summary>
-      <pubDate>Mon, 16 Mar 2026 07:09:51 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 22:41:21 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15int-afghanistan-war-lfgt/15int-afghanistan-war-lfgt-mediumSquareAt3X.jpg</image>
@@ -107,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-theworld-hormuz-lede-top-ctvf-promo/17int-theworld-hormuz-lede-top-ctvf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Hits Out at Allies After Cool Response to Requests for Warships</title>
+      <link>https://www.nytimes.com/2026/03/16/world/middleeast/trump-strait-of-hormuz-warships-australia-germany.html</link>
+      <summary>Australia, Germany and Japan said they weren’t planning to participate in efforts to reopen the Strait of Hormuz. President Trump said his call for help was really a loyalty test.</summary>
+      <pubDate>Mon, 16 Mar 2026 22:26:08 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16int-ledeall-1-mbgl/16int-ledeall-1-mbgl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

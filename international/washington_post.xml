@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-17T00:00:58.737315</generated>
+  <generated>2026-03-17T02:01:22.643658</generated>
   <items>
     <item>
       <title>Number of U.S. troops wounded in Iran war surpasses 200 across 7 countries</title>
@@ -33,10 +33,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump-Xi summit likely delayed as president pushes China to help open Hormuz</title>
+      <title>Trump says he’ll have the ‘honor’ of ‘taking’ Cuba: ‘I can do anything’</title>
+      <link>https://www.washingtonpost.com/world/2026/03/16/cuba-blackout-energy-grid-collapse/</link>
+      <summary>Amid the U.S. oil blockade, Cuba’s national energy grid collapses, causing a nationwide blackout.</summary>
+      <pubDate>Mon, 16 Mar 2026 23:24:59 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/16/trump-xi-summit-delayed-iran-hormuz-shipping/</link>
-      <summary>Trump said the long-anticipated reboot of U.S.-China relations could be postponed amid mounting pressure to reopen the critical oil route in the Persian Gulf.</summary>
-      <pubDate>Mon, 16 Mar 2026 15:45:08 +0000</pubDate>
+      <summary>Trump said the long-anticipated reboot of U.S.-China relations could be postponed by “a month or so,” amid mounting pressure to reopen the critical oil route.</summary>
+      <pubDate>Mon, 16 Mar 2026 22:09:26 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
