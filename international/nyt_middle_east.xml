@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-17T04:00:54.995079</generated>
+  <generated>2026-03-17T06:00:54.071311</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Monday</title>
+      <link>https://www.nytimes.com/2026/03/16/world/middleeast/iran-war-recap-lebanon-ground-invasion.html</link>
+      <summary>President Trump said he might postpone a trip to China to focus on the war. More than a million people have been displaced in Lebanon this month, according to the country’s health ministry.</summary>
+      <pubDate>Tue, 17 Mar 2026 03:24:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-front-by-front-bqzf/16israel-iran-front-by-front-bqzf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>What Are Trump’s Positions on Iran? They Can Change by the Sentence.</title>
       <link>https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-reaction-to-trump-1-fkjz/15israel-iran-reaction-to-trump-1-fkjz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Says Michigan Synagogue Attacker’s Brother Was a Hezbollah Commander</title>
-      <link>https://www.nytimes.com/2026/03/15/world/middleeast/israel-lebanon-michigan-synagogue-hezbollah.html</link>
-      <summary>The Israeli military said it killed the brother of Ayman Mohamad Ghazali in an airstrike in Lebanon a week before the attack on the synagogue.</summary>
-      <pubDate>Sun, 15 Mar 2026 18:10:46 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/15/multimedia/15israel-iran-michigan-shooter-2-vzbq/15israel-iran-michigan-shooter-2-vzbq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

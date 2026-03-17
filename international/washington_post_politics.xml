@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-17T04:00:54.148724</generated>
+  <generated>2026-03-17T06:00:53.206786</generated>
   <items>
     <item>
       <title>Number of U.S. troops wounded in Iran war surpasses 200 across 7 countries</title>
@@ -16,13 +16,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/15/trump-two-weeks-war-dilemma/</link>
       <summary>The U.S. and Israel crippled Iranian forces in two weeks of war, but Tehran’s ability to disrupt oil flows and its uranium stockpile complicate the push to end it.</summary>
       <pubDate>Sun, 15 Mar 2026 09:00:00 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Trump urges world to help open Strait of Hormuz; U.S. Embassy in Baghdad hit</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/14/trump-urges-world-help-open-strait-hormuz-us-embassy-baghdad-hit/</link>
-      <summary>The Pentagon identified the six service members who were killed when a U.S. refueling aircraft crashed in Iraq while supporting operations in Iran.</summary>
-      <pubDate>Sun, 15 Mar 2026 02:22:08 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/health/2026/03/16/rfk-vaccine-policy-blocked-lawsuit/</link>
       <summary>The judge said the government has undermined its history of recognizing the importance of involving independent experts in setting the national public health agenda.</summary>
       <pubDate>Mon, 16 Mar 2026 23:52:48 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump sold young voters on his vision. Many are having buyer’s remorse.</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/16/trump-young-voters-regret-iran-war/</link>
+      <summary>They were a key part of the coalition that powered the president’s comeback, and their frustrations signal vulnerability for Republicans ahead of the midterms.</summary>
+      <pubDate>Mon, 16 Mar 2026 09:00:20 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
