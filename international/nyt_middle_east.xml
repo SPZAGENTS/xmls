@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-17T18:00:55.499718</generated>
+  <generated>2026-03-17T20:02:11.751656</generated>
   <items>
+    <item>
+      <title>Flight Prices Are Up Amid Soaring Fuel Costs, but Travel Demand Remains High</title>
+      <link>https://www.nytimes.com/2026/03/17/business/air-travel-iran-war-fares-jet-fuel.html</link>
+      <summary>Airline executives said the war in Iran had raised fuel costs and, as a result, fares, but that had not yet hurt demand for tickets from individuals and businesses.</summary>
+      <pubDate>Tue, 17 Mar 2026 16:47:45 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17biz-iran-air-travel-fqjm/17biz-iran-air-travel-fqjm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html</link>
       <summary>Mr. Kent is the highest-ranking Trump administration official to quit in opposition to the conflict. He said pressure from Israel had pushed the president into war against Iran.</summary>
-      <pubDate>Tue, 17 Mar 2026 15:30:15 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 17:05:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17dc-kent-ALERT-lhpj-copy2/17dc-kent-ALERT-lhpj-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>Here Are the Top Iranian Leaders Killed in the War So Far</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-leaders-killed-war-strikes.html</link>
       <summary>Israel said on Tuesday that it had killed two more high-ranking figures, including the man who had essentially been running Iran for weeks.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:48:48 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 17:09:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/2026-03-17-iran-leadership-index/2026-03-17-iran-leadership-index-mediumSquareAt3X-v3.jpg</image>
@@ -30,7 +41,7 @@
       <title>Israel’s Killing of Ali Larijani Could Allow Military to Tighten Grip on Iran</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html</link>
       <summary>As Iran’s top national security official, Mr. Larijani had a reputation for acting as a bridge between hard-line figures in the armed forces and more moderate political factions.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:22:41 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 16:43:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-assess-khtf/17israel-iran-assess-khtf-mediumSquareAt3X.jpg</image>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/16/multimedia/16DC-MEMO-mjtw/16DC-MEMO-mjtw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Israeli Schools Begin Reopening in Some Areas Seen as Safer</title>
-      <link>https://www.nytimes.com/2026/03/16/world/middleeast/israel-schools.html</link>
-      <summary>Some classes resumed on Monday in areas far from the populous cities and border regions that have come under attack in the conflict with Iran and the Iran-backed militia, Hezbollah.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:02:40 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>

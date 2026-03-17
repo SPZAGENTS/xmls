@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-17T18:01:00.881723</generated>
+  <generated>2026-03-17T20:02:17.710497</generated>
   <items>
+    <item>
+      <title>Ukraine strings nets over cities as killer drones turn streets into war zones</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5743446/russia-ukraine-war-nets-drones</link>
+      <summary>In eastern Ukraine, white nylon nets now stretch over roads and city streets, a low-tech defense against deadly FPV drones that dominate the battlefield and threaten civilians near the front line.</summary>
+      <pubDate>Tue, 17 Mar 2026 13:06:44 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>The Postal Service may be out of cash in 2027 without Congress' help, postmaster says</title>
       <link>https://www.npr.org/2026/03/17/nx-s1-5750419/usps-running-out-of-money-postal-service-david-steiner</link>
@@ -26,13 +33,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>How Trump's Treasury is shifting sanctions to punish his critics and reward friends</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish</link>
-      <summary>Spain's Prime Minister called U.S. strikes against Iran "unjustified." When other foreigners in power have used similar language against the U.S. or Israel, they were sanctioned by the Treasury.</summary>
-      <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Geopolitics may test the World Cup — a new book draws lessons from the past</title>
       <link>https://www.npr.org/2026/03/17/nx-s1-5750358/we-are-the-world-cup-book-review</link>
       <summary>Countries all around the world will soon send players to the U.S. to compete in one of soccer's biggest events. Roger Bennett explores how past competitions met cultural and geopolitical moments.</summary>
@@ -47,11 +47,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>From Descartes to punk rock, the letter X has an extraordinary history</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5732951/letter-x-etymology-religion-punk-descartes-romans-algebra</link>
-      <summary>The letter X can be a lot of things: rebellious, mysterious, religious. For this Word of the Week, we examine its origins and many uses.</summary>
-      <pubDate>Tue, 17 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
+      <title>Sparse evidence for cannabis to treat mental health conditions highlights research gap</title>
+      <link>https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health</link>
+      <summary>A new analysis represents the largest effort yet to systematically parse all the data from high-quality clinical trials on cannabis and mental health. The evidence is lacking.</summary>
+      <pubDate>Tue, 17 Mar 2026 12:57:21 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Is there a more fair way to sell World Cup tickets?</title>
