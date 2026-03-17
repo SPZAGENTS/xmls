@@ -2,24 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-17T16:01:18.199040</generated>
+  <generated>2026-03-17T18:00:55.046939</generated>
   <items>
-    <item>
-      <title>Hundreds Dead in Pakistani Airstrike on Kabul, Officials in Afghanistan Say</title>
-      <link>https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html</link>
-      <summary>The attack hit a drug rehabilitation facility, Afghanistan said, suggesting that its victims included civilians. Pakistan said it had targeted an ammunitions depot.</summary>
-      <pubDate>Tue, 17 Mar 2026 11:21:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-afghanistan-strike-lhmv/17int-afghanistan-strike-lhmv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader</title>
       <link>https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon</link>
       <summary>Ali Larijani, Iran’s top security official, was killed in an overnight strike, the Israeli military said. His death would deal another severe blow to Iran’s power structure.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:58:44 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 15:55:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17live-mideast-blog-08-pqth-alert/17live-mideast-blog-08-pqth-mediumSquareAt3X-v2.jpg</image>
@@ -27,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html</link>
-      <summary>Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:12:00 +0000</pubDate>
+      <title>Hundreds Dead in Pakistani Airstrike on Kabul, Officials in Afghanistan Say</title>
+      <link>https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html</link>
+      <summary>The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.</summary>
+      <pubDate>Tue, 17 Mar 2026 15:19:15 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-gulf-defense-1-gmql/17int-gulf-defense-1-gmql-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-afghanistan-strike-lhmv/17int-afghanistan-strike-lhmv-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Killing of Ali Larijani Could Allow Military to Tighten Grip on Iran</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html</link>
-      <summary>As Iran’s top national security official, Mr. Larijani had a reputation for acting as a bridge between hard-line figures in the armed forces and more moderate political factions.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:22:41 +0000</pubDate>
+      <title>Trump Signals He May Intervene in Cuba Following Iran and Venezuela</title>
+      <link>https://www.nytimes.com/2026/03/17/world/americas/trump-cuba-intervention.html</link>
+      <summary>Still at war with Iran and in control in Venezuela, President Trump is signaling that he is about to intervene in another country.</summary>
+      <pubDate>Tue, 17 Mar 2026 14:46:03 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-assess-khtf/17israel-iran-assess-khtf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-cuba-trump-analysis-wcbj/17int-cuba-trump-analysis-wcbj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html</link>
+      <summary>Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.</summary>
+      <pubDate>Tue, 17 Mar 2026 13:12:00 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-gulf-defense-1-gmql/17int-gulf-defense-1-gmql-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -73,8 +73,8 @@
     <item>
       <title>Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html</link>
-      <summary>Joe Kent announced his resignation as director of the National Counterterrorism Center. He said that pressure from Israel had pushed President Trump into war against Iran.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:58:25 +0000</pubDate>
+      <summary>Mr. Kent is the highest-ranking Trump administration official to quit in opposition to the conflict. He said pressure from Israel had pushed the president into war against Iran.</summary>
+      <pubDate>Tue, 17 Mar 2026 15:30:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17dc-kent-ALERT-lhpj-copy2/17dc-kent-ALERT-lhpj-mediumSquareAt3X.jpg</image>
@@ -93,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Another Tanker Is Attacked Near the Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html</link>
-      <summary>The ship was struck near an Emirati port, in the first such attack in five days. The United Arab Emirates also said it was intercepting Iranian drones and missiles.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:35:07 +0000</pubDate>
+      <title>Israel’s Killing of Ali Larijani Could Allow Military to Tighten Grip on Iran</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html</link>
+      <summary>As Iran’s top national security official, Mr. Larijani had a reputation for acting as a bridge between hard-line figures in the armed forces and more moderate political factions.</summary>
+      <pubDate>Tue, 17 Mar 2026 13:22:41 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/06/multimedia/17israel-iran-tanker-attack/00biz-iran-china-gulf-03-zlfb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-assess-khtf/17israel-iran-assess-khtf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

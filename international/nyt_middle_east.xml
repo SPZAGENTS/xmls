@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-17T16:01:18.603001</generated>
+  <generated>2026-03-17T18:00:55.499718</generated>
   <items>
+    <item>
+      <title>Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html</link>
+      <summary>Mr. Kent is the highest-ranking Trump administration official to quit in opposition to the conflict. He said pressure from Israel had pushed the president into war against Iran.</summary>
+      <pubDate>Tue, 17 Mar 2026 15:30:15 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17dc-kent-ALERT-lhpj-copy2/17dc-kent-ALERT-lhpj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here Are the Top Iranian Leaders Killed in the War So Far</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-leaders-killed-war-strikes.html</link>
@@ -98,17 +109,6 @@
       <summary>Some classes resumed on Monday in areas far from the populous cities and border regions that have come under attack in the conflict with Iran and the Iran-backed militia, Hezbollah.</summary>
       <pubDate>Mon, 16 Mar 2026 18:02:40 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Israel’s Expanding Ground Assault in Lebanon Meets Resistance in Hilltop Town</title>
-      <link>https://www.nytimes.com/2026/03/16/world/middleeast/lebanon-strategic-town-khiam.html</link>
-      <summary>The town of Khiam’s location on high ground just a few miles north of the border between Israel and Lebanon has made it coveted territory over multiple conflicts.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:53:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/16/multimedia/16israel-iran-khiam-gkqw/16israel-iran-khiam-gkqw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>

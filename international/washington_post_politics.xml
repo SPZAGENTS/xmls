@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-17T16:01:17.672696</generated>
+  <generated>2026-03-17T18:00:54.484819</generated>
   <items>
-    <item>
-      <title>Amid Iran war, Democratic Senate hopeful tries to win back Arab American voters</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/17/abdul-el-sayed-michigan-senate/</link>
-      <summary>Abdul El-Sayed, backed by Sanders, is betting a populist agenda is Democrats’ path back to power in a state that has traditionally produced more moderate senators.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:00:36 +0000</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Maine governor targets oyster farmer in competitive Democratic Senate primary</title>
       <link>https://www.washingtonpost.com/politics/2026/03/17/janet-mills-maine-negative-ads/</link>
       <summary>Janet Mills, the two-term governor, is running ads in the state slamming insurgent Graham Platner’s past Reddit comments on sexual assault.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 13:59:30 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -24,6 +17,13 @@
       <summary>The injuries have occurred as Iran launches waves of missile and one-way attack drones in response to the Trump administration’s expansive assault.</summary>
       <pubDate>Mon, 16 Mar 2026 21:05:01 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Israel urges Iranians to revolt but privately assesses they’ll be ‘slaughtered’</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/17/israel-iran-cable-revolt-slaughtered/</link>
+      <summary>Israeli officials told U.S. counterparts they hope for an uprising even though it would lead to a massacre, according to a State Department cable reviewed by The Post.</summary>
+      <pubDate>Tue, 17 Mar 2026 15:22:32 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>European leaders rebuff Trump’s call to open the Strait of Hormuz</title>
@@ -47,6 +47,20 @@
       <priority>85</priority>
     </item>
     <item>
+      <title>Senate poised to take up Trump’s voting bill to ‘guarantee the midterms’</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-voting-bill-senate-talking-filibuster/</link>
+      <summary>The Save America Act does not have the support of the 60 senators needed to overcome a filibuster — but Republicans are set to debate it at length under pressure from President Donald Trump.</summary>
+      <pubDate>Tue, 17 Mar 2026 14:51:33 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Democrats debate how far left to lurch in fight for key Senate seat in Michigan</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/abdul-el-sayed-michigan-senate/</link>
+      <summary>Abdul El-Sayed, backed by Sanders, is betting a populist agenda is Democrats’ path back to power in a state that has traditionally produced more moderate senators.</summary>
+      <pubDate>Tue, 17 Mar 2026 09:00:36 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Trump appointees aren’t legally qualified to vote on ballroom, critics say</title>
       <link>https://www.washingtonpost.com/politics/2026/03/17/white-house-ballroom-trump-appointees-qualifications/</link>
       <summary>Congress created the arts commission 116 years ago. Previous commission members have included Frederick Law Olmsted Jr. and Daniel Burnham.</summary>
@@ -58,20 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/16/wiles-breast-cancer-white-house/</link>
       <summary>The president’s longtime confidante plans to continue working while receiving treatment. Her prognosis is “beyond excellent,” Trump said.</summary>
       <pubDate>Mon, 16 Mar 2026 17:04:12 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>As states scrap for congressional seats, Virginia could tip the scales</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/16/virginia-trump-redistricting-referendum-spanberger/</link>
-      <summary>The party’s well-funded canvassing and advertising campaign for a referendum that could add four blue seats to Congress has Republicans scrambling to respond.</summary>
-      <pubDate>Mon, 16 Mar 2026 10:00:33 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Tracking who Trump is appointing to fill key administration roles</title>
-      <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
-      <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
-      <pubDate>Sun, 15 Mar 2026 22:03:05 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
