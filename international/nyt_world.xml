@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-18T02:01:34.157772</generated>
+  <generated>2026-03-18T04:03:08.130206</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief</title>
+      <title>Iran War Live Updates: Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings</title>
       <link>https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon</link>
-      <summary>Ali Larijani, who died in an Israeli strike, had served as Iran’s de facto leader in recent weeks. The commander of the powerful Basij militia was also killed, Iranian state media said.</summary>
-      <pubDate>Tue, 17 Mar 2026 23:51:30 +0000</pubDate>
+      <summary>Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.</summary>
+      <pubDate>Wed, 18 Mar 2026 01:57:55 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-1230-mzcv/17israel-iran-1230-mzcv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-promo-830pm-jlgt/17israel-iran-promo-830pm-jlgt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Here’s What Happened in the War in the Middle East on Tuesday</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-israel-middle-east-recap.html</link>
+      <summary>The deaths of two top Iranian officials were announced on Tuesday, while President Trump once again lashed out at NATO allies who refused to aid the U.S. war effort against Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 00:16:01 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-front-by-front-vcqw/17israel-iran-front-by-front-vcqw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel</title>
       <link>https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html</link>
       <summary>A mission to seize or destroy Iran’s nuclear material would be one of the riskiest military operations in modern American history.</summary>
@@ -89,17 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/us/politics/17DC-KHARG/17DC-KHARG-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ali Larijani, Iran’s De Facto Political Leader, Killed by Israel</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/israel-ali-larijani-iran-death.html</link>
-      <summary>The killing, which Iran confirmed, could embolden Iranian hard-liners, as the U.S.-Israeli bombing campaign continues.</summary>
-      <pubDate>Tue, 17 Mar 2026 23:21:48 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-leadall-01-mhgl/17int-iran-leadall-01-mhgl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

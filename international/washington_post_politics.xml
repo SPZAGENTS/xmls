@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-18T02:01:33.707627</generated>
+  <generated>2026-03-18T04:03:07.576942</generated>
   <items>
     <item>
       <title>Maine governor targets oyster farmer in competitive Democratic Senate primary</title>
@@ -54,6 +54,13 @@
       <priority>85</priority>
     </item>
     <item>
+      <title>White House details offer to end partial government shutdown</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/white-house-dhs-partial-shutdown-tsa-airports/</link>
+      <summary>Administration officials argue they are working to compromise with Democrats to unlock DHS funding and end the partial shutdown.</summary>
+      <pubDate>Wed, 18 Mar 2026 00:50:44 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Judge questions Trump aides’ ‘brazen’ claims on White House ballroom</title>
       <link>https://www.washingtonpost.com/politics/2026/03/17/trump-ballroom-judge-hearing/</link>
       <summary>The planned $400 million project has been a top priority for the president. Judge Richard Leon said he hopes to rule this month on whether to halt construction.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/17/trump-voting-bill-senate-talking-filibuster/</link>
       <summary>The Save America Act does not have the support of the 60 senators needed to overcome a filibuster — but Republicans are set to debate it at length under pressure from President Donald Trump.</summary>
       <pubDate>Tue, 17 Mar 2026 20:22:12 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Tracking who Trump is appointing to fill key administration roles</title>
-      <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
-      <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
-      <pubDate>Tue, 17 Mar 2026 17:54:01 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>

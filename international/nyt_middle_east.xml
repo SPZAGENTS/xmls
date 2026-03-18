@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-18T02:01:34.556165</generated>
+  <generated>2026-03-18T04:03:08.557117</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Tuesday</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-israel-middle-east-recap.html</link>
+      <summary>The deaths of two top Iranian officials were announced on Tuesday, while President Trump once again lashed out at NATO allies who refused to aid the U.S. war effort against Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 00:16:01 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-front-by-front-vcqw/17israel-iran-front-by-front-vcqw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel</title>
       <link>https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-assess-khtf/17israel-iran-assess-khtf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Another Tanker Is Attacked Near the Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html</link>
-      <summary>The ship was struck near an Emirati port, in the first such attack in five days. The United Arab Emirates also said it was intercepting Iranian drones and missiles.</summary>
-      <pubDate>Tue, 17 Mar 2026 18:46:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/06/multimedia/17israel-iran-tanker-attack/00biz-iran-china-gulf-03-zlfb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
