@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-18T22:01:10.417182</generated>
+  <generated>2026-03-19T00:00:56.901994</generated>
   <items>
     <item>
       <title>Gabbard tells senators Iranian regime is degraded but still intact</title>
@@ -16,13 +16,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/17/janet-mills-maine-negative-ads/</link>
       <summary>Janet Mills, the two-term governor, is running ads in the state slamming insurgent Graham Platner’s past Reddit comments on sexual assault.</summary>
       <pubDate>Tue, 17 Mar 2026 13:59:30 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Number of U.S. troops wounded in Iran war surpasses 200 across 7 countries</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/16/us-troops-wounded-iran/</link>
-      <summary>The injuries have occurred as Iran launches waves of missile and one-way attack drones in response to the Trump administration’s expansive assault.</summary>
-      <pubDate>Mon, 16 Mar 2026 21:05:01 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/17/white-house-dhs-partial-shutdown-tsa-airports/</link>
       <summary>Administration officials argue they are working to compromise with Democrats to unlock DHS funding and end the partial shutdown.</summary>
       <pubDate>Wed, 18 Mar 2026 00:50:44 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Judge questions Trump aides’ ‘brazen’ claims on White House ballroom</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-ballroom-judge-hearing/</link>
+      <summary>The planned $400 million project has been a top priority for the president. Judge Richard Leon said he hopes to rule this month on whether to halt construction.</summary>
+      <pubDate>Tue, 17 Mar 2026 22:34:23 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
