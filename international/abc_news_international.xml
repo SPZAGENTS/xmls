@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-18T12:01:00.690866</generated>
+  <generated>2026-03-18T14:01:43.095470</generated>
   <items>
     <item>
       <title>Gunmen kill at least 15 in attacks on 2 villages in northwestern Nigeria, authorities say</title>
@@ -34,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_cf1511c78036ae2246c906214d980d11_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Emergency room for injured wild birds opens at Warsaw Zoo in Poland</title>
+      <link>https://abcnews.com/International/wireStory/emergency-room-injured-wild-birds-opens-warsaw-zoo-131175426</link>
+      <summary>Warsaw Zoo has created a new emergency drop-off system that gets injured birds treated fast</summary>
+      <pubDate>Wed, 18 Mar 2026 07:48:24 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_b98d8d5ec8df8a44004b9cd3f48c4228_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Police in Nigeria suspect suicide bombers in deaths of at least 23 people</title>
-      <link>https://abcnews.com/International/wireStory/police-nigeria-suspect-suicide-bombers-deaths-23-people-131139592</link>
-      <summary>Police in Nigeria say suspected suicide bombings have killed at least 23 people and injured more than 100 in Maiduguri</summary>
-      <pubDate>Tue, 17 Mar 2026 08:03:09 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_3eaeb7f126866ab3c8b1d927a8bc7168_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Rubio calls for new Cuban leaders as latest blackout underscores deepening crisis</title>
       <link>https://abcnews.com/International/wireStory/rubio-calls-new-cuban-leaders-latest-blackout-underscores-131151835</link>
       <summary>U.S. Secretary of State Marco Rubio is calling for &amp;quot;new people in charge&amp;quot; of Cuba as the socialist island experiences its third nationwide blackout in four months</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Cuba plunged into islandwide blackout as power crisis worsens, in photos</title>
-      <link>https://abcnews.com/International/wireStory/cuba-plunged-islandwide-blackout-power-crisis-worsens-photos-131139227</link>
-      <summary>Officials in Cuba reported an islandwide blackout Monday as deepening energy and economic crises continue to strain a crumbling power grid. It marked the third major outage in four months. A separate blackout just over a week ago affected western Cuba, leaving millions without...</summary>
-      <pubDate>Tue, 17 Mar 2026 03:54:38 -0400</pubDate>
-      <priority>85</priority>
+      <title>Shigeaki Mori, Hiroshima atomic bomb survivor and historian, dies at 88</title>
+      <link>https://abcnews.com/International/wireStory/shigeaki-mori-hiroshima-atomic-bomb-survivor-historian-embraced-131150924</link>
+      <summary>Japanese atomic bomb survivor Shigeaki Mori has died at age 88</summary>
+      <pubDate>Tue, 17 Mar 2026 11:12:52 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_be0755d66e66cf33cece72fa095cc98a_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

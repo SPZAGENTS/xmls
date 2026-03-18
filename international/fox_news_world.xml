@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-18T12:00:52.020464</generated>
+  <generated>2026-03-18T14:01:34.892588</generated>
   <items>
+    <item>
+      <title>Israel kills Iranian intelligence minister who survived initial strike, official says</title>
+      <link>https://www.foxnews.com/world/israel-kills-iranian-intelligence-minister-who-survived-initial-strike-official-says</link>
+      <summary>Iran’s Intelligence Minister Esmaeil Khatib was killed in an Israeli strike, a senior Israeli official told Fox News.</summary>
+      <pubDate>Wed, 18 Mar 2026 07:51:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/esmaeil-khatib-iran-ministry-intelligence.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Deadly blasts at market and hospital raise fears of renewed Boko Haram insurgency in Nigeria</title>
       <link>https://www.foxnews.com/world/deadly-blasts-market-hospital-raise-fears-renewed-boko-haram-insurgency-nigeria</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-embassy-baghdad-iraq.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope Leo urges war leaders to halt fighting after deadly strike on school sparks outrage</title>
-      <link>https://www.foxnews.com/world/pope-leo-urges-war-leaders-halt-fighting-after-deadly-strike-school-sparks-outrage</link>
-      <summary>Pope Leo XIV called Sunday for an immediate ceasefire in the war involving Iran, urgently urging world leaders to halt violence after deadly strikes hit schools and civilian areas.</summary>
-      <pubDate>Sun, 15 Mar 2026 16:43:50 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/pope-leo-schism.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-18T12:00:53.977160</generated>
+  <generated>2026-03-18T14:01:36.659478</generated>
   <items>
+    <item>
+      <title>Israel says Iran’s intelligence minister was killed in overnight strike</title>
+      <link>https://www.washingtonpost.com/world/2026/03/18/iran-israel-war-us-esmail-khatib/</link>
+      <summary>Defense Minister Israel Katz reported the death of Esmaeil Khatib a day after announcing the deaths of two of the Iranian regime’s most senior officials.</summary>
+      <pubDate>Wed, 18 Mar 2026 10:59:07 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>This Emirati billionaire put a voice to Gulf anger over Trump’s war in Iran</title>
       <link>https://www.washingtonpost.com/world/2026/03/18/dubai-billionaire-trump-iran-war/</link>
@@ -61,18 +68,11 @@
       <priority>95</priority>
     </item>
     <item>
-      <title>Israel urges Iranians to revolt but privately assesses they’ll be ‘slaughtered’</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/17/israel-iran-cable-revolt-slaughtered/</link>
-      <summary>Israeli officials told U.S. counterparts they hope for an uprising even though it would lead to a massacre, according to a State Department cable reviewed by The Post.</summary>
-      <pubDate>Tue, 17 Mar 2026 15:22:32 +0000</pubDate>
+      <title>European leaders rebuff Trump’s call to open the Strait of Hormuz</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-allies-frustration-military-aid-iran/</link>
+      <summary>Trump has expressed frustration over a lack of military assistance from allies, but European leaders are reluctant to join a conflict he started without consulting them.</summary>
+      <pubDate>Tue, 17 Mar 2026 21:34:42 +0000</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Trump has choked off Cuba’s oil supply. China is stepping in with solar.</title>
-      <link>https://www.washingtonpost.com/world/2026/02/28/china-cuba-solar-trump-oil-blockade/</link>
-      <summary>As President Donald Trump threatens to “take” Cuba, China is flexing its dominance in renewable energy by supplying solar panels as Havana confronts an energy crisis.</summary>
-      <pubDate>Tue, 17 Mar 2026 15:38:13 +0000</pubDate>
-      <priority>85</priority>
     </item>
   </items>
 </content-feed>

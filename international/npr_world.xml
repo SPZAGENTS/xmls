@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-18T12:01:02.231106</generated>
+  <generated>2026-03-18T14:01:44.630100</generated>
   <items>
+    <item>
+      <title>Israel says it killed Iran's intelligence chief in overnight strike</title>
+      <link>https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials</link>
+      <summary>Israel said it killed Iran's minister of intelligence, Esmail Khatib, in an overnight strike Wednesday. The announcement came after Iran attacked Israel in missile strikes that killed two people.</summary>
+      <pubDate>Wed, 18 Mar 2026 06:14:38 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Cheap drones are reshaping modern warfare — and catching the U.S. off guard</title>
       <link>https://www.npr.org/2026/03/18/nx-s1-5749441/drones-iran-us-ukraine-epic-fury</link>
@@ -40,6 +47,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Red states move to protect crisis pregnancy centers using model legislation</title>
+      <link>https://www.npr.org/2026/03/18/nx-s1-5750548/crisis-pregnancy-centers-abortion-rights-wyoming-oklahoma-kansas</link>
+      <summary>The Alliance Defending Freedom is behind a legislation known as the CARE Act, moving through a number of statehouses. Other states are trying to crack down on crisis pregnancy centers, accusing them of deceptive practices.</summary>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>70</priority>
+    </item>
+    <item>
       <title>The threats to Minnesota's Medicaid funds are unprecedented. Other states could be next</title>
       <link>https://www.npr.org/2026/03/18/nx-s1-5751216/medicaid-minnesota-fraud-explained</link>
       <summary>Hundreds of millions of dollars — and possibly billions — for the state's Medicaid program are in limbo as part of the Trump administration's crackdown on fraud.</summary>
@@ -58,20 +72,6 @@
       <link>https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing</link>
       <summary>San Francisco's streets are plastered with cryptic ads from AI startups. The strategy is intentional — but it's not without cost.</summary>
       <pubDate>Wed, 18 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>EU offers to pay Ukraine to fix oil pipeline at the center of Ukraine-Hungary feud</title>
-      <link>https://www.npr.org/2026/03/18/g-s1-114243/eu-offers-to-pay-ukraine-to-fix-oil-pipeline-at-the-center-of-ukraine-hungary-feud</link>
-      <summary>EU officials say they have offered money and technical help to Ukraine to fix a key oil pipeline to Central Europe. They hope that will persuade Hungary to drop its veto on major aid to Ukraine.</summary>
-      <pubDate>Wed, 18 Mar 2026 01:10:37 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Daniel Biss wins Democratic primary for closely-watched Illinois House seat</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh</link>
-      <summary>Biss, the mayor of Evanston, Ill., topped political newcomer Kat Abughazaleh, a first-time candidate who ran as an unapologetic progressive in the race to succeed longtime incumbent Jan Schakowsky.</summary>
-      <pubDate>Tue, 17 Mar 2026 22:40:24 -0400</pubDate>
       <priority>65</priority>
     </item>
   </items>
