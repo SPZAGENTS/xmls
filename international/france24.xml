@@ -2,16 +2,27 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-18T04:03:09.965891</generated>
+  <generated>2026-03-18T06:00:55.711984</generated>
   <items>
+    <item>
+      <title>Starmer tells Zelensky focus must remain on Ukraine despite war in Iran</title>
+      <link>https://www.france24.com/en/europe/20260318-starmer-tells-zelensky-focus-must-remain-on-ukraine-despite-war-in-iran</link>
+      <summary>British Prime Minister Keir Starmer told Ukrainian President Volodymyr Zelensky that international attention must remain on Ukraine's fight against Russia despite the US-Israeli war with Iran. The two leaders met in London and signed a new defence partnership focused on counte...</summary>
+      <pubDate>Wed, 18 Mar 2026 02:31:17 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/5d4e0b76-2272-11f1-a43a-005056bf30b7/w:1024/p:16x9/AP26076583908781.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Live: Israel strikes central Beirut as Iran attack leaves two dead near Tel Aviv</title>
       <link>https://www.france24.com/en/middle-east/20260318-live-israel-strikes-central-beirut-as-iran-attack-leaves-two-dead-near-tel-aviv</link>
-      <summary>Iran's Supreme National Security Council late on Tuesday confirmed Israeli claims that the country's security chief Ali Larijani had been killed. Israel had previously announced that the top Iranian official was killed in an overnight air strike. Read our liveblog to see how t...</summary>
+      <summary>An Israeli strike on central Beirut – which came without warning – has left at least six dead and 24 injured. Meanwhile shrapnel from an Iranian missile launch killed two people in a Tel Aviv suburb, hours after Iran confirmed its security chief had been killed in an air strik...</summary>
       <pubDate>Wed, 18 Mar 2026 01:30:43 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.france24.com/media/display/32a5bff4-2268-11f1-a678-005056a97e36/w:1024/p:16x9/000-A3P44EP.jpg</image>
+        <image>https://s.france24.com/media/display/e47e2da8-2270-11f1-a9ec-005056bfb2b6/w:1024/p:16x9/000-A3P44FR.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -102,13 +113,6 @@
         <image>https://s.france24.com/media/display/f6469f46-2245-11f1-b722-005056a97e36/w:1024/p:16x9/ANGL260317-2141-Live.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Iran confirms security chief Ali Larijani killed, state media says</title>
-      <link>https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon</link>
-      <summary />
-      <pubDate>Tue, 17 Mar 2026 21:01:08 GMT</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>
