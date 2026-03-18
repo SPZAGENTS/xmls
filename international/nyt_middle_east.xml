@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-18T00:01:44.271185</generated>
+  <generated>2026-03-18T02:01:34.556165</generated>
   <items>
+    <item>
+      <title>Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel</title>
+      <link>https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html</link>
+      <summary>A mission to seize or destroy Iran’s nuclear material would be one of the riskiest military operations in modern American history.</summary>
+      <pubDate>Tue, 17 Mar 2026 23:35:52 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17DC-TRUMP-NUKES-bgqf/17DC-TRUMP-NUKES-bgqf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Kharg Island Is an Appealing Target for Trump, With High Risks</title>
       <link>https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html</link>
       <summary>A U.S. attack or a move to seize control of Iran’s main oil export hub could cripple the country’s ability to profit from its natural resources. But it would also risk sending energy prices even higher.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:58:30 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 21:58:31 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/us/politics/17DC-KHARG/17DC-KHARG-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>Ali Larijani, Iran’s De Facto Political Leader, Killed by Israel</title>
       <link>https://www.nytimes.com/2026/03/17/world/middleeast/israel-ali-larijani-iran-death.html</link>
       <summary>The killing, which Iran confirmed, could embolden Iranian hard-liners, as the U.S.-Israeli bombing campaign continues.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:56:42 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 23:21:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-leadall-01-mhgl/17int-iran-leadall-01-mhgl-mediumSquareAt3X.jpg</image>
@@ -63,7 +74,7 @@
       <title>Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War</title>
       <link>https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html</link>
       <summary>Mr. Kent is the highest-ranking Trump administration official to quit in opposition to the conflict. He is also known for his support of conspiracy theories.</summary>
-      <pubDate>Tue, 17 Mar 2026 20:17:30 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 23:29:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17dc-kent-ALERT-lhpj-copy2/17dc-kent-ALERT-lhpj-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/06/multimedia/17israel-iran-tanker-attack/00biz-iran-china-gulf-03-zlfb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html</link>
-      <summary>Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:12:00 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-gulf-defense-1-gmql/17int-gulf-defense-1-gmql-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
