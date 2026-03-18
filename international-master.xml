@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-18T20:02:40.654888</generated>
-  <total_articles>346</total_articles>
+  <generated>2026-03-18T22:01:18.405829</generated>
+  <total_articles>345</total_articles>
   <items>
     <item>
       <title>'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel</title>
@@ -36,17 +36,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israel strikes and destroys building in heart of Beirut</title>
-      <link>https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There are no known casualties so far from the strike near downtown, as Israel said it targeted a building affiliated with Hezbollah.</summary>
-      <pubDate>Wed, 18 Mar 2026 09:14:58 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2559/live/78ddce70-22a0-11f1-a8af-e379ed606894.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ebe/live/ecfa4850-203f-11f1-801d-ed3cff6bf876.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah</title>
+      <link>https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting "terrorist infrastructure".</summary>
+      <pubDate>Sat, 14 Mar 2026 22:55:40 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bb/live/986d6330-1fea-11f1-9436-9505a8c587fc.jpg</image>
       </media>
     </item>
   </items>

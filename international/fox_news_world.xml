@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-18T20:02:29.591787</generated>
+  <generated>2026-03-18T22:01:07.575698</generated>
   <items>
+    <item>
+      <title>Afghanistan accuses Pakistan of killing hundreds in Kabul hospital strike</title>
+      <link>https://www.foxnews.com/world/afghanistan-accuses-pakistan-killing-hundreds-kabul-hospital-strike</link>
+      <summary>Reported airstrike on Afghanistan hospital allegedly kills 400+ civilians, sparking widespread criticism over muted international response to the attack.</summary>
+      <pubDate>Wed, 18 Mar 2026 14:26:26 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hospital-strike-afghanistan.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Belgium deploys military to guard Jewish sites after Iran-linked group claims Europe attacks</title>
       <link>https://www.foxnews.com/world/belgium-deploys-military-guard-jewish-sites-after-iran-linked-group-claims-europe-attacks</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/uae-iran-war.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hamas reasserts control in Gaza as Iran war dominates regional attention and global focus</title>
-      <link>https://www.foxnews.com/world/hamas-reasserts-control-gaza-iran-war-dominates-regional-attention-global-focus</link>
-      <summary>Hamas reportedly reasserts control in Gaza as Iran war shifts international focus, according to analysts raising serious doubts about postwar planning.</summary>
-      <pubDate>Mon, 16 Mar 2026 18:00:39 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/hamas.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

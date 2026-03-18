@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-18T20:02:32.554360</generated>
+  <generated>2026-03-18T22:01:11.070791</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Oil and Gas Prices Jump After Strike Hits Key Energy Site</title>
       <link>https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil</link>
       <summary>The attack on South Pars, one of the world’s biggest gas fields, showed how the war threatens global energy supplies. Israel killed Iran’s intelligence minister, the latest high-ranking official to be targeted.</summary>
-      <pubDate>Wed, 18 Mar 2026 17:45:14 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 19:56:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-irab-130-cpqh/18israel-irab-130-cpqh-mediumSquareAt3X.jpg</image>
@@ -16,24 +16,20 @@
       </media>
     </item>
     <item>
+      <title>A Lebanese Cafe on the Edge of Destruction</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html</link>
+      <summary>Near the center of Beirut, one image captures the aftermath of an Israeli strike.</summary>
+      <pubDate>Wed, 18 Mar 2026 19:32:35 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region</title>
       <link>https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html</link>
       <summary>Iran’s military retaliation, along with the political defiance of its new leaders, evokes a decades-old pattern of unrealized goals for American interventions in the region.</summary>
-      <pubDate>Wed, 18 Mar 2026 16:23:51 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 18:44:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-iran-mideastwars-zljc/18int-iran-mideastwars-zljc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Friendship With Japan’s Leader Takaichi Faces Test Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html</link>
-      <summary>In Washington on Thursday, President Trump is expected to press Sanae Takaichi for military help in the Strait of Hormuz. But she faces constraints on what she can offer.</summary>
-      <pubDate>Wed, 18 Mar 2026 04:00:15 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-japan-trump-01-bplw/18int-japan-trump-01-bplw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,19 +56,26 @@
       </media>
     </item>
     <item>
-      <title>Dozens Dead in Pakistani Airstrike on Kabul</title>
-      <link>https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html</link>
-      <summary>The attack hit a drug rehabilitation facility, and Afghanistan vowed to retaliate, risking an escalation of the conflict between the two countries.</summary>
-      <pubDate>Wed, 18 Mar 2026 06:48:50 +0000</pubDate>
+      <title>U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html</link>
+      <summary>On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 18:47:30 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-afghanistan-strike-lhmv/17int-afghanistan-strike-lhmv-mediumSquareAt3X-v2.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-gabbard-fzjq/18israel-iran-gabbard-fzjq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
+      <title>Iran Executes Swedish Citizen Accused of Spying</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/swedish-citizen-executed-iran.html</link>
+      <summary>The case indicates that more than two weeks into the war, Iran continues its prosecution of foreigners. Sweden said its citizen did not get a fair trial.</summary>
+      <pubDate>Wed, 18 Mar 2026 18:06:25 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Iran’s South Pars Gas Field Is Attacked, Sending Energy Prices Soaring</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html</link>
+      <link>https://www.nytimes.com/2026/03/18/business/energy-environment/israel-strikes-south-pars-gas-oil-prices.html</link>
       <summary>The field is part of a vast gas reservoir shared by Iran and Qatar. The strike appeared to be one of the most significant attacks on an energy site since the U.S.-Israeli air war against Iran began.</summary>
       <pubDate>Wed, 18 Mar 2026 16:46:47 +0000</pubDate>
       <priority>100</priority>
@@ -85,10 +88,10 @@
       <title>Couple Killed in Cluster Bomb Attack Near Tel Aviv</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html</link>
       <summary>Neighbors told Israeli news media that their apartment building was hit soon after a siren sounded.</summary>
-      <pubDate>Wed, 18 Mar 2026 16:21:30 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 19:13:55 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-telaviv-vlqk/18israel-iran-telaviv-vlqk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19ISRAEL-IRAN-TELAVIV-PRINT/19ISRAEL-IRAN-TELAVIV-PRINT-tfkg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,21 +99,10 @@
       <title>Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html</link>
       <summary>The Israeli military said on Wednesday that it had killed Esmaeil Khatib in an airstrike. Iran confirmed the killing.</summary>
-      <pubDate>Wed, 18 Mar 2026 14:35:50 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 19:13:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-khatib-zmqb/18israel-iran-khatib-zmqb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Over 200 Ukrainian Experts in Middle East to Help Fight Drones, Zelensky Says</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html</link>
-      <summary>President Volodymyr Zelensky said that 11 countries in the region have asked for Kyiv’s assistance. Russia has launched such drones against Ukraine for years.</summary>
-      <pubDate>Wed, 18 Mar 2026 11:48:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-ukraine-ktgc/18israel-iran-ukraine-ktgc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
