@@ -2,13 +2,20 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-18T14:01:36.659478</generated>
+  <generated>2026-03-18T16:00:53.266085</generated>
   <items>
     <item>
-      <title>Israel says Iran’s intelligence minister was killed in overnight strike</title>
+      <title>Japan’s leader heads to D.C. bearing gifts of peace for a president at war</title>
+      <link>https://www.washingtonpost.com/world/2026/03/18/japan-sanae-takaichi-trump-washington/</link>
+      <summary>Japan’s super-popular prime minister, Sanae Takaichi, will visit the White House on Thursday, as President Donald Trump looks to allies for military help against Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 13:00:48 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Israel says it killed Iran’s intelligence minister in overnight strike</title>
       <link>https://www.washingtonpost.com/world/2026/03/18/iran-israel-war-us-esmail-khatib/</link>
       <summary>Defense Minister Israel Katz reported the death of Esmaeil Khatib a day after announcing the deaths of two of the Iranian regime’s most senior officials.</summary>
-      <pubDate>Wed, 18 Mar 2026 10:59:07 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 12:01:09 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>The State Department order to review security at “ALL posts worldwide” follows persistent attacks on U.S. embassies, with almost 300 reported in Iraq alone.</summary>
       <pubDate>Tue, 17 Mar 2026 21:03:51 +0000</pubDate>
       <priority>95</priority>
-    </item>
-    <item>
-      <title>European leaders rebuff Trump’s call to open the Strait of Hormuz</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-allies-frustration-military-aid-iran/</link>
-      <summary>Trump has expressed frustration over a lack of military assistance from allies, but European leaders are reluctant to join a conflict he started without consulting them.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:34:42 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>

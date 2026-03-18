@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-18T14:01:34.892588</generated>
+  <generated>2026-03-18T16:00:51.947881</generated>
   <items>
+    <item>
+      <title>Fiery aftermath of Iran missile strike near Tel Aviv caught on video after 2 killed</title>
+      <link>https://www.foxnews.com/world/iran-missile-strike-tel-aviv-aftermath-video</link>
+      <summary>Video footage captured fiery destruction and emergency crews responding after an Iranian missile strike near Tel Aviv, Israel, killed two people.</summary>
+      <pubDate>Wed, 18 Mar 2026 08:26:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/gif-israel-fiery-missile-strike.gif</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel kills Iranian intelligence minister who survived initial strike, official says</title>
       <link>https://www.foxnews.com/world/israel-kills-iranian-intelligence-minister-who-survived-initial-strike-official-says</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/liege-synagogue-attack.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US warns Iraq must act against Iran-backed militia attacks on American assets</title>
-      <link>https://www.foxnews.com/world/us-warns-iraq-must-act-against-iran-backed-militia-attacks-american-assets</link>
-      <summary>Iran-backed Popular Mobilization Forces have been accused of attacking U.S. assets in Iraq as Prime Minister Mohammed Shia al-Sudani&amp;apos;s government told to rein in terror proxies.</summary>
-      <pubDate>Mon, 16 Mar 2026 08:27:12 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-embassy-baghdad-iraq.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
