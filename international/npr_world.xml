@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-18T06:00:59.580170</generated>
+  <generated>2026-03-18T08:03:05.246524</generated>
   <items>
     <item>
       <title>Iran expert says Trump's 'war of choice' has morphed into a 'war of necessity'</title>
@@ -19,11 +19,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Ukraine strings nets over cities as killer drones turn streets into war zones</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5743446/russia-ukraine-war-nets-drones</link>
-      <summary>In eastern Ukraine, white nylon nets now stretch over roads and city streets, a low-tech defense against deadly FPV drones that dominate the battlefield and threaten civilians near the front line.</summary>
-      <pubDate>Tue, 17 Mar 2026 13:06:44 -0400</pubDate>
-      <priority>100</priority>
+      <title>Venezuela beats U.S. 3-2, wins first World Baseball Classic title</title>
+      <link>https://www.npr.org/2026/03/18/g-s1-114247/venezuela-beats-u-s-3-2-wins-first-world-baseball-classic-title</link>
+      <summary>Venezuela won the World Baseball Classic for the first time, rebounding from a blown eighth-inning lead to beat the United States 3-2 Tuesday night on Eugenio Suárez's tiebreaking double in the ninth</summary>
+      <pubDate>Wed, 18 Mar 2026 01:20:24 -0400</pubDate>
+      <priority>95</priority>
+    </item>
+    <item>
+      <title>Ruling overturns Senegal's Africa Cup title and declares Morocco the champion</title>
+      <link>https://www.npr.org/2026/03/18/g-s1-114255/ruling-africa-cup-morocco-champion</link>
+      <summary>Morocco was stunningly awarded the Africa Cup of Nations title on Tuesday by governing body judges who overturned Senegal's victory in a chaotic final in January.</summary>
+      <pubDate>Wed, 18 Mar 2026 01:42:15 -0400</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Khamenei's killing renews questions about U.S. assassinating foreign leaders</title>
@@ -31,6 +38,13 @@
       <summary>Technology allowed the U.S. and Israel to kill Iran's Supreme Leader, but raised longstanding questions about whether the U.S. as a democracy should be assassinating foreign leaders.</summary>
       <pubDate>Tue, 17 Mar 2026 15:22:49 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>EU offers to pay Ukraine to fix oil pipeline at the center of Ukraine-Hungary feud</title>
+      <link>https://www.npr.org/2026/03/18/g-s1-114243/eu-offers-to-pay-ukraine-to-fix-oil-pipeline-at-the-center-of-ukraine-hungary-feud</link>
+      <summary>EU officials say they have offered money and technical help to Ukraine to fix a key oil pipeline to Central Europe. They hope that will persuade Hungary to drop its veto on major aid to Ukraine.</summary>
+      <pubDate>Wed, 18 Mar 2026 01:10:37 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Daniel Biss wins Democratic primary for closely-watched Illinois House seat</title>
@@ -59,20 +73,6 @@
       <summary>In a conversation with pianist Lara Downes, the New Yorker staff writer says music in America will keep evolving as long as the country keeps an open door to new people and new sounds.</summary>
       <pubDate>Tue, 17 Mar 2026 14:30:11 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Sparse evidence for cannabis to treat mental health conditions highlights research gap</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health</link>
-      <summary>A new analysis represents the largest effort yet to systematically parse all the data from high-quality clinical trials on cannabis and mental health. The evidence is lacking.</summary>
-      <pubDate>Tue, 17 Mar 2026 12:57:21 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>She's won 24 Paralympic medals. But Oksana Masters wants to talk about times she lost</title>
-      <link>https://www.npr.org/2026/03/17/nx-s1-5749163/oksana-masters-2026-winter-paralympics-medals</link>
-      <summary>Oksana Masters leaves Italy with five new para Nordic skiing medals, extending her reign as the most decorated U.S. Winter Paralympian. She competes in summer sports too and is already eyeing LA 2028.</summary>
-      <pubDate>Tue, 17 Mar 2026 14:19:20 -0400</pubDate>
-      <priority>35</priority>
     </item>
   </items>
 </content-feed>

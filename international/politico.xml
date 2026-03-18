@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-18T06:00:51.743088</generated>
+  <generated>2026-03-18T08:02:57.810829</generated>
   <items>
     <item>
       <title>AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary</title>
@@ -23,6 +23,28 @@
       <priority>85</priority>
       <media>
         <image>https://static.politico.com/dd/2a/b9abe6bf45438df6891933118d62/main-glover-epstein.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>AIPAC faces calls to reassess strategy after split results in Illinois</title>
+      <link>https://www.politico.com/news/2026/03/18/aipac-israel-illinois-primary-results-00833615</link>
+      <summary>In its first midterms test, the powerful pro-Israel group backed two victors but failed to secure its preferred outcome in the two districts where it spent the most.</summary>
+      <pubDate>Wed, 18 Mar 2026 00:35:18 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/45/46/a0eafff441bfa4576e23096e9c48/main-illinois-aipac.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>King of Illinois: Pritzker swings Senate race as he targets Trump</title>
+      <link>https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545</link>
+      <summary>Juliana Stratton’s victory in a heated Senate primary vindicates the governor’s political operation heading into 2028.</summary>
+      <pubDate>Tue, 17 Mar 2026 23:16:13 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/77/28/0c35fa654fc59212273a60048c9f/us-election-2026-illinois-84858.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -87,28 +109,6 @@
       <summary />
       <pubDate>Mon, 16 Mar 2026 16:14:01 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>‘We’re going to have a problem’: Republicans want Trump to move on from 2020</title>
-      <link>https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317</link>
-      <summary>Facing a difficult midterm landscape, there's a growing view in the GOP that revisiting election grievances risks distracting from the issues that matter most.</summary>
-      <pubDate>Mon, 16 Mar 2026 04:40:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/43/9f/830e4a354c15872b7c0eb7c6bc31/trump-58772.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>2028 Dem veteran? Uncle Sam wants you.</title>
-      <link>https://www.politico.com/news/2026/03/14/2028-iran-war-democrats-00829204</link>
-      <summary>In a year after many Democrats pined for a metaphorical fighter, the party is now wondering whether it needs a more literal fighter.</summary>
-      <pubDate>Sat, 14 Mar 2026 09:43:15 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/d7/01/64a5e9a644cda8afdf76438cf772/u-s-congress-37003.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
