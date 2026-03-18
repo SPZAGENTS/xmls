@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-18T10:01:12.119376</generated>
+  <generated>2026-03-18T12:00:56.691848</generated>
   <items>
     <item>
       <title>Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/40e6f03375bf04e9972484df96c93defe6f92dc7/275_0_3731_2984/master/3731.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56751b0237081c4274ef1bab94aaa0b3</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Fuel rations and no air con: south-east Asian nations race to conserve energy</title>
+      <link>https://www.theguardian.com/world/2026/mar/18/south-east-asia-nations-conserve-energy-oil-soaring-costs</link>
+      <summary>Governments in countries heavily reliant on Middle Eastern oil introduce measures to shield public from soaring costsMiddle East crisis – live updatesIn Thailand, news anchors ditched their jackets on air as the government called on the public to reduce their use of air condit...</summary>
+      <pubDate>Wed, 18 Mar 2026 09:28:00 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/1e18b98a23e4bd23a52a3464bbb65e18ff7da388/714_0_4059_3249/master/4059.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67a5c19a613f0f7452aed3b3741d6b4c</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,17 +100,6 @@
       <priority>95</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/ddcbbf0f93b71e925fcb86035c4e434c06f54483/298_0_3003_2402/master/3003.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f954a253b6f197c886492fcb653650a2</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Apple cuts China App Store commission fees after government pressure</title>
-      <link>https://www.theguardian.com/technology/2026/mar/13/apple-china-app-store</link>
-      <summary>The move, which lowers fees to 25%, is a breakthrough for Chinese developers Tencent and ByteDanceSign up for the Breaking News US email to get newsletter alerts in your inboxApple announced late on Thursday it would lower the commission fees collected in its App Store in main...</summary>
-      <pubDate>Fri, 13 Mar 2026 16:37:13 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/f3d4bd90fa5796cd79e777724af564db61ddaae5/165_0_1650_1320/master/1650.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7076b6234d9231de2a7f4672a80e6e94</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-18T10:01:11.172802</generated>
+  <generated>2026-03-18T12:00:55.782399</generated>
   <items>
     <item>
       <title>Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings</title>
       <link>https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon</link>
       <summary>Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.</summary>
-      <pubDate>Wed, 18 Mar 2026 06:05:18 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 08:57:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-promo-830pm-jlgt/17israel-iran-promo-830pm-jlgt-mediumSquareAt3X.jpg</image>
@@ -71,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Friendship With Japan’s Leader Takaichi Faces Test Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/18/world/asia/trump-japan-takaichi-iran-hormuz.html</link>
-      <summary>In Washington on Thursday, President Trump is expected to press Sanae Takaichi for military help in the Strait of Hormuz. But she faces constraints on what she can offer.</summary>
-      <pubDate>Wed, 18 Mar 2026 04:00:15 +0000</pubDate>
+      <title>As Iran War Drags On, Europe Wants to Avoid a New Migration Crisis</title>
+      <link>https://www.nytimes.com/2026/03/18/world/europe/iran-war-refugees-turkey.html</link>
+      <summary>A decade ago, a surge in migration to Europe spurred the far-right’s rise. European leaders now fear the Iran war could set off another crisis, and they have taken tentative steps to prepare.</summary>
+      <pubDate>Wed, 18 Mar 2026 09:01:22 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-japan-trump-01-bplw/18int-japan-trump-01-bplw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html</link>
-      <summary>Israeli attacks have targeted the command centers of Iran’s repressive, internal security forces in hopes that Iranians will overthrow their rulers. Some see that as wishful thinking.</summary>
-      <pubDate>Wed, 18 Mar 2026 07:56:58 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-regime-change-01-pjbm/17int-iran-regime-change-01-pjbm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17europe-iran-migrants-01-tlkf/17europe-iran-migrants-01-tlkf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +96,17 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-uk-airbase-iran-wbgj/17int-uk-airbase-iran-wbgj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What to Know About Ali Larijani, Iran’s Top Security Official</title>
+      <link>https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html</link>
+      <summary>One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed.</summary>
+      <pubDate>Tue, 17 Mar 2026 22:06:50 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/04/multimedia/04iran-live-Ali-Larijani-who-is-hfo-hkgp/04iran-live-Ali-Larijani-who-is-hfo-hkgp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

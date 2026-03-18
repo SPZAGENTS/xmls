@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-18T10:01:14.485221</generated>
+  <generated>2026-03-18T12:00:59.991719</generated>
   <items>
     <item>
       <title>More than a dozen Reaper drones have been lost in Iran operations, US officials say</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/reaper-drone-1-ht-gmh-260317_1773780689720_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Fed set to adjust interest rates for 1st time since war with Iran spiked oil prices</title>
+      <link>https://abcnews.com/Business/fed-set-adjust-interest-rates-1st-time-war/story?id=131155455</link>
+      <summary>Oil prices have surged in recent weeks, threatening wider inflation.</summary>
+      <pubDate>Wed, 18 Mar 2026 05:35:20 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Business/federal-reserve-building-ap-jt-260317_1773778432913_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +56,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260316_wn_vo_snowmobile_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cesar Chavez accused of abusing 'young women or minors,' UFW says</title>
-      <link>https://abcnews.com/US/cesar-chavez-accused-abusing-young-women-minors-ufw/story?id=131159378</link>
-      <summary>The United Farm Workers union won’t participate in events honoring Chavez.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:40:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/cesar-chavez-gty-jt-260317_1773774463640_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
