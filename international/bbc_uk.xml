@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-18T08:02:55.321289</generated>
+  <generated>2026-03-18T10:01:06.121829</generated>
   <items>
     <item>
       <title>Total repression and air strikes bring unrelenting dread for Iranians</title>
@@ -11,7 +11,18 @@
       <pubDate>Wed, 18 Mar 2026 00:07:36 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8214/live/d3a92ad0-223b-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef75/live/d2549d10-2298-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine faces missile shortage due to Middle East war, says Zelensky</title>
+      <link>https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>In an exclusive interview with the BBC, the Ukrainian president says Putin wants a "long war" between the US and Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 07:56:49 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC</title>
+      <link>https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.</summary>
+      <pubDate>Tue, 17 Mar 2026 18:45:54 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Rayner warns immigration reforms risk being 'un-British'</title>
       <link>https://www.bbc.com/news/articles/c7434xv1pmeo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Most migrant workers will have to wait longer to qualify for permanent residence under the government's proposals.</summary>
@@ -51,7 +73,7 @@
     <item>
       <title>Morocco awarded Africa Cup of Nations title after Senegal win overturned</title>
       <link>https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their final defeat to Senegal.</summary>
+      <summary>Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their final defeat by Senegal.</summary>
       <pubDate>Wed, 18 Mar 2026 03:24:20 GMT</pubDate>
       <priority>75</priority>
       <media>
@@ -71,46 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Zelensky calls for Trump and Starmer to meet and find common ground</title>
-      <link>https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>In an exclusive interview with the BBC after talks with Starmer, the Ukrainian president says the pair should meet to "re-load the relationship".</summary>
-      <pubDate>Tue, 17 Mar 2026 23:15:26 GMT</pubDate>
-      <priority>65</priority>
+      <title>Scotland's assisted dying bill rejected after emotional debate</title>
+      <link>https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Scotland would have become the first part of the UK to legalise the process had MSPs backed the proposals.</summary>
+      <pubDate>Wed, 18 Mar 2026 00:04:34 GMT</pubDate>
+      <priority>50</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5eb/live/e568ce70-225d-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>'Explosive' meningitis outbreak is unprecedented, officials say</title>
-      <link>https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Officials confirm 15 cases of meningitis following an outbreak in Kent, in which two people died.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:54:24 GMT</pubDate>
-      <priority>65</priority>
+      <title>Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts</title>
+      <link>https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Britain is preparing to cancel its contribution to one of the Large Hadron Collider's next major upgrades.</summary>
+      <pubDate>Wed, 18 Mar 2026 01:57:13 GMT</pubDate>
+      <priority>50</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2932/live/0d873100-2239-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Was response to 'unprecedented' outbreak too slow?</title>
-      <link>https://www.bbc.com/news/articles/cjd9dk2v0z3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Questions are being asked about whether the NHS and authorities should have raised the alarm sooner.</summary>
-      <pubDate>Tue, 17 Mar 2026 18:33:47 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1907/live/c08d7140-2227-11f1-a903-99d6604c4b1e.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What causes meningitis and what are the symptoms?</title>
-      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Two people have died following an outbreak of meningitis, including one student at the University of Kent.</summary>
-      <pubDate>Tue, 17 Mar 2026 14:03:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272f/live/77b9b680-2200-11f1-934f-036468834728.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627b/live/3600d2f0-2214-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

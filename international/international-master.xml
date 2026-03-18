@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-18T08:03:05.249364</generated>
+  <generated>2026-03-18T10:01:16.430987</generated>
   <total_articles>339</total_articles>
   <items>
     <item>
@@ -13,7 +13,18 @@
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8214/live/d3a92ad0-223b-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef75/live/d2549d10-2298-11f1-b297-95b0a0a8331e.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine faces missile shortage due to Middle East war, says Zelensky</title>
+      <link>https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>In an exclusive interview with the BBC, the Ukrainian president says Putin wants a "long war" between the US and Iran.</summary>
+      <pubDate>Wed, 18 Mar 2026 07:56:49 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg</image>
       </media>
     </item>
     <item>
@@ -36,6 +47,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1e/live/0fa459f0-2260-11f1-a79a-77e93010d956.png</image>
+      </media>
+    </item>
+    <item>
+      <title>Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC</title>
+      <link>https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.</summary>
+      <pubDate>Tue, 17 Mar 2026 18:45:54 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg</image>
       </media>
     </item>
     <item>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017f/live/53a14b80-2117-11f1-b048-c9424b2cf5fd.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>US names six crew killed in refuelling plane crash in Iraq</title>
-      <link>https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.</summary>
-      <pubDate>Sun, 15 Mar 2026 08:08:30 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ebe/live/ecfa4850-203f-11f1-801d-ed3cff6bf876.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah</title>
-      <link>https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting "terrorist infrastructure".</summary>
-      <pubDate>Sat, 14 Mar 2026 22:55:40 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bb/live/986d6330-1fea-11f1-9436-9505a8c587fc.jpg</image>
       </media>
     </item>
   </items>

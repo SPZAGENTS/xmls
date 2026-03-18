@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-18T08:03:03.838017</generated>
+  <generated>2026-03-18T10:01:15.158478</generated>
   <items>
     <item>
       <title>Gunmen kill at least 15 in attacks on 2 villages in northwestern Nigeria, authorities say</title>
@@ -34,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_cf1511c78036ae2246c906214d980d11_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>El Salvador's Bukele pushes through life sentences in nation that has imprisoned 1% of population</title>
+      <link>https://abcnews.com/International/wireStory/el-salvadors-bukele-pushes-life-sentences-nation-imprisoned-131164584</link>
+      <summary>El Salvador's President Nayib Bukele and his party pushed through a constitutional reform that will permit life sentences in a country that has imprisoned more than 1% of its population in its war on gangs</summary>
+      <pubDate>Wed, 18 Mar 2026 03:11:37 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_c893c3086799a351e1c864aa1abbec85_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_3eaeb7f126866ab3c8b1d927a8bc7168_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Brazilian police release 3 Israeli tourists after clashes with pro-Palestine locals in beach city</title>
-      <link>https://abcnews.com/International/wireStory/brazilian-police-release-3-israeli-tourists-after-clashes-131133049</link>
-      <summary>Brazilian police released on Monday three Israeli tourists who this weekend got involved in a disturbance with pro-Palestine residents of a beachfront city in the country&amp;rsquo;s tropical northeast</summary>
-      <pubDate>Tue, 17 Mar 2026 02:10:09 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
