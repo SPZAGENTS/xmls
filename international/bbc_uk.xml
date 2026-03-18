@@ -2,16 +2,16 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-18T16:00:50.014787</generated>
+  <generated>2026-03-18T18:00:49.916892</generated>
   <items>
     <item>
-      <title>Ukraine faces missile shortage due to Middle East war, says Zelensky</title>
-      <link>https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>In an exclusive interview with the BBC, the Ukrainian president says Putin wants a "long war" between the US and Iran.</summary>
-      <pubDate>Wed, 18 Mar 2026 07:56:49 GMT</pubDate>
-      <priority>100</priority>
+      <title>Pair win Turing Award for computer encryption breakthrough</title>
+      <link>https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It is hoped Charles H Bennett and Gilles Brassard's work will make digital communications secure for decades ahead.</summary>
+      <pubDate>Wed, 18 Mar 2026 15:23:16 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/20bf1990-2257-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2703/live/f9246120-22d7-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>UK temperature reaches 21C in warmest day of year so far</title>
+      <link>https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The UK has seen its warmest day of the year so far with temperatures reaching 21C.</summary>
+      <pubDate>Wed, 18 Mar 2026 15:41:47 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97d/live/52f1cc60-21ed-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Senegal government alleges corruption after Morocco awarded Africa Cup of Nations following appeal</title>
       <link>https://www.bbc.com/sport/football/articles/cwygyq495j8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The Senegalese government calls for an "independent international investigation" at the Confederation of African Football after it stripped Senegal of the Africa Cup of Nations title.</summary>
@@ -38,32 +49,21 @@
       </media>
     </item>
     <item>
-      <title>UK temperature reaches 19.5C in warmest day of year so far</title>
-      <link>https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Bude in Cornwall has reached 19.5C, making it the warmest day of the year so far.</summary>
-      <pubDate>Wed, 18 Mar 2026 13:50:30 GMT</pubDate>
-      <priority>75</priority>
+      <title>Government backtracks on AI and copyright after outcry from major artists</title>
+      <link>https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>However, the government's position is now unclear, saying it "no longer has a preferred option" for what to do next.</summary>
+      <pubDate>Wed, 18 Mar 2026 13:24:39 GMT</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97d/live/52f1cc60-21ed-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian footballers return home after dropping Australian asylum bids</title>
-      <link>https://www.bbc.com/news/articles/c5yvyl5ve8lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>They had initially sought sanctuary after declining to sing Iran's anthem, prompting fears for their safety.</summary>
-      <pubDate>Wed, 18 Mar 2026 12:34:13 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e6/live/6107c9e0-22c8-11f1-934f-036468834728.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/7e30d890-22c8-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
       <title>People don't need to buy a vaccine, health secretary says</title>
       <link>https://www.bbc.com/news/articles/cy9g98g9eexo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Vaccines are being offered to 5,000 students at the University of Kent, where there is a outbreak, from Wednesday.</summary>
-      <pubDate>Wed, 18 Mar 2026 12:02:22 GMT</pubDate>
+      <summary>Vaccines are being offered to 5,000 students at the University of Kent, where there is a outbreak.</summary>
+      <pubDate>Wed, 18 Mar 2026 14:10:35 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f0/live/e7dfa090-22ba-11f1-934f-036468834728.jpg</image>
@@ -71,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>What are the symptoms of meningitis and how is it spread?</title>
-      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Two people have died following an "unpredecented" outbreak of meningitis in Kent.</summary>
-      <pubDate>Wed, 18 Mar 2026 11:04:30 GMT</pubDate>
+      <title>I've applied for 500 jobs in two months since graduating</title>
+      <link>https://www.bbc.com/news/articles/cm2rmjnlm94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Charlotte Briggs has applied for hundreds of jobs and cannot find work, despite achieving a 2:1 degree.</summary>
+      <pubDate>Wed, 18 Mar 2026 06:05:27 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Woman who learned to walk again after 130ft fall meets 'incredible' rescuers</title>
-      <link>https://www.bbc.com/news/articles/c4g5ne4q7l9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Leah Matthews has been reunited with the teams who saved her from a gorge in Waterfall Country.</summary>
-      <pubDate>Wed, 18 Mar 2026 09:26:50 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2148/live/a8fc91c0-22ac-11f1-934f-036468834728.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/1b6a1ac0-22cb-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>I've applied for 500 jobs in two months since graduating</title>
-      <link>https://www.bbc.com/news/articles/cm2rmjnlm94o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Charlotte Briggs has applied for hundreds of jobs and cannot find work, despite achieving a 2:1 degree.</summary>
-      <pubDate>Wed, 18 Mar 2026 06:05:27 GMT</pubDate>
-      <priority>65</priority>
+      <title>PM swerves questions on whether he spoke to Mandelson over Epstein friendship</title>
+      <link>https://www.bbc.com/news/articles/c7vjv17q0rmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Conservative leader Kemi Badenoch repeatedly asks if the prime minister spoke to Peter Mandelson about his friendship with Jeffrey Epstein before picking him to be a UK ambassador.</summary>
+      <pubDate>Wed, 18 Mar 2026 15:01:16 GMT</pubDate>
+      <priority>50</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fc/live/1b6a1ac0-22cb-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a1/live/72d0d6a0-22da-11f1-90cb-27c5deaacbc1.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Average age of first time buyer climbs to 34</title>
+      <link>https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A new report looks at how conditions have changed for first time buyers since the 1990s.</summary>
+      <pubDate>Wed, 18 Mar 2026 14:00:10 GMT</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eef6/live/e9a79d10-22bf-11f1-9a45-07ac962dc928.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

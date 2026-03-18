@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-18T16:00:55.541232</generated>
+  <generated>2026-03-18T18:00:55.366744</generated>
   <items>
+    <item>
+      <title>Couple Killed in Cluster Bomb Attack Near Tel Aviv</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html</link>
+      <summary>Neighbors told Israeli news media that their apartment building was hit soon after a siren sounded.</summary>
+      <pubDate>Wed, 18 Mar 2026 15:57:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-telaviv-vlqk/18israel-iran-telaviv-vlqk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html</link>
+      <summary>The Israeli military said on Wednesday that it had killed Esmaeil Khatib in an airstrike. Iran confirmed the killing.</summary>
+      <pubDate>Wed, 18 Mar 2026 14:35:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-khatib-zmqb/18israel-iran-khatib-zmqb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Over 200 Ukrainian Experts in Middle East to Help Fight Drones, Zelensky Says</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html</link>
@@ -30,7 +52,7 @@
       <title>Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html</link>
       <summary>Israeli attacks have targeted the command centers of Iran’s repressive, internal security forces in hopes that Iranians will overthrow their rulers. Some see that as wishful thinking.</summary>
-      <pubDate>Wed, 18 Mar 2026 07:56:59 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 15:35:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-regime-change-01-pjbm/17int-iran-regime-change-01-pjbm-mediumSquareAt3X.jpg</image>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-leadall-01-mhgl/17int-iran-leadall-01-mhgl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Keeps Killing Key Iranian Leaders. Will It Work?</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/israel-iran-leader-deaths.html</link>
-      <summary>Israeli officials trumpeted airstrikes that killed Iran’s de facto leader and the commanders of a militia notorious for violently suppressing protests. But “decapitation has its limits,” an analyst warns.</summary>
-      <pubDate>Wed, 18 Mar 2026 07:56:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-israel-assess-fnagoag/17int-iran-regime-change-ghqw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.N. Says Attacks on Iran Set to Drive Hunger to Record Levels</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/iran-strikes-hunger-record-levels.html</link>
-      <summary>Tens of millions more people around the world could face acute hunger as the war in the Middle East continues to disrupt shipping and drive up oil prices.</summary>
-      <pubDate>Tue, 17 Mar 2026 19:45:36 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17israel-iran-un-food-bpkz/17israel-iran-un-food-bpkz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
