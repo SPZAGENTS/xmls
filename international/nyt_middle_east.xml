@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-18T18:00:55.366744</generated>
+  <generated>2026-03-18T20:02:33.185075</generated>
   <items>
+    <item>
+      <title>Iran’s South Pars Gas Field Is Attacked, Sending Energy Prices Soaring</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html</link>
+      <summary>The field is part of a vast gas reservoir shared by Iran and Qatar. The strike appeared to be one of the most significant attacks on an energy site since the U.S.-Israeli air war against Iran began.</summary>
+      <pubDate>Wed, 18 Mar 2026 16:46:47 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-south-pars-vkpj/18israel-iran-south-pars-vkpj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Couple Killed in Cluster Bomb Attack Near Tel Aviv</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html</link>
       <summary>Neighbors told Israeli news media that their apartment building was hit soon after a siren sounded.</summary>
-      <pubDate>Wed, 18 Mar 2026 15:57:17 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 16:21:30 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-telaviv-vlqk/18israel-iran-telaviv-vlqk-mediumSquareAt3X.jpg</image>
@@ -41,7 +52,7 @@
       <title>Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html</link>
       <summary>The Israeli military widened its attacks to the districts in the center of the Lebanese capital, destroying buildings, forcing residents to flee and killing at least 10.</summary>
-      <pubDate>Wed, 18 Mar 2026 10:54:42 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 17:26:10 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-beirut-strikes04-bpwq/18israel-iran-beirut-strikes04-bpwq-mediumSquareAt3X.jpg</image>
@@ -74,7 +85,7 @@
       <title>Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel</title>
       <link>https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html</link>
       <summary>A mission to seize or destroy Iran’s nuclear material would be one of the riskiest military operations in modern American history.</summary>
-      <pubDate>Wed, 18 Mar 2026 06:35:06 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 17:07:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17DC-TRUMP-NUKES-bgqf/17DC-TRUMP-NUKES-bgqf-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17INT-larijani-obit-fbtm/17INT-larijani-obit-fbtm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ali Larijani, Iran’s De Facto Political Leader, Killed by Israel</title>
-      <link>https://www.nytimes.com/2026/03/17/world/middleeast/israel-ali-larijani-iran-death.html</link>
-      <summary>The killing, which Iran confirmed, could embolden Iranian hard-liners, as the U.S.-Israeli bombing campaign continues.</summary>
-      <pubDate>Tue, 17 Mar 2026 23:21:48 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-leadall-01-mhgl/17int-iran-leadall-01-mhgl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

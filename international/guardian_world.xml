@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-18T18:00:56.063562</generated>
+  <generated>2026-03-18T20:02:34.006016</generated>
   <items>
     <item>
       <title>Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/fa81fc42379948c4b6690e30bb32125e47610f69/288_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40ce575df3662562f10597012a8045cb</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Looking for leverage: China keeps close eye on US politics after summit delay</title>
+      <link>https://www.theguardian.com/us-news/2026/mar/18/looking-for-leverage-china-keeps-close-eye-on-us-politics-after-summit-delay</link>
+      <summary>Beijing seeks to decipher effect of Iran war on US midterms and best way to apply pressure when Trump meets XiThe White House said on Wednesday that China had agreed to postpone Donald Trump’s visit to Beijing, as war in the Middle East rages on, complicating the US president’...</summary>
+      <pubDate>Wed, 18 Mar 2026 15:25:18 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/afee65206630bdd6bf2c72d3741e814e5844e5e5/544_0_3846_3076/master/3846.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffe53c0bc35a9347a7f0c2b61b87b993</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/270c30e9b215e9b46d1c05e08a73912ea45a4f71/675_0_6753_5402/master/6753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66ef484dc3b55a8032c959fe7054746e</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump asks China if visit to Beijing can be delayed a month due to Iran war</title>
-      <link>https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz</link>
-      <summary>US president had earlier hinted trip could be put on hold if President Xi does not help unblock the strait of HormuzMiddle East crisis – live updatesTrump has asked to delay his planned visit to Beijing by about a month due to the Iran war, after earlier hinting he might put t...</summary>
-      <pubDate>Mon, 16 Mar 2026 22:17:11 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/dbd97f84b5fb85fcf06aa9abd1842c94747c96b3/429_0_2333_1867/master/2333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2eb43142f9663f3defdb235543d226bd</image>
         <type>image/jpeg</type>
       </media>
     </item>

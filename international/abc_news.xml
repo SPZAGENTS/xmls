@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-18T18:00:59.507382</generated>
+  <generated>2026-03-18T20:02:37.589419</generated>
   <items>
     <item>
-      <title>Iran live updates: Iran orders evacuation of Gulf energy assets</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Wed, 18 Mar 2026 10:54:20 -0400</pubDate>
+      <title>US, allied radar sites in Middle East struck at least 10 times: Visual analysis</title>
+      <link>https://abcnews.com/International/us-allied-radar-sites-middle-east-struck-10/story?id=131164670</link>
+      <summary>Available imagery suggests that Iranian drones and missiles have been successful in targeting some of the facilities that house the sensitive equipment.</summary>
+      <pubDate>Wed, 18 Mar 2026 13:04:01 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Asaluyeh-1-gty-gmh-260318_1773842321541_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/vv-1-ht-er-260317_1773786225888_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Gabbard says Iranian regime appears 'intact' but 'largely degraded'</title>
       <link>https://abcnews.com/Politics/dni-tulsi-gabbard-testifies-threats-hearing-amid-questions/story?id=131119189</link>
       <summary>Director of National Intelligence Tulsi Gabbard is testifying before the Senate Intelligence Committee amid questions on the Iran war.</summary>
-      <pubDate>Wed, 18 Mar 2026 11:58:43 -0400</pubDate>
+      <pubDate>Wed, 18 Mar 2026 12:33:06 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/gabbard-7-rt-gmh-03182026_1773847137283_hpMain_4x3t_384.jpg</image>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: President Trump says 'it's a good thing' top counterterror official resigned</title>
-      <link>https://abcnews.com/Politics/video/president-trump-good-thing-top-counterterror-official-resigned-131156160</link>
-      <summary>Trump said that he always thought former top counterterrorism official Joe Kent was "very weak on security" after Kent resigned Tuesday morning.</summary>
-      <pubDate>Tue, 17 Mar 2026 14:09:55 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/260317_abc_social_trump_kent_resignation_vert_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/Live/video/abcnews-live-41463246</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -56,17 +45,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Judge strikes down law mandating schools display the Ten Commandments</title>
-      <link>https://abcnews.com/US/wireStory/judge-strikes-arkansas-law-mandating-schools-display-ten-131166926</link>
-      <summary>An Arkansas law requiring that the Ten Commandments be prominently displayed in public school classrooms was struck down by a federal judge Monday</summary>
-      <pubDate>Tue, 17 Mar 2026 19:37:58 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_df424239a94eca7eb4183fbcc3bcbdf3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260317_gma_champion_banksy_717_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: ‘Sinners,’ ‘KPop Demon Hunters’ among unforgettable Oscar music moments</title>
+      <link>https://abcnews.com/GMA/Culture/video/sinners-kpop-demon-hunters-unforgettable-oscar-music-moments-131109898</link>
+      <summary>Oscar viewers grooved to the blues from “Sinners,” danced to “Golden” from “KPop Demon Hunters” and saw a surprise “in memoriam” performance by Barbra Streisand.</summary>
+      <pubDate>Mon, 16 Mar 2026 09:41:09 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260316_gma_spencer_oscars_music1_0739_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Josh Groban's Oscar moment fit for a king</title>
+      <link>https://abcnews.com/GMA/GMA3/video/josh-grobans-oscar-moment-fit-king-131124388</link>
+      <summary>A costumed Groban sings to the tune of 'Zadok the Priest' for an operatic Oscars opening sketch.</summary>
+      <pubDate>Mon, 16 Mar 2026 14:33:34 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260316_gma3_pop1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

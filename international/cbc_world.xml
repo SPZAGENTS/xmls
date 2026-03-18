@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-18T18:01:01.745703</generated>
+  <generated>2026-03-18T20:02:39.909449</generated>
   <items>
     <item>
       <title>Trump has delayed the Beijing summit. China wonders if he'll ever come to the negotiating table</title>
@@ -16,6 +16,13 @@
       <link>https://www.cbc.ca/news/world/iran-israel-united-states-attacks-9.7132837?cmp=rss</link>
       <summary>Iran’s state television published a threat on Wednesday saying the Islamic Republic would be attacking oil and gas infrastructure in Qatar, Saudi Arabia and the United Arab Emirates amid a new wave of strikes on its Persian Gulf neighbours and Israel.</summary>
       <pubDate>Wed, 18 Mar 2026 05:45:08 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Pakistan and Afghanistan announce temporary pause in fighting</title>
+      <link>https://www.cbc.ca/news/world/pakistan-afghanistan-pause-airstrikes-eid-9.7133287?cmp=rss</link>
+      <summary>Pakistan and Afghanistan have declared a temporary pause in escalating fighting, two days after Kabul blamed Islamabad for a deadly airstrike in the Afghan capital that it said killed hundreds of people at a drug rehabilitation hospital.</summary>
+      <pubDate>Wed, 18 Mar 2026 12:27:50 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>​Israeli Prime Minister Benjamin Netanyahu posted a video of himself getting a coffee on Sunday in an apparent attempt to prove that online rumours of his death have been greatly exaggerated.</summary>
       <pubDate>Tue, 17 Mar 2026 20:32:19 EDT</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Why allies aren't leaping to Trump's aid in Strait of Hormuz</title>
-      <link>https://www.cbc.ca/news/world/trump-iran-allies-strait-hormuz-oil-shipping-9.7131218?cmp=rss</link>
-      <summary>U.S. President Donald Trump is struggling to persuade other countries to help protect commercial shipping through the Strait of Hormuz — a development analysts say is partly the result of how he has treated allies since returning to the White House last year.</summary>
-      <pubDate>Tue, 17 Mar 2026 04:00:00 EDT</pubDate>
-      <priority>75</priority>
     </item>
   </items>
 </content-feed>

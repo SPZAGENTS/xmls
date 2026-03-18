@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-18T18:01:02.379195</generated>
+  <generated>2026-03-18T20:02:40.649949</generated>
   <items>
     <item>
       <title>Iran confirms the death of its intelligence chief, 3rd top official killed in 24 hours</title>
@@ -12,11 +12,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>The Federal Reserve is facing tough choices as the economy faces deep uncertainty</title>
-      <link>https://www.npr.org/2026/03/18/nx-s1-5750485/federal-reserve-policy-meeting-inflation-gas-iran-jobs</link>
-      <summary>The Federal Reserve's job is expected to hold its benchmark interest rate steady as it faces inflationary pressure from the war with Iran — and a weakening labor market.</summary>
-      <pubDate>Wed, 18 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>100</priority>
+      <title>Mamdani put Ramadan at the center of NYC's cultural life, bringing joy -- and a backlash</title>
+      <link>https://www.npr.org/2026/03/18/nx-s1-5751787/mamdani-put-ramadan-at-the-center-of-nycs-cultural-life-bringing-joy-and-a-backlash</link>
+      <summary>NYC Mayor Mamdani observed Ramadan publicly at a time when many politicians and activists on the right are voicing hostility and in some cases open bigotry toward American Muslims.</summary>
+      <pubDate>Wed, 18 Mar 2026 12:38:37 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Red states move to protect crisis pregnancy centers using model legislation</title>
@@ -26,9 +26,16 @@
       <priority>70</priority>
     </item>
     <item>
-      <title>Trump temporarily waives the Jones Act to try to lower gas prices</title>
+      <title>FAA tightens safety rules for helicopters and planes around major airports</title>
+      <link>https://www.npr.org/2026/03/18/nx-s1-5752185/faa-airport-safety-rules-helicopters</link>
+      <summary>Regulators at the Federal Aviation Administration are tightening safety rules in congested airspace around major airports, suspending the use of visual separation between planes and helicopters.</summary>
+      <pubDate>Wed, 18 Mar 2026 12:21:06 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump temporarily waives the Jones Act to try to lower gasoline prices. Will it work?</title>
       <link>https://www.npr.org/2026/03/18/nx-s1-5751854/gas-prices-trump-jones-act-iran</link>
-      <summary>Experts say waiving the act will do little to dramatically lower gas prices.</summary>
+      <summary>The Jones Act restricts which ships can carry goods between U.S. ports. Experts say temporarily lifting the act will do little to affect gas prices.</summary>
       <pubDate>Wed, 18 Mar 2026 10:49:07 -0400</pubDate>
       <priority>65</priority>
     </item>
@@ -43,13 +50,6 @@
       <title>The threats to Minnesota's Medicaid funds are unprecedented. Other states could be next</title>
       <link>https://www.npr.org/2026/03/18/nx-s1-5751216/medicaid-minnesota-fraud-explained</link>
       <summary>Hundreds of millions of dollars — and possibly billions — for the state's Medicaid program are in limbo as part of the Trump administration's crackdown on fraud.</summary>
-      <pubDate>Wed, 18 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Do you understand this billboard? If not, that's the whole point</title>
-      <link>https://www.npr.org/2026/03/18/nx-s1-5746115/billboards-san-francisco-tech-ai-advertising-marketing</link>
-      <summary>San Francisco's streets are plastered with cryptic ads from AI startups. The strategy is intentional — but it's not without cost.</summary>
       <pubDate>Wed, 18 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
