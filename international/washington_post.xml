@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-19T12:04:53.069790</generated>
+  <generated>2026-03-19T14:05:50.687916</generated>
   <items>
+    <item>
+      <title>Trump threatens to blow up major Iranian gas field as energy prices soar higher</title>
+      <link>https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/</link>
+      <summary>The president said he would not hesitate to attack the South Pars gas field, the largest in the world, if Iran continues to strike Qatar’s energy infrastructure.</summary>
+      <pubDate>Thu, 19 Mar 2026 11:26:03 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Economic fallout from U.S.-led war is hitting the rest of the world harder</title>
       <link>https://www.washingtonpost.com/world/2026/03/19/iran-war-global-economic-impact/</link>
@@ -66,13 +73,6 @@
       <summary>Joe Kent, a close aide to Director of National Intelligence Tulsi Gabbard, cited deliberate Israeli “misinformation” and lies to President Donald Trump about a “swift path to victory.”</summary>
       <pubDate>Tue, 17 Mar 2026 20:16:03 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>U.S. tells all its embassies to ‘immediately’ review security after strikes</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/17/state-department-embassy-security-posture-iran/</link>
-      <summary>The State Department order to review security at “ALL posts worldwide” follows persistent attacks on U.S. embassies, with almost 300 reported in Iraq alone.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:03:51 +0000</pubDate>
-      <priority>95</priority>
     </item>
   </items>
 </content-feed>
