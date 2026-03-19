@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T20:04:59.506979</generated>
+  <generated>2026-03-19T22:00:55.325793</generated>
   <items>
     <item>
       <title>Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans</title>
       <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil</link>
-      <summary>President Trump, speaking in the Oval Office, said he would do whatever was necessary to lower oil prices, even as new strikes on energy sites in the Gulf drove the price of oil to new highs.</summary>
-      <pubDate>Thu, 19 Mar 2026 17:59:34 +0000</pubDate>
+      <summary>President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.</summary>
+      <pubDate>Thu, 19 Mar 2026 19:55:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel0rain-200-hbwv/19israel0rain-200-hbwv-mediumSquareAt3X.jpg</image>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge</title>
+      <link>https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html</link>
+      <summary>The Trump administration made the move in exchange for Belarus’s freeing of 250 political prisoners, part of a rapprochement between the two countries.</summary>
+      <pubDate>Thu, 19 Mar 2026 19:02:20 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19belarus-prisoners-fphm/19belarus-prisoners-fphm-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>A Lebanese Cafe on the Edge of Destruction</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html</link>
       <summary>Near the center of Beirut, one image captures the aftermath of an Israeli strike.</summary>
@@ -48,7 +59,7 @@
       <title>Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader</title>
       <link>https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html</link>
       <summary>Breaking a taboo, President Trump needled Japan’s prime minister about the World War II attack, as she widened her eyes and appeared to take a deep breath in the Oval Office.</summary>
-      <pubDate>Thu, 19 Mar 2026 17:33:08 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 18:57:35 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/1919israel-iran-pearl-harbor-topart-mljh/1919israel-iran-pearl-harbor-topart-mljh-mediumSquareAt3X.jpg</image>
@@ -70,7 +81,7 @@
       <title>Israeli Officials Said U.S. Was Told about South Pars Attack</title>
       <link>https://www.nytimes.com/2026/03/19/world/middleeast/israel-iran-south-pars-gas-field-trump.html</link>
       <summary>President Trump first said the United States “knew nothing” about an attack on the gas field in Iran, which sent global oil and gas prices soaring. He then said he cautioned Israel against it.</summary>
-      <pubDate>Thu, 19 Mar 2026 16:56:05 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 18:24:42 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-response-jfcb/19israel-iran-response-jfcb-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-uk-iran-jews-jmfb/19int-uk-iran-jews-jmfb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan Pauses Afghanistan Airstrikes for Eid</title>
-      <link>https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html</link>
-      <summary>At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.</summary>
-      <pubDate>Thu, 19 Mar 2026 01:12:01 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-afghanistan-strike-1-chkm/18int-afghanistan-strike-1-chkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
