@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-19T20:06:02.279009</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-19T20:07:13.875253</generated>
   <items>
     <item>
       <title>US plans to ease sanctions on Iranian oil; Israeli officials say attack on Iranian gas field won't happen again</title>
       <link>https://www.ynetnews.com/article/hjz5u9yqbg</link>
-      <description>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</description>
+      <summary>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</summary>
       <pubDate>Thu, 19 Mar 2026 17:45:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>Netanyahu, Trump coordinated Iran gas strike; Israel braces for retaliation on energy infrastructure</title>
       <link>https://www.ynetnews.com/article/hyfliiocze</link>
-      <description>Israeli officials described the move as a clear warning by Israel and the United States in response to Iranian threats to close the Strait of Hormuz</description>
+      <summary>Israeli officials described the move as a clear warning by Israel and the United States in response to Iranian threats to close the Strait of Hormuz</summary>
       <pubDate>Wed, 18 Mar 2026 18:49:49 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>US F-35 fighter jet hit by Iranian fire, makes emergency landing</title>
       <link>https://www.ynetnews.com/article/sk3ai5yq11e</link>
-      <description>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</description>
+      <summary>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</summary>
       <pubDate>Thu, 19 Mar 2026 18:04:19 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Damage at Haifa oil refineries after Iranian missile attack</title>
       <link>https://www.ynetnews.com/article/h1rmbctqbl</link>
-      <description>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</description>
+      <summary>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</summary>
       <pubDate>Thu, 19 Mar 2026 17:14:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israel takes on larger share of strikes from US in Iran, data shows</title>
       <link>https://www.ynetnews.com/article/b1d1wfyqzx</link>
-      <description>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</description>
+      <summary>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</summary>
       <pubDate>Thu, 19 Mar 2026 16:33:46 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israeli Air Force strikes Iranian naval vessels in Caspian Sea for first time</title>
       <link>https://www.ynetnews.com/article/hkvkxtu9wl</link>
-      <description>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</description>
+      <summary>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</summary>
       <pubDate>Wed, 18 Mar 2026 21:51:20 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>'The price we paid was not enough?': Hezbollah’s core Shiite supporters turn bitter on war</title>
       <link>https://www.ynetnews.com/article/s16qurocbl</link>
-      <description>Interviews with displaced Lebanese Shiites, long Hezbollah’s main support base, show rising anger that the group again dragged them into war with Israel, deepening displacement, destruction and doubts among some longtime backers</description>
+      <summary>Interviews with displaced Lebanese Shiites, long Hezbollah’s main support base, show rising anger that the group again dragged them into war with Israel, deepening displacement, destruction and doubts among some longtime backers</summary>
       <pubDate>Wed, 18 Mar 2026 18:13:56 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iranians civilians are terrified by IDF bombings: 'Tehran looks like a city of the dead'</title>
       <link>https://www.ynetnews.com/article/rycc4z00cwx</link>
-      <description>BBC and PBS reporters speak to residents of Tehran and other cities who have been living for three weeks under Israeli and American fire, and the fear and despair were evident in their words; 'Today I somehow survive, but how will I get through tomorrow?'</description>
+      <summary>BBC and PBS reporters speak to residents of Tehran and other cities who have been living for three weeks under Israeli and American fire, and the fear and despair were evident in their words; 'Today I somehow survive, but how will I get through tomorrow?'</summary>
       <pubDate>Wed, 18 Mar 2026 14:43:05 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
-      <title>המסר של מדינות המפרץ לישראל וארה"ב: אל תעצרו עד שהמשטר באיראן יוחלף</title>
-      <link>https://www.ynet.co.il/news/article/bjpp2pk5ze</link>
-      <description>בכירים במדינות המפרץ העבירו מסרים לישראל וארה"ב וחוששים כי המלחמה תסתיים ללא החלפת המשטר. בכיר ישראלי: הן לא תוקפות בחזרה מחשש שאיראן תשרוד, ומודאגות מהיום שאחרי. במקביל: מדינות המפרץ מקדמות החלטה חדשה לגינוי איראן במועצת הביטחון של האו"ם</description>
-      <pubDate>Thu, 19 Mar 2026 17:43:04 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
+      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
+      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
+      <pubDate>Thu, 19 Mar 2026 07:53:35 +0200</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>ארה"ב: מטוס F-35 שנפגע מירי איראני נחת נחיתת חירום</title>
-      <link>https://www.ynet.co.il/news/article/rjl5h9tcwx</link>
-      <description>פיקוד המרכז האמריקני אישר כי המטוס ביצע נחיתת חירום באחד מבסיסי צבא ארה"ב במזרח התיכון, ומסר כי הטייס במצב יציב - והאירוע בחקירה. זו הפעם הראשונה שאיראן פוגעת במטוס אמריקני או ישראלי מאז החלה המלחמה</description>
-      <pubDate>Thu, 19 Mar 2026 17:28:30 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <title>היא מהבודדות שאינה חלק מהמלחמה - אבל ההשלכות עליה עלולות להיות הרסניות</title>
+      <link>https://www.ynet.co.il/economy/article/rjmhh4uqwg</link>
+      <summary>הזינוק במחירי הנפט, שהגיעו למעל 110 דולר לחבית, בעקבות המלחמה בין איראן לארה"ב וישראל אילץ את מצרים להעלות את מחירי הדלק והגז - וההתייקרויות מחלחלות לכל המשק, שגם כך נמצא במשבר עמוק כבר שנים. במקביל, הכנסות מתיירות ומתעלת סואץ נמצאות בסיכון, והלחץ הכלכלי גובר. עבור מיליונים שח...</summary>
+      <pubDate>Thu, 19 Mar 2026 07:11:16 +0200</pubDate>
+      <priority>120</priority>
     </item>
   </items>
 </content-feed>

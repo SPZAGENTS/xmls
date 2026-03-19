@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-19T16:01:26.977620</generated>
+  <generated>2026-03-19T20:05:10.533874</generated>
   <items>
+    <item>
+      <title>Fear, defiance, and anger: Iranians describe life under bombardment</title>
+      <link>https://www.npr.org/2026/03/19/g-s1-114144/iran-voices-war</link>
+      <summary>In messages to NPR, Tehran residents describe largely deserted streets roamed by paramilitary officials and vigilantes. They say security forces are banning gatherings for Nowruz, the Persian new year, this week.</summary>
+      <pubDate>Thu, 19 Mar 2026 10:01:05 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war</title>
       <link>https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war</link>
@@ -19,18 +26,25 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>As overseas terrorists regroup, is the Iran war increasing danger in the U.S.?</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5752332/iran-war-terrorism-threat-us</link>
-      <summary>Investigators in the U.S. search for motives in three recent instances of targeted attacks, and whether they are related to the war in Iran.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>100</priority>
+      <title>The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida</link>
+      <summary>Several Republican-led states are passing their own versions of the SAVE America Act, Trump-backed legislation that would introduce new proof-of-citizenship requirements to register to vote.</summary>
+      <pubDate>Thu, 19 Mar 2026 10:05:31 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
-      <title>The longer the Iran war goes, the worse it could be for Trump. Just look at history</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran</link>
-      <summary>President Trump started a war with no clear end in sight. If his predecessors' experiences are an indication, conflicts don't bode well for presidential approval ratings.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>100</priority>
+      <title>Singer Jill Scott is doing what she wants: 'Everything has led me to this place'</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5746726/jill-scott-to-whom-this-may-concern</link>
+      <summary>The Grammy-winning singer describes herself as a "53-year-old woman who is maneuvering her career the way she wants to, how she wants to." Scott's new album is To Whom This May Concern.</summary>
+      <pubDate>Thu, 19 Mar 2026 12:52:14 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Harry Styles' new album is a massive chart success</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5752356/harry-styles-kiss-all-the-time-disco-occasionally-charts</link>
+      <summary>This week, the biggest chart news revolves around Harry Styles all the time. Other artists, occasionally.</summary>
+      <pubDate>Thu, 19 Mar 2026 11:41:20 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>New autism group meets to counter MAHA's 'ideological agenda'</title>
@@ -38,6 +52,13 @@
       <summary>Autism experts plan to convene in Washington Thursday to propose a research agenda at odds with the one endorsed by the Trump Administration.</summary>
       <pubDate>Thu, 19 Mar 2026 06:00:00 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>'Movement never lies': 100 years of the Martha Graham Dance Company</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5683079/martha-graham-dance-company-100-years-centennial</link>
+      <summary>Graham was a creative force in the performing arts. She wanted dance to express authentic, human emotions — a revolutionary idea in the late 1920s.</summary>
+      <pubDate>Thu, 19 Mar 2026 11:37:32 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Cursive is back. But should students be learning the skill?</title>
@@ -51,27 +72,6 @@
       <link>https://www.npr.org/2026/03/19/nx-s1-5749420/auto-loan-interest-tax-deduction</link>
       <summary>Taxpayers who purchased a new vehicle in 2025 may qualify for a new deduction on their taxes — even if they're not itemizing. But not everyone is eligible.</summary>
       <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Kick your tiredness with these 7 natural energy boosters</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5751855/tired-energy-fatigue</link>
-      <summary>A full calendar doesn't mean you have to feel exhausted all the time. Experts share natural ways to boost energy and beat the constant battle of tiredness.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>It's called 'private credit' — and it could lead to big trouble on Wall Street</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street</link>
-      <summary>The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>ICE officers are taking DNA samples from protesters they've arrested</title>
-      <link>https://www.npr.org/2026/03/18/nx-s1-5739257/ice-officers-dna-protesters-database</link>
-      <summary>People arrested while protesting ICE say federal agents took samples of their DNA. It's legal, but experts say the practice raises questions about what the government is doing with that genetic data.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:44:38 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
