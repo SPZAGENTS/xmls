@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-19T16:01:26.977620</generated>
+  <generated>2026-03-19T18:07:19.643172</generated>
   <items>
     <item>
       <title>As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war</title>
@@ -31,6 +31,13 @@
       <summary>President Trump started a war with no clear end in sight. If his predecessors' experiences are an indication, conflicts don't bode well for presidential approval ratings.</summary>
       <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida</link>
+      <summary>Several Republican-led states are passing their own versions of the SAVE America Act, Trump-backed legislation that would introduce new proof-of-citizenship requirements to register to vote.</summary>
+      <pubDate>Thu, 19 Mar 2026 10:05:31 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>New autism group meets to counter MAHA's 'ideological agenda'</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street</link>
       <summary>The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.</summary>
       <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>ICE officers are taking DNA samples from protesters they've arrested</title>
-      <link>https://www.npr.org/2026/03/18/nx-s1-5739257/ice-officers-dna-protesters-database</link>
-      <summary>People arrested while protesting ICE say federal agents took samples of their DNA. It's legal, but experts say the practice raises questions about what the government is doing with that genetic data.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:44:38 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
