@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-19T14:06:01.461646</generated>
+  <generated>2026-03-19T16:01:26.977620</generated>
   <items>
+    <item>
+      <title>As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war</title>
+      <link>https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war</link>
+      <summary>At the Emergency Hospital, dozens crowded around a thick book to check the names of the victims killed in an airstrike on a rehabilitation center. The U.N. says over a hundred people were killed.</summary>
+      <pubDate>Thu, 19 Mar 2026 08:11:54 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Japan's prime minister visits the White House under shadow of Iran war</title>
       <link>https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house</link>
@@ -19,17 +26,10 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Israel and Iran attack gas facilities in a major escalation that rattles markets</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks</link>
-      <summary>President Trump said that Israel acted alone when it struck the South Pars gas field in Iran. Trump threatened Iran to halt its attacks on Qatar's facilities, or face a "blow up" of their South Pars field.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:16:52 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Gas price spike spurs a political blame game in California</title>
-      <link>https://www.npr.org/2026/03/18/nx-s1-5749505/gas-price-spike-spurs-a-political-blame-game-in-california</link>
-      <summary>California's gas prices have long been high, and spikes due to the war with Iran have sparked debate over who's to blame. Some Democrats say Gov. Gavin Newsom could do more to ease prices.</summary>
-      <pubDate>Wed, 18 Mar 2026 16:07:49 -0400</pubDate>
+      <title>The longer the Iran war goes, the worse it could be for Trump. Just look at history</title>
+      <link>https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran</link>
+      <summary>President Trump started a war with no clear end in sight. If his predecessors' experiences are an indication, conflicts don't bode well for presidential approval ratings.</summary>
+      <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -63,7 +63,7 @@
     <item>
       <title>It's called 'private credit' — and it could lead to big trouble on Wall Street</title>
       <link>https://www.npr.org/2026/03/19/nx-s1-5747128/private-credit-equity-jamie-dimon-wall-street</link>
-      <summary>The risky lending business has been booming — but now its problems are becoming increasingly visible on Wall Street and beyond.</summary>
+      <summary>The risky lending business has been booming, but now its problems are becoming increasingly visible on Wall Street and beyond.</summary>
       <pubDate>Thu, 19 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>

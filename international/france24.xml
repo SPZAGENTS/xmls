@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-19T14:05:55.833038</generated>
+  <generated>2026-03-19T16:01:21.526520</generated>
   <items>
+    <item>
+      <title>Iran war exposes Gulf economies' food, water vulnerability</title>
+      <link>https://www.france24.com/en/tv-shows/people-profit/20260319-iran-war-exposes-gulf-economies-food-water-vulnerability</link>
+      <summary>The spiralling conflict in Iran has highlighted the potential vulnerability of Gulf states when it comes to food and water security. Countries like Bahrain and Qatar depend heavily on desalinated water, and strikes on desalination plants have sparked concern about water suppli...</summary>
+      <pubDate>Thu, 19 Mar 2026 13:41:32 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/aae41500-2381-11f1-a53b-005056bf30b7/w:1024/p:16x9/PEOPLEandPROFIT-2.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran: Saudi Arabia warns of 'military action' over repeated attacks</title>
       <link>https://www.france24.com/en/video/20260319-iran-saudi-arabia-warns-of-military-action-over-repeated-attacks</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/41552834-2379-11f1-a573-005056bfb2b6/w:1024/p:16x9/EN-20260319-101852-102335-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran causes 'extensive' damage to Qatar gas hub, sparks Trump warning</title>
-      <link>https://www.france24.com/en/video/20260319-iran-causes-extensive-damage-to-qatar-gas-hub-sparks-trump-warning</link>
-      <summary>Qatar reported "extensive" damage on Thursday to the site of the world's largest liquefied natural gas (LNG) facility following Iranian strikes, sparking fears for global energy supplies and fresh threats from Donald Trump against Iran. Tehran carried out attacks on Qatar's hu...</summary>
-      <pubDate>Thu, 19 Mar 2026 10:26:45 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/0563c88e-237a-11f1-b918-005056bf30b7/w:1024/p:16x9/EN-20260319-103203-103410-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
