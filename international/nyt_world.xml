@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T08:03:24.971452</generated>
+  <generated>2026-03-19T10:04:56.185451</generated>
   <items>
     <item>
-      <title>Missile Attack Kills at Least 3 in West Bank</title>
-      <link>https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil</link>
-      <summary>Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:29:12 +0000</pubDate>
+      <title>Iran War Live Updates: Qatar Reports More Attacks on Energy Infrastructure as Oil Prices Rise</title>
+      <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil</link>
+      <summary>Qatar blamed Tehran for strikes on its natural gas facilities, a day after Iran’s largest natural gas source was hit. The price of oil climbed to $114 a barrel as uncertainty over the war’s impacts on energy supplies grew.</summary>
+      <pubDate>Thu, 19 Mar 2026 07:46:00 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/18/multimedia/18israel-ran-promo-2350-jblq/18israel-ran-promo-2350-jblq-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/18/multimedia/19israel-iran-promo/18israel-iran-ru-qatargas-bjcv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Iran War’s Economic Threat to Europe and Asia</title>
+      <link>https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html</link>
+      <summary>Inflation and its consequences for growth are a growing concern for countries where memories of the 2022 energy crisis are fresh.</summary>
+      <pubDate>Thu, 19 Mar 2026 06:06:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19Biz-Iran-Fiscal-Strain-01-lgfc/19Biz-Iran-Fiscal-Strain-01-lgfc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,35 +56,13 @@
       </media>
     </item>
     <item>
-      <title>As Iran War Drags On, Europe Wants to Avoid a New Migration Crisis</title>
-      <link>https://www.nytimes.com/2026/03/18/world/europe/iran-war-refugees-turkey.html</link>
-      <summary>A decade ago, a surge in migration to Europe spurred the far-right’s rise. European leaders now fear the Iran war could set off another crisis, and they have taken tentative steps to prepare.</summary>
-      <pubDate>Wed, 18 Mar 2026 09:01:22 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/17/multimedia/17europe-iran-migrants-01-tlkf/17europe-iran-migrants-01-tlkf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Oil Prices Keep Climbing on Heightened Fears Over Energy Supplies</title>
       <link>https://www.nytimes.com/2026/03/19/business/oil-prices-iran-war.html</link>
       <summary>Attacks on major energy facilities in Iran and Qatar injected new uncertainty into the outlook for oil and gas prices.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:23:55 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 07:45:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19BIZ-STOCKS-OIL-GAS-cjqm/19BIZ-STOCKS-OIL-GAS-cjqm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Iran War’s Economic Threat to Europe and Asia</title>
-      <link>https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html</link>
-      <summary>Inflation and its consequences for growth is a growing concern for countries where memories of the 2022 energy crisis are fresh.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:21:18 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19Biz-Iran-Fiscal-Strain-01-lgfc/19Biz-Iran-Fiscal-Strain-01-lgfc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,6 +85,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-front-by-front-qkjh/18israel-iran-front-by-front-qkjh-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran Turns Out for Funeral for Those Killed in Strikes</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-funeral-photo.html</link>
+      <summary>Some died in Iran, others on a sea far from home. They were honored together Wednesday at a procession in Tehran.</summary>
+      <pubDate>Wed, 18 Mar 2026 23:35:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-funeral-promo-wbjh/18israel-iran-funeral-promo-wbjh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

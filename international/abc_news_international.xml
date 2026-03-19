@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-19T08:03:30.873381</generated>
+  <generated>2026-03-19T10:05:02.564690</generated>
   <items>
+    <item>
+      <title>Iran war expected to prevent Bank of England from cutting interest rates</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469</link>
+      <summary>The Bank of England is expected to keep its main interest rate unchanged at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war</summary>
+      <pubDate>Thu, 19 Mar 2026 03:59:41 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Greece launches an animal airlift to evacuate pets and their owners from the Mideast</title>
       <link>https://abcnews.com/International/wireStory/greece-launches-animal-airlift-evacuate-pets-owners-mideast-131197540</link>
@@ -12,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_cf3bbc33c2d8c7c962dac34df4ebf8bd_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Gunmen kill at least 15 in attacks on 2 villages in northwestern Nigeria, authorities say</title>
-      <link>https://abcnews.com/International/wireStory/gunmen-kill-15-attacks-2-villages-northwestern-nigeria-131156366</link>
-      <summary>Gunmen killed at least 15 people in attacks on two villages in northwestern Nigeria, officials and residents say</summary>
-      <pubDate>Tue, 17 Mar 2026 13:42:56 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>2 found with hundreds of ants are charged with illegally dealing in wildlife in Kenya</title>
-      <link>https://abcnews.com/International/wireStory/2-men-found-hundreds-ants-charged-illegally-dealing-131152125</link>
-      <summary>A Chinese national and a local man were criminally charged over possession of live ants in the case that could further shine a spotlight on the trade in rare wildlife</summary>
-      <pubDate>Tue, 17 Mar 2026 12:25:28 -0400</pubDate>
-      <priority>95</priority>
+      <title>Thousands of Moldovans cut off from water after Russian strike on Ukrainian hydropower plant</title>
+      <link>https://abcnews.com/International/wireStory/thousands-moldovans-cut-off-water-after-russian-strike-131208487</link>
+      <summary>Tens of thousands of Moldovans have been left without water after a Russian strike on a hydroelectric plant in neighboring Ukraine resulted in oil polluting a major river that flows through both countries</summary>
+      <pubDate>Thu, 19 Mar 2026 03:38:06 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_cf1511c78036ae2246c906214d980d11_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_15444cfde592efb1bc4862fe75458231_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Hungary and Slovakia strike a new fuel pipeline deal to steady regional supplies</title>
-      <link>https://abcnews.com/International/wireStory/hungary-slovakia-strike-new-fuel-pipeline-deal-steady-131152963</link>
-      <summary>Hungary and Slovakia are agreeing to build a new pipeline that links their refineries in what they say will boost regional fuel security</summary>
-      <pubDate>Tue, 17 Mar 2026 12:15:57 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_814d92c11ade5cbd497c1c5ebc66833b_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Macron names next nuclear-powered aircraft carrier 'France Libre' as a symbol of independence</title>
       <link>https://abcnews.com/International/wireStory/macron-names-nuclear-powered-aircraft-carrier-france-libre-131190142</link>
       <summary>President Emmanuel Macron has named France&amp;rsquo;s next nuclear-powered aircraft carrier France Libre, or Free France, framing it as a symbol of independence and military power</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Probe of Hong Kong's deadliest fire in decades begins evidence hearings</title>
+      <link>https://abcnews.com/International/wireStory/probe-hong-kongs-deadliest-fire-decades-begins-evidence-131207635</link>
+      <summary>An independent committee investigating the cause of Hong Kong&amp;rsquo;s deadliest fire in decades heard that a series of failures contributed to the blaze&amp;rsquo;s burning seven buildings and killing 168 people</summary>
+      <pubDate>Thu, 19 Mar 2026 03:37:15 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_7bc481fbc1965883b83bb7668e7d8c6f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
