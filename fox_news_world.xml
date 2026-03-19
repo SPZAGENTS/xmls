@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-19T12:04:51.086653</generated>
+  <generated>2026-03-19T16:00:54.080993</generated>
   <items>
+    <item>
+      <title>12 Arab and Islamic countries unite to condemn 'heinous' Iranian attacks</title>
+      <link>https://www.foxnews.com/world/12-arab-islamic-countries-unite-condemn-heinous-iranian-attacks</link>
+      <summary>A coalition of 12 Arab and Islamic countries denounces Iran’s attacks on civilian infrastructure, urges restraint and warns of risks to regional security.</summary>
+      <pubDate>Thu, 19 Mar 2026 08:31:12 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/saudi-arabia-foreign-minister-iran-war.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran's supreme leader Mojtaba Khamenei 'misfunctioning,' not controlling regime: sources</title>
       <link>https://www.foxnews.com/world/irans-supreme-leader-mojtaba-khamenei-misfunctioning-not-controlling-regime-sources</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kharg-island-satellite-view.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>EU pushes for end of Iran war in a manner where 'everybody saves face'</title>
-      <link>https://www.foxnews.com/world/eu-proposes-face-saving-exit-plan-iran-israel-us-end-escalating-regional-conflict</link>
-      <summary>The European Union is reportedly consulting with Gulf countries about possible ways Iran, Israel and the U.S. could end the war in a manner where &amp;quot;everybody saves face.&amp;quot;</summary>
-      <pubDate>Tue, 17 Mar 2026 12:47:54 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kaja-kallas-donald-trump-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
