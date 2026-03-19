@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — All Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-19T04:02:29.859430</generated>
+  <title>Ynet All Articles — Complete Feed</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-19T04:03:48.720201</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
-      <title>Netanyahu, Trump coordinated Iran gas strike; Israel braces for retaliation on energy infrastructure</title>
-      <link>https://www.ynetnews.com/article/hyfliiocze</link>
-      <summary>Israeli officials described the move as a clear warning by Israel and the United States in response to Iranian threats to close the Strait of Hormuz</summary>
-      <pubDate>Wed, 18 Mar 2026 18:49:49 +03:00</pubDate>
-      <priority>140</priority>
+      <title>Report: US pushes Israel toward talks as Lebanon teeters on collapse</title>
+      <link>https://www.ynetnews.com/article/s13p0ddcwx</link>
+      <description>Washington reportedly wants Jerusalem to prepare for negotiations amid fears that continued fighting with Hezbollah could push Lebanon over the brink</description>
+      <pubDate>Wed, 18 Mar 2026 21:02:01 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Israeli Air Force strikes Iranian naval vessels in Caspian Sea for first time</title>
-      <link>https://www.ynetnews.com/article/hkvkxtu9wl</link>
-      <summary>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</summary>
-      <pubDate>Wed, 18 Mar 2026 21:51:20 +03:00</pubDate>
-      <priority>130</priority>
+      <title>Iran threatens Gulf oil facilities after Israel reportedly strikes gas sites</title>
+      <link>https://www.ynetnews.com/article/r1n7qeo9ze</link>
+      <description>Iranian state media report explosions at Asaluyeh refinery and South Pars gas field; Tehran warns attacks mark shift to 'economic war' and threatens strikes on energy infrastructure in Saudi Arabia, the UAE and Qatar</description>
+      <pubDate>Wed, 18 Mar 2026 16:50:50 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>'The price we paid was not enough?': Hezbollah’s core Shiite supporters turn bitter on war</title>
-      <link>https://www.ynetnews.com/article/s16qurocbl</link>
-      <summary>Interviews with displaced Lebanese Shiites, long Hezbollah’s main support base, show rising anger that the group again dragged them into war with Israel, deepening displacement, destruction and doubts among some longtime backers</summary>
-      <pubDate>Wed, 18 Mar 2026 18:13:56 +03:00</pubDate>
-      <priority>130</priority>
+      <title>IDF expands operations in Lebanon: Terrorists arrive armed with RPGs, are eliminated | Watch</title>
+      <link>https://www.ynetnews.com/article/bjhf411u9zg</link>
+      <description>After Hezbollah launched dozens of rockets and drones at Israel, the IDF struck targets across southern Lebanon and Beirut, including financial assets, launchers and terror cells, while issuing evacuation warnings to civilians near key sites</description>
+      <pubDate>Wed, 18 Mar 2026 14:01:13 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Iranians civilians are terrified by IDF bombings: 'Tehran looks like a city of the dead'</title>
-      <link>https://www.ynetnews.com/article/rycc4z00cwx</link>
-      <summary>BBC and PBS reporters speak to residents of Tehran and other cities who have been living for three weeks under Israeli and American fire, and the fear and despair were evident in their words; 'Today I somehow survive, but how will I get through tomorrow?'</summary>
-      <pubDate>Wed, 18 Mar 2026 14:43:05 +03:00</pubDate>
-      <priority>130</priority>
+      <title>Sirens sound in central Israel after Iran missile attack</title>
+      <link>https://www.ynetnews.com/article/sjvc8fv5bl</link>
+      <description>Munition strikes residential area, sparking a fire and damaging several cars, but causing no injuries; earlier, sirens activated in Be'er Sheva and surrounding areas in the south after Iran missile fire</description>
+      <pubDate>Wed, 18 Mar 2026 04:51:06 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>נפילה בסבידור, הלוויית ענק לבכירים האיראנים: היום ה-19 למלחמה בתמונות</title>
-      <link>https://www.ynet.co.il/news/article/r1s4myuq11g</link>
-      <summary>גבר ואישה נהרגו מנפילת טיל ברמת גן. ישראל תקפה בעוצמה בלבנון וממשיכה לחסל בכירים באיראן, הפעם את שר המודיעין. האיראנים ממשיכים לתקוף במפרץ והפעם כיוונו למתקני הגז בקטאר ובערב הסעודית. כך נראה היום ה-19 בתמונות</summary>
-      <pubDate>Wed, 18 Mar 2026 22:49:37 +0200</pubDate>
-      <priority>115</priority>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>הניצחון הישראלי עובר בעמידתה של יהדות התפוצות</title>
-      <link>https://www.ynet.co.il/news/article/r1ebsnd5zx</link>
-      <summary>המלחמה הרב-זירתית שישראל מנהלת כעת מול איראן, חיזבאללה וחמאס, משמשת כתירוץ שקוף ונוח להתפרצות אנטישמית גלובלית. גורמים קיצוניים, הניזונים מהסתה פרועה בתקשורת הבינלאומית וברשתות, מתרגמים את השנאה לישראל לאלימות פיזית נגד יהודים באשר הם</summary>
-      <pubDate>Wed, 18 Mar 2026 16:30:29 +0200</pubDate>
-      <priority>115</priority>
+      <title>‘Impossible to live like this’: Northern residents say Hezbollah rockets, IDF fire has shattered daily life</title>
+      <link>https://www.ynetnews.com/article/h1c74h00qzg</link>
+      <description>After being told calm had returned, residents in Kiryat Shmona and nearby communities say constant rocket sirens, artillery blasts and helicopter fire leave families terrified, sleepless and unable to maintain daily life</description>
+      <pubDate>Thu, 19 Mar 2026 01:54:37 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>איך נדע אם הצלחנו?</title>
-      <link>https://www.ynet.co.il/news/article/yokra14711225</link>
-      <summary>המלחמה עדיין מתנהלת במלוא עוזה, אבל מנהיגי ארה"ב, ישראל ואיראן כבר החלו לטפח את נרטיב הניצחון. אחרי הצהרות הניצחון החד-משמעיות בסיום "עם כלביא”, שהחזיקו מעמד שמונה חדשים, חובה עלינו לשאול הפעם מה ייחשב להישג מבחינת ישראל. התשובה צריכה להיות מדידה: עד כמה יישארו יכולותיה של הרפ...</summary>
-      <pubDate>Tue, 17 Mar 2026 00:02:00 +0200</pubDate>
-      <priority>115</priority>
+      <title>Israel fears anti-regime protesters in Iran would be 'slaughtered' if unrest resumes</title>
+      <link>https://www.ynetnews.com/article/rykpyiv5we</link>
+      <description>Israeli officials reportedly told US diplomats Iran’s regime remains firmly in control and would crush any uprising, even as Israel publicly urges Iranians to rise up against the clerical government</description>
+      <pubDate>Wed, 18 Mar 2026 06:01:39 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>בין סיסמאות ההכרעה למציאות של שחיקה</title>
-      <link>https://www.ynet.co.il/news/article/byufkiv511e</link>
-      <summary>בשנתיים וחצי האחרונות נוצר בישראל פער הולך ומתרחב בין הציפיות של הציבור לבין המציאות הצבאית. פעמים רבות נשמעו אמירות על כך ש"חיסלנו", "השמדנו" או ״הסרנו אחת ולתמיד״ את האיום מצד ארגוני טרור כמו חמאס וחיזבאללה. אך המציאות הביטחונית מורכבת יותר</summary>
-      <pubDate>Mon, 16 Mar 2026 15:54:48 +0200</pubDate>
-      <priority>115</priority>
+      <title>Overnight strike kills elderly couple in Ramat Gan, damages train in central Israel</title>
+      <link>https://www.ynetnews.com/article/byc11upwcwx</link>
+      <description>A man and woman in their 70s were killed by a missile in central Israel, just meters from a safe room, as strikes caused damage at Tel Aviv’s Savidor station, fires in Petah Tikva and a vehicle hit in Bnei Brak, with at least six lightly wounded</description>
+      <pubDate>Wed, 18 Mar 2026 07:30:10 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>105</priority-score>
     </item>
     <item>
-      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
-      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
-      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <title>דיווח: הפנטגון מבקש יותר מ-200 מיליארד דולר למימון המלחמה באיראן</title>
+      <link>https://www.ynet.co.il/news/article/bkttdh00qbe</link>
+      <description />
+      <pubDate>Thu, 19 Mar 2026 01:42:23 +0200</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>95</priority-score>
     </item>
     <item>
-      <title>Iranian missile veers into West Bank, kills 4 Palestinian women in beauty salon</title>
-      <link>https://www.ynetnews.com/article/hk2vy9005zx</link>
-      <summary>Missile fired toward southern Israel lands in Beit Awwa, wounding another 6 women; Palestinian Authority condemns Iranian fire toward Gulf states while Hamas stays silent</summary>
-      <pubDate>Wed, 18 Mar 2026 23:37:17 +03:00</pubDate>
-      <priority>115</priority>
+      <title>דובר צה"ל לשאלת ynet: משתמשים בכמה שכבות הגנה מול הטילים המתפצלים</title>
+      <link>https://www.ynet.co.il/news/article/s111zvu00cwe</link>
+      <description>אחרי מראות ההרס הרבים בעקבות השיגורים מאיראן של הטיל שמכיל עשרות חימושים קטנים שמתפזרים, תא"ל דפרין הדגיש: "אנחנו לא חוסכים בהגנה על התושבים". עוד הוא אמר: "המיירטים שלנו טובים מאוד, אבל זה לא הרמטי"</description>
+      <pubDate>Wed, 18 Mar 2026 21:36:51 +0200</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
     </item>
   </items>
 </content-feed>
