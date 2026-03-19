@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T02:01:05.313056</generated>
+  <generated>2026-03-19T04:03:02.965205</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Oil Prices Spike as Gulf Energy Sites Are Struck</title>
+      <title>Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank</title>
       <link>https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil</link>
-      <summary>Airstrikes hit a major energy facility in Qatar after Tehran vowed retaliation for an earlier strike on infrastructure of the vast South Pars offshore gas field, Iran’s biggest source of natural gas.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:57:00 +0000</pubDate>
+      <summary>Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.</summary>
+      <pubDate>Thu, 19 Mar 2026 01:54:25 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-400-tkwm/18israel-iran-400-tkwm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-promo-9pm-zlhm/18israel-iran-promo-9pm-zlhm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -37,7 +37,7 @@
       <title>Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html</link>
       <summary>Israeli attacks have targeted the command centers of Iran’s repressive, internal security forces in hopes that Iranians will overthrow their rulers. Some see that as wishful thinking.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:16:34 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 23:16:35 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/17/multimedia/17int-iran-regime-change-01-pjbm/17int-iran-regime-change-01-pjbm-mediumSquareAt3X.jpg</image>
@@ -56,8 +56,19 @@
       </media>
     </item>
     <item>
+      <title>Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html</link>
+      <summary>Several others were injured in the strike, which hit a caravan being used as a hair salon in the town of Beit Awwa, according to Palestinian officials.</summary>
+      <pubDate>Thu, 19 Mar 2026 00:24:18 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-beitawwa-casualties-pwzf/18israel-iran-beitawwa-casualties-pwzf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/heres-what-happened-in-the-war-in-the-middle-east-on-wednesday.html</link>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-recap-middle-east.html</link>
       <summary>A day of strikes on energy facilities and testimony in Washington to members of Congress.</summary>
       <pubDate>Wed, 18 Mar 2026 23:56:59 +0000</pubDate>
       <priority>100</priority>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-theworld-iran-lede-01-fgkb-promo/19int-theworld-iran-lede-01-fgkb-promo-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html</link>
-      <summary>The man said his attackers stripped him naked, beat him and zip-tied his genitalia, an account corroborated by family members and a rights activist who were also beaten.</summary>
-      <pubDate>Wed, 18 Mar 2026 22:44:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-israel-westbank-assault-01-kpfv/18int-israel-westbank-assault-01-kpfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

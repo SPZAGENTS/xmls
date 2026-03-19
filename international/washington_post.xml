@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-19T02:01:03.186491</generated>
+  <generated>2026-03-19T04:03:00.718806</generated>
   <items>
+    <item>
+      <title>Pakistani strike killed hundreds, Afghanistan says, as regional conflicts boil</title>
+      <link>https://www.washingtonpost.com/world/2026/03/18/afghanistan-pakistan-rehab-strike-taliban/</link>
+      <summary>As attention focuses on Iran, the conflict between two of its neighbors is escalating.</summary>
+      <pubDate>Wed, 18 Mar 2026 23:57:49 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Israel steps up assassinations as Iran war widens to energy facilities</title>
       <link>https://www.washingtonpost.com/world/2026/03/18/iran-israel-war-us-esmail-khatib/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/17/trump-allies-frustration-military-aid-iran/</link>
       <summary>Trump has expressed frustration over a lack of military assistance from allies, but European leaders are reluctant to join a conflict he started without consulting them.</summary>
       <pubDate>Tue, 17 Mar 2026 21:34:42 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Israel urges Iranians to revolt but privately assesses they’ll be ‘slaughtered’</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/17/israel-iran-cable-revolt-slaughtered/</link>
-      <summary>Israeli officials told U.S. counterparts they hope for an uprising even though it would lead to a massacre, according to a State Department cable reviewed by The Post.</summary>
-      <pubDate>Tue, 17 Mar 2026 15:22:32 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>
