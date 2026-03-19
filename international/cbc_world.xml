@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-19T00:01:05.027182</generated>
+  <generated>2026-03-19T02:01:12.298215</generated>
   <items>
     <item>
       <title>Trump has delayed the Beijing summit. China wonders if he'll ever come to the negotiating table</title>
@@ -12,10 +12,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Iran targets Gulf oil infrastructure as Israel kills another regime official</title>
+      <title>Iran hits Qatar energy hub after its Pars oil field struck</title>
       <link>https://www.cbc.ca/news/world/iran-israel-united-states-attacks-9.7132837?cmp=rss</link>
       <summary>Iran struck Qatar and fired missiles at Saudi Arabia after vowing attacks on oil and gas targets throughout the Gulf on Wednesday.</summary>
       <pubDate>Wed, 18 Mar 2026 05:45:08 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Last detainee from Trump’s 2025 Gaza war protest crackdown freed after a year</title>
+      <link>https://www.cbc.ca/radio/asithappens/palestinian-protest-detainee-freed-9.7133713?cmp=rss</link>
+      <summary>For Leqaa Kordia, her newfound freedom means little to her until “everybody is free." “There is a lot of injustice in this place,” Kordia told reporters after emerging from a U.S. immigration detention centre in Texas on Monday. “There are a lot of people that shouldn’t be her...</summary>
+      <pubDate>Wed, 18 Mar 2026 18:41:10 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>​Israeli Prime Minister Benjamin Netanyahu posted a video of himself getting a coffee on Sunday in an apparent attempt to prove that online rumours of his death have been greatly exaggerated.</summary>
       <pubDate>Tue, 17 Mar 2026 20:32:19 EDT</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Why allies aren't leaping to Trump's aid in Strait of Hormuz</title>
-      <link>https://www.cbc.ca/news/world/trump-iran-allies-strait-hormuz-oil-shipping-9.7131218?cmp=rss</link>
-      <summary>U.S. President Donald Trump is struggling to persuade other countries to help protect commercial shipping through the Strait of Hormuz — a development analysts say is partly the result of how he has treated allies since returning to the White House last year.</summary>
-      <pubDate>Tue, 17 Mar 2026 04:00:00 EDT</pubDate>
-      <priority>75</priority>
     </item>
   </items>
 </content-feed>

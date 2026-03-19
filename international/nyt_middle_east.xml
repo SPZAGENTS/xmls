@@ -2,13 +2,46 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-19T00:00:58.173377</generated>
+  <generated>2026-03-19T02:01:05.905022</generated>
   <items>
+    <item>
+      <title>Iran Turns Out for Funeral for Those Killed in Strikes</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-funeral-photo.html</link>
+      <summary>Some died in Iran, others on a sea far from home. They were honored together Wednesday at a procession in Tehran.</summary>
+      <pubDate>Wed, 18 Mar 2026 23:35:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-funeral-promo-wbjh/18israel-iran-funeral-promo-wbjh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Days of Anger and Fear for Iranians Living With Waves of Airstrikes</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-us-israel-strikes.html</link>
+      <summary>Residents in Tehran and elsewhere say the attacks come at all hours and rock the ground.</summary>
+      <pubDate>Wed, 18 Mar 2026 23:33:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-voices-jzfq/18israel-iran-voices-jzfq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>For Iranians, Bombing of Gas Field Worsens Already Dire Energy Crisis</title>
+      <link>https://www.nytimes.com/2026/03/18/climate/south-pars-iran-gas-field-bombing.html</link>
+      <summary>The South Pars gas field, hit by airstrikes on Wednesday, is central to the energy supply of Iran, which was already suffering blackouts before the war.</summary>
+      <pubDate>Wed, 18 Mar 2026 22:10:51 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18CLI-IRAN-GAS-BOMBING-bcmv/18CLI-IRAN-GAS-BOMBING-bcmv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html</link>
       <summary>The man said his attackers stripped him naked, beat him and zip-tied his genitalia, an account corroborated by family members and a rights activist who were also beaten.</summary>
-      <pubDate>Wed, 18 Mar 2026 21:24:57 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 22:44:06 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-israel-westbank-assault-01-kpfv/18int-israel-westbank-assault-01-kpfv-mediumSquareAt3X.jpg</image>
@@ -59,7 +92,7 @@
       <title>Iran Executes Swedish Citizen Accused of Spying</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/swedish-citizen-executed-iran.html</link>
       <summary>The case indicates that more than two weeks into the war, Iran continues its prosecution of foreigners. Sweden said its citizen did not get a fair trial.</summary>
-      <pubDate>Wed, 18 Mar 2026 18:06:25 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 22:37:47 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -70,39 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-south-pars-vkpj/18israel-iran-south-pars-vkpj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Couple Killed in Cluster Bomb Attack Near Tel Aviv</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-bombing-tel-aviv-deaths.html</link>
-      <summary>Neighbors told Israeli news media that their apartment building was hit soon after a siren sounded.</summary>
-      <pubDate>Wed, 18 Mar 2026 19:13:55 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19ISRAEL-IRAN-TELAVIV-PRINT/19ISRAEL-IRAN-TELAVIV-PRINT-tfkg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html</link>
-      <summary>The Israeli military said on Wednesday that it had killed Esmaeil Khatib in an airstrike. Iran confirmed the killing.</summary>
-      <pubDate>Wed, 18 Mar 2026 19:13:15 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-khatib-zmqb/18israel-iran-khatib-zmqb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Over 200 Ukrainian Experts in Middle East to Help Fight Drones, Zelensky Says</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html</link>
-      <summary>President Volodymyr Zelensky said that 11 countries in the region have asked for Kyiv’s assistance. Russia has launched such drones against Ukraine for years.</summary>
-      <pubDate>Wed, 18 Mar 2026 11:48:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-ukraine-ktgc/18israel-iran-ukraine-ktgc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
