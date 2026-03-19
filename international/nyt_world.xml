@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T04:03:02.965205</generated>
+  <generated>2026-03-19T06:06:08.902809</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank</title>
       <link>https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil</link>
       <summary>Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.</summary>
-      <pubDate>Thu, 19 Mar 2026 01:54:25 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 03:55:24 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-promo-9pm-zlhm/18israel-iran-promo-9pm-zlhm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/18/multimedia/18israel-ran-promo-2350-jblq/18israel-ran-promo-2350-jblq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -26,7 +26,7 @@
       <title>For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region</title>
       <link>https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html</link>
       <summary>Iran’s military retaliation, along with the political defiance of its new leaders, evokes a decades-old pattern of unrealized goals for American interventions in the region.</summary>
-      <pubDate>Wed, 18 Mar 2026 18:44:44 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 18:44:45 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-iran-mideastwars-zljc/18int-iran-mideastwars-zljc-mediumSquareAt3X.jpg</image>
@@ -56,10 +56,21 @@
       </media>
     </item>
     <item>
+      <title>The Iran War’s Economic Threat to Europe and Asia</title>
+      <link>https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html</link>
+      <summary>Inflation and its consequences for growth is a growing concern for countries where memories of the 2022 energy crisis are fresh.</summary>
+      <pubDate>Thu, 19 Mar 2026 04:01:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19Biz-Iran-Fiscal-Strain-01-lgfc/19Biz-Iran-Fiscal-Strain-01-lgfc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html</link>
       <summary>Several others were injured in the strike, which hit a caravan being used as a hair salon in the town of Beit Awwa, according to Palestinian officials.</summary>
-      <pubDate>Thu, 19 Mar 2026 00:24:18 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 00:24:19 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-beitawwa-casualties-pwzf/18israel-iran-beitawwa-casualties-pwzf-mediumSquareAt3X.jpg</image>
@@ -89,24 +100,13 @@
       </media>
     </item>
     <item>
-      <title>Days of Anger and Fear for Iranians Living With Waves of Airstrikes</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-us-israel-strikes.html</link>
-      <summary>Residents in Tehran and elsewhere say the attacks come at all hours and rock the ground.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:33:53 +0000</pubDate>
-      <priority>100</priority>
+      <title>Pakistan Pauses Afghanistan Airstrikes for Eid</title>
+      <link>https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html</link>
+      <summary>At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.</summary>
+      <pubDate>Thu, 19 Mar 2026 01:12:01 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-voices-jzfq/18israel-iran-voices-jzfq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Empowering Iran’s Hard-liners</title>
-      <link>https://www.nytimes.com/2026/03/18/world/iran-leadership-larijani-israel-beirut.html</link>
-      <summary>U.S.-Israeli attacks helped ultraconservatives cement power. That could make ending the war tougher.</summary>
-      <pubDate>Wed, 18 Mar 2026 21:18:50 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-theworld-iran-lede-01-fgkb-promo/19int-theworld-iran-lede-01-fgkb-promo-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-afghanistan-strike-1-chkm/18int-afghanistan-strike-1-chkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-19T04:02:56.367153</generated>
+  <generated>2026-03-19T06:06:04.170423</generated>
   <items>
     <item>
       <title>Two men charged with allegedly spying on London Jewish community for Iran</title>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3f/live/5dff6710-2324-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Labubu movie in the works as viral toys attempt film crossover</title>
-      <link>https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Pop Mart and Sony Pictures say the film will combine live action and computer-generated animation.</summary>
-      <pubDate>Thu, 19 Mar 2026 00:01:18 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024e/live/84f53580-22ba-11f1-9a45-07ac962dc928.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Government increases BBC World Service funding by £33m over three years</title>
-      <link>https://www.bbc.com/news/articles/cn0z0k7wdleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The funding increase is about 8% up on the previous financial year, the government will announce on Thursday.</summary>
-      <pubDate>Wed, 18 Mar 2026 22:00:04 GMT</pubDate>
+      <title>India's young are more educated than ever. So why are so many jobless?</title>
+      <link>https://www.bbc.com/news/articles/c17841zez8wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>India’s educational enrolment has surged but jobs, especially good ones, are not keeping pace, a new report finds.</summary>
+      <pubDate>Thu, 19 Mar 2026 00:02:04 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba71/live/68876740-1e2a-11f1-ae25-5d55e47d8760.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6661/live/91cb0600-2291-11f1-a268-8f21a3f62cfd.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Why has this meningitis outbreak spread so fast?</title>
+      <link>https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?</summary>
+      <pubDate>Wed, 18 Mar 2026 16:34:33 GMT</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40be/live/a3ef0cc0-22df-11f1-9c64-25f36d76b36f.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
