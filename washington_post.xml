@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-19T10:04:54.921972</generated>
+  <generated>2026-03-19T12:04:53.069790</generated>
   <items>
+    <item>
+      <title>Economic fallout from U.S.-led war is hitting the rest of the world harder</title>
+      <link>https://www.washingtonpost.com/world/2026/03/19/iran-war-global-economic-impact/</link>
+      <summary>Because of greater exposure to disruptions in the Middle East, such as high natural gas prices, businesses and consumers outside the U.S. are being hit harder by the war in Iran.</summary>
+      <pubDate>Thu, 19 Mar 2026 09:09:17 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Pakistani strike killed hundreds, Afghanistan says, as regional conflicts boil</title>
       <link>https://www.washingtonpost.com/world/2026/03/18/afghanistan-pakistan-rehab-strike-taliban/</link>
@@ -66,13 +73,6 @@
       <summary>The State Department order to review security at “ALL posts worldwide” follows persistent attacks on U.S. embassies, with almost 300 reported in Iraq alone.</summary>
       <pubDate>Tue, 17 Mar 2026 21:03:51 +0000</pubDate>
       <priority>95</priority>
-    </item>
-    <item>
-      <title>European leaders rebuff Trump’s call to open the Strait of Hormuz</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-allies-frustration-military-aid-iran/</link>
-      <summary>Trump has expressed frustration over a lack of military assistance from allies, but European leaders are reluctant to join a conflict he started without consulting them.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:34:42 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>

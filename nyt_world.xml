@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T10:04:56.185451</generated>
+  <generated>2026-03-19T12:04:54.869960</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Qatar Reports More Attacks on Energy Infrastructure as Oil Prices Rise</title>
+      <title>Iran War Live Updates: Oil and Gas Prices Soar After New Attacks on Gulf Energy Sites</title>
       <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil</link>
-      <summary>Qatar blamed Tehran for strikes on its natural gas facilities, a day after Iran’s largest natural gas source was hit. The price of oil climbed to $114 a barrel as uncertainty over the war’s impacts on energy supplies grew.</summary>
-      <pubDate>Thu, 19 Mar 2026 07:46:00 +0000</pubDate>
+      <summary>Refineries and gas facilities in Kuwait, Qatar and Saudi Arabia were struck, a day after Iran’s vast South Pars gas field was hit. The sustained attacks heightened fears over the war’s damage to the global economy.</summary>
+      <pubDate>Thu, 19 Mar 2026 09:59:52 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/18/multimedia/19israel-iran-promo/18israel-iran-ru-qatargas-bjcv-mediumSquareAt3X.jpg</image>
@@ -30,7 +30,7 @@
       <title>A Lebanese Cafe on the Edge of Destruction</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html</link>
       <summary>Near the center of Beirut, one image captures the aftermath of an Israeli strike.</summary>
-      <pubDate>Wed, 18 Mar 2026 19:32:35 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 09:19:08 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -56,46 +56,13 @@
       </media>
     </item>
     <item>
-      <title>Oil Prices Keep Climbing on Heightened Fears Over Energy Supplies</title>
-      <link>https://www.nytimes.com/2026/03/19/business/oil-prices-iran-war.html</link>
-      <summary>Attacks on major energy facilities in Iran and Qatar injected new uncertainty into the outlook for oil and gas prices.</summary>
-      <pubDate>Thu, 19 Mar 2026 07:45:58 +0000</pubDate>
+      <title>Trump Says U.S. and Qatar Not Involved in Strike on Iran’s South Pars Gas Field</title>
+      <link>https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-south-pars-gas-field.html</link>
+      <summary>President Trump said Israel was responsible for the attack, but vowed to “massively” destroy the gas field if Tehran hit Qatar’s energy facilities in retaliation.</summary>
+      <pubDate>Thu, 19 Mar 2026 09:01:37 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19BIZ-STOCKS-OIL-GAS-cjqm/19BIZ-STOCKS-OIL-GAS-cjqm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html</link>
-      <summary>Several others were injured in the strike, which hit a caravan being used as a hair salon in the town of Beit Awwa, according to Palestinian officials.</summary>
-      <pubDate>Thu, 19 Mar 2026 00:24:19 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-beitawwa-casualties-pwzf/18israel-iran-beitawwa-casualties-pwzf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-recap-middle-east.html</link>
-      <summary>A day of strikes on energy facilities and testimony in Washington to members of Congress.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:56:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-front-by-front-qkjh/18israel-iran-front-by-front-qkjh-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Turns Out for Funeral for Those Killed in Strikes</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-funeral-photo.html</link>
-      <summary>Some died in Iran, others on a sea far from home. They were honored together Wednesday at a procession in Tehran.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:35:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-funeral-promo-wbjh/18israel-iran-funeral-promo-wbjh-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-trump-pars-comments-cgzw/19israel-iran-trump-pars-comments-cgzw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +74,39 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-afghanistan-strike-1-chkm/18int-afghanistan-strike-1-chkm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Soldier Who Came Back From the Dead</title>
+      <link>https://www.nytimes.com/2026/03/19/world/europe/ukraine-soldier-dna-mistake-back-from-dead.html</link>
+      <summary>Told that Nazar Daletskyi had died, his Ukrainian family buried what they thought were his remains. He turned up three years later in a prisoner-of-war exchange.</summary>
+      <pubDate>Thu, 19 Mar 2026 09:22:53 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/00int-ukraine-resurrected-01-zkhl-promo/00int-ukraine-resurrected-01-zkhl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>E.U. Loan for Ukraine Becomes Election Leverage for Orban</title>
+      <link>https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html</link>
+      <summary>European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.</summary>
+      <pubDate>Thu, 19 Mar 2026 07:00:07 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-hungary-EU-01-wckm/19int-hungary-EU-01-wckm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In Swaths of Germany, the Far-Right AfD Is Part of the Fabric</title>
+      <link>https://www.nytimes.com/2026/03/19/world/europe/germany-far-right-afd.html</link>
+      <summary>The Alternative for Germany party, or AfD, is shunned in federal politics but is a regional force. This fall, it could win broader power for the first time.</summary>
+      <pubDate>Thu, 19 Mar 2026 04:01:10 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19Int-Germany-AFD-01-wpvf/19Int-Germany-AFD-01-wpvf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

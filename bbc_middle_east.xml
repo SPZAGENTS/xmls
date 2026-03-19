@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-19T10:04:51.658856</generated>
+  <generated>2026-03-19T12:04:49.279234</generated>
   <items>
     <item>
       <title>Trump says US 'knew nothing' about Israel's attack on major Iran gas field</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/652707c0-2318-11f1-83bb-2f220ea2da92.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Three Palestinian women killed as missile debris hits West Bank beauty salon</title>
+      <link>https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank.</summary>
+      <pubDate>Thu, 19 Mar 2026 09:13:11 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff7/live/3e74ba80-234c-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017f/live/53a14b80-2117-11f1-b048-c9424b2cf5fd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why did US and Israel attack Iran and how long could the war last?</title>
-      <link>https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.</summary>
-      <pubDate>Wed, 18 Mar 2026 11:21:40 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc9c/live/e6859790-1ba3-11f1-9f65-e32170917420.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
