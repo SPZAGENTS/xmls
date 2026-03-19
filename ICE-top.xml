@@ -2,19 +2,8 @@
 <content-feed>
   <title>ICE — Top 10 Articles</title>
   <source>ICE</source>
-  <generated>2026-03-19T10:04:30.290808</generated>
+  <generated>2026-03-19T12:04:24.485696</generated>
   <items>
-    <item>
-      <title>דיווחים באיראן: השר לביטחון לאומי איתמר בן גביר חוסל</title>
-      <link>https://www.ice.co.il/global-news/news/article/1106768</link>
-      <summary>ברקע המלחמה בין ישראל, איראן וארה"ב, מכונת התעמולה מעלה הילוך. אחרי תיאוריית הקונספירציה ההזויה על מותו של בנימין נתניהו, כעת השר לביטחון לאומי | כל הפרטים</summary>
-      <pubDate>2026/03/19 07:51:57</pubDate>
-      <priority>125</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_569/rsz_615_346_39ice30102025.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>גדי איזנקוט נגד נתניהו: "זה שקר, מעוורים את עיני הציבור"</title>
       <link>https://www.ice.co.il/media/news/article/1106730</link>
@@ -23,6 +12,17 @@
       <priority>80</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_גדי ונתניהו.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>החל מ-99 דולר: חברת התעופה הישראלית שוברת את השוק המקומי</title>
+      <link>https://www.ice.co.il/tourism/news/article/1106792</link>
+      <summary>מיקונוס, כרתים וקארפתוס מצטרפים לאפשרויות הנסיעה עם מחירים החל מ-99 דולר לכיוון, כאלטרנטיבה נוספת לנוסעים שטיסותיהם בוטלו. דנה רובין, סמנכ״לית חווית הלקוח באייר חיפה: "חשוב לנו לתת פתרונות וגם להציע אופק"</summary>
+      <pubDate>2026/03/19 11:29:13</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_573/rsz_615_346_9ice24112025.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +38,46 @@
       </media>
     </item>
     <item>
+      <title>נועה קירל לדניאל פרץ אחרי שתקפה את האקסית שלו: "גאווה שלי"</title>
+      <link>https://www.ice.co.il/culture/news/article/1106788</link>
+      <summary>אחרי שכוכבת העל הישראלית פותחת חזית חסרת תקדים נגד האקסית של בעלה, דניאל פרץ. עכשיו, אחרי הסערה, היא מעלה סטורי מאוהב ומפרגן: "גאווה שלי" | כל הפרטים</summary>
+      <pubDate>2026/03/19 11:21:38</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_582/rsz_615_346_23ice07012026.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>שורד השבי במהלך עסקי ראשון - ופותח חברה: "חיכיתי לזה"</title>
+      <link>https://www.ice.co.il/financial-gossip/news/article/1106783</link>
+      <summary>בר קופרשטיין, שורד השבי, פותח בימים אלה מחדש את החברה שלו, שהייתה פעילה טרם המלחמה. קופרשטיין: "לפתוח מחדש את העסק זו התחלה של עצמאות שחיכיתי לחזור אליה"</summary>
+      <pubDate>2026/03/19 11:15:00</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1130220261310.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>עודף דירות בישראל? המדינה סוגרת חודש בלי מכרזים</title>
+      <link>https://www.ice.co.il/realestate/news/article/1106303</link>
+      <summary>מצד אחד, המדינה קוראת להגדלת ההיצע בעוד 10,000 דירות בשנה. מצד שני, בקרוב תסגור רשות מקרקעי ישראל חודש שלם בלי מכרז משמעותי. איך זה מסתדר ומאיזה מספרים המדינה צריכה להתחיל לחשוש?</summary>
+      <pubDate>2026/03/19 10:31:40</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_588/rsz_615_346_010320261552.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>דני אבדיה מטריף את ה-NBA: המשחק הטוב ביותר מאז הפציעה</title>
       <link>https://www.ice.co.il/sport_news/news/article/1106777</link>
       <summary>אחרי הניצחון בדרבי הישראלים, הכוכב הישראלי של פורטלנד סיפק את משחקו הטוב ביותר מאז שחזר מהפציעה | כל הפרטים</summary>
       <pubDate>2026/03/19 09:37:48</pubDate>
       <priority>70</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_575/rsz_615_346_dswdsd.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1903202611152.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,57 +93,24 @@
       </media>
     </item>
     <item>
-      <title>רובלוקס בסכנה: קטין ישראלי הגיש תביעה נגד המשחק שממכר את ילדינו</title>
-      <link>https://www.ice.co.il/digital-140/news/article/1106774</link>
-      <summary>המשחק האהוב רובלוקס בסכנה: קטין ישראלי הגיש תביעה ייצוגית נגד הבעלים בטענה שהפלטפורמה הפופולרית תוכננה במכוון כדי למכר קטינים ולנצל תהליכים מנטליים. "ירידה באינטראקציות חברתיות עם בני משפחה" | כל הפרטים</summary>
-      <pubDate>2026/03/19 08:45:18</pubDate>
-      <priority>70</priority>
+      <title>עידן עופר בצעד ענק: תחת הכנסות של 250 מיליון דולר, זה המהלך בהודו</title>
+      <link>https://www.ice.co.il/finance/news/article/1106784</link>
+      <summary>על רקע המתיחות הגאופוליטית: ICL פותחת מפעל לייצור דשנים מיוחדים בהודו, המחזק את שרשרת האספקה ומקדם את אסטרטגיית הצמיחה של החברה</summary>
+      <pubDate>2026/03/19 10:26:26</pubDate>
+      <priority>55</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_521/rsz_615_346_9ice25032025.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>עמית סגל מוציא את השד העדתי: "הכרתי את זה בעיקר אצל אשכנזים"</title>
-      <link>https://www.ice.co.il/media/news/article/1106772</link>
-      <summary>שיחת אולפן חביבה בין שלושת מגישי חדשות 12 הפכה לוויראלית, בעיקר בעקבות ההומור השחור שלהם כלפי ימי המלחמה</summary>
-      <pubDate>2026/03/19 08:29:05</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_336/rsz_615_346_2ice21082022.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>הבריסטה מהסרטון של נתניהו בצעד מעורר תהייה - אחרי החשיפה האדירה</title>
-      <link>https://www.ice.co.il/culture/news/article/1106769</link>
-      <summary>לאחר שפרסמה סרטון ראשון ברשת "טיקטוק" שזכה למעל 150 אלף צפיות, הבריסטה מהסרטון של נתניהו החליטה למחוק אותו במפתיע</summary>
-      <pubDate>2026/03/19 07:53:02</pubDate>
-      <priority>60</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_590/rsz_615_346_1603202621109.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1111190320226.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
       <title>דרמה בעסקת ארקיע: האחים נקש ישלמו 20 מיליון שקל - או שתוגש תביעה</title>
       <link>https://www.ice.co.il/law/news/article/1106781</link>
-      <summary>התראה לפני תביעה בעסקת רכישת ארקיע: דרישה מהאחים נקש להשלים את העסקה או לשלם פיצוי בגובה 20 מיליון שקל. "חוסר תום לב קיצוני בניהול המו"מ"</summary>
+      <summary>התראה לפני תביעה בעסקת רכישת ארקיע: דרישה מהאחים נקש להשלים את העסקה או לשלם פיצוי בגובה 20 מיליון שקל. "חוסר תום לב קיצוני בניהול המו"מ". האחים נקש מגיבים באמצעות באי כוחם: "דוחים את הטענות מכל וכל"</summary>
       <pubDate>2026/03/19 09:48:00</pubDate>
       <priority>55</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1903202260947.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>דנה עזריאלי: "יש ביקושים חזקים למשרדים בתל אביב"</title>
-      <link>https://www.ice.co.il/finance/news/article/1106775</link>
-      <summary>ה-NOI השנתי חצה לראשונה את רף 2.5 מיליארד שקל - אבל ברבעון הרביעי הייתה הפתעה פחות נעימה. מה עומד מאחורי הפער, ולמה מנוע אחד ספציפי בתיק הנכסים של עזריאלי עשוי לשנות את כל התמונה ב-2026?</summary>
-      <pubDate>2026/03/19 09:32:57</pubDate>
-      <priority>55</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_581/rsz_615_346_33ice05012026.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-19T08:03:20.192307</generated>
+  <generated>2026-03-19T10:04:51.197247</generated>
   <items>
     <item>
       <title>How the Iran war has left Europe facing yet another energy crisis</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US aircraft carrier to sail to Crete for repairs after fire on board</title>
+      <link>https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The USS Gerald R Ford has played a significant role in US operations during the war with Iran.</summary>
+      <pubDate>Thu, 19 Mar 2026 00:44:57 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/666b/live/ba4a05a0-235d-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>US aircraft carrier to sail to Crete for repairs after fire on board</title>
-      <link>https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The USS Gerald R Ford has played a significant role in US operations during the war with Iran.</summary>
-      <pubDate>Thu, 19 Mar 2026 00:44:57 GMT</pubDate>
+      <title>Interest rates expected to be held due to Iran war</title>
+      <link>https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Before the conflict began, analysts had expected a cut in the Bank rate at this meeting.</summary>
+      <pubDate>Thu, 19 Mar 2026 00:10:32 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff3/live/a2371e90-2316-11f1-83bb-2f220ea2da92.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfd/live/920acb20-22b2-11f1-8a6e-abb477324122.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Warm settled weather set to continue into the weekend</title>
+      <link>https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The spring-like weather is set to continue for the rest of the week but is unlikely to hit the highs of Wednesday's warmest day of the year so far, as Simon King explains.</summary>
+      <pubDate>Thu, 19 Mar 2026 06:33:19 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4e/live/3c295e60-2361-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -55,7 +77,7 @@
       <pubDate>Thu, 19 Mar 2026 04:17:14 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bf/live/e5d5d920-2302-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a85a/live/94540780-2365-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -66,51 +88,29 @@
       <pubDate>Thu, 19 Mar 2026 01:53:52 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05a3/live/e0e1c3c0-1c8b-11f1-bbce-43d195bf2b4f.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d6/live/295afb50-236a-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Sadiq Khan says Labour should pledge to rejoin EU</title>
-      <link>https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Downing Street has repeatedly said the government will not rejoin the single market or customs union.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:45:37 GMT</pubDate>
+      <title>South Africans say criminal gangs are exploiting the water crisis</title>
+      <link>https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Residents of some areas have been without mains water for weeks.</summary>
+      <pubDate>Thu, 19 Mar 2026 06:01:49 GMT</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9424/live/cbeeda40-22fb-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Why this 'unprecedented' outbreak isn't another Covid</title>
+      <link>https://www.bbc.com/news/videos/c5yqyq1jgneo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Meningitis infections result from close and prolonged physical contact and spreads more slowly than Covid.</summary>
+      <pubDate>Wed, 18 Mar 2026 19:51:43 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab5d/live/b3557190-2316-11f1-83bb-2f220ea2da92.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>UK sets target to boost steel making and cut imports</title>
-      <link>https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Up to half of steel used in Britain should be made there, the government says, as it announces its steel strategy.</summary>
-      <pubDate>Thu, 19 Mar 2026 00:04:46 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f5e/live/6ed1a370-2304-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Amazon's Alexa has had an AI upgrade. Now she's got more to say</title>
-      <link>https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:55:42 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/7208ab00-22e2-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>World's longest coastal path opens in England</title>
-      <link>https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The King Charles coastal path will allow walkers right of access to the entire coast for the first time.</summary>
-      <pubDate>Thu, 19 Mar 2026 02:36:02 GMT</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6dc/live/abd7cc00-22fe-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe43/live/81415e90-2365-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
