@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-19T02:01:05.905022</generated>
+  <generated>2026-03-19T04:03:03.543361</generated>
   <items>
+    <item>
+      <title>Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html</link>
+      <summary>Several others were injured in the strike, which hit a caravan being used as a hair salon in the town of Beit Awwa, according to Palestinian officials.</summary>
+      <pubDate>Thu, 19 Mar 2026 00:24:18 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-beitawwa-casualties-pwzf/18israel-iran-beitawwa-casualties-pwzf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
+      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-war-recap-middle-east.html</link>
+      <summary>A day of strikes on energy facilities and testimony in Washington to members of Congress.</summary>
+      <pubDate>Wed, 18 Mar 2026 23:56:59 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-front-by-front-qkjh/18israel-iran-front-by-front-qkjh-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran Turns Out for Funeral for Those Killed in Strikes</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-funeral-photo.html</link>
@@ -44,7 +66,7 @@
       <pubDate>Wed, 18 Mar 2026 22:44:06 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-israel-westbank-assault-01-kpfv/18int-israel-westbank-assault-01-kpfv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-israel-westbank-assault-01-kpfv/18int-israel-westbank-assault-01-kpfv-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +96,7 @@
       <title>U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War</title>
       <link>https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html</link>
       <summary>On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.</summary>
-      <pubDate>Wed, 18 Mar 2026 18:47:30 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 01:54:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-gabbard-fzjq/18israel-iran-gabbard-fzjq-mediumSquareAt3X.jpg</image>
@@ -87,24 +109,6 @@
       <summary>Near the center of Beirut, one image captures the aftermath of an Israeli strike.</summary>
       <pubDate>Wed, 18 Mar 2026 19:32:35 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran Executes Swedish Citizen Accused of Spying</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/swedish-citizen-executed-iran.html</link>
-      <summary>The case indicates that more than two weeks into the war, Iran continues its prosecution of foreigners. Sweden said its citizen did not get a fair trial.</summary>
-      <pubDate>Wed, 18 Mar 2026 22:37:47 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Energy Facilities Attacked in Iran and Qatar, Sending Prices Soaring</title>
-      <link>https://www.nytimes.com/2026/03/18/business/energy-environment/israel-strikes-south-pars-gas-oil-prices.html</link>
-      <summary>The strikes on a gas field in Iran and an industrial complex in Qatar appeared to be some of the most significant attacks on energy sites since the U.S.-Israeli air war against Iran began.</summary>
-      <pubDate>Wed, 18 Mar 2026 20:17:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-south-pars-vkpj/18israel-iran-south-pars-vkpj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
