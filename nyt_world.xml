@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T06:06:08.902809</generated>
+  <generated>2026-03-19T08:03:24.971452</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank</title>
+      <title>Missile Attack Kills at Least 3 in West Bank</title>
       <link>https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil</link>
       <summary>Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.</summary>
-      <pubDate>Thu, 19 Mar 2026 03:55:24 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 04:29:12 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/18/multimedia/18israel-ran-promo-2350-jblq/18israel-ran-promo-2350-jblq-mediumSquareAt3X.jpg</image>
@@ -56,10 +56,21 @@
       </media>
     </item>
     <item>
+      <title>Oil Prices Keep Climbing on Heightened Fears Over Energy Supplies</title>
+      <link>https://www.nytimes.com/2026/03/19/business/oil-prices-iran-war.html</link>
+      <summary>Attacks on major energy facilities in Iran and Qatar injected new uncertainty into the outlook for oil and gas prices.</summary>
+      <pubDate>Thu, 19 Mar 2026 04:23:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19BIZ-STOCKS-OIL-GAS-cjqm/19BIZ-STOCKS-OIL-GAS-cjqm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>The Iran War’s Economic Threat to Europe and Asia</title>
       <link>https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html</link>
       <summary>Inflation and its consequences for growth is a growing concern for countries where memories of the 2022 energy crisis are fresh.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:01:10 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2026 04:21:18 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19Biz-Iran-Fiscal-Strain-01-lgfc/19Biz-Iran-Fiscal-Strain-01-lgfc-mediumSquareAt3X.jpg</image>
@@ -85,17 +96,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-front-by-front-qkjh/18israel-iran-front-by-front-qkjh-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Turns Out for Funeral for Those Killed in Strikes</title>
-      <link>https://www.nytimes.com/2026/03/18/world/middleeast/iran-funeral-photo.html</link>
-      <summary>Some died in Iran, others on a sea far from home. They were honored together Wednesday at a procession in Tehran.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:35:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-funeral-promo-wbjh/18israel-iran-funeral-promo-wbjh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
