@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-19T22:01:02.725062</generated>
+  <generated>2026-03-20T00:01:02.523173</generated>
   <items>
     <item>
       <title>Can Lebanon's Hezbollah survive another war with Israel?</title>
@@ -16,6 +16,13 @@
       <link>https://www.cbc.ca/news/world/israel-eliminate-iran-leaders-mosaic-defence-9.7132896?cmp=rss</link>
       <summary>Iran continues to launch missiles, raising questions as to whether its mosaic defence doctrine has enabled the country to fight on despite the decapitation of its top leadership.</summary>
       <pubDate>Thu, 19 Mar 2026 04:00:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump to Japan's PM: 'Why didn’t you tell me about Pearl Harbor?'</title>
+      <link>https://www.cbc.ca/player/play/9.7135276?cmp=rss</link>
+      <summary>When asked why the U.S. didn't consult allies in Asia and Europe before attacking Iran, U.S. President Donald Trump said his administration wanted the attack to be a 'surprise,' and made a joke referencing Japan's military strike on Pearl Harbor.</summary>
+      <pubDate>Thu, 19 Mar 2026 17:07:04 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.cbc.ca/news/world/israel-airstrikes-beirut-iran-9.7132819?cmp=rss</link>
       <summary>Israel stepped up airstrikes on Beirut on Wednesday, killing at least 10 people and destroying a 10-storey building near the city center in the third week of its war with Hezbollah, Lebanese authorities said.</summary>
       <pubDate>Wed, 18 Mar 2026 04:44:17 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>As gas prices rise, ride-hail drivers feel especially pinched at the pump</title>
-      <link>https://www.cbc.ca/news/business/gas-prices-rides-hailing-drivers-9.7132355?cmp=rss</link>
-      <summary>Gas prices worldwide have soared since the U.S. and Israel launched strikes on Iran, and the widening war has pinched tanker traffic in the crucially important Strait of Hormuz shipping route. Ride-hail drivers, many of whom are on the road for hours a day, say they're being h...</summary>
-      <pubDate>Wed, 18 Mar 2026 04:00:00 EDT</pubDate>
       <priority>100</priority>
     </item>
   </items>

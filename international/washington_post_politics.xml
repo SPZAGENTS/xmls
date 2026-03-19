@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-19T22:00:54.840589</generated>
+  <generated>2026-03-20T00:00:56.414442</generated>
   <items>
     <item>
       <title>Drones over base where Rubio, Hegseth live raise security concerns</title>
@@ -19,13 +19,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>U.S. tells all its embassies to ‘immediately’ review security after strikes</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/17/state-department-embassy-security-posture-iran/</link>
-      <summary>The State Department order to review security at “ALL posts worldwide” follows persistent attacks on U.S. embassies, with almost 300 reported in Iraq alone.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:03:51 +0000</pubDate>
-      <priority>95</priority>
-    </item>
-    <item>
       <title>Vance is in a bind, supporting a war that could cost him politically</title>
       <link>https://www.washingtonpost.com/politics/2026/03/19/vance-iran-war-trump/</link>
       <summary>People close to JD Vance concede that a long conflict will be a challenge for the next GOP nominee but say the vice president hasn’t made up his mind about running.</summary>
@@ -37,13 +30,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/19/gop-muslims-islamophobia-tuberville-trump/</link>
       <summary>Past GOP leaders, including George W. Bush, spoke out against Islamophobia. Now it is going unchallenged.</summary>
       <pubDate>Thu, 19 Mar 2026 10:00:13 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>European leaders rebuff Trump’s call to open the Strait of Hormuz</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-allies-frustration-military-aid-iran/</link>
-      <summary>Trump has expressed frustration over a lack of military assistance from allies, but European leaders are reluctant to join a conflict he started without consulting them.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:34:42 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -73,6 +59,20 @@
       <summary>Administration officials argue they are working to compromise with Democrats to unlock DHS funding and end the partial shutdown.</summary>
       <pubDate>Wed, 18 Mar 2026 00:50:44 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Judge questions Trump aides’ ‘brazen’ claims on White House ballroom</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/17/trump-ballroom-judge-hearing/</link>
+      <summary>The planned $400 million project has been a top priority for the president. Judge Richard Leon said he hopes to rule this month on whether to halt construction.</summary>
+      <pubDate>Tue, 17 Mar 2026 22:34:23 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Trump’s hand-picked panel votes to put his face on a U.S. gold coin</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/19/trump-gold-coin-arts-commission/</link>
+      <summary>The proposal had been rejected by members of a separate federal coin committee — and panned by former member Kareem Abdul-Jabbar.</summary>
+      <pubDate>Thu, 19 Mar 2026 18:41:34 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
