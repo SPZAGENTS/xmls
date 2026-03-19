@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-19T18:07:10.621818</generated>
+  <generated>2026-03-19T20:04:59.506979</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Speaks as Attacks Rattle Energy Markets</title>
+      <title>Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans</title>
       <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil</link>
-      <summary>The president was answering questions at an appearance with the Japanese prime minister, as energy prices soar because of new strikes against oil and gas facilities in the Persian Gulf.</summary>
-      <pubDate>Thu, 19 Mar 2026 16:02:55 +0000</pubDate>
+      <summary>President Trump, speaking in the Oval Office, said he would do whatever was necessary to lower oil prices, even as new strikes on energy sites in the Gulf drove the price of oil to new highs.</summary>
+      <pubDate>Thu, 19 Mar 2026 17:59:34 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/18/multimedia/19israel-iran-promo/18israel-iran-ru-qatargas-bjcv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel0rain-200-hbwv/19israel0rain-200-hbwv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,46 +45,35 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Contradicting Trump, Israeli Officials Say U.S. Was Told about South Pars Attack</title>
+      <title>Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader</title>
+      <link>https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html</link>
+      <summary>Breaking a taboo, President Trump needled Japan’s prime minister about the World War II attack, as she widened her eyes and appeared to take a deep breath in the Oval Office.</summary>
+      <pubDate>Thu, 19 Mar 2026 17:33:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/1919israel-iran-pearl-harbor-topart-mljh/1919israel-iran-pearl-harbor-topart-mljh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.K. Advisers Sent to U.S. to Help Develop Options to Reopen Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/19/world/middleeast/uk-us-strait-of-hormuz-reopening-plans.html</link>
+      <summary>The move comes after President Trump sharply criticized Prime Minister Keir Starmer for not supporting his initial military strikes on Iran.</summary>
+      <pubDate>Thu, 19 Mar 2026 17:00:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-uk-military-kbfm/19israel-iran-uk-military-kbfm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israeli Officials Said U.S. Was Told about South Pars Attack</title>
       <link>https://www.nytimes.com/2026/03/19/world/middleeast/israel-iran-south-pars-gas-field-trump.html</link>
-      <summary>President Trump said the United States “knew nothing” about an attack on the gas field in Iran, which sent global oil and gas prices soaring.</summary>
-      <pubDate>Thu, 19 Mar 2026 16:02:52 +0000</pubDate>
+      <summary>President Trump first said the United States “knew nothing” about an attack on the gas field in Iran, which sent global oil and gas prices soaring. He then said he cautioned Israel against it.</summary>
+      <pubDate>Thu, 19 Mar 2026 16:56:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-response-jfcb/19israel-iran-response-jfcb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Father of a Palestinian woman killed with three others during a missile attack expresses shock.</title>
-      <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil/palestinian-women-killed-salon-missile-strike</link>
-      <summary>The victims are the first Palestinians in the Israeli-occupied West Bank to be killed as a result of the Middle East war.</summary>
-      <pubDate>Thu, 19 Mar 2026 15:59:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-palestinians-mpvc/19israel-iran-palestinians-mpvc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pentagon Seeks Additional $200 Billion to Fund Iran War</title>
-      <link>https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html</link>
-      <summary>The request, which the White House has not submitted to Congress, is already encountering some resistance.</summary>
-      <pubDate>Thu, 19 Mar 2026 15:23:08 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19-pentagon-request-kmjv/19-pentagon-request-kmjv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why Iran’s Attack on an Energy Hub in Qatar Spooked Investors</title>
-      <link>https://www.nytimes.com/2026/03/19/world/middleeast/qatar-natural-gas-attacks-ras-laffan.html</link>
-      <summary>Lasting damage to Ras Laffan Industrial City, the world’s largest liquefied natural gas export plant, would have big consequences for the global energy market.</summary>
-      <pubDate>Thu, 19 Mar 2026 15:25:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-gas-explainer-mlgp/19israel-iran-gas-explainer-mlgp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +96,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-uk-iran-jews-jmfb/19int-uk-iran-jews-jmfb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pakistan Pauses Afghanistan Airstrikes for Eid</title>
+      <link>https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html</link>
+      <summary>At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.</summary>
+      <pubDate>Thu, 19 Mar 2026 01:12:01 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-afghanistan-strike-1-chkm/18int-afghanistan-strike-1-chkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
