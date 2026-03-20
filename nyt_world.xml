@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-20T02:00:55.311833</generated>
+  <generated>2026-03-20T04:01:56.611066</generated>
   <items>
     <item>
       <title>Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans</title>
       <link>https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil</link>
       <summary>President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.</summary>
-      <pubDate>Thu, 19 Mar 2026 23:44:44 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 01:31:20 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-promo-7pm-zktm/19israel-iran-promo-7pm-zktm-mediumSquareAt3X.jpg</image>
@@ -29,8 +29,8 @@
     <item>
       <title>Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.</title>
       <link>https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html</link>
-      <summary>A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East is front and center.</summary>
-      <pubDate>Thu, 19 Mar 2026 12:40:38 +0000</pubDate>
+      <summary>A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East took front and center.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:18:31 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-eu-summit-zmpb/19int-eu-summit-zmpb-mediumSquareAt3X.jpg</image>
@@ -59,7 +59,7 @@
       <title>Trump Says He Won’t Send Troops to Iran But Leaves Wiggle Room</title>
       <link>https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html</link>
       <summary>The president was cagey about his plans for Iran. He confirmed the Pentagon was seeking $200 billion to support a protracted war effort while also claiming it would be over soon.</summary>
-      <pubDate>Thu, 19 Mar 2026 23:13:33 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 00:23:36 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-boots-on-the-ground-zlvc/19israel-iran-boots-on-the-ground-zlvc-mediumSquareAt3X.jpg</image>
@@ -70,10 +70,21 @@
       <title>Trump Administration Faces Public Jitters as Oil Prices Surge Amid Iran War</title>
       <link>https://www.nytimes.com/2026/03/19/world/middleeast/trump-oil-iran-war-mideast-japan.html</link>
       <summary>President Trump and Prime Minister Benjamin Netanyahu of Israel suggested that the war with Iran could end soon, but that there were still more attacks ahead.</summary>
-      <pubDate>Thu, 19 Mar 2026 21:11:06 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 00:31:59 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-iran-ledeall-1-bzcv/19int-iran-ledeall-1-bzcv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
+      <link>https://www.nytimes.com/2026/03/19/world/middleeast/iran-war-middle-east-recap.html</link>
+      <summary>Strikes continued in the region as attacks on energy infrastructure rattled global markets.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:15:10 +0000</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-front-by-front-qjzf/19israel-iran-front-by-front-qjzf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,17 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/19int-uk-iran-jews-jmfb/19int-uk-iran-jews-jmfb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan Pauses Afghanistan Airstrikes for Eid</title>
-      <link>https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html</link>
-      <summary>At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.</summary>
-      <pubDate>Thu, 19 Mar 2026 01:12:01 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18int-afghanistan-strike-1-chkm/18int-afghanistan-strike-1-chkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-20T02:03:04.425393</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-20T04:03:03.463513</generated>
   <items>
+    <item>
+      <title>Netanyahu says Iran can no longer enrich uranium or manufacture ballistic missiles</title>
+      <link>https://www.ynetnews.com/article/s15gb6y5bg</link>
+      <summary>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</summary>
+      <pubDate>Thu, 19 Mar 2026 20:49:24 +03:00</pubDate>
+      <priority>145</priority>
+    </item>
+    <item>
+      <title>US plans to ease sanctions on Iranian oil; Israeli officials say attack on Iranian gas field won't happen again</title>
+      <link>https://www.ynetnews.com/article/hjz5u9yqbg</link>
+      <summary>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</summary>
+      <pubDate>Thu, 19 Mar 2026 17:45:01 +03:00</pubDate>
+      <priority>140</priority>
+    </item>
+    <item>
+      <title>Netanyahu, Trump coordinated Iran gas strike; Israel braces for retaliation on energy infrastructure</title>
+      <link>https://www.ynetnews.com/article/hyfliiocze</link>
+      <summary>Israeli officials described the move as a clear warning by Israel and the United States in response to Iranian threats to close the Strait of Hormuz</summary>
+      <pubDate>Wed, 18 Mar 2026 18:49:49 +03:00</pubDate>
+      <priority>140</priority>
+    </item>
+    <item>
+      <title>US F-35 fighter jet hit by Iranian fire, makes emergency landing</title>
+      <link>https://www.ynetnews.com/article/sk3ai5yq11e</link>
+      <summary>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</summary>
+      <pubDate>Thu, 19 Mar 2026 18:04:19 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Damage at Haifa oil refineries after Iranian missile attack</title>
+      <link>https://www.ynetnews.com/article/h1rmbctqbl</link>
+      <summary>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</summary>
+      <pubDate>Thu, 19 Mar 2026 17:14:22 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Israel takes on larger share of strikes from US in Iran, data shows</title>
+      <link>https://www.ynetnews.com/article/b1d1wfyqzx</link>
+      <summary>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</summary>
+      <pubDate>Thu, 19 Mar 2026 16:33:46 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Israeli Air Force strikes Iranian naval vessels in Caspian Sea for first time</title>
+      <link>https://www.ynetnews.com/article/hkvkxtu9wl</link>
+      <summary>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</summary>
+      <pubDate>Wed, 18 Mar 2026 21:51:20 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
     <item>
       <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
       <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <description>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</description>
+      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
       <pubDate>Thu, 19 Mar 2026 07:53:35 +0200</pubDate>
-      <source>ynet-culture</source>
-      <priority-score>115</priority-score>
+      <priority>125</priority>
     </item>
     <item>
-      <title>Iranian missile veers into West Bank, kills 4 Palestinian women in beauty salon</title>
-      <link>https://www.ynetnews.com/article/hk2vy9005zx</link>
-      <description>Missile fired toward southern Israel lands in Beit Awwa, wounding another 6 women; Palestinian Authority condemns Iranian fire toward Gulf states while Hamas stays silent</description>
-      <pubDate>Wed, 18 Mar 2026 23:37:17 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>הניצחון הישראלי עובר בעמידתה של יהדות התפוצות</title>
+      <link>https://www.ynet.co.il/news/article/r1ebsnd5zx</link>
+      <summary>המלחמה הרב-זירתית שישראל מנהלת כעת מול איראן, חיזבאללה וחמאס, משמשת כתירוץ שקוף ונוח להתפרצות אנטישמית גלובלית. גורמים קיצוניים, הניזונים מהסתה פרועה בתקשורת הבינלאומית וברשתות, מתרגמים את השנאה לישראל לאלימות פיזית נגד יהודים באשר הם</summary>
+      <pubDate>Wed, 18 Mar 2026 16:30:29 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Israeli strikes are weakening Iran’s regime, IDF says</title>
-      <link>https://www.ynetnews.com/article/hjcsvu00qze</link>
-      <description>Military spokesman Effie Defrin says cumulative effect of strikes on senior Iranian officials, Hezbollah commanders and terrorist infrastructure is shaking Tehran’s leadership and degrading the network Iran uses to project power across the region</description>
-      <pubDate>Wed, 18 Mar 2026 21:38:52 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Report: US pushes Israel toward talks as Lebanon teeters on collapse</title>
-      <link>https://www.ynetnews.com/article/s13p0ddcwx</link>
-      <description>Washington reportedly wants Jerusalem to prepare for negotiations amid fears that continued fighting with Hezbollah could push Lebanon over the brink</description>
-      <pubDate>Wed, 18 Mar 2026 21:02:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Day 20: why isn't every cluster missile intercepted — and what's left of Iran's nuclear program</title>
-      <link>https://www.ynetnews.com/article/rjyaght9bx</link>
-      <description>Air Force says 60% of Iran’s launchers have been destroyed, interception rates have climbed to 90%, as officials remain tight-lipped about the pace and scope of strikes on nuclear and enriched uranium sites</description>
-      <pubDate>Thu, 19 Mar 2026 19:34:04 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Ships become balls of fire: IDF releases first footage of strike on Iranian Navy in Caspian Sea | Watch</title>
-      <link>https://www.ynetnews.com/article/syc5gkk9wx</link>
-      <description>As part of the strikes, Air Force aircraft targeted facilities at an Iranian naval port subordinate to Iran’s army, where dozens of military vessels were docked, including missile ships and patrol boats</description>
-      <pubDate>Thu, 19 Mar 2026 16:12:49 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>‘Impossible to live like this’: Northern residents say Hezbollah rockets, IDF fire has shattered daily life</title>
-      <link>https://www.ynetnews.com/article/h1c74h00qzg</link>
-      <description>After being told calm had returned, residents in Kiryat Shmona and nearby communities say constant rocket sirens, artillery blasts and helicopter fire leave families terrified, sleepless and unable to maintain daily life</description>
-      <pubDate>Thu, 19 Mar 2026 01:54:37 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>האתגר הפנימי של מדינות המפרץ בעקבות המלחמה עם איראן</title>
-      <link>https://www.ynet.co.il/news/article/rkc5imtcwl</link>
-      <description>ב-1991 הביקורת על השליטים במפרץ נסובה סביב הפתעתם מהפלישה העיראקית לכווית; על כך שבעשור שלפני כן, למרבה האבסורד, כמה מהם מימנו וחימשו את סדאם. הפעם, הייתה זו קונספציית הפיוס עם טהראן, בה דגלה קטר שנים רבות ובשנים האחרונות הצטרפו אליה סעודיה והאמירויות, שקרסה מיד עם פרוץ המלחמה</description>
-      <pubDate>Thu, 19 Mar 2026 08:29:24 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>95</priority-score>
-    </item>
-    <item>
-      <title>"פעל לטובת ישראל וארה"ב": איראן הוציאה להורג מתאבק בן 19</title>
-      <link>https://www.ynet.co.il/sport/article/hjdelsy911e</link>
-      <description>סאלח מוחמדי, שנחשב לדמות מוכרת בעולם ההיאבקות באיראן, נעצר לאחר גל המחאות של ינואר והוצא להורג לצד שני עצורים נוספים בטענה שרצח שוטר, לצד עבירות נוספות. מקורביו טענו כי הודאתו הוצאה ממנו בעינויים</description>
-      <pubDate>Thu, 19 Mar 2026 18:52:23 +0200</pubDate>
-      <source>ynet-sports</source>
-      <priority-score>95</priority-score>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
