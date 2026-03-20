@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-20T02:00:51.140969</generated>
+  <generated>2026-03-20T04:01:51.722822</generated>
   <items>
     <item>
       <title>Netanyahu says Israel 'acted alone' in attack on Iranian gas field</title>
@@ -38,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>Chad warns Sudan it will retaliate after drone strike on mourners kills 17</title>
-      <link>https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Idris Mahamat Déby orders the military to be on high alert and a "total closure" of the border.</summary>
-      <pubDate>Thu, 19 Mar 2026 14:57:22 GMT</pubDate>
+      <title>Gas shortage caused by Iran war may push India back to dirtier fuels</title>
+      <link>https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:59:29 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49df/live/15d52190-2393-11f1-a59e-e9e4aab4fac7.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ee/live/9ec5bb60-235f-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranians prepare for Persian new year under shadow of war</title>
+      <link>https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:04:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3660/live/2dc8e250-23a2-11f1-9699-87c229cb26a0.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Iran war is causing a global energy crisis - can China withstand it?</title>
-      <link>https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.</summary>
-      <pubDate>Wed, 18 Mar 2026 23:31:03 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c02e/live/fa99e260-2290-11f1-a268-8f21a3f62cfd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>How Europe sleepwalked into yet another energy crisis</title>
-      <link>https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It is not the first time that there has been deep energy-linked frustration in the heart of Europe.</summary>
-      <pubDate>Thu, 19 Mar 2026 05:59:49 GMT</pubDate>
-      <priority>85</priority>
+      <title>BTS is back: Anti-drone systems and 260,000 fans as world's biggest band returns</title>
+      <link>https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022.</summary>
+      <pubDate>Thu, 19 Mar 2026 23:03:53 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a405/live/0b891c80-23f9-11f1-b6f7-2d6237dffb60.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
