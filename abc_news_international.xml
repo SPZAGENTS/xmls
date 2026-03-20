@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-20T20:03:28.818358</generated>
+  <generated>2026-03-20T22:05:03.578171</generated>
   <items>
     <item>
       <title>In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Asia scrambles to conserve energy as Iran war disrupts oil and gas supplies</title>
-      <link>https://abcnews.com/International/wireStory/asia-scrambles-conserve-energy-iran-war-disrupts-oil-131217018</link>
-      <summary>Asian countries are racing to save energy and shield consumers as the war on Iran disrupts oil and gas flows</summary>
-      <pubDate>Thu, 19 Mar 2026 11:43:58 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d1265c39c990abb2dd43e037adb37c7a_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>North Korean leader Kim and his daughter ride a tank together during army training</title>
       <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-daughter-ride-tank-army-131237099</link>
       <summary>North Korean leader Kim Jong Un and his teenage daughter have ridden a tank together, days after they watched rocket launches and fired pistols</summary>
@@ -78,17 +67,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_4b33005ec1153cb876dcbf5cd77d2b20_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cuba readies for first Russian oil shipment of the year as energy crisis deepens</title>
-      <link>https://abcnews.com/International/wireStory/cuba-readies-russian-oil-shipment-year-energy-crisis-131232970</link>
-      <summary>Cuba is preparing to receive its first shipment of Russian oil this year, just days after the government announced it was operating on natural gas, solar power and thermoelectric plants as severe power outages continue to hit an island whose power grid...</summary>
-      <pubDate>Thu, 19 Mar 2026 16:55:50 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d51ead9f2cfdab1070dea2d869423b3f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_ac27f0fac3c812b56e6e233aaa173e0e_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rio police pull 4 officers from street duty in a probe into a deadly raid</title>
+      <link>https://abcnews.com/International/wireStory/rio-police-pull-4-officers-street-duty-probe-131257575</link>
+      <summary>Authorities say that four Brazilian police officers have been removed from street duty in an investigation into their involvement in a deadly raid in a low-income part of Rio de Janeiro</summary>
+      <pubDate>Fri, 20 Mar 2026 11:49:08 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_2e101f155b9dacf6ba0876477a7e9aa5_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A baseball title unleashes the happiness Venezuelans kept bottled up for years</title>
+      <link>https://abcnews.com/International/wireStory/baseball-title-unleashes-happiness-venezuelans-bottled-years-131209885</link>
+      <summary>Venezuelans pour into the streets in a rare, loud release of joy after their team wins the World Baseball Classic</summary>
+      <pubDate>Thu, 19 Mar 2026 04:29:50 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0c9d2879774e59c495dc185d67bf9ad1_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
