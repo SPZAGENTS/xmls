@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-20T14:09:48.135703</generated>
+  <generated>2026-03-20T16:03:01.047846</generated>
   <items>
     <item>
       <title>US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic</title>
@@ -30,7 +30,7 @@
       <title>'Multiple waves' of unauthorized drones recently spotted over US Air Force base</title>
       <link>https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</link>
       <summary>A drone sighting that temporarily raised alarms at one of the United States Air Force’s largest airfields this month was potentially more dangerous than first reported.</summary>
-      <pubDate>Fri, 20 Mar 2026 07:33:42 -0400</pubDate>
+      <pubDate>Fri, 20 Mar 2026 08:54:27 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/US-air-force-base_1773999752581_hpMain_4x3t_384.jpg</image>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>18-year-old college student shot, killed while walking with friends</title>
+      <link>https://abcnews.com/US/18-year-loyola-university-student-shot-killed-walking/story?id=131248340</link>
+      <summary>An 18-year-old student at Loyola University in Chicago was shot and killed while walking with her friends near campus, authorities said.</summary>
+      <pubDate>Fri, 20 Mar 2026 10:00:53 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/police-line-as-gmh-251007_1759855553242_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Dangerous, unprecedented heat wave hits the West</title>
-      <link>https://abcnews.com/US/dangerous-unprecedented-heat-wave-hits-west/story?id=131217053</link>
-      <summary>A dangerous and unprecedented heat wave is hitting the West, with temperatures reaching 25-to-40 degrees above normal across the region.</summary>
-      <pubDate>Thu, 19 Mar 2026 11:30:49 -0400</pubDate>
+      <title>WATCH: Ultimate Friday buzzer-beater</title>
+      <link>https://abcnews.com/video/131247182/</link>
+      <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
+      <pubDate>Fri, 20 Mar 2026 08:09:32 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/calif-heat-3-epa-gmh-260319_1773928049114_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260318_abcnl_3p_dejanovich_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: 'Spider-Man: Brand New Day' trailer debuts</title>
-      <link>https://abcnews.com/video/131187161/</link>
-      <summary>The film's star, Tom Holland, enlisted the help of Spider-Man superfans from around the world.</summary>
-      <pubDate>Wed, 18 Mar 2026 16:12:42 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260318_gma3_pop_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
