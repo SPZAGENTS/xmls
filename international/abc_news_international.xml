@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-20T16:03:01.824404</generated>
+  <generated>2026-03-20T18:05:04.971657</generated>
   <items>
     <item>
       <title>In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>EU leaders balk at joining Middle East fight, grapple with high energy prices</title>
-      <link>https://abcnews.com/International/wireStory/european-union-summit-focus-iran-war-loan-ukraine-131208772</link>
-      <summary>European leaders are doubling down on refusing to join the United States and Israel military campaigns in the Middle East as the 27-nation bloc grapples with rising oil and gas prices caused by the war raging across key energy producers and shipping lanes</summary>
-      <pubDate>Thu, 19 Mar 2026 08:02:54 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_014cc7de7f00a52c272c07937117db51_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>North Korean leader Kim and his daughter ride a tank together during army training</title>
       <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-daughter-ride-tank-army-131237099</link>
       <summary>North Korean leader Kim Jong Un and his teenage daughter have ridden a tank together, days after they watched rocket launches and fired pistols</summary>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_83d58237ca428ddcd0ad0e8c73c8ea4c_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Madagascar's president orders lie detector tests for candidates applying to be government ministers</title>
+      <link>https://abcnews.com/International/wireStory/madagascars-president-orders-lie-detector-tests-candidates-applying-131229970</link>
+      <summary>Madagascar's military leader says anyone applying to become a minister in his new government will be subjected to lie detector tests to root out those who are corrupt</summary>
+      <pubDate>Thu, 19 Mar 2026 15:32:34 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_ac27f0fac3c812b56e6e233aaa173e0e_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
