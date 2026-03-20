@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-20T04:01:52.333178</generated>
+  <generated>2026-03-20T06:01:55.061370</generated>
   <items>
+    <item>
+      <title>Ukraine peace talks on ‘situational pause’ as Middle East conflict intensifies: Kremlin</title>
+      <link>https://www.foxnews.com/world/ukraine-peace-talks-situational-pause-middle-east-conflict-intensifies-kremlin</link>
+      <summary>The Kremlin says Ukraine peace talks are on a &amp;apos;situational pause&amp;apos; as Zelenskyy signals a Ukrainian team could resume negotiations as soon as Saturday.</summary>
+      <pubDate>Thu, 19 Mar 2026 22:08:00 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/volodymyr-zelenskyy.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Feds investigate alarming near miss between Alaska Airlines jet, FedEx plane at busy Newark airport</title>
       <link>https://www.foxnews.com/us/feds-investigate-alarming-near-miss-between-alaska-airlines-jet-fedex-plane-busy-newark-airport</link>
@@ -12,6 +23,28 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/newark-tower.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Indiana University philanthropy group allegedly led fundraising training with Hamas-linked 'sham charity'</title>
+      <link>https://www.foxnews.com/us/indiana-university-philanthropy-group-allegedly-led-fundraising-training-hamas-linked-sham-charity</link>
+      <summary>Indiana University&amp;apos;s Muslim Philanthropy Initiative allegedly partnered with Hayat Yolu, a Treasury-sanctioned group accused of funding Hamas.</summary>
+      <pubDate>Thu, 19 Mar 2026 22:02:34 -0400</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/indiana-university.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Missing University of Alabama student Jimmy Gracey found dead in Barcelona</title>
+      <link>https://www.foxnews.com/us/missing-university-alabama-student-jimmy-gracey-found-dead-barcelona</link>
+      <summary>The body of University of Alabama student Jimmy Gracey, 20, was recovered at Port Olimpic in Barcelona after a days-long search, his family confirmed.</summary>
+      <pubDate>Thu, 19 Mar 2026 22:08:37 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/missing-alabama-student-barcelona-james-jimmy-gracey-fox-news_054.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/duke-siena.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Major city hikes hotel tax to nearly 20% as tourism bosses eye future events</title>
-      <link>https://www.foxnews.com/travel/major-city-hikes-hotel-tax-nearly-20-tourism-bosses-eye-major-events</link>
-      <summary>Chicago has raised the tourist tax on downtown hotels to 19% to boost tourism marketing efforts. A new district will fund Choose Chicago campaigns and events.</summary>
-      <pubDate>Thu, 19 Mar 2026 18:40:17 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/chicago-illinois-city-skyline_01.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Juror says Kouri Richins sympathy flipped after trial exposed kids’ book author’s plot to kill husband: report</title>
-      <link>https://www.foxnews.com/us/juror-says-kouri-richins-sympathy-flipped-after-trial-exposed-kids-book-authors-plot-kill-husband-report</link>
-      <summary>A juror revealed how the jury in Utah author Kouri Richins&amp;apos; murder trial jury went from sympathetic to a unanimous guilty verdict in her husband&amp;apos;s fentanyl poisoning death.</summary>
-      <pubDate>Thu, 19 Mar 2026 18:32:02 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/kouri-richins-poison-husband-murder-trial-day-1-018.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mamdani moves to sideline NYC police with new safety office under sweeping overhaul</title>
-      <link>https://www.foxnews.com/us/mamdani-moves-sideline-nyc-police-new-safety-office-under-sweeping-overhaul</link>
-      <summary>NYC Mayor Zohran Mamdani announced the new Office of Community Safety Thursday, signaling a shift in a public safety approach from policing to prevention and support programs.</summary>
-      <pubDate>Thu, 19 Mar 2026 18:30:05 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/zohran-mamdani.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
