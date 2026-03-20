@@ -2,8 +2,15 @@
 <content-feed>
   <title>גיקטיים — All Articles</title>
   <source>גיקטיים</source>
-  <generated>2026-03-19T10:04:30.287842</generated>
+  <generated>2026-03-20T08:02:43.309277</generated>
   <items>
+    <item>
+      <title>זהויות לא אנושיות וסוכני AI עזרו לסטארטאפ ישראלי לגייס עכשיו 120 מיליון דולר</title>
+      <link>https://www.geektime.co.il/ai-agents-help-this-israeli-startup-120m-funding-round-oasis-security/</link>
+      <summary>חברת הסייבר הישראלית Oasis Security (אואזיס) הודיעה היום (ה') על השלמת סבב גיוס B בהיקף של 120 מיליון דולר. את סבב הגיוס הובילה קרן Craft Ventures, בהשתתפות המשקיעים הקיימים Cyberstarts, Sequoia Capital ו-Accel. הגיוס הנוכחי מביא את סך גיוסי ההון של החברה מאז הקמתה ל-195 מיליו...</summary>
+      <pubDate>Thu, 19 Mar 2026 16:16:12 +0000</pubDate>
+      <priority>90</priority>
+    </item>
     <item>
       <title>ישראכרט רוכשת את הבנק הדיגיטלי של ניר צוק ב-400 מיליון שקל</title>
       <link>https://www.geektime.co.il/isracard-acquires-esh/</link>
@@ -19,17 +26,24 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>ממשיכים לגייס: 10 משרות הייטק ששווה לבדוק גם עכשיו</title>
+      <link>https://www.geektime.co.il/hiring-during-war-insider-1903/</link>
+      <summary>אי הוודאות המלווה את ימי המלחמה יכולה להגביר את הלחץ סביב תהליכי החיפוש העבודה בהייטק, אבל למרבה המזל, תעשיית הטק המקומית ממשיכה להפגין גמישות. הנה כמה חברות הייטק עם משרות פתוחות שמבינות את המצב ומציעות פתרונות גמישים למחפשי עבודה &amp;#8211; מראיונות ב-Zoom ועד התחשבות במשרתי מי...</summary>
+      <pubDate>Thu, 19 Mar 2026 16:47:57 +0000</pubDate>
+      <priority>85</priority>
+    </item>
+    <item>
+      <title>משחק ישראלי בשם "תברח!" הוא ההתמכרות החדשה שלנו בזמן אזעקות</title>
+      <link>https://www.geektime.co.il/run-game-is-perfect-for-the-shelter-and-mamad/</link>
+      <summary>רוצים קצת הפסקה משטף העדכונים בטלגרם או ברהנו טגניה עם קסדה בניידת מד"א? הנה משחק ישראלי חדש שיעביר לכם עוד כמה דקות במרחב המוגן. ניר צזנה, מהנדס תוכנה בסטארטאפ Blaise (ולפני זה במיקרוסופט ובאינטל), יצר משחק פלטפורמה חדש בשם Run! או "תברח!", שבו אתם צריכים להתמודד עם איום הטיל...</summary>
+      <pubDate>Thu, 19 Mar 2026 11:58:33 +0000</pubDate>
+      <priority>85</priority>
+    </item>
+    <item>
       <title>המפתח שהתחיל לעבוד במיקרוסופט בגיל 15 חושף עכשיו את הסטארטאפ החדש שלו</title>
       <link>https://www.geektime.co.il/raven-io-raises-20m-seed-and-post-seed-round/</link>
       <summary>יש לא מעט כלי אבטחה בשוק השרתים, אבל רובם מתמקדים בחיפוש של פגיעויות ידועות, CVEs. עם זאת, בימינו, האקרים כבר מוצאים פרצות חדשות בתוך זמן קצר בעזרת כלי AI הרבה לפני שהן נחשפות. "אנחנו קוראים לזה CVE-less attacks, ואלו ההתקפות שאין אף כלי שמסוגל לזהות ולעצור אותן" מספר לגיקטיים...</summary>
       <pubDate>Wed, 18 Mar 2026 11:00:09 +0000</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
-      <title>כל מה שצריך לדעת על ה-10x Developer החדש</title>
-      <link>https://www.geektime.co.il/10x-developer-strategic-skills/</link>
-      <summary>מאת רומה טימושפולסקי, מנכ"ל ומייסד YozmaTech הביקוש לעובדים בהייטק הישראלי לא באמת מצטמצם &amp;#8211; הוא פשוט מתפצל לשני כיוונים ברורים. מצד אחד, כלי AI מאיצים את קצב העבודה והופכים צוותים ליעילים יותר מאי פעם. מצד שני, התחרות על מפתחים סניורים מתחממת ומזכירה את תחילת 2020, רק בע...</summary>
-      <pubDate>Mon, 16 Mar 2026 09:38:11 +0000</pubDate>
       <priority>85</priority>
     </item>
     <item>
@@ -59,20 +73,6 @@
       <summary>בעקבות מלחמת שאגת הארי והטילים שנוחתים על ישראל ממזרח ומצפון: מחווה קטנה של טסלה ללקוחות הישראלים שלה. החל מהלילה בחצות (ד'), כל בעלי הרכבים של טסלה בישראל יוכלו להטעין את הרכב שלהם ללא תשלום בתחנות הטעינה המהירות והייעודיות של החברה, ה-Supercharger. אלו הן התחנות המהירות במיו...</summary>
       <pubDate>Wed, 18 Mar 2026 12:08:52 +0000</pubDate>
       <priority>70</priority>
-    </item>
-    <item>
-      <title>מטא השיקה כלי חינמי שמתחרה בלהיט של אנת'רופיק</title>
-      <link>https://www.geektime.co.il/metas-big-ai-acquisition-goes-for-claude-coworks-head/</link>
-      <summary>כחלק ממסע הקניות הבלתי נגמר של מטא בתחומי ה-AI, רכשה החברה בשנה שעברה את Manus, החברה הסינית שמפתחת סוכני AI, בעסקה של שני מיליארד דולר. הלילה (ג') חושפת החברה, שפועלת כחטיבה עצמאית, כלי מעניין במיוחד וחינמי &amp;#8211; שהולך על הראש של אחד הפיתוחים המדוברים של Anthropic. לתת לסוכ...</summary>
-      <pubDate>Tue, 17 Mar 2026 08:44:05 +0000</pubDate>
-      <priority>70</priority>
-    </item>
-    <item>
-      <title>אפל פותחת חזית נגד אפליקציות Vibe Coding</title>
-      <link>https://www.geektime.co.il/apple-cracks-down-on-vibe-coding-apps/</link>
-      <summary>אפליקציות Vibe Coding (כלומר, פיתוח אפליקציות בעזרת שפה טבעית ו-AI במקום כתיבת קוד) מהוות איום לא קטן על חברות הטכנולוגיה המסורתיות. הן מאפשרות למשתמשים לבנות כלים שיכולים להחליף מינויים חודשיים יקרים ומערערות על מודלים כלכליים קיימים. כעת, נראה שהאיום הזה תורגם לצעדים אקטיביי...</summary>
-      <pubDate>Wed, 18 Mar 2026 17:39:59 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
