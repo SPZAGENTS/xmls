@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-20T08:04:44.462028</generated>
+  <generated>2026-03-20T10:03:26.038102</generated>
   <items>
     <item>
       <title>Trump's mediators offer Hamas formal proposal to give up its weapons in Gaza</title>
@@ -17,6 +17,13 @@
       <summary>Health officials with the Trump administration have backed away from an effort to more heavily regulate indoor tanning — despite protests from medical groups that warn of the dangers of skin cancer.</summary>
       <pubDate>Thu, 19 Mar 2026 16:03:36 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Cuba readies for first Russian oil shipment of the year as energy crisis deepens</title>
+      <link>https://www.npr.org/2026/03/20/g-s1-114535/cuba-readies-for-first-russian-oil-shipment-of-the-year-as-energy-crisis-deepens</link>
+      <summary>Cuba is preparing to receive its first shipment of Russian oil this year, just days after the government announced it was operating on natural gas, solar power and thermoelectric plants as severe power outages continue to hit it.</summary>
+      <pubDate>Fri, 20 Mar 2026 01:59:55 -0400</pubDate>
+      <priority>85</priority>
     </item>
     <item>
       <title>FCC approves merger of local television owners Nexstar and Tegna as two lawsuits seek to block it</title>
@@ -61,18 +68,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Singer Jill Scott is doing what she wants: 'Everything has led me to this place'</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5746726/jill-scott-to-whom-this-may-concern</link>
-      <summary>The Grammy-winning singer describes herself as a "53-year-old woman who is maneuvering her career the way she wants to, how she wants to." Scott's new album is To Whom This May Concern.</summary>
-      <pubDate>Thu, 19 Mar 2026 12:52:14 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Harry Styles' new album is a massive chart success</title>
-      <link>https://www.npr.org/2026/03/19/nx-s1-5752356/harry-styles-kiss-all-the-time-disco-occasionally-charts</link>
-      <summary>This week, the biggest chart news revolves around Harry Styles all the time. Other artists, occasionally.</summary>
-      <pubDate>Thu, 19 Mar 2026 11:41:20 -0400</pubDate>
-      <priority>65</priority>
+      <title>A Mexican teen migrant dies in a Florida jail holding ICE detainees</title>
+      <link>https://www.npr.org/2026/03/20/nx-s1-5754519/mexican-teen-migrant-dies-florida-jail-ice</link>
+      <summary>Royer Perez-Jimenez is the second person to die in ICE custody this week.</summary>
+      <pubDate>Fri, 20 Mar 2026 02:42:16 -0400</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
