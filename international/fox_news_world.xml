@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-20T04:01:52.933611</generated>
+  <generated>2026-03-20T06:01:55.639361</generated>
   <items>
+    <item>
+      <title>Ukraine peace talks on ‘situational pause’ as Middle East conflict intensifies: Kremlin</title>
+      <link>https://www.foxnews.com/world/ukraine-peace-talks-situational-pause-middle-east-conflict-intensifies-kremlin</link>
+      <summary>The Kremlin says Ukraine peace talks are on a &amp;apos;situational pause&amp;apos; as Zelenskyy signals a Ukrainian team could resume negotiations as soon as Saturday.</summary>
+      <pubDate>Thu, 19 Mar 2026 22:08:00 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/volodymyr-zelenskyy.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran arrests 97 people it accuses of being 'soldiers of Israel' in massive crackdown</title>
       <link>https://www.foxnews.com/world/iran-arrests-97-people-accuses-being-soldiers-israel-massive-crackdown</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/gif-israel-fiery-missile-strike.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel kills Iranian intelligence minister who survived initial strike, official says</title>
-      <link>https://www.foxnews.com/world/israel-kills-iranian-intelligence-minister-who-survived-initial-strike-official-says</link>
-      <summary>Iran’s Intelligence Minister Esmaeil Khatib was killed in an Israeli strike, a senior Israeli official told Fox News.</summary>
-      <pubDate>Wed, 18 Mar 2026 07:51:02 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/esmaeil-khatib-iran-ministry-intelligence.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
