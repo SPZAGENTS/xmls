@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-20T06:01:55.061370</generated>
+  <generated>2026-03-20T08:04:35.425990</generated>
   <items>
     <item>
       <title>Ukraine peace talks on ‘situational pause’ as Middle East conflict intensifies: Kremlin</title>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/missing-alabama-student-barcelona-james-jimmy-gracey-fox-news_054.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Feds charge 3 in $2.5b scheme to smuggle us AI tech to China using dummy servers</title>
+      <link>https://www.foxnews.com/us/feds-charge-3-2-5b-scheme-smuggle-us-ai-tech-china-using-dummy-servers</link>
+      <summary>Three men linked to Supermicro are accused of smuggling $2.5 billion in AI technology to China via fake documents and shell companies, prosecutors allege.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:31:33 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/supermicro-headquarters-ai-servers.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/commonwealth-fusion-systems-1.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Duke survives stunning halftime deficit to hold off No. 16 seed Siena in March Madness' first round</title>
-      <link>https://www.foxnews.com/sports/duke-survives-stunning-halftime-deficit-hold-off-16-seed-siena-march-madness-first-round</link>
-      <summary>The Siena Saints nearly became the third team in March Madness history to beat a No. 1 seed as a No. 16 seed, but the Duke Blue Devils rallied in the second half to avoid the upset.</summary>
-      <pubDate>Thu, 19 Mar 2026 18:40:37 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/duke-siena.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
