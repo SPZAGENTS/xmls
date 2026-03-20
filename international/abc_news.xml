@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-20T12:02:59.787377</generated>
+  <generated>2026-03-20T14:09:48.135703</generated>
   <items>
     <item>
       <title>US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic</title>
       <link>https://abcnews.com/Politics/us-targets-mine-laying-vessels-strait-hormuz-amid/story?id=131228813</link>
       <summary>Pentagon zeroing in on mine-laying vessels that are helping Iran keep a stranglehold on Strait of Hormuz, military leaders said, as markets feel pain from its closure.</summary>
-      <pubDate>Thu, 19 Mar 2026 20:02:12 -0400</pubDate>
+      <pubDate>Fri, 20 Mar 2026 06:17:35 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-9-ht-gmh-260311_1773234021666_hpMain_4x3t_384.jpg</image>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>'Multiple waves' of unauthorized drones recently spotted over US Air Force base</title>
+      <link>https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</link>
+      <summary>A drone sighting that temporarily raised alarms at one of the United States Air Force’s largest airfields this month was potentially more dangerous than first reported.</summary>
+      <pubDate>Fri, 20 Mar 2026 07:33:42 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/US-air-force-base_1773999752581_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -34,6 +45,28 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: New York State trooper involved in chain reaction crash during traffic stop</title>
+      <link>https://abcnews.com/video/131235515/</link>
+      <summary>The trooper in Mamaroneck was injured during a traffic stop when a SUV slammed into his patrol car, pushing it into another vehicle and hitting him. The incident is under investigation.</summary>
+      <pubDate>Thu, 19 Mar 2026 20:37:27 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260319_wn_vo_trooper_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Rhode Island high school hockey team wins state title after deadly ice rink shooting</title>
+      <link>https://abcnews.com/video/131235157/</link>
+      <summary>David Muir reports on young hockey star Colin Dorgan – who lost his family in the deadly Rhode Island ice rink shooting – scoring a key goal in the game to help his team win in quadruple overtime.</summary>
+      <pubDate>Fri, 20 Mar 2026 06:47:53 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260319_wn_ender_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260318_gma3_pop_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Massive meteor boom heard across several states</title>
-      <link>https://abcnews.com/video/131177186/</link>
-      <summary>A six-foot wide, seven-ton space rock traveled 34 miles through the upper atmosphere before disintegrating over Medina County in Ohio, according to NASA.</summary>
-      <pubDate>Wed, 18 Mar 2026 09:45:33 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260318_gma_champion_meteor_0716_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: 'Sinners' soundtrack's surge after the Oscars</title>
-      <link>https://abcnews.com/video/131143974/</link>
-      <summary>The performance of the Oscar-nominated music from the hit movie helped the soundtrack soar on streaming services.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:56:51 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260317_gma_popnews_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Banksy unmasked?</title>
-      <link>https://abcnews.com/video/131141825/</link>
-      <summary>Reuters reports it may have identified the reclusive British artist as 51-year-old Robin Gunningham.</summary>
-      <pubDate>Tue, 17 Mar 2026 09:44:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260317_gma_champion_banksy_717_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
