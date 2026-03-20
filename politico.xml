@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-20T10:03:19.054264</generated>
+  <generated>2026-03-20T12:02:54.164907</generated>
   <items>
     <item>
       <title>AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary</title>
@@ -82,15 +82,22 @@
       </media>
     </item>
     <item>
-      <title>Furious MAGA allies lobby Trump to keep deporting migrants</title>
-      <link>https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245</link>
-      <summary>The new Mass Deportation Coalition is pushing the White House to continue with its deportation operation — just as the White House tells GOP candidates to back away from that message.</summary>
-      <pubDate>Thu, 12 Mar 2026 03:45:00 EST</pubDate>
-      <priority>75</priority>
+      <title>Pete Buttigieg’s 2026 project</title>
+      <link>https://www.politico.com/news/2026/03/20/pete-buttigieg-midterms-2028-00837307</link>
+      <summary>The former Transportation secretary and onetime presidential candidate is traveling the country for the midterms. The road may lead him beyond.</summary>
+      <pubDate>Fri, 20 Mar 2026 04:55:00 EST</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://static.politico.com/05/dd/979117ac434a8c8c0890ba5b2d72/https-delivery-gettyimages.com/downloads/2162457989</image>
+        <image>https://static.politico.com/3f/29/7ece8e1f492a97da808978de54a7/us-election-2026-redistricting-indiana-96445.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>The nation’s cartoonists on the week in politics</title>
+      <link>https://www.politico.com/gallery/2026/03/20/the-nations-cartoonists-on-the-week-in-politics-00836828</link>
+      <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
+      <pubDate>Fri, 20 Mar 2026 04:00:00 EST</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Ruben Gallego wants to make Democrats fun again</title>
@@ -98,17 +105,6 @@
       <summary />
       <pubDate>Thu, 19 Mar 2026 22:59:00 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Stratton wins Illinois primary, giving Dems another Black female senator</title>
-      <link>https://www.politico.com/news/2026/03/17/juliana-stratton-wins-illinois-senate-democrat-primary-00833523</link>
-      <summary>Illinois Lt. Gov. Juliana Stratton won with the help of outside spending — much of it from Gov. JB Pritzker.</summary>
-      <pubDate>Tue, 17 Mar 2026 21:39:24 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/48/31/bb8d2ec944c6beb65212dc9356d6/us-election-2026-illinois-38022.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
