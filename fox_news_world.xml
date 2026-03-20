@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-20T16:02:54.075230</generated>
+  <generated>2026-03-20T20:03:21.617449</generated>
   <items>
+    <item>
+      <title>Iranian man, 2nd person arrested after allegedly trying to enter UK nuclear missile base: report</title>
+      <link>https://www.foxnews.com/world/iranian-man-2nd-person-arrested-after-allegedly-trying-enter-uk-nuclear-missile-base-report</link>
+      <summary>Authorities in the United Kingdom told Fox News Digital that two people were arrested after unsuccessfully attempting to enter HM Naval Base Clyde in Scotland.</summary>
+      <pubDate>Fri, 20 Mar 2026 12:22:17 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hmnb-clyde.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Ukraine peace talks on ‘situational pause’ as Middle East conflict intensifies: Kremlin</title>
       <link>https://www.foxnews.com/world/ukraine-peace-talks-situational-pause-middle-east-conflict-intensifies-kremlin</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/belgium-police.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Fiery aftermath of Iran missile strike near Tel Aviv caught on video after 2 killed</title>
-      <link>https://www.foxnews.com/world/iran-missile-strike-tel-aviv-aftermath-video</link>
-      <summary>Video footage captured fiery destruction and emergency crews responding after an Iranian missile strike near Tel Aviv, Israel, killed two people.</summary>
-      <pubDate>Wed, 18 Mar 2026 08:26:11 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/gif-israel-fiery-missile-strike.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>

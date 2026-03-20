@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-20T16:02:52.492292</generated>
+  <generated>2026-03-20T20:03:20.220853</generated>
   <items>
+    <item>
+      <title>Israel strikes Syria after Druze clashes</title>
+      <link>https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Syria condemned the strikes on weapons sites and government infrastructure as an "outrageous" assault on Syria's sovereignty.</summary>
+      <pubDate>Fri, 20 Mar 2026 16:02:50 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d1/live/28ea6be0-243e-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Netanyahu says Israel 'acted alone' in attack on Iranian gas field</title>
       <link>https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f521/live/30b2ab10-214d-11f1-8771-8f3ba04352de.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What Iranians are being told about the war</title>
-      <link>https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran.</summary>
-      <pubDate>Mon, 16 Mar 2026 00:05:01 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017f/live/53a14b80-2117-11f1-b048-c9424b2cf5fd.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
