@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-20T08:04:42.799677</generated>
+  <generated>2026-03-20T10:03:24.573652</generated>
   <items>
     <item>
       <title>In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a9fdbdf21313f103e1c6490fb66dd218_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The war in Iran raises pressure on Ukraine while Russia prepares new offensives</title>
+      <link>https://abcnews.com/International/wireStory/war-iran-raises-pressure-ukraine-russia-prepares-new-131243838</link>
+      <summary>With U.S.-brokered Ukraine peace talks on hold due to the war in the Middle East, Russian President Vladimir Putin is expected to try to expand his military gains via new offensives against his southern neighbor that will put even more pressure on Kyiv</summary>
+      <pubDate>Fri, 20 Mar 2026 03:19:22 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_2b863bc22e97006846e7351e19401f9f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +71,13 @@
       </media>
     </item>
     <item>
-      <title>EU leaders balk at joining Middle East fight, grapple with high energy prices</title>
-      <link>https://abcnews.com/International/wireStory/european-union-summit-focus-iran-war-loan-ukraine-131208772</link>
-      <summary>European leaders are doubling down on refusing to join the United States and Israel military campaigns in the Middle East as the 27-nation bloc grapples with rising oil and gas prices caused by the war raging across key energy producers and shipping lanes</summary>
-      <pubDate>Thu, 19 Mar 2026 08:02:54 -0400</pubDate>
-      <priority>100</priority>
+      <title>North Korean leader Kim and his daughter ride a tank together during army training</title>
+      <link>https://abcnews.com/International/wireStory/north-korean-leader-kim-daughter-ride-tank-army-131237099</link>
+      <summary>North Korean leader Kim Jong Un and his teenage daughter have ridden a tank together, days after they watched rocket launches and fired pistols</summary>
+      <pubDate>Fri, 20 Mar 2026 03:42:45 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_014cc7de7f00a52c272c07937117db51_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_4b33005ec1153cb876dcbf5cd77d2b20_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Under siege by a Mexican cartel, these civilians fight back with AK-47s and grenades</title>
+      <link>https://abcnews.com/International/wireStory/siege-mexican-cartel-now-civilians-fight-back-ak-131243677</link>
+      <summary>Residents in the Mexican central state of Guerrero are setting up self-defense patrols to keep a powerful cartel out of their mountain towns</summary>
+      <pubDate>Fri, 20 Mar 2026 03:22:33 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_83d58237ca428ddcd0ad0e8c73c8ea4c_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Madagascar's president orders lie detector tests for candidates applying to be government ministers</title>
       <link>https://abcnews.com/International/wireStory/madagascars-president-orders-lie-detector-tests-candidates-applying-131229970</link>
       <summary>Madagascar's military leader says anyone applying to become a minister in his new government will be subjected to lie detector tests to root out those who are corrupt</summary>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_ac27f0fac3c812b56e6e233aaa173e0e_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A baseball title unleashes the happiness Venezuelans kept bottled up for years</title>
-      <link>https://abcnews.com/International/wireStory/baseball-title-unleashes-happiness-venezuelans-bottled-years-131209885</link>
-      <summary>Venezuelans pour into the streets in a rare, loud release of joy after their team wins the World Baseball Classic</summary>
-      <pubDate>Thu, 19 Mar 2026 04:29:50 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0c9d2879774e59c495dc185d67bf9ad1_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The probe of Hong Kong's deadliest fire in decades begins hearings</title>
-      <link>https://abcnews.com/International/wireStory/probe-hong-kongs-deadliest-fire-decades-begins-evidence-131207635</link>
-      <summary>An independent committee investigating the cause of Hong Kong&amp;rsquo;s deadliest fire in decades has heard that a series of failures contributed to the blaze that engulfed seven buildings and killed 168 people</summary>
-      <pubDate>Thu, 19 Mar 2026 21:22:35 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_7bc481fbc1965883b83bb7668e7d8c6f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

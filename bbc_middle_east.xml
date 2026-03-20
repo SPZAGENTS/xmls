@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-20T08:04:34.302394</generated>
+  <generated>2026-03-20T10:03:16.993050</generated>
   <items>
     <item>
       <title>Netanyahu says Israel 'acted alone' in attack on Iranian gas field</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranians prepare for Persian new year under shadow of war</title>
+      <link>https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:04:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3660/live/2dc8e250-23a2-11f1-9699-87c229cb26a0.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,17 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f521/live/30b2ab10-214d-11f1-8771-8f3ba04352de.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel says 'limited' ground operations under way in Lebanon</title>
-      <link>https://www.bbc.com/news/articles/clyz78kgp22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Troops are targeting "Hezbollah strongholds" in south Lebanon, where strikes reportedly killed nine people on Monday.</summary>
-      <pubDate>Tue, 17 Mar 2026 05:03:13 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2b/live/284cb140-2149-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

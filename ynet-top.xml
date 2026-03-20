@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-20T10:03:55.180064</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-20T12:02:29.962505</generated>
   <items>
     <item>
       <title>Netanyahu says Iran can no longer enrich uranium or manufacture ballistic missiles</title>
       <link>https://www.ynetnews.com/article/s15gb6y5bg</link>
-      <description>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</description>
+      <summary>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</summary>
       <pubDate>Thu, 19 Mar 2026 20:49:24 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>145</priority-score>
+      <priority>145</priority>
+    </item>
+    <item>
+      <title>IRGC spokesman who threatened Trump killed in alleged US-Israeli strike</title>
+      <link>https://www.ynetnews.com/article/hya56t55bl</link>
+      <summary>Iranian report says IRGC spokesman Ali Mohammad Naini and his deputy were killed in a US-Israeli strike, days after he warned Trump to send warships to the Gulf 'if he has the courage'</summary>
+      <pubDate>Fri, 20 Mar 2026 11:38:57 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
       <title>US plans to ease sanctions on Iranian oil; Israeli officials say attack on Iranian gas field won't happen again</title>
       <link>https://www.ynetnews.com/article/hjz5u9yqbg</link>
-      <description>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</description>
+      <summary>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</summary>
       <pubDate>Thu, 19 Mar 2026 17:45:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>Israel strikes Tehran as Iran launches missiles toward north</title>
       <link>https://www.ynetnews.com/article/syuqgecczx</link>
-      <description>Air defenses activated across Gulf states as Iranian launches trigger sirens in Haifa and beyond; alerts issued only for Golan and front-line areas, raising questions after no prior warning in several northern communities</description>
+      <summary>Air defenses activated across Gulf states as Iranian launches trigger sirens in Haifa and beyond; alerts issued only for Golan and front-line areas, raising questions after no prior warning in several northern communities</summary>
       <pubDate>Fri, 20 Mar 2026 04:48:05 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>US F-35 fighter jet hit by Iranian fire, makes emergency landing</title>
       <link>https://www.ynetnews.com/article/sk3ai5yq11e</link>
-      <description>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</description>
+      <summary>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</summary>
       <pubDate>Thu, 19 Mar 2026 18:04:19 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Damage at Haifa oil refineries after Iranian missile attack</title>
       <link>https://www.ynetnews.com/article/h1rmbctqbl</link>
-      <description>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</description>
+      <summary>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</summary>
       <pubDate>Thu, 19 Mar 2026 17:14:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Israel takes on larger share of strikes from US in Iran, data shows</title>
       <link>https://www.ynetnews.com/article/b1d1wfyqzx</link>
-      <description>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</description>
+      <summary>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</summary>
       <pubDate>Thu, 19 Mar 2026 16:33:46 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>Israeli Air Force strikes Iranian naval vessels in Caspian Sea for first time</title>
-      <link>https://www.ynetnews.com/article/hkvkxtu9wl</link>
-      <description>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</description>
-      <pubDate>Wed, 18 Mar 2026 21:51:20 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran’s tweeting hardliner mocks Trump as his name surfaces for top role</title>
       <link>https://www.ynetnews.com/article/byuw2r9qwe</link>
-      <description>Mohammad Bagher Ghalibaf has used social media to taunt the US and Israel and project strength during the war; after Ali Larijani’s killing, he is now being mentioned as a possible successor in Iran’s leadership</description>
+      <summary>Mohammad Bagher Ghalibaf has used social media to taunt the US and Israel and project strength during the war; after Ali Larijani’s killing, he is now being mentioned as a possible successor in Iran’s leadership</summary>
       <pubDate>Fri, 20 Mar 2026 06:41:04 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
+      <priority>125</priority>
+    </item>
+    <item>
+      <title>הקשב באיראן, "ציד" המנהרות מתעכב בעזה: זה האזור שבו חמאס שולט - והחשש</title>
+      <link>https://www.ynet.co.il/news/article/yokra14713506</link>
+      <summary>פרויקט הקידוחים שאמור לחשוף את כל המנהרות שבחלק שבשליטה ישראלית בעזה מתעכב בהתקדמותו דרומה, בשל ריבוי המנהרות בצפון הרצועה. "מפקד החטיבה הדרומית הודה שמצבו של חמאס במחנות המרכז טוב", אומר אחד הרבש"צים. צה"ל: "פועלים מול ניסיונות ההתעצמות"</summary>
+      <pubDate>Fri, 20 Mar 2026 10:31:35 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
-      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
-      <description>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</description>
-      <pubDate>Thu, 19 Mar 2026 07:53:35 +0200</pubDate>
-      <source>ynet-culture</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
