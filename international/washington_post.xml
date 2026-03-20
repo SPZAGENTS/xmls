@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-20T22:04:55.697883</generated>
+  <generated>2026-03-21T00:03:06.148403</generated>
   <items>
     <item>
       <title>4 women killed in West Bank are first Palestinian deaths in Iran war</title>
@@ -52,6 +52,13 @@
       <summary>Israel’s assault on the world’s largest natural gas deposit has renewed tensions between the two allies’ end goals in Iran.</summary>
       <pubDate>Fri, 20 Mar 2026 09:00:04 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Cuba rejects U.S. Embassy request to bring in fuel, calls it ‘shameless’</title>
+      <link>https://www.washingtonpost.com/world/2026/03/20/us-embassy-havana-cuba-fuel-blackout/</link>
+      <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
+      <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
+      <priority>70</priority>
     </item>
   </items>
 </content-feed>
