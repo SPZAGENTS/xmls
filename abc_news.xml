@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-20T06:02:01.132519</generated>
+  <generated>2026-03-20T08:04:42.228929</generated>
   <items>
     <item>
       <title>US targets mine-laying vessels in the Strait of Hormuz amid disruption of oil traffic</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260319_abc_social_trump_pearl_harbor_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Oil and gas prices surge as Iran escalates strikes on Gulf refineries</title>
-      <link>https://abcnews.com/video/131222684/</link>
-      <summary>Iranian attacks on significant energy infrastructure and refineries in several Gulf countries pushed oil and gas prices higher in volatile trading on Thursday.</summary>
-      <pubDate>Thu, 19 Mar 2026 15:38:21 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260319_abc_social_reevell_iran2_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260318_gma_champion_meteor_0716_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: 'Sinners' soundtrack's surge after the Oscars</title>
+      <link>https://abcnews.com/video/131143974/</link>
+      <summary>The performance of the Oscar-nominated music from the hit movie helped the soundtrack soar on streaming services.</summary>
+      <pubDate>Tue, 17 Mar 2026 09:56:51 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260317_gma_popnews_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

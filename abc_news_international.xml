@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-20T06:02:01.866650</generated>
+  <generated>2026-03-20T08:04:42.799677</generated>
   <items>
     <item>
       <title>In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>EU scrambles to contain energy costs from war in Middle East</title>
-      <link>https://abcnews.com/International/wireStory/eu-scrambles-energy-costs-war-middle-east-131210097</link>
-      <summary>European Union leaders are meeting to tackle soaring oil and gas prices driven by the war in the Middle East</summary>
-      <pubDate>Thu, 19 Mar 2026 06:13:22 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_4148c8bdeeef440de372ab9154677127_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Cuba readies for first Russian oil shipment of the year as energy crisis deepens</title>
       <link>https://abcnews.com/International/wireStory/cuba-readies-russian-oil-shipment-year-energy-crisis-131232970</link>
       <summary>Cuba is preparing to receive its first shipment of Russian oil this year, just days after the government announced it was operating on natural gas, solar power and thermoelectric plants as severe power outages continue to hit an island whose power grid...</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_0c9d2879774e59c495dc185d67bf9ad1_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The probe of Hong Kong's deadliest fire in decades begins hearings</title>
+      <link>https://abcnews.com/International/wireStory/probe-hong-kongs-deadliest-fire-decades-begins-evidence-131207635</link>
+      <summary>An independent committee investigating the cause of Hong Kong&amp;rsquo;s deadliest fire in decades has heard that a series of failures contributed to the blaze that engulfed seven buildings and killed 168 people</summary>
+      <pubDate>Thu, 19 Mar 2026 21:22:35 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_7bc481fbc1965883b83bb7668e7d8c6f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

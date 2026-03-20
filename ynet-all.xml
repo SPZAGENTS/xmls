@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-20T08:05:20.175074</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-20T10:02:46.237791</generated>
   <items>
     <item>
-      <title>Israeli teacher in reserves keeps teaching students from Lebanon combat zone</title>
-      <link>https://www.ynetnews.com/article/sjw811r55ze</link>
-      <description>An IDF paramedic and high school educator, serving nearly 400 days in reserves, continues teaching his students over Zoom from combat zones in Lebanon and Syria, saying the bond gives strength to both sides and keeps the next generation grounded</description>
-      <pubDate>Fri, 20 Mar 2026 05:46:42 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Netanyahu says Iran can no longer enrich uranium or manufacture ballistic missiles</title>
+      <link>https://www.ynetnews.com/article/s15gb6y5bg</link>
+      <summary>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</summary>
+      <pubDate>Thu, 19 Mar 2026 20:49:24 +03:00</pubDate>
+      <priority>145</priority>
     </item>
     <item>
-      <title>Iranian missile veers into West Bank, kills 4 Palestinian women in beauty salon</title>
-      <link>https://www.ynetnews.com/article/hk2vy9005zx</link>
-      <description>Missile fired toward southern Israel lands in Beit Awwa, wounding another 6 women; Palestinian Authority condemns Iranian fire toward Gulf states while Hamas stays silent</description>
-      <pubDate>Wed, 18 Mar 2026 23:37:17 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>US plans to ease sanctions on Iranian oil; Israeli officials say attack on Iranian gas field won't happen again</title>
+      <link>https://www.ynetnews.com/article/hjz5u9yqbg</link>
+      <summary>Amid global energy crisis, US Treasury Secretary announced plans to lift sanctions imposed on Iranian oil: 'about 140 million barrels, up to two weeks' supply'; after Trump disavowed Israeli attack on Iran gas field, sources in Jerusalem emphasized it was coordinated</summary>
+      <pubDate>Thu, 19 Mar 2026 17:45:01 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>Israeli strikes are weakening Iran’s regime, IDF says</title>
-      <link>https://www.ynetnews.com/article/hjcsvu00qze</link>
-      <description>Military spokesman Effie Defrin says cumulative effect of strikes on senior Iranian officials, Hezbollah commanders and terrorist infrastructure is shaking Tehran’s leadership and degrading the network Iran uses to project power across the region</description>
-      <pubDate>Wed, 18 Mar 2026 21:38:52 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Israel strikes Tehran as Iran launches missiles toward north</title>
+      <link>https://www.ynetnews.com/article/syuqgecczx</link>
+      <summary>Air defenses activated across Gulf states as Iranian launches trigger sirens in Haifa and beyond; alerts issued only for Golan and front-line areas, raising questions after no prior warning in several northern communities</summary>
+      <pubDate>Fri, 20 Mar 2026 04:48:05 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Report: US pushes Israel toward talks as Lebanon teeters on collapse</title>
-      <link>https://www.ynetnews.com/article/s13p0ddcwx</link>
-      <description>Washington reportedly wants Jerusalem to prepare for negotiations amid fears that continued fighting with Hezbollah could push Lebanon over the brink</description>
-      <pubDate>Wed, 18 Mar 2026 21:02:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>US F-35 fighter jet hit by Iranian fire, makes emergency landing</title>
+      <link>https://www.ynetnews.com/article/sk3ai5yq11e</link>
+      <summary>US Central Command confirms the plane made an emergency landing at a US military base, and said the pilot is in stable condition; incident, which is under investigation, marks first time Iran has hit an American or Israeli plane since start of war</summary>
+      <pubDate>Thu, 19 Mar 2026 18:04:19 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
+      <title>Damage at Haifa oil refineries after Iranian missile attack</title>
+      <link>https://www.ynetnews.com/article/h1rmbctqbl</link>
+      <summary>Strike caused damage at Bazan oil refineries, sparked fire and hazardous materials assessment, knocked out power in parts of the city and lightly injured one person, as Iran claimed retaliation for Israeli strikes on South Pars gas facilities</summary>
+      <pubDate>Thu, 19 Mar 2026 17:14:22 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Day 20: why isn't every cluster missile intercepted — and what's left of Iran's nuclear program</title>
-      <link>https://www.ynetnews.com/article/rjyaght9bx</link>
-      <description>Air Force says 60% of Iran’s launchers have been destroyed, interception rates have climbed to 90%, as officials remain tight-lipped about the pace and scope of strikes on nuclear and enriched uranium sites</description>
-      <pubDate>Thu, 19 Mar 2026 19:34:04 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>Israel takes on larger share of strikes from US in Iran, data shows</title>
+      <link>https://www.ynetnews.com/article/b1d1wfyqzx</link>
+      <summary>More than 15,000 targets have been struck by the IDF and US forces, with over 50 senior Iranian officials killed and major damage reported to missile, air defense and naval capabilities, including key gas infrastructure in southern Iran</summary>
+      <pubDate>Thu, 19 Mar 2026 16:33:46 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Ships become balls of fire: IDF releases first footage of strike on Iranian Navy in Caspian Sea | Watch</title>
-      <link>https://www.ynetnews.com/article/syc5gkk9wx</link>
-      <description>As part of the strikes, Air Force aircraft targeted facilities at an Iranian naval port subordinate to Iran’s army, where dozens of military vessels were docked, including missile ships and patrol boats</description>
-      <pubDate>Thu, 19 Mar 2026 16:12:49 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>Israeli Air Force strikes Iranian naval vessels in Caspian Sea for first time</title>
+      <link>https://www.ynetnews.com/article/hkvkxtu9wl</link>
+      <summary>Iranian opposition reports say attacks hit port city of Bandar Anzali, home to headquarters of Iranian navy’s Northern Fleet district, marking a major expansion of the war’s geographic scope</summary>
+      <pubDate>Wed, 18 Mar 2026 21:51:20 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>‘Impossible to live like this’: Northern residents say Hezbollah rockets, IDF fire has shattered daily life</title>
-      <link>https://www.ynetnews.com/article/h1c74h00qzg</link>
-      <description>After being told calm had returned, residents in Kiryat Shmona and nearby communities say constant rocket sirens, artillery blasts and helicopter fire leave families terrified, sleepless and unable to maintain daily life</description>
-      <pubDate>Thu, 19 Mar 2026 01:54:37 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>"גם אם המלחמה עם איראן היא אינטרס פוליטי של נתניהו — היא עדיין נכונה"</title>
+      <link>https://www.ynet.co.il/entertainment/article/yokra14701789</link>
+      <summary>האיחוד האירופי? "מציית לחוק הבינלאומי, ומשהו בו כנראה פגום". השמאל העולמי? "הפך לפסימי, ולא מצליח לייצר תחושות של סולידריות ואהבה". הביקורת על ישראל? "עברנו לאנטישמיות על רקע פוליטי. אין בעולם אידיאולוגיה לאומית שנואה כמו הציונות". פרופ' אווה אילוז, מן הסוציולוגיות הבכירות ביש...</summary>
+      <pubDate>Thu, 19 Mar 2026 07:53:35 +0200</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>המלחמה מול איראן מבעד לעיניים יווניות</title>
-      <link>https://www.ynet.co.il/news/article/bkow1pkczg</link>
-      <description>79% מהציבור ביוון מודאג שהם ייגררו לסכסוך לא להם. החשש שלהם הוא מעשי מאוד - פגיעה בכלכלה, עליית מחירי אנרגיה, חוסר יציבות אזורי, וסכנת הסתבכות במלחמה שלא משרתת אינטרס יווני ישיר</description>
-      <pubDate>Fri, 20 Mar 2026 04:49:00 +0200</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>100</priority-score>
+      <title>Iran’s tweeting hardliner mocks Trump as his name surfaces for top role</title>
+      <link>https://www.ynetnews.com/article/byuw2r9qwe</link>
+      <summary>Mohammad Bagher Ghalibaf has used social media to taunt the US and Israel and project strength during the war; after Ali Larijani’s killing, he is now being mentioned as a possible successor in Iran’s leadership</summary>
+      <pubDate>Fri, 20 Mar 2026 06:41:04 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>המלחמה מול איראן מבעד לעיניים יווניות</title>
-      <link>https://www.ynet.co.il/news/article/bkow1pkczg</link>
-      <description>79% מהציבור ביוון מודאג שהם ייגררו לסכסוך לא להם. החשש שלהם הוא מעשי מאוד - פגיעה בכלכלה, עליית מחירי אנרגיה, חוסר יציבות אזורי, וסכנת הסתבכות במלחמה שלא משרתת אינטרס יווני ישיר</description>
-      <pubDate>Fri, 20 Mar 2026 04:49:00 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>100</priority-score>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
