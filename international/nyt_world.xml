@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-21T14:03:28.116046</generated>
+  <generated>2026-03-21T16:00:55.410636</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week</title>
       <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump</link>
       <summary>The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets.</summary>
-      <pubDate>Sat, 21 Mar 2026 11:12:55 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 13:45:44 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-promo-rtyhgfd-tjqf/21mideast-promo-rtyhgfd-tjqf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-promo-9am/21mideast-promo-9am-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -30,7 +30,7 @@
       <title>Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo</title>
       <link>https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html</link>
       <summary>Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:08:44 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 12:49:04 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-srilanka-iran-vlkc/21int-srilanka-iran-vlkc-mediumSquareAt3X.jpg</image>
@@ -60,24 +60,35 @@
       </media>
     </item>
     <item>
-      <title>Trump Signals Retreat From Goal of Regime Change in Iran</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/trump-winding-down-iran-war.html</link>
-      <summary>In the first days of the U.S.-Israeli campaign against Iran, Mr. Trump pressed for a popular uprising against Tehran’s government.</summary>
-      <pubDate>Sat, 21 Mar 2026 01:17:12 +0000</pubDate>
-      <priority>90</priority>
+      <title>Heavy storms in Beirut cap a morning of ongoing Israeli strikes.</title>
+      <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/heavy-storms-in-beirut-cap-a-morning-of-ongoing-israeli-strikes</link>
+      <summary />
+      <pubDate>Sat, 21 Mar 2026 13:23:52 +0000</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-trump-statement-pjzv/20israel-iran-trump-statement-pjzv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/2121israel-iran-lebnanon-strikes-1-hltq/2121israel-iran-lebnanon-strikes-1-hltq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Live Updates: BTS’s Comeback Concert Is Heavy on Its New Album</title>
-      <link>https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang</link>
-      <summary>But K-pop’s biggest name also played a few old hits like “Butter,” “Mic Drop” and “Dynamite.” The show is being livestreamed by Netflix.</summary>
-      <pubDate>Sat, 21 Mar 2026 11:58:33 +0000</pubDate>
-      <priority>80</priority>
+      <title>Middle East War Leaves Hamas Balancing Allies on Opposite Sides</title>
+      <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html</link>
+      <summary>The Palestinian militant group, which has ties to both Iran and Qatar, is “walking on a knife’s edge,” an analyst said.</summary>
+      <pubDate>Sat, 21 Mar 2026 13:03:36 +0000</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21bts-live-promo-5a-ztkh/21bts-live-promo-5a-ztkh-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-hamas-1-jcft/20israel-iran-hamas-1-jcft-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian Man Arrested After Trying to Enter U.K. Naval Base, Police Say</title>
+      <link>https://www.nytimes.com/2026/03/21/world/europe/iran-scotland-naval-base-clyde.html</link>
+      <summary>The man and a Romanian woman walked up to the gate of the base in Scotland, where nuclear-armed submarines are docked, and asked to be let in, an official said.</summary>
+      <pubDate>Sat, 21 Mar 2026 12:20:25 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-uk-base-arrests-sub-vanguard-mfhw/21int-uk-base-arrests-sub-vanguard-mfhw-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,17 +100,6 @@
       <priority>75</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/world/21canadaletter-tank/21canadaletter-tank-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html</link>
-      <summary>Treasury Secretary Scott Bessent estimated that the move would add about 140 million barrels of crude to the oil market.</summary>
-      <pubDate>Sat, 21 Mar 2026 01:08:22 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-oil-sanctions-vqhf/20israel-iran-oil-sanctions-vqhf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

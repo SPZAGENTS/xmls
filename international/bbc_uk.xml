@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-21T14:03:23.252851</generated>
+  <generated>2026-03-21T16:00:50.606621</generated>
   <items>
     <item>
       <title>UK allows US to use bases to strike Strait of Hormuz targets</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f54/live/c9fed050-248b-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>First photos as BTS make live return in front of huge crowd</title>
+      <link>https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.</summary>
+      <pubDate>Sat, 21 Mar 2026 13:24:34 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d7/live/f6e85b00-2520-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,7 +96,7 @@
       <title>US lifts sanctions on some Iranian oil as energy prices soar</title>
       <link>https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.</summary>
-      <pubDate>Fri, 20 Mar 2026 23:52:54 GMT</pubDate>
+      <pubDate>Sat, 21 Mar 2026 12:15:20 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee4/live/b3f62e10-23c9-11f1-934f-036468834728.jpg</image>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c74/live/859001e0-245a-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sarah Ferguson is keeping a low profile, but pressure mounts for her to give evidence on Epstein</title>
-      <link>https://www.bbc.com/news/articles/cn87j9ry43ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There are calls for the former duchess to give testimony in the US, although there is no legal requirement she does so.</summary>
-      <pubDate>Sat, 21 Mar 2026 00:54:44 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c39/live/55135fd0-238d-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
