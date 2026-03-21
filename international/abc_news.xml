@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T16:01:00.146330</generated>
+  <generated>2026-03-21T18:01:01.007167</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump says he is considering 'winding down’ Iran military efforts</title>
+      <title>Iran live updates: Trump says he is considering 'winding down' Iran military efforts</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:41:09 -0400</pubDate>
+      <pubDate>Sat, 21 Mar 2026 11:37:57 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/donald-trump-8-ap-gmh-260319_1773938725150_hpMain_4x3t_384.jpg</image>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Rhode Island high school hockey team wins state title after deadly ice rink shooting</title>
-      <link>https://abcnews.com/video/131235157/</link>
-      <summary>David Muir reports on young hockey star Colin Dorgan – who lost his family in the deadly Rhode Island ice rink shooting – scoring a key goal in the game to help his team win in quadruple overtime.</summary>
-      <pubDate>Fri, 20 Mar 2026 06:47:53 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260319_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>DOJ asks judge to drop charges against 2 officers in Breonna Taylor case</title>
       <link>https://abcnews.com/US/doj-asks-judge-drop-charges-2-officers-breonna/story?id=131267706</link>
       <summary>The DOJ asked a court to drop charges against two former officers accused of providing false information on a search warrant that led to the 2020 Breonna Taylor raid.</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_abc_social_drones5_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Police: Man wielding a butcher knife at a Boston transit station arrested</title>
+      <link>https://abcnews.com/video/131266264/</link>
+      <summary>At least six people were injured and sent to the hospital.</summary>
+      <pubDate>Fri, 20 Mar 2026 20:46:38 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260320_wn_2ndblk_butcher_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
