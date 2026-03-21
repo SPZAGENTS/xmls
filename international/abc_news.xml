@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T00:03:12.916475</generated>
+  <generated>2026-03-21T02:11:15.455845</generated>
   <items>
+    <item>
+      <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
+      <link>https://abcnews.com/video/131254261/</link>
+      <summary>GasBuddy's head of petroleum analysis, Patrick De Haan, says price increases are becoming "far more problematic" every day the war in Iran continues.</summary>
+      <pubDate>Fri, 20 Mar 2026 18:00:13 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260320_abcnl_10a_gas_prices4_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Attacks on Middle East energy sites deepen threat to US economy, analysts say</title>
       <link>https://abcnews.com/Business/attacks-middle-east-energy-sites-deepen-threat-us/story?id=131213656</link>
@@ -23,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_1p_meteor_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Tons of aid flows into Cuba as humanitarian convoy arrives on the struggling island</title>
+      <link>https://abcnews.com/International/wireStory/tons-aid-flows-cuba-humanitarian-convoy-arrives-struggling-131270968</link>
+      <summary>Some 650 delegates from 33 countries and 120 organizations have started arriving in Cuba as part of a solidarity caravan transporting some 20 tons of humanitarian aid as the island grapples with a severe energy crisis</summary>
+      <pubDate>Fri, 20 Mar 2026 19:30:58 -0400</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0bafbd3bd16bee8cb77d06efc0f329fb_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -63,7 +85,7 @@
       <title>Senate once again fails to advance DHS funding bill</title>
       <link>https://abcnews.com/Politics/senate-fails-advance-dhs-funding-bill/story?id=131265330</link>
       <summary>A bipartisan group of lawmakers will meet with Border Czar Tom Homan Friday.</summary>
-      <pubDate>Fri, 20 Mar 2026 16:39:42 -0400</pubDate>
+      <pubDate>Fri, 20 Mar 2026 18:22:46 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/capitol-1-ap-gmh-260318_1773839726271_hpMain_4x3t_384.jpg</image>
@@ -82,17 +104,6 @@
       </media>
     </item>
     <item>
-      <title>Chuck Norris, action star and martial artist, dies at 86</title>
-      <link>https://abcnews.com/GMA/Culture/action-star-chuck-norris-dies-86/story?id=131251837</link>
-      <summary>His family announced his passing on Friday.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:21:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/chuck-norris-3-gty-jef-260320_1774015882495_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Ultimate Friday buzzer-beater</title>
       <link>https://abcnews.com/video/131247182/</link>
       <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Epstein investigation in UK asks for United States cooperation</title>
-      <link>https://abcnews.com/video/131207175/</link>
-      <summary>ABC’s Aaron Katersky sits down with the head of Scotland Yard, Sir Mark Rowley, for help with investigating former Prince Andrew.</summary>
-      <pubDate>Thu, 19 Mar 2026 07:36:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Nightline/260318_ntl_epstein_1256_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

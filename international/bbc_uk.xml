@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-21T00:03:02.258229</generated>
+  <generated>2026-03-21T02:11:06.366427</generated>
   <items>
     <item>
       <title>UK allows US to use bases to strike Strait of Hormuz targets</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/bf0a9fa0-2489-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian strikes on bases used by US caused $800m in damage, new analysis shows</title>
+      <link>https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.</summary>
+      <pubDate>Fri, 20 Mar 2026 22:34:05 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c59/live/abd41800-24aa-11f1-9e4f-af01f1e509c3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/487c/live/d2f0a120-2468-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Reform suspends Scotland candidate less than a day after he was announced</title>
-      <link>https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Scotland leader Malcolm Offord told BBC Radio Scotland that the party had "spent a lot of time on vetting" candidates</summary>
-      <pubDate>Fri, 20 Mar 2026 18:54:55 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d4f/live/d2520240-248b-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
