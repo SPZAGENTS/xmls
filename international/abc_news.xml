@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T20:02:15.831025</generated>
+  <generated>2026-03-21T22:01:03.869121</generated>
   <items>
     <item>
       <title>Iran live updates: Iran says its Natanz nuclear facility was targeted again</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Flash flood warning extended for Hawaii's Oahu Island over threat to Wahiawa Dam</title>
-      <link>https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065</link>
-      <summary>Dangerous flooding is impacting Hawaii's Oahu island, prompting evacuations and a warning from local officials of a possible dam collapse.</summary>
-      <pubDate>Sat, 21 Mar 2026 13:06:46 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/flooding-hawaii-gty-jt-260321_1774107654519_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Surfer speaks out after shark attack</title>
       <link>https://abcnews.com/GMA/News/shark-attack-survivor-speaks-after-bitten-legs-surfing/story?id=131247079</link>
       <summary>Jason Eastman was attacked by a shark and sustained bites in both legs while surfing off the coast of Big River Beach in Mendocino, California.</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_abc_social_drones5_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Robert Mueller, former FBI director and special counsel, dies at 81</title>
+      <link>https://abcnews.com/US/robert-mueller-former-fbi-director-special-counsel-dies/story?id=112685092</link>
+      <summary>Mueller was the second-longest serving FBI director in the agency's history.</summary>
+      <pubDate>Sat, 21 Mar 2026 15:55:53 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/GettyImages-81708297_1756694227734_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

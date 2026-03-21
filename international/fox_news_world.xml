@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-21T20:02:06.100763</generated>
+  <generated>2026-03-21T22:00:56.724947</generated>
   <items>
+    <item>
+      <title>Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say</title>
+      <link>https://www.foxnews.com/world/iranian-man-romanian-woman-charged-allegedly-trying-enter-uk-nuclear-missile-base-officials-say</link>
+      <summary>An Iranian man and Romanian woman have been charged after allegedly trying to enter HM Naval Base Clyde, the U.K.&amp;apos;s nuclear submarine base in Scotland.</summary>
+      <pubDate>Sat, 21 Mar 2026 14:35:00 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hmnb-clyde-4.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Families of Iran's elite live lavishly abroad while ordinary citizens suffer at home</title>
       <link>https://www.foxnews.com/world/families-irans-elite-live-lavishly-abroad-while-ordinary-citizens-suffer-home</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojtaba-khamenei-photo.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s hidden mountain nuclear site raises urgent threat, must be ‘neutralized': reports</title>
-      <link>https://www.foxnews.com/world/irans-hidden-mountain-nuclear-site-raises-urgent-threat-must-neutralized-reports</link>
-      <summary>Andrea Stricker warns the U.S. must neutralize Iran&amp;apos;s Pickaxe Mountain nuclear site and secure uranium stockpiles before ending combat operations.</summary>
-      <pubDate>Wed, 18 Mar 2026 19:31:03 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/pickaxe-mountain-site-iran.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
