@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T02:11:15.455845</generated>
+  <generated>2026-03-21T04:00:58.600670</generated>
   <items>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
@@ -34,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_1p_meteor_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Punch the monkey seen cuddling fellow monkey fans dub "girlfriend"</title>
+      <link>https://abcnews.com/video/131266199/</link>
+      <summary>After capturing hearts across the world with his affection towards a stuffed orangutan, Punch the monkey has been seen cuddling up with a fellow monkey in his enclosure.</summary>
+      <pubDate>Fri, 20 Mar 2026 21:02:21 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260320_wn_ender_punch_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Senate once again fails to advance DHS funding bill</title>
-      <link>https://abcnews.com/Politics/senate-fails-advance-dhs-funding-bill/story?id=131265330</link>
-      <summary>A bipartisan group of lawmakers will meet with Border Czar Tom Homan Friday.</summary>
-      <pubDate>Fri, 20 Mar 2026 18:22:46 -0400</pubDate>
+      <title>DOJ asks judge to drop charges against 2 officers in Breonna Taylor case</title>
+      <link>https://abcnews.com/US/doj-asks-judge-drop-charges-2-officers-breonna/story?id=131267706</link>
+      <summary>The DOJ asked a court to drop charges against two former officers accused of providing false information on a search warrant that led to the 2020 Breonna Taylor raid.</summary>
+      <pubDate>Fri, 20 Mar 2026 20:21:12 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/capitol-1-ap-gmh-260318_1773839726271_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/breonna-protest-gty-jt-200922_1600803430712_hpMain_1_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_abc_social_drones5_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Ultimate Friday buzzer-beater</title>
-      <link>https://abcnews.com/video/131247182/</link>
-      <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
-      <pubDate>Fri, 20 Mar 2026 11:42:25 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
