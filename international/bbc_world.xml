@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-21T04:00:50.441678</generated>
+  <generated>2026-03-21T06:00:50.200388</generated>
   <items>
     <item>
       <title>Iranian strikes on bases used by US caused $800m in damage, new analysis shows</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d2b/live/414b95e0-23c8-11f1-b050-bdbe6e966f25.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump makes Pearl Harbor remark in meeting with Japan's PM</title>
+      <link>https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two.</summary>
+      <pubDate>Fri, 20 Mar 2026 09:55:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb4/live/f4bc29e0-2428-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Trump makes Pearl Harbor remark in meeting with Japan's PM</title>
-      <link>https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two.</summary>
-      <pubDate>Fri, 20 Mar 2026 09:55:19 GMT</pubDate>
+      <title>'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes</title>
+      <link>https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.</summary>
+      <pubDate>Fri, 20 Mar 2026 00:04:34 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb4/live/f4bc29e0-2428-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russia, China and the US – the global winners and losers of the Iran war</title>
-      <link>https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit.</summary>
-      <pubDate>Fri, 20 Mar 2026 00:08:53 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/2eb11fa0-23c7-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6e4/live/fbf43f20-2439-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

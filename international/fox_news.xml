@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-21T04:00:51.022010</generated>
+  <generated>2026-03-21T06:00:50.761379</generated>
   <items>
+    <item>
+      <title>Kansas man charged in unprovoked park stabbing that left woman critically injured</title>
+      <link>https://www.foxnews.com/us/kansas-park-stabbing-olathe-attempted-murder</link>
+      <summary>A Kansas man faces attempted murder charges after allegedly stabbing a woman in what police called an unprovoked park attack in Olathe, Kansas.</summary>
+      <pubDate>Fri, 20 Mar 2026 23:43:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kansas-woman-stabbed-park-attack.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>'The View' argues whether Iran campaign is historic blunder like Iraq or will keep future Americans safe</title>
       <link>https://www.foxnews.com/media/the-view-argues-over-whether-iran-campaign-historic-blunder-like-iraq-keep-future-americans-safe</link>
@@ -45,17 +56,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/naturalized-citizen-terrorists-five.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australian prime minister heckled at mosque, called 'putrid dog' by protestors</title>
-      <link>https://www.foxnews.com/world/australian-pm-heckled-mosque-called-putrid-dog-protestors</link>
-      <summary>Australian Prime Minister Anthony Albanese faced a hostile reception at Sydney’s Lakemba Mosque as protesters label him a &amp;quot;genocide supporter&amp;quot; over the Gaza conflict.</summary>
-      <pubDate>Fri, 20 Mar 2026 17:04:29 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/anthony-albanese-australia-mosque.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

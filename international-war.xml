@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-21T04:01:01.639469</generated>
+  <generated>2026-03-21T06:01:01.372930</generated>
   <items>
     <item>
       <title>UK allows US to use bases to strike Strait of Hormuz targets</title>
@@ -46,6 +46,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb4/live/f4bc29e0-2428-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'UK facing new tax hikes' and 'My Ricky's last hug'</title>
+      <link>https://www.bbc.com/news/articles/cp3ldgyy7d9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iran war could lead to UK tax rises and boxer Ricky Hutton's death inquest leads Saturdays' papers.</summary>
+      <pubDate>Sat, 21 Mar 2026 02:07:06 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c09/live/a89d9cc0-24b8-11f1-b297-95b0a0a8331e.jpg</image>
       </media>
     </item>
     <item>
@@ -101,17 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png</image>
-      </media>
-    </item>
-    <item>
-      <title>Netanyahu says Israel 'acted alone' in attack on Iranian gas field</title>
-      <link>https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.</summary>
-      <pubDate>Thu, 19 Mar 2026 22:41:40 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg</image>
       </media>
     </item>
   </items>

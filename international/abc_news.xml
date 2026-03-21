@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T04:00:58.600670</generated>
+  <generated>2026-03-21T06:00:58.448611</generated>
   <items>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Tons of aid flows into Cuba as humanitarian convoy arrives on the struggling island</title>
-      <link>https://abcnews.com/International/wireStory/tons-aid-flows-cuba-humanitarian-convoy-arrives-struggling-131270968</link>
-      <summary>Some 650 delegates from 33 countries and 120 organizations have started arriving in Cuba as part of a solidarity caravan transporting some 20 tons of humanitarian aid as the island grapples with a severe energy crisis</summary>
-      <pubDate>Fri, 20 Mar 2026 19:30:58 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0bafbd3bd16bee8cb77d06efc0f329fb_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -67,6 +56,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Buffy The Vampire Slayer' star Nicholas Brendon dead at 54</title>
+      <link>https://abcnews.com/GMA/Culture/buffy-vampire-slayer-star-nicholas-brendon-dead-54/story?id=131274036</link>
+      <summary>Nicholas Brendon's family announced in a statement on social media that he "passed in his sleep of natural causes."</summary>
+      <pubDate>Fri, 20 Mar 2026 22:02:59 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/NICHOLAS1-GTY-AB-260320_1774057135096_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
