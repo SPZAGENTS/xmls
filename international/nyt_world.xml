@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-21T12:00:54.301022</generated>
+  <generated>2026-03-21T14:03:28.116046</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies</title>
+      <title>Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week</title>
       <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump</link>
-      <summary>The United States temporarily lifted sanctions on some Iranian oil in an effort to ease surging global oil prices.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:54:02 +0000</pubDate>
+      <summary>The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets.</summary>
+      <pubDate>Sat, 21 Mar 2026 11:12:55 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-promo-11111-fvzk/21mideast-promo-11111-fvzk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-promo-rtyhgfd-tjqf/21mideast-promo-rtyhgfd-tjqf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,39 +60,6 @@
       </media>
     </item>
     <item>
-      <title>A Diary of War From an Unlikely Author: the Son of Iran’s President</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html</link>
-      <summary>In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.</summary>
-      <pubDate>Fri, 20 Mar 2026 17:59:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-Pezeshkian-hwlm/20int-iran-Pezeshkian-hwlm-mediumSquareAt3X-v3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in Iran in Its Third Week</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html</link>
-      <summary>The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week.</summary>
-      <pubDate>Fri, 20 Mar 2026 21:58:54 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-front-by-front-gckt/20israel-iran-front-by-front-gckt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/us-iran-strait-hormuz.html</link>
-      <summary>The Israeli military said it had killed the spokesman for Iran’s Islamic Revolutionary Guards Corps, and Iran warned that it could target American and Israeli military personnel.</summary>
-      <pubDate>Fri, 20 Mar 2026 22:17:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-leadall-ctfp/20int-iran-leadall-ctfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump Signals Retreat From Goal of Regime Change in Iran</title>
       <link>https://www.nytimes.com/2026/03/20/world/middleeast/trump-winding-down-iran-war.html</link>
       <summary>In the first days of the U.S.-Israeli campaign against Iran, Mr. Trump pressed for a popular uprising against Tehran’s government.</summary>
@@ -104,13 +71,46 @@
       </media>
     </item>
     <item>
-      <title>Live Updates: BTS Takes the Stage After Nearly 4 Years</title>
+      <title>Live Updates: BTS’s Comeback Concert Is Heavy on Its New Album</title>
       <link>https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang</link>
-      <summary>K-pop’s biggest name will perform live in Seoul at 8 p.m. South Korea time (7 a.m. Eastern). The concert will be livestreamed by Netflix.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:55:41 +0000</pubDate>
+      <summary>But K-pop’s biggest name also played a few old hits like “Butter,” “Mic Drop” and “Dynamite.” The show is being livestreamed by Netflix.</summary>
+      <pubDate>Sat, 21 Mar 2026 11:58:33 +0000</pubDate>
       <priority>80</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21bts-live-promo-5a-ztkh/21bts-live-promo-5a-ztkh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Canada Shifts From Peacekeeping to Building a Strong Military</title>
+      <link>https://www.nytimes.com/2026/03/21/world/canada/carney-military-alliances-canada-trump.html</link>
+      <summary>Prime Minister Mark Carney’s latest global tour emphasized military cooperation rather than developing trade ties.</summary>
+      <pubDate>Sat, 21 Mar 2026 10:00:03 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/world/21canadaletter-tank/21canadaletter-tank-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Pauses Sanctions on Some Iranian Oil to Get More to Market</title>
+      <link>https://www.nytimes.com/2026/03/20/world/middleeast/us-sanctions-iran-oil.html</link>
+      <summary>Treasury Secretary Scott Bessent estimated that the move would add about 140 million barrels of crude to the oil market.</summary>
+      <pubDate>Sat, 21 Mar 2026 01:08:22 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-oil-sanctions-vqhf/20israel-iran-oil-sanctions-vqhf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>No Pills or Needles, Just Paper: How Deadly Drugs Are Changing</title>
+      <link>https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html</link>
+      <summary>Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:20 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/02/18/multimedia/int-drug-chicago-promo/int-drug-chicago-top-wpcg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

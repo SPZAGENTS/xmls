@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-21T12:01:02.640003</generated>
+  <generated>2026-03-21T14:03:37.533526</generated>
   <items>
     <item>
       <title>Iran war enters its fourth week with no clear end in sight</title>
@@ -16,13 +16,6 @@
       <link>https://www.npr.org/2026/03/20/nx-s1-5750826/how-the-iranian-diaspora-is-observing-nowruz-amid-war</link>
       <summary>Nowruz celebrates the arrival of spring and rebirth. But for many in the Iranian diaspora, this year is different. As the war continues, many are trying to balance the joy of the holiday with grief.</summary>
       <pubDate>Fri, 20 Mar 2026 16:13:10 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>How the Iran war threatens global food supply</title>
-      <link>https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply</link>
-      <summary>About a third of all fertilizer shipped globally passes through the Strait of Hormuz. Now shipping is all-but stopped through the Strait and this could have repercussions for the global food supply.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:35:21 -0400</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -47,18 +40,18 @@
       <priority>80</priority>
     </item>
     <item>
-      <title>Why is the 'Bachelorette' canceled? A guide to the Taylor Frankie Paul controversy</title>
-      <link>https://www.npr.org/2026/03/20/nx-s1-5754587/bachelorette-canceled-taylor-frankie-paul-mormon-wives</link>
-      <summary>Taylor Frankie Paul rose to fame on The Secret Lives of Mormon Wives, then filmed a season of The Bachelorette. But it won't air as planned because of resurfaced domestic violence allegations.</summary>
-      <pubDate>Fri, 20 Mar 2026 14:45:10 -0400</pubDate>
-      <priority>80</priority>
-    </item>
-    <item>
       <title>U.S. judge rules against Pentagon restrictions on press coverage</title>
       <link>https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit</link>
       <summary>The policy required media organizations to pledge not to gather information unless Defense officials formally authorized its release. A U.S. judge said the rules are at odds with the First Amendment.</summary>
       <pubDate>Fri, 20 Mar 2026 21:11:02 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>DHS shutdown hurts families' access to detention facilities, Democrat says</title>
+      <link>https://www.npr.org/2026/03/21/g-s1-114578/homeland-security-shutdown-oversight-detention</link>
+      <summary>The difficulties for families adds to the patchwork of complaints about immigration oversight and other issues while the department remains without government funding for five weeks.</summary>
+      <pubDate>Sat, 21 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Jury finds Elon Musk misled investors during Twitter purchase</title>
@@ -68,11 +61,18 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>The second death of Cesar Chavez and his legacy</title>
-      <link>https://www.npr.org/2026/03/20/nx-s1-5754964/cesar-chavez-sexual-assault-allegations-legacy</link>
-      <summary>Accusations of sexual abuse by the famed union leader and champion of farmworker rights Cesar Chavez broke his legacy and those who admired him.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:21:52 -0400</pubDate>
-      <priority>65</priority>
+      <title>Meet the Dutch art detective who tracks down stolen masterpieces</title>
+      <link>https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand</link>
+      <summary>For 20 years, Dutch art detective Arthur Brand has acted as an intermediary between the police and people who know where stolen artwork might be hiding. He says patience and trust are everything.</summary>
+      <pubDate>Sat, 21 Mar 2026 07:00:00 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>When health insurance costs $2,500 per month, families make tough choices</title>
+      <link>https://www.npr.org/2026/03/21/nx-s1-5735666/expensive-health-insurance-costs-affordability</link>
+      <summary>A self-employed couple already had to dip into retirement savings for health costs. Now, they are skipping vacations and canceling streaming to afford health insurance.</summary>
+      <pubDate>Sat, 21 Mar 2026 07:00:00 -0400</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
