@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-21T18:00:58.789750</generated>
+  <generated>2026-03-21T20:02:12.949975</generated>
   <items>
+    <item>
+      <title>Trump threatens to send ICE agents to airports amid TSA funding impasse</title>
+      <link>https://www.france24.com/en/americas/20260321-trump-threatens-to-send-ice-agents-to-airports-amid-tsa-funding-impasse</link>
+      <summary>President Donald Trump on Saturday warned he may deploy ICE agents to US airports if Congress fails to fund airport security. The move comes as TSA staff face a second missed paycheck in a 36-day partial government shutdown, raising fears of travel disruption. Critics question...</summary>
+      <pubDate>Sat, 21 Mar 2026 17:13:21 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/71013d92-2546-11f1-9585-005056bfb2b6/w:1024/p:16x9/be3d7f351031fd6e9b0934357ddf47627a7ed395.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>War in the Middle East: Israel launches fresh strikes on Beirut</title>
       <link>https://www.france24.com/en/war-in-the-middle-east-israel-launches-fresh-strikes-on-beirut</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/77c34e32-2509-11f1-95d6-005056a97e36/w:1024/p:16x9/EN-20260321-080412-080601-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>War in the Middle East: Syria's government vows to avoid regional escalation</title>
-      <link>https://www.france24.com/en/war-in-the-middle-east-syria-s-governement-vows-to-avoid-regional-escalation</link>
-      <summary>Syrian President Ahmed al- Sharaa said Friday he is working to keep his country away from conflict, against the backdrop of the Middle East war, stressing that his government is on good terms with all regional countries.</summary>
-      <pubDate>Sat, 21 Mar 2026 10:59:29 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/86cef754-250a-11f1-a6d7-005056bf30b7/w:1024/p:16x9/EN-20260321-080619-080757-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

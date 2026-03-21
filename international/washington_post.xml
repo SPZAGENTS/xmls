@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-21T18:00:53.525134</generated>
+  <generated>2026-03-21T20:02:07.444502</generated>
   <items>
     <item>
       <title>Trump administration lifts sanctions on millions of barrels of Iranian oil</title>
@@ -40,7 +40,14 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>BTS thrills K-pop fans with free comeback show for thousands in Seoul</title>
+      <title>Cuban oil crisis? Russian tanker could challenge U.S. blockade.</title>
+      <link>https://www.washingtonpost.com/world/2026/03/21/russia-tanker-cuba-oil/</link>
+      <summary>A Kremlin spokesman said the Russian government is discussing “possible options for assisting Cuba in the difficult situation it finds itself in.”</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>85</priority>
+    </item>
+    <item>
+      <title>K-pop stars BTS thrill Seoul with comeback concert after military service</title>
       <link>https://www.washingtonpost.com/world/2026/03/21/bts-arirang-kpop-seoul/</link>
       <summary>The South Korean megastars thrilled tens of thousands of fans with their first concert in nearly four years following a break for military service and solo careers.</summary>
       <pubDate>Sat, 21 Mar 2026 15:07:30 +0000</pubDate>
@@ -54,18 +61,11 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Cuba rejects U.S. Embassy request to bring in fuel, calls it ‘shameless’</title>
+      <title>Cuba rejects ‘shameless’ U.S. Embassy request to bring in fuel</title>
       <link>https://www.washingtonpost.com/world/2026/03/20/us-embassy-havana-cuba-fuel-blackout/</link>
       <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
       <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
       <priority>70</priority>
-    </item>
-    <item>
-      <title>Russian ship potentially bringing oil to Cuba is test of Kremlin allyship</title>
-      <link>https://www.washingtonpost.com/world/2026/03/21/russia-tanker-cuba-oil/</link>
-      <summary>A Kremlin spokesman said the Russian government is discussing “possible options for assisting Cuba in the difficult situation it finds itself in.”</summary>
-      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
-      <priority>65</priority>
     </item>
     <item>
       <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>
