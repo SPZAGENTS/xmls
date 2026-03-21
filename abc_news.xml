@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-20T22:05:02.454296</generated>
+  <generated>2026-03-21T00:03:12.916475</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump blasts NATO allies as 'COWARDS' over Strait of Hormuz</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:41:29 -0400</pubDate>
-      <priority>100</priority>
+      <title>Attacks on Middle East energy sites deepen threat to US economy, analysts say</title>
+      <link>https://abcnews.com/Business/attacks-middle-east-energy-sites-deepen-threat-us/story?id=131213656</link>
+      <summary>Tit-for-tat attacks on oil and gas sites across the Middle East in recent days have pushed up oil prices.</summary>
+      <pubDate>Fri, 20 Mar 2026 17:16:40 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-8-ap-gmh-260319_1773938725150_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Trump compares US strike on Iran to Pearl Harbor</title>
-      <link>https://abcnews.com/video/131230181/</link>
-      <summary>President Donald Trump on Thursday, seated next to Japanese Prime Minister Sanae Takaichi in the Oval Office, compared U.S. strikes against Iran to Japan's attack on Pearl Harbor during World War II.</summary>
-      <pubDate>Thu, 19 Mar 2026 21:05:28 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260319_abc_social_trump_pearl_harbor_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/bahrain-rt-jef-260320_1774027468708_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +60,24 @@
       </media>
     </item>
     <item>
-      <title>Dangerous flooding on Oahu prompts evacuations, warning of possible dam collapse</title>
-      <link>https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065</link>
-      <summary>Dangerous flooding is impacting Hawaii's Oahu island, prompting evacuations and a warning from local officials of a possible dam collapse.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:54:05 -0400</pubDate>
+      <title>Senate once again fails to advance DHS funding bill</title>
+      <link>https://abcnews.com/Politics/senate-fails-advance-dhs-funding-bill/story?id=131265330</link>
+      <summary>A bipartisan group of lawmakers will meet with Border Czar Tom Homan Friday.</summary>
+      <pubDate>Fri, 20 Mar 2026 16:39:42 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/hawaii-3-ht-er-260320_1774032552047_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/capitol-1-ap-gmh-260318_1773839726271_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: New details on drones over Air Force base</title>
+      <link>https://abcnews.com/video/131258732/</link>
+      <summary>A drone sighting that temporarily raised alarms at a U.S. Air Force airfield was more extensive than first reported, per a confidential internal briefing document reviewed by ABC News.</summary>
+      <pubDate>Fri, 20 Mar 2026 17:20:46 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260320_abc_social_drones5_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
