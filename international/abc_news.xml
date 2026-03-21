@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T06:00:58.448611</generated>
+  <generated>2026-03-21T08:01:47.371023</generated>
   <items>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>'Buffy The Vampire Slayer' star Nicholas Brendon dead at 54</title>
-      <link>https://abcnews.com/GMA/Culture/buffy-vampire-slayer-star-nicholas-brendon-dead-54/story?id=131274036</link>
-      <summary>Nicholas Brendon's family announced in a statement on social media that he "passed in his sleep of natural causes."</summary>
-      <pubDate>Fri, 20 Mar 2026 22:02:59 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/NICHOLAS1-GTY-AB-260320_1774057135096_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: New York State trooper involved in chain reaction crash during traffic stop</title>
       <link>https://abcnews.com/video/131235515/</link>
       <summary>The trooper in Mamaroneck was injured during a traffic stop when a SUV slammed into his patrol car, pushing it into another vehicle and hitting him. The incident is under investigation.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/breonna-protest-gty-jt-200922_1600803430712_hpMain_1_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Surfer speaks out after shark attack</title>
+      <link>https://abcnews.com/GMA/News/shark-attack-survivor-speaks-after-bitten-legs-surfing/story?id=131247079</link>
+      <summary>Jason Eastman was attacked by a shark and sustained bites in both legs while surfing off the coast of Big River Beach in Mendocino, California.</summary>
+      <pubDate>Fri, 20 Mar 2026 11:21:39 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/jason-eastman-abc-jef-260320_1774009693097_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

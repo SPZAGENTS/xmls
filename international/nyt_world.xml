@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-21T06:00:53.594557</generated>
+  <generated>2026-03-21T08:01:42.773315</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Says U.S. Is Considering ‘Winding Down’ War</title>
+      <title>A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.</title>
+      <link>https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html</link>
+      <summary>The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.</summary>
+      <pubDate>Sat, 21 Mar 2026 04:00:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20INT-SRILANKA-HOLIDAY-01-gfjq/20INT-SRILANKA-HOLIDAY-01-gfjq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Says U.S. Is Considering ‘Winding Down’ Iran War</title>
       <link>https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump</link>
       <summary>The president made the comment on social media a short time after telling reporters on the White House lawn that he wasn’t interested in a cease-fire because the U.S. was “obliterating the other side.” The Treasury Department lifted sanctions on some Iranian oil.</summary>
-      <pubDate>Sat, 21 Mar 2026 03:16:35 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2026 05:52:38 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-live-promo-8pm-pmhv/20israel-iran-live-promo-8pm-pmhv-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20takaichi-trump-assess-03-qhlp/20takaichi-trump-assess-03-qhlp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in Iran in Its Third Week</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html</link>
-      <summary>The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week.</summary>
-      <pubDate>Fri, 20 Mar 2026 21:58:54 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-front-by-front-gckt/20israel-iran-front-by-front-gckt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
