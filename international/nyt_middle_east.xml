@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-21T10:00:57.663134</generated>
+  <generated>2026-03-21T12:00:54.881153</generated>
   <items>
+    <item>
+      <title>What to Know About Electric Cars When Gas Prices Are Surging</title>
+      <link>https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html</link>
+      <summary>War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”</summary>
+      <pubDate>Sat, 21 Mar 2026 09:01:39 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21biz-iran-ev-guide-qbzp/21biz-iran-ev-guide-qbzp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in Iran in Its Third Week</title>
       <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/world/20israel-iran-eid-top-art-promo/20israel-iran-eid-top-art-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Diary of War From an Unlikely Author: the Son of Iran’s President</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html</link>
-      <summary>In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.</summary>
-      <pubDate>Fri, 20 Mar 2026 17:59:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-Pezeshkian-hwlm/20int-iran-Pezeshkian-hwlm-mediumSquareAt3X-v3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

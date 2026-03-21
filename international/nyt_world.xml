@@ -2,8 +2,41 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-21T10:00:57.046332</generated>
+  <generated>2026-03-21T12:00:54.301022</generated>
   <items>
+    <item>
+      <title>Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies</title>
+      <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump</link>
+      <summary>The United States temporarily lifted sanctions on some Iranian oil in an effort to ease surging global oil prices.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:54:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-promo-11111-fvzk/21mideast-promo-11111-fvzk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks</title>
+      <link>https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html</link>
+      <summary>The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:01:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-ukraine-talks-vhtg/21int-ukraine-talks-vhtg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo</title>
+      <link>https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html</link>
+      <summary>Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:08:44 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-srilanka-iran-vlkc/21int-srilanka-iran-vlkc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.</title>
       <link>https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html</link>
@@ -12,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20INT-SRILANKA-HOLIDAY-01-gfjq/20INT-SRILANKA-HOLIDAY-01-gfjq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Says U.S. Is Considering ‘Winding Down’ Iran War</title>
-      <link>https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump</link>
-      <summary>The president made the comment on social media a short time after telling reporters on the White House lawn that he wasn’t interested in a cease-fire because the U.S. was “obliterating the other side.” The Treasury Department lifted sanctions on some Iranian oil.</summary>
-      <pubDate>Sat, 21 Mar 2026 05:52:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-live-promo-8pm-pmhv/20israel-iran-live-promo-8pm-pmhv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,68 +71,46 @@
       </media>
     </item>
     <item>
-      <title>U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes</title>
-      <link>https://www.nytimes.com/2026/03/20/world/asia/sri-lanka-iran-war-ships-aircraft.html</link>
-      <summary>Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran.</summary>
-      <pubDate>Fri, 20 Mar 2026 09:34:53 +0000</pubDate>
+      <title>Here’s What Happened in the War in Iran in Its Third Week</title>
+      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html</link>
+      <summary>The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week.</summary>
+      <pubDate>Fri, 20 Mar 2026 21:58:54 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19-srilanka-us-kblw/19-srilanka-us-kblw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-front-by-front-gckt/20israel-iran-front-by-front-gckt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Hamas Considering Disarmament Plan From Trump’s Board of Peace, Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/hamas-disarming-plan-board-of-peace-trump.html</link>
-      <summary>The proposal envisions a phased process, in which the militant group would hand over its weapons and Israeli troops would withdraw. Hamas is expected to respond in the coming days.</summary>
-      <pubDate>Fri, 20 Mar 2026 18:10:57 +0000</pubDate>
+      <title>U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/20/world/middleeast/us-iran-strait-hormuz.html</link>
+      <summary>The Israeli military said it had killed the spokesman for Iran’s Islamic Revolutionary Guards Corps, and Iran warned that it could target American and Israeli military personnel.</summary>
+      <pubDate>Fri, 20 Mar 2026 22:17:33 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-gaza-plan-hfmp/20int-gaza-plan-hfmp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-leadall-ctfp/20int-iran-leadall-ctfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland</title>
-      <link>https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html</link>
-      <summary>The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.</summary>
-      <pubDate>Fri, 20 Mar 2026 19:09:17 +0000</pubDate>
-      <priority>100</priority>
+      <title>Trump Signals Retreat From Goal of Regime Change in Iran</title>
+      <link>https://www.nytimes.com/2026/03/20/world/middleeast/trump-winding-down-iran-war.html</link>
+      <summary>In the first days of the U.S.-Israeli campaign against Iran, Mr. Trump pressed for a popular uprising against Tehran’s government.</summary>
+      <pubDate>Sat, 21 Mar 2026 01:17:12 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-denmark-plans-1-qflb/20int-denmark-plans-1-qflb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-trump-statement-pjzv/20israel-iran-trump-statement-pjzv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices</title>
-      <link>https://www.nytimes.com/2026/03/20/world/asia/iran-war-oil-thailand-vietnam-philippines.html</link>
-      <summary>Across Southeast Asia, a region heavily dependent on energy exports brought via the Strait of Hormuz, lives are being upended by higher oil and gas prices.</summary>
-      <pubDate>Fri, 20 Mar 2026 18:52:25 +0000</pubDate>
-      <priority>100</priority>
+      <title>Live Updates: BTS Takes the Stage After Nearly 4 Years</title>
+      <link>https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang</link>
+      <summary>K-pop’s biggest name will perform live in Seoul at 8 p.m. South Korea time (7 a.m. Eastern). The concert will be livestreamed by Netflix.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:55:41 +0000</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-seasia-oil-01-kgtv/20int-seasia-oil-01-kgtv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran War Underscores the Diverging Aims of Trump and Netanyahu</title>
-      <link>https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html</link>
-      <summary>The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths are diverging.</summary>
-      <pubDate>Fri, 20 Mar 2026 16:56:35 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/world/20int-iran-divergence-analysis-anu/20int-iran-divergence-analysis-anu-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Using Charm and Restraint, Japan’s Leader Mostly Avoids Trump’s Wrath</title>
-      <link>https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html</link>
-      <summary>During her first visit to the White House, Prime Minister Sanae Takaichi drew praise from President Trump. But the war in the Middle East will test their relationship.</summary>
-      <pubDate>Fri, 20 Mar 2026 04:01:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20takaichi-trump-assess-03-qhlp/20takaichi-trump-assess-03-qhlp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21bts-live-promo-5a-ztkh/21bts-live-promo-5a-ztkh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

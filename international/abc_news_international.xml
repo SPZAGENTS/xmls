@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-21T10:01:03.290686</generated>
+  <generated>2026-03-21T12:01:00.709043</generated>
   <items>
     <item>
       <title>The war in Iran raises pressure on Ukraine while Russia prepares new offensives</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian strike on Zaporizhzhia kills 2 as Ukraine seeks to move forward peace talks</title>
+      <link>https://abcnews.com/International/wireStory/russian-strike-zaporizhzhia-kills-2-ukraine-seeks-move-131279633</link>
+      <summary>A Russian drone strike on the Ukrainian city of Zaporizhzhia killed at least two people and wounded two children Saturday, a regional official said, as a Ukrainian delegation headed to the United States for talks aimed at restarting stalled peace negot...</summary>
+      <pubDate>Sat, 21 Mar 2026 05:41:21 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_861a4bc4ebccd55aa00715917d060036_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a06a3ed3acfcaad0a200931768b302db_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rio police pull 4 officers from street duty in a probe into a deadly raid</title>
-      <link>https://abcnews.com/International/wireStory/rio-police-pull-4-officers-street-duty-probe-131257575</link>
-      <summary>Authorities say that four Brazilian police officers have been removed from street duty in an investigation into their involvement in a deadly raid in a low-income part of Rio de Janeiro</summary>
-      <pubDate>Fri, 20 Mar 2026 11:49:08 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_2e101f155b9dacf6ba0876477a7e9aa5_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

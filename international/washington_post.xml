@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-21T10:00:55.452322</generated>
+  <generated>2026-03-21T12:00:53.097458</generated>
   <items>
     <item>
       <title>Trump administration lifts sanctions on millions of barrels of Iranian oil</title>
@@ -33,13 +33,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Economic fallout from U.S.-led war is hitting the rest of the world harder</title>
-      <link>https://www.washingtonpost.com/world/2026/03/19/iran-war-global-economic-impact/</link>
-      <summary>Because of greater exposure to disruptions in the Middle East, such as high natural gas prices, businesses and consumers outside the U.S. are being hit harder by the war in Iran.</summary>
-      <pubDate>Thu, 19 Mar 2026 09:09:17 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>U.S.-Israeli rift widens over potential endgame in Iran</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/</link>
       <summary>Israel’s assault on the world’s largest natural gas deposit has renewed tensions between the two allies’ end goals in Iran.</summary>
@@ -52,6 +45,20 @@
       <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
       <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
       <priority>70</priority>
+    </item>
+    <item>
+      <title>Russian ship potentially bringing oil to Cuba is test of Kremlin allyship</title>
+      <link>https://www.washingtonpost.com/world/2026/03/21/russia-tanker-cuba-oil/</link>
+      <summary>A Kremlin spokesman said the Russian government is discussing “possible options for assisting Cuba in the difficult situation it finds itself in.”</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>
+      <link>https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/</link>
+      <summary>To aid Hungarian Prime Minister Viktor Orban, a friend of Russia, in his election, operatives proposed “the Gamechanger” — a staged assassination attempt to stir supporters.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
