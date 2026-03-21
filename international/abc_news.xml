@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T22:01:03.869121</generated>
+  <generated>2026-03-22T00:01:00.564824</generated>
   <items>
-    <item>
-      <title>Iran live updates: Iran says its Natanz nuclear facility was targeted again</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
-      <pubDate>Sat, 21 Mar 2026 12:59:49 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/iran-2-rt-gmh-260303_1772544258816_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
       <link>https://abcnews.com/video/131254261/</link>
@@ -104,10 +93,21 @@
       </media>
     </item>
     <item>
+      <title>Trump threatens to put ICE agents in airports starting Monday amid DHS shutdown</title>
+      <link>https://abcnews.com/Politics/trump-threatens-put-ice-agents-airports-starting-monday/story?id=131285519</link>
+      <summary>President Trump threatened to deploy ICE agents to U.S. airports starting Monday if Democrats don’t agree to a funding package to end the DHS shutdown.</summary>
+      <pubDate>Sat, 21 Mar 2026 16:16:16 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-14-rgtygmh-260320_1774038626998_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Robert Mueller, former FBI director and special counsel, dies at 81</title>
       <link>https://abcnews.com/US/robert-mueller-former-fbi-director-special-counsel-dies/story?id=112685092</link>
       <summary>Mueller was the second-longest serving FBI director in the agency's history.</summary>
-      <pubDate>Sat, 21 Mar 2026 15:55:53 -0400</pubDate>
+      <pubDate>Sat, 21 Mar 2026 16:57:54 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/GettyImages-81708297_1756694227734_hpMain_4x3t_384.jpg</image>

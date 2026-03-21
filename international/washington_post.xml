@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-21T22:00:58.461330</generated>
+  <generated>2026-03-22T00:00:54.973628</generated>
   <items>
+    <item>
+      <title>IAEA looking into Iran’s report that Natanz nuclear site hit in strikes</title>
+      <link>https://www.washingtonpost.com/world/2026/03/21/iran-us-war-israel-nuclear-executions/</link>
+      <summary>Human rights organizations say they fear Iran will carry out mass executions after the public hangings this week of three men who took place in anti-government protests.</summary>
+      <pubDate>Sat, 21 Mar 2026 20:29:15 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump administration lifts sanctions on millions of barrels of Iranian oil</title>
       <link>https://www.washingtonpost.com/business/2026/03/20/iran-oil-sanctions-trump/</link>
@@ -66,13 +73,6 @@
       <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
       <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
       <priority>70</priority>
-    </item>
-    <item>
-      <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>
-      <link>https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/</link>
-      <summary>To aid Hungarian Prime Minister Viktor Orban, a friend of Russia, in his election, operatives proposed “the Gamechanger” — a staged assassination attempt to stir supporters.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>

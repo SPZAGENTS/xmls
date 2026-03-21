@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-21T22:00:56.140852</generated>
+  <generated>2026-03-22T00:00:52.898417</generated>
   <items>
+    <item>
+      <title>FDNY turns to March Madness to deliver warning on illegal hydrant parking in New York</title>
+      <link>https://www.foxnews.com/sports/fdny-turns-march-madness-deliver-warning-illegal-hydrant-parking-new-york</link>
+      <summary>As March Madness excitement builds, the FDNY reminded New Yorkers not to park illegally at fire hydrants. Cars parked too close to a hydrant can cause critical delays.</summary>
+      <pubDate>Sat, 21 Mar 2026 16:50:37 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fdny-fire-truck.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say</title>
       <link>https://www.foxnews.com/world/iranian-man-romanian-woman-charged-allegedly-trying-enter-uk-nuclear-missile-base-officials-say</link>
@@ -27,24 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Thune, GOP blast Dems in DHS standoff as Lankford says they fear ICE over Iran</title>
-      <link>https://www.foxnews.com/politics/thune-gop-blast-dems-dhs-standoff-lankford-says-fear-ice-over-iran</link>
-      <summary>Sen. James Lankford, R-Okla., accused Senate Democrats of being afraid of ICE than Iran as the DHS shutdown hit its 36th day, as Republicans again offered another compromise deal to reopen.</summary>
-      <pubDate>Sat, 21 Mar 2026 14:25:46 -0400</pubDate>
-      <priority>100</priority>
+      <title>Florida woman seen on video allegedly attacking pregnant driver, elderly bystander and biting police officer</title>
+      <link>https://www.foxnews.com/us/florida-woman-video-allegedly-attacking-pregnant-driver-elderly-bystander-biting-police-officer</link>
+      <summary>An Orlando woman is accused of punching a pregnant woman during a road rage dispute near the Mall of Millenia, then allegedly biting a police officer.</summary>
+      <pubDate>Sat, 21 Mar 2026 16:39:01 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senate-majority-leader-john-thune-dhs.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oscars 'didn't care' enough about ICE, Iran politics, Hollywood Reporter laments</title>
-      <link>https://www.foxnews.com/media/oscars-didnt-care-enough-about-ice-iran-politics-hollywood-reporter-laments</link>
-      <summary>Hollywood Reporter&amp;apos;s Steven Zeitchik accused celebrities of not caring enough to bring up more political issues during the Academy Awards Sunday night.</summary>
-      <pubDate>Sat, 21 Mar 2026 14:00:10 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/conan-obrien-oscars.jpg?ve=1&amp;tl=1</image>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/woman-attempts-to-bite-an-officer.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>Rob Lowe rips 'Disneyfication' of young Hollywood: 'No resemblance to anything truthful'</title>
+      <link>https://www.foxnews.com/entertainment/rob-lowe-rips-disneyfication-young-hollywood-no-resemblance-anything-truthful</link>
+      <summary>On his podcast, Rob Lowe argues young Hollywood performers show no resemblance to anything truthful or recognizable on screen.</summary>
+      <pubDate>Sat, 21 Mar 2026 17:06:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rob-lowe.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Prosecutors say they found 'drug transactions' after Alabama player's arrest, searched his trash: report</title>
+      <link>https://www.foxnews.com/sports/prosecutors-say-found-drug-transactions-after-alabama-players-arrest-searched-his-trash-report</link>
+      <summary>Prosecutors allege Alabama guard Aden Holloway had 2.1 pounds of marijuana and drug transaction texts on his phone, according to a report.</summary>
+      <pubDate>Sat, 21 Mar 2026 17:02:31 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/aden-holloway-32126.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>UCF center scores on own basket in crushing blunder during team's first round loss to UCLA</title>
       <link>https://www.foxnews.com/sports/ucf-center-scores-own-basket-crushing-blunder-during-teams-first-round-loss-ucla</link>
       <summary>UCLA beat UCF 75-71, aided by UCF&amp;apos;s John Bol accidentally scoring on his own basket. They advanced to face UConn in the Round of 32.</summary>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tigers-max-clark-looks-on-pirates.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Giants' Cam Skattebo claims CTE is not real and believes asthma is 'fake': 'It's an excuse'</title>
-      <link>https://www.foxnews.com/sports/giants-cam-skattebo-claims-cte-not-real-believes-asthma-fake-its-excuse</link>
-      <summary>New York Giants running back Cam Skattebo, known for his hard-nosed style, said CTE is not real, but rather, &amp;quot;an excuse,&amp;quot; while adding asthma is &amp;quot;fake.&amp;quot;</summary>
-      <pubDate>Sat, 21 Mar 2026 15:19:05 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/nfl-giants-cam-skattebo-100925-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>March Madness perfect bracket count drops to just over 200 out of 36 million after opening round</title>
-      <link>https://www.foxnews.com/sports/march-madness-perfect-bracket-count-drops-200-36-million-opening-round</link>
-      <summary>Kentucky&amp;apos;s overtime win over Santa Clara was the biggest March Madness bracket buster of Friday, leaving just 224 perfect brackets heading into the second round.</summary>
-      <pubDate>Sat, 21 Mar 2026 15:09:47 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/march-madness-bracket-bust-day-2-001.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
