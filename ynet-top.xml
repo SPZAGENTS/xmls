@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-21T02:10:32.393844</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-21T04:03:08.713693</last-updated>
+  <article-count>10</article-count>
   <items>
+    <item>
+      <title>IDF strikes Hezbollah targets in Beirut as constant rocket fire hits northern Israel</title>
+      <link>https://www.ynetnews.com/article/sybbjoj911e</link>
+      <description>Ahead of the strikes, the IDF issued an urgent evacuation warning to residents in several neighborhoods in Beirut’s southern suburbs</description>
+      <pubDate>Sat, 21 Mar 2026 03:08:25 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>145</priority-score>
+    </item>
     <item>
       <title>Netanyahu says Iran can no longer enrich uranium or manufacture ballistic missiles</title>
       <link>https://www.ynetnews.com/article/s15gb6y5bg</link>
-      <summary>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</summary>
+      <description>Netanyahu said Israel would hold off on any further attacks on Iran’s giant South Pars natural gas field at Trump’s request, following earlier strikes that heightened tensions in global energy markets</description>
       <pubDate>Thu, 19 Mar 2026 20:49:24 +03:00</pubDate>
-      <priority>145</priority>
+      <source>ynet-news-english</source>
+      <priority-score>145</priority-score>
     </item>
     <item>
       <title>Missile strike lands near Temple Mount as Iran targets Jerusalem; Trump blasts NATO as ‘paper tiger’</title>
       <link>https://www.ynetnews.com/article/hkxyu0c5we</link>
-      <summary>Missile strikes 350 meters from Al-Aqsa hours after unprecedented Eid al-Fitr closure; no injuries reported; US President Trump accuses allies of refusing to confront Iran and secure Hormuz Strait</summary>
+      <description>Missile strikes 350 meters from Al-Aqsa hours after unprecedented Eid al-Fitr closure; no injuries reported; US President Trump accuses allies of refusing to confront Iran and secure Hormuz Strait</description>
       <pubDate>Fri, 20 Mar 2026 16:28:29 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>IRGC spokesman who threatened Trump killed in alleged US-Israeli strike</title>
       <link>https://www.ynetnews.com/article/hya56t55bl</link>
-      <summary>Iranian report says IRGC spokesman Ali Mohammad Naini and his deputy were killed in a US-Israeli strike, days after he warned Trump to send warships to the Gulf 'if he has the courage'</summary>
+      <description>Iranian report says IRGC spokesman Ali Mohammad Naini and his deputy were killed in a US-Israeli strike, days after he warned Trump to send warships to the Gulf 'if he has the courage'</description>
       <pubDate>Fri, 20 Mar 2026 11:38:57 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>Israel strikes Tehran as Iran launches missiles toward north</title>
       <link>https://www.ynetnews.com/article/syuqgecczx</link>
-      <summary>Air defenses activated across Gulf states as Iranian launches trigger sirens in Haifa and beyond; alerts issued only for Golan and front-line areas, raising questions after no prior warning in several northern communities</summary>
+      <description>Air defenses activated across Gulf states as Iranian launches trigger sirens in Haifa and beyond; alerts issued only for Golan and front-line areas, raising questions after no prior warning in several northern communities</description>
       <pubDate>Fri, 20 Mar 2026 04:48:05 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>How Saudis missed a chance to bypass Iran's Hormuz choke point and export oil via Israel</title>
       <link>https://www.ynetnews.com/article/h1ti5bj9bx</link>
-      <summary>Netanyahu revives proposal to route Gulf oil through Israel to Europe, sidestepping Iranian threats; plan first floated in Trump era resurfaces amid war, but Riyadh responds coolly despite potential to reshape global energy routes</summary>
+      <description>Netanyahu revives proposal to route Gulf oil through Israel to Europe, sidestepping Iranian threats; plan first floated in Trump era resurfaces amid war, but Riyadh responds coolly despite potential to reshape global energy routes</description>
       <pubDate>Fri, 20 Mar 2026 20:20:09 +03:00</pubDate>
-      <priority>125</priority>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>Iran’s tweeting hardliner mocks Trump as his name surfaces for top role</title>
       <link>https://www.ynetnews.com/article/byuw2r9qwe</link>
-      <summary>Mohammad Bagher Ghalibaf has used social media to taunt the US and Israel and project strength during the war; after Ali Larijani’s killing, he is now being mentioned as a possible successor in Iran’s leadership</summary>
+      <description>Mohammad Bagher Ghalibaf has used social media to taunt the US and Israel and project strength during the war; after Ali Larijani’s killing, he is now being mentioned as a possible successor in Iran’s leadership</description>
       <pubDate>Fri, 20 Mar 2026 06:41:04 +03:00</pubDate>
-      <priority>125</priority>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>Trump says US near Iran war goals, signals winding down of military operations</title>
       <link>https://www.ynetnews.com/article/hjuvt7j5wx</link>
-      <summary>President outlines aims to destroy Iran’s missile, naval and air capabilities, prevent nuclear progress and protect allies as campaign nears potential end</summary>
+      <description>President outlines aims to destroy Iran’s missile, naval and air capabilities, prevent nuclear progress and protect allies as campaign nears potential end</description>
       <pubDate>Sat, 21 Mar 2026 00:08:44 +03:00</pubDate>
-      <priority>120</priority>
+      <source>ynet-news-english</source>
+      <priority-score>120</priority-score>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>Eighth attack since morning: Iranian missiles target central and north Israel, home in Rehovot catches fire</title>
       <link>https://www.ynetnews.com/article/rj4n935qzl</link>
-      <summary>Six alerts in central Israel, one in the Negev, plus simultaneous noon sirens in center and north; two homes hit in Rehovot with no injuries; two lightly hurt elsewhere, 70-year-old woman moderately hurt</summary>
+      <description>Six alerts in central Israel, one in the Negev, plus simultaneous noon sirens in center and north; two homes hit in Rehovot with no injuries; two lightly hurt elsewhere, 70-year-old woman moderately hurt</description>
       <pubDate>Fri, 20 Mar 2026 14:28:45 +03:00</pubDate>
-      <priority>115</priority>
-    </item>
-    <item>
-      <title>Rocket fire targets central Israel as IDF strikes Syrian regime military sites</title>
-      <link>https://www.ynetnews.com/article/rkftod55we</link>
-      <summary>After hours of calm, sirens sounded twice in central Israel within 30 minutes; a missile from Iran landed in an open area with no injuries; IDF struck sites in southern Syria</summary>
-      <pubDate>Fri, 20 Mar 2026 09:45:34 +03:00</pubDate>
-      <priority>115</priority>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
