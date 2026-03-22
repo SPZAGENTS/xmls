@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T00:00:56.355160</generated>
+  <generated>2026-03-22T02:01:00.592727</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
+      <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html</link>
+      <summary>An Iranian missile wounded dozens in Dimona, a city believed to house Israel’s nuclear weapons program, as Iran showed no signs of backing down.</summary>
+      <pubDate>Sat, 21 Mar 2026 23:18:06 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-front-by-front-vmgk/21israel-iran-front-by-front-vmgk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian missile strikes Israeli city near main nuclear research facility.</title>
+      <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/iranian-missile-strikes-israeli-city-near-main-nuclear-research-facility</link>
+      <summary />
+      <pubDate>Sat, 21 Mar 2026 22:36:24 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-dimona-strike-fmgp/21israel-iran-dimona-strike-fmgp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>With Fire and Song, Kurds in Turkey Hail the Start of Spring</title>
       <link>https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-swiss-us-topart-tvmc/20israel-iran-swiss-us-topart-tvmc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.K. Allows U.S. to Use Bases to Hit Iranian Forces Menacing Strait Traffic</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/uk-bases-us-iran.html</link>
-      <summary>Prime Minister Keir Starmer has vowed not to be dragged into the war with Iran, but his government described its new position as essentially defensive.</summary>
-      <pubDate>Fri, 20 Mar 2026 20:47:25 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-uk-bases-topart-vqbp/20israel-iran-uk-bases-topart-vqbp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s New Supreme Leader Issues a Statement but Remains Unseen</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/supreme-leader-statement.html</link>
-      <summary>Ayatollah Mojtaba Khamenei has remained out of the public’s sight since assuming the post, amid reports that he was badly wounded.</summary>
-      <pubDate>Fri, 20 Mar 2026 18:59:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-mojtaba-statement-topart-jmpv/20israel-iran-mojtaba-statement-topart-jmpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

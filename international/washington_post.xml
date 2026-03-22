@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-22T00:00:54.973628</generated>
+  <generated>2026-03-22T02:00:59.101387</generated>
   <items>
     <item>
       <title>IAEA looking into Iran’s report that Natanz nuclear site hit in strikes</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Iran hits Gulf energy sites, escalating war, as U.S. mulls sanctions rollback</title>
-      <link>https://www.washingtonpost.com/world/2026/03/19/us-iran-war-trump-gas-prices-qatar/</link>
-      <summary>As attacks rattled markets, Treasury Secretary Scott Bessent said the Trump administration might lift restrictions on Iranian oil already loaded onto vessels.</summary>
-      <pubDate>Thu, 19 Mar 2026 23:03:32 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Cuban oil crisis? Russian tanker could challenge U.S. blockade.</title>
       <link>https://www.washingtonpost.com/world/2026/03/21/russia-tanker-cuba-oil/</link>
       <summary>A Kremlin spokesman said the Russian government is discussing “possible options for assisting Cuba in the difficult situation it finds itself in.”</summary>
@@ -73,6 +66,13 @@
       <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
       <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
       <priority>70</priority>
+    </item>
+    <item>
+      <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>
+      <link>https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/</link>
+      <summary>To aid Hungarian Prime Minister Viktor Orban, a friend of Russia, in his election, operatives proposed “the Gamechanger” — a staged assassination attempt to stir supporters.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
