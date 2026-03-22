@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-22T18:03:41.231493</generated>
+  <generated>2026-03-22T20:01:58.319990</generated>
   <items>
+    <item>
+      <title>Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers</title>
+      <link>https://www.foxnews.com/world/analysts-say-gaza-civilian-deaths-include-hamas-other-terror-members-working-medics-media-workers</link>
+      <summary>Researchers say Hamas and PIJ martyr lists reveal Gaza terrorists who posed as doctors, nurses and journalists, clouding civilian casualty figures.</summary>
+      <pubDate>Sun, 22 Mar 2026 13:18:37 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/hamas2.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say</title>
       <link>https://www.foxnews.com/world/trump-proven-right-irans-long-range-missile-capability-regime-targets-us-uk-base-experts-say</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mark-schwartz-mojtaba-khamenei.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>12 Arab and Islamic countries unite to condemn 'heinous' Iranian attacks</title>
-      <link>https://www.foxnews.com/world/12-arab-islamic-countries-unite-condemn-heinous-iranian-attacks</link>
-      <summary>A coalition of 12 Arab and Islamic countries denounces Iran’s attacks on civilian infrastructure, urges restraint and warns of risks to regional security.</summary>
-      <pubDate>Thu, 19 Mar 2026 08:31:12 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/saudi-arabia-foreign-minister-iran-war.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

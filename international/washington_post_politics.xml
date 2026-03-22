@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-22T18:03:43.130259</generated>
+  <generated>2026-03-22T20:01:59.680049</generated>
   <items>
+    <item>
+      <title>Joe Kent says he wants Trump to hear MAGA opposition to Iran war</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/22/joe-kent-iran-war-trump/</link>
+      <summary>In an interview with The Post after resigning from the administration in protest, the veteran said he is taking his message to the president’s supporters.</summary>
+      <pubDate>Sun, 22 Mar 2026 17:51:18 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump signals U.S. may leave allies to manage Iran fallout</title>
       <link>https://www.washingtonpost.com/politics/2026/03/20/trump-us-allies-iran-fallout/</link>
@@ -35,8 +42,8 @@
     <item>
       <title>Trump says he will deploy ICE to airports as TSA shortages drive delays</title>
       <link>https://www.washingtonpost.com/politics/2026/03/21/trump-threatens-deploy-ice-airports-tsa-shortages-drive-delays/</link>
-      <summary>Spring break travel is straining airports as rising absences and resignations among unpaid TSA officers stretch security over a month into the funding standoff.</summary>
-      <pubDate>Sun, 22 Mar 2026 13:35:59 +0000</pubDate>
+      <summary>Border czar Tom Homan said ICE agents will be at airports to help TSA agents, but he does not expect they will do specialized tasks, such as X-ray screening.</summary>
+      <pubDate>Sun, 22 Mar 2026 16:05:55 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/21/underground-railroad-trump-lawsuit-funding/</link>
       <summary>The founders of an Underground Railroad history site in Albany, New York, claim the Trump administration’s funding cuts were aimed at marginalizing Black history.</summary>
       <pubDate>Sat, 21 Mar 2026 10:00:44 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>House Republicans subpoena prosecutor for records tied to Stephen Miller protester</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/20/jim-jordan-stephen-miller-prosecutor/</link>
-      <summary>The demand comes after Rep. Jim Jordan, chairman of the House Judiciary Committee, opened an inquiry into Parisa Dehghani-Tafti, Arlington County’s lead prosecutor.</summary>
-      <pubDate>Fri, 20 Mar 2026 22:09:17 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

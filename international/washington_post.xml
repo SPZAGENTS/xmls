@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-22T18:03:42.677325</generated>
+  <generated>2026-03-22T20:01:59.298489</generated>
   <items>
+    <item>
+      <title>Joe Kent says he wants Trump to hear MAGA opposition to Iran war</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/22/joe-kent-iran-war-trump/</link>
+      <summary>In an interview with The Post after resigning from the administration in protest, the veteran said he is taking his message to the president’s supporters.</summary>
+      <pubDate>Sun, 22 Mar 2026 17:51:18 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump threatens to ‘obliterate’ Iran’s power plants if Strait of Hormuz does not open</title>
       <link>https://www.washingtonpost.com/world/2026/03/21/iran-us-war-israel-nuclear-executions/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/world/2026/03/22/venezuela-maduro-prison-release-luis-tarbay/</link>
       <summary>The Washington Post’s Venezuela reporter writes on a couple divided by the authoritarian regime in Caracas — and their joyful reunion.</summary>
       <pubDate>Sun, 22 Mar 2026 09:00:08 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>
-      <link>https://www.washingtonpost.com/world/2026/03/21/hungary-election-interference-russia-orban/</link>
-      <summary>To aid Hungarian Prime Minister Viktor Orban, a friend of Russia, in his election, operatives proposed “the Gamechanger” — a staged assassination attempt to stir supporters.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:00:00 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
