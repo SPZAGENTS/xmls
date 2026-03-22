@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-22T10:02:00.976985</generated>
+  <generated>2026-03-22T12:04:24.173018</generated>
   <items>
+    <item>
+      <title>Iran refuses to give in, seeking greater global economic pain</title>
+      <link>https://www.washingtonpost.com/world/2026/03/22/iran-war-talks-trump-strikes-hormuz/</link>
+      <summary>Tehran’s unwillingness to capitulate as the war enters its fourth week is wrapped up in the power it exerts over the Strait of Hormuz, officials in the region say.</summary>
+      <pubDate>Sun, 22 Mar 2026 09:00:13 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump threatens to ‘obliterate’ Iran’s power plants if Strait of Hormuz does not open</title>
       <link>https://www.washingtonpost.com/world/2026/03/21/iran-us-war-israel-nuclear-executions/</link>
@@ -33,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Hezbollah is bombing northern Israel again. Residents are staying put.</title>
-      <link>https://www.washingtonpost.com/world/2026/03/20/northern-israel-no-evacuation-hezbollah/</link>
-      <summary>Rather than evacuation, Israel’s defense minister said the mission now is “to protect northern communities against raids and anti-tank fire.”</summary>
-      <pubDate>Fri, 20 Mar 2026 09:00:41 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Cuban oil crisis? Russian tanker could challenge U.S. blockade.</title>
       <link>https://www.washingtonpost.com/world/2026/03/21/russia-tanker-cuba-oil/</link>
       <summary>A Kremlin spokesman said the Russian government is discussing “possible options for assisting Cuba in the difficult situation it finds itself in.”</summary>
@@ -54,18 +54,18 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>U.S.-Israeli rift widens over potential endgame in Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/</link>
-      <summary>Israel’s assault on the world’s largest natural gas deposit has renewed tensions between the two allies’ end goals in Iran.</summary>
-      <pubDate>Fri, 20 Mar 2026 09:00:04 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Cuba rejects ‘shameless’ U.S. Embassy request to bring in fuel</title>
       <link>https://www.washingtonpost.com/world/2026/03/20/us-embassy-havana-cuba-fuel-blackout/</link>
       <summary>An effective U.S. oil blockade has worsened the island’s energy crisis. The U.S. Embassy in Havana, too, is feeling the effects.</summary>
       <pubDate>Fri, 20 Mar 2026 21:54:51 +0000</pubDate>
       <priority>70</priority>
+    </item>
+    <item>
+      <title>When my friend came home from Maduro’s torture prison</title>
+      <link>https://www.washingtonpost.com/world/2026/03/22/venezuela-maduro-prison-release-luis-tarbay/</link>
+      <summary>The Washington Post’s Venezuela reporter writes on a couple divided by the authoritarian regime in Caracas — and their joyful reunion.</summary>
+      <pubDate>Sun, 22 Mar 2026 09:00:08 +0000</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>To tilt Hungarian election, Russians proposed staging assassination attempt</title>

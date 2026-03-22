@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T10:02:02.543518</generated>
+  <generated>2026-03-22T12:04:26.994198</generated>
   <items>
+    <item>
+      <title>On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html</link>
+      <summary>Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.</summary>
+      <pubDate>Sun, 22 Mar 2026 09:01:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22int-beirut-corniche-dispatch-01-qwgz/22int-beirut-corniche-dispatch-01-qwgz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-leadall-ctfp/20int-iran-leadall-ctfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Switzerland Blocks Arms Sales to U.S. Over Iran War</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/switzerland-halts-arms-sales-us.html</link>
-      <summary>Swiss law prohibits selling war materiel to countries involved in armed conflict, a policy the country has already cited to block sales to Israel and Iran.</summary>
-      <pubDate>Fri, 20 Mar 2026 20:34:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-swiss-us-topart-tvmc/20israel-iran-swiss-us-topart-tvmc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

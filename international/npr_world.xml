@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-22T10:02:09.502431</generated>
+  <generated>2026-03-22T12:04:41.183218</generated>
   <items>
     <item>
       <title>Iran war enters its fourth week with no clear end in sight</title>
@@ -12,6 +12,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>A strike on a hospital in Sudan killed at least 64 people, WHO says</title>
+      <link>https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64</link>
+      <summary>At least 64 people were killed, including at least 13 children, in a strike on a hospital in Sudan's western Darfur region last week, the World Health Organization said Saturday.</summary>
+      <pubDate>Sun, 22 Mar 2026 04:04:16 -0400</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Iraqi Kurds mark Nowruz, celebrating light over darkness</title>
       <link>https://www.npr.org/sections/the-picture-show/2026/03/21/nx-s1-5753923/nowruz-iraqi-kurds-photos</link>
       <summary>In the Kurdish regions of the Middle East, Nowruz celebrations — honoring the arrival of spring — are a fundamental expression of Kurdish identity.</summary>
@@ -19,11 +26,11 @@
       <priority>85</priority>
     </item>
     <item>
-      <title>U.S. judge rules against Pentagon restrictions on press coverage</title>
-      <link>https://www.npr.org/2026/03/20/nx-s1-5755120/pentagon-press-policy-new-york-times-lawsuit</link>
-      <summary>The policy required media organizations to pledge not to gather information unless Defense officials formally authorized its release. A U.S. judge said the rules are at odds with the First Amendment.</summary>
-      <pubDate>Fri, 20 Mar 2026 21:11:02 -0400</pubDate>
-      <priority>75</priority>
+      <title>Cuba's power grid collapses leaving it without electricity for the 3rd time this month</title>
+      <link>https://www.npr.org/2026/03/22/nx-s1-5756288/cubas-power-grid-collapses</link>
+      <summary>Cuba's power grid collapsed Saturday leaving the country without electricity for a third time in March as the communist government battles with a decaying infrastructure and a U.S.-imposed oil blockade.</summary>
+      <pubDate>Sun, 22 Mar 2026 04:12:26 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Robert Mueller, ex-FBI director who led 2016 Russia inquiry, dies at 81</title>
@@ -51,13 +58,6 @@
       <link>https://www.npr.org/2026/03/21/g-s1-114578/homeland-security-shutdown-oversight-detention</link>
       <summary>The difficulties for families adds to the patchwork of complaints about immigration oversight and other issues while the department remains without government funding for five weeks.</summary>
       <pubDate>Sat, 21 Mar 2026 06:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Jury finds Elon Musk misled investors during Twitter purchase</title>
-      <link>https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase</link>
-      <summary>A jury has found Elon Musk liable for misleading investors by deliberately driving down Twitter's stock price in the tumultuous months leading up to his 2022 acquisition of the social media company for $44 billion. But it absolved him of some fraud allegations.</summary>
-      <pubDate>Fri, 20 Mar 2026 18:30:28 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
