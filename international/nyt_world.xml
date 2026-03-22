@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-22T08:04:54.297879</generated>
+  <generated>2026-03-22T10:02:02.031347</generated>
   <items>
     <item>
       <title>Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities</title>
       <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump</link>
       <summary>Iranian missiles struck Dimona and Arad in southern Israel, injuring dozens of people. Iran’s state media said the attack on Dimona was aimed at Israel’s nuclear facilities, which U.N. officials said were not hit.</summary>
-      <pubDate>Sun, 22 Mar 2026 05:40:20 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 06:21:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/21/multimedia/21ISRAEL-IRAN-PROMO-1210AM-hwtl/21ISRAEL-IRAN-PROMO-1210AM-hwtl-mediumSquareAt3X.jpg</image>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Iranian missile strikes Israeli city near main nuclear research facility.</title>
-      <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump/iranian-missile-strikes-israeli-city-near-main-nuclear-research-facility</link>
-      <summary />
-      <pubDate>Sun, 22 Mar 2026 01:54:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/21/multimedia/21israel-iran-dimona-strike-fqmj/21israel-iran-dimona-strike-fqmj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>No Pills or Needles, Just Paper: How Deadly Drugs Are Changing</title>
       <link>https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html</link>
       <summary>Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.</summary>
@@ -113,6 +102,13 @@
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-skorea-fire-bmvh/21int-skorea-fire-bmvh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram</title>
+      <link>https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html</link>
+      <summary>Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create.</summary>
+      <pubDate>Sat, 21 Mar 2026 15:22:02 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
