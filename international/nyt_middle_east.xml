@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T16:05:10.198229</generated>
+  <generated>2026-03-22T18:03:44.185152</generated>
   <items>
+    <item>
+      <title>Iran Responds to Trump’s Energy Threat With Defiance and Warnings of Its Own</title>
+      <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants</link>
+      <summary>Tehran “will not hesitate in defending its people and its land,” a senior official said, after President Trump threatened to destroy Iranian power plants.</summary>
+      <pubDate>Sun, 22 Mar 2026 14:46:00 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/arts/22israel-iran-defiance/22israel-iran-defiance-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel Orders Military to Intensify Demolitions in Southern Lebanon</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html</link>
       <summary>Defense Minister Israel Katz instructed troops to destroy more bridges and buildings in southern Lebanon, stoking worries that Israel could expand a military-controlled buffer zone there.</summary>
-      <pubDate>Sun, 22 Mar 2026 13:22:50 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 14:29:17 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-Lebanon-escalation-lhtm/22israel-iran-Lebanon-escalation-lhtm-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-hamas-1-jcft/20israel-iran-hamas-1-jcft-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What to Know About Electric Cars When Gas Prices Are Surging</title>
-      <link>https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html</link>
-      <summary>War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”</summary>
-      <pubDate>Sat, 21 Mar 2026 14:14:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/21biz-iran-ev-guide-qbzp/21biz-iran-ev-guide-qbzp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
