@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T12:04:26.994198</generated>
+  <generated>2026-03-22T14:03:42.300574</generated>
   <items>
+    <item>
+      <title>Residents of Arad Are Shaken After Direct Strike by Iranian Missile</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html</link>
+      <summary>Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.</summary>
+      <pubDate>Sun, 22 Mar 2026 11:20:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-strikes-scene-qvmb/22israel-iran-strikes-scene-qvmb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-front-by-front-gckt/20israel-iran-front-by-front-gckt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Attacks Iranian Targets to Try to Open Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/us-iran-strait-hormuz.html</link>
-      <summary>The Israeli military said it had killed the spokesman for Iran’s Islamic Revolutionary Guards Corps, and Iran warned that it could target American and Israeli military personnel.</summary>
-      <pubDate>Fri, 20 Mar 2026 22:17:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20int-iran-leadall-ctfp/20int-iran-leadall-ctfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
