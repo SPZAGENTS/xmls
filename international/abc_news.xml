@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-22T06:02:46.271190</generated>
+  <generated>2026-03-22T08:04:58.882029</generated>
   <items>
     <item>
       <title>Iran live updates: Trump threatens Iran's power plants if strait not opened in 2 days</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Surfer speaks out after shark attack</title>
-      <link>https://abcnews.com/GMA/News/shark-attack-survivor-speaks-after-bitten-legs-surfing/story?id=131247079</link>
-      <summary>Jason Eastman was attacked by a shark and sustained bites in both legs while surfing off the coast of Big River Beach in Mendocino, California.</summary>
-      <pubDate>Fri, 20 Mar 2026 11:21:39 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/jason-eastman-abc-jef-260320_1774009693097_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: New details on drones over Air Force base</title>
       <link>https://abcnews.com/video/131258732/</link>
       <summary>A drone sighting that temporarily raised alarms at a U.S. Air Force airfield was more extensive than first reported, per a confidential internal briefing document reviewed by ABC News.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/GettyImages-81708297_1756694227734_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Multiple people injured after floor collapses at New Hampshire wedding venue</title>
+      <link>https://abcnews.com/US/wireStory/multiple-people-injured-after-floor-collapses-new-hampshire-131295087</link>
+      <summary>Six people were taken to the hospital after a floor collapsed at a New Hampshire wedding venue Saturday</summary>
+      <pubDate>Sun, 22 Mar 2026 00:26:08 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

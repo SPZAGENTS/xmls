@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-22T06:02:42.347021</generated>
+  <generated>2026-03-22T08:04:54.297879</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities</title>
+      <title>Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities</title>
       <link>https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump</link>
-      <summary>At least a dozen people were seriously injured as Iranian missiles struck Dimona and Arad, in one of the worst days for Israel in the war. The attacks showed Iran could still inflict damage despite three weeks of being bombed.</summary>
-      <pubDate>Sun, 22 Mar 2026 03:51:14 +0000</pubDate>
+      <summary>Iranian missiles struck Dimona and Arad in southern Israel, injuring dozens of people. Iran’s state media said the attack on Dimona was aimed at Israel’s nuclear facilities, which U.N. officials said were not hit.</summary>
+      <pubDate>Sun, 22 Mar 2026 05:40:20 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21ISRAEL-IRAN-PROMO-945-hcgz/21ISRAEL-IRAN-PROMO-945-hcgz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/21/multimedia/21ISRAEL-IRAN-PROMO-1210AM-hwtl/21ISRAEL-IRAN-PROMO-1210AM-hwtl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>A Brussels Community Moves on From Terrorist Attacks, but New Challenges Emerge</title>
+      <link>https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html</link>
+      <summary>Molenbeek was branded a hotbed of radicalization after the Paris and Brussels terrorist attacks of a decade ago. It is trying to reinvent itself amid new challenges.</summary>
+      <pubDate>Sun, 22 Mar 2026 04:01:28 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22int-brussels-terror-dispatch-001-btmv/22int-brussels-terror-dispatch-001-btmv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html</link>
       <summary>An Iranian missile wounded dozens in Dimona, a city believed to house Israel’s nuclear weapons program, as Iran showed no signs of backing down.</summary>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>With Fire and Song, Kurds in Turkey Hail the Start of Spring</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html</link>
-      <summary>The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.</summary>
-      <pubDate>Sat, 21 Mar 2026 21:32:18 +0000</pubDate>
-      <priority>100</priority>
+      <title>No Pills or Needles, Just Paper: How Deadly Drugs Are Changing</title>
+      <link>https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html</link>
+      <summary>Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:00:20 +0000</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-turkey-kurds-dispatch-fjvh/21int-turkey-kurds-dispatch-fjvh-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/02/18/multimedia/int-drug-chicago-promo/int-drug-chicago-top-wpcg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>How the Litani River Shapes the Israel-Hezbollah War</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/litani-river-israel-hezbollah-war.html</link>
-      <summary>The 90-mile waterway, back in focus amid Israel’s renewed offensive in Lebanon, could define how far the fighting spreads.</summary>
-      <pubDate>Sat, 21 Mar 2026 16:20:49 +0000</pubDate>
-      <priority>100</priority>
+      <title>​At Least 14 Killed in South Korean Factory Fire</title>
+      <link>https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html</link>
+      <summary>Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.</summary>
+      <pubDate>Sat, 21 Mar 2026 12:15:47 +0000</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-litani-river-1-vgpf/21israel-iran-litani-river-1-vgpf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Internet Blackout Keeps Iranians From Reaching Loved Ones During Nowruz Holiday</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html</link>
-      <summary>The current restrictions on the internet in Iran are coinciding with Nowruz, the observance of the Persian New Year.</summary>
-      <pubDate>Sat, 21 Mar 2026 17:28:22 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-nowruz-jflm/21israel-iran-nowruz-jflm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-skorea-fire-bmvh/21int-skorea-fire-bmvh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
