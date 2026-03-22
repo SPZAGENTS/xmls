@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-22T14:03:41.264402</generated>
+  <generated>2026-03-22T16:05:09.236615</generated>
   <items>
     <item>
       <title>Trump signals U.S. may leave allies to manage Iran fallout</title>
@@ -54,6 +54,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Trump says he will deploy ICE to airports as TSA shortages drive delays</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/21/trump-threatens-deploy-ice-airports-tsa-shortages-drive-delays/</link>
+      <summary>Spring break travel is straining airports as rising absences and resignations among unpaid TSA officers stretch security over a month into the funding standoff.</summary>
+      <pubDate>Sun, 22 Mar 2026 13:35:59 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Trump continues to target Robert Mueller after his death</title>
       <link>https://www.washingtonpost.com/politics/2026/03/21/trump-robert-mueller-death/</link>
       <summary>Mueller, who led the Russia investigation and the bureau after 9/11, remained a target of Trump years after his probe of possible election interference.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/obituaries/2026/03/21/robert-mueller-dead/</link>
       <summary>After building a reputation for quiet rectitude, he became a political target as special counsel investigating Russian interference in the 2016 election.</summary>
       <pubDate>Sat, 21 Mar 2026 20:20:12 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump threatens to deploy ICE to airports as TSA shortages drive delays</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/21/trump-threatens-deploy-ice-airports-tsa-shortages-drive-delays/</link>
-      <summary>Spring break travel is straining airports as rising callouts and resignations among unpaid TSA officers stretch security over a month into the funding standoff.</summary>
-      <pubDate>Sat, 21 Mar 2026 18:05:46 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

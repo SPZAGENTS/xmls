@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T14:03:42.300574</generated>
+  <generated>2026-03-22T16:05:10.198229</generated>
   <items>
     <item>
-      <title>Residents of Arad Are Shaken After Direct Strike by Iranian Missile</title>
+      <title>Israel Orders Military to Intensify Demolitions in Southern Lebanon</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html</link>
+      <summary>Defense Minister Israel Katz instructed troops to destroy more bridges and buildings in southern Lebanon, stoking worries that Israel could expand a military-controlled buffer zone there.</summary>
+      <pubDate>Sun, 22 Mar 2026 13:22:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-Lebanon-escalation-lhtm/22israel-iran-Lebanon-escalation-lhtm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html</link>
       <summary>Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.</summary>
-      <pubDate>Sun, 22 Mar 2026 11:20:17 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 13:47:16 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-strikes-scene-qvmb/22israel-iran-strikes-scene-qvmb-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/21biz-iran-ev-guide-qbzp/21biz-iran-ev-guide-qbzp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in Iran in Its Third Week</title>
-      <link>https://www.nytimes.com/2026/03/20/world/middleeast/iran-war-middle-east-recap.html</link>
-      <summary>The Persian new year and the end of the holy month of Ramadan were marked by continuing strikes in the region as the war reached the end of its third week.</summary>
-      <pubDate>Fri, 20 Mar 2026 21:58:54 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-front-by-front-gckt/20israel-iran-front-by-front-gckt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
