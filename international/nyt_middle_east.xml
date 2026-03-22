@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-22T22:04:20.488928</generated>
+  <generated>2026-03-23T00:02:45.412551</generated>
   <items>
+    <item>
+      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
+      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:15:18 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html</link>
+      <summary>The Israeli military said its campaign against Hezbollah in Lebanon would intensify, while Iran threatened to attack civilian infrastructure if President Trump followed through with an ultimatum.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:35:34 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-front-by-front-kpvb/22israel-iran-front-by-front-kpvb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran Responds to Trump’s Energy Threat With Defiance and Warnings of Its Own</title>
       <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-litani-river-1-vgpf/21israel-iran-litani-river-1-vgpf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Strikes Across Lebanon Amid Fierce Ground Fighting in the South</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/heavy-storms-in-beirut-cap-a-morning-of-ongoing-israeli-strikes.html</link>
-      <summary>The Israeli military said it was stepping up attacks aimed at infrastructure in Beirut belonging to Hezbollah.</summary>
-      <pubDate>Sat, 21 Mar 2026 17:35:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/2121israel-iran-lebnanon-strikes-1-hltq/2121israel-iran-lebnanon-strikes-1-hltq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Middle East War Leaves Hamas Balancing Allies on Opposite Sides</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-hamas-iran-qatar.html</link>
-      <summary>The Palestinian militant group, which has ties to both Iran and Qatar, is “walking on a knife’s edge,” an analyst said.</summary>
-      <pubDate>Sat, 21 Mar 2026 13:03:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/20israel-iran-hamas-1-jcft/20israel-iran-hamas-1-jcft-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

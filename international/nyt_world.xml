@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-22T22:04:19.873242</generated>
+  <generated>2026-03-23T00:02:44.821039</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants</title>
       <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump</link>
-      <summary>President Trump said that he would “obliterate” Iran’s electricity plants if it did not open the Strait of Hormuz within 48 hours. Iran dismissed the ultimatum as its missiles hit southern Israel, including near the country’s main nuclear research center.</summary>
-      <pubDate>Sun, 22 Mar 2026 19:45:38 +0000</pubDate>
+      <summary>Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:55:00 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-400-wvmk/22israel-400-wvmk-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,39 @@
       </media>
     </item>
     <item>
+      <title>Trump’s Ultimatum to Iran</title>
+      <link>https://www.nytimes.com/2026/03/22/world/trump-us-iran-oil-france-elections-bts.html</link>
+      <summary>The president’s messages on the war have shifted, but the latest threat might be a sign that he’s moving to a harder stance.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:24:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-theworld-iran-top-cfwq-promo/23int-theworld-iran-top-cfwq-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
+      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:15:18 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html</link>
+      <summary>The Israeli military said its campaign against Hezbollah in Lebanon would intensify, while Iran threatened to attack civilian infrastructure if President Trump followed through with an ultimatum.</summary>
+      <pubDate>Sun, 22 Mar 2026 21:35:34 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-front-by-front-kpvb/22israel-iran-front-by-front-kpvb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran Responds to Trump’s Energy Threat With Defiance and Warnings of Its Own</title>
       <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants</link>
       <summary>Tehran “will not hesitate in defending its people and its land,” a senior official said, after President Trump threatened to destroy Iranian power plants.</summary>
@@ -78,39 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-Lebanon-escalation-jltv/22israel-iran-Lebanon-escalation-jltv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Residents in Southern Israel Are Shaken After Direct Strikes by Iranian Missiles</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html</link>
-      <summary>Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility.</summary>
-      <pubDate>Sun, 22 Mar 2026 18:05:10 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-strikes-scene-qvmb/22israel-iran-strikes-scene-qvmb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html</link>
-      <summary>An Iranian missile wounded dozens in Dimona, a city believed to house Israel’s nuclear weapons program, as Iran showed no signs of backing down.</summary>
-      <pubDate>Sat, 21 Mar 2026 23:18:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-front-by-front-vmgk/21israel-iran-front-by-front-vmgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says</title>
-      <link>https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html</link>
-      <summary>The group’s director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.</summary>
-      <pubDate>Sun, 22 Mar 2026 15:47:02 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/world/22int-sudan-hospital-wb-top-art-01/22int-sudan-hospital-wb-top-art-01-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
