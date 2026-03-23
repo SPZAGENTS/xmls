@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-23T06:01:56.564910</generated>
+  <generated>2026-03-23T08:06:16.895078</generated>
   <items>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Record temperatures bake the West as heat sickens hundreds at air show</title>
-      <link>https://abcnews.com/US/400-people-sickened-arizona-airshow-record-heat-bakes/story?id=131300971</link>
-      <summary>Record-shattering temperatures are expected to continue on Sunday as a rare and strong early-season heat dome has resulted in triple-digit highs in some parts.</summary>
-      <pubDate>Sun, 22 Mar 2026 15:40:59 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/hot-weather-ap-bh-260322_1774185600071_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Police: Man wielding a butcher knife at a Boston transit station arrested</title>
       <link>https://abcnews.com/video/131266264/</link>
       <summary>At least six people were injured and sent to the hospital.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260320_wn_2ndblk_butcher_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Ultimate Friday buzzer-beater</title>
+      <link>https://abcnews.com/video/131247182/</link>
+      <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
+      <pubDate>Fri, 20 Mar 2026 11:42:25 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
