@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T16:05:09.305743</generated>
+  <generated>2026-03-23T20:07:19.739174</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Postpones Deadline For Strikes on Iran’s Energy Infrastructure</title>
+      <title>Iran War Live Updates: Iran Disputes Trump’s Claim of ‘Very Strong Talks’</title>
       <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
-      <summary>Iran disputed President Trump’s claim that the U.S. and Iran had held “very good” talks on ending the conflict, casting it as a ploy to soothe markets and to buy time for more military action.</summary>
-      <pubDate>Mon, 23 Mar 2026 14:00:18 +0000</pubDate>
+      <summary>President Trump said he was postponing strikes on Iran’s power plants until at least Friday to allow for negotiations, but Iran cast the claim as a ploy to soothe markets and to buy time for more military action.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:47:08 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23mideast-promo-9am-or-so/23mideast-promo-9am-or-so-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-100-gtzq/23israel-iran-100-gtzq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 23 Mar 2026 09:59:24 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -30,7 +30,7 @@
       <title>A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops</title>
       <link>https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html</link>
       <summary>Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:34:28 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 17:41:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/00int-ukraine-drones-amazon-qlpw/00int-ukraine-drones-amazon-qlpw-mediumSquareAt3X.jpg</image>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
-      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
-      <pubDate>Mon, 23 Mar 2026 03:34:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html</link>
       <summary>Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.</summary>
@@ -71,46 +60,53 @@
       </media>
     </item>
     <item>
+      <title>Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html</link>
+      <summary>U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:33:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-infrastructure-01-vwzc/23israel-iran-infrastructure-01-vwzc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html</link>
+      <summary>Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis that the two oil shocks in the 1970s combined.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:31:58 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-IEA-warning-1-qcjm/23israel-iran-IEA-warning-1-qcjm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html</link>
+      <summary>Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit.</summary>
+      <pubDate>Mon, 23 Mar 2026 16:47:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/world/23israel-iran-friendly-fire-001a/23israel-iran-friendly-fire-001a-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran attempted to attack a far-off military base.</title>
+      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base</link>
+      <summary />
+      <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage</title>
       <link>https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html</link>
       <summary>A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:02:31 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 14:39:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/Biz-Iran-Global-Econ-01-hkmb/Biz-Iran-Global-Econ-01-hkmb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
-      <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
-      <pubDate>Mon, 23 Mar 2026 12:36:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Taiwan Debates Military Spending as Choices Over U.S. and China Loom</title>
-      <link>https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html</link>
-      <summary>Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.</summary>
-      <pubDate>Mon, 23 Mar 2026 10:29:21 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-taiwan-opposition-01-qcpt/23int-taiwan-opposition-01-qcpt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Canada May Need to Lean on the US as Military Threats in the Arctic Rise</title>
-      <link>https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html</link>
-      <summary>For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:02:11 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/world/23int-canada-arctic-military-07/23int-canada-arctic-military-07-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
