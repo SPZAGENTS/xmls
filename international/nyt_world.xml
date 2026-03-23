@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T00:02:44.821039</generated>
+  <generated>2026-03-23T02:04:13.165606</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants</title>
       <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump</link>
       <summary>Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:55:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 23:57:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-400-wvmk/22israel-400-wvmk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
+      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
+      <pubDate>Sun, 22 Mar 2026 23:52:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
-      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:15:18 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Here’s What Happened in the War in the Middle East on Sunday</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/middle-east-war-recap.html</link>
       <summary>The Israeli military said its campaign against Hezbollah in Lebanon would intensify, while Iran threatened to attack civilian infrastructure if President Trump followed through with an ultimatum.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:35:34 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2026 23:57:46 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-front-by-front-kpvb/22israel-iran-front-by-front-kpvb-mediumSquareAt3X.jpg</image>
