@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-23T02:04:21.664560</generated>
-  <total_articles>332</total_articles>
+  <generated>2026-03-23T04:03:52.820620</generated>
+  <total_articles>331</total_articles>
   <items>
     <item>
       <title>No assessment Iran could strike London, UK minister says</title>
@@ -72,6 +72,17 @@
       </media>
     </item>
     <item>
+      <title>The Papers: 'Trump raises stakes' and 'Tend it like Beckham'</title>
+      <link>https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The 'new escalatory phase' of the war in the Middle East is a focus of several papers today.</summary>
+      <pubDate>Mon, 23 Mar 2026 01:17:59 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ac/live/b0d92e40-2648-11f1-a79a-77e93010d956.jpg</image>
+      </media>
+    </item>
+    <item>
       <title>Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties</title>
       <link>https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.</summary>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump at a crossroads as US weighs tough options in Iran</title>
-      <link>https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Statements from President Trump that the war is almost over are not matching up with the reality on the ground.</summary>
-      <pubDate>Sun, 22 Mar 2026 00:50:43 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg</image>
       </media>
     </item>
   </items>
