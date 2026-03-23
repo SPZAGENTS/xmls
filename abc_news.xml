@@ -2,8 +2,30 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-23T08:06:16.895078</generated>
+  <generated>2026-03-23T10:03:52.298088</generated>
   <items>
+    <item>
+      <title>State Dept. says Americans should 'exercise increased caution'</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates/?id=131108492</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israel strikes.</summary>
+      <pubDate>Mon, 23 Mar 2026 03:50:29 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/irgc-main_1774171827285_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>International Energy Agency head says global economy faces ‘major, major threat’</title>
+      <link>https://abcnews.com/Business/wireStory/international-energy-agency-head-global-economy-faces-major-131316204</link>
+      <summary>The head of the International Energy Agency head says the global economy faces a &amp;ldquo;major, major threat&amp;rdquo; because of the Iran war</summary>
+      <pubDate>Mon, 23 Mar 2026 03:02:57 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_f1e7ccd313263fd63e695f43a2e68165_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
       <link>https://abcnews.com/video/131254261/</link>
@@ -60,28 +82,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: New York State trooper involved in chain reaction crash during traffic stop</title>
-      <link>https://abcnews.com/video/131235515/</link>
-      <summary>The trooper in Mamaroneck was injured during a traffic stop when a SUV slammed into his patrol car, pushing it into another vehicle and hitting him. The incident is under investigation.</summary>
-      <pubDate>Thu, 19 Mar 2026 20:37:27 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260319_wn_vo_trooper_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>DOJ asks judge to drop charges against 2 officers in Breonna Taylor case</title>
-      <link>https://abcnews.com/US/doj-asks-judge-drop-charges-2-officers-breonna/story?id=131267706</link>
-      <summary>The DOJ asked a court to drop charges against two former officers accused of providing false information on a search warrant that led to the 2020 Breonna Taylor raid.</summary>
-      <pubDate>Sat, 21 Mar 2026 09:18:33 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/breonna-protest-gty-jt-200922_1600803430712_hpMain_1_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: New details on drones over Air Force base</title>
       <link>https://abcnews.com/video/131258732/</link>
       <summary>A drone sighting that temporarily raised alarms at a U.S. Air Force airfield was more extensive than first reported, per a confidential internal briefing document reviewed by ABC News.</summary>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>2 dead, LaGuardia closed following collision between Air Canada plane and vehicle</title>
+      <link>https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551</link>
+      <summary>LaGuardia Airport in New York is closed following a collision between a Port Authority airport vehicle and an Air Canada regional plane, according to police.</summary>
+      <pubDate>Mon, 23 Mar 2026 03:51:31 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/laguardia-main_1774245675769_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Police: Man wielding a butcher knife at a Boston transit station arrested</title>
       <link>https://abcnews.com/video/131266264/</link>
       <summary>At least six people were injured and sent to the hospital.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260320_wn_2ndblk_butcher_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Ultimate Friday buzzer-beater</title>
-      <link>https://abcnews.com/video/131247182/</link>
-      <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
-      <pubDate>Fri, 20 Mar 2026 11:42:25 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
