@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-23T18:02:43.008003</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-23T18:04:30.642775</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>‘Deal or months of escalation’: push for Trump-Iran agreement as Hormuz ultimatum nears deadline</title>
       <link>https://www.ynetnews.com/article/rjod00atqbg</link>
-      <summary>Qatar, Turkey and Egypt lead behind-the-scenes effort to end war before deadline; Israeli official says if talks fail, US may launch ground operation as Iran threatens regional blackout</summary>
+      <description>Qatar, Turkey and Egypt lead behind-the-scenes effort to end war before deadline; Israeli official says if talks fail, US may launch ground operation as Iran threatens regional blackout</description>
       <pubDate>Sun, 22 Mar 2026 23:11:55 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>Why Israel's defense shield failed over Dimona and Arad</title>
       <link>https://www.ynetnews.com/article/skdy00faq11g</link>
-      <summary>After missiles strikes, scrutiny grows over use of David’s Sling against Iranian ballistic missiles, with defense officials pointing to stockpile pressures, expanded deployment and limits of lower-altitude interception</summary>
+      <description>After missiles strikes, scrutiny grows over use of David’s Sling against Iranian ballistic missiles, with defense officials pointing to stockpile pressures, expanded deployment and limits of lower-altitude interception</description>
       <pubDate>Mon, 23 Mar 2026 12:15:36 +03:00</pubDate>
-      <priority>135</priority>
+      <source>ynet-news-english</source>
+      <priority-score>135</priority-score>
     </item>
     <item>
       <title>Navy intelligence guides Israeli Air Force strike on Iranian ships in rare Caspian Sea operation</title>
       <link>https://www.ynetnews.com/article/hkq3ya69bl</link>
-      <summary>A small Israeli Navy intelligence team tracked Iranian vessels across the Caspian Sea, enabling a rare airstrike that destroyed six ships, a naval command center and a maintenance facility in a region where Israel had never operated</summary>
+      <description>A small Israeli Navy intelligence team tracked Iranian vessels across the Caspian Sea, enabling a rare airstrike that destroyed six ships, a naval command center and a maintenance facility in a region where Israel had never operated</description>
       <pubDate>Sun, 22 Mar 2026 21:26:48 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>IDF chief approves deeper Lebanon offensive, says fight against Hezbollah ‘only just began’</title>
       <link>https://www.ynetnews.com/article/s1vbmnp911e</link>
-      <summary>Israel expands buffer zone in southern Lebanon, targets bridges and supply routes and accelerates Gaza-style home demolitions; Lebanon warns strikes signal a ground invasion and attempt to isolate the south from the rest of the country</summary>
+      <description>Israel expands buffer zone in southern Lebanon, targets bridges and supply routes and accelerates Gaza-style home demolitions; Lebanon warns strikes signal a ground invasion and attempt to isolate the south from the rest of the country</description>
       <pubDate>Sun, 22 Mar 2026 20:25:55 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Israel 'not surprised, going along' with Trump on Iran talks, officials say</title>
       <link>https://www.ynetnews.com/article/byzd13c9zg</link>
-      <summary>Officials say intensive behind-the-scenes contacts between Washington and Tehran, both direct and through Qatari and Turkish mediation, aimed at reaching a deal</summary>
+      <description>Officials say intensive behind-the-scenes contacts between Washington and Tehran, both direct and through Qatari and Turkish mediation, aimed at reaching a deal</description>
       <pubDate>Mon, 23 Mar 2026 14:21:25 +03:00</pubDate>
-      <priority>120</priority>
+      <source>ynet-news-english</source>
+      <priority-score>120</priority-score>
     </item>
     <item>
       <title>שר החוץ סער עשה "זובור" פומבי לשגריר הגרמני - וחטף ביקורת: "אתה חרפה"</title>
       <link>https://www.ynet.co.il/news/article/rkzlljc9ze</link>
-      <summary>שטפן זייברט, שלאורך כל המלחמה בעזה תמך בזכות ישראל להגן על עצמה, חיבר בין מות החקלאי שנהרג בצפון לאלימות מתנחלים כלפי פלסטינים. סער תקף את השגריר הגרמני: "האובססיה ליהודים ביו"ש מונעת ממנו אפילו לגנות את מותו של יהודי שנגרם על-ידי פלסטיני". דיפלומט ישראלי לשעבר על סער: "אובדן ...</summary>
+      <description>שטפן זייברט, שלאורך כל המלחמה בעזה תמך בזכות ישראל להגן על עצמה, חיבר בין מות החקלאי שנהרג בצפון לאלימות מתנחלים כלפי פלסטינים. סער תקף את השגריר הגרמני: "האובססיה ליהודים ביו"ש מונעת ממנו אפילו לגנות את מותו של יהודי שנגרם על-ידי פלסטיני". דיפלומט ישראלי לשעבר על סער: "אובדן ...</description>
       <pubDate>Mon, 23 Mar 2026 15:28:22 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>"יש לנו אפס הגנה": הפאניקה בבריטניה אחרי ניסיון תקיפת "אי המפציצים"</title>
       <link>https://www.ynet.co.il/news/article/yokra14717200</link>
-      <summary>אחרי שאיראן שיגרה טילים לבסיס באוקיינוס ההודי שמרוחק 4,000 ק"מ ממנה, ולאחר שבצה"ל הזהירו את בירות אירופה שגם הן בטווח האיום - בבריטניה נשמעות התבטאויות שמזכירות את ימי הבליץ על לונדון. "קריאת השכמה", טענו מומחי ביטחון בממלכה. ויש גם מי שזורע ספק: "לישראל יש אינטרס, אסור לשכוח"</summary>
+      <description>אחרי שאיראן שיגרה טילים לבסיס באוקיינוס ההודי שמרוחק 4,000 ק"מ ממנה, ולאחר שבצה"ל הזהירו את בירות אירופה שגם הן בטווח האיום - בבריטניה נשמעות התבטאויות שמזכירות את ימי הבליץ על לונדון. "קריאת השכמה", טענו מומחי ביטחון בממלכה. ויש גם מי שזורע ספק: "לישראל יש אינטרס, אסור לשכוח"</description>
       <pubDate>Mon, 23 Mar 2026 12:18:37 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>בעולם התרבות מבקשים סיוע מהממשלה: "עשרות אלפים נותקו ממקור פרנסתם"</title>
       <link>https://www.ynet.co.il/entertainment/article/bjrrh4p911l</link>
-      <summary>ענף התרבות הישראלי, שהושבת כמעט לחלוטין עם פרוץ הלחימה מול איראן, מזהיר מקריסה רחבה של אמנים, הפקות וחברות. באיגוד תעשיית התרבות דורשים מהממשלה להכיר בענף כפגוע במיוחד ולהפעיל מנגנון סיוע מיידי. בין הדרישות: מענקי גישור, חל"ת מורחב, דחיית תשלומים והקמת קרן ייעודית. ברקע - הפסד...</summary>
+      <description>ענף התרבות הישראלי, שהושבת כמעט לחלוטין עם פרוץ הלחימה מול איראן, מזהיר מקריסה רחבה של אמנים, הפקות וחברות. באיגוד תעשיית התרבות דורשים מהממשלה להכיר בענף כפגוע במיוחד ולהפעיל מנגנון סיוע מיידי. בין הדרישות: מענקי גישור, חל"ת מורחב, דחיית תשלומים והקמת קרן ייעודית. ברקע - הפסד...</description>
       <pubDate>Sun, 22 Mar 2026 12:02:15 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-culture</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>Sirens sound across central, southern Israel after Iran missile launch; no injuries reported</title>
       <link>https://www.ynetnews.com/article/bj2gkuccbx</link>
-      <summary>Initial indications suggested the missile may have been a cluster-type munition, though this has not been officially confirmed; sirens were also activated in parts of central Israel, in some cases without advance warning</summary>
+      <description>Initial indications suggested the missile may have been a cluster-type munition, though this has not been officially confirmed; sirens were also activated in parts of central Israel, in some cases without advance warning</description>
       <pubDate>Mon, 23 Mar 2026 10:29:33 +03:00</pubDate>
-      <priority>115</priority>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
