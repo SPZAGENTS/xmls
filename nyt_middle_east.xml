@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-23T20:07:20.345068</generated>
+  <generated>2026-03-23T22:04:59.646804</generated>
   <items>
+    <item>
+      <title>Pentagon Officials Weigh Deployment of Airborne Troops for Iran War</title>
+      <link>https://www.nytimes.com/2026/03/23/us/politics/us-airborne-troops-iran.html</link>
+      <summary>The combat forces would come from a brigade of about 3,000 soldiers capable of deploying anywhere in the world within 18 hours.</summary>
+      <pubDate>Mon, 23 Mar 2026 19:38:25 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23dc-irain-airborne-bwlg/23dc-irain-airborne-bwlg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered</title>
       <link>https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html</link>
       <summary>U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.</summary>
-      <pubDate>Mon, 23 Mar 2026 17:33:02 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:06:43 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-infrastructure-01-vwzc/23israel-iran-infrastructure-01-vwzc-mediumSquareAt3X.jpg</image>
@@ -18,8 +29,8 @@
     <item>
       <title>Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns</title>
       <link>https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html</link>
-      <summary>Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis that the two oil shocks in the 1970s combined.</summary>
-      <pubDate>Mon, 23 Mar 2026 17:31:58 +0000</pubDate>
+      <summary>Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis than the two oil shocks in the 1970s combined.</summary>
+      <pubDate>Mon, 23 Mar 2026 19:36:19 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-IEA-warning-1-qcjm/23israel-iran-IEA-warning-1-qcjm-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-front-by-front-kpvb/22israel-iran-front-by-front-kpvb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Responds to Trump’s Energy Threat With Defiance and Warnings of Its Own</title>
-      <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump/iran-response-trump-threat-power-plants</link>
-      <summary>Tehran “will not hesitate in defending its people and its land,” a senior official said, after President Trump threatened to destroy Iranian power plants.</summary>
-      <pubDate>Mon, 23 Mar 2026 03:35:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/arts/22israel-iran-defiance/22israel-iran-defiance-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
