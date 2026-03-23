@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-21T00:03:12.916475</generated>
+  <generated>2026-03-23T02:04:18.729171</generated>
   <items>
     <item>
-      <title>Attacks on Middle East energy sites deepen threat to US economy, analysts say</title>
-      <link>https://abcnews.com/Business/attacks-middle-east-energy-sites-deepen-threat-us/story?id=131213656</link>
-      <summary>Tit-for-tat attacks on oil and gas sites across the Middle East in recent days have pushed up oil prices.</summary>
-      <pubDate>Fri, 20 Mar 2026 17:16:40 -0400</pubDate>
-      <priority>95</priority>
+      <title>WATCH: Rise in gas prices show no sign of slowing down, analyst says</title>
+      <link>https://abcnews.com/video/131254261/</link>
+      <summary>GasBuddy's head of petroleum analysis, Patrick De Haan, says price increases are becoming "far more problematic" every day the war in Iran continues.</summary>
+      <pubDate>Fri, 20 Mar 2026 18:00:13 -0400</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/bahrain-rt-jef-260320_1774027468708_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260320_abcnl_10a_gas_prices4_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: US getting close to meeting objectives in Iran, Trump says</title>
+      <link>https://abcnews.com/video/131285673/</link>
+      <summary>President Trump said he's considering "winding down" military efforts in the Middle East amid the ongoing war in Iran.</summary>
+      <pubDate>Sat, 21 Mar 2026 21:15:18 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260321_abc_social_trump_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -23,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260320_1p_meteor_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Punch the monkey seen cuddling fellow monkey fans dub "girlfriend"</title>
+      <link>https://abcnews.com/video/131266199/</link>
+      <summary>After capturing hearts across the world with his affection towards a stuffed orangutan, Punch the monkey has been seen cuddling up with a fellow monkey in his enclosure.</summary>
+      <pubDate>Fri, 20 Mar 2026 21:02:21 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260320_wn_ender_punch_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Rhode Island high school hockey team wins state title after deadly ice rink shooting</title>
-      <link>https://abcnews.com/video/131235157/</link>
-      <summary>David Muir reports on young hockey star Colin Dorgan – who lost his family in the deadly Rhode Island ice rink shooting – scoring a key goal in the game to help his team win in quadruple overtime.</summary>
-      <pubDate>Fri, 20 Mar 2026 06:47:53 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260319_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Senate once again fails to advance DHS funding bill</title>
-      <link>https://abcnews.com/Politics/senate-fails-advance-dhs-funding-bill/story?id=131265330</link>
-      <summary>A bipartisan group of lawmakers will meet with Border Czar Tom Homan Friday.</summary>
-      <pubDate>Fri, 20 Mar 2026 16:39:42 -0400</pubDate>
+      <title>DOJ asks judge to drop charges against 2 officers in Breonna Taylor case</title>
+      <link>https://abcnews.com/US/doj-asks-judge-drop-charges-2-officers-breonna/story?id=131267706</link>
+      <summary>The DOJ asked a court to drop charges against two former officers accused of providing false information on a search warrant that led to the 2020 Breonna Taylor raid.</summary>
+      <pubDate>Sat, 21 Mar 2026 09:18:33 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/capitol-1-ap-gmh-260318_1773839726271_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/breonna-protest-gty-jt-200922_1600803430712_hpMain_1_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Chuck Norris, action star and martial artist, dies at 86</title>
-      <link>https://abcnews.com/GMA/Culture/action-star-chuck-norris-dies-86/story?id=131251837</link>
-      <summary>His family announced his passing on Friday.</summary>
-      <pubDate>Fri, 20 Mar 2026 15:21:14 -0400</pubDate>
+      <title>Record temperatures bake the West as heat sickens hundreds at air show</title>
+      <link>https://abcnews.com/US/400-people-sickened-arizona-airshow-record-heat-bakes/story?id=131300971</link>
+      <summary>Record-shattering temperatures are expected to continue on Sunday as a rare and strong early-season heat dome has resulted in triple-digit highs in some parts.</summary>
+      <pubDate>Sun, 22 Mar 2026 15:40:59 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/chuck-norris-3-gty-jef-260320_1774015882495_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/hot-weather-ap-bh-260322_1774185600071_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: Ultimate Friday buzzer-beater</title>
-      <link>https://abcnews.com/video/131247182/</link>
-      <summary>Caden Farrare, 11, launched a no-look shot with his back to the rim as time was running out during a game between fifth graders at CMIT Elementary in Laurel, Maryland.</summary>
-      <pubDate>Fri, 20 Mar 2026 11:42:25 -0400</pubDate>
+      <title>WATCH: Police: Man wielding a butcher knife at a Boston transit station arrested</title>
+      <link>https://abcnews.com/video/131266264/</link>
+      <summary>At least six people were injured and sent to the hospital.</summary>
+      <pubDate>Fri, 20 Mar 2026 20:46:38 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260320_gma_play_buzzerbeater1_0749_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Epstein investigation in UK asks for United States cooperation</title>
-      <link>https://abcnews.com/video/131207175/</link>
-      <summary>ABC’s Aaron Katersky sits down with the head of Scotland Yard, Sir Mark Rowley, for help with investigating former Prince Andrew.</summary>
-      <pubDate>Thu, 19 Mar 2026 07:36:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Nightline/260318_ntl_epstein_1256_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/WNT/260320_wn_2ndblk_butcher_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
