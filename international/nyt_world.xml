@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T22:04:58.988644</generated>
+  <generated>2026-03-24T00:04:37.274910</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Iran Disputes Trump’s Assertion of ‘Very Strong Talks’</title>
+      <title>Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects</title>
       <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
-      <summary>President Trump said he was postponing strikes on Iran’s power plants until at least Friday to allow for negotiations, but Iran cast the claim as a ploy to soothe markets and to buy time for more military action.</summary>
-      <pubDate>Mon, 23 Mar 2026 19:47:46 +0000</pubDate>
+      <summary>President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.</summary>
+      <pubDate>Mon, 23 Mar 2026 21:56:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23mideast-340-mtkz/23mideast-340-mtkz-mediumSquareAt3X.jpg</image>
@@ -60,10 +60,21 @@
       </media>
     </item>
     <item>
-      <title>Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered</title>
+      <title>Iran Negotiations — or Not?</title>
+      <link>https://www.nytimes.com/2026/03/23/world/us-iran-talks-denmark-election.html</link>
+      <summary>President Trump’s shifting statements don’t necessarily signal an end in sight to the war, but they do buy him some time.</summary>
+      <pubDate>Mon, 23 Mar 2026 21:05:48 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-theworld-iran-trump-top-bjmv-promo/24int-theworld-iran-trump-top-bjmv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Delays Energy Strikes, but Iran’s Infrastructure Is Already Battered</title>
       <link>https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html</link>
       <summary>U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.</summary>
-      <pubDate>Mon, 23 Mar 2026 18:06:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:25:19 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-infrastructure-01-vwzc/23israel-iran-infrastructure-01-vwzc-mediumSquareAt3X.jpg</image>
@@ -98,17 +109,6 @@
       <summary />
       <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage</title>
-      <link>https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html</link>
-      <summary>A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.</summary>
-      <pubDate>Mon, 23 Mar 2026 14:39:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/20/multimedia/Biz-Iran-Global-Econ-01-hkmb/Biz-Iran-Global-Econ-01-hkmb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>

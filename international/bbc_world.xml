@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-23T22:04:55.063169</generated>
+  <generated>2026-03-24T00:04:32.585357</generated>
   <items>
     <item>
       <title>A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation</title>
+      <link>https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives</summary>
+      <pubDate>Mon, 23 Mar 2026 21:13:47 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/d36ae7f0-26de-11f1-908d-0f187797fc2f.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Blast that injured two was 'terrorist attack', Ukrainian authorities say</title>
+      <link>https://www.bbc.com/news/articles/crl1n0pn3e9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The suspect is a 21-year-old local resident who claims he was blackmailed and forced to plant explosives.</summary>
+      <pubDate>Mon, 23 Mar 2026 15:23:29 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8643/live/8086fa40-26bd-11f1-be99-cb4fcea31c93.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,32 +71,10 @@
       </media>
     </item>
     <item>
-      <title>Iranian missiles injure 180 in towns near Israeli nuclear site</title>
-      <link>https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Israel is investigating how ballistic missiles got through the country's sophisticated air defences.</summary>
-      <pubDate>Sun, 22 Mar 2026 17:35:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US' and Iran's options for ending war narrow the longer it goes on</title>
-      <link>https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.</summary>
-      <pubDate>Mon, 23 Mar 2026 15:34:38 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Oil falls and shares rebound after Trump says talks have been held to end war</title>
       <link>https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Energy prices fall and stock markets rebound after the US president says "very good and productive" talks have been held.</summary>
-      <pubDate>Mon, 23 Mar 2026 16:50:12 GMT</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:21:51 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg</image>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>HK police can now demand phone passwords under new national security rules</title>
-      <link>https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).</summary>
-      <pubDate>Mon, 23 Mar 2026 08:06:25 GMT</pubDate>
-      <priority>65</priority>
+      <title>Colombian military plane with 125 people crashes</title>
+      <link>https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Colombia's defence minister says it was a "tragic accident" but the cause is not yet clear.</summary>
+      <pubDate>Mon, 23 Mar 2026 21:54:15 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/45166ad0-268c-11f1-82d0-fd391f4a7261.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e8/live/3b34c580-26e0-11f1-908d-0f187797fc2f.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>National blackout hits Cuba for second time in a week</title>
-      <link>https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:31:41 GMT</pubDate>
+      <title>Slovenia becomes first EU country to introduce fuel rationing</title>
+      <link>https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Until further notice, motorists in Slovenia will be restricted to a maximum purchase of 50 litres of fuel per day.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:45:25 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf4/live/dc1fbeb0-26da-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

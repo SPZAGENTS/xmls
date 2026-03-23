@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-23T22:04:58.305608</generated>
+  <generated>2026-03-24T00:04:36.620863</generated>
   <items>
     <item>
       <title>Trump says U.S. is postponing some strikes as it negotiates end to war with Iran</title>
@@ -19,6 +19,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Trump hails Memphis crime drop as a win. Locals see a more complex reality.</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/23/trump-memphis-crime-falling/</link>
+      <summary>Crime has fallen, but officials and residents question how much credit the federal surge deserves — and whether the approach can deliver lasting change.</summary>
+      <pubDate>Mon, 23 Mar 2026 21:21:23 +0000</pubDate>
+      <priority>95</priority>
+    </item>
+    <item>
       <title>Trump installs Christopher Columbus statue on White House grounds</title>
       <link>https://www.washingtonpost.com/politics/2026/03/22/white-house-christopher-columbus-statue/</link>
       <summary>The president has condemned efforts to take down statues of Columbus and other historical figures, saying the removals are an “assault on our collective national memory.”</summary>
@@ -29,14 +36,14 @@
       <title>Supreme Court says police officer is immune from misconduct claim by protester</title>
       <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-qualified-immunity-vermont/</link>
       <summary>The court, in an unsigned opinion, shielded a Vermont police officer from a claim that he used excessive force on a protester during a 2015 sit-in at the state’s capitol.</summary>
-      <pubDate>Mon, 23 Mar 2026 19:15:02 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 21:33:29 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
       <title>Supreme Court appears ready to limit mail-in balloting ahead of midterms</title>
       <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-mail-in-ballots-mississippi/</link>
       <summary>Republican groups challenged a law in Mississippi that allows officials to count mail-in ballots received up to five days after polls close.</summary>
-      <pubDate>Mon, 23 Mar 2026 18:28:05 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:09:37 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/21/trump-robert-mueller-death/</link>
       <summary>Mueller, who led the Russia investigation and the bureau after 9/11, remained a target of Trump years after his probe of possible election interference.</summary>
       <pubDate>Sat, 21 Mar 2026 22:05:13 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Robert Mueller, ex-FBI director at center of political tempest, dies at 81</title>
-      <link>https://www.washingtonpost.com/obituaries/2026/03/21/robert-mueller-dead/</link>
-      <summary>After building a reputation for quiet rectitude, he became a political target as special counsel investigating Russian interference in the 2016 election.</summary>
-      <pubDate>Sat, 21 Mar 2026 20:20:12 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

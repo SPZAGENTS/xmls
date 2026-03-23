@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-23T22:05:06.066740</generated>
+  <generated>2026-03-24T00:04:44.162479</generated>
   <items>
-    <item>
-      <title>How Ukraine's front line became a laboratory for drone innovation</title>
-      <link>https://abcnews.com/International/wireStory/ukraines-front-line-laboratory-drone-innovation-131299596</link>
-      <summary>Ukraine has built a fast, low-cost defensive shield to stop Russian attacks with Iranian-designed Shahed drones</summary>
-      <pubDate>Sun, 22 Mar 2026 10:03:05 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_e9de7db6437d3cbb428a6bacac326fb3_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Jewish charity's ambulances set on fire. UK counter-terror police probe it as antisemitic attack</title>
       <link>https://abcnews.com/International/wireStory/vehicles-belonging-jewish-ambulance-service-set-fire-london-131315454</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_493f0d803b9c197a158d8f970eeb0998_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How Ukraine's front line became a laboratory for drone innovation</title>
+      <link>https://abcnews.com/International/wireStory/ukraines-front-line-laboratory-drone-innovation-131299596</link>
+      <summary>Ukraine has built a fast, low-cost defensive shield to stop Russian attacks with Iranian-designed Shahed drones</summary>
+      <pubDate>Sun, 22 Mar 2026 10:03:05 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e9de7db6437d3cbb428a6bacac326fb3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
