@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-23T04:03:45.665647</generated>
+  <generated>2026-03-23T06:01:52.177641</generated>
   <items>
+    <item>
+      <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
+      <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
+      <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
+      <pubDate>Mon, 23 Mar 2026 02:23:56 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
       <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
-      <pubDate>Sun, 22 Mar 2026 23:52:07 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 03:34:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>Iran Responds to Trump’s Energy Threat With Defiance and Warnings of Its Own</title>
       <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iran-response-trump-threat-power-plants</link>
       <summary>Tehran “will not hesitate in defending its people and its land,” a senior official said, after President Trump threatened to destroy Iranian power plants.</summary>
-      <pubDate>Sun, 22 Mar 2026 14:46:00 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 03:35:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/arts/22israel-iran-defiance/22israel-iran-defiance-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-turkey-kurds-dispatch-fjvh/21int-turkey-kurds-dispatch-fjvh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How the Litani River Shapes the Israel-Hezbollah War</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/litani-river-israel-hezbollah-war.html</link>
-      <summary>The 90-mile waterway, back in focus amid Israel’s renewed offensive in Lebanon, could define how far the fighting spreads.</summary>
-      <pubDate>Sat, 21 Mar 2026 16:20:49 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-litani-river-1-vgpf/21israel-iran-litani-river-1-vgpf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
