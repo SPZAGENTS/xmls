@@ -2,19 +2,8 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T06:01:51.590160</generated>
+  <generated>2026-03-23T08:06:12.130061</generated>
   <items>
-    <item>
-      <title>Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants</title>
-      <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump</link>
-      <summary>Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.</summary>
-      <pubDate>Mon, 23 Mar 2026 03:35:25 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-400-wvmk/22israel-400-wvmk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
@@ -71,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Caught Between Two Conflicts, Afghans Flee Iran</title>
+      <link>https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html</link>
+      <summary>The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.</summary>
+      <pubDate>Mon, 23 Mar 2026 04:42:04 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-afghanistan-iran-bzkl/23int-afghanistan-iran-bzkl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
       <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
@@ -85,7 +85,7 @@
       <title>Trump’s Ultimatum to Iran</title>
       <link>https://www.nytimes.com/2026/03/22/world/trump-us-iran-oil-france-elections-bts.html</link>
       <summary>The president’s messages on the war have shifted, but the latest threat might be a sign that he’s moving to a harder stance.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:24:05 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 04:38:57 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-theworld-iran-top-cfwq-promo/23int-theworld-iran-top-cfwq-promo-mediumSquareAt3X.jpg</image>
