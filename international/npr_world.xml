@@ -2,14 +2,21 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-23T18:03:36.022454</generated>
+  <generated>2026-03-23T20:07:29.096111</generated>
   <items>
     <item>
-      <title>Trump delays striking Iran's power plants for 5 days during 'productive conversations'</title>
+      <title>Trump says the U.S. is in talks with Iran to end the war, which Iran denies</title>
       <link>https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz</link>
       <summary>Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.</summary>
       <pubDate>Mon, 23 Mar 2026 06:37:23 -0400</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Riz Ahmed is his own worst critic. His new show 'Bait' explores that</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5753772/riz-ahmed-bait-james-bond</link>
+      <summary>In his Prime Video series, Ahmed plays a struggling actor auditioning to be the next James Bond. Ahmed says Bond is a "symbol of aspiration, this unattainable kind of self" his character is pursuing.</summary>
+      <pubDate>Mon, 23 Mar 2026 13:11:49 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Voice of America staffers sue, alleging Kari Lake put on propaganda</title>
@@ -19,16 +26,16 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Worried about a shaky stock market? This is what financial advisers suggest you do</title>
-      <link>https://www.npr.org/2026/03/23/nx-s1-5742568/iran-war-investments-retirement-529-stock-market</link>
-      <summary>Their answer depends on how soon you need to tap into your funds — and it might simply be "do nothing."</summary>
+      <title>Mapping ICE's expanding footprint, and the communities fighting back</title>
+      <link>https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back</link>
+      <summary>Resistance in both Democratic and Republican cities points to broader unease with the direction of immigration enforcement.</summary>
       <pubDate>Mon, 23 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
-      <title>Mapping ICE's expanding footprint, and the communities fighting back</title>
-      <link>https://www.npr.org/2026/03/23/g-s1-114107/ices-growing-detention-footprint-and-the-communities-fighting-back</link>
-      <summary>Resistance in both Democratic and Republican cities points to broader unease with the direction of immigration enforcement.</summary>
+      <title>Worried about a shaky stock market? This is what financial advisers suggest you do</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5742568/iran-war-investments-retirement-529-stock-market</link>
+      <summary>Their answer depends on how soon you need to tap into your funds — and it might simply be "do nothing."</summary>
       <pubDate>Mon, 23 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
@@ -40,13 +47,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>ICE officers set to deploy to airports as delays mount, border czar Homan confirms</title>
-      <link>https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan</link>
-      <summary>Border czar Tom Homan says ICE agents will help the Transportation Security Administration "move those lines" while also enforcing immigration law.</summary>
-      <pubDate>Sun, 22 Mar 2026 13:30:42 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>Supreme Court declines to review press freedom case</title>
       <link>https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom</link>
       <summary>At issue was the 2017 arrest in Texas of a journalist who published news stories about a border agent's public suicide and a car crash.</summary>
@@ -54,16 +54,16 @@
       <priority>50</priority>
     </item>
     <item>
-      <title>With more older drivers on the road, states try to balance safety and mobility</title>
-      <link>https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety</link>
-      <summary>The number of older drivers on the road is climbing. Safety advocates want tougher rules for relicensing, but many drivers say they shouldn't be forced to give up their mobility because of age alone.</summary>
+      <title>As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5756410/dc-cherry-blossoms-history-japan</link>
+      <summary>The renowned trees along Washington, D.C's Tidal Basin were sent as a gift from Japan in 1912. Some of the original trees are still there.</summary>
       <pubDate>Mon, 23 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
     <item>
-      <title>As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history</title>
-      <link>https://www.npr.org/2026/03/23/nx-s1-5756410/dc-cherry-blossoms-history-japan</link>
-      <summary>The renowned trees along Washington, D.C's Tidal Basin were sent as a gift from Japan in 1912. Some of the original trees are still there.</summary>
+      <title>With more older drivers on the road, states try to balance safety and mobility</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5672445/older-drivers-licensing-safety</link>
+      <summary>The number of older drivers on the road is climbing. Safety advocates want tougher rules for relicensing, but many drivers say they shouldn't be forced to give up their mobility because of age alone.</summary>
       <pubDate>Mon, 23 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-23T18:03:29.020130</generated>
+  <generated>2026-03-23T20:07:22.040222</generated>
   <items>
     <item>
       <title>Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/2454f867dd00798b78773c10abe813621b34751e/90_0_536_429/master/536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6c9b67cc9f1cbdc0f32d9ef2a1d1122</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Colombian military plane crashes with scores of soldiers on board, officials say</title>
+      <link>https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash</link>
+      <summary>Cargo plane carrying between 80 and 110 soldiers crashes shortly after takeoff in southern Amazon regionScores of Colombian soldiers are feared dead after military transport plane crashed on takeoff in the south of the country.The defense minister, Pedro Sánchez, said the acci...</summary>
+      <pubDate>Mon, 23 Mar 2026 17:12:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/18e354cdd9eca009a2794221d7bb809eca316259/418_0_4178_3342/master/4178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4166f1b67362256cd750ac83cfceee5d</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,7 +93,7 @@
       </media>
     </item>
     <item>
-      <title>Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York</title>
+      <title>Two pilots killed after Air Canada jet collision at LaGuardia in New York</title>
       <link>https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights</link>
       <summary>Nine people hospitalised and airport closed after landing plane hits fire truck responding to separate incidentUS politics live – latest updatesThe pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at Ne...</summary>
       <pubDate>Mon, 23 Mar 2026 15:11:03 GMT</pubDate>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/e0a8d3343031a30a1490af28c51bc84ebae79110/579_0_5032_4027/master/5032.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f61bca82a0185a8a5cad6861db963a5c</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hundreds of petrol stations across Australia run out of fuel as Labor inks supply deal with Singapore</title>
-      <link>https://www.theguardian.com/australia-news/2026/mar/23/petrol-stations-australia-fuel-crisis</link>
-      <summary>Energy minister, Chris Bowen, says ‘we’re a long way’ from further action like fuel rationing despite shortagesGet our breaking news email, free app or daily news podcastHundreds of service stations across Australia have run out of fuel, with the federal government inking a de...</summary>
-      <pubDate>Mon, 23 Mar 2026 06:32:04 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/2a038c550846692fc6a75b68c7026814e9647524/250_0_2498_1998/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a04abb0065020a8b2846a7d5035a1a8</image>
         <type>image/jpeg</type>
       </media>
     </item>
