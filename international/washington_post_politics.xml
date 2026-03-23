@@ -2,13 +2,13 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-23T20:07:19.070967</generated>
+  <generated>2026-03-23T22:04:58.305608</generated>
   <items>
     <item>
       <title>Trump says U.S. is postponing some strikes as it negotiates end to war with Iran</title>
       <link>https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/</link>
-      <summary>The president’s announcement sent markets soaring and energy prices diving, as investors bet Iran’s blockade of a key shipping chokepoint could soon end.</summary>
-      <pubDate>Mon, 23 Mar 2026 16:58:59 +0000</pubDate>
+      <summary>The president’s announcement sent markets up and energy prices diving, as investors bet Iran’s blockade of a key shipping chokepoint could soon end.</summary>
+      <pubDate>Mon, 23 Mar 2026 19:47:08 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -24,6 +24,20 @@
       <summary>The president has condemned efforts to take down statues of Columbus and other historical figures, saying the removals are an “assault on our collective national memory.”</summary>
       <pubDate>Sun, 22 Mar 2026 21:55:40 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Supreme Court says police officer is immune from misconduct claim by protester</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-qualified-immunity-vermont/</link>
+      <summary>The court, in an unsigned opinion, shielded a Vermont police officer from a claim that he used excessive force on a protester during a 2015 sit-in at the state’s capitol.</summary>
+      <pubDate>Mon, 23 Mar 2026 19:15:02 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Supreme Court appears ready to limit mail-in balloting ahead of midterms</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-mail-in-ballots-mississippi/</link>
+      <summary>Republican groups challenged a law in Mississippi that allows officials to count mail-in ballots received up to five days after polls close.</summary>
+      <pubDate>Mon, 23 Mar 2026 18:28:05 +0000</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Republicans privately fear this swing state Democrat</title>
@@ -59,20 +73,6 @@
       <summary>After building a reputation for quiet rectitude, he became a political target as special counsel investigating Russian interference in the 2016 election.</summary>
       <pubDate>Sat, 21 Mar 2026 20:20:12 +0000</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Senate rejects Trump-backed measure to ban trans athletes in female sports</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/21/senate-trump-transgender-sports/</link>
-      <summary>The chamber considered adding the measure to a far-reaching voting bill supported by the Republican president.</summary>
-      <pubDate>Sat, 21 Mar 2026 19:57:47 +0000</pubDate>
-      <priority>60</priority>
-    </item>
-    <item>
-      <title>Supreme Court appears ready to limit mail-in balloting ahead of midterms</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-mail-in-ballots-mississippi/</link>
-      <summary>The high court appeared poised to embrace a challenge to the tallying of late-arriving mail-in ballots, which could upend procedures in a number of states.</summary>
-      <pubDate>Mon, 23 Mar 2026 17:24:05 +0000</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>
