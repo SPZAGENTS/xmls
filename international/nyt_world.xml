@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T16:05:09.305743</generated>
+  <generated>2026-03-23T18:03:27.633699</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Postpones Deadline For Strikes on Iran’s Energy Infrastructure</title>
+      <title>Iran War Live Updates: Trump Postpones Deadline for Strikes on Iran’s Energy Infrastructure</title>
       <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
       <summary>Iran disputed President Trump’s claim that the U.S. and Iran had held “very good” talks on ending the conflict, casting it as a ploy to soothe markets and to buy time for more military action.</summary>
-      <pubDate>Mon, 23 Mar 2026 14:00:18 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 15:58:56 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23mideast-promo-9am-or-so/23mideast-promo-9am-or-so-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23mideast-blog-promo-noon-ktzp/23mideast-blog-promo-noon-ktzp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
-      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
-      <pubDate>Mon, 23 Mar 2026 03:34:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html</link>
       <summary>Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.</summary>
@@ -71,24 +60,20 @@
       </media>
     </item>
     <item>
+      <title>Iran attempted to attack a far-off military base.</title>
+      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base</link>
+      <summary />
+      <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage</title>
       <link>https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html</link>
       <summary>A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:02:31 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 14:39:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/20/multimedia/Biz-Iran-Global-Econ-01-hkmb/Biz-Iran-Global-Econ-01-hkmb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
-      <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
-      <pubDate>Mon, 23 Mar 2026 12:36:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +96,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/world/23int-canada-arctic-military-07/23int-canada-arctic-military-07-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says</title>
+      <link>https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html</link>
+      <summary>The group’s director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.</summary>
+      <pubDate>Sun, 22 Mar 2026 15:47:02 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/22/world/22int-sudan-hospital-wb-top-art-01/22int-sudan-hospital-wb-top-art-01-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

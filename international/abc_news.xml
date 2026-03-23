@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-23T16:05:14.968301</generated>
+  <generated>2026-03-23T18:03:32.823365</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump says 'very good' Iran talks, hints at 'total resolution'</title>
+      <title>Iran live updates: Trump says Iran agreed to not have nuclear weapon</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 23 Mar 2026 08:54:12 -0400</pubDate>
+      <pubDate>Mon, 23 Mar 2026 11:45:05 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/uss-embed_1774264692581_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>International Energy Agency head says global economy faces ‘major, major threat’</title>
-      <link>https://abcnews.com/Business/wireStory/international-energy-agency-head-global-economy-faces-major-131316204</link>
-      <summary>The head of the International Energy Agency says the global economy faces a &amp;ldquo;major, major threat&amp;rdquo; because of the Iran war</summary>
-      <pubDate>Mon, 23 Mar 2026 04:10:58 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_f1e7ccd313263fd63e695f43a2e68165_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260323_1774274047824_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260322_abc_social_arad_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ground stop briefly in place, control tower evacuated at Newark Airport</title>
+      <link>https://abcnews.com/US/ground-stop-place-control-tower-evacuated-newark-airport/story?id=131319376</link>
+      <summary>The FAA said there was a ground stop at Newark Liberty International Airport.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:14:01 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/AP26078796715604_1774268619394_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Dozens injured, 2 pilots dead in ground collision at LaGuardia; airport closed</title>
-      <link>https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551</link>
-      <summary>LaGuardia Airport in New York was closed early on Monday following a collision between a Port Authority airport vehicle and an Air Canada regional plane.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:09:37 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/lga-plane1-gty-gmh-260323_1774268663266_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Meteor streaks across Texas sky before breaking up in fireball</title>
       <link>https://abcnews.com/video/131309733/</link>
       <summary>A meteor traveling at nearly 35,000 mph caused a loud boom over Texas as it broke into pieces while entering Earth's atmosphere, according to NASA.</summary>
@@ -89,6 +78,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260322_abc_social_meteor_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Plane traveling 93-105 mph at time of ground collision at LaGuardia Airport</title>
+      <link>https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551</link>
+      <summary>LaGuardia Airport in New York was closed early on Monday following a collision between a Port Authority airport vehicle and an Air Canada regional plane.</summary>
+      <pubDate>Mon, 23 Mar 2026 11:27:02 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/lga-plane-5-gty-gmh-260323_1774274581604_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

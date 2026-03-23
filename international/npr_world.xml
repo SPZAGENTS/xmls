@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-23T16:05:17.872270</generated>
+  <generated>2026-03-23T18:03:36.022454</generated>
   <items>
     <item>
       <title>Trump delays striking Iran's power plants for 5 days during 'productive conversations'</title>
@@ -10,13 +10,6 @@
       <summary>Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.</summary>
       <pubDate>Mon, 23 Mar 2026 06:37:23 -0400</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Pilot and copilot killed in collision between jet and fire truck at LaGuardia</title>
-      <link>https://www.npr.org/2026/03/23/g-s1-114773/new-york-laguardia-jet-collides-with-vehicle</link>
-      <summary>Two people were killed and several others badly hurt when an Air Canada regional jet struck a fire truck on a runway while landing at New York's LaGuardia Airport late Sunday night, officials said.</summary>
-      <pubDate>Mon, 23 Mar 2026 04:46:31 -0400</pubDate>
-      <priority>80</priority>
     </item>
     <item>
       <title>Voice of America staffers sue, alleging Kari Lake put on propaganda</title>
@@ -40,6 +33,13 @@
       <priority>65</priority>
     </item>
     <item>
+      <title>A LaGuardia crash kills 2, hurts dozens and closes the airport. Here's what to know</title>
+      <link>https://www.npr.org/2026/03/23/g-s1-114773/laguardia-air-canada-plane-collision-fire-truck</link>
+      <summary>An Air Canada regional jet hit a fire truck while landing at LaGuardia on Sunday night, killing both pilots. At least nine people are hospitalized, and the airport is closed Monday morning.</summary>
+      <pubDate>Mon, 23 Mar 2026 04:46:31 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>ICE officers set to deploy to airports as delays mount, border czar Homan confirms</title>
       <link>https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan</link>
       <summary>Border czar Tom Homan says ICE agents will help the Transportation Security Administration "move those lines" while also enforcing immigration law.</summary>
@@ -47,11 +47,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>This lab that's determined to discover new drugs isn't where you might expect</title>
-      <link>https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles</link>
-      <summary>A scientist from Zambia who loves — LOVES! — chemistry runs a lab in South Africa that is being hailed for "extraordinary" work.</summary>
-      <pubDate>Sun, 22 Mar 2026 09:25:30 -0400</pubDate>
-      <priority>65</priority>
+      <title>Supreme Court declines to review press freedom case</title>
+      <link>https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom</link>
+      <summary>At issue was the 2017 arrest in Texas of a journalist who published news stories about a border agent's public suicide and a car crash.</summary>
+      <pubDate>Mon, 23 Mar 2026 10:32:54 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>With more older drivers on the road, states try to balance safety and mobility</title>

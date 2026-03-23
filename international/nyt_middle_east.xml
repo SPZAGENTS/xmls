@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-23T16:05:09.901745</generated>
+  <generated>2026-03-23T18:03:28.231181</generated>
   <items>
+    <item>
+      <title>Iran attempted to attack a far-off military base.</title>
+      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base</link>
+      <summary />
+      <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Sidelined by War With Iran, Gaza Residents Remain in Limbo</title>
       <link>https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html</link>
@@ -95,22 +102,11 @@
     <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/03/21/world/middleeast/middle-east-war-recap.html</link>
-      <summary>An Iranian missile wounded dozens in Dimona, a city believed to house Israel’s nuclear weapons program, as Iran showed no signs of backing down.</summary>
-      <pubDate>Sat, 21 Mar 2026 23:18:06 +0000</pubDate>
+      <summary>An Iranian missile wounded dozens in Dimona, a city near Israel’s main nuclear research facility, as Tehran showed no signs of backing down.</summary>
+      <pubDate>Mon, 23 Mar 2026 15:21:39 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-front-by-front-vmgk/21israel-iran-front-by-front-vmgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian missile strikes Israeli city near main nuclear research facility.</title>
-      <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/iranian-missile-strikes-israeli-city-near-main-nuclear-research-facility</link>
-      <summary />
-      <pubDate>Sun, 22 Mar 2026 01:54:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/21/multimedia/21israel-iran-dimona-strike-fqmj/21israel-iran-dimona-strike-fqmj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
