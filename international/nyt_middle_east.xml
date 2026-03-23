@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-23T10:03:48.317189</generated>
+  <generated>2026-03-23T12:04:02.135983</generated>
   <items>
+    <item>
+      <title>Sidelined by War With Iran, Gaza Residents Remain in Limbo</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html</link>
+      <summary>The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:59:24 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
       <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
-      <pubDate>Mon, 23 Mar 2026 06:47:46 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 09:24:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/21/multimedia/21israel-iran-dimona-strike-fqmj/21israel-iran-dimona-strike-fqmj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>With Fire and Song, Kurds in Turkey Hail the Start of Spring</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html</link>
-      <summary>The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.</summary>
-      <pubDate>Sat, 21 Mar 2026 21:32:18 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-turkey-kurds-dispatch-fjvh/21int-turkey-kurds-dispatch-fjvh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

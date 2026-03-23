@@ -2,8 +2,52 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-23T10:03:47.726486</generated>
+  <generated>2026-03-23T12:04:01.506457</generated>
   <items>
+    <item>
+      <title>Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes</title>
+      <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
+      <summary>Residents reported widespread power outages across the capital. Israel’s military said it had begun a new wave of airstrikes targeting infrastructure in the city, but did not provide further details.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:50:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-promo-kvbj/23israel-iran-carousel-kvbj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Sidelined by War With Iran, Gaza Residents Remain in Limbo</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html</link>
+      <summary>The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:59:24 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Caught Between Two Conflicts, Afghans Flee Iran</title>
+      <link>https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html</link>
+      <summary>The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.</summary>
+      <pubDate>Mon, 23 Mar 2026 04:42:04 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-afghanistan-iran-bzkl/23int-afghanistan-iran-bzkl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops</title>
+      <link>https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html</link>
+      <summary>Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:34:28 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/00int-ukraine-drones-amazon-qlpw/00int-ukraine-drones-amazon-qlpw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
@@ -27,46 +71,13 @@
       </media>
     </item>
     <item>
-      <title>Terror Attacks Haunted This Brussels Community. Now It’s Trying to Move On.</title>
-      <link>https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html</link>
-      <summary>Molenbeek was branded a hotbed of radicalization after terrorists hit Brussels and Paris a decade ago, but new challenges show that reinvention doesn’t come easy.</summary>
-      <pubDate>Sun, 22 Mar 2026 15:28:11 +0000</pubDate>
+      <title>Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage</title>
+      <link>https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html</link>
+      <summary>A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:02:31 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22int-brussels-terror-dispatch-001-btmv/22int-brussels-terror-dispatch-001-btmv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>With Fire and Song, Kurds in Turkey Hail the Start of Spring</title>
-      <link>https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html</link>
-      <summary>The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.</summary>
-      <pubDate>Sat, 21 Mar 2026 21:32:18 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-turkey-kurds-dispatch-fjvh/21int-turkey-kurds-dispatch-fjvh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks</title>
-      <link>https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html</link>
-      <summary>The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.</summary>
-      <pubDate>Sat, 21 Mar 2026 20:36:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/21/multimedia/21int-ukraine-talks-vhtg/21int-ukraine-talks-vhtg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Caught Between Two Conflicts, Afghans Flee Iran</title>
-      <link>https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html</link>
-      <summary>The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.</summary>
-      <pubDate>Mon, 23 Mar 2026 04:42:04 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-afghanistan-iran-bzkl/23int-afghanistan-iran-bzkl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/20/multimedia/Biz-Iran-Global-Econ-01-hkmb/Biz-Iran-Global-Econ-01-hkmb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +85,7 @@
       <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
       <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
       <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
-      <pubDate>Mon, 23 Mar 2026 06:47:46 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 09:24:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-iran-front-by-front-kpvb/22israel-iran-front-by-front-kpvb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Tehran Is Defiant After Trump Threatens Power Plants</title>
-      <link>https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump</link>
-      <summary>Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.</summary>
-      <pubDate>Mon, 23 Mar 2026 07:58:04 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-400-wvmk/22israel-400-wvmk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
