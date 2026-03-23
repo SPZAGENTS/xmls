@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-23T12:04:00.860687</generated>
+  <generated>2026-03-23T14:03:23.716534</generated>
   <items>
+    <item>
+      <title>Trump says U.S. is negotiating end to war with Iran</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/</link>
+      <summary>Trump said he had told the U.S. military to postpone strikes against Iranian energy infrastructure for five days, while talks proceed.</summary>
+      <pubDate>Mon, 23 Mar 2026 11:41:07 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Joe Kent says he wants Trump to hear MAGA opposition to Iran war</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/22/joe-kent-iran-war-trump/</link>
@@ -66,13 +73,6 @@
       <summary>The chamber considered adding the measure to a far-reaching voting bill supported by the Republican president.</summary>
       <pubDate>Sat, 21 Mar 2026 19:57:47 +0000</pubDate>
       <priority>60</priority>
-    </item>
-    <item>
-      <title>Doubts from key Republicans on surgeon general test MAHA’s political power</title>
-      <link>https://www.washingtonpost.com/health/2026/03/23/casey-means-surgeon-general-nomination-stalled-maha/</link>
-      <summary>Casey Means faces pushback from some Republicans over her refusal to forcefully recommend vaccines.</summary>
-      <pubDate>Mon, 23 Mar 2026 10:00:00 +0000</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>
