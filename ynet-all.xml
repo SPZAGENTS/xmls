@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-24T18:03:29.653770</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-24T18:04:07.367678</generated>
   <items>
     <item>
-      <title>IDF says Israeli artillery fire killed farmer near Lebanon border, not Hezbollah</title>
-      <link>https://www.ynetnews.com/article/syzbrlc9be</link>
-      <description>Military says initial findings showed that Ofer Moskovitz, a farmer from Kibbutz Misgav Am, killed when artillery shells fired by Israeli forces landed inside Israeli territory instead of their intended target in southern Lebanon</description>
-      <pubDate>Mon, 23 Mar 2026 08:40:54 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Why Israel's defense shield failed over Dimona and Arad</title>
+      <link>https://www.ynetnews.com/article/skdy00faq11g</link>
+      <summary>After missiles strikes, scrutiny grows over use of David’s Sling against Iranian ballistic missiles, with defense officials pointing to stockpile pressures, expanded deployment and limits of lower-altitude interception</summary>
+      <pubDate>Mon, 23 Mar 2026 12:15:36 +03:00</pubDate>
+      <priority>135</priority>
     </item>
     <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
+      <title>Two brothers charged with spying for Iran, using AI to fake military intel</title>
+      <link>https://www.ynetnews.com/article/ryhwijlobx</link>
+      <summary>Jerusalem area residents allegedly contacted an Iranian agent, posing as an intelligence soldier and using AI to fabricate documents in exchange for cryptocurrency payments</summary>
+      <pubDate>Tue, 24 Mar 2026 12:28:06 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Hezbollah Radwan Force commandos surrender, captured by IDF troops in southern Lebanon</title>
-      <link>https://www.ynetnews.com/article/rkurvbyjze</link>
-      <description>Armed operatives planning anti-tank attack detained by Givati Brigade; IDF says movement from Beqaa contradicts Lebanese army claims of control south of Litani River</description>
-      <pubDate>Mon, 23 Mar 2026 20:44:20 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>The decisive conversation between Trump and Netanyahu before strike on Iran: 'You can make history'</title>
+      <link>https://www.ynetnews.com/article/skudnrkowg</link>
+      <summary>Less than 48 hours before the opening strike in Iran, Netanyahu and Trump spoke by phone; In the conversation, the prime minister said it was a historic opportunity 'to avenge assassination attempts,' and promised that the people might overthrow the regime</summary>
+      <pubDate>Tue, 24 Mar 2026 01:53:08 +03:00</pubDate>
+      <priority>120</priority>
     </item>
     <item>
-      <title>IDF says Hezbollah invasion threat to northern communities has been removed</title>
-      <link>https://www.ynetnews.com/article/hjyoi00rqbe</link>
-      <description>As rocket fire from Lebanon continues, military officials say feared Hezbollah border raid no longer poses a tangible threat after expanded ground operations, forward troop deployments and creation of buffer zone near frontier</description>
-      <pubDate>Mon, 23 Mar 2026 10:37:56 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>Israel 'not surprised, going along' with Trump on Iran talks, officials say</title>
+      <link>https://www.ynetnews.com/article/byzd13c9zg</link>
+      <summary>Officials say intensive behind-the-scenes contacts between Washington and Tehran, both direct and through Qatari and Turkish mediation, aimed at reaching a deal</summary>
+      <pubDate>Mon, 23 Mar 2026 14:21:25 +03:00</pubDate>
+      <priority>120</priority>
     </item>
     <item>
-      <title>Israeli officials doubt Iran will accept Trump’s ‘surrender’ terms</title>
-      <link>https://www.ynetnews.com/article/rkxmcblowl</link>
-      <description>Jerusalem closely monitoring talks amid doubts Iran will agree and fears Trump may compromise under pressure; fighting in Lebanon intensifying regardless of any deal</description>
-      <pubDate>Tue, 24 Mar 2026 15:05:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>105</priority-score>
+      <title>בין כניעה לפנטזיה: "דיל המאה" של טראמפ עם איראן - והספק בישראל</title>
+      <link>https://www.ynet.co.il/news/article/hkj3legiwl</link>
+      <summary>על אף שבירושלים לא פוסלים גם את האפשרות שהנשיא מחפש "תמונת ניצחון" שתאפשר לו לגמור את המלחמה, ההערכות הן שהוא יסרב להתקפל בנושאים מרכזיים - שקשה להאמין כי איראן תסכים להם. השוט שמונף, הפלונטר הלבנוני וגם איך תנאי מזג האוויר מסבכים את הכול: תמונת מצב מדינית משתי הזירות</summary>
+      <pubDate>Tue, 24 Mar 2026 14:27:21 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Some 30 rockets fired at northern Israel from Lebanon; no injuries reported</title>
-      <link>https://www.ynetnews.com/article/h1l6c61jwg</link>
-      <description>Around 20 rockets were launched in the first barrage toward the Krayot and Acre, followed by about 10 more aimed at Nahariya and nearby areas</description>
-      <pubDate>Tue, 24 Mar 2026 10:46:31 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>105</priority-score>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>US eyes Iran’s hardline parliament speaker Ghalibaf as potential leader, partner to end war</title>
-      <link>https://www.ynetnews.com/article/syvf1ykj11x</link>
-      <description>Sources in the Trump administration confirmed to Politico that Mohammad-Bagher Ghalibaf is a 'hot name'; The Americans are building on the Venezuelan model, but the man who grew up in the Revolutionary Guards has positioned himself as a hardliner</description>
-      <pubDate>Tue, 24 Mar 2026 05:17:33 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>105</priority-score>
+      <title>מי באמת צריכה כימותרפיה בסרטן השד? מודל AI מהטכניון נותן תשובה מיידית</title>
+      <link>https://www.ynet.co.il/health/article/hkm00nwp911e</link>
+      <summary>בכל שנה מאובחנות בסרטן השד כ-5,000 נשים בישראל, כ-300 אלף בארצות הברית וכ-2.3 מיליון ברחבי העולם. מחקר חדש מהטכניון מציג מודל בינה מלאכותית שמנתח דגימות רקמה ומסייע לנבא למי מהמטופלות כימותרפיה צפויה להועיל, ובכך עשוי לצמצם טיפולים מיותרים ולשפר את קבלת ההחלטות הרפואיות</summary>
+      <pubDate>Tue, 24 Mar 2026 09:53:48 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>IDF probe finds serious operational failures in strike that killed farmer on Lebanon border</title>
-      <link>https://www.ynetnews.com/article/byd4jyaqbl</link>
-      <description>Military says support fire for troops in southern Lebanon was carried out at wrong angle and not according to procedure, with five shells striking Israeli territory and killing Ofer 'Pushko' Moskovitz</description>
-      <pubDate>Mon, 23 Mar 2026 11:24:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>105</priority-score>
+      <title>בעולם התרבות מבקשים סיוע מהממשלה: "עשרות אלפים נותקו ממקור פרנסתם"</title>
+      <link>https://www.ynet.co.il/entertainment/article/bjrrh4p911l</link>
+      <summary>ענף התרבות הישראלי, שהושבת כמעט לחלוטין עם פרוץ הלחימה מול איראן, מזהיר מקריסה רחבה של אמנים, הפקות וחברות. באיגוד תעשיית התרבות דורשים מהממשלה להכיר בענף כפגוע במיוחד ולהפעיל מנגנון סיוע מיידי. בין הדרישות: מענקי גישור, חל"ת מורחב, דחיית תשלומים והקמת קרן ייעודית. ברקע - הפסד...</summary>
+      <pubDate>Sun, 22 Mar 2026 12:02:15 +0200</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Ambitious Mossad plan to spark Iran uprising seems to fall short as war drags on</title>
-      <link>https://www.ynetnews.com/article/b13n118r911l</link>
-      <description>Trump and Netanyahu embraced an optimistic strategy of assassinations and covert efforts to trigger unrest, but intelligence officials say fear of Iran’s security forces has so far prevented mass protests or a broader revolt</description>
-      <pubDate>Mon, 23 Mar 2026 08:02:31 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>105</priority-score>
+      <title>Central Tel Aviv hit by 100-kg Iranian missile; buildings damaged, cars destroyed</title>
+      <link>https://www.ynetnews.com/article/rkntvsjo11x</link>
+      <summary>Sixth Iranian barrage hits central Israel; 100-kg missile strikes Tel Aviv, damaging buildings and vehicles, while six are lightly wounded; additional damage reported in Rosh HaAyin</summary>
+      <pubDate>Tue, 24 Mar 2026 09:20:45 +03:00</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>דיווח: יורש העצר הסעודי דוחק בטראמפ להמשיך במלחמה נגד איראן</title>
-      <link>https://www.ynet.co.il/news/article/hymp11xgjze</link>
-      <description />
-      <pubDate>Tue, 24 Mar 2026 16:54:45 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>95</priority-score>
+      <title>Sirens sound across central, southern Israel after Iran missile launch; no injuries reported</title>
+      <link>https://www.ynetnews.com/article/bj2gkuccbx</link>
+      <summary>Initial indications suggested the missile may have been a cluster-type munition, though this has not been officially confirmed; sirens were also activated in parts of central Israel, in some cases without advance warning</summary>
+      <pubDate>Mon, 23 Mar 2026 10:29:33 +03:00</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
