@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-24T14:06:33.727912</generated>
+  <generated>2026-03-24T16:04:18.887537</generated>
   <items>
     <item>
       <title>Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/2454f867dd00798b78773c10abe813621b34751e/90_0_536_429/master/536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6c9b67cc9f1cbdc0f32d9ef2a1d1122</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>LaGuardia pilots raised safety alarms months before deadly runway crash</title>
+      <link>https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash</link>
+      <summary>Nasa reports show repeated warnings of close calls before crash that killed two pilots and injured 41 othersSign up for the Breaking News US email to get newsletter alerts in your inboxPilot safety concerns about New York’s LaGuardia airport were filed to aviation officials mo...</summary>
+      <pubDate>Tue, 24 Mar 2026 13:33:42 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/949bea7c064fe803ca2163eeb445f1392d4d52eb/2407_951_5495_4395/master/5495.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f3eeb953cdbffdb759e22217a507d4</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/4ca550f2553130082d2da9ea015dc9756ca9b962/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1489cf375b78e4cd03b1c7879eef7434</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Canadian mother and daughter ‘traumatized’ by ICE detainment, husband says</title>
-      <link>https://www.theguardian.com/us-news/2026/mar/20/canadian-mother-daughter-ice-detention</link>
-      <summary>Tania Warner and Ayla, her seven-year-old with autism, sent to notorious Texas detention center and told to ‘self-deport’Sign up for the Breaking News US email to get newsletter alerts in your inboxA Canadian woman and her seven-year-old daughter with autism who have been held...</summary>
-      <pubDate>Fri, 20 Mar 2026 18:04:51 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/b980e2efd0632bdf5d11b07ca9e7c9fbc04378c5/0_28_1290_1031/master/1290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c22c60845ae70019eb79dc3040af066</image>
         <type>image/jpeg</type>
       </media>
     </item>
