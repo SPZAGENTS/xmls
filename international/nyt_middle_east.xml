@@ -2,13 +2,46 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-24T16:04:18.094632</generated>
+  <generated>2026-03-24T18:05:02.527719</generated>
   <items>
     <item>
-      <title>Saudi Prince Is Said to Push Trump to Continue Iran War in Recent Calls</title>
+      <title>Trump’s Threat to ‘Obliterate’ Iran’s Power Stations Could Constitute a War Crime, Rights Experts Say</title>
+      <link>https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html</link>
+      <summary>Intentionally targeting the country’s energy infrastructure could constitute a war crime under international law.</summary>
+      <pubDate>Tue, 24 Mar 2026 15:34:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/24/nyregion/24dc-power-stations/24dc-power-stations-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Three of the Lives Lost in One Day of Israeli Strikes in Lebanon</title>
+      <link>https://www.nytimes.com/2026/03/24/world/middleeast/lebanon-iran-war-casualties.html</link>
+      <summary>A 4-year-old, a professor and an aid worker are among those killed in separate airstrikes as Israel pummels towns and cities, saying it is targeting Hezbollah operatives.</summary>
+      <pubDate>Tue, 24 Mar 2026 15:15:11 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/19/multimedia/19israel-iran-lebanon-casualties-klzb/19israel-iran-lebanon-casualties-klzb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War in Iran Is Disrupting Air Travel, Hitting Middle East Hardest</title>
+      <link>https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html</link>
+      <summary>Some airlines and travelers, especially in the Middle East and elsewhere in Asia, are bearing the brunt of the pain, while others are doing better.</summary>
+      <pubDate>Tue, 24 Mar 2026 14:02:26 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24biz-iran-airlines-vbjf/24biz-iran-airlines-vbjf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls</title>
       <link>https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html</link>
-      <summary>Prince Mohammed bin Salman sees a “historic opportunity” to remake the region, according to people briefed by U.S. officials on the conversations.</summary>
-      <pubDate>Tue, 24 Mar 2026 13:06:42 +0000</pubDate>
+      <summary>Crown Prince Mohammed bin Salman sees a “historic opportunity” to remake the region, according to people briefed by U.S. officials on the conversations.</summary>
+      <pubDate>Tue, 24 Mar 2026 15:24:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23dc-trump-saudi-01-bmwg/23dc-trump-saudi-01-bmwg-mediumSquareAt3X.jpg</image>
@@ -76,39 +109,6 @@
       <summary />
       <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Sidelined by War With Iran, Gaza Residents Remain in Limbo</title>
-      <link>https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html</link>
-      <summary>The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:59:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians Fear Trump’s Threat to Strike Power Plants</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html</link>
-      <summary>With President Trump threatening to strike Iranian power plants, some war-weary civilians are panicking over a possible new debacle.</summary>
-      <pubDate>Mon, 23 Mar 2026 12:36:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/22/multimedia/22israel-iran-iranians-power-wtfz/22israel-iran-iranians-power-wtfz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel’s Missile Defense Under Scrutiny After Iranian Attack</title>
-      <link>https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html</link>
-      <summary>Two missiles landed hours apart, wreaking havoc in two towns near a heavily guarded nuclear site in the Negev Desert.</summary>
-      <pubDate>Mon, 23 Mar 2026 03:34:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/22/multimedia/22israel-defenses-new-kflc/22israel-defenses-new-kflc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
