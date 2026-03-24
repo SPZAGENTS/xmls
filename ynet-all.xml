@@ -3,9 +3,17 @@
   <title>Ynet All Articles — Complete Feed</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-03-24T12:04:22.164431</last-updated>
+  <last-updated>2026-03-24T14:04:23.171867</last-updated>
   <article-count>10</article-count>
   <items>
+    <item>
+      <title>IDF says Israeli artillery fire killed farmer near Lebanon border, not Hezbollah</title>
+      <link>https://www.ynetnews.com/article/syzbrlc9be</link>
+      <description>Military says initial findings showed that Ofer Moskovitz, a farmer from Kibbutz Misgav Am, killed when artillery shells fired by Israeli forces landed inside Israeli territory instead of their intended target in southern Lebanon</description>
+      <pubDate>Mon, 23 Mar 2026 08:40:54 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
+    </item>
     <item>
       <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
       <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
@@ -77,14 +85,6 @@
       <pubDate>Tue, 24 Mar 2026 08:40:07 +0200</pubDate>
       <source>ynet-main-news</source>
       <priority-score>100</priority-score>
-    </item>
-    <item>
-      <title>גורמים ישראלים: טראמפ נחוש להגיע לעסקה; לא סביר שאיראן תסכים לדרישות</title>
-      <link>https://www.ynet.co.il/news/article/rjktgayi11x</link>
-      <description />
-      <pubDate>Tue, 24 Mar 2026 11:07:28 +0200</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>95</priority-score>
     </item>
   </items>
 </content-feed>
