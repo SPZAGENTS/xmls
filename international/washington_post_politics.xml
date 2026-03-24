@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-24T10:01:57.010687</generated>
+  <generated>2026-03-24T12:03:29.969233</generated>
   <items>
     <item>
       <title>Trump says U.S. is postponing some strikes as it negotiates end to war with Iran</title>
@@ -40,13 +40,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Supreme Court says police officer is immune from misconduct claim by protester</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-qualified-immunity-vermont/</link>
-      <summary>The court, in an unsigned opinion, shielded a Vermont police officer from a claim that he used excessive force on a protester during a 2015 sit-in at the state’s capitol.</summary>
-      <pubDate>Mon, 23 Mar 2026 21:33:29 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>Supreme Court appears ready to limit mail-in balloting ahead of midterms</title>
       <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-mail-in-ballots-mississippi/</link>
       <summary>Republican groups challenged a law in Mississippi that allows officials to count mail-in ballots received up to five days after polls close.</summary>
@@ -73,6 +66,13 @@
       <summary>The Trump administration faces complicated political dynamics as it seeks someone to helm the key public health agency suffering a prolonged leadership vacuum.</summary>
       <pubDate>Sun, 22 Mar 2026 10:00:00 +0000</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>He was Rubio’s friend and roommate. Now Rubio will testify against him.</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/24/marco-rubio-maduro-rivera-miami-venezuela-politics/</link>
+      <summary>Former congressman David Rivera, accused of secretly lobbying for Nicolás Maduro’s government in Venezuela, climbed Miami politics alongside Marco Rubio.</summary>
+      <pubDate>Tue, 24 Mar 2026 09:00:26 +0000</pubDate>
+      <priority>60</priority>
     </item>
   </items>
 </content-feed>
