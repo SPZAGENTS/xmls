@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-24T08:03:10.674368</generated>
+  <generated>2026-03-24T10:02:03.050283</generated>
   <items>
     <item>
       <title>Iran live updates: Iran denies any talks with US following Trump's remarks</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 23 Mar 2026 18:04:17 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 03:40:02 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-260323_1774274047824_hpMain_4x3t_384.jpg</image>
@@ -23,17 +23,6 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260323_gma_digital_2_doordasher_10_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jury finds Bill Cosby sexually assaulted woman in 1972, awards her more than $19M</title>
-      <link>https://abcnews.com/Entertainment/wireStory/jury-finds-bill-cosby-sexually-assaulted-woman-1972-131340970</link>
-      <summary>A California civil jury has found Bill Cosby liable for drugging and sexually assaulting a woman in 1972</summary>
-      <pubDate>Mon, 23 Mar 2026 17:13:36 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Entertainment/wirestory_83b384df93fd9bf862b553b19b5aa4f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Denmark votes in an early election that follows a crisis over US designs on Greenland</title>
+      <link>https://abcnews.com/International/wireStory/denmark-votes-early-election-crisis-us-designs-greenland-131350622</link>
+      <summary>Danish voters are going to the polls in a general election</summary>
+      <pubDate>Tue, 24 Mar 2026 03:56:27 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_a47b681838c18ef9b7b4fe63fd4b3b0c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

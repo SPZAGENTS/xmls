@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-24T08:03:13.865869</generated>
+  <generated>2026-03-24T10:02:06.076327</generated>
   <total_articles>329</total_articles>
   <items>
     <item>
@@ -13,7 +13,7 @@
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9783/live/f753dec0-2728-11f1-90f0-21df3b4f5bbc.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad02/live/d0a34360-2755-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>
@@ -28,6 +28,17 @@
       </media>
     </item>
     <item>
+      <title>Police investigating possible Iran link to attack on Jewish charity ambulances</title>
+      <link>https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Met Police chief Sir Mark Rowley says they are looking at "an online claim of responsibility by an Islamist group"</summary>
+      <pubDate>Tue, 24 Mar 2026 07:16:12 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b54/live/46d5c040-274b-11f1-b297-95b0a0a8331e.png</image>
+      </media>
+    </item>
+    <item>
       <title>Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran</title>
       <link>https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.</summary>
@@ -35,7 +46,7 @@
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef4/live/933036c0-2730-11f1-934f-036468834728.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26dc/live/7668dbd0-274b-11f1-bfc6-55f8fd1b2a6c.jpg</image>
       </media>
     </item>
     <item>
@@ -53,7 +64,7 @@
       <title>Oil back above $100 as conflicting claims emerge on US-Iran talks</title>
       <link>https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Global energy prices plunged on Monday after Trump said he had postponed strikes on Iranian power plants.</summary>
-      <pubDate>Tue, 24 Mar 2026 04:29:25 GMT</pubDate>
+      <pubDate>Tue, 24 Mar 2026 07:42:57 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>US' and Iran's options for ending war narrow the longer it goes on</title>
-      <link>https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.</summary>
-      <pubDate>Mon, 23 Mar 2026 15:34:38 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
   </items>
