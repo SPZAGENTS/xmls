@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-24T00:04:37.274910</generated>
+  <generated>2026-03-24T02:01:58.880118</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects</title>
       <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
       <summary>President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.</summary>
-      <pubDate>Mon, 23 Mar 2026 21:56:32 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 23:18:53 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23mideast-340-mtkz/23mideast-340-mtkz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-promo6p-lchv/23israel-iran-promo6p-lchv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Trump’s Ultimatum to Iran Was Almost Up. Then He Found an Offramp.</title>
+      <link>https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html</link>
+      <summary>President Trump postponed his threat to strike power plants in Iran, citing “productive conversations” with the Iranians. But officials said the talks were in an early stage and not substantive.</summary>
+      <pubDate>Mon, 23 Mar 2026 23:53:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23DC-PREXY-jghk/23DC-PREXY-jghk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran Negotiations — or Not?</title>
       <link>https://www.nytimes.com/2026/03/23/world/us-iran-talks-denmark-election.html</link>
       <summary>President Trump’s shifting statements don’t necessarily signal an end in sight to the war, but they do buy him some time.</summary>
@@ -93,22 +104,15 @@
       </media>
     </item>
     <item>
-      <title>Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket</title>
-      <link>https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html</link>
-      <summary>Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit.</summary>
-      <pubDate>Mon, 23 Mar 2026 16:47:09 +0000</pubDate>
-      <priority>100</priority>
+      <title>Here’s What Happened in the War in the Middle East on Monday</title>
+      <link>https://www.nytimes.com/2026/03/23/world/middleeast/middle-east-war-iran-march-23.html</link>
+      <summary>Conflicting signals about whether any negotiations to end the fighting were in progress created confusion.</summary>
+      <pubDate>Mon, 23 Mar 2026 22:37:30 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/world/23israel-iran-friendly-fire-001a/23israel-iran-friendly-fire-001a-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-beirut-bgfp/23israel-iran-beirut-bgfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Iran attempted to attack a far-off military base.</title>
-      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base</link>
-      <summary />
-      <pubDate>Mon, 23 Mar 2026 14:33:47 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
