@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-24T12:03:36.299540</generated>
+  <generated>2026-03-24T14:06:37.358922</generated>
   <items>
     <item>
-      <title>Iran live updates: Damage in Tel Aviv region after Iranian attack, authorities say</title>
+      <title>Iran live updates: Iranian missiles damage Tel Aviv amid reported peace talks</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 24 Mar 2026 05:56:11 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:02:30 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tel-Aviv-damage-DB-260324_1774337006662_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia fires nearly 400 drones at Ukraine with signs its spring offensive has started</title>
+      <link>https://abcnews.com/International/wireStory/russia-fires-400-drones-ukraine-signs-spring-offensive-131352764</link>
+      <summary>Russia has unleashed a massive drone and missile barrage on civilian areas of Ukraine and is stepping up ground attacks along the front</summary>
+      <pubDate>Tue, 24 Mar 2026 07:30:56 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_48a46d2503513c903bc3e4de31b96e00_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: ISS sees Russian strikes on Ukraine from space</title>
-      <link>https://abcnews.com/video/131318307/</link>
-      <summary>Footage from the space station appears to show Russian missiles being intercepted by Ukrainian air defenses.</summary>
-      <pubDate>Mon, 23 Mar 2026 07:28:40 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260323_abc_social_russia_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -49,21 +49,10 @@
       </media>
     </item>
     <item>
-      <title>Denmark votes in an early election that follows a crisis over US designs on Greenland</title>
-      <link>https://abcnews.com/International/wireStory/denmark-votes-early-election-crisis-us-designs-greenland-131350622</link>
-      <summary>Danish voters are going to the polls in a general election</summary>
-      <pubDate>Tue, 24 Mar 2026 04:19:02 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_a47b681838c18ef9b7b4fe63fd4b3b0c_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>As Trump blocks asylum seekers, Supreme Court to decide if US must review claims</title>
       <link>https://abcnews.com/Politics/trump-blocks-asylum-seekers-supreme-court-decide-us/story?id=131189496</link>
       <summary>A major legal battle over the ability of asylum seekers to apply for refuge in the U.S. at ports of entry along the border with Mexico lands at the Supreme Court.</summary>
-      <pubDate>Tue, 24 Mar 2026 05:06:39 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 06:35:29 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/border-1-gty-er-260320_1774040196298_hpMain_4x3t_384.jpg</image>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260323_gma_spencer_justintimberlake1_0732_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Alaska resident captures ‘insane’ northern lights</title>
+      <link>https://abcnews.com/video/131348698/</link>
+      <summary>A photographer in Alaska shared this stunning view of the northern lights captured around dusk on Monday.</summary>
+      <pubDate>Tue, 24 Mar 2026 02:13:23 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260323_abc_soc_northern_lights_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
