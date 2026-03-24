@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-24T02:01:58.880118</generated>
+  <generated>2026-03-24T06:01:10.163965</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects</title>
       <link>https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump</link>
       <summary>President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.</summary>
-      <pubDate>Mon, 23 Mar 2026 23:18:53 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:05:52 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-promo6p-lchv/23israel-iran-promo6p-lchv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-promo9p/23israel-iran-beirut-bgfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -30,7 +30,7 @@
       <title>A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops</title>
       <link>https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html</link>
       <summary>Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.</summary>
-      <pubDate>Mon, 23 Mar 2026 17:41:48 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 17:41:49 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/19/multimedia/00int-ukraine-drones-amazon-qlpw/00int-ukraine-drones-amazon-qlpw-mediumSquareAt3X.jpg</image>
@@ -60,10 +60,21 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Ultimatum to Iran Was Almost Up. Then He Found an Offramp.</title>
+      <title>How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal</title>
+      <link>https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html</link>
+      <summary>He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.</summary>
+      <pubDate>Tue, 24 Mar 2026 03:44:06 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-nkorea-nukes-gmqz/24int-nkorea-nukes-gmqz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Delays Threat to Iran, but War Negotiations Are in Early Stage</title>
       <link>https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html</link>
       <summary>President Trump postponed his threat to strike power plants in Iran, citing “productive conversations” with the Iranians. But officials said the talks were in an early stage and not substantive.</summary>
-      <pubDate>Mon, 23 Mar 2026 23:53:50 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 00:14:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23DC-PREXY-jghk/23DC-PREXY-jghk-mediumSquareAt3X.jpg</image>
@@ -82,28 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Trump Delays Energy Strikes, but Iran’s Infrastructure Is Already Battered</title>
-      <link>https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html</link>
-      <summary>U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.</summary>
-      <pubDate>Mon, 23 Mar 2026 20:25:19 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-infrastructure-01-vwzc/23israel-iran-infrastructure-01-vwzc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns</title>
-      <link>https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html</link>
-      <summary>Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis than the two oil shocks in the 1970s combined.</summary>
-      <pubDate>Mon, 23 Mar 2026 19:36:19 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-IEA-warning-1-qcjm/23israel-iran-IEA-warning-1-qcjm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Here’s What Happened in the War in the Middle East on Monday</title>
       <link>https://www.nytimes.com/2026/03/23/world/middleeast/middle-east-war-iran-march-23.html</link>
       <summary>Conflicting signals about whether any negotiations to end the fighting were in progress created confusion.</summary>
@@ -111,6 +100,17 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-beirut-bgfp/23israel-iran-beirut-bgfp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Taiwan Debates Military Spending as Choices Over U.S. and China Loom</title>
+      <link>https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html</link>
+      <summary>Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.</summary>
+      <pubDate>Mon, 23 Mar 2026 18:53:26 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-taiwan-opposition-01-qcpt/23int-taiwan-opposition-01-qcpt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
