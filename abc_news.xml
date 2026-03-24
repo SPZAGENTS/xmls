@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-23T22:05:05.196736</generated>
+  <generated>2026-03-24T02:02:03.480295</generated>
   <items>
     <item>
       <title>Trump says US and Iran have 'major points of agreement,' including no nuclear weapons</title>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>Ground stop briefly in place, control tower evacuated at Newark Airport</title>
-      <link>https://abcnews.com/US/ground-stop-place-control-tower-evacuated-newark-airport/story?id=131319376</link>
-      <summary>The FAA said there was a ground stop at Newark Liberty International Airport.</summary>
-      <pubDate>Mon, 23 Mar 2026 09:14:01 -0400</pubDate>
+      <title>WATCH: Close to $1M raised for DoorDash driver, 78, and his wife</title>
+      <link>https://abcnews.com/video/131341034/</link>
+      <summary>A family started a GoFundMe for Richard Pulley after he made a delivery to their home.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:44:47 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260323_gma_digital_2_doordasher_10_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Jury finds Bill Cosby sexually assaulted woman in 1972, awards her more than $19M</title>
+      <link>https://abcnews.com/Entertainment/wireStory/jury-finds-bill-cosby-sexually-assaulted-woman-1972-131340970</link>
+      <summary>A California civil jury has found Bill Cosby liable for drugging and sexually assaulting a woman in 1972</summary>
+      <pubDate>Mon, 23 Mar 2026 17:13:36 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/AP26078796715604_1774268619394_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Entertainment/wirestory_83b384df93fd9bf862b553b19b5aa4f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Meteor streaks across Texas sky before breaking up in fireball</title>
-      <link>https://abcnews.com/video/131309733/</link>
-      <summary>A meteor traveling at nearly 35,000 mph caused a loud boom over Texas as it broke into pieces while entering Earth's atmosphere, according to NASA.</summary>
-      <pubDate>Mon, 23 Mar 2026 04:09:29 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260322_abc_social_meteor_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Plane traveling 93-105 mph at time of ground collision at LaGuardia Airport</title>
-      <link>https://abcnews.com/US/laguardia-airport-closed-collision-air-canada-plane-airport/story?id=131315551</link>
-      <summary>A regional Air Canada jet collided into a Port Authority airport vehicle at LaGuardia Airport in New York City.</summary>
-      <pubDate>Mon, 23 Mar 2026 16:04:19 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/lga-plane-11-rt-gmh-260323_1774290085963_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: ICE officers arrive at airport TSA checkpoints after Trump order amid shutdown</title>
       <link>https://abcnews.com/video/131329580/</link>
       <summary>Former Homeland Security official Elizabeth Neumann discusses deploying ICE agents to airports nationwide during the ongoing government shutdown.</summary>
@@ -93,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Long lines at New Orleans airport amid DHS shutdown</title>
-      <link>https://abcnews.com/video/131309338/</link>
-      <summary>Travelers found long lines at Louis Armstrong New Orleans International Airport on Sunday morning as the partial Department of Homeland Security shutdown continues.</summary>
-      <pubDate>Mon, 23 Mar 2026 08:30:14 -0400</pubDate>
-      <priority>65</priority>
+      <title>Tips to find airport security wait times amid TSA staffing shortages</title>
+      <link>https://abcnews.com/GMA/Travel/find-airport-security-wait-times-long-lines-tsa-staffing-shortages/story?id=131181063</link>
+      <summary>As the TSA app does not show real-time data amid the partial government shutdown, here are a few alternatives travelers can use to make the wait easier.</summary>
+      <pubDate>Mon, 23 Mar 2026 18:11:15 -0400</pubDate>
+      <priority>50</priority>
       <media>
-        <image>https://s.abcnews.com/images/Travel/260322_abc_social_airport_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/tsa-1-gty-er-260323_1774300556857_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>50</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260323_gma3_pop_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Surfing coach rescues dad, daughter from rip current</title>
+      <link>https://abcnews.com/video/131327564/</link>
+      <summary>Lucas Taub was coaching in a competition in Southern California when he noticed a pair of swimmers in distress.</summary>
+      <pubDate>Mon, 23 Mar 2026 12:16:53 -0400</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260323_gmafl_surfer_rescue_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
