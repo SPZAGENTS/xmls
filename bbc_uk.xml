@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-24T10:01:52.901811</generated>
+  <generated>2026-03-24T12:03:25.626886</generated>
   <items>
     <item>
       <title>Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad02/live/d0a34360-2755-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Police investigating possible Iran link to attack on Jewish charity ambulances</title>
+      <link>https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Met Police chief Sir Mark Rowley says they are looking at "an online claim of responsibility by an Islamist group"</summary>
+      <pubDate>Tue, 24 Mar 2026 09:36:00 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe5/live/f7055ce0-2765-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Police investigating possible Iran link to attack on Jewish charity ambulances</title>
-      <link>https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Met Police chief Sir Mark Rowley says they are looking at "an online claim of responsibility by an Islamist group"</summary>
-      <pubDate>Tue, 24 Mar 2026 07:16:12 GMT</pubDate>
+      <title>Oil back above $100 as conflicting claims emerge on US-Iran talks</title>
+      <link>https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Global energy prices plunged on Monday after Trump said he had postponed strikes on Iranian power plants.</summary>
+      <pubDate>Tue, 24 Mar 2026 09:51:10 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b54/live/46d5c040-274b-11f1-b297-95b0a0a8331e.png</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be4/live/e7c06920-2736-11f1-9d51-6b2897f6c543.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oil back above $100 as conflicting claims emerge on US-Iran talks</title>
-      <link>https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Global energy prices plunged on Monday after Trump said he had postponed strikes on Iranian power plants.</summary>
-      <pubDate>Tue, 24 Mar 2026 07:42:57 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be4/live/e7c06920-2736-11f1-9d51-6b2897f6c543.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

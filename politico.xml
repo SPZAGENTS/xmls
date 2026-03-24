@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-24T10:01:55.569242</generated>
+  <generated>2026-03-24T12:03:28.466401</generated>
   <items>
     <item>
       <title>AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/f9/37/67f98cf34beb900c26f73be5779d/us-election-2026-house-illinois-53489.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>2028 Dems reject AIPAC</title>
+      <link>https://www.politico.com/news/2026/03/24/2028-democrats-reject-aipac-00841350</link>
+      <summary>Democrats eyeing White House bids are distancing themselves from the powerful pro-Israel group amid slumping support for Israel within the party’s base.</summary>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 EST</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static.politico.com/f9/b0/9015aa4a4247bb4aa0a0ff7c22d1/senate-democrats-iran-07010.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +93,13 @@
       </media>
     </item>
     <item>
+      <title>Newsom: We could lose the country in 2028</title>
+      <link>https://www.politico.com/video/2026/03/24/newsom-we-could-lose-the-country-in-2028-1971501</link>
+      <summary />
+      <pubDate>Tue, 24 Mar 2026 04:00:00 EST</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>'I’m super-Republican, but you got my vote': The Democratic deer hunter setting his sights on flipping Iowa</title>
       <link>https://www.politico.com/news/2026/03/21/iowa-democrats-rob-sand-midterms-hunting-00837624</link>
       <summary>Democrats are desperate to find locally authentic candidates after 2024. They think people like Iowa gubernatorial candidate Rob Sand might help.</summary>
@@ -91,24 +109,6 @@
         <image>https://static.politico.com/7f/22/ffd68dac4d0fb97775532bff95d8/main-robsand.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Pete Buttigieg’s 2026 project</title>
-      <link>https://www.politico.com/news/2026/03/20/pete-buttigieg-midterms-2028-00837307</link>
-      <summary>The former Transportation secretary and onetime presidential candidate is traveling the country for the midterms. The road may lead him beyond.</summary>
-      <pubDate>Fri, 20 Mar 2026 04:55:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/3f/29/7ece8e1f492a97da808978de54a7/us-election-2026-redistricting-indiana-96445.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The nation’s cartoonists on the week in politics</title>
-      <link>https://www.politico.com/gallery/2026/03/20/the-nations-cartoonists-on-the-week-in-politics-00836828</link>
-      <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
-      <pubDate>Fri, 20 Mar 2026 04:00:00 EST</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
