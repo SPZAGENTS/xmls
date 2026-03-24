@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-24T04:03:37.974640</generated>
+  <generated>2026-03-24T06:01:07.269069</generated>
   <items>
     <item>
       <title>Top House Dem dismisses probe into Jasmine Crockett’s security guard killed in SWAT standoff</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Federal officer in critical condition after DC shooting as authorities search for answers</title>
-      <link>https://www.foxnews.com/us/federal-officer-critical-condition-dc-shooting-authorities-search-answers</link>
-      <summary>A US Park Police officer was shot in SE Washington, D.C., and is critically wounded, with FBI Director Kash Patel vowing to find those responsible.</summary>
-      <pubDate>Mon, 23 Mar 2026 21:21:55 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/washington-dc-police-crime_02.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Obama adviser reveals private conversations urging Biden not to run in 2016</title>
       <link>https://www.foxnews.com/media/obama-adviser-reveals-private-conversations-urging-biden-not-run-2016</link>
       <summary>The University of Virginia’s Miller Center published an interview with Obama strategist David Plouffe, who was tasked with informing Biden that he should not run for president in 2016.</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/mike-johnson-churck-schumer.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>300-plus Angel Families jump into Markwayne Mullin’s DHS nomination fight in unequivocal terms</title>
+      <link>https://www.foxnews.com/politics/300-plus-angel-families-jump-markwayne-mullins-dhs-nomination-fight-unequivocal-terms</link>
+      <summary>Over 300 Angel Families represented by The American Border Story are urging Congress to support Markwayne Mullin for DHS, arguing he understands the stakes at play.</summary>
+      <pubDate>Mon, 23 Mar 2026 18:21:05 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/angel-families-optimized.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
