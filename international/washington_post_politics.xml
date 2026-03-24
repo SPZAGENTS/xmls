@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-24T22:09:38.814092</generated>
+  <generated>2026-03-25T00:06:27.431593</generated>
   <items>
     <item>
       <title>Trump says U.S. is postponing some strikes as it negotiates end to war with Iran</title>
@@ -19,6 +19,13 @@
       <priority>95</priority>
     </item>
     <item>
+      <title>Senate Republicans pitch deal to end DHS shutdown, but Trump isn’t sold</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/24/dhs-funding-senate-white-house/</link>
+      <summary>The deal under discussion would fund the department except for the part of Immigration and Customs Enforcement charged with arresting and deporting undocumented immigrants.</summary>
+      <pubDate>Tue, 24 Mar 2026 21:25:49 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Oklahoma energy executive Alan Armstrong sworn in as U.S. senator</title>
       <link>https://www.washingtonpost.com/politics/2026/03/24/mullins-senate-replacement-armstrong/</link>
       <summary>Oklahoma Gov. Kevin Stitt (R) appointed Armstrong to the Senate seat vacated by Sen. Markwayne Mullin (R), who was confirmed as homeland security secretary Monday.</summary>
@@ -26,24 +33,10 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Senate Republicans float deal to end DHS shutdown, but Trump won’t commit</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/24/dhs-funding-senate-white-house/</link>
-      <summary>The deal under discussion would fund the department except for the part of Immigration and Customs Enforcement charged with arresting and deporting undocumented immigrants.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:53:56 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Tracking who Trump is appointing to fill key administration roles</title>
       <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
       <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
       <pubDate>Tue, 24 Mar 2026 17:21:38 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Trump installs Christopher Columbus statue on White House grounds</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/22/white-house-christopher-columbus-statue/</link>
-      <summary>The president has condemned efforts to take down statues of Columbus and other historical figures, saying the removals are an “assault on our collective national memory.”</summary>
-      <pubDate>Sun, 22 Mar 2026 21:55:40 +0000</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/23/supreme-court-mail-in-ballots-mississippi/</link>
       <summary>Republican groups challenged a law in Mississippi that allows officials to count mail-in ballots received up to five days after polls close.</summary>
       <pubDate>Mon, 23 Mar 2026 20:09:37 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Republicans privately fear this swing state Democrat</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/23/ossoff-georgia-senate-midterms-democrats-republicans/</link>
+      <summary>Behind closed doors, Republicans have tamped down their hopes of unseating Jon Ossoff, a 39-year-old powerhouse fundraiser, as he seeks another term.</summary>
+      <pubDate>Mon, 23 Mar 2026 09:00:06 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
