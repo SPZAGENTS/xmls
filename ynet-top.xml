@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-25T00:04:18.264877</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-25T00:05:32.684316</generated>
   <items>
     <item>
       <title>Nuclear-armed Pakistan mediating between Iran, US seen as 'highly problematic': 'Saudis could influence'</title>
       <link>https://www.ynetnews.com/article/s1jdfkljwe</link>
-      <description>Pakistan manages to maintain ties with both Trump and the Revolutionary Guards and is filling the void; Israel is maintaining a formal silence, but is concerned about the rise of the military junta, which has announced that it will agree to host talks between Washington and Te...</description>
+      <summary>Pakistan manages to maintain ties with both Trump and the Revolutionary Guards and is filling the void; Israel is maintaining a formal silence, but is concerned about the rise of the military junta, which has announced that it will agree to host talks between Washington and Te...</summary>
       <pubDate>Tue, 24 Mar 2026 23:53:15 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>Woman killed as Hezbollah fires nonstop rockets and drones on northern Israel, IDF presses in Lebanon</title>
       <link>https://www.ynetnews.com/article/b1izt4eszl</link>
-      <description>MDA confirms woman’s death after Hezbollah fire from Lebanon as rockets and drones continue to hit northern Israel; IDF expands raids, targets infrastructure while tensions rise amid Iran-linked escalation</description>
+      <summary>MDA confirms woman’s death after Hezbollah fire from Lebanon as rockets and drones continue to hit northern Israel; IDF expands raids, targets infrastructure while tensions rise amid Iran-linked escalation</summary>
       <pubDate>Tue, 24 Mar 2026 18:49:27 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Two brothers charged with spying for Iran, using AI to fake military intel</title>
       <link>https://www.ynetnews.com/article/ryhwijlobx</link>
-      <description>Jerusalem area residents allegedly contacted an Iranian agent, posing as an intelligence soldier and using AI to fabricate documents in exchange for cryptocurrency payments</description>
+      <summary>Jerusalem area residents allegedly contacted an Iranian agent, posing as an intelligence soldier and using AI to fabricate documents in exchange for cryptocurrency payments</summary>
       <pubDate>Tue, 24 Mar 2026 12:28:06 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>The decisive conversation between Trump and Netanyahu before strike on Iran: 'You can make history'</title>
       <link>https://www.ynetnews.com/article/skudnrkowg</link>
-      <description>Less than 48 hours before the opening strike in Iran, Netanyahu and Trump spoke by phone; In the conversation, the prime minister said it was a historic opportunity 'to avenge assassination attempts,' and promised that the people might overthrow the regime</description>
+      <summary>Less than 48 hours before the opening strike in Iran, Netanyahu and Trump spoke by phone; In the conversation, the prime minister said it was a historic opportunity 'to avenge assassination attempts,' and promised that the people might overthrow the regime</summary>
       <pubDate>Tue, 24 Mar 2026 01:53:08 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>120</priority-score>
+      <priority>120</priority>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>מי באמת צריכה כימותרפיה בסרטן השד? מודל AI מהטכניון נותן תשובה מיידית</title>
       <link>https://www.ynet.co.il/health/article/hkm00nwp911e</link>
-      <description>בכל שנה מאובחנות בסרטן השד כ-5,000 נשים בישראל, כ-300 אלף בארצות הברית וכ-2.3 מיליון ברחבי העולם. מחקר חדש מהטכניון מציג מודל בינה מלאכותית שמנתח דגימות רקמה ומסייע לנבא למי מהמטופלות כימותרפיה צפויה להועיל, ובכך עשוי לצמצם טיפולים מיותרים ולשפר את קבלת ההחלטות הרפואיות</description>
+      <summary>בכל שנה מאובחנות בסרטן השד כ-5,000 נשים בישראל, כ-300 אלף בארצות הברית וכ-2.3 מיליון ברחבי העולם. מחקר חדש מהטכניון מציג מודל בינה מלאכותית שמנתח דגימות רקמה ומסייע לנבא למי מהמטופלות כימותרפיה צפויה להועיל, ובכך עשוי לצמצם טיפולים מיותרים ולשפר את קבלת ההחלטות הרפואיות</summary>
       <pubDate>Tue, 24 Mar 2026 09:53:48 +0200</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>בעולם התרבות מבקשים סיוע מהממשלה: "עשרות אלפים נותקו ממקור פרנסתם"</title>
       <link>https://www.ynet.co.il/entertainment/article/bjrrh4p911l</link>
-      <description>ענף התרבות הישראלי, שהושבת כמעט לחלוטין עם פרוץ הלחימה מול איראן, מזהיר מקריסה רחבה של אמנים, הפקות וחברות. באיגוד תעשיית התרבות דורשים מהממשלה להכיר בענף כפגוע במיוחד ולהפעיל מנגנון סיוע מיידי. בין הדרישות: מענקי גישור, חל"ת מורחב, דחיית תשלומים והקמת קרן ייעודית. ברקע - הפסד...</description>
+      <summary>ענף התרבות הישראלי, שהושבת כמעט לחלוטין עם פרוץ הלחימה מול איראן, מזהיר מקריסה רחבה של אמנים, הפקות וחברות. באיגוד תעשיית התרבות דורשים מהממשלה להכיר בענף כפגוע במיוחד ולהפעיל מנגנון סיוע מיידי. בין הדרישות: מענקי גישור, חל"ת מורחב, דחיית תשלומים והקמת קרן ייעודית. ברקע - הפסד...</summary>
       <pubDate>Sun, 22 Mar 2026 12:02:15 +0200</pubDate>
-      <source>ynet-culture</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>Israeli officials say any Iran deal must include all agreed red lines, doubt Tehran will comply</title>
       <link>https://www.ynetnews.com/article/syb1jueowl</link>
-      <description>US pushes for monthlong ceasefire ahead of broader deal, but Israeli officials warn Iran may agree but not implement terms, calling regime 'pathological liars' as talks expected to begin soon in Pakistan</description>
+      <summary>US pushes for monthlong ceasefire ahead of broader deal, but Israeli officials warn Iran may agree but not implement terms, calling regime 'pathological liars' as talks expected to begin soon in Pakistan</summary>
       <pubDate>Tue, 24 Mar 2026 22:11:33 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>Iranian cluster missile hits central Israel after interception miss; 12 wounded in Bnei Brak, damage in Petah Tikva</title>
       <link>https://www.ynetnews.com/article/bkdjevlo11e</link>
-      <description>IDF says it struck Iranian weapons sites and Hezbollah cells; military reports declining Hezbollah arsenal while reservist call-up may expand amid escalating multi-front war</description>
+      <summary>IDF says it struck Iranian weapons sites and Hezbollah cells; military reports declining Hezbollah arsenal while reservist call-up may expand amid escalating multi-front war</summary>
       <pubDate>Tue, 24 Mar 2026 21:11:25 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>Central Tel Aviv hit by 100-kg Iranian missile; buildings damaged, cars destroyed</title>
       <link>https://www.ynetnews.com/article/rkntvsjo11x</link>
-      <description>Sixth Iranian barrage hits central Israel; 100-kg missile strikes Tel Aviv, damaging buildings and vehicles, while six are lightly wounded; additional damage reported in Rosh HaAyin</description>
+      <summary>Sixth Iranian barrage hits central Israel; 100-kg missile strikes Tel Aviv, damaging buildings and vehicles, while six are lightly wounded; additional damage reported in Rosh HaAyin</summary>
       <pubDate>Tue, 24 Mar 2026 09:20:45 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>

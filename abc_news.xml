@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-24T20:06:56.969211</generated>
+  <generated>2026-03-24T22:09:44.431369</generated>
   <items>
     <item>
-      <title>Iran live updates: Part of 82nd Airborne Division deploying to Middle East: Source</title>
+      <title>Iran live updates: 290 American troops wounded in Iran war</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 24 Mar 2026 13:54:16 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 15:39:05 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/airborne-5-ht-gmh-260324_1774373866736_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Deadly LaGuardia Airport crash: Runway safety system 'did not alert,' NTSB says</title>
+      <link>https://abcnews.com/US/laguardia-airport-crash-1-2-killed-pilots-identified/story?id=131353775</link>
+      <summary>Two people were in the LaGuardia Airport air traffic control tower cab when an Air Canada jet collided with a Port Authority airport vehicle.</summary>
+      <pubDate>Tue, 24 Mar 2026 15:59:15 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/lga-crash-3-rt-gmh-260324_1774357843446_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: President Trump touts ‘very strong talks’ with Iran as it denies negotiations</title>
-      <link>https://abcnews.com/video/131361611/</link>
-      <summary>Trump, after postponing U.S. strikes on Iran's energy infrastructure citing new negotiations with Tehran, said on Monday that talks will continue and that there are "major points of agreement."</summary>
-      <pubDate>Tue, 24 Mar 2026 13:10:26 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260324_abc_social_iran_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Close to $1M raised for DoorDash driver, 78, and his wife</title>
       <link>https://abcnews.com/video/131341034/</link>
       <summary>A family started a GoFundMe for Richard Pulley after he made a delivery to their home.</summary>
@@ -49,10 +49,21 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Passengers stuck in mid-air as carnival ride stalls in Texas</title>
+      <link>https://abcnews.com/video/131369957/</link>
+      <summary>A woman captured the moment her husband and other passengers got stuck for about 10 minutes when a ride appeared to malfunction at the Houston Livestock Show and Rodeo.</summary>
+      <pubDate>Tue, 24 Mar 2026 15:09:46 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260324_abc_social_carnival_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Mon, 23 Mar 2026 15:49:31 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 14:28:33 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -63,7 +74,7 @@
       <title>Quadruple amputee cornhole champion facing murder charges in fatal shooting</title>
       <link>https://abcnews.com/US/quadruple-amputee-cornhole-champion-facing-murder-charges-fatal/story?id=131339058</link>
       <summary>The victim -- identified as 27-year-old Bradrick Michael Wells -- was found dead in a yard in Charlotte Hall, Maryland, according to the Charles County Sheriff's Office.</summary>
-      <pubDate>Mon, 23 Mar 2026 17:12:25 -0400</pubDate>
+      <pubDate>Tue, 24 Mar 2026 14:32:53 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/Dayton-James-Webber-ht-gmh-260323_1774294857558_hpMain_4x3t_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260323_abc_soc_northern_lights_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Video shows moment jet slams into fire truck at LaGuardia, killing both pilots</title>
-      <link>https://abcnews.com/video/131343514/</link>
-      <summary>An Air Canada plane slammed into a fire truck in its path while coming in to land at New York City's LaGuardia Airport. The pilot and co-pilot were killed, and dozens were injured.</summary>
-      <pubDate>Mon, 23 Mar 2026 20:25:29 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260323_wn_benitez_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
