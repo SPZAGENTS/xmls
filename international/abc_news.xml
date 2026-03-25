@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-25T14:01:07.563795</generated>
+  <generated>2026-03-25T16:01:00.379942</generated>
   <items>
     <item>
       <title>Iran live updates: Iran insists no negotiations as US sends peace plan</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate strikes</title>
+      <link>https://abcnews.com/International/wireStory/russia-shot-400-ukrainian-drones-moscow-kyiv-escalate-131387616</link>
+      <summary>Russia is reporting that it has shot down hundreds of Ukrainian drones in a massive overnight attack across its regions and Crimea</summary>
+      <pubDate>Wed, 25 Mar 2026 05:41:41 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9cb9adca61c79312b470a00fa8ae80be_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>2 arrested in connection with London arson attack on Jewish charity's ambulances</title>
-      <link>https://abcnews.com/International/2-arrested-connection-london-arson-attack-jewish-charitys/story?id=131388332</link>
-      <summary>Ambulances were set on fire early on Monday in the Golders Green neighborhood.</summary>
-      <pubDate>Wed, 25 Mar 2026 06:49:17 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/golders-green_1774433558529_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Bruins welcome Rhode Island high school hockey team</title>
       <link>https://abcnews.com/video/131353745/</link>
       <summary>The Boston Bruins invited state champion Blackstone Valley Co-op to practice at Warrior Ice Arena after team captain Colin Dorgan suffered the tragic loss of three family members.</summary>
@@ -60,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>House Oversight releases deposition videos of 2 key Epstein associates</title>
-      <link>https://abcnews.com/US/drank-kool-aid-house-oversight-releases-deposition-videos/story?id=131359216</link>
-      <summary>Jeffrey Epstein's longtime attorney and accountant told lawmakers they were never questioned by authorities about their work for him, according to deposition videos.</summary>
-      <pubDate>Wed, 25 Mar 2026 06:56:22 -0400</pubDate>
+      <title>WATCH: Rare twin gorilla babies born in Congo</title>
+      <link>https://abcnews.com/video/131391287/</link>
+      <summary>Conservationists at Virunga National Park in the Democratic Republic of the Congo are celebrating this morning after the birth of a set of mountain gorilla twins.</summary>
+      <pubDate>Wed, 25 Mar 2026 08:09:26 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/darren-indyke-ap-jef-260319_1773935345333_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: United’s new lie-flat economy option</title>
-      <link>https://abcnews.com/video/131390965/</link>
-      <summary>The dream for anyone on an overnight flight in economy is to stretch out and get a good night’s sleep. United is announcing a new option aimed at making that dream come true.</summary>
-      <pubDate>Wed, 25 Mar 2026 07:39:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260325_gma_spencer_united_718_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260325_gma_potd_gorilla1_749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,6 +78,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Technology/260325_wnn_moon_base_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: United’s new lie-flat economy option</title>
+      <link>https://abcnews.com/video/131390965/</link>
+      <summary>The dream for anyone on an overnight flight in economy is to stretch out and get a good night’s sleep. United is announcing a new option aimed at making that dream come true.</summary>
+      <pubDate>Wed, 25 Mar 2026 09:19:06 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260325_gma_spencer_united_718_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

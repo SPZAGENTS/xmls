@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-25T14:01:08.961058</generated>
+  <generated>2026-03-25T16:01:01.465949</generated>
   <items>
     <item>
       <title>Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate strikes</title>
-      <link>https://abcnews.com/International/wireStory/russia-shot-400-ukrainian-drones-moscow-kyiv-escalate-131387616</link>
-      <summary>Russia is reporting that it has shot down hundreds of Ukrainian drones in a massive overnight attack across its regions and Crimea</summary>
-      <pubDate>Wed, 25 Mar 2026 05:41:41 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_9cb9adca61c79312b470a00fa8ae80be_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Moldova imposes 60-day energy emergency after Russian strikes in Ukraine cut key power line</title>
       <link>https://abcnews.com/International/wireStory/moldova-imposes-60-day-energy-emergency-after-russian-131373623</link>
       <summary>Moldova&amp;rsquo;s Parliament voted on Tuesday in favor of imposing a 60-day state of emergency in the country&amp;rsquo;s energy sector after Russian strikes on neighboring Ukraine&amp;rsquo;s energy grid disconnected a key power line linking Moldova to Romania</summary>
@@ -67,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_6eab12eb279528f7b5277fc1e175a01d_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate strikes</title>
+      <link>https://abcnews.com/International/wireStory/russia-shot-400-ukrainian-drones-moscow-kyiv-escalate-131387616</link>
+      <summary>Russia is reporting that it has shot down hundreds of Ukrainian drones in a massive overnight attack across its regions and Crimea</summary>
+      <pubDate>Wed, 25 Mar 2026 05:41:41 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9cb9adca61c79312b470a00fa8ae80be_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-25T14:01:02.631860</generated>
+  <generated>2026-03-25T16:00:55.770088</generated>
   <items>
+    <item>
+      <title>NATO’s ‘Trump Whisperer’ Faces Blowback Over Support for Iran War</title>
+      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-nato-rutte-trump.html</link>
+      <summary>Critics say Mark Rutte, the alliance’s secretary general, has gone beyond his remit by openly supporting a war that does not directly involve Europe’s collective defense.</summary>
+      <pubDate>Wed, 25 Mar 2026 13:59:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-Nato-vtpc/25israel-iran-Nato-vtpc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Cheap Drones Remain Wild Card in Iran war</title>
       <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</link>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-qatar-bhzq/24israel-iran-qatar-bhzq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Why President Trump Has a Big Oil Problem</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html</link>
-      <summary>Our national security correspondent David E. Sanger looks at President Trump’s trouble handling retaliatory attacks by Iran that have largely choked off the Strait of Hormuz.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:39:38 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
