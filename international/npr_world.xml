@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-25T02:03:57.683039</generated>
+  <generated>2026-03-25T04:01:05.397330</generated>
   <items>
     <item>
       <title>The Israeli military wants several more weeks to fight Iran war, officials say</title>
@@ -12,24 +12,10 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump declares victory and claims Iran offers a 'prize' in talks Iran has denied having</title>
-      <link>https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks</link>
-      <summary>President Trump said on Tuesday Iran made a valuable offer to reach a deal with the United States, in talks that Iran has denied are taking place. "We've won this. This war has been won," Trump said.</summary>
-      <pubDate>Tue, 24 Mar 2026 07:08:10 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>New Mexico jury says Meta harms children's mental health and safety, violating state law</title>
       <link>https://www.npr.org/2026/03/24/g-s1-115019/new-mexico-meta-children-mental-health</link>
       <summary>The jury agreed that Meta engaged in "unconscionable" trade practices that unfairly took advantage of the vulnerabilities of and inexperience of children. Jurors found there were thousands of violations, each counting separately toward a penalty of $375 million.</summary>
       <pubDate>Tue, 24 Mar 2026 18:12:02 -0400</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Kim vows to 'irreversibly' cement North Korea's nuclear status</title>
-      <link>https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status</link>
-      <summary>In his speech, Kim expressed pride in the country's rapid expansion of nuclear weapons and missiles in recent years, calling it the "right" choice.</summary>
-      <pubDate>Tue, 24 Mar 2026 07:05:14 -0400</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -47,6 +33,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Judge says government's Anthropic ban looks like punishment</title>
+      <link>https://www.npr.org/2026/03/24/nx-s1-5759276/anthropic-pentagon-claude-preliminary-injunction-hearing</link>
+      <summary>Tech company Anthropic, the maker of the Claude AI system, is suing the Trump administration over the government labeling it a "supply chain risk."</summary>
+      <pubDate>Tue, 24 Mar 2026 20:12:28 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Cuba sends doctors on medical missions. The U.S. isn't a fan</title>
       <link>https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade</link>
       <summary>It's a major source of revenue for the island. And it's controversial. Now countries are sending Cuban doctors home in response to pressure from the Trump administration.</summary>
@@ -59,6 +52,13 @@
       <summary>Delta Airlines is temporarily suspending specialty services to member of Congress due to resource constraints from the ongoing shutdown of DHS.</summary>
       <pubDate>Tue, 24 Mar 2026 13:37:23 -0400</pubDate>
       <priority>60</priority>
+    </item>
+    <item>
+      <title>An air traffic controller was juggling extra roles during the LaGuardia plane crash</title>
+      <link>https://www.npr.org/2026/03/24/nx-s1-5759710/laguardia-airport-plane-crash</link>
+      <summary>The National Transportation Safety Board said it has concerns about air traffic controllers who work the midnight shift taking on extra work in an airspace as busy as LaGuardia's.</summary>
+      <pubDate>Tue, 24 Mar 2026 20:10:25 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Her mother murdered her father in an infamous case. Now, she's telling her own story</title>

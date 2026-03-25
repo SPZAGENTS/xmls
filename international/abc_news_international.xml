@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-25T02:03:55.707949</generated>
+  <generated>2026-03-25T04:01:03.493980</generated>
   <items>
-    <item>
-      <title>Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy</title>
-      <link>https://abcnews.com/International/wireStory/trump-iran-eager-deal-end-war-extends-deadline-131315545</link>
-      <summary>U.S. President Donald Trump says the U.S. is talking with an Iranian leader and claims the Islamic Republic is eager for a deal to end the war</summary>
-      <pubDate>Tue, 24 Mar 2026 02:22:56 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_93c6b3234a5e8917aaf599bf85a03044_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war</title>
       <link>https://abcnews.com/International/wireStory/iran-targets-israel-gulf-arab-states-trump-us-131350210</link>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_48a46d2503513c903bc3e4de31b96e00_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran's parliament speaker is floated as a possible US contact in talks as war rages</title>
+      <link>https://abcnews.com/International/wireStory/irans-parliament-speaker-floated-us-contact-talks-war-131351890</link>
+      <summary>Iran's parliament speaker, Mohammad Bagher Qalibaf, has emerged as a possible U.S. contact for talks even as the Iranian leadership remains under fire during the war</summary>
+      <pubDate>Tue, 24 Mar 2026 06:28:28 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_a5fdb9d743c3325155da0bc91458077d_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,39 @@
       </media>
     </item>
     <item>
+      <title>Kim vows to 'irreversibly' cement North Korea’s nuclear status</title>
+      <link>https://abcnews.com/International/wireStory/kim-vows-irreversibly-cement-north-koreas-nuclear-status-131345595</link>
+      <summary>North Korean leader Kim Jong Un has pledged to irreversibly cement his country&amp;rsquo;s status as a nuclear power while maintaining a hard-line stance toward South Korea, which he called the &amp;ldquo;most hostile&amp;rdquo; state</summary>
+      <pubDate>Tue, 24 Mar 2026 04:42:54 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_89e4da24d985fc91f3c223836ab4855f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran names Mohammad Bagher Zolghadr as new secretary of Supreme National Security Council, replacing late Ali Larijani</title>
+      <link>https://abcnews.com/International/wireStory/iran-names-mohammad-bagher-zolghadr-new-secretary-supreme-131352777</link>
+      <summary>Iran names Mohammad Bagher Zolghadr as new secretary of Supreme National Security Council, replacing late Ali Larijani</summary>
+      <pubDate>Tue, 24 Mar 2026 07:21:57 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanon withdraws accreditation of Iran's ambassador and orders him to leave country</title>
+      <link>https://abcnews.com/International/wireStory/lebanon-withdraws-accreditation-irans-ambassador-orders-leave-country-131352778</link>
+      <summary>Lebanon withdraws accreditation of Iran's ambassador and orders him to leave country</summary>
+      <pubDate>Tue, 24 Mar 2026 07:14:47 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Preliminary magnitude 7.6 earthquake strikes near Tonga in South Pacific Ocean: USGS</title>
       <link>https://abcnews.com/International/wireStory/preliminary-magnitude-76-earthquake-strikes-tonga-south-pacific-131350028</link>
       <summary>The USGS says a strong preliminary magnitude 7.6 earthquake struck near Tonga in the South Pacific Ocean on Tuesday</summary>
@@ -78,39 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_05af79fe3eb3709ce2f933f3d8a88c56_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>EU and Australia sign free trade pact and announce a new defense partnership</title>
-      <link>https://abcnews.com/International/wireStory/eu-australia-sign-free-trade-pact-announce-new-131345730</link>
-      <summary>The European Union and Australia have agreed on the final text of a free trade agreement some two years after negotiations broke down over Australian demands for more red meat market access and complaints about Australian products labeled with traditio...</summary>
-      <pubDate>Tue, 24 Mar 2026 01:14:40 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0ceec9b36ff1fc5f00500b57b65619ba_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Slovenia's president urges talks on future government after tight election outcome</title>
-      <link>https://abcnews.com/International/wireStory/slovenias-president-urges-talks-future-government-after-tight-131318117</link>
-      <summary>Slovenia&amp;rsquo;s president is urging the country&amp;rsquo;s political parties to start talks on forming a new government as soon as possible after the country's two main parties were practically tied in a weekend election</summary>
-      <pubDate>Mon, 23 Mar 2026 11:06:57 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_8267b0854e9863a5a383b40db35af71d_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>European Union and Australia agree on text of free trade pact and announce a new defense partnership</title>
-      <link>https://abcnews.com/International/wireStory/european-union-australia-agree-text-free-trade-pact-131345729</link>
-      <summary>European Union and Australia agree on text of free trade pact and announce a new defense partnership</summary>
-      <pubDate>Tue, 24 Mar 2026 02:24:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
