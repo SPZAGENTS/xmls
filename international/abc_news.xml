@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-25T16:01:00.379942</generated>
+  <generated>2026-03-25T18:01:00.891609</generated>
   <items>
     <item>
       <title>Iran live updates: Iran insists no negotiations as US sends peace plan</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 25 Mar 2026 06:54:03 -0400</pubDate>
+      <pubDate>Wed, 25 Mar 2026 11:38:34 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: President Trump says he's 'pretty much not happy' with any deal to reopen DHS</title>
+      <link>https://abcnews.com/video/131398109/</link>
+      <summary>As Senate Republicans on Tuesday scrambled to strike a deal to fund DHS amid the agency's partial shutdown, Trump said he would not be happy with any deal they hammered out.</summary>
+      <pubDate>Wed, 25 Mar 2026 11:43:18 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260325_abc_social_shutdown_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -63,7 +74,7 @@
       <title>WATCH: Rare twin gorilla babies born in Congo</title>
       <link>https://abcnews.com/video/131391287/</link>
       <summary>Conservationists at Virunga National Park in the Democratic Republic of the Congo are celebrating this morning after the birth of a set of mountain gorilla twins.</summary>
-      <pubDate>Wed, 25 Mar 2026 08:09:26 -0400</pubDate>
+      <pubDate>Wed, 25 Mar 2026 11:10:41 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260325_gma_potd_gorilla1_749_hpMain_4x3_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260324_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Alaska resident captures ‘insane’ northern lights</title>
-      <link>https://abcnews.com/video/131348698/</link>
-      <summary>A photographer in Alaska shared this stunning view of the northern lights captured around dusk on Monday.</summary>
-      <pubDate>Tue, 24 Mar 2026 02:13:23 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260323_abc_soc_northern_lights_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
