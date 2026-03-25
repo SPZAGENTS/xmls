@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-25T08:01:43.339895</generated>
+  <generated>2026-03-25T10:01:06.330514</generated>
   <items>
-    <item>
-      <title>Iran war shows norms of international conflicts have been overturned</title>
-      <link>https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.</summary>
-      <pubDate>Tue, 24 Mar 2026 15:55:08 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Russia launches 948 drones at Ukraine in largest attack over 24-hour period</title>
       <link>https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -27,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Everyday life in Asia is being upended by Iran war fuel crisis</title>
-      <link>https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.</summary>
-      <pubDate>Tue, 24 Mar 2026 17:12:50 GMT</pubDate>
-      <priority>100</priority>
+      <title>Warning oil rise to $150 could trigger global recession</title>
+      <link>https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Larry Fink says if oil prices stay high for a sustained period it will have "profound implications" for the world economy.</summary>
+      <pubDate>Wed, 25 Mar 2026 07:15:54 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7d/live/f5c4bd60-27a3-11f1-b815-a14f790a1de4.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,21 +60,10 @@
       </media>
     </item>
     <item>
-      <title>'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation</title>
-      <link>https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Leo Medina, who was on another plane on the tarmac when the crash happened, told the BBC what he saw.</summary>
-      <pubDate>Mon, 23 Mar 2026 21:13:47 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f6/live/b3c2b390-274e-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Journalists at Australia's national broadcaster strike for first time in 20 years</title>
       <link>https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Staff have walked out for 24 hours over a pay rise offer that was below inflation.</summary>
-      <pubDate>Wed, 25 Mar 2026 03:07:54 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2026 06:28:34 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c692/live/cacc3e50-2800-11f1-9e21-711dd35e44a9.jpg</image>
@@ -104,13 +82,35 @@
       </media>
     </item>
     <item>
-      <title>Oil at $150 would trigger global recession, says boss of financial giant BlackRock</title>
-      <link>https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Larry Fink says if oil prices stay high for a sustained period it will have "profound implications" for the world economy.</summary>
-      <pubDate>Wed, 25 Mar 2026 00:00:20 GMT</pubDate>
+      <title>Meta told to pay $375m for misleading users over child safety</title>
+      <link>https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.</summary>
+      <pubDate>Tue, 24 Mar 2026 23:16:55 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438d/live/50569720-27d7-11f1-94c7-894c2c5c70c3.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>OpenAI ends Disney partnership as it closes Sora video-making app</title>
+      <link>https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.</summary>
+      <pubDate>Wed, 25 Mar 2026 04:48:56 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf4a/live/a6f433a0-2807-11f1-af73-bd55eb0878e2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Democrats flip Florida state seat that includes Trump's Mar-a-Lago home</title>
+      <link>https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.</summary>
+      <pubDate>Wed, 25 Mar 2026 03:36:08 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
