@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-25T20:05:15.863957</generated>
+  <generated>2026-03-25T22:00:50.051967</generated>
   <items>
     <item>
       <title>Trump says Iran gave the US a 'very big present' but gives no detail</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7edf/live/ef5a54f0-282d-11f1-b289-fd2d6419405a.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Oil price falls as Trump talks up peace negotiations</title>
+      <link>https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.</summary>
+      <pubDate>Wed, 25 Mar 2026 18:18:16 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Saudi Pro League, the US or Europe - what are Salah's options?</title>
+      <link>https://www.bbc.com/sport/football/articles/c86ew5d52d9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Liverpool reporter Aadam Patel analyses what Mohamed Salah's next move might be following the forward's announcement that he is to leave the club this summer.</summary>
+      <pubDate>Wed, 25 Mar 2026 14:50:13 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de4/live/c8f06f40-2849-11f1-923f-8be7c886ebd4.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,10 +49,21 @@
       </media>
     </item>
     <item>
+      <title>Meta and YouTube found liable in landmark social media addiction trial</title>
+      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.</summary>
+      <pubDate>Wed, 25 Mar 2026 19:38:00 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d443/live/1559da40-2879-11f1-831a-89df8c4bf49f.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Dead students were tested for drugs and alcohol - but their killer was not, Nottingham inquiry hears</title>
       <link>https://www.bbc.com/news/articles/c5ywd4gdzk1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>A public inquiry into the attacks heard killer Valdo Calocane refused toxicology samples in custody.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:38:55 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2026 19:20:32 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50d4/live/1daecba0-2852-11f1-937e-1d8f354c3b9a.jpg</image>
@@ -49,24 +82,13 @@
       </media>
     </item>
     <item>
-      <title>What are the US and Iran's proposals for peace?</title>
+      <title>Iran rejects US 15-point peace plan, state media report</title>
       <link>https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Trump says he is talking to "the right people" in Iran, but Tehran says no such negotiations are being held.</summary>
-      <pubDate>Wed, 25 Mar 2026 16:46:12 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2026 19:14:19 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/338b/live/6d193f40-284d-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Oil price falls as Trump talks up peace negotiations</title>
-      <link>https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Tehran has rejected claims of talks, with one official questioning the US's diplomatic credibility.</summary>
-      <pubDate>Wed, 25 Mar 2026 15:05:09 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f44/live/0c885cf0-283f-11f1-ac61-c943803d2ed3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Meta and Google found liable in landmark social media addiction trial</title>
-      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The verdict marks the end of a five-week trial on the addictive nature of social media platforms.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:45:59 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21d/live/fef5c380-1cdf-11f1-b4a6-b1a9fc5003ff.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ex-Google boss confirmed as new BBC director general</title>
-      <link>https://www.bbc.com/news/articles/cjd97evn2gko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Matt Brittin says he's taking the top job at "a moment of real risk, yet also real opportunity".</summary>
-      <pubDate>Wed, 25 Mar 2026 13:30:05 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8870/live/b8414910-285a-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

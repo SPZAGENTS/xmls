@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-25T20:05:16.775863</generated>
+  <generated>2026-03-25T22:00:50.914454</generated>
   <items>
+    <item>
+      <title>Meta and YouTube found liable in landmark social media addiction trial</title>
+      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A woman has been awarded $3m in a verdict that could have implications for hundreds of other cases in the US.</summary>
+      <pubDate>Wed, 25 Mar 2026 19:38:00 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d443/live/1559da40-2879-11f1-831a-89df8c4bf49f.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Estonia and Latvia say territories hit by stray Ukrainian drones</title>
       <link>https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -34,17 +45,6 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f44/live/0c885cf0-283f-11f1-ac61-c943803d2ed3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Meta and Google found liable in landmark social media addiction trial</title>
-      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The verdict marks the end of a five-week trial on the addictive nature of social media platforms.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:45:59 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21d/live/fef5c380-1cdf-11f1-b4a6-b1a9fc5003ff.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
