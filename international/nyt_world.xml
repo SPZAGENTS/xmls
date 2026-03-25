@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-25T12:00:53.741745</generated>
+  <generated>2026-03-25T14:01:02.022685</generated>
   <items>
     <item>
-      <title>Pentagon Orders 2,000 Airborne Troops to Middle East</title>
-      <link>https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil</link>
-      <summary>The deployment could give President Trump more military options after a 15-point proposal, delivered via Pakistan, was sent to the Iranians, according to two officials briefed on the diplomacy.</summary>
-      <pubDate>Wed, 25 Mar 2026 09:48:57 +0000</pubDate>
+      <title>Iran War Live Updates: Israel Strikes Tehran After Pakistan Offers to Host U.S.-Iran Talks</title>
+      <link>https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news</link>
+      <summary>The Pentagon said it was sending 2,000 airborne troops to the Middle East, even as President Trump seemed to endorse Pakistan’s offer to broker negotiations. It was unclear whether Iran and Israel supported a U.S. peace plan.</summary>
+      <pubDate>Wed, 25 Mar 2026 11:55:30 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-twzg/24israel-iran-twzg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-promo350a/25israel-iran-promo350a-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cheap Drones Remain Wild Card in Iran war</title>
+      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</link>
+      <summary>Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?</summary>
+      <pubDate>Wed, 25 Mar 2026 10:27:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-iran-drone-tvgl/25int-iran-drone-tvgl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,46 +38,46 @@
       </media>
     </item>
     <item>
-      <title>Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran</title>
-      <link>https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html</link>
-      <summary>President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.</summary>
-      <pubDate>Tue, 24 Mar 2026 15:38:43 +0000</pubDate>
+      <title>Here’s What Happened in the War in the Middle East on Tuesday</title>
+      <link>https://www.nytimes.com/2026/03/24/world/middleeast/iran-war-middle-east-recap-tuesday.html</link>
+      <summary>The U.S. was said to have sent Iran a peace plan via Pakistan on a day that the Iranians fired a torrent of missiles across the region.</summary>
+      <pubDate>Tue, 24 Mar 2026 23:49:28 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/23/multimedia/23int-uk-starmer-trump-bvtg/23int-uk-starmer-trump-bvtg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-front-by-front1-kzfl/24israel-iran-front-by-front1-kzfl-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal</title>
-      <link>https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html</link>
-      <summary>He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.</summary>
-      <pubDate>Tue, 24 Mar 2026 03:44:07 +0000</pubDate>
+      <title>Iran Signals Resilience With Volley of Missiles Across Middle East</title>
+      <link>https://www.nytimes.com/2026/03/24/world/middleeast/iran-missiles-middle-east-trump-deal.html</link>
+      <summary>The barrage continued as officials said the U.S. had sent Iran a 15-point plan to end the war. But Iranian officials have publicly denied that Washington and Tehran are talking directly.</summary>
+      <pubDate>Tue, 24 Mar 2026 21:44:41 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-nkorea-nukes-gmqz/24int-nkorea-nukes-gmqz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-iran-ledeall-2-zmvh/24int-iran-ledeall-2-zmvh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive</title>
-      <link>https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html</link>
-      <summary>President Lee Jae Myung called on the public to cooperate, likening the energy supply disruption caused by the Iran war to the Asian financial crisis and the pandemic.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:46:06 +0000</pubDate>
-      <priority>100</priority>
+      <title>Plan to Disarm Hamas in Gaza Is Detailed at U.N.</title>
+      <link>https://www.nytimes.com/2026/03/24/world/middleeast/gaza-disarm-hamas-israel-board-of-peace.html</link>
+      <summary>A Board of Peace member said the most dangerous weapons would be collected first. He linked compliance with disarmament to reconstruction beginning in the enclave.</summary>
+      <pubDate>Wed, 25 Mar 2026 01:50:17 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/24/world/24int-skorea-energy-saving-angu/24int-skorea-energy-saving-angu-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/02/19/multimedia/24int-gaza-unsc/24int-gaza-unsc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Cheap Drones Remain Wild Card in Iran war</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</link>
-      <summary>Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?</summary>
-      <pubDate>Wed, 25 Mar 2026 09:00:59 +0000</pubDate>
-      <priority>100</priority>
+      <title>Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.</title>
+      <link>https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html</link>
+      <summary>Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.</summary>
+      <pubDate>Wed, 25 Mar 2026 09:41:18 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-iran-drone-tvgl/25int-iran-drone-tvgl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-battlefield-hlwc/25int-ukraine-battlefield-hlwc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,37 +93,22 @@
       </media>
     </item>
     <item>
-      <title>Italy’s Meloni Seemed Unbeatable. A Referendum Defeat Has Dented Her Aura.</title>
-      <link>https://www.nytimes.com/2026/03/24/world/europe/italy-meloni-referendum-defeat.html</link>
-      <summary>Prime Minister Giorgia Meloni had led one of Italy’s most stable postwar governments. Now she’s under pressure after failing to convince Italians to back a judicial overhaul.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:57:41 +0000</pubDate>
+      <title>Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html</link>
+      <summary>Ships with no ties to Israel or the United States would be allowed to pass, the government said, but it was unclear if any vessels would try.</summary>
+      <pubDate>Wed, 25 Mar 2026 09:48:55 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-italy-meloni-01-mfvb/24int-italy-meloni-01-mfvb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-shipping1-thjk/24israel-iran-shipping1-thjk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Government Cuts Gut the Memory of Argentina’s Dirty War</title>
-      <link>https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html</link>
-      <summary>Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.</summary>
-      <pubDate>Tue, 24 Mar 2026 14:51:30 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/24/world/24int-argentina-dictatorship-promo/24int-argentina-dictatorship-promo-mediumSquareAt3X-v4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?</title>
-      <link>https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html</link>
-      <summary>With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.</summary>
-      <pubDate>Tue, 24 Mar 2026 09:14:42 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24int-ukraine-drones-01-tqlf/24int-ukraine-drones-01-tqlf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
+      <title>An American in Russia Is Linked to Neo-Nazi Terror Cells Across Europe</title>
+      <link>https://www.nytimes.com/2026/03/25/world/europe/nazzaro-nazi-terror-cell-russia-base-europe.html</link>
+      <summary>F.B.I. agents thought they had weakened an online hate group known as the Base. A string of European terrorism cases indicates it has resurged.</summary>
+      <pubDate>Wed, 25 Mar 2026 09:00:27 +0000</pubDate>
+      <priority>85</priority>
     </item>
   </items>
 </content-feed>
