@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-25T10:01:18.440463</generated>
+  <generated>2026-03-25T12:01:00.122426</generated>
   <items>
     <item>
       <title>Strikes hit Iran and Tehran targets Israel and Gulf states amid mixed signals over talks to end war</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_8bb5e79a98ea72fccc5c50b4931ad778_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kenya’s flower industry loses millions of dollars weekly due to the Iran war</title>
+      <link>https://abcnews.com/International/wireStory/kenyas-flower-industry-loses-millions-dollars-weekly-due-131387382</link>
+      <summary>Kenya&amp;rsquo;s flower industry is losing up to $1.4 million a week as the Iran war cuts demand and disrupts shipping</summary>
+      <pubDate>Wed, 25 Mar 2026 05:48:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_7431e182c7cf5d9190d345ad4ab4e429_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate strikes</title>
+      <link>https://abcnews.com/International/wireStory/russia-shot-400-ukrainian-drones-moscow-kyiv-escalate-131387616</link>
+      <summary>Russia is reporting that it has shot down hundreds of Ukrainian drones in a massive overnight attack across its regions and Crimea</summary>
+      <pubDate>Wed, 25 Mar 2026 05:41:41 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9cb9adca61c79312b470a00fa8ae80be_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Colombia issues arrest warrants for rebel group members for Miguel Uribe killing</title>
       <link>https://abcnews.com/International/wireStory/colombia-issues-arrest-warrants-rebel-group-members-miguel-131376980</link>
       <summary>Colombia&amp;rsquo;s attorney general says her office has obtained arrest warrants for seven members of a rebel group for the killing of Miguel Uribe, a conservative presidential hopeful who was shot in the head during a rally in Bogota in June 2025</summary>
@@ -56,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9b735c4c7d8bfec74c30064fc0fea2b1_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Kim vows to 'irreversibly' cement North Korea’s nuclear status</title>
-      <link>https://abcnews.com/International/wireStory/kim-vows-irreversibly-cement-north-koreas-nuclear-status-131345595</link>
-      <summary>North Korean leader Kim Jong Un has pledged to irreversibly cement his country&amp;rsquo;s status as a nuclear power while maintaining a hard-line stance toward South Korea, which he called the &amp;ldquo;most hostile&amp;rdquo; state</summary>
-      <pubDate>Tue, 24 Mar 2026 04:42:54 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_89e4da24d985fc91f3c223836ab4855f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Thousands march in Argentina to mark 50 years since bloody coup</title>
-      <link>https://abcnews.com/International/wireStory/thousands-march-argentina-mark-50-years-bloody-coup-131369375</link>
-      <summary>Thousands marched in Buenos Aires and across Argentina to mark 50 years since the 1976 military coup that led to a dictatorship responsible for widespread human rights abuses</summary>
-      <pubDate>Tue, 24 Mar 2026 16:27:04 -0400</pubDate>
+      <title>UK police arrest 2 men over arson attack on ambulances belonging to a Jewish charity</title>
+      <link>https://abcnews.com/International/wireStory/uk-police-arrest-2-men-arson-attack-ambulances-131387615</link>
+      <summary>British police have arrested two men over an arson attack that destroyed four ambulances from a Jewish charity</summary>
+      <pubDate>Wed, 25 Mar 2026 05:43:30 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Denmark votes in an early election that follows a crisis over US designs on Greenland</title>
-      <link>https://abcnews.com/International/wireStory/denmark-votes-early-election-crisis-us-designs-greenland-131350622</link>
-      <summary>An exit poll pointed to a disappointing showing for the party of Denmark&amp;rsquo;s prime minister in an election</summary>
-      <pubDate>Tue, 24 Mar 2026 18:02:36 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_a47b681838c18ef9b7b4fe63fd4b3b0c_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_b29a746774f9d9ee8c72ed4ed2b48dad_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

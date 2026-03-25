@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-25T10:01:11.654169</generated>
+  <generated>2026-03-25T12:00:54.340757</generated>
   <items>
+    <item>
+      <title>Cheap Drones Remain Wild Card in Iran war</title>
+      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</link>
+      <summary>Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?</summary>
+      <pubDate>Wed, 25 Mar 2026 09:00:59 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-iran-drone-tvgl/25int-iran-drone-tvgl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>2,000 U.S. Troops From 82nd Airborne Division to Be Sent to Middle East</title>
       <link>https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html</link>
@@ -60,7 +71,7 @@
       </media>
     </item>
     <item>
-      <title>United States Said to Have Sent Iran a Plan to End the Middle East War</title>
+      <title>U.S. Said to Have Sent Iran a 15-Point Plan to End the Middle East War</title>
       <link>https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html</link>
       <summary>The 15-point plan was delivered via Pakistan, whose army chief has emerged as the key interlocutor between the United States and Iran, officials say.</summary>
       <pubDate>Tue, 24 Mar 2026 21:07:31 +0000</pubDate>
@@ -98,17 +109,6 @@
       <summary>Our national security correspondent David E. Sanger looks at President Trump’s trouble handling retaliatory attacks by Iran that have largely choked off the Strait of Hormuz.</summary>
       <pubDate>Tue, 24 Mar 2026 18:39:38 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran’s New Security Chief Is a Hard-Line Former Guards Commander</title>
-      <link>https://www.nytimes.com/2026/03/24/world/middleeast/iran-security-chief-larijani-zolghadr.html</link>
-      <summary>Mohammad Bagher Zolghadr replaces Ali Larijani, who was killed last week in an Israeli strike. He has a history of expanding the Guards’ reach into Iran’s politics.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:05:16 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/24israel-iran-zolghadr-jtmb/24israel-iran-zolghadr-jtmb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>

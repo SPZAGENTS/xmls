@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-25T10:01:12.461278</generated>
+  <generated>2026-03-25T12:00:55.109759</generated>
   <items>
     <item>
       <title>Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/949bea7c064fe803ca2163eeb445f1392d4d52eb/2407_951_5495_4395/master/5495.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f3eeb953cdbffdb759e22217a507d4</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Stocks rise and oil dips on hopes of 15-point Iran peace plan</title>
+      <link>https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism</link>
+      <summary>Markets in Asia and Europe move higher, while crude hovers at about $100 a barrel amid cautious optimismBusiness live – latest updatesThe price of oil has dipped and Asian stock markets moved higher after reports that Donald Trump has sent a 15-point framework for peace to Ira...</summary>
+      <pubDate>Wed, 25 Mar 2026 09:08:32 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/e8a789b9bcbec73973f9e9f284b045d3e236bafc/483_0_5836_4672/master/5836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d589bceba117ae580404da6e8f8554ea</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>New Zealand to give cash payments to some low income families as global fuel crisis worsens</title>
-      <link>https://www.theguardian.com/world/2026/mar/24/new-zealand-cash-payments-families-global-fuel-crisis</link>
-      <summary>Policy begins on 1 April and is aimed to ease financial pressure as the price of fuel surges due to conflict in the Middle EastNearly 150,000 New Zealand families will soon receive a weekly cash payment to help them afford petrol, the government has announced, in what is belie...</summary>
-      <pubDate>Tue, 24 Mar 2026 03:33:44 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/9b818480e5650d43b520829dd93bd1d7dbbe8fee/456_0_4560_3648/master/4560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3194ce88376e2f2e7a8b69d12e094d09</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Australia prepares for oil prices above US$120 a barrel as diesel passes $3 a litre nationwide</title>
       <link>https://www.theguardian.com/australia-news/2026/mar/25/oil-prices-above-120-barrel-diesel-australia</link>
       <summary>Fuel stocks at same level as when US and Israel launched their war on Iran a month ago, energy minister saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government is preparing for scenarios where ...</summary>
-      <pubDate>Wed, 25 Mar 2026 07:53:02 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2026 09:24:52 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/bf0935b4ffa19545903635c554e2a4965bb29b51/2133_2498_3758_3006/master/3758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34235e9030c33c5855277aa83ffc5756</image>
@@ -93,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>News live: Iranian nationals with valid tourist visas blocked from entering Australia for six months, Burke says</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb</link>
-      <summary>Follow updates liveGet our breaking news email, free app or daily news podcastThe government has announced the federal and Queensland governments will each chip in $1bn to Rio Tinto’s Boyne aluminium smelter in central Queensland, to keep it viable into the future.The governme...</summary>
-      <pubDate>Wed, 25 Mar 2026 07:44:52 GMT</pubDate>
+      <title>‘Massive betrayal’: Iranian nationals with valid tourist visas blocked from entering Australia for six months</title>
+      <link>https://www.theguardian.com/world/2026/mar/25/massive-betrayal-iranian-nationals-with-valid-tourist-visas-blocked-from-entering-australia-for-six-months</link>
+      <summary>Tony Burke says decisions about permanent stays should be ‘deliberate decisions of the government, not a random consequence of who booked a holiday’Get our breaking news email, free app or daily news podcastIranian tourists will be banned from entering Australia for the next s...</summary>
+      <pubDate>Wed, 25 Mar 2026 09:23:21 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://i.guim.co.uk/img/media/f17b065b9a9130fc6282be4dc139cf911ec9db7f/146_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4e67f4dcbbf62a131f3b4089e6e01a9</image>
+        <image>https://i.guim.co.uk/img/media/a49e64658e29f521fe232bed1f8dce34dbdbd017/670_0_3350_2680/master/3350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f785224c1033ade7951a7304b13af91</image>
         <type>image/jpeg</type>
       </media>
     </item>

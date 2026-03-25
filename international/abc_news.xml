@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-25T10:01:17.173625</generated>
+  <generated>2026-03-25T12:00:59.204101</generated>
   <items>
     <item>
-      <title>Significant storm heading toward Middle East amid Iran war, forecasts show</title>
-      <link>https://abcnews.com/International/significant-storm-heading-middle-east-amid-iran-war/story?id=131372089</link>
-      <summary>A significant storm will to move through the Middle East this week, with impacts expected from Israel to Qatar to Iran, forecasts show.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:32:22 -0400</pubDate>
+      <title>Iran live updates: US sent Iran 15-point plan to end war, sources say</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Wed, 25 Mar 2026 05:58:46 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran-12-rt-gmh-2603_1774283140095_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/Tabriz-damage-DB-260325_1774429660944_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260324_gma_pop1_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UK police arrest 2 men over arson attack on ambulances belonging to a Jewish charity</title>
+      <link>https://abcnews.com/International/wireStory/uk-police-arrest-2-men-arson-attack-ambulances-131387615</link>
+      <summary>British police have arrested two men over an arson attack that destroyed four ambulances from a Jewish charity</summary>
+      <pubDate>Wed, 25 Mar 2026 05:43:30 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_b29a746774f9d9ee8c72ed4ed2b48dad_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Travel/260323_abcnl_11a_neuman_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: President Trump hosts swearing-in ceremony for DHS Secretary Markwayne Mullin</title>
-      <link>https://abcnews.com/video/131373753/</link>
-      <summary>The former Republican senator from Oklahoma replaces outgoing Secretary Kristi Noem after being appointed by Trump in early March.</summary>
-      <pubDate>Tue, 24 Mar 2026 17:18:51 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/260324_abc_social_mullin_swear_in_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

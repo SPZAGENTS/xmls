@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-25T10:01:07.469548</generated>
+  <generated>2026-03-25T12:00:50.731535</generated>
   <items>
+    <item>
+      <title>Democrats broke airport security. Now they're calling the solution dangerous</title>
+      <link>https://www.foxnews.com/opinion/democrats-broke-airport-security-now-theyre-calling-solution-dangerous</link>
+      <summary>President Trump ordered ICE officers to U.S. airports amid a TSA staffing crisis. House Minority Leader Hakeem Jeffries warned the deployment could result in agents killing travelers.</summary>
+      <pubDate>Wed, 25 Mar 2026 05:00:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/airport-delay-travel-wait-air-flight-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Driver hops curb, strikes 9 students during after school pickup in Iowa</title>
       <link>https://www.foxnews.com/us/driver-hops-curb-strikes-9-students-during-after-school-pickup-iowa</link>
@@ -27,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>Chicago activist torches Dem crime policies after Loyola student's murder: 'How much more can we take?'</title>
-      <link>https://www.foxnews.com/media/chicago-activist-torches-dem-crime-policies-after-loyola-students-murder-how-much-more-can-we-take</link>
-      <summary>Chicago activist P-Rae Easley pleaded with President Donald Trump to save Chicago after Loyola University student Sheridan Gorman was allegedly killed by an illegal immigrant.</summary>
-      <pubDate>Tue, 24 Mar 2026 20:00:34 -0400</pubDate>
-      <priority>80</priority>
+      <title>Newsom’s failed leadership has let California become a land of fraud and scams</title>
+      <link>https://www.foxnews.com/opinion/newsoms-failed-leadership-has-let-california-become-land-fraud-scams</link>
+      <summary>I introduced the No More SCAMS Act to create a federal task force targeting California&amp;apos;s fraud crisis, from $32B in unemployment theft to Medicaid scams.</summary>
+      <pubDate>Wed, 25 Mar 2026 05:00:15 -0400</pubDate>
+      <priority>85</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/easley-gorman-sheridan.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/gavin-newsom-california-wildlife-crossing-groundbreaking-fox-news-001.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Serious about safer roads? Get dangerous, unqualified truckers off them now</title>
+      <link>https://www.foxnews.com/opinion/serious-about-safer-roads-get-dangerous-unqualified-truckers-off-them-now</link>
+      <summary>&amp;apos;Dalilah&amp;apos;s Law,&amp;apos; backed by President Trump, passed the House Transportation and Infrastructure Committee. Now it heads to a full congressional vote.</summary>
+      <pubDate>Wed, 25 Mar 2026 05:00:27 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trucks-on-highway-wash-state.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/524/fox_news_deals_spring_best_apple_deals.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Amazon Big Spring Sale tech deals: Up to 50% off AirPods, TVs and more</title>
-      <link>https://www.foxnews.com/deals/amazon-spring-sale-tech-deals</link>
-      <summary>Amazon&amp;apos;s Big Spring Sale is running now through March 31. Grab tablets, laptops, headphones and TVs, all seriously discounted.</summary>
-      <pubDate>Wed, 25 Mar 2026 00:01:03 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/524/fox_news_deals_spring_sale_tech_031626.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Two arrested after US Park Police officer shot in apparent DC ambush: report</title>
-      <link>https://www.foxnews.com/us/two-arrested-after-us-park-police-officer-shot-apparent-dc-ambush</link>
-      <summary>Two D.C. residents face federal charges after a U.S. Park Police officer was shot in southeast Washington while reportedly sitting in an unmarked Tesla.</summary>
-      <pubDate>Tue, 24 Mar 2026 22:51:03 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/dc-park-police.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

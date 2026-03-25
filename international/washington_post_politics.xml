@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-25T10:01:10.293598</generated>
+  <generated>2026-03-25T12:00:53.068162</generated>
   <items>
     <item>
       <title>Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict</title>
@@ -17,6 +17,13 @@
       <summary>The president’s announcement sent markets up and energy prices diving, as investors bet Iran’s blockade of a key shipping chokepoint could soon end.</summary>
       <pubDate>Mon, 23 Mar 2026 19:47:08 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Bondi’s post-Oct. 7 terrorism task force falters after initial fanfare</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/25/justice-department-oct7-antisemitism-task-force/</link>
+      <summary>The group was created a year ago to investigate Hamas terrorists and antisemitic attacks. Now many of its members have been fired or reassigned.</summary>
+      <pubDate>Wed, 25 Mar 2026 09:00:25 +0000</pubDate>
+      <priority>95</priority>
     </item>
     <item>
       <title>Trump hails Memphis crime drop as a win. Locals see a more complex reality.</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/24/supreme-court-asylum-migrant-border/</link>
       <summary>The Supreme Court weighed a policy that would allow agents at U.S. borders to block migrants from entering the country to seek asylum.</summary>
       <pubDate>Tue, 24 Mar 2026 18:48:26 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump just voted by a method he calls ‘mail-in cheating’</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/23/trump-mail-in-voting-florida/</link>
-      <summary>The president’s decision to vote by mail comes as he pushes a sweeping bill to reform balloting nationwide, including restrictions on mail-in voting.</summary>
-      <pubDate>Tue, 24 Mar 2026 00:52:44 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
