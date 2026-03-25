@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-25T00:06:25.340215</generated>
+  <generated>2026-03-25T02:03:47.002258</generated>
   <items>
     <item>
       <title>AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary</title>
@@ -34,6 +34,17 @@
       <priority>85</priority>
       <media>
         <image>https://static.politico.com/ea/65/8ca44eec4c59bdd415cde1d1eb76/gettyimages-2263791812.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump-endorsed North Carolina state Senate leader loses by 23 votes</title>
+      <link>https://www.politico.com/news/2026/03/24/trump-endorsed-north-carolina-state-senate-leader-loses-00843104</link>
+      <summary>Phil Berger conceded the race to Rockingham County Sheriff Sam Page.</summary>
+      <pubDate>Tue, 24 Mar 2026 18:17:23 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/af/02/8c3e33b34e8b96e7dfbcc624ff02/trump-62158.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -98,17 +109,6 @@
       <summary />
       <pubDate>Tue, 24 Mar 2026 04:00:00 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>'I’m super-Republican, but you got my vote': The Democratic deer hunter setting his sights on flipping Iowa</title>
-      <link>https://www.politico.com/news/2026/03/21/iowa-democrats-rob-sand-midterms-hunting-00837624</link>
-      <summary>Democrats are desperate to find locally authentic candidates after 2024. They think people like Iowa gubernatorial candidate Rob Sand might help.</summary>
-      <pubDate>Sat, 21 Mar 2026 13:00:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/7f/22/ffd68dac4d0fb97775532bff95d8/main-robsand.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
