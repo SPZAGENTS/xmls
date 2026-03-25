@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-24T22:09:45.368217</generated>
+  <generated>2026-03-25T00:06:33.642697</generated>
   <items>
     <item>
       <title>Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy</title>
@@ -45,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_b563836e81aa1bb075955b18e1acedb6_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Colombia issues arrest warrants for rebel group members for Miguel Uribe killing</title>
+      <link>https://abcnews.com/International/wireStory/colombia-issues-arrest-warrants-rebel-group-members-miguel-131376980</link>
+      <summary>Colombia&amp;rsquo;s attorney general says her office has obtained arrest warrants for seven members of a rebel group for the killing of Miguel Uribe, a conservative presidential hopeful who was shot in the head during a rally in Bogota in June 2025</summary>
+      <pubDate>Tue, 24 Mar 2026 17:27:30 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_9b735c4c7d8bfec74c30064fc0fea2b1_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A pink veil across the fields: Thousands flock to Greece’s peach blossoms</title>
-      <link>https://abcnews.com/International/wireStory/pink-veil-fields-thousands-flock-greeces-peach-blossoms-131351606</link>
-      <summary>A veil of blossoming trees unfolds each spring across the plains of Greece&amp;rsquo;s largest peach-producing region</summary>
-      <pubDate>Tue, 24 Mar 2026 06:02:37 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0f8b9953e8e55819b7ac59f592222305_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
