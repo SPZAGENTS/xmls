@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-25T18:00:52.351701</generated>
+  <generated>2026-03-25T20:05:17.933759</generated>
   <items>
+    <item>
+      <title>UK arrests 2 over 'antisemitic arson attack' as police investigate possible Iran link</title>
+      <link>https://www.foxnews.com/world/united-kingdom-arrests-2-over-antisemitic-arson-attack-police-investigate-possible-iran-link</link>
+      <summary>UK police arrested two men allegedly behind an antisemitic arson attack on Jewish ambulances in London that Prime Minister Keir Starmer called &amp;quot;horrifying.&amp;quot;</summary>
+      <pubDate>Wed, 25 Mar 2026 13:30:04 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/london-ambulance-attack-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US strikes against Iran-backed militias in Iraq reportedly continue as Baghdad warns of 'right to respond'</title>
       <link>https://www.foxnews.com/world/us-strikes-against-iran-backed-militias-iraq-reportedly-continue-baghdad-warns-right-respond</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/trump-starmer-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns</title>
-      <link>https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days</link>
-      <summary>Iran threatens to target desalination and energy infrastructure within days, a U.N. official warns, citing lasting consequences for global markets and water supplies.</summary>
-      <pubDate>Sun, 22 Mar 2026 20:18:58 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/desalination-plant-bahrain.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

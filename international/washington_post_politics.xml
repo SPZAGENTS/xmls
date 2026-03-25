@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-25T18:00:54.230285</generated>
+  <generated>2026-03-25T20:05:20.626208</generated>
   <items>
     <item>
       <title>Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict</title>
@@ -57,7 +57,14 @@
       <title>Trump showed classified map to passengers on his plane in 2022, memo says</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/25/trump-classified-map-private-plane/</link>
       <summary>The document offers a snapshot of an early moment in special counsel Jack Smith’s investigation and adds new shading to the public understanding of Smith’s probes.</summary>
-      <pubDate>Wed, 25 Mar 2026 14:05:05 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 17:07:06 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Supreme Court finds internet service providers not liable for users’ pirated music</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/25/supreme-court-copyright-cox-sony-music/</link>
+      <summary>The unanimous decision means Cox Communications will probably not have to pay a huge judgment in a case brought by dozens of music companies, including Sony.</summary>
+      <pubDate>Wed, 25 Mar 2026 15:41:55 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/24/emily-gregory-trump-district-win/</link>
       <summary>Emily Gregory won the special election to represent a district that includes President Donald Trump’s Mar-a-Lago home, the Associated Press projected.</summary>
       <pubDate>Wed, 25 Mar 2026 01:13:25 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Prosecutor admits government lacks evidence of misconduct by Fed chair</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/24/powell-fed-chair-subpoena-prosecutor/</link>
-      <summary>The admission during a closed-door hearing undercuts President Donald Trump’s claims of “criminality” in the central bank’s $2.5 billion office renovations.</summary>
-      <pubDate>Tue, 24 Mar 2026 18:58:04 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
