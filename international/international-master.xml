@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-26T08:03:04.689609</generated>
+  <generated>2026-03-26T10:01:02.189014</generated>
   <total_articles>338</total_articles>
   <items>
     <item>
@@ -13,7 +13,7 @@
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6c/live/75d7a8f0-28b7-11f1-a969-25e19bf2e998.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>
@@ -28,17 +28,6 @@
       </media>
     </item>
     <item>
-      <title>Oil price falls as Trump talks up peace negotiations</title>
-      <link>https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.</summary>
-      <pubDate>Wed, 25 Mar 2026 21:18:55 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg</image>
-      </media>
-    </item>
-    <item>
       <title>Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war</title>
       <link>https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.</summary>
@@ -47,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c8/live/8ea0abf0-2882-11f1-b297-95b0a0a8331e.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Is Trump any closer to an Iran exit strategy?</title>
+      <link>https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.</summary>
+      <pubDate>Thu, 26 Mar 2026 02:00:53 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>

@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-26T08:02:57.146238</generated>
+  <generated>2026-03-26T10:00:54.137666</generated>
   <items>
     <item>
-      <title>Tehran Dismisses U.S. Cease-Fire Conditions as Israel Steps Up Attacks</title>
-      <link>https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news</link>
-      <summary>Tehran offered its own terms to end the fighting that include a demand for reparations. Israel, concerned that the war might end before it can dismantle Iran’s weapons programs, plans to ramp up its attacks.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:28:48 +0000</pubDate>
+      <title>Iran War Live Updates: Israel Launches New Strikes on Iran</title>
+      <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
+      <summary>The United States and Iran have struggled to begin negotiations to end the war, after nearly four weeks of fighting. There were more drone and missile attacks on U.S. allies in the Persian Gulf on Thursday.</summary>
+      <pubDate>Thu, 26 Mar 2026 07:52:26 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-carousel-beirut-qwbv/25israel-iran-carousel-beirut-qwbv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo/26israel-iran-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran</title>
+      <link>https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html</link>
+      <summary>European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.</summary>
+      <pubDate>Thu, 26 Mar 2026 04:01:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-europe-iran-01-cbgf/25int-europe-iran-01-cbgf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html</link>
-      <summary>European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.</summary>
-      <pubDate>Thu, 26 Mar 2026 04:01:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-europe-iran-01-cbgf/25int-europe-iran-01-cbgf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Republicans in Congress Fret Over Trump Administration’s Handling of Iran War</title>
       <link>https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html</link>
       <summary>G.O.P. lawmakers who have given the Trump administration wide latitude to wage war with no congressional input are growing frustrated as officials offer little detail about ground troops, cost or timeline.</summary>
@@ -67,6 +67,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-pentagon-briefing-gop2-zlgh/25israel-iran-pentagon-briefing-gop2-zlgh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
+      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-recap-wednesday.html</link>
+      <summary>The fighting continued while conditions for a possible cease-fire were debated.</summary>
+      <pubDate>Wed, 25 Mar 2026 22:28:11 +0000</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-front-by-front2-qbfv/25israel-iran-front-by-front2-qbfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Two Men Arrested in Attack on Jewish Charity Ambulances in London</title>
-      <link>https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html</link>
-      <summary>The police said the men, aged 45 and 47, were accused of arson with intent to endanger life after the attack on Monday in Golders Green.</summary>
-      <pubDate>Wed, 25 Mar 2026 13:31:28 +0000</pubDate>
-      <priority>75</priority>
+      <title>How U.S.A.I.D. Birth Control Meant for Africa Was Ruined</title>
+      <link>https://www.nytimes.com/2026/03/26/world/europe/usaid-contraception-birth-control-belgium-africa.html</link>
+      <summary>The Trump administration had options for offloading contraceptives once destined for Africa, a newly obtained memo shows. Instead, it has let them collect dust and go bad.</summary>
+      <pubDate>Thu, 26 Mar 2026 04:01:05 +0000</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-UK-ARSON-mfcw/25int-UK-ARSON-mfcw-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>For Australia’s Farmers, Fuel Crisis Comes at ‘Worst Possible Time’</title>
-      <link>https://www.nytimes.com/2026/03/25/world/australia/australia-farm-fuel-oil-prices.html</link>
-      <summary>Their troubles could cascade across Asia because they export a majority of their products.</summary>
-      <pubDate>Wed, 25 Mar 2026 21:42:05 +0000</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-oz-farmers-oil-01-wqht/25int-oz-farmers-oil-01-wqht-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/10/multimedia/00int-belgian-birth-control-mqbl/00int-belgian-birth-control-mqbl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

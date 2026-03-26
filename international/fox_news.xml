@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-26T08:02:54.462649</generated>
+  <generated>2026-03-26T10:00:50.829795</generated>
   <items>
+    <item>
+      <title>Why Trump, Iran seem light-years apart on any possible deal to end the war</title>
+      <link>https://www.foxnews.com/media/why-trump-iran-seem-light-years-apart-any-possible-deal-end-war</link>
+      <summary>Trump claims Iran peace talks are going &amp;quot;very good,&amp;quot; but Iranian officials flatly deny any deal is possible, calling U.S. claims a self-negotiated defeat.</summary>
+      <pubDate>Thu, 26 Mar 2026 03:00:10 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-speaking-markwayne-mullin-swearing-in.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran is 'trying to give the global economy a heart attack' by closing Strait of Hormuz, UAE minister says</title>
       <link>https://www.foxnews.com/media/iran-trying-give-global-economy-heart-attack-closing-strait-hormuz-uae-minister-says</link>
@@ -67,17 +78,6 @@
       <priority>85</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mexican-drug-cartels.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Illegal immigrant accused of fatal hit and run that killed North Carolina motorcyclist</title>
-      <link>https://www.foxnews.com/us/illegal-immigrant-accused-fatal-hit-run-killed-north-carolina-motorcyclist</link>
-      <summary>An illegal immigrant is accused in a fatal alleged hit-and-run that killed motorcyclist Christopher Babcock, 62, in North Carolina, and an ICE detainer was filed.</summary>
-      <pubDate>Wed, 25 Mar 2026 19:30:33 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ernesto-badcock-02.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
