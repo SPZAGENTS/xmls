@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-26T14:02:47.115377</generated>
+  <generated>2026-03-26T16:00:51.535912</generated>
   <items>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
@@ -45,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1f/live/9a766e30-2830-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial</title>
-      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:43:25 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9830/live/9e8aadf0-28e0-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Are the US and Iran holding peace talks, and what do both sides want?</title>
-      <link>https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There is indirect contact and channels between the two sides - but a deal may still be a long way off.</summary>
-      <pubDate>Thu, 26 Mar 2026 10:35:19 GMT</pubDate>
+      <title>Why transport workers are protesting in the Philippines</title>
+      <link>https://www.bbc.com/news/videos/cly64y288gwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.</summary>
+      <pubDate>Thu, 26 Mar 2026 05:13:46 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cce/live/d88c0680-28d0-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>European Parliament gives conditional approval to EU-US trade deal</title>
+      <link>https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The agreement would see EU tariffs on US goods reduced to zero while US tariffs on EU imports set at 15%.</summary>
+      <pubDate>Thu, 26 Mar 2026 12:51:44 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7961/live/6ac854e0-2912-11f1-8742-11d9a3760e0c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

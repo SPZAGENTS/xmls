@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-26T14:02:58.926012</generated>
+  <generated>2026-03-26T16:01:02.215868</generated>
   <items>
     <item>
       <title>Kenya’s flower industry loses millions of dollars weekly due to the Iran war</title>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>Zimbabwe says 15 of its citizens killed after fraudulent recruitment into Russia-Ukraine war</title>
-      <link>https://abcnews.com/International/wireStory/zimbabwe-15-citizens-killed-after-fraudulent-recruitment-russia-131410142</link>
-      <summary>Zimbabwe says fraudulent recruiters have lured its citizens into the Russia-Ukraine war, and some have died</summary>
-      <pubDate>Wed, 25 Mar 2026 16:13:36 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_78529d023b34e099bcbbaae10e9e306d_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate strikes</title>
       <link>https://abcnews.com/International/wireStory/russia-shot-400-ukrainian-drones-moscow-kyiv-escalate-131387616</link>
       <summary>Russia is reporting that it has shot down hundreds of Ukrainian drones in a massive overnight attack across its regions and Crimea</summary>
@@ -45,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9cb9adca61c79312b470a00fa8ae80be_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
+      <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
+      <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
+      <pubDate>Thu, 26 Mar 2026 09:53:31 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say</title>
+      <link>https://abcnews.com/International/wireStory/militants-ambush-security-forces-northern-nigeria-killing-9-131405287</link>
+      <summary>Militants ambush security forces in northern Nigeria, killing 9 soldiers and a police officer, authorities say</summary>
+      <pubDate>Thu, 26 Mar 2026 08:32:59 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Italy's tourism minister resigns under pressure from Meloni</title>
       <link>https://abcnews.com/International/wireStory/italys-tourism-minister-resigns-pressure-meloni-after-referendum-131411293</link>
       <summary>Italy&amp;rsquo;s tourism minister Daniela Santanch&amp;egrave; has resigned in the wake of the defeat of Prime Minister Giorgia Meloni government in a referendum on judicial reforms</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_2b7ef8bb43f9b4d8add9929ec4325d19_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sarah Mullally celebrated as the Church of England's first female leader, in photos</title>
-      <link>https://abcnews.com/International/wireStory/sarah-mullally-celebrated-church-englands-female-leader-photos-131409273</link>
-      <summary>Sarah Mullally has been formally installed as archbishop of Canterbury, marking the start of her public ministry as the first woman to lead the Church of England. She will serve as spiritual head of the global Anglican Communion, a network of independent churches with more tha...</summary>
-      <pubDate>Wed, 25 Mar 2026 16:13:40 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_8e8b3de7387d9cd9ab65aeee9fcc78af_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-26T14:02:51.647249</generated>
+  <generated>2026-03-26T16:00:55.907113</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Says Iranian Naval Commander Is Killed in Airstrike</title>
+      <title>Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran</title>
       <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
-      <summary>Israel’s defense minister said that Alireza Tangsiri, a key player in Iran’s de facto blockade of the Strait of Hormuz, was dead. Iran has not commented on his condition.</summary>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+      <summary>Israel said that an airstrike had killed Alireza Tangsiri, a key player in Iran’s blockade of the Strait of Hormuz. President Trump warned Iranian officials to consider his peace proposal “before it is too late.”</summary>
+      <pubDate>Thu, 26 Mar 2026 13:56:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo/26israel-iran-promo-mediumSquareAt3X.jpg</image>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>Cheap Drones Remain Wild Card in Iran war</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</link>
-      <summary>Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?</summary>
-      <pubDate>Wed, 25 Mar 2026 10:27:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-iran-drone-tvgl/25int-iran-drone-tvgl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. and Iran Are Talking About Ways to End the War: What to Know</title>
       <link>https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html</link>
       <summary>The United States is discussing ways to end hostilities with Iran, even as the Pentagon dispatches more troops.</summary>
@@ -49,10 +38,21 @@
       </media>
     </item>
     <item>
+      <title>U.S. Military Kills 4 People in Boat Strike in Caribbean</title>
+      <link>https://www.nytimes.com/2026/03/26/us/politics/boat-strikes-caribbean.html</link>
+      <summary>At least 163 people have been killed in the Trump administration’s campaign against suspected drug smuggling.</summary>
+      <pubDate>Thu, 26 Mar 2026 12:10:15 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26dc-boatstrike-top-qbhp/26dc-boatstrike-top-qbhp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?</title>
-      <link>https://www.nytimes.com/2026/03/26/world/middleeast/alireza-tangsiri.html</link>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html</link>
       <summary>Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.</summary>
-      <pubDate>Thu, 26 Mar 2026 11:16:40 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 11:16:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26-iran-killed-zuma/26-iran-killed-mediumSquareAt3X.jpg</image>
@@ -67,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-pentagon-briefing-gop2-zlgh/25israel-iran-pentagon-briefing-gop2-zlgh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-recap-wednesday.html</link>
-      <summary>The fighting continued while conditions for a possible cease-fire were debated.</summary>
-      <pubDate>Wed, 25 Mar 2026 22:28:11 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-front-by-front2-qbfv/25israel-iran-front-by-front2-qbfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-battlefield-hlwc/25int-ukraine-battlefield-hlwc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two Killed in Abu Dhabi as Gulf States Face Fresh Attacks</title>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/iran-missile-strikes-abu-dhabi.html</link>
+      <summary>A Pakistani man and an Indian man died when shrapnel fell from an intercepted missile, officials said. Saudi Arabia, Kuwait and Bahrain also reported strikes.</summary>
+      <pubDate>Thu, 26 Mar 2026 13:23:18 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-gulf-attacks-01-vgqb/26israel-iran-gulf-attacks-01-vgqb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
