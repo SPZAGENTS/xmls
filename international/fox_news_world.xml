@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-26T00:00:52.935353</generated>
+  <generated>2026-03-26T02:00:52.800984</generated>
   <items>
+    <item>
+      <title>US troops brace for ‘hit-and-run’ guerilla attacks as 82nd Airborne deploys to Iran, military analyst warns</title>
+      <link>https://www.foxnews.com/world/us-troops-risk-hit-run-guerilla-attacks-82nd-airborne-deploys-iran-military-analyst-warns</link>
+      <summary>The 82nd Airborne Division deployment to the Middle East is intended to pressure Iran into accepting U.S. ceasefire terms, military analyst Michael Eisenstadt says.</summary>
+      <pubDate>Wed, 25 Mar 2026 18:21:53 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-military-82-airborne.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>UK arrests 2 over 'antisemitic arson attack' as police investigate possible Iran link</title>
       <link>https://www.foxnews.com/world/united-kingdom-arrests-2-over-antisemitic-arson-attack-police-investigate-possible-iran-link</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/london-arson-attack1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump, Starmer agree Strait of Hormuz must reopen as Middle East conflict escalates</title>
-      <link>https://www.foxnews.com/world/trump-starmer-agree-strait-hormuz-must-reopen-middle-east-conflict-escalates</link>
-      <summary>Strait of Hormuz closure dominates a Trump-Starmer call, as Trump&amp;apos;s 48-hour ultimatum to Iran warns of further U.S. strikes on Iranian energy infrastructure.</summary>
-      <pubDate>Sun, 22 Mar 2026 21:11:40 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/trump-starmer-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

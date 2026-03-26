@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-26T00:01:00.694286</generated>
+  <generated>2026-03-26T02:01:00.457098</generated>
   <items>
     <item>
-      <title>Iran live updates: Iran rejects US peace proposal, sets 5 conditions, state TV says</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:38:37 -0400</pubDate>
+      <title>US-Iran conflict hands China's Xi upper hand ahead of Trump meeting: Experts</title>
+      <link>https://abcnews.com/Politics/us-iran-conflict-hands-chinas-xi-upper-hand/story?id=131412478</link>
+      <summary>Chinese President Xi has been watching the U.S.-Iran conflict from the sidelines, and experts told ABC News that's exactly where Beijing wants to be.</summary>
+      <pubDate>Wed, 25 Mar 2026 19:55:36 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/iran-7-gty-gmh-260325_1774445971312_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Politics/trump-xi-3-ap-gmh-260325_1774464694720_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran live updates: 'Not getting enough answers,' key House committee GOP chair says</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Wed, 25 Mar 2026 18:29:13 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/iran-13-ht-gmh-260325_1774463883427_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260324_gma_potd_bruins1_747_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>DOJ to pay ex-Trump adviser Michael Flynn $1M to settle lawsuit: Sources</title>
-      <link>https://abcnews.com/US/doj-pay-trump-adviser-michael-flynn-1m-settle/story?id=131411111</link>
-      <summary>The DOJ has reached an agreement with ex-Trump adviser Michael Flynn to pay him roughly $1.2 million to settle claims that he was politically prosecuted, sources say.</summary>
-      <pubDate>Wed, 25 Mar 2026 16:44:53 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/flynn-gty-er-260325_1774468238205_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
