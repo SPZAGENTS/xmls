@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-26T20:03:27.520603</generated>
+  <generated>2026-03-26T22:08:35.368557</generated>
   <items>
+    <item>
+      <title>Trump Aims New Threats at Iran, as Israel Says It Killed Naval Commander</title>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/trump-iran-naval-commander.html</link>
+      <summary>The killing of the Iranian commander, who had been leading efforts to block the Strait of Hormuz, came as President Trump pressured Iran to engage in talks to end the war.</summary>
+      <pubDate>Thu, 26 Mar 2026 19:59:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26int-iran-leadall-twcm/26int-iran-leadall-twcm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Mortgage Rates Jump Again as Iran War Effects Ripple Through Housing Market</title>
       <link>https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-meeks-bjhl/25israel-iran-meeks-bjhl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Who Is Mohammad Bagher Ghalibaf?</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/mohammad-bagher-ghalibaf-iran-speaker-parliament.html</link>
-      <summary>A brigadier general and speaker of Parliament, Mr. Ghalibaf, one of the leaders of Iran’s war effort, has emerged as a potential contact point in any peace talks.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:48:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-Ghalibaf-HFO-qmwb/18israel-iran-Ghalibaf-HFO-qmwb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

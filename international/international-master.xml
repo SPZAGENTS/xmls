@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-26T20:03:36.156182</generated>
-  <total_articles>344</total_articles>
+  <generated>2026-03-26T22:08:44.290616</generated>
+  <total_articles>343</total_articles>
   <items>
     <item>
       <title>UK forecast to see biggest hit to growth from Iran war out of major economies</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/91905290-2916-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Zelensky visits Saudi Arabia after offering Ukraine's drone expertise</title>
+      <link>https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.</summary>
+      <pubDate>Thu, 26 Mar 2026 18:24:13 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>
@@ -61,6 +72,17 @@
       </media>
     </item>
     <item>
+      <title>Zelensky visits Saudi Arabia after offering Ukraine's drone expertise</title>
+      <link>https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.</summary>
+      <pubDate>Thu, 26 Mar 2026 18:24:13 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
       <title>'There's no safety anymore': Palestinians warn of expanding West Bank settler violence</title>
       <link>https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.</summary>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2131/live/c26f94f0-279c-11f1-a79a-77e93010d956.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Iran war shows norms of international conflicts have been overturned</title>
-      <link>https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.</summary>
-      <pubDate>Tue, 24 Mar 2026 15:55:08 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50fe/live/5001efa0-27a4-11f1-a79a-77e93010d956.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war</title>
-      <link>https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The toll on civilians is mounting fast as the US-Israeli war on Iran continues.</summary>
-      <pubDate>Mon, 23 Mar 2026 18:31:26 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
   </items>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-26T20:03:21.360617</generated>
+  <generated>2026-03-26T22:08:28.799627</generated>
   <items>
     <item>
       <title>Trump's Iran strategy is to pursue two off-ramps at once</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Zelensky visits Saudi Arabia after offering Ukraine's drone expertise</title>
+      <link>https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.</summary>
+      <pubDate>Thu, 26 Mar 2026 18:24:13 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fae/live/f2b9d3f0-293b-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d43/live/a0b7c9f0-2629-11f1-aad6-2d605a562384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump at a crossroads as US weighs tough options in Iran</title>
-      <link>https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Statements from President Trump that the war is almost over are not matching up with the reality on the ground.</summary>
-      <pubDate>Sun, 22 Mar 2026 00:50:43 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
