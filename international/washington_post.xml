@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-26T04:12:27.296693</generated>
+  <generated>2026-03-26T06:03:33.834339</generated>
   <items>
     <item>
       <title>Iraq accuses U.S. of killing 7 soldiers in clinic strike</title>
@@ -61,18 +61,18 @@
       <priority>85</priority>
     </item>
     <item>
+      <title>Audio from cockpit recorder reveals error before deadly LaGuardia crash</title>
+      <link>https://www.washingtonpost.com/nation/2026/03/24/laguardia-cockpit-recording/</link>
+      <summary>LaGuardia’s air traffic control tower failed to recognize it had granted permission for a plane and an emergency vehicle to use the same runway, officials said.</summary>
+      <pubDate>Tue, 24 Mar 2026 22:00:46 +0000</pubDate>
+      <priority>80</priority>
+    </item>
+    <item>
       <title>China bars executives at Meta-owned AI company from leaving country</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/</link>
       <summary>Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.</summary>
       <pubDate>Wed, 25 Mar 2026 22:17:01 +0000</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Rubio testifies against friend accused of secretly working for Maduro</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/24/marco-rubio-maduro-rivera-miami-venezuela-politics/</link>
-      <summary>Former congressman David Rivera, accused of secretly lobbying for Nicolás Maduro’s government in Venezuela, climbed Miami politics alongside Marco Rubio.</summary>
-      <pubDate>Tue, 24 Mar 2026 20:43:40 +0000</pubDate>
-      <priority>60</priority>
     </item>
   </items>
 </content-feed>

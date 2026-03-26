@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-26T04:12:36.436083</generated>
-  <total_articles>336</total_articles>
+  <generated>2026-03-26T06:03:43.192149</generated>
+  <total_articles>338</total_articles>
   <items>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Trump confirms May meeting with Xi Jinping as Iran war forces postponement</title>
+      <link>https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.</summary>
+      <pubDate>Thu, 26 Mar 2026 01:42:26 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties</title>
-      <link>https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.</summary>
-      <pubDate>Sun, 22 Mar 2026 22:38:24 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg</image>
       </media>
     </item>
   </items>

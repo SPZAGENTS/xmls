@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-26T04:12:25.553180</generated>
+  <generated>2026-03-26T06:03:31.994772</generated>
   <items>
     <item>
       <title>Iran is 'trying to give the global economy a heart attack' by closing Strait of Hormuz, UAE minister says</title>
@@ -34,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/howie-mandel-kelly-ripa-split.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Illegal immigrant accused of groping girls at Virginia high school facing new charges</title>
+      <link>https://www.foxnews.com/us/illegal-immigrant-accused-groping-girls-virginia-high-school-facing-new-charges</link>
+      <summary>An illegal immigrant accused of groping female students at Fairfax High School in Virginia was served with four more counts after additional victims came forward.</summary>
+      <pubDate>Wed, 25 Mar 2026 23:56:50 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fairfax-high-split-israel-flores.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>DOJ settles with Michael Flynn over Russia probe after wrongful prosecution claim: 'Historic injustice'</title>
-      <link>https://www.foxnews.com/politics/doj-settles-michael-flynn-russia-probe-wrongful-prosecution-claim-historic-injustice</link>
-      <summary>The DOJ settled with former Trump national security adviser Michael Flynn for a reported $1.2 million, calling it a step to redress what it described as a &amp;quot;historic injustice.&amp;quot;</summary>
-      <pubDate>Wed, 25 Mar 2026 20:50:03 -0400</pubDate>
+      <title>Trump admin makes new criminal referrals to DOJ targeting New York AG Letitia James</title>
+      <link>https://www.foxnews.com/politics/trump-admin-makes-new-criminal-referrals-doj-targeting-new-york-ag-letitia-james</link>
+      <summary>The Trump administration has made criminal referrals to the DOJ alleging New York AG Letitia James committed homeowners insurance fraud, officials confirmed.</summary>
+      <pubDate>Wed, 25 Mar 2026 23:34:14 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/931/523/Michael-Flynn-AP-e1607455792420.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Wine, beer or liquor: Study finds one drink is linked to lower risk of death than others</title>
-      <link>https://www.foxnews.com/food-drink/wine-beer-liquor-study-finds-one-drink-linked-lower-risk-death-others</link>
-      <summary>A new study found moderate wine drinkers had a 21% lower cardiovascular death risk, while beer and spirits raised risk even at low intake levels. Experts urge caution.</summary>
-      <pubDate>Wed, 25 Mar 2026 20:40:18 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/wine-liquor-beer-health-risks-what-to-know-food-drink-1.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/new-york-attorney-general-letitia-james.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

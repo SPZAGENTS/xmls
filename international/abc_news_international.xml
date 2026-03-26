@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-26T04:12:34.353531</generated>
+  <generated>2026-03-26T06:03:41.353279</generated>
   <items>
     <item>
       <title>Kenya’s flower industry loses millions of dollars weekly due to the Iran war</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Cambodian man deported by the US to Eswatini is being repatriated, his lawyer says</title>
-      <link>https://abcnews.com/International/wireStory/cambodian-man-deported-us-eswatini-repatriated-lawyer-131386350</link>
-      <summary>A lawyer for a Cambodian man deported by the United States to the African kingdom of Eswatini says he has been released from a prison to be repatriated</summary>
-      <pubDate>Wed, 25 Mar 2026 02:31:21 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_dc6e217e6abf34a05dad314bd8c272f9_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Sarah Mullally celebrated as the Church of England's first female leader, in photos</title>
       <link>https://abcnews.com/International/wireStory/sarah-mullally-celebrated-church-englands-female-leader-photos-131409273</link>
       <summary>Sarah Mullally has been formally installed as archbishop of Canterbury, marking the start of her public ministry as the first woman to lead the Church of England. She will serve as spiritual head of the global Anglican Communion, a network of independent churches with more tha...</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_8e8b3de7387d9cd9ab65aeee9fcc78af_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cambodian man deported by the US to Eswatini is being repatriated, his lawyer says</title>
+      <link>https://abcnews.com/International/wireStory/cambodian-man-deported-us-eswatini-repatriated-lawyer-131386350</link>
+      <summary>A lawyer for a Cambodian man deported by the United States to the African kingdom of Eswatini says he has been released from a prison to be repatriated</summary>
+      <pubDate>Wed, 25 Mar 2026 02:31:21 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_dc6e217e6abf34a05dad314bd8c272f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
