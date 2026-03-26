@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-26T06:03:30.844912</generated>
+  <generated>2026-03-26T08:02:53.178172</generated>
   <items>
+    <item>
+      <title>Is Trump any closer to an Iran exit strategy?</title>
+      <link>https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.</summary>
+      <pubDate>Thu, 26 Mar 2026 02:00:53 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6c/live/75d7a8f0-28b7-11f1-a969-25e19bf2e998.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
       <link>https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -12,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump confirms May meeting with Xi Jinping as Iran war forces postponement</title>
-      <link>https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.</summary>
-      <pubDate>Thu, 26 Mar 2026 01:42:26 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Rocket stocks soar on report Musk's SpaceX to file for share sale</title>
-      <link>https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Reports it plans the biggest listing ever sent the shares of firms in its orbit soaring in US trade on Wednesday.</summary>
-      <pubDate>Thu, 26 Mar 2026 02:01:39 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a653/live/74eea880-28b7-11f1-a969-25e19bf2e998.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iranians mark their New Year with anger, fear, and defiance</title>
       <link>https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Cleaning her home for the festival, one Iranian told us: "Perhaps this dark night will finally give way to dawn."</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fd/live/72bb1f20-2895-11f1-bc38-5da76fb87fc9.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Who wants what and why from US-Iran peace talks?</title>
+      <link>https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There is indirect contact and channels between the two sides - but a deal may still be a long way off.</summary>
+      <pubDate>Wed, 25 Mar 2026 21:37:34 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
