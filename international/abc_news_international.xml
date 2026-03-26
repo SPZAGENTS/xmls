@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-26T10:01:00.289750</generated>
+  <generated>2026-03-26T12:01:01.507171</generated>
   <items>
     <item>
       <title>Kenya’s flower industry loses millions of dollars weekly due to the Iran war</title>
@@ -16,10 +16,10 @@
       </media>
     </item>
     <item>
-      <title>Iran war deflects attention from Ukraine as an emboldened Russia starts spring offensive</title>
+      <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
       <link>https://abcnews.com/International/wireStory/iran-war-deflects-attention-ukraine-emboldened-russia-starts-131421742</link>
       <summary>The Iran war has deflected global attention from Russia&amp;rsquo;s all-out invasion of its neighbor Ukraine as Europe&amp;rsquo;s biggest conflict since World War II enters its fifth year and an emboldened Kremlin undertakes a spring offensive</summary>
-      <pubDate>Thu, 26 Mar 2026 03:23:17 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2026 04:13:45 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_c9976319f077c743317edec8a20f57f3_4x3_384.jpg</image>
@@ -56,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_1889d1a11da9851a1940671ba0de4963_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two British men detained in a suspected antisemitic hate crime are released on bail</title>
+      <link>https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228</link>
+      <summary>British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime</summary>
+      <pubDate>Thu, 26 Mar 2026 04:58:32 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0ab1169b043ab72bbd7a32333eff2af6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_8e8b3de7387d9cd9ab65aeee9fcc78af_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cambodian man deported by the US to Eswatini is being repatriated, his lawyer says</title>
-      <link>https://abcnews.com/International/wireStory/cambodian-man-deported-us-eswatini-repatriated-lawyer-131386350</link>
-      <summary>A lawyer for a Cambodian man deported by the United States to the African kingdom of Eswatini says he has been released from a prison to be repatriated</summary>
-      <pubDate>Wed, 25 Mar 2026 02:31:21 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_dc6e217e6abf34a05dad314bd8c272f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

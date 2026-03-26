@@ -2,8 +2,22 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-26T10:00:52.899234</generated>
+  <generated>2026-03-26T12:00:53.928313</generated>
   <items>
+    <item>
+      <title>Pentagon considers diverting Ukraine military aid to the Middle East</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/</link>
+      <summary>A shift would highlight the growing trade-offs required for the U.S. to sustain its war with Iran as the conflict depletes the military’s critical munitions.</summary>
+      <pubDate>Thu, 26 Mar 2026 09:00:36 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Gulf countries want Trump to end Iran war — but not yet, officials say</title>
+      <link>https://www.washingtonpost.com/world/2026/03/26/iran-gulf-us-peace-deal-trump/</link>
+      <summary>The Saudis and Emiratis fear a deal that leaves the region less stable, and they have indicated support for an escalated campaign to force concessions from Tehran.</summary>
+      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Iraq accuses U.S. of killing 7 soldiers in clinic strike</title>
       <link>https://www.washingtonpost.com/world/2026/03/25/iraq-strike-attack-clinic-united-states-pmf-iran/</link>
@@ -59,20 +73,6 @@
       <summary>Parts of the Arabian Peninsula and Persian Gulf could be hit by strong thunderstorms later this week. Major highways and airports in the region could be inundated.</summary>
       <pubDate>Wed, 25 Mar 2026 14:59:21 +0000</pubDate>
       <priority>85</priority>
-    </item>
-    <item>
-      <title>Audio from cockpit recorder reveals error before deadly LaGuardia crash</title>
-      <link>https://www.washingtonpost.com/nation/2026/03/24/laguardia-cockpit-recording/</link>
-      <summary>LaGuardia’s air traffic control tower failed to recognize it had granted permission for a plane and an emergency vehicle to use the same runway, officials said.</summary>
-      <pubDate>Tue, 24 Mar 2026 22:00:46 +0000</pubDate>
-      <priority>80</priority>
-    </item>
-    <item>
-      <title>China bars executives at Meta-owned AI company from leaving country</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/</link>
-      <summary>Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.</summary>
-      <pubDate>Wed, 25 Mar 2026 22:17:01 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
