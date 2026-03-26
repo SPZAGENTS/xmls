@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-26T16:00:51.535912</generated>
+  <generated>2026-03-26T18:00:50.837606</generated>
   <items>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump confirms May meeting with Xi Jinping as Iran war forces postponement</title>
-      <link>https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.</summary>
-      <pubDate>Thu, 26 Mar 2026 07:34:55 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +27,35 @@
       </media>
     </item>
     <item>
-      <title>'There's no safety anymore': Palestinians warn of expanding West Bank settler violence</title>
-      <link>https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.</summary>
-      <pubDate>Wed, 25 Mar 2026 12:27:28 GMT</pubDate>
+      <title>Trump confirms May meeting with Xi Jinping as Iran war forces postponement</title>
+      <link>https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.</summary>
+      <pubDate>Thu, 26 Mar 2026 07:34:55 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1f/live/9a766e30-2830-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How the Iran war is causing fuel chaos in the Philippines</title>
+      <link>https://www.bbc.com/news/videos/cly64y288gwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.</summary>
+      <pubDate>Thu, 26 Mar 2026 05:13:46 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cce/live/d88c0680-28d0-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Inside Palestinian homes attacked by settlers</title>
+      <link>https://www.bbc.com/news/videos/cd9vnznv075o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Violence began after a teenage settler was killed, reportedly after being hit by a vehicle driven by a Palestinian.</summary>
+      <pubDate>Mon, 23 Mar 2026 17:53:17 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effa/live/bf780640-26e0-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>In pictures: Hunting lynx snatches top prize in photo competition</title>
-      <link>https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A young lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.</summary>
-      <pubDate>Wed, 25 Mar 2026 06:29:10 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a335/live/cb7ba010-281f-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>How the deadly LaGuardia Airport crash unfolded</title>
       <link>https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Video shows the aftermath of the collision between a passenger plane and a firefighting vehicle on the runway of the New York airport.</summary>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Why transport workers are protesting in the Philippines</title>
-      <link>https://www.bbc.com/news/videos/cly64y288gwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:13:46 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cce/live/d88c0680-28d0-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>European Parliament gives conditional approval to EU-US trade deal</title>
       <link>https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The agreement would see EU tariffs on US goods reduced to zero while US tariffs on EU imports set at 15%.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7961/live/6ac854e0-2912-11f1-8742-11d9a3760e0c.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Air Canada CEO 'deeply saddened' his poor French skills distracted from victims of crash</title>
+      <link>https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.</summary>
+      <pubDate>Thu, 26 Mar 2026 14:40:10 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95aa/live/2e9e2d10-291b-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

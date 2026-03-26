@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-26T16:01:02.215868</generated>
+  <generated>2026-03-26T18:01:01.911131</generated>
   <items>
     <item>
       <title>Kenya’s flower industry loses millions of dollars weekly due to the Iran war</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_7431e182c7cf5d9190d345ad4ab4e429_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
-      <link>https://abcnews.com/International/wireStory/iran-war-deflects-attention-ukraine-emboldened-russia-starts-131421742</link>
-      <summary>The Iran war has deflected global attention from Russia&amp;rsquo;s all-out invasion of its neighbor Ukraine as Europe&amp;rsquo;s biggest conflict since World War II enters its fifth year and an emboldened Kremlin undertakes a spring offensive</summary>
-      <pubDate>Thu, 26 Mar 2026 04:13:45 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_c9976319f077c743317edec8a20f57f3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,10 +30,10 @@
       <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
       <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
       <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
-      <pubDate>Thu, 26 Mar 2026 09:53:31 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2026 10:59:08 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_2b7ef8bb43f9b4d8add9929ec4325d19_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Italy seizes millions in assets allegedly stolen from Bond co-star Ursula Andress</title>
+      <link>https://abcnews.com/International/wireStory/italy-seizes-millions-assets-allegedly-stolen-bond-star-131429780</link>
+      <summary>Italian police say they have seized about 20 million euros in property and assets linked to money stolen from Swiss actress and original Bond girl Ursula Andress</summary>
+      <pubDate>Thu, 26 Mar 2026 09:01:45 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_b1e63fe693e585b14b3a09355267c596_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

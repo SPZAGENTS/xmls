@@ -2,27 +2,60 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-26T16:01:00.905160</generated>
+  <generated>2026-03-26T18:01:00.984636</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:55:50 -0400</pubDate>
+      <title>LIVE: President Trump holds Cabinet meeting amid war with Iran</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 26 Mar 2026 11:51:33 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Iran-protest-DB-260326_1774515716908_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Tue, 24 Mar 2026 14:28:33 -0400</pubDate>
+      <title>Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:26:33 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/cabinet-2-gty-gmh-260326_1774536415151_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UN peacekeepers in Lebanon fired upon 20 times amid Israel-Hezbollah fight: Official</title>
+      <link>https://abcnews.com/International/peacekeepers-lebanon-fired-20-times-amid-israel-hezbollah/story?id=131387034</link>
+      <summary>United Nations peacekeepers operating in southern Lebanon have been fired upon around 20 times since the resumption this month of hostilities there.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:48:41 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/UNIFIL-DB-260325_1774453518433_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</title>
+      <link>https://abcnews.com/video/131433506/</link>
+      <summary>One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</summary>
+      <pubDate>Thu, 26 Mar 2026 10:32:52 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260326_abc_social_hawaii_doctor_trial_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Delivery robots slam into Chicago bus shelters, cause damage</title>
+      <link>https://abcnews.com/video/131431760/</link>
+      <summary>Two delivery robots are now being blamed for separate incidents which damaged city property. WLS-TV's Karen Jordan reports.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:16:53 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Technology/260326_abcnl_10a_robots_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Wall Street's 2025 bonuses reached unprecedented levels</title>
-      <link>https://abcnews.com/Business/wireStory/wall-streets-2025-bonuses-reached-unprecedented-levels-rollicking-131426011</link>
-      <summary>Wall Street bonuses hit a new record in 2025 as profits surged</summary>
-      <pubDate>Thu, 26 Mar 2026 07:21:35 -0400</pubDate>
+      <title>WATCH: Food, fun and history on MLB Opening Day</title>
+      <link>https://abcnews.com/video/131425016/</link>
+      <summary>ABC News' Danny New takes a look at the magic of baseball's Opening Day and all the traditions that make the game America's pastime.</summary>
+      <pubDate>Thu, 26 Mar 2026 07:22:14 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260326_gmafl_opening_day_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +104,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Food, fun and history on MLB Opening Day</title>
-      <link>https://abcnews.com/video/131425016/</link>
-      <summary>ABC News' Danny New takes a look at the magic of baseball's Opening Day and all the traditions that make the game America's pastime.</summary>
-      <pubDate>Thu, 26 Mar 2026 07:22:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260326_gmafl_opening_day_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Rare twin gorilla babies born in Congo</title>
       <link>https://abcnews.com/video/131391287/</link>
       <summary>Conservationists at Virunga National Park in the Democratic Republic of the Congo are celebrating this morning after the birth of a set of mountain gorilla twins.</summary>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260325_gma_potd_gorilla1_749_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: NASA unveils ambitious $20 billion moon base strategy</title>
-      <link>https://abcnews.com/video/131390186/</link>
-      <summary>"This time, the goal is to stay," NASA Administrator Jared Isaacman said Tuesday as NASA unveiled an ambitious $20 billion moon base strategy.</summary>
-      <pubDate>Wed, 25 Mar 2026 07:28:19 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Technology/260325_wnn_moon_base_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: United’s new lie-flat economy option</title>
-      <link>https://abcnews.com/video/131390965/</link>
-      <summary>The dream for anyone on an overnight flight in economy is to stretch out and get a good night’s sleep. United is announcing a new option aimed at making that dream come true.</summary>
-      <pubDate>Wed, 25 Mar 2026 09:19:06 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260325_gma_spencer_united_718_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

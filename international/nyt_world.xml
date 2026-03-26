@@ -2,16 +2,38 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-26T16:00:55.907113</generated>
+  <generated>2026-03-26T18:00:54.884334</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran</title>
+      <title>Iran War Live Updates: Trump Mixes Diplomacy and Threats in Effort to Pressure Iran</title>
       <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
-      <summary>Israel said that an airstrike had killed Alireza Tangsiri, a key player in Iran’s blockade of the Strait of Hormuz. President Trump warned Iranian officials to consider his peace proposal “before it is too late.”</summary>
-      <pubDate>Thu, 26 Mar 2026 13:56:15 +0000</pubDate>
+      <summary>President Trump warned Iranian officials to consider his peace proposal “before it is too late.” Israel said that an airstrike had killed an Iranian naval commander overseeing the blockade of the Strait of Hormuz.</summary>
+      <pubDate>Thu, 26 Mar 2026 15:56:23 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo/26israel-iran-promo-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26mideast-carousel-442-gcbk/26mideast-carousel-442-gcbk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Australia Temporarily Blocks Iranians With Visitor Visas From Entry</title>
+      <link>https://www.nytimes.com/2026/03/26/world/australia/oz-iran-visas.html</link>
+      <summary>Iranian tourists with visas will be barred for six months in case they are ‘unable or unlikely’ to go back because of the war, Australian officials said.</summary>
+      <pubDate>Thu, 26 Mar 2026 14:27:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26oz-iran-visas-pljk/26oz-iran-visas-pljk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine</title>
+      <link>https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html</link>
+      <summary>The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress.</summary>
+      <pubDate>Thu, 26 Mar 2026 14:40:21 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26int-russia-us-visit-01-klzb/26int-russia-us-visit-01-klzb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -23,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-europe-iran-01-cbgf/25int-europe-iran-01-cbgf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. and Iran Are Talking About Ways to End the War: What to Know</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html</link>
-      <summary>The United States is discussing ways to end hostilities with Iran, even as the Pentagon dispatches more troops.</summary>
-      <pubDate>Wed, 25 Mar 2026 18:35:50 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-talks-wwk-btpv/25israel-iran-talks-wwk-btpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -52,21 +63,10 @@
       <title>Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?</title>
       <link>https://www.nytimes.com/2026/03/26/world/middleeast/who-alireza-tangsiri-iran-commander-navy-irgc.html</link>
       <summary>Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.</summary>
-      <pubDate>Thu, 26 Mar 2026 11:16:41 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 15:09:01 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26-iran-killed-zuma/26-iran-killed-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Republicans in Congress Fret Over Trump Administration’s Handling of Iran War</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html</link>
-      <summary>G.O.P. lawmakers who have given the Trump administration wide latitude to wage war with no congressional input are growing frustrated as officials offer little detail about ground troops, cost or timeline.</summary>
-      <pubDate>Thu, 26 Mar 2026 02:07:44 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-pentagon-briefing-gop2-zlgh/25israel-iran-pentagon-briefing-gop2-zlgh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.</title>
-      <link>https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html</link>
-      <summary>Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.</summary>
-      <pubDate>Wed, 25 Mar 2026 13:45:23 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-battlefield-hlwc/25int-ukraine-battlefield-hlwc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Two Killed in Abu Dhabi as Gulf States Face Fresh Attacks</title>
       <link>https://www.nytimes.com/2026/03/26/world/middleeast/iran-missile-strikes-abu-dhabi.html</link>
       <summary>A Pakistani man and an Indian man died when shrapnel fell from an intercepted missile, officials said. Saudi Arabia, Kuwait and Bahrain also reported strikes.</summary>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-gulf-attacks-01-vgqb/26israel-iran-gulf-attacks-01-vgqb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Sudden Death of a Man Who Told Chinese Kids How to Succeed</title>
+      <link>https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html</link>
+      <summary>The influencer Zhang Xuefeng was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.</summary>
+      <pubDate>Thu, 26 Mar 2026 13:01:54 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26int-china-influencer-01-gwht/26int-china-influencer-01-gwht-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
