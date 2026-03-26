@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-26T12:00:51.452466</generated>
+  <generated>2026-03-26T14:02:47.115377</generated>
   <items>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Zimbabwe says 15 nationals killed after being lured to fight for Russia</title>
+      <link>https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Zimbabwe says it is engaging the Russian government to repatriate bodies and bring home those still alive.</summary>
+      <pubDate>Thu, 26 Mar 2026 10:55:56 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8900/live/0288f700-2902-11f1-be8b-2136d1c912ba.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Who wants what and why from US-Iran peace talks?</title>
+      <title>Are the US and Iran holding peace talks, and what do both sides want?</title>
       <link>https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>There is indirect contact and channels between the two sides - but a deal may still be a long way off.</summary>
-      <pubDate>Wed, 25 Mar 2026 21:37:34 GMT</pubDate>
+      <pubDate>Thu, 26 Mar 2026 10:35:19 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be3/live/e994c790-2881-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why transport workers are protesting in the Philippines</title>
-      <link>https://www.bbc.com/news/videos/cly64y288gwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC News Asia Business Correspondent Suranajana Tewari spoke to people taking to the streets of Manila.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:13:46 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cce/live/d88c0680-28d0-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

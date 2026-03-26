@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-26T12:00:55.193506</generated>
+  <generated>2026-03-26T14:02:51.647249</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Targets Iranian Navy Commander in Airstrike, Israeli Officials Say</title>
+      <title>Iran War Live Updates: Israel Says Iranian Naval Commander Is Killed in Airstrike</title>
       <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
-      <summary>Israel’s military targeted Alireza Tangsiri, who has played a pivotal role in shutting down the Strait of Hormuz, according to three Israeli officials.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:54:10 +0000</pubDate>
+      <summary>Israel’s defense minister said that Alireza Tangsiri, a key player in Iran’s de facto blockade of the Strait of Hormuz, was dead. Iran has not commented on his condition.</summary>
+      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo/26israel-iran-promo-mediumSquareAt3X.jpg</image>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html</link>
-      <summary>The president has domestic and international political motivations for touting negotiations to end the war. Iran has similar ones to deny discussions.</summary>
-      <pubDate>Wed, 25 Mar 2026 20:27:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-Trump-Iran-Talks-hmjp/00int-Trump-Iran-Talks-hmjp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. and Iran Are Talking About Ways to End the War: What to Know</title>
       <link>https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html</link>
       <summary>The United States is discussing ways to end hostilities with Iran, even as the Pentagon dispatches more troops.</summary>
@@ -56,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-talks-wwk-btpv/25israel-iran-talks-wwk-btpv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?</title>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/alireza-tangsiri.html</link>
+      <summary>Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:16:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26-iran-killed-zuma/26-iran-killed-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.</title>
-      <link>https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html</link>
-      <summary>Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.</summary>
-      <pubDate>Wed, 25 Mar 2026 13:45:23 +0000</pubDate>
-      <priority>90</priority>
+      <title>Here’s What Happened in the War in the Middle East on Wednesday</title>
+      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-recap-wednesday.html</link>
+      <summary>The fighting continued while conditions for a possible cease-fire were debated.</summary>
+      <pubDate>Wed, 25 Mar 2026 22:28:11 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-battlefield-hlwc/25int-ukraine-battlefield-hlwc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In Rural Ukraine, Basic Health Care Is a Casualty of War</title>
-      <link>https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html</link>
-      <summary>Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:01:16 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-front-by-front2-qbfv/25israel-iran-front-by-front2-qbfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>A Missile Fragment in a Schoolyard</title>
-      <link>https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html</link>
-      <summary>Examining an image of children near a missile fragment, which landed near a school as several families were sheltering inside it.</summary>
-      <pubDate>Wed, 25 Mar 2026 04:01:12 +0000</pubDate>
-      <priority>75</priority>
+      <title>In Rural Ukraine, Basic Health Care Is a Casualty of War</title>
+      <link>https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html</link>
+      <summary>Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.</summary>
+      <pubDate>Thu, 26 Mar 2026 09:01:16 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/world/25Int-Israel-OneImage/25Int-Israel-OneImage-mediumSquareAt3X.png</image>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.</title>
+      <link>https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html</link>
+      <summary>Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.</summary>
+      <pubDate>Wed, 25 Mar 2026 13:45:23 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-ukraine-battlefield-hlwc/25int-ukraine-battlefield-hlwc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-26T12:00:56.170943</generated>
+  <generated>2026-03-26T14:02:52.365892</generated>
   <items>
+    <item>
+      <title>Who Is Alireza Tangsiri, the Latest Iranian Commander Targeted by Israel?</title>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/alireza-tangsiri.html</link>
+      <summary>Israel said it killed the naval commander, Alireza Tangsiri, in an airstrike on Thursday morning. Iran has not commented.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:16:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26-iran-killed-zuma/26-iran-killed-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran</title>
       <link>https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-israel2-jhcb/25israel-iran-israel2-jhcb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians Reject Trump’s Offer for Cease-Fire but Signal Openness to Talks</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/iran-talks-cease-fire.html</link>
-      <summary>Iran does not want a momentary pause in the fighting, fearing that Israel and the United States would use that opportunity to beef up their forces before resuming strikes.</summary>
-      <pubDate>Wed, 25 Mar 2026 19:48:48 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25israel-iran-mideast-plan-kpmt/25israel-iran-mideast-plan-kpmt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

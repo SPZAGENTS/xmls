@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-26T12:01:03.463403</generated>
+  <generated>2026-03-26T14:03:01.117129</generated>
   <items>
+    <item>
+      <title>Southeast Asia turns to nuclear as Iran war disrupts energy supplies</title>
+      <link>https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies</link>
+      <summary>Analysts say the Iran war energy crisis is also adding momentum to nuclear interest and action in the region.</summary>
+      <pubDate>Thu, 26 Mar 2026 07:30:48 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Israel and Iran ramp up attacks as Trump insists Tehran wants a deal</title>
       <link>https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions</link>
@@ -40,7 +47,7 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Hoping to unseat Collins, Maine Democrats battle it out in an expensive US Senate primary</title>
+      <title>Hoping to unseat Collins, Maine Democrats battle it out in an expensive U.S. Senate primary</title>
       <link>https://www.npr.org/2026/03/26/nx-s1-5757659/midterms-collins-maine-democrats-platner-mills-senate</link>
       <summary>As June's primary election nears, Democratic Gov. Janet Mills and combat veteran Graham Platner are effectively engaged in a proxy battle between factions in their own party.</summary>
       <pubDate>Thu, 26 Mar 2026 05:00:00 -0400</pubDate>
@@ -66,13 +73,6 @@
       <summary>The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans "the gravest crime against humanity" and calling for reparations.</summary>
       <pubDate>Thu, 26 Mar 2026 01:21:13 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Doctors worry about FDA scrutiny of RSV shots to protect babies</title>
-      <link>https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies</link>
-      <summary>The antibody shots are about 80% effective at preventing babies from ending up in intensive care because of RSV. The drugmakers behind them maintain they're safe.</summary>
-      <pubDate>Wed, 25 Mar 2026 16:26:59 -0400</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>

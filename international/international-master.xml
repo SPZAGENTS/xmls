@@ -2,9 +2,20 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-26T12:01:03.468717</generated>
-  <total_articles>343</total_articles>
+  <generated>2026-03-26T14:03:01.121792</generated>
+  <total_articles>344</total_articles>
   <items>
+    <item>
+      <title>UK facing biggest hit to growth from Iran war out of major economies</title>
+      <link>https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.</summary>
+      <pubDate>Thu, 26 Mar 2026 11:52:39 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4853/live/a28db640-28f9-11f1-a79a-77e93010d956.jpg</image>
+      </media>
+    </item>
     <item>
       <title>Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly</title>
       <link>https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -17,7 +28,7 @@
       </media>
     </item>
     <item>
-      <title>Trump's Iran strategy is to pursue two off-ramps at once</title>
+      <title>Trump's strategy is to pursue two off-ramps at once</title>
       <link>https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.</summary>
       <pubDate>Thu, 26 Mar 2026 02:00:53 GMT</pubDate>
@@ -25,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>UK CO2 plant to reopen in Iran war contingency plan</title>
+      <link>https://www.bbc.com/news/articles/cew7xrj4497o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The government will invest £100m to restart the Teesside site producing carbon dioxide, a key part of food and drink manufacturing.</summary>
+      <pubDate>Thu, 26 Mar 2026 09:55:18 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e92/live/24bf6d00-28b6-11f1-b297-95b0a0a8331e.jpg</image>
       </media>
     </item>
     <item>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>US' and Iran's options for ending war narrow the longer it goes on</title>
-      <link>https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.</summary>
-      <pubDate>Mon, 23 Mar 2026 15:34:38 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties</title>
-      <link>https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.</summary>
-      <pubDate>Sun, 22 Mar 2026 22:38:24 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg</image>
       </media>
     </item>
   </items>
