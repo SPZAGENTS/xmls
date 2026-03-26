@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-26T18:01:03.849535</generated>
-  <total_articles>342</total_articles>
+  <generated>2026-03-26T20:03:36.156182</generated>
+  <total_articles>344</total_articles>
   <items>
     <item>
       <title>UK forecast to see biggest hit to growth from Iran war out of major economies</title>
@@ -25,6 +25,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dcb/live/f0045c10-28e7-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Rationing power and diluting petrol - how African countries are coping with effects of Iran war</title>
+      <link>https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The disruption in oil supplies has caused shortages and concerns in several African countries.</summary>
+      <pubDate>Thu, 26 Mar 2026 17:57:41 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>US' and Iran's options for ending war narrow the longer it goes on</title>
-      <link>https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.</summary>
-      <pubDate>Mon, 23 Mar 2026 15:34:38 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
   </items>

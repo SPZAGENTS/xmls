@@ -2,24 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-26T18:01:00.984636</generated>
+  <generated>2026-03-26T20:03:33.066714</generated>
   <items>
-    <item>
-      <title>LIVE: President Trump holds Cabinet meeting amid war with Iran</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 26 Mar 2026 11:51:33 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iran live updates: Trump renews Iran threats, urges deal 'before it is too late'</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 26 Mar 2026 11:26:33 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2026 13:50:53 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/cabinet-2-gty-gmh-260326_1774536415151_hpMain_4x3t_384.jpg</image>
@@ -27,24 +16,24 @@
       </media>
     </item>
     <item>
-      <title>UN peacekeepers in Lebanon fired upon 20 times amid Israel-Hezbollah fight: Official</title>
-      <link>https://abcnews.com/International/peacekeepers-lebanon-fired-20-times-amid-israel-hezbollah/story?id=131387034</link>
-      <summary>United Nations peacekeepers operating in southern Lebanon have been fired upon around 20 times since the resumption this month of hostilities there.</summary>
-      <pubDate>Thu, 26 Mar 2026 11:48:41 -0400</pubDate>
-      <priority>100</priority>
+      <title>WATCH: One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</title>
+      <link>https://abcnews.com/video/131433506/</link>
+      <summary>One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</summary>
+      <pubDate>Thu, 26 Mar 2026 14:01:51 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/UNIFIL-DB-260325_1774453518433_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260326_abc_social_hawaii_doctor_trial_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</title>
-      <link>https://abcnews.com/video/131433506/</link>
-      <summary>One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</summary>
-      <pubDate>Thu, 26 Mar 2026 10:32:52 -0400</pubDate>
-      <priority>90</priority>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 26 Mar 2026 12:16:58 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/260326_abc_social_hawaii_doctor_trial_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +67,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_gmafl_tsa_chaos_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI</title>
+      <link>https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716</link>
+      <summary>An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.</summary>
+      <pubDate>Thu, 26 Mar 2026 13:15:02 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/FLORIDA-AIRBASE-2_1774487011216_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

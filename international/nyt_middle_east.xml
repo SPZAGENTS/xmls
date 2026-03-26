@@ -2,13 +2,20 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-26T18:00:55.484470</generated>
+  <generated>2026-03-26T20:03:27.520603</generated>
   <items>
+    <item>
+      <title>Mortgage Rates Jump Again as Iran War Effects Ripple Through Housing Market</title>
+      <link>https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html</link>
+      <summary>The average rate on a 30-year mortgage in the United States hit 6.38 percent, the fourth increase since the war began.</summary>
+      <pubDate>Thu, 26 Mar 2026 16:35:32 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Australia Temporarily Blocks Iranians With Visitor Visas From Entry</title>
       <link>https://www.nytimes.com/2026/03/26/world/australia/oz-iran-visas.html</link>
       <summary>Iranian tourists with visas will be barred for six months in case they are ‘unable or unlikely’ to go back because of the war, Australian officials said.</summary>
-      <pubDate>Thu, 26 Mar 2026 14:27:19 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2026 17:51:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26oz-iran-visas-pljk/26oz-iran-visas-pljk-mediumSquareAt3X.jpg</image>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/18/multimedia/18israel-iran-Ghalibaf-HFO-qmwb/18israel-iran-Ghalibaf-HFO-qmwb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.</title>
-      <link>https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html</link>
-      <summary>The president has domestic and international political motivations for touting negotiations to end the war. Iran has similar ones to deny discussions.</summary>
-      <pubDate>Wed, 25 Mar 2026 20:27:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-Trump-Iran-Talks-hmjp/00int-Trump-Iran-Talks-hmjp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
