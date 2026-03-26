@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-26T22:08:32.701423</generated>
+  <generated>2026-03-27T00:03:56.102172</generated>
   <items>
     <item>
       <title>Pentagon considers diverting Ukraine military aid to the Middle East</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/</link>
       <summary>A shift would highlight the growing trade-offs required for the U.S. to sustain its war with Iran as the conflict depletes the military’s critical munitions.</summary>
       <pubDate>Thu, 26 Mar 2026 17:50:51 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran rejects Trump proposal to end war, leaving status of talks unclear</title>
-      <link>https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/</link>
-      <summary>Tehran did not say whether it had offered the U.S. a counterproposal and did not confirm Israel’s claim that it had killed Iran’s top naval commander.</summary>
-      <pubDate>Thu, 26 Mar 2026 17:39:06 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -61,11 +54,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Tehran denies claims of progress in peace talks, as Trump declares war ‘won’</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/24/us-iran-peace-talks-pakistan-turkey-egypt/</link>
-      <summary>President Donald Trump said that peace negotiations with representatives from Iran were ongoing: “They want to make a deal so badly.”</summary>
-      <pubDate>Tue, 24 Mar 2026 21:11:12 +0000</pubDate>
-      <priority>100</priority>
+      <title>Trump says U.S. to hold off for 10 days on hitting Iran energy sites</title>
+      <link>https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/</link>
+      <summary>Trump’s statement follows an Iranian report that it had rejected a 15-point U.S. ceasefire proposal, a move that still left the door open for a counteroffer.</summary>
+      <pubDate>Thu, 26 Mar 2026 21:32:42 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Rare Middle East storm could bring floods, damaging winds and tornadoes</title>
@@ -73,6 +66,13 @@
       <summary>Parts of the Arabian Peninsula and Persian Gulf could be hit by strong thunderstorms later this week. Major highways and airports in the region could be inundated.</summary>
       <pubDate>Wed, 25 Mar 2026 14:59:21 +0000</pubDate>
       <priority>85</priority>
+    </item>
+    <item>
+      <title>Far fewer immigrants are moving to big cities in U.S., data shows</title>
+      <link>https://www.washingtonpost.com/immigration/2026/03/26/immigrants-cities-census-population-growth/</link>
+      <summary>New York, Los Angeles and Chicago are among the metro areas seeing steep declines in net immigration amid the Trump administration’s crackdown.</summary>
+      <pubDate>Thu, 26 Mar 2026 16:38:40 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>

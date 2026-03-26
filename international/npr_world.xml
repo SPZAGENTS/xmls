@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-26T22:08:44.285370</generated>
+  <generated>2026-03-27T00:04:06.411589</generated>
   <items>
     <item>
       <title>Southeast Asia turns to nuclear as Iran war disrupts energy supplies</title>
@@ -12,25 +12,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>The U.S. and Iran are in 'indirect talks,' says mediator Pakistan, as war rages on</title>
+      <title>Trump grants Iran another extension on a deadline to reopen the Strait of Hormuz</title>
       <link>https://www.npr.org/2026/03/26/nx-s1-5761882/iran-war-peace-conditions</link>
-      <summary>Pakistan's foreign minister said the country is relaying messages and that Iran is deliberating on a U.S. proposal. Israel says it killed the Iranian Revolutionary Guard's navy chief.</summary>
+      <summary>President Trump said he'll hold off on striking Iran's power plants until April 6, postponing a deadline for Iran to let ships transit safely through the Strait of Hormuz.</summary>
       <pubDate>Thu, 26 Mar 2026 05:44:35 -0400</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Trump's attacks on offshore wind could hurt infrastructure spending across the economy</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5760979/trump-offshore-wind-climate-change-energy</link>
-      <summary>President Trump has tried to kill offshore wind's future in the U.S. But industry analysts say the attacks could hurt business confidence across the U.S. economy.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:19:00 -0400</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Decades ago, a Maryland sailor burned his winter socks. Now it's a spring tradition</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5760894/sock-burning-annapolis-oysters-sailing-chesapeake-bay</link>
-      <summary>In Annapolis, Md., people gather each year to usher in the warmer weather by burning their socks. The springtime tradition is the unofficial start of the Chesapeake Bay sailing season.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>90</priority>
     </item>
     <item>
       <title>Bill Maher is getting the Mark Twain Prize after all</title>
@@ -38,6 +24,20 @@
       <summary>There was confusion about whether the satirist would be getting the Kennedy Center's top humor award after White House press secretary Karoline Leavitt called it "fake news." Now it's confirmed.</summary>
       <pubDate>Thu, 26 Mar 2026 10:49:09 -0400</pubDate>
       <priority>85</priority>
+    </item>
+    <item>
+      <title>The Olympic committee bans trans athletes from women's events, raising many questions</title>
+      <link>https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing</link>
+      <summary>The International Olympic Committee will require all athletes who want to participate in women's events to undergo genetic testing. The policy takes effect for the 2028 Summer Games in Los Angeles.</summary>
+      <pubDate>Thu, 26 Mar 2026 16:56:43 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Not all airports use TSA agents for security. At places like SFO, that's helped lines</title>
+      <link>https://www.npr.org/2026/03/26/nx-s1-5759273/not-all-airports-use-tsa-agents-for-security-at-places-like-sfo-thats-helped-lines</link>
+      <summary>At 20 airports around the U.S., security screeners are getting paid as usual despite the ongoing DHS shutdown — because they're private contractors. Will more airports look at privatizing security?</summary>
+      <pubDate>Thu, 26 Mar 2026 16:45:23 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Trump has deployed ICE agents to the nation's airports. What's their role?</title>
@@ -68,11 +68,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>It's Equal Pay Day. Women have lost ground for the second year in a row</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5758090/equal-pay-day-gender-wage-gap</link>
-      <summary>The annual observance marks how far into the new year women must work to make what men earned in the previous year. This year, it's March 26, a day later than it was in 2025.</summary>
-      <pubDate>Thu, 26 Mar 2026 05:01:00 -0400</pubDate>
-      <priority>65</priority>
+      <title>Flea returns to his first love, jazz</title>
+      <link>https://www.npr.org/2026/03/26/nx-s1-5759281/jazz-night-flea-honora-album</link>
+      <summary>Flea's first musical love wasn't rock. It was jazz. The iconic bassist joins Christian McBride to talk about his debut solo album, Honora, and his return to the music that started it all.</summary>
+      <pubDate>Thu, 26 Mar 2026 14:56:43 -0400</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>

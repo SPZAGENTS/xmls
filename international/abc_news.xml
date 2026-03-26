@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-26T22:08:40.853824</generated>
+  <generated>2026-03-27T00:04:03.395066</generated>
   <items>
     <item>
-      <title>Trump envoy Witkoff reveals more details of US negotiations with Iran prior to war</title>
-      <link>https://abcnews.com/Politics/trump-envoy-witkoff-reveals-details-us-negotiations-iran/story?id=131436482</link>
-      <summary>President Donald Trump's envoy Steve Witkoff revealed new details Thursday about his negotiations with Iranian officials before the U.S. attacked Iran.</summary>
-      <pubDate>Thu, 26 Mar 2026 14:26:21 -0400</pubDate>
+      <title>Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks</title>
+      <link>https://abcnews.com/International/trump-extends-deadline-2nd-time-iran-open-strait/story?id=131431039</link>
+      <summary>With his ultimatum set to expire for Iran to open the Strait of Hormuz to international shipping traffic, President Donald Trump has yet to say it will be prolonged.</summary>
+      <pubDate>Thu, 26 Mar 2026 17:17:38 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/cabinet-15-gty-gmh-260326_1774538444624_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Politics/oil-tanker-rt-jt-260314_1773503739436_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Military helicopter crossed in front of United flight approaching airport: FAA</title>
+      <link>https://abcnews.com/US/military-helicopter-crossed-front-united-flight-approaching-airport/story?id=131445183</link>
+      <summary>The incident occurred around 8:40 p.m. local time Tuesday, according to the FAA.</summary>
+      <pubDate>Thu, 26 Mar 2026 18:00:57 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/john-wayne-airport-gty-jt-260326_1774552654869_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_gmafl_tsa_chaos_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>2 charged in connection with alleged explosive device at MacDill Air Force Base: FBI</title>
-      <link>https://abcnews.com/US/2-charged-connection-alleged-explosive-device-macdill-air/story?id=131439716</link>
-      <summary>An alleged improvised explosive device was found near the visitors center at MacDill Air Force Base in Florida last week.</summary>
-      <pubDate>Thu, 26 Mar 2026 16:05:30 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/FLORIDA-AIRBASE-2_1774487011216_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
