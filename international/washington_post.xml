@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-27T12:00:57.190067</generated>
+  <generated>2026-03-27T14:03:18.946332</generated>
   <items>
+    <item>
+      <title>U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/27/iran-war-tomahawk-missiles/</link>
+      <summary>More than 850 Tomahawks have been fired in just four weeks, people familiar with the matter said, alarming some Pentagon officials because the weapon’s supply is limited.</summary>
+      <pubDate>Fri, 27 Mar 2026 10:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Pentagon considers diverting Ukraine military aid to the Middle East</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/26/us-iran-war-ukraine-missile-defense/</link>
@@ -40,18 +47,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Iran’s missiles pierce Israel’s defenses, raising doubts about interceptors</title>
-      <link>https://www.washingtonpost.com/world/2026/03/25/iran-missiles-israel-air-defense/</link>
-      <summary>Concern that Iran was amassing missiles to overwhelm defenses was a key factor in the push for war, officials said, and recent strikes laid bare Israel’s vulnerability.</summary>
-      <pubDate>Wed, 25 Mar 2026 09:00:30 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump says U.S. to hold off for 10 days on hitting Iran energy sites</title>
       <link>https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/</link>
       <summary>Trump’s statement follows an Iranian report that it had rejected a 15-point U.S. ceasefire proposal, a move that still left the door open for a counteroffer.</summary>
       <pubDate>Thu, 26 Mar 2026 22:41:37 +0000</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Cuba looks to Vatican for help as U.S. pressure plunges island into crisis</title>
+      <link>https://www.washingtonpost.com/world/2026/03/27/cuba-vatican-mediator-us-leo-trump/</link>
+      <summary>Cuban officials have petitioned Pope Leo XIV to help persuade the Trump administration to ease its oil embargo, which is causing crippling fuel shortages and blackouts.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:01:39 +0000</pubDate>
+      <priority>85</priority>
     </item>
     <item>
       <title>Rare Middle East storm could bring floods, damaging winds and tornadoes</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/immigration/2026/03/26/immigrants-cities-census-population-growth/</link>
       <summary>New York, Los Angeles and Chicago are among the metro areas seeing steep declines in net immigration amid the Trump administration’s crackdown.</summary>
       <pubDate>Thu, 26 Mar 2026 16:38:40 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>China bars executives at Meta-owned AI company from leaving country</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/</link>
-      <summary>Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.</summary>
-      <pubDate>Wed, 25 Mar 2026 22:17:01 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

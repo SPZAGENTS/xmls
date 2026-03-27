@@ -2,16 +2,38 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-27T12:00:58.392885</generated>
+  <generated>2026-03-27T14:03:20.177801</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Claims Progress in Talks and Extends Strait of Hormuz Deadline</title>
       <link>https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel</link>
       <summary>President Trump has threatened to attack Iran’s power plants unless it fully reopens the Strait of Hormuz, a vital oil route, by April 6. Israel on Friday launched more strikes on Iran.</summary>
-      <pubDate>Fri, 27 Mar 2026 08:51:58 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 10:39:17 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27israel-iran-promo-bhmp/27israel-iran-promo-bhmp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27mideast-carousel-01-qbvt/27mideast-carousel-01-qbvt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks</title>
+      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html</link>
+      <summary>The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:36:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-gulf-crackdown-1-bfcv/27int-gulf-crackdown-1-bfcv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Europeans Are Angry at Trump, but Often Forgiving of Americans</title>
+      <link>https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html</link>
+      <summary>A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:03:47 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-europe-trump-sentiment-jlkz/27int-europe-trump-sentiment-jlkz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,24 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine</title>
-      <link>https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html</link>
-      <summary>The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress.</summary>
-      <pubDate>Thu, 26 Mar 2026 14:40:21 +0000</pubDate>
+      <title>Rubio Expected to Press Allies Over Strait of Hormuz at G7 Meeting</title>
+      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-rubio-g7-france.html</link>
+      <summary>The meeting in France is slated to discuss efforts to stop the war in the Middle East, end Iran’s nuclear and ballistic missile development, and reopen maritime trade routes.</summary>
+      <pubDate>Fri, 27 Mar 2026 10:04:45 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26int-russia-us-visit-01-klzb/26int-russia-us-visit-01-klzb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27israel-iran-g7-preview-cqtg/27israel-iran-g7-preview-cqtg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks</title>
-      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html</link>
-      <summary>The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.</summary>
-      <pubDate>Fri, 27 Mar 2026 08:55:31 +0000</pubDate>
+      <title>Resurgent Inflation Tests Faith in Fed’s Willingness to Tame It</title>
+      <link>https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html</link>
+      <summary>The war in the Middle East risks worsening an inflation problem that the Federal Reserve has struggled for years to subdue.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:03:25 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-gulf-crackdown-1-bfcv/27int-gulf-crackdown-1-bfcv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27dc-fed-mwtk/27dc-fed-mwtk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +78,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-front-by-front1-wbzj/26israel-iran-front-by-front1-wbzj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As Markets Revolt in the Face of War, Trump Extends Iran Deadline</title>
-      <link>https://www.nytimes.com/2026/03/26/world/middleeast/markets-revolt-trump-iran.html</link>
-      <summary>Just after stocks ended another bruising day, the president took to social media to promote progress in talks with Iran.</summary>
-      <pubDate>Fri, 27 Mar 2026 01:00:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-trump-markets1-wqcv/26israel-iran-trump-markets1-wqcv-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Under Carney, Canada Finally Hits NATO’s 2% Spending Target</title>
-      <link>https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html</link>
-      <summary>Trump and other American presidents have criticized Canada for failing to meet the alliance’s military spending minimum of 2 percent of gross domestic product.</summary>
-      <pubDate>Thu, 26 Mar 2026 18:07:50 +0000</pubDate>
-      <priority>90</priority>
+      <title>U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros</title>
+      <link>https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html</link>
+      <summary>The Trump administration is weighing declaring Brazil’s two largest drug gangs terrorist groups, after lobbying by the sons of jailed former President Jair Bolsonaro.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:01:31 +0000</pubDate>
+      <priority>85</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26canada-military-spending-tchz/26canada-military-spending-tchz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran</title>
-      <link>https://www.nytimes.com/2026/03/26/world/asia/india-pakistan-iran-trump-modi.html</link>
-      <summary>Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:44:20 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26INT-INDIA-IRAN-PAKISTAN-zjtv/26INT-INDIA-IRAN-PAKISTAN-zjtv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2020/03/30/world/00int-brazil-us-drugs/30Riopoliceviolence-03-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T12:01:04.250513</generated>
+  <generated>2026-03-27T14:03:26.697972</generated>
   <items>
+    <item>
+      <title>Why Pakistan has emerged as a mediator between US and Iran</title>
+      <link>https://abcnews.com/International/wireStory/pakistan-emerged-mediator-us-iran-131461915</link>
+      <summary>Pakistan has emerged as an unexpected mediator, offering to help bring Washington and Tehran to the negotiating table as fears of a wider regional conflict escalate following U.S. and Israeli strikes on Iran that began in late February</summary>
+      <pubDate>Fri, 27 Mar 2026 06:12:25 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_f4e809dd3f93b3d67b54f9d75d33d55c_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
       <link>https://abcnews.com/International/wireStory/iran-war-deflects-attention-ukraine-emboldened-russia-starts-131421742</link>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Somali children are 'on the edge' as hunger spreads</title>
-      <link>https://abcnews.com/International/wireStory/somali-children-edge-hunger-spreads-unicef-iran-war-131461715</link>
-      <summary>Mothers in a displacement camp in southern Somalia struggle to keep their children alive as drought and aid disruptions deepen hunger, a crisis that now also has a link to the far-away Iran war</summary>
-      <pubDate>Fri, 27 Mar 2026 03:03:32 -0400</pubDate>
+      <title>Scathing UN report calls on Syria to investigate abuses during clashes with Druze</title>
+      <link>https://abcnews.com/International/wireStory/scathing-report-calls-syria-investigate-abuses-deadly-clashes-131462773</link>
+      <summary>A U.N. inquiry says Syria shows no sign it has investigated alleged abuses by its forces during deadly sectarian clashes in Sweida province</summary>
+      <pubDate>Fri, 27 Mar 2026 06:30:40 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_6783d2d4b41318f88e3d21ae6fb95973_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_2ddf0548ee0d6c85eadf7b857b0b88b0_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>A vigil in Colombia, Messi in action and other top photos from Latin America and the Caribbean</title>
-      <link>https://abcnews.com/International/wireStory/vigil-colombia-messi-action-top-photos-latin-america-131460100</link>
-      <summary>March 20 - 26, 2026 Soldiers held a vigil in Bogot&amp;aacute;, Colombia, for the victims of a military cargo plane crash in Puerto Leguizamo in the country's south. Soccer star Lionel Messi took part in a training ahead of an Argentina friendly against Mauritania in Buenos Aires....</summary>
-      <pubDate>Fri, 27 Mar 2026 02:34:26 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0bfbb1a459bfc2e5fd88455f217c6f9d_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Lebanese fear another occupation as Israel threatens to use Gaza tactics in the south</title>
-      <link>https://abcnews.com/International/wireStory/lebanese-fear-occupation-israel-threatens-gaza-tactics-south-131425442</link>
-      <summary>Israel is trading fire with Hezbollah, calling for mass evacuations and sending ground troops deeper into Lebanon</summary>
-      <pubDate>Thu, 26 Mar 2026 06:30:09 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_416347699f12430c471f3f26b07821cf_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Two British men detained in a suspected antisemitic hate crime are released on bail</title>
       <link>https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228</link>
       <summary>British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime</summary>
@@ -78,17 +67,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_0ab1169b043ab72bbd7a32333eff2af6_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Naval drone strike damages Turkish-operated tanker in Black Sea, crew safe</title>
-      <link>https://abcnews.com/International/wireStory/naval-drone-strike-damages-turkish-operated-tanker-black-131425576</link>
-      <summary>Turkish officials say a naval drone struck a Turkish-operated oil tanker near the Bosporus, damaging the ship but not hurting anyone</summary>
-      <pubDate>Thu, 26 Mar 2026 06:30:01 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_af8c08450f922a669e9b22f146a1026f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Landslides triggered by heavy rainfall kill at least 20 people in Tanzania</title>
+      <link>https://abcnews.com/International/wireStory/landslides-triggered-heavy-rainfall-kill-20-people-tanzania-131463199</link>
+      <summary>Heavy rains and strong winds have triggered deadly landslides and floods across East Africa, with southern Tanzania reporting at least 20 deaths</summary>
+      <pubDate>Fri, 27 Mar 2026 06:29:01 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Snow and stormy winds close schools and roads, and cut power in some Balkan countries</title>
+      <link>https://abcnews.com/International/wireStory/snow-stormy-winds-close-schools-roads-cut-power-131463481</link>
+      <summary>Stormy winds, rain and snow have closed schools and left thousands of people without electricity in some Balkan countries while snarling traffic throughout the region and pulling out trees and ripping off rooftops</summary>
+      <pubDate>Fri, 27 Mar 2026 06:37:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_c4dd4a536298ab174e5cb26d9446e2e5_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

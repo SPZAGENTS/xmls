@@ -2,8 +2,22 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-27T12:00:57.739926</generated>
+  <generated>2026-03-27T14:03:19.514407</generated>
   <items>
+    <item>
+      <title>U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/27/iran-war-tomahawk-missiles/</link>
+      <summary>More than 850 Tomahawks have been fired in just four weeks, people familiar with the matter said, alarming some Pentagon officials because the weapon’s supply is limited.</summary>
+      <pubDate>Fri, 27 Mar 2026 10:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>As Trump feels pressure to end war, allies fear what Iran may do next</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/27/trump-iran-negotiations-dilemma/</link>
+      <summary>Iran has demonstrated it can inflict significant damage on the world’s economy, even while outgunned. That creates a dilemma for President Trump.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:00:46 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>As Trump skips CPAC, MAGA’s rifts over Iran war are on display</title>
       <link>https://www.washingtonpost.com/politics/2026/03/26/trump-iran-war-cpac/</link>
@@ -19,10 +33,10 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Trump orders TSA officers be paid as Congress remains stalemated</title>
+      <title>Senate passes bill to reopen much of DHS after Trump moves to pay TSA officers</title>
       <link>https://www.washingtonpost.com/politics/2026/03/26/trump-tsa-unilateral-payment/</link>
-      <summary>The president is claiming emergency powers to act, sidestepping Congress.</summary>
-      <pubDate>Fri, 27 Mar 2026 00:21:19 +0000</pubDate>
+      <summary>The House still needs to pass the legislation before President Donald Trump can sign it into law.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:23:17 +0000</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -58,20 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/26/house-ethics-expulsion/</link>
       <summary>The family health care company Rep. Sheila Cherfilus-McCormick worked for was sent FEMA money it shouldn’t have received. She’s accused of using the money on a run for office.</summary>
       <pubDate>Thu, 26 Mar 2026 09:00:17 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>DOJ agrees to pay ex-Trump adviser Michael Flynn to settle malicious prosecution suit</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/25/michael-flynn-doj-settlement-lawsuit/</link>
-      <summary>The amount of the settlement was not disclosed in court papers.</summary>
-      <pubDate>Wed, 25 Mar 2026 23:01:00 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>What a GOP loss in Trump’s Mar-a-Lago district says about the midterms</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/25/democrats-midterms-special-election-wins/</link>
-      <summary>Including off-year elections last year, Democrats have flipped 30 Republican seats since the start of 2025.</summary>
-      <pubDate>Wed, 25 Mar 2026 19:37:00 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

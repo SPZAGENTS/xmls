@@ -2,13 +2,24 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T12:01:03.399544</generated>
+  <generated>2026-03-27T14:03:25.627055</generated>
   <items>
+    <item>
+      <title>Iran live updates: Why Trump says he extended Iran deadline</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Fri, 27 Mar 2026 06:29:17 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/cabinet-2-gty-gmh-260326_1774536415151_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile</title>
       <link>https://abcnews.com/video/131451822/</link>
       <summary>Dramatic video shows the moment a missile came dangerously close to shooting down a F-18 fighter jet over Iran. It comes as Israel announced it killed Iran's navy chief.</summary>
-      <pubDate>Thu, 26 Mar 2026 20:11:54 -0400</pubDate>
+      <pubDate>Fri, 27 Mar 2026 06:51:49 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260326_wn_rivers_hpMain_4x3_384.jpg</image>
@@ -49,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Senate passes bill to fund all parts of DHS except for ICE and parts of CBP</title>
+      <link>https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819</link>
+      <summary>Senators at last agreed via voice vote early Friday morning to approve a funding package that funds the Department of Homeland Security besides ICE and part of CBP.</summary>
+      <pubDate>Fri, 27 Mar 2026 06:09:40 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/dhs-shutdown-vote_1774603980490_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Melania Trump showcases robot guest at WH summit</title>
       <link>https://abcnews.com/video/131406952/</link>
       <summary>A walking, talking humanoid robot strolled side-by-side with first lady Melania Trump at the White House for the second day of her international technology summit.</summary>
@@ -78,28 +100,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_gmafl_tsa_chaos_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump says he'll sign order directing DHS to pay TSA workers as shutdown drags on</title>
-      <link>https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186</link>
-      <summary>Trump he'll sign an executive order instructing DHS Secretary Markwayne Mullin to pay TSA workers immediately, calling the ongoing DHS shutdown an "Emergency Situation."</summary>
-      <pubDate>Fri, 27 Mar 2026 00:59:38 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Gilgo Beach suspect Rex Heuermann could change his plea to guilty: Sources</title>
-      <link>https://abcnews.com/US/gilgo-beach-suspect-rex-heuermann-change-plea-guilty/story?id=131453459</link>
-      <summary>The Suffolk County district attorney's office, which charged Heuermann in the deaths of seven women, declined to comment.</summary>
-      <pubDate>Thu, 26 Mar 2026 23:14:53 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/Rex-heuermann-2-ap-gmh-260317_1773751520976_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

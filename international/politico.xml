@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-27T12:00:56.359346</generated>
+  <generated>2026-03-27T14:03:18.552399</generated>
   <items>
     <item>
       <title>AIPAC attacks fall flat as Democrat Daniel Biss wins Illinois House primary</title>
@@ -34,6 +34,17 @@
       <priority>85</priority>
       <media>
         <image>https://static.politico.com/ea/65/8ca44eec4c59bdd415cde1d1eb76/gettyimages-2263791812.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump plays Texas hold ’em with Senate endorsement</title>
+      <link>https://www.politico.com/news/2026/03/27/trump-texas-senate-endorsement-00847967</link>
+      <summary>The president has not endorsed in the Texas Senate GOP runoff. MAGA sees it as a signal.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:30:08 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/1d/c0/24552cc1489190b1eeb4333be382/election-2020-trump-02826.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,21 +104,10 @@
       </media>
     </item>
     <item>
-      <title>AIPAC makes a $22M gamble in Illinois</title>
-      <link>https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743</link>
-      <summary>The group has taken a sharp tactical shift in several House races as it weathers Democrats’ souring views of Israel — and of AIPAC itself.</summary>
-      <pubDate>Tue, 17 Mar 2026 03:45:00 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/a1/81/646f074b4840a232adc85db64e46/ap26057049025244.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Andy Beshear’s 2028 playbook: How a Democrat wins in Trump Country</title>
-      <link>https://www.politico.com/video/2026/03/26/andy-beshears-2028-playbook-how-a-democrat-wins-in-trump-country-1982069</link>
-      <summary />
-      <pubDate>Thu, 26 Mar 2026 22:59:00 EST</pubDate>
+      <title>The nation’s cartoonists on the week in politics</title>
+      <link>https://www.politico.com/gallery/2026/03/27/the-nations-cartoonists-on-the-week-in-politics-00846570</link>
+      <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>

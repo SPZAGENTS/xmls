@@ -2,8 +2,29 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-27T12:01:06.357373</generated>
+  <generated>2026-03-27T14:03:28.774504</generated>
   <items>
+    <item>
+      <title>Rubio heads to Europe to try garner support for Iran war</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7</link>
+      <summary>Representatives of the world's wealthiest democracies gather in France today for a G7 meeting, where U.S. Secretary of State Marco Rubio is expected to try to shore up support among reticent allies for the Trump administration's war on Iran.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:49:02 -0400</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?</title>
+      <link>https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz</link>
+      <summary>How well do you know your "Lord of the Rings"? What about AI, Washington landmarks and TSA wait times? Find out!</summary>
+      <pubDate>Fri, 27 Mar 2026 05:01:00 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Robyn on her trolling, playful new album 'Sexistential'</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5645112/robyn-interview-new-album-sexistential</link>
+      <summary>As the trailblazing Swedish star returns with her first album since 2018, she talks through going on IVF and solo parenting, expressing sexuality, and the negotiation of being a self-aware pop star.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>75</priority>
+    </item>
     <item>
       <title>Senate votes to fund much of DHS, minus immigration enforcement</title>
       <link>https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal</link>
@@ -19,11 +40,18 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Trump says he'll sign order to pay TSA agents as Congress struggles to reach funding deal</title>
-      <link>https://www.npr.org/2026/03/26/g-s1-115401/trump-executive-order-tsa-agents-congress-shutdown-funding</link>
-      <summary>It's an extraordinary move that came as senators were reviewing a "last and final" offer to end the funding impasse that has jammed airports and disrupted travel, just as TSA workers faced another missed paycheck Friday.</summary>
-      <pubDate>Thu, 26 Mar 2026 20:17:32 -0400</pubDate>
-      <priority>75</priority>
+      <title>Scientists watch sperm whales work as a team to assist a birth</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5762978/sperm-whale-birth-cooperation-coordination-marine-mammals-science</link>
+      <summary>An unprecedented look at the birth of a sperm whale found that mother and calf were supported by other whales throughout the process.</summary>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>These trees brought a fishery back from the brink. They can help you too</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia</link>
+      <summary>A community fishery in Cambodia was struggling. There weren't enough fish to make ends meet, until local fishermen started planting a specific type of tree.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Judge weighs whether Venezuela can pay Maduro's legal costs in US drug trafficking case</title>
@@ -33,45 +61,17 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Judge temporarily blocks Trump administration's Anthropic ban</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban</link>
-      <summary>The order briefly stops the government from labeling tech company Anthropic a "supply chain risk," calling that "classic First Amendment retaliation."</summary>
-      <pubDate>Thu, 26 Mar 2026 20:17:34 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>The Olympic committee bans trans athletes from women's events, raising many questions</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing</link>
-      <summary>The International Olympic Committee will require all athletes who want to participate in women's events to undergo genetic testing. The policy takes effect for the 2028 Summer Games in Los Angeles.</summary>
-      <pubDate>Thu, 26 Mar 2026 16:56:43 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>As TSA agents miss another paycheck, what's happening at airports with private security?</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5759273/not-all-airports-use-tsa-agents-for-security-at-places-like-sfo-thats-helped-lines</link>
-      <summary>At 20 airports around the U.S., security screeners are getting paid as usual despite the ongoing DHS shutdown — because they're private contractors. Will more airports look at privatizing security?</summary>
-      <pubDate>Thu, 26 Mar 2026 16:45:23 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump has deployed ICE agents to the nation's airports. What's their role?</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa</link>
-      <summary>The president says ICE agents are being stationed at airports to help reduce long wait times. Here's a look at what they're authorized to do.</summary>
-      <pubDate>Thu, 26 Mar 2026 15:28:16 -0400</pubDate>
-      <priority>65</priority>
+      <title>Do you lean optimistic or pessimistic? Take this quiz and find out</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5713624/optimism-quiz-worry-pessimism</link>
+      <summary>A glass-half-full outlook can keep you engaged and hopeful in hard times. Take this quiz to find out your level of optimism, then learn how to train yourself to become more optimistic.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>The depleted Education Department will move out of its headquarters</title>
       <link>https://www.npr.org/2026/03/26/nx-s1-5762974/education-department-building</link>
       <summary>In August, Education Department employees will relocate to a smaller office roughly a block away, and the larger Energy Department will take over the old headquarters.</summary>
       <pubDate>Thu, 26 Mar 2026 21:51:54 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Flea returns to his first love, jazz</title>
-      <link>https://www.npr.org/2026/03/26/nx-s1-5759281/jazz-night-flea-honora-album</link>
-      <summary>Flea's first musical love wasn't rock. It was jazz. The iconic bassist joins Christian McBride to talk about his debut solo album, Honora, and his return to the music that started it all.</summary>
-      <pubDate>Thu, 26 Mar 2026 14:56:43 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
