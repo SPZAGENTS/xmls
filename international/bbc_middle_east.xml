@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-03-27T14:03:16.766868</generated>
+  <generated>2026-03-27T16:00:51.923629</generated>
   <items>
     <item>
       <title>How the Hormuz closure could affect food, medicines and smartphones</title>
@@ -11,7 +11,18 @@
       <pubDate>Fri, 27 Mar 2026 01:25:17 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662d/live/36b792b0-290d-11f1-8742-11d9a3760e0c.png</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4e4/live/f1d7ca60-29d5-11f1-934f-036468834728.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Palestinian man killed as death toll from West Bank settler violence climbs</title>
+      <link>https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.</summary>
+      <pubDate>Fri, 27 Mar 2026 12:30:10 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/37c70070-29c9-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump at a crossroads as US weighs tough options in Iran</title>
-      <link>https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Statements from President Trump that the war is almost over are not matching up with the reality on the ground.</summary>
-      <pubDate>Sun, 22 Mar 2026 00:50:43 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

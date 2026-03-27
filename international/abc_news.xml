@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T14:03:25.627055</generated>
+  <generated>2026-03-27T16:01:01.393111</generated>
   <items>
     <item>
       <title>Iran live updates: Why Trump says he extended Iran deadline</title>
@@ -63,10 +63,21 @@
       <title>Senate passes bill to fund all parts of DHS except for ICE and parts of CBP</title>
       <link>https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819</link>
       <summary>Senators at last agreed via voice vote early Friday morning to approve a funding package that funds the Department of Homeland Security besides ICE and part of CBP.</summary>
-      <pubDate>Fri, 27 Mar 2026 06:09:40 -0400</pubDate>
+      <pubDate>Fri, 27 Mar 2026 08:00:08 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/dhs-shutdown-vote_1774603980490_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: David Muir shares the memorable moments from MLB Opening Day</title>
+      <link>https://abcnews.com/video/131451792/</link>
+      <summary>ABC producer Myra Green escorted her 109-year-old father, who is also a WWII and Korean War veteran, to throw out the first pitch for his favorite team, the Baltimore Orioles.</summary>
+      <pubDate>Fri, 27 Mar 2026 06:52:24 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260326_wn_ender_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_gmafl_tsa_chaos_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Gender pay gap widens for 2nd year in a row</title>
-      <link>https://abcnews.com/video/131447606/</link>
-      <summary>Data from the U.S. Census Bureau shows that women working full-time, year-round jobs still earn less than men.</summary>
-      <pubDate>Thu, 26 Mar 2026 21:41:44 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260326_abcnl_6p_equal_pay_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

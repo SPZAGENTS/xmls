@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T14:03:26.697972</generated>
+  <generated>2026-03-27T16:01:02.551440</generated>
   <items>
     <item>
       <title>Why Pakistan has emerged as a mediator between US and Iran</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Scathing UN report calls on Syria to investigate abuses during clashes with Druze</title>
-      <link>https://abcnews.com/International/wireStory/scathing-report-calls-syria-investigate-abuses-deadly-clashes-131462773</link>
-      <summary>A U.N. inquiry says Syria shows no sign it has investigated alleged abuses by its forces during deadly sectarian clashes in Sweida province</summary>
-      <pubDate>Fri, 27 Mar 2026 06:30:40 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_2ddf0548ee0d6c85eadf7b857b0b88b0_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
       <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
       <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
@@ -56,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gulf of Mexico oil spill spread hundreds of miles, killed wildlife and polluted Mexican reserves</title>
+      <link>https://abcnews.com/International/wireStory/gulf-mexico-oil-spill-spread-hundreds-miles-killed-131454235</link>
+      <summary>Mexican authorities say a March oil spill in the Gulf of Mexico spread more than 600 kilometers and reached protected areas</summary>
+      <pubDate>Fri, 27 Mar 2026 07:30:59 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_17d98fc79f37987932ebddde9909a630_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
