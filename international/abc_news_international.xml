@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T08:02:57.618334</generated>
+  <generated>2026-03-27T10:01:01.305610</generated>
   <items>
     <item>
       <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
@@ -34,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A vigil in Colombia, Messi in action and other top photos from Latin America and the Caribbean</title>
+      <link>https://abcnews.com/International/wireStory/vigil-colombia-messi-action-top-photos-latin-america-131460100</link>
+      <summary>March 20 - 26, 2026 Soldiers held a vigil in Bogot&amp;aacute;, Colombia, for the victims of a military cargo plane crash in Puerto Leguizamo in the country's south. Soccer star Lionel Messi took part in a training ahead of an Argentina friendly against Mauritania in Buenos Aires....</summary>
+      <pubDate>Fri, 27 Mar 2026 02:34:26 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0bfbb1a459bfc2e5fd88455f217c6f9d_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Nepal's new prime minister chooses auspicious time to take oath of office</title>
+      <link>https://abcnews.com/International/wireStory/nepals-new-prime-minister-chooses-auspicious-time-oath-131461117</link>
+      <summary>Nepal&amp;rsquo;s youngest prime minister will take the oath of office in a ceremony shaped as much by astrology as politics</summary>
+      <pubDate>Fri, 27 Mar 2026 02:33:04 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_19047838815c73ad4ac21d46c04fc24b_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Italy seizes millions in assets allegedly stolen from Bond co-star Ursula Andress</title>
       <link>https://abcnews.com/International/wireStory/italy-seizes-millions-assets-allegedly-stolen-bond-star-131429780</link>
       <summary>Italian police say they have seized about 20 million euros in property and assets linked to money stolen from Swiss actress and original Bond girl Ursula Andress</summary>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_b1e63fe693e585b14b3a09355267c596_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Spanish woman, 25, dies by legal euthanasia in case that drew national spotlight</title>
-      <link>https://abcnews.com/International/wireStory/spanish-woman-25-dies-legal-euthanasia-case-drew-131445778</link>
-      <summary>A young Spanish woman died in Barcelona after winning a long court fight for her euthanasia right</summary>
-      <pubDate>Thu, 26 Mar 2026 15:46:13 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_03852078fc0c5ec75559c7d3fd3f0643_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cuban president says Raúl Castro involved in US talks that are in early stages</title>
-      <link>https://abcnews.com/International/wireStory/cuban-president-ral-castro-involved-us-talks-early-131417803</link>
-      <summary>Cuban President Miguel D&amp;iacute;az-Canel says that former President Ra&amp;uacute;l Castro is involved in talks between Cuba and the United States and that they&amp;rsquo;re still in the early stages</summary>
-      <pubDate>Wed, 25 Mar 2026 20:39:58 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_76a73d9205b3bea9df4aa962869edf55_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

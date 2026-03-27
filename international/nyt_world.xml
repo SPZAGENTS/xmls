@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-27T08:02:51.611452</generated>
+  <generated>2026-03-27T10:00:55.037682</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid</title>
+      <title>Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid</title>
       <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
       <summary>President Trump moved the deadline to reopen the major transit route for oil tankers from Friday to April 6. Stocks fell sharply and oil prices rose.</summary>
-      <pubDate>Fri, 27 Mar 2026 04:02:14 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 06:15:17 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo5p-qcvk/26israel-iran-promo5p-qcvk-mediumSquareAt3X.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>As Markets Revolt in the Face of War, Trump Extends Iran Deadline</title>
-      <link>https://www.nytimes.com/2026/03/26/world/middleeast/markets-revolt-trump-iran.html</link>
-      <summary>Just after stocks ended another bruising day, the president took to social media to promote progress in talks with Iran.</summary>
-      <pubDate>Fri, 27 Mar 2026 01:00:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-trump-markets1-wqcv/26israel-iran-trump-markets1-wqcv-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Under Carney, Canada Finally Hits NATO’s 2% Spending Target</title>
       <link>https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html</link>
       <summary>Trump and other American presidents have criticized Canada for failing to meet the alliance’s military spending minimum of 2 percent of gross domestic product.</summary>
@@ -100,6 +89,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Faroe Islands, Wary After Greenland, Vote for Change</title>
+      <link>https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html</link>
+      <summary>Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:06:45 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-faroe-elections-wjzc/27int-faroe-elections-wjzc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

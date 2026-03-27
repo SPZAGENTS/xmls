@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T08:02:56.552957</generated>
+  <generated>2026-03-27T10:01:00.328285</generated>
   <items>
     <item>
       <title>WATCH: Trump extends deadline second time for Iran to open the Strait of Hormuz</title>
       <link>https://abcnews.com/video/131459778/</link>
       <summary>For the second time this week, President Trump extended an ultimatum for Iran to completely open the Strait of Hormuz to international shipping traffic, saying peace talks "are going very well."</summary>
-      <pubDate>Fri, 27 Mar 2026 00:26:39 -0400</pubDate>
+      <pubDate>Fri, 27 Mar 2026 01:14:29 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_abc_social_trump_deadline_hpMain_4x3_384.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: 109-year-old Orioles fan throws first pitch on Opening Day</title>
+      <link>https://abcnews.com/video/131461131/</link>
+      <summary>109-year-old Arthur Green, a World War II and Korean War veteran, threw out the ceremonial first pitch for the Baltimore Orioles on Opening Day.</summary>
+      <pubDate>Fri, 27 Mar 2026 01:17:24 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Sports/260326_abc_soc_baseball_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Airport crisis worsens as talks hit snag</title>
       <link>https://abcnews.com/video/131424916/</link>
       <summary>More than 40 days into the partial government shutdown, wait times at airport security checkpoints nationwide have reached historic levels.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260326_abcnl_6p_equal_pay_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Food, fun and history on MLB Opening Day</title>
-      <link>https://abcnews.com/video/131425016/</link>
-      <summary>ABC News' Danny New takes a look at the magic of baseball's Opening Day and all the traditions that make the game America's pastime.</summary>
-      <pubDate>Thu, 26 Mar 2026 07:22:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260326_gmafl_opening_day_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
