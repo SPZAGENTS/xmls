@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T03:03:20.056900</generated>
+  <generated>2026-03-27T04:01:01.914103</generated>
   <items>
     <item>
       <title>Military helicopter crossed in front of United flight approaching airport: FAA</title>
@@ -52,7 +52,7 @@
       <title>Judge temporairly blocks Pentagon's 'supply chain risk' designation for Anthropic</title>
       <link>https://abcnews.com/Technology/judge-temporarily-blocks-pentagons-supply-chain-risk-designation/story?id=131453267</link>
       <summary>A federal judge has temporarily blocked the Trump administration from designating AI company Anthropic a "supply-chain risk to national security."</summary>
-      <pubDate>Thu, 26 Mar 2026 19:49:25 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2026 20:27:25 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/anthropic-gty-jef-260227_1772201238352_hpMain_4x3t_384.jpg</image>
@@ -85,10 +85,21 @@
       <title>Trump says he'll sign order directing DHS to pay TSA workers as shutdown drags on</title>
       <link>https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186</link>
       <summary>Trump he'll sign an executive order instructing DHS Secretary Markwayne Mullin to pay TSA workers immediately, calling the ongoing DHS shutdown an "Emergency Situation."</summary>
-      <pubDate>Thu, 26 Mar 2026 19:05:01 -0400</pubDate>
+      <pubDate>Thu, 26 Mar 2026 20:10:52 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Gender pay gap widens for 2nd year in a row</title>
+      <link>https://abcnews.com/video/131447606/</link>
+      <summary>Data from the U.S. Census Bureau shows that women working full-time, year-round jobs still earn less than men.</summary>
+      <pubDate>Thu, 26 Mar 2026 19:09:26 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260326_abcnl_6p_equal_pay_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260326_gmafl_opening_day_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: This is when domesticated dogs arrived in the West</title>
-      <link>https://abcnews.com/video/131426641/</link>
-      <summary>Scientists are now getting a better understanding of when domesticated dogs arrived in the West, a paper published Wednesday in Nature found.</summary>
-      <pubDate>Thu, 26 Mar 2026 07:43:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Technology/260326_wnn_humans_dogs_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

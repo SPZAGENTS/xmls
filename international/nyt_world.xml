@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-27T03:03:15.030041</generated>
+  <generated>2026-03-27T04:00:57.267372</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid</title>
       <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
       <summary>President Trump moved the deadline to reopen the major transit route for oil tankers from Friday to April 6. Stocks fell sharply and oil prices rose.</summary>
-      <pubDate>Thu, 26 Mar 2026 23:26:48 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 00:22:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo5p-qcvk/26israel-iran-promo5p-qcvk-mediumSquareAt3X.jpg</image>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy</title>
-      <link>https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html</link>
-      <summary>A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach.</summary>
-      <pubDate>Thu, 26 Mar 2026 20:44:41 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26dc-diplo-iran-01-pfhm/26dc-diplo-iran-01-pfhm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Under Carney, Canada Finally Hits NATO’s 2% Spending Target</title>
       <link>https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html</link>
       <summary>Trump and other American presidents have criticized Canada for failing to meet the alliance’s military spending minimum of 2 percent of gross domestic product.</summary>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26INT-INDIA-IRAN-PAKISTAN-zjtv/26INT-INDIA-IRAN-PAKISTAN-zjtv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In Rural Ukraine, Basic Health Care Is a Casualty of War</title>
+      <link>https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html</link>
+      <summary>Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.</summary>
+      <pubDate>Thu, 26 Mar 2026 09:01:16 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
