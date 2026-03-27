@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T20:05:24.941501</generated>
+  <generated>2026-03-27T22:03:51.719353</generated>
   <items>
     <item>
       <title>Why Pakistan has emerged as a mediator between US and Iran</title>
@@ -34,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>School stabbing in Chile leaves 1 dead and 4 injured</title>
+      <link>https://abcnews.com/International/wireStory/school-stabbing-chile-leaves-1-dead-4-injured-131476134</link>
+      <summary>Police say a stabbing attack at a school in northern Chile left a member of staff dead and four other people injured</summary>
+      <pubDate>Fri, 27 Mar 2026 13:44:27 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,17 +100,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_af8c08450f922a669e9b22f146a1026f_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Landslides triggered by heavy rainfall kill at least 20 people in Tanzania</title>
-      <link>https://abcnews.com/International/wireStory/landslides-triggered-heavy-rainfall-kill-20-people-tanzania-131463199</link>
-      <summary>Heavy rains and strong winds have triggered deadly landslides and floods across East Africa, with southern Tanzania reporting at least 20 deaths</summary>
-      <pubDate>Fri, 27 Mar 2026 06:29:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

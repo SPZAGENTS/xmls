@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-27T20:05:26.701606</generated>
+  <generated>2026-03-27T22:03:53.719388</generated>
   <items>
     <item>
       <title>Marco Rubio heads to Europe to try to garner support for the Iran war</title>
@@ -16,13 +16,6 @@
       <link>https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty</link>
       <summary>It's like the "Schrödinger's cat" thought experiment. There are two very different potential realities, and traders don't yet know which one is true.</summary>
       <pubDate>Fri, 27 Mar 2026 12:16:50 -0400</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?</title>
-      <link>https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz</link>
-      <summary>How well do you know your "Lord of the Rings"? What about AI, Washington landmarks and TSA wait times? Find out!</summary>
-      <pubDate>Fri, 27 Mar 2026 05:01:00 -0400</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -54,11 +47,18 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>These trees brought a fishery back from the brink. They can help you too</title>
-      <link>https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia</link>
-      <summary>A community fishery in Cambodia was struggling. There weren't enough fish to make ends meet, until local fishermen started planting a specific type of tree.</summary>
-      <pubDate>Fri, 27 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
+      <title>Research points to how companies could make social media less addictive for teens</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design</link>
+      <summary>Juries in two big cases have affirmed what research is finding: The design of social media platforms is particularly compelling and hard to resist for kids. There are growing calls to change it.</summary>
+      <pubDate>Fri, 27 Mar 2026 13:50:47 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>'The Madison' adds to Taylor Sheridan's 'Yellowstone' legacy — 'Marshals' not so much</title>
+      <link>https://www.npr.org/2026/03/27/nx-s1-5762269/the-madison-marshals-review-taylor-sheridan-yellowstone</link>
+      <summary>Yellowstone's creator is back with two new shows set in the American West. Marshals struggles, but The Madison offers a thoughtful portrait of a family in flux.</summary>
+      <pubDate>Fri, 27 Mar 2026 12:50:43 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Her dad's dementia inspired her to create a guide for family caregivers</title>

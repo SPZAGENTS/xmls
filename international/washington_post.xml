@@ -2,13 +2,13 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-27T20:05:17.537970</generated>
+  <generated>2026-03-27T22:03:43.923992</generated>
   <items>
     <item>
       <title>Nearly 1,500 Iranian civilians killed in U.S., Israeli strikes, report says</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/27/iran-war-civilian-deaths/</link>
       <summary>The findings appear to be the most comprehensive estimates yet of the growing toll of dead and wounded civilians in the month-long war.</summary>
-      <pubDate>Fri, 27 Mar 2026 13:42:59 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2026 17:54:58 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Russia hits Ukrainian cities, intensifying bombing as U.S. focuses on Iran</title>
-      <link>https://www.washingtonpost.com/world/2026/03/25/ukraine-russia-drone-attack/</link>
-      <summary>Ukraine said eight people were killed as Russia launched a bombardment that included its largest single-day drone assault of the war.</summary>
-      <pubDate>Wed, 25 Mar 2026 17:34:22 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump says U.S. to hold off for 10 days on hitting Iran energy sites</title>
       <link>https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/</link>
       <summary>Trump’s statement follows an Iranian report that it had rejected a 15-point U.S. ceasefire proposal, a move that still left the door open for a counteroffer.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/immigration/2026/03/26/immigrants-cities-census-population-growth/</link>
       <summary>New York, Los Angeles and Chicago are among the metro areas seeing steep declines in net immigration amid the Trump administration’s crackdown.</summary>
       <pubDate>Thu, 26 Mar 2026 16:38:40 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>China bars executives at Meta-owned AI company from leaving country</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/</link>
+      <summary>Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.</summary>
+      <pubDate>Wed, 25 Mar 2026 22:17:01 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

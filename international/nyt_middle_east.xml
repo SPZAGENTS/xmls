@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-27T20:05:19.348742</generated>
+  <generated>2026-03-27T22:03:45.809811</generated>
   <items>
+    <item>
+      <title>Iran Tried to Use a Famed Director’s Home to Push Its War Narrative. His Son Fired Back.</title>
+      <link>https://www.nytimes.com/2026/03/27/world/middleeast/abbas-kiarostami-home-damaged.html</link>
+      <summary>The Tehran home of the acclaimed Iranian director Abbas Kiarostami was damaged in strikes this week. His son Ahmad pushed back on efforts by the government to seize on his legacy.</summary>
+      <pubDate>Fri, 27 Mar 2026 18:40:30 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/world/27israel-iran-kiarostami-0001/27israel-iran-kiarostami-0001-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Global Food Supply Faces a Dangerous Bottleneck as Iran War Persists</title>
+      <link>https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html</link>
+      <summary>Fertilizer prices are climbing as a result of disruptions in the Middle East, putting global food supplies at risk.</summary>
+      <pubDate>Fri, 27 Mar 2026 18:31:59 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27dc-iran-trade-01-kwzl/27dc-iran-trade-01-kwzl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Rubio Is Expected to Press G7 Allies Over Strait of Hormuz During Meeting</title>
       <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-rubio-g7-france.html</link>
@@ -91,24 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26dc-diplo-iran-01-pfhm/26dc-diplo-iran-01-pfhm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Trump Extends Iran Deadline on Strait of Hormuz as Stocks Tumble</title>
-      <link>https://www.nytimes.com/2026/03/26/world/middleeast/trump-iran-naval-commander.html</link>
-      <summary>President Trump pivoted after escalating threats. Israel also announced it had killed an Iranian commander leading efforts to block the Strait of Hormuz to almost all shipping traffic.</summary>
-      <pubDate>Fri, 27 Mar 2026 06:41:11 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26int-iran-leadall-twcm/26int-iran-leadall-twcm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mortgage Rates Jump Again as Iran War Effects Ripple Through Housing Market</title>
-      <link>https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html</link>
-      <summary>The average rate on a 30-year mortgage in the United States hit 6.38 percent, the fourth increase since the war began.</summary>
-      <pubDate>Thu, 26 Mar 2026 16:35:32 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
