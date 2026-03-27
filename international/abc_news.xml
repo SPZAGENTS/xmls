@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T22:03:50.374628</generated>
+  <generated>2026-03-28T00:00:59.905207</generated>
   <items>
     <item>
       <title>WATCH: Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260326_wn_rivers_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: US fighter jet in close call with Iranian missile</title>
+      <link>https://abcnews.com/video/131478102/</link>
+      <summary>New video shows a U.S. fighter jet narrowly evading an Iranian missile. The close call comes as the Pentagon weighs sending 10,000 more troops to the Middle East.</summary>
+      <pubDate>Fri, 27 Mar 2026 14:43:16 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260327_abc_social_iran_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Urgent search for missing flight attendant</title>
+      <link>https://abcnews.com/video/131477749/</link>
+      <summary>The search is underway for an American Airlines flight attendant who has been reported missing in Colombia, according to officials.</summary>
+      <pubDate>Fri, 27 Mar 2026 14:31:17 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260327_abc_social_missing_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Senate passes bill to fund all parts of DHS except for ICE and parts of CBP</title>
+      <title>House Republicans reject Senate DHS funding bill, Trump signs memo to pay TSA workers</title>
       <link>https://abcnews.com/Politics/senate-passes-bill-fund-dhs-except-ice-parts/story?id=131461819</link>
-      <summary>Senators at last agreed via voice vote early Friday morning to approve a funding package that funds the Department of Homeland Security besides ICE and part of CBP.</summary>
-      <pubDate>Fri, 27 Mar 2026 10:14:40 -0400</pubDate>
+      <summary>House Speaker Mike Johnson flatly rejected the Senate's bill to fund all parts of the Department of Homeland Security except for ICE.</summary>
+      <pubDate>Fri, 27 Mar 2026 16:35:09 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/dhs-shutdown-vote_1774603980490_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian hackers allegedly breached FBI Director Patel’s personal emails</title>
-      <link>https://abcnews.com/US/hackers-breached-fbi-director-kash-patels-emails-prior/story?id=131474304</link>
-      <summary>Hackers breached FBI Director Kash Patel’s personal email, according to sources familiar with the situation.</summary>
-      <pubDate>Fri, 27 Mar 2026 14:38:47 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/patel-3-rt-gmh-260318_1773847136714_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/mike-johnson-1-rt-gmh-260327_1774637773783_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Staying active in midlife may cut risk of early death in half</title>
-      <link>https://abcnews.com/video/131472809/</link>
-      <summary>Dr. Tara Narula explains a study of more than 11,000 women that found those who met recommended activity levels had about half the risk of death compared to those who remained inactive.</summary>
-      <pubDate>Fri, 27 Mar 2026 14:31:43 -0400</pubDate>
+      <title>Tiger Woods involved in rollover crash in Florida: Sheriff</title>
+      <link>https://abcnews.com/US/tiger-woods-involved-rollover-crash-florida-sheriff/story?id=131479825</link>
+      <summary>Tiger Woods was involved in a rollover crash in Jupiter Island, Florida, on Friday afternoon, the Martin County Sheriff’s Office said.</summary>
+      <pubDate>Fri, 27 Mar 2026 16:03:23 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260327_gma3_narula1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Gender pay gap widens for 2nd year in a row</title>
-      <link>https://abcnews.com/video/131447606/</link>
-      <summary>Data from the U.S. Census Bureau shows that women working full-time, year-round jobs still earn less than men.</summary>
-      <pubDate>Thu, 26 Mar 2026 21:41:44 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260326_abcnl_6p_equal_pay_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/tiger-woods-1-gty-gmh-260327_1774640775697_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-27T22:03:42.359380</generated>
+  <generated>2026-03-28T00:00:52.453920</generated>
   <items>
+    <item>
+      <title>The race against time to destroy Iran’s illicit nuclear weapons program heats up amid fresh strikes</title>
+      <link>https://www.foxnews.com/world/race-against-time-destroy-irans-illicit-nuclear-weapons-program-heats-up-amid-fresh-strikes</link>
+      <summary>The IDF says it struck Iran&amp;apos;s Arak heavy water plant, a key plutonium site, as experts warn Natanz and Isfahan still hold highly enriched uranium.</summary>
+      <pubDate>Fri, 27 Mar 2026 15:42:06 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-nuclear-weapons-2026.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel says Iranian leader who ordered Strait of Hormuz closure killed in targeted strike</title>
       <link>https://www.foxnews.com/world/israel-says-iranian-leader-who-ordered-strait-hormuz-closure-killed-targeted-strike</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-shield-of-the-americas-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Zelenskyy says Ukraine has evidence Russia is aiding Iran with intelligence</title>
-      <link>https://www.foxnews.com/world/zelenskyy-russia-iran-intelligence-support</link>
-      <summary>Ukrainian President Volodymyr Zelenskyy, whose nation has been at war with Russia for years, has indicated that there is evidence that Russia is supplying Iran with intelligence.</summary>
-      <pubDate>Tue, 24 Mar 2026 06:19:12 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ukrainian-president-volodymyr-zelenskyy-march-18-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
