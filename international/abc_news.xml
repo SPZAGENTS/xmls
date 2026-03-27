@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T00:04:03.395066</generated>
+  <generated>2026-03-27T03:03:20.056900</generated>
   <items>
-    <item>
-      <title>Trump extends deadline 2nd time for Iran to open the Strait of Hormuz amid talks</title>
-      <link>https://abcnews.com/International/trump-extends-deadline-2nd-time-iran-open-strait/story?id=131431039</link>
-      <summary>With his ultimatum set to expire for Iran to open the Strait of Hormuz to international shipping traffic, President Donald Trump has yet to say it will be prolonged.</summary>
-      <pubDate>Thu, 26 Mar 2026 17:17:38 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/oil-tanker-rt-jt-260314_1773503739436_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Military helicopter crossed in front of United flight approaching airport: FAA</title>
       <link>https://abcnews.com/US/military-helicopter-crossed-front-united-flight-approaching-airport/story?id=131445183</link>
@@ -60,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Judge temporairly blocks Pentagon's 'supply chain risk' designation for Anthropic</title>
+      <link>https://abcnews.com/Technology/judge-temporarily-blocks-pentagons-supply-chain-risk-designation/story?id=131453267</link>
+      <summary>A federal judge has temporarily blocked the Trump administration from designating AI company Anthropic a "supply-chain risk to national security."</summary>
+      <pubDate>Thu, 26 Mar 2026 19:49:25 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/anthropic-gty-jef-260227_1772201238352_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Melania Trump showcases robot guest at WH summit</title>
       <link>https://abcnews.com/video/131406952/</link>
       <summary>A walking, talking humanoid robot strolled side-by-side with first lady Melania Trump at the White House for the second day of her international technology summit.</summary>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Trump says he'll sign order directing DHS to pay TSA workers as shutdown drags on</title>
+      <link>https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186</link>
+      <summary>Trump he'll sign an executive order instructing DHS Secretary Markwayne Mullin to pay TSA workers immediately, calling the ongoing DHS shutdown an "Emergency Situation."</summary>
+      <pubDate>Thu, 26 Mar 2026 19:05:01 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Food, fun and history on MLB Opening Day</title>
       <link>https://abcnews.com/video/131425016/</link>
       <summary>ABC News' Danny New takes a look at the magic of baseball's Opening Day and all the traditions that make the game America's pastime.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Technology/260326_wnn_humans_dogs_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Rare twin gorilla babies born in Congo</title>
-      <link>https://abcnews.com/video/131391287/</link>
-      <summary>Conservationists at Virunga National Park in the Democratic Republic of the Congo are celebrating this morning after the birth of a set of mountain gorilla twins.</summary>
-      <pubDate>Wed, 25 Mar 2026 11:10:41 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260325_gma_potd_gorilla1_749_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
