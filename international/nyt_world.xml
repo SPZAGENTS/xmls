@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-27T10:00:55.037682</generated>
+  <generated>2026-03-27T12:00:58.392885</generated>
   <items>
     <item>
-      <title>Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid</title>
-      <link>https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil</link>
-      <summary>President Trump moved the deadline to reopen the major transit route for oil tankers from Friday to April 6. Stocks fell sharply and oil prices rose.</summary>
-      <pubDate>Fri, 27 Mar 2026 06:15:17 +0000</pubDate>
+      <title>Iran War Live Updates: Trump Claims Progress in Talks and Extends Strait of Hormuz Deadline</title>
+      <link>https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel</link>
+      <summary>President Trump has threatened to attack Iran’s power plants unless it fully reopens the Strait of Hormuz, a vital oil route, by April 6. Israel on Friday launched more strikes on Iran.</summary>
+      <pubDate>Fri, 27 Mar 2026 08:51:58 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-promo5p-qcvk/26israel-iran-promo5p-qcvk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27israel-iran-promo-bhmp/27israel-iran-promo-bhmp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran</title>
-      <link>https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html</link>
-      <summary>European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.</summary>
-      <pubDate>Thu, 26 Mar 2026 04:01:13 +0000</pubDate>
+      <title>UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks</title>
+      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html</link>
+      <summary>The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.</summary>
+      <pubDate>Fri, 27 Mar 2026 08:55:31 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/25int-europe-iran-01-cbgf/25int-europe-iran-01-cbgf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-gulf-crackdown-1-bfcv/27int-gulf-crackdown-1-bfcv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,6 +56,39 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-front-by-front1-wbzj/26israel-iran-front-by-front1-wbzj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As Markets Revolt in the Face of War, Trump Extends Iran Deadline</title>
+      <link>https://www.nytimes.com/2026/03/26/world/middleeast/markets-revolt-trump-iran.html</link>
+      <summary>Just after stocks ended another bruising day, the president took to social media to promote progress in talks with Iran.</summary>
+      <pubDate>Fri, 27 Mar 2026 01:00:29 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/26/multimedia/26israel-iran-trump-markets1-wqcv/26israel-iran-trump-markets1-wqcv-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The German Military Tightens Its Social Media Rules</title>
+      <link>https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html</link>
+      <summary>Military members sharing clips on Instagram and TikTok have helped recruit badly needed new soldiers, but Bundeswehr officials said they are concerned about security.</summary>
+      <pubDate>Fri, 27 Mar 2026 04:01:05 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/25/world/00int-germany-military-abcd/00int-germany-military-abcd-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Faroe Islands, Wary After Greenland, Vote for Change</title>
+      <link>https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html</link>
+      <summary>Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.</summary>
+      <pubDate>Fri, 27 Mar 2026 05:06:45 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-faroe-elections-wjzc/27int-faroe-elections-wjzc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/26/multimedia/26INT-INDIA-IRAN-PAKISTAN-zjtv/26INT-INDIA-IRAN-PAKISTAN-zjtv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In Rural Ukraine, Basic Health Care Is a Casualty of War</title>
-      <link>https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html</link>
-      <summary>Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.</summary>
-      <pubDate>Thu, 26 Mar 2026 09:01:16 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/multimedia/00int-ukraine-rural-health-01-fhgj-promo/00int-ukraine-rural-health-01-fhgj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Faroe Islands, Wary After Greenland, Vote for Change</title>
-      <link>https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html</link>
-      <summary>Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.</summary>
-      <pubDate>Fri, 27 Mar 2026 05:06:45 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-faroe-elections-wjzc/27int-faroe-elections-wjzc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The German Military Tightens Its Social Media Rules</title>
-      <link>https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html</link>
-      <summary>Military members sharing clips on Instagram and TikTok have helped recruit badly needed new soldiers, but Bundeswehr officials said they are concerned about security.</summary>
-      <pubDate>Fri, 27 Mar 2026 04:01:05 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/25/world/00int-germany-military-abcd/00int-germany-military-abcd-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

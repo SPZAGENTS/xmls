@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T10:01:01.305610</generated>
+  <generated>2026-03-27T12:01:04.250513</generated>
   <items>
     <item>
       <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_d8d0b0f59aa56113a5e1a4722a7810d1_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Somali children are 'on the edge' as hunger spreads</title>
+      <link>https://abcnews.com/International/wireStory/somali-children-edge-hunger-spreads-unicef-iran-war-131461715</link>
+      <summary>Mothers in a displacement camp in southern Somalia struggle to keep their children alive as drought and aid disruptions deepen hunger, a crisis that now also has a link to the far-away Iran war</summary>
+      <pubDate>Fri, 27 Mar 2026 03:03:32 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_6783d2d4b41318f88e3d21ae6fb95973_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Air Canada CEO apologizes for his inability to speak French after plane crash</title>
-      <link>https://abcnews.com/International/wireStory/air-canada-ceo-apologizes-inability-speak-french-after-131431390</link>
-      <summary>The chief executive of Air Canada is apologizing for not being able to express himself adequately in French in a video message of condolence he released after the deadly plane crash in New York on Sunday</summary>
-      <pubDate>Thu, 26 Mar 2026 09:53:34 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_73dddcb277af099ff69c91aceca48477_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Two British men detained in a suspected antisemitic hate crime are released on bail</title>
       <link>https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228</link>
       <summary>British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Italy seizes millions in assets allegedly stolen from Bond co-star Ursula Andress</title>
-      <link>https://abcnews.com/International/wireStory/italy-seizes-millions-assets-allegedly-stolen-bond-star-131429780</link>
-      <summary>Italian police say they have seized about 20 million euros in property and assets linked to money stolen from Swiss actress and original Bond girl Ursula Andress</summary>
-      <pubDate>Thu, 26 Mar 2026 09:01:45 -0400</pubDate>
+      <title>Slovenia says it has confirmed foreign influence on last weekend's election</title>
+      <link>https://abcnews.com/International/wireStory/slovenia-confirmed-foreign-influence-weekends-election-131444673</link>
+      <summary>Slovenia&amp;rsquo;s government says its intelligence service has confirmed foreign influence around the country&amp;rsquo;s parliamentary election</summary>
+      <pubDate>Fri, 27 Mar 2026 02:56:21 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_b1e63fe693e585b14b3a09355267c596_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_af8c08450f922a669e9b22f146a1026f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-27T10:00:54.402874</generated>
+  <generated>2026-03-27T12:00:57.739926</generated>
   <items>
     <item>
       <title>As Trump skips CPAC, MAGA’s rifts over Iran war are on display</title>
@@ -40,6 +40,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>FBI probe of 2020 election count in Georgia faces crucial court hearing</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/27/fbi-probe-2020-election-georgia-faces-crucial-court-session/</link>
+      <summary>A federal judge Friday will consider Fulton County’s request for the return of thousands of ballots seized by President Donald Trump’s Justice Department.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Bigotry among young conservatives has Republicans on edge</title>
       <link>https://www.washingtonpost.com/politics/2026/03/26/gop-feuntes-trump-antisemitism-nationalism/</link>
       <summary>Many Republicans dismiss such party members even as white supremacists like Nick Fuentes gain popularity, but there’s growing unease at their presence in the rank and file.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/03/25/democrats-midterms-special-election-wins/</link>
       <summary>Including off-year elections last year, Democrats have flipped 30 Republican seats since the start of 2025.</summary>
       <pubDate>Wed, 25 Mar 2026 19:37:00 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Supreme Court finds internet service providers not liable for users’ pirated music</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/25/supreme-court-copyright-cox-sony-music/</link>
-      <summary>The unanimous decision means Cox Communications will probably not have to pay a huge judgment in a case brought by dozens of music companies, including Sony.</summary>
-      <pubDate>Wed, 25 Mar 2026 19:12:32 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

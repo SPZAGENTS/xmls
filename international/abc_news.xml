@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T10:01:00.328285</generated>
+  <generated>2026-03-27T12:01:03.399544</generated>
   <items>
+    <item>
+      <title>WATCH: Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile</title>
+      <link>https://abcnews.com/video/131451822/</link>
+      <summary>Dramatic video shows the moment a missile came dangerously close to shooting down a F-18 fighter jet over Iran. It comes as Israel announced it killed Iran's navy chief.</summary>
+      <pubDate>Thu, 26 Mar 2026 20:11:54 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260326_wn_rivers_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: Trump extends deadline second time for Iran to open the Strait of Hormuz</title>
       <link>https://abcnews.com/video/131459778/</link>
@@ -12,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_abc_social_trump_deadline_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Military helicopter crossed in front of United flight approaching airport: FAA</title>
-      <link>https://abcnews.com/US/military-helicopter-crossed-front-united-flight-approaching-airport/story?id=131445183</link>
-      <summary>The incident occurred around 8:40 p.m. local time Tuesday, according to the FAA.</summary>
-      <pubDate>Thu, 26 Mar 2026 18:00:57 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/john-wayne-airport-gty-jt-260326_1774552654869_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -63,7 +63,7 @@
       <title>WATCH: 109-year-old Orioles fan throws first pitch on Opening Day</title>
       <link>https://abcnews.com/video/131461131/</link>
       <summary>109-year-old Arthur Green, a World War II and Korean War veteran, threw out the ceremonial first pitch for the Baltimore Orioles on Opening Day.</summary>
-      <pubDate>Fri, 27 Mar 2026 01:17:24 -0400</pubDate>
+      <pubDate>Fri, 27 Mar 2026 04:28:40 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/Sports/260326_abc_soc_baseball_hpMain_4x3_384.jpg</image>
