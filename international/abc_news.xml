@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T06:01:00.315081</generated>
+  <generated>2026-03-27T08:02:56.552957</generated>
   <items>
+    <item>
+      <title>WATCH: Trump extends deadline second time for Iran to open the Strait of Hormuz</title>
+      <link>https://abcnews.com/video/131459778/</link>
+      <summary>For the second time this week, President Trump extended an ultimatum for Iran to completely open the Strait of Hormuz to international shipping traffic, saying peace talks "are going very well."</summary>
+      <pubDate>Fri, 27 Mar 2026 00:26:39 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/260326_abc_social_trump_deadline_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Military helicopter crossed in front of United flight approaching airport: FAA</title>
       <link>https://abcnews.com/US/military-helicopter-crossed-front-united-flight-approaching-airport/story?id=131445183</link>
@@ -12,17 +23,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/john-wayne-airport-gty-jt-260326_1774552654869_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</title>
-      <link>https://abcnews.com/video/131433506/</link>
-      <summary>One of the first officers on the scene testified about the moment he encountered a bloodied Arielle Konig after she was allegedly attacked by her then-husband on a Hawaii hiking trail.</summary>
-      <pubDate>Thu, 26 Mar 2026 14:18:52 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260326_abc_social_hawaii_doctor_trial_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +45,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Technology/260326_abcnl_10a_robots_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Judge temporairly blocks Pentagon's 'supply chain risk' designation for Anthropic</title>
-      <link>https://abcnews.com/Technology/judge-temporarily-blocks-pentagons-supply-chain-risk-designation/story?id=131453267</link>
-      <summary>A federal judge has temporarily blocked the Trump administration from designating AI company Anthropic a "supply-chain risk to national security."</summary>
-      <pubDate>Thu, 26 Mar 2026 21:22:47 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/anthropic-gty-jef-260227_1772201238352_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,10 +74,21 @@
       <title>Trump says he'll sign order directing DHS to pay TSA workers as shutdown drags on</title>
       <link>https://abcnews.com/Politics/trump-hell-sign-order-directing-dhs-pay-tsa/story?id=131441186</link>
       <summary>Trump he'll sign an executive order instructing DHS Secretary Markwayne Mullin to pay TSA workers immediately, calling the ongoing DHS shutdown an "Emergency Situation."</summary>
-      <pubDate>Thu, 26 Mar 2026 20:10:52 -0400</pubDate>
+      <pubDate>Fri, 27 Mar 2026 00:59:38 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/travel-1-ap-gmh-260326_1774547704458_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gilgo Beach suspect Rex Heuermann could change his plea to guilty: Sources</title>
+      <link>https://abcnews.com/US/gilgo-beach-suspect-rex-heuermann-change-plea-guilty/story?id=131453459</link>
+      <summary>The Suffolk County district attorney's office, which charged Heuermann in the deaths of seven women, declined to comment.</summary>
+      <pubDate>Thu, 26 Mar 2026 23:14:53 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/Rex-heuermann-2-ap-gmh-260317_1773751520976_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

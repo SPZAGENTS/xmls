@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T06:01:01.301237</generated>
+  <generated>2026-03-27T08:02:57.618334</generated>
   <items>
     <item>
       <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_416347699f12430c471f3f26b07821cf_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>An arson attack leaves Britain's Jewish community feeling vulnerable</title>
-      <link>https://abcnews.com/International/wireStory/arson-attack-leaves-britains-jewish-community-feeling-vulnerable-131358104</link>
-      <summary>British police are hunting three suspects after an arson attack on ambulances that has left Britain's Jewish community feeling vulnerable</summary>
-      <pubDate>Tue, 24 Mar 2026 10:18:31 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_b563836e81aa1bb075955b18e1acedb6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_03852078fc0c5ec75559c7d3fd3f0643_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cuban president says Raúl Castro involved in US talks that are in early stages</title>
+      <link>https://abcnews.com/International/wireStory/cuban-president-ral-castro-involved-us-talks-early-131417803</link>
+      <summary>Cuban President Miguel D&amp;iacute;az-Canel says that former President Ra&amp;uacute;l Castro is involved in talks between Cuba and the United States and that they&amp;rsquo;re still in the early stages</summary>
+      <pubDate>Wed, 25 Mar 2026 20:39:58 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_76a73d9205b3bea9df4aa962869edf55_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
