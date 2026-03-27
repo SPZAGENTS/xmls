@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-27T16:00:52.427736</generated>
+  <generated>2026-03-27T18:03:12.309280</generated>
   <items>
     <item>
       <title>'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?</title>
+      <link>https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.</summary>
+      <pubDate>Fri, 27 Mar 2026 13:17:22 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UN human rights chief calls on US to conclude probe into Iran school strike</title>
+      <link>https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The strike - which killed at least 168 people, mostly children - "evoked a visceral horror", Volker Türk said.</summary>
+      <pubDate>Fri, 27 Mar 2026 13:25:57 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>UN human rights chief calls on US to conclude probe into Iran school strike</title>
-      <link>https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The strike - which killed at least 168 people, mostly children - "evoked a visceral horror", Volker Türk said.</summary>
-      <pubDate>Fri, 27 Mar 2026 12:06:18 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Palestinian man killed as death toll from West Bank settler violence climbs</title>
       <link>https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.</summary>
@@ -49,7 +60,7 @@
       </media>
     </item>
     <item>
-      <title>US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded</title>
+      <title>US Senate votes to fund Homeland Security to end airports chaos - but ICE excluded</title>
       <link>https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.</summary>
       <pubDate>Fri, 27 Mar 2026 10:31:46 GMT</pubDate>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9ad/live/243a9dd0-2980-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty</title>
-      <link>https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.</summary>
-      <pubDate>Fri, 27 Mar 2026 03:14:10 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b494/live/0842cd10-2989-11f1-9f06-7feda6c40cec.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

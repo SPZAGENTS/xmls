@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-27T16:01:02.551440</generated>
+  <generated>2026-03-27T18:03:23.010866</generated>
   <items>
     <item>
       <title>Why Pakistan has emerged as a mediator between US and Iran</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_c9976319f077c743317edec8a20f57f3_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Afghans hold second mass funeral for victims of an airstrike that hit a Kabul drug treatment center</title>
-      <link>https://abcnews.com/International/wireStory/afghans-hold-mass-funeral-victims-airstrike-hit-kabul-131431718</link>
-      <summary>Dozens of people have been buried in a Kabul cemetery in the second mass funeral of victims killed in an airstrike that hit a drug rehabilitation center in the Afghan capital earlier this month</summary>
-      <pubDate>Thu, 26 Mar 2026 09:53:28 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_d8d0b0f59aa56113a5e1a4722a7810d1_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Snow and stormy winds close schools and roads, and cut power in some Balkan countries</title>
+      <link>https://abcnews.com/International/wireStory/snow-stormy-winds-close-schools-roads-cut-power-131463481</link>
+      <summary>Stormy winds, rain and snow have closed schools and left thousands of people without electricity in some Balkan countries while snarling traffic throughout the region and pulling out trees and ripping off rooftops</summary>
+      <pubDate>Fri, 27 Mar 2026 06:37:18 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_c4dd4a536298ab174e5cb26d9446e2e5_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Landslides triggered by heavy rainfall kill at least 20 people in Tanzania</title>
       <link>https://abcnews.com/International/wireStory/landslides-triggered-heavy-rainfall-kill-20-people-tanzania-131463199</link>
       <summary>Heavy rains and strong winds have triggered deadly landslides and floods across East Africa, with southern Tanzania reporting at least 20 deaths</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Snow and stormy winds close schools and roads, and cut power in some Balkan countries</title>
-      <link>https://abcnews.com/International/wireStory/snow-stormy-winds-close-schools-roads-cut-power-131463481</link>
-      <summary>Stormy winds, rain and snow have closed schools and left thousands of people without electricity in some Balkan countries while snarling traffic throughout the region and pulling out trees and ripping off rooftops</summary>
-      <pubDate>Fri, 27 Mar 2026 06:37:18 -0400</pubDate>
+      <title>Costa Rica to accept 25 'third country' deportees from US every week</title>
+      <link>https://abcnews.com/International/wireStory/costa-rica-accept-25-country-deportees-us-week-131443398</link>
+      <summary>Costa Rica said that it would accept 25 &amp;ldquo;third party&amp;rdquo; migrants deported from the United States per week</summary>
+      <pubDate>Fri, 27 Mar 2026 10:04:17 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_c4dd4a536298ab174e5cb26d9446e2e5_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/wirestory_b8563adb2e854548f256cbfd12b0ad33_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
