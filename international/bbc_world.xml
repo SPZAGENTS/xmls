@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-27T18:03:12.309280</generated>
+  <generated>2026-03-27T20:05:15.253490</generated>
   <items>
-    <item>
-      <title>'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises</title>
-      <link>https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.</summary>
-      <pubDate>Fri, 27 Mar 2026 09:30:52 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?</title>
       <link>https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -67,6 +56,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ab/live/5cf32210-29c5-11f1-952c-77491ff53aff.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises</title>
+      <link>https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.</summary>
+      <pubDate>Fri, 27 Mar 2026 09:30:52 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a5/live/59372420-29c8-11f1-952c-77491ff53aff.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

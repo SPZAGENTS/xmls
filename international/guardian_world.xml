@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-03-27T18:03:17.869528</generated>
+  <generated>2026-03-27T20:05:20.110301</generated>
   <items>
     <item>
       <title>Two drone strikes on civilian targets kill 28 people in Sudan</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Nicolás Maduro appears again in New York court on ‘narco-terrorism’ charges</title>
-      <link>https://www.theguardian.com/world/2026/mar/26/nicolas-maduro-federal-court-narco-terrorism-case</link>
-      <summary>Deposed Venezuelan president and his wife, who both pleaded not guilty, were captured by US military in JanuaryThe deposed Venezuelan president Nicolás Maduro appeared in a Manhattan federal court on Thursday for his “narco-terrorism” case after his capture by US military forc...</summary>
-      <pubDate>Thu, 26 Mar 2026 17:58:53 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/d87d534f451a8008c3e9b765b76808c69cb34827/263_0_3903_3123/master/3903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89c808c951aced945631b92e5da461d1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas</title>
       <link>https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas</link>
       <summary>Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading...</summary>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/fb2df160ef97d6d7230b444bf423779f87cd706e/393_0_4161_3329/master/4161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ad13fb3be3be603546ed5b5fb4be2b5</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Weather tracker: Cold weather sweeps Europe and cyclone hits Australia</title>
+      <link>https://www.theguardian.com/world/2026/mar/27/weather-tracker-cold-weather-sweeps-europe-cyclone-hits-australia</link>
+      <summary>Low pressure brings unsettled conditions to southern Europe, and rain and snow to western and central areasSouthern Europe has been under a variety of severe weather warnings this week owing to widely unsettled conditions driven by an area of low pressure in the region. This a...</summary>
+      <pubDate>Fri, 27 Mar 2026 09:24:38 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/5f504354a40ba3ef3820767e5080ea0223a08c46/452_0_4518_3614/master/4518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f305f65f3de0c6cc6245272a54e777b</image>
         <type>image/jpeg</type>
       </media>
     </item>

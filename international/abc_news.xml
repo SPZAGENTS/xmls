@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-27T18:03:21.944926</generated>
+  <generated>2026-03-27T20:05:23.909361</generated>
   <items>
-    <item>
-      <title>Iran live updates: More than 300 American troops wounded in Iran war</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Fri, 27 Mar 2026 09:56:21 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/iran-14-ht-gmh-260325_1774463882764_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Dramatic video shows the moment a U.S. fighter jet narrowly dodges an Iranian missile</title>
       <link>https://abcnews.com/video/131451822/</link>
@@ -60,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>House ethics panel finds Florida Rep. Cherfilus-McCormick committed 25 violations</title>
-      <link>https://abcnews.com/US/wireStory/house-ethics-panel-finds-florida-congresswoman-cherfilus-mccormick-131468968</link>
-      <summary>The House Ethics Committee has found Democratic congresswoman Sheila Cherfilus-McCormick of Florida committed numerous violations of House rules and ethics standards</summary>
-      <pubDate>Fri, 27 Mar 2026 10:11:28 -0400</pubDate>
+      <title>Iranian hackers allegedly breach FBI Director Patel’s personal emails: Sources</title>
+      <link>https://abcnews.com/US/hackers-breached-fbi-director-kash-patels-emails-prior/story?id=131474304</link>
+      <summary>Hackers breached FBI Director Kash Patel’s personal email, according to sources familiar with the situation.</summary>
+      <pubDate>Fri, 27 Mar 2026 12:52:52 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/wirestory_516fe4e2159beda8c8576c736547b53d_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/patel-3-rt-gmh-260318_1773847136714_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260326_gmafl_tsa_chaos_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Gender pay gap widens for 2nd year in a row</title>
+      <link>https://abcnews.com/video/131447606/</link>
+      <summary>Data from the U.S. Census Bureau shows that women working full-time, year-round jobs still earn less than men.</summary>
+      <pubDate>Thu, 26 Mar 2026 21:41:44 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260326_abcnl_6p_equal_pay_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
