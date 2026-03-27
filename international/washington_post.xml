@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-27T04:00:56.068228</generated>
+  <generated>2026-03-27T06:00:54.426732</generated>
   <items>
     <item>
       <title>Pentagon considers diverting Ukraine military aid to the Middle East</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/24/us-orders-82nd-airborne-iran-paratroopers-kharg/</link>
-      <summary>The orders follow weeks of speculation about whether the 82nd Airborne Division would join the war, after its headquarters unit abruptly pulled out of a training exercise this month.</summary>
-      <pubDate>Wed, 25 Mar 2026 01:20:00 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump says U.S. to hold off for 10 days on hitting Iran energy sites</title>
       <link>https://www.washingtonpost.com/world/2026/03/26/us-israel-iran-navy-chief-killed-hormuz/</link>
       <summary>Trump’s statement follows an Iranian report that it had rejected a 15-point U.S. ceasefire proposal, a move that still left the door open for a counteroffer.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/immigration/2026/03/26/immigrants-cities-census-population-growth/</link>
       <summary>New York, Los Angeles and Chicago are among the metro areas seeing steep declines in net immigration amid the Trump administration’s crackdown.</summary>
       <pubDate>Thu, 26 Mar 2026 16:38:40 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>China bars executives at Meta-owned AI company from leaving country</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/25/meta-manus-china-executives-banned/</link>
+      <summary>Manus’s CEO and chief scientist are facing scrutiny from Beijing over the company’s $2 billion sale to Meta.</summary>
+      <pubDate>Wed, 25 Mar 2026 22:17:01 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

@@ -2,12 +2,12 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-27T04:00:50.985103</generated>
+  <generated>2026-03-27T06:00:52.796534</generated>
   <items>
     <item>
       <title>State Department reveals world's most dangerous countries for Americans</title>
       <link>https://www.foxnews.com/us/state-department-reveals-worlds-most-dangerous-countries-americans</link>
-      <summary>Americans face risks of &amp;apos;arbitrary arrests&amp;apos; and kidnapping abroad. amid State Department warnings for the Middle East, Mexico, and Iran-linked threats.</summary>
+      <summary>Americans face risks of &amp;quot;arbitrary arrests&amp;quot; and kidnapping abroad amid State Department warnings for the Middle East, Mexico and Iran-linked threats.</summary>
       <pubDate>Thu, 26 Mar 2026 20:34:18 -0400</pubDate>
       <priority>100</priority>
       <media>
@@ -38,13 +38,24 @@
       </media>
     </item>
     <item>
-      <title>North Carolina woman who vanished 24 years ago tearfully reunites with daughter outside court</title>
-      <link>https://www.foxnews.com/us/north-carolina-woman-who-vanished-24-years-ago-tearfully-reunites-daughter-outside-court</link>
-      <summary>A North Carolina woman missing for 24 years was found alive and tearfully reunited with her daughter outside court after appearing on a 2001 DWI charge.</summary>
-      <pubDate>Thu, 26 Mar 2026 18:07:01 -0400</pubDate>
-      <priority>95</priority>
+      <title>Trump says Iranian protesters being ‘shot by snipers,’ voices support for people under regime</title>
+      <link>https://www.foxnews.com/media/trump-says-iranian-protesters-being-shot-snipers-voices-support-people-under-regime</link>
+      <summary>President tells &amp;quot;The Five&amp;quot; the Iranian regime uses snipers to suppress protests, drawing a distinction between Iran&amp;apos;s leadership and its people amid Operation Epic Fury.</summary>
+      <pubDate>Thu, 26 Mar 2026 21:49:32 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/amanda-hundley-reunited-mom-01-scaled.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-trump-supports-iranian-protesters.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Climate executive warns California ‘functionally bankrupt,’ $1T shortfall could shake nation</title>
+      <link>https://www.foxnews.com/media/climate-executive-david-friedberg-warns-california-functionally-bankrupt-1t-shortfall-could-shake-nation</link>
+      <summary>Climate entrepreneur David Friedberg warned California is “functionally bankrupt,&amp;quot; citing pension liabilities, legal limits, and spending concerns in a recent interview.</summary>
+      <pubDate>Thu, 26 Mar 2026 21:30:28 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/01/931/523/CALIFORNIA-FLAG.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -73,7 +84,7 @@
     <item>
       <title>Doctor’s bloodied wife seen in bodycam after screaming for help from husband’s alleged attack</title>
       <link>https://www.foxnews.com/us/doctors-bloodied-wife-seen-bodycam-after-screaming-help-from-husbands-alleged-attack</link>
-      <summary>Bodycam footage shown at a Maui attempted murder trial captured Arielle Konig bloodied on a trail as prosecutors allege her doctor husband attacked her.</summary>
+      <summary>Bodycam footage shown at an attempted murder trial in Maui captured Arielle Konig bloodied on a trail. Prosecutors allege her doctor husband attacked her.</summary>
       <pubDate>Thu, 26 Mar 2026 20:15:04 -0400</pubDate>
       <priority>75</priority>
       <media>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Accused Gilgo Beach serial killer Rex Heuermann expected to plead guilty in murder case: reports</title>
-      <link>https://www.foxnews.com/us/accused-gilgo-beach-serial-killer-rex-heuermann-expected-plead-guilty-murder-case-reports</link>
-      <summary>Accused Gilgo Beach serial killer Rex Heuermann agreed to a plea deal for multiple murders in a haunting case that horrified Long Island, east of New York City, according to reports.</summary>
-      <pubDate>Thu, 26 Mar 2026 19:57:19 -0400</pubDate>
+      <title>United jet dodges Black Hawk in last-second maneuver over California airport: 'That was not good'</title>
+      <link>https://www.foxnews.com/us/united-jet-dodges-black-hawk-last-second-maneuver-over-california-airport-that-not-good</link>
+      <summary>The FAA is investigating a close call between a United Airlines Boeing 737 and a Black Hawk helicopter at John Wayne Airport in Santa Ana, California.</summary>
+      <pubDate>Thu, 26 Mar 2026 21:29:31 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/rex-heuermann-and-attorney-michael-brown.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Decorated Detroit police sergeant led ‘double life’ as serial rapist in disturbing case: prosecutor</title>
-      <link>https://www.foxnews.com/us/decorated-detroit-police-sergeant-led-double-life-serial-rapist-disturbing-case-prosecutor</link>
-      <summary>Retired Detroit police Sgt. Benjamin Wagner, 68, was charged with 14 counts, including kidnapping and serial rape, and is accused of living a secret double life.</summary>
-      <pubDate>Thu, 26 Mar 2026 19:14:20 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/detroit-mug-split.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/united-map-split.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

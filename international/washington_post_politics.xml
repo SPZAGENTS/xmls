@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-27T04:00:56.614576</generated>
+  <generated>2026-03-27T06:00:54.946683</generated>
   <items>
     <item>
       <title>As Trump skips CPAC, MAGA’s rifts over Iran war are on display</title>
       <link>https://www.washingtonpost.com/politics/2026/03/26/trump-iran-war-cpac/</link>
       <summary>At the annual gathering of conservative activists, many express reservations about the war, amid support for Trump.</summary>
       <pubDate>Thu, 26 Mar 2026 19:41:16 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict</title>
-      <link>https://www.washingtonpost.com/national-security/2026/03/24/us-orders-82nd-airborne-iran-paratroopers-kharg/</link>
-      <summary>The orders follow weeks of speculation about whether the 82nd Airborne Division would join the war, after its headquarters unit abruptly pulled out of a training exercise this month.</summary>
-      <pubDate>Wed, 25 Mar 2026 01:20:00 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/03/25/democrats-midterms-special-election-wins/</link>
       <summary>Including off-year elections last year, Democrats have flipped 30 Republican seats since the start of 2025.</summary>
       <pubDate>Wed, 25 Mar 2026 19:37:00 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Supreme Court finds internet service providers not liable for users’ pirated music</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/25/supreme-court-copyright-cox-sony-music/</link>
+      <summary>The unanimous decision means Cox Communications will probably not have to pay a huge judgment in a case brought by dozens of music companies, including Sony.</summary>
+      <pubDate>Wed, 25 Mar 2026 19:12:32 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
