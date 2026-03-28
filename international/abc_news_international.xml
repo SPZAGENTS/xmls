@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-28T00:01:00.991248</generated>
+  <generated>2026-03-29T02:39:00.980060</generated>
   <items>
     <item>
       <title>Why Pakistan has emerged as a mediator between US and Iran</title>
@@ -16,13 +16,35 @@
       </media>
     </item>
     <item>
-      <title>Iran war deflects attention from Ukraine as Russia starts spring offensive</title>
-      <link>https://abcnews.com/International/wireStory/iran-war-deflects-attention-ukraine-emboldened-russia-starts-131421742</link>
-      <summary>The Iran war has deflected global attention from Russia&amp;rsquo;s all-out invasion of its neighbor Ukraine as Europe&amp;rsquo;s biggest conflict since World War II enters its fifth year and an emboldened Kremlin undertakes a spring offensive</summary>
-      <pubDate>Thu, 26 Mar 2026 04:13:45 -0400</pubDate>
+      <title>Zelenskyy visits Gulf Arab states to talk drone defense</title>
+      <link>https://abcnews.com/International/wireStory/nighttime-strikes-kill-5-ukraine-zelenskyy-discusses-drone-131497906</link>
+      <summary>Kyiv offers its drone expertise to help Gulf Arab states blunt Iran&amp;rsquo;s attacks.</summary>
+      <pubDate>Sat, 28 Mar 2026 13:50:58 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_c9976319f077c743317edec8a20f57f3_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_5d520d03324170efbfb7f75ca6f2492e_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A Houthi missile attack on Israel stokes fears of renewed Red Sea shipping strikes</title>
+      <link>https://abcnews.com/International/wireStory/houthi-missile-attack-israel-stokes-fears-renewed-red-131505922</link>
+      <summary>Iranian-backed Houthi rebels in Yemen have launch missiles toward Israel and raised fears of new attacks on Red Sea shipping</summary>
+      <pubDate>Sat, 28 Mar 2026 13:42:19 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_dba2e2e2309f08547a3cbfdc2c367897_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Scathing UN report calls on Syria to investigate abuses during clashes with Druze</title>
+      <link>https://abcnews.com/International/wireStory/scathing-report-calls-syria-investigate-abuses-deadly-clashes-131462773</link>
+      <summary>A U.N. inquiry says Syria shows no sign it has investigated alleged abuses by its forces during deadly sectarian clashes in Sweida province</summary>
+      <pubDate>Fri, 27 Mar 2026 06:30:40 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_2ddf0548ee0d6c85eadf7b857b0b88b0_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
-      <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
-      <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
-      <pubDate>Thu, 26 Mar 2026 10:59:08 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>School stabbing in Chile leaves 1 dead and 4 injured</title>
       <link>https://abcnews.com/International/wireStory/school-stabbing-chile-leaves-1-dead-4-injured-131476134</link>
       <summary>Police say a stabbing attack at a school in northern Chile left a member of staff dead and four other people injured</summary>
@@ -60,13 +71,35 @@
       </media>
     </item>
     <item>
-      <title>Two British men detained in a suspected antisemitic hate crime are released on bail</title>
-      <link>https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228</link>
-      <summary>British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime</summary>
-      <pubDate>Thu, 26 Mar 2026 04:58:32 -0400</pubDate>
-      <priority>75</priority>
+      <title>Moroccan court jails rapper who has criticized ties with Israel and corruption</title>
+      <link>https://abcnews.com/International/wireStory/moroccan-court-jails-rapper-criticized-ties-israel-corruption-131497898</link>
+      <summary>A Moroccan court has sentenced a rapper known for his criticism of the country&amp;rsquo;s ties with Israel and government corruption to eight months in prison</summary>
+      <pubDate>Sat, 28 Mar 2026 07:55:09 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0ab1169b043ab72bbd7a32333eff2af6_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian man sentenced to prison in UK for assault witnessed on video by Barron Trump</title>
+      <link>https://abcnews.com/International/wireStory/russian-man-sentenced-4-years-uk-prison-assault-131466813</link>
+      <summary>A London court has sentenced a Russian man to four years in prison for assaulting a woman during a jealous attack that Barron Trump witnessed on a video call</summary>
+      <pubDate>Fri, 27 Mar 2026 12:39:55 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_53167ee4694a3c9f7cc2109eb9f40745_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Africa is hurting again from a global crisis it had no part in starting</title>
+      <link>https://abcnews.com/International/wireStory/africa-hurting-global-crisis-part-starting-131496772</link>
+      <summary>Africa is hurting again from a global crisis it had no part in starting</summary>
+      <pubDate>Sat, 28 Mar 2026 04:51:44 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_aad28b599c8367a77458167842d53b47_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_3128ec598ba47e3086325e4c503455f4_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Nepal's new prime minister chooses auspicious time to take oath of office</title>
-      <link>https://abcnews.com/International/wireStory/nepals-new-prime-minister-chooses-auspicious-time-oath-131461117</link>
-      <summary>Nepal&amp;rsquo;s youngest prime minister will take the oath of office in a ceremony shaped as much by astrology as politics</summary>
-      <pubDate>Fri, 27 Mar 2026 02:33:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_19047838815c73ad4ac21d46c04fc24b_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Slovenia says it has confirmed foreign influence on last weekend's election</title>
-      <link>https://abcnews.com/International/wireStory/slovenia-confirmed-foreign-influence-weekends-election-131444673</link>
-      <summary>Slovenia&amp;rsquo;s government says its intelligence service has confirmed foreign influence around the country&amp;rsquo;s parliamentary election</summary>
-      <pubDate>Fri, 27 Mar 2026 02:56:21 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_af8c08450f922a669e9b22f146a1026f_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Landslides triggered by heavy rainfall kill at least 20 people in Tanzania</title>
-      <link>https://abcnews.com/International/wireStory/landslides-triggered-heavy-rainfall-kill-20-people-tanzania-131463199</link>
-      <summary>Heavy rains and strong winds have triggered deadly landslides and floods across East Africa, with southern Tanzania reporting at least 20 deaths</summary>
-      <pubDate>Fri, 27 Mar 2026 06:29:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,20 +2,34 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-28T00:00:54.575477</generated>
+  <generated>2026-03-29T02:38:54.317645</generated>
   <items>
     <item>
-      <title>As Trump skips CPAC, MAGA’s rifts over Iran war are on display</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/26/trump-iran-war-cpac/</link>
-      <summary>At the annual gathering of conservative activists, many express reservations about the war, amid support for Trump.</summary>
-      <pubDate>Fri, 27 Mar 2026 13:18:26 +0000</pubDate>
+      <title>Trump ratchets up attacks on NATO, says U.S. no longer needs alliance</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/27/trump-nato-iran-war/</link>
+      <summary>President Donald Trump suggested the U.S. might move away from its commitment to defend NATO allies, criticizing them for not supporting the war in Iran.</summary>
+      <pubDate>Sat, 28 Mar 2026 02:29:13 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>At least 10 U.S. troops wounded in Iranian attack on Saudi air base</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/27/iran-wounds-us-troops-saudi-base/</link>
+      <summary>The strike on Prince Sultan Air Base also damaged at least two Air Force refueling aircraft and underscored that despite weeks of strikes, Iran still poses a threat.</summary>
+      <pubDate>Sat, 28 Mar 2026 02:03:39 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
       <title>As Trump feels pressure to end war, allies fear what Iran may do next</title>
       <link>https://www.washingtonpost.com/politics/2026/03/27/trump-iran-negotiations-dilemma/</link>
       <summary>The oil price rose to $110 per barrel on Friday, as Iran has demonstrated it can inflict significant damage on the world’s economy, even while outgunned. That creates a dilemma for President Trump.</summary>
-      <pubDate>Fri, 27 Mar 2026 12:38:49 +0000</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:41:53 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>As Trump skips CPAC, MAGA’s rifts over Iran war are on display</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/26/trump-iran-war-cpac/</link>
+      <summary>At the annual gathering of conservative activists, many express reservations about the war, amid support for Trump.</summary>
+      <pubDate>Fri, 27 Mar 2026 13:18:26 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -26,17 +40,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Education Dept. to leave headquarters, give building to Energy Department</title>
-      <link>https://www.washingtonpost.com/education/2026/03/26/education-department-headquarters-closed-energy/</link>
-      <summary>Abandoning the D.C. headquarters is the Trump administration’s latest and most visible move toward eliminating the Education Department altogether.</summary>
-      <pubDate>Thu, 26 Mar 2026 23:12:14 +0000</pubDate>
+      <title>House GOP passes its own funding bill, rejecting Senate version, as shutdown drags on</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/27/dhs-funding-house-tsa/</link>
+      <summary>Senate Democrats have said the plan is “dead on arrival” in the upper chamber.</summary>
+      <pubDate>Sat, 28 Mar 2026 03:45:17 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
-      <title>House GOP rejects DHS funding bill passed by Senate, drafts alternative</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/27/dhs-funding-house-tsa/</link>
-      <summary>TSA agents will get paychecks as soon as Monday, DHS says, after Trump signs order to pay workers amid congressional stalemate.</summary>
-      <pubDate>Fri, 27 Mar 2026 19:23:14 +0000</pubDate>
+      <title>MAGA’s eruption has so far kept Trump from endorsing in key Senate race</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/28/trump-paxton-cornyn-senate-endorsement-maga/</link>
+      <summary>President Donald Trump seemed set to endorse Sen. John Cornyn in the Texas Republican primary runoff. But strong opposition from MAGA activists forestalled that.</summary>
+      <pubDate>Sat, 28 Mar 2026 09:00:31 +0000</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -54,24 +68,10 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Trump’s move to send ICE to airports fails to break impasse or end long lines</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/26/trump-ice-airports-long-lines/</link>
-      <summary>Airport slogs continue to put pressure on lawmakers and the White House, but a deal remains elusive as Senate Democrats hold out for restraints on immigration agents.</summary>
-      <pubDate>Thu, 26 Mar 2026 19:54:03 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Judge agrees to dismiss charges against officers tied to Breonna Taylor raid</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/27/breonna-taylor-doj-charges/</link>
-      <summary>Attorneys for Taylor’s family sharply denounced the Trump administration’s push to drop the charges.</summary>
-      <pubDate>Fri, 27 Mar 2026 19:56:53 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump imagines negotiation with Sharpie maker for $5 signature pens</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/27/trump-sharpie-story/</link>
-      <summary>Trump told a lengthy story about negotiating over the price of Sharpie pens. The company says it has no record of any such conversation.</summary>
-      <pubDate>Fri, 27 Mar 2026 14:06:20 +0000</pubDate>
+      <title>Claims at heart of FBI’s 2020 Georgia election probe have ‘no basis in reality,’ witness says</title>
+      <link>https://www.washingtonpost.com/national-security/2026/03/27/fbi-probe-2020-election-georgia-faces-crucial-court-session/</link>
+      <summary>The testimony emerged as officials in Fulton County urged a federal judge to order the return of more than 650 boxes of materials seized by agents in January.</summary>
+      <pubDate>Fri, 27 Mar 2026 22:31:35 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
