@@ -2,21 +2,10 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-29T14:02:57.477778</generated>
+  <generated>2026-03-29T16:03:44.593972</generated>
   <items>
     <item>
-      <title>She was one of AIPAC’s top targets last election. Now she wants back in Congress.</title>
-      <link>https://www.politico.com/news/2026/03/29/aipac-2026-elections-cori-bush-00846126</link>
-      <summary>Former Rep. Cori Bush (D-Mo.) is back on the campaign trail after a 2024 multimillion-dollar campaign by the American Israel Public Affairs Committee unseated her.</summary>
-      <pubDate>Sun, 29 Mar 2026 06:00:00 EST</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static.politico.com/91/0c/68708be546dc948567fd1e7a4412/house-of-representatives-83296.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>One month into Iran, the GOP’s political reality sinks in</title>
+      <title>A month into Iran, the GOP’s political reality sinks in</title>
       <link>https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116</link>
       <summary>Republicans in battleground states are largely sticking by the president's war — but they’re finding it harder to brush off the consequences.</summary>
       <pubDate>Sun, 29 Mar 2026 06:00:00 EST</pubDate>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/9f/4e/6fa6ad8a43f6b6c88f961a567124/https-delivery-gettyimages.com/downloads/2267908888</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cori Bush wants her seat back — and a rematch over AIPAC</title>
+      <link>https://www.politico.com/news/2026/03/29/aipac-2026-elections-cori-bush-00846126</link>
+      <summary>She is back on the campaign trail after a 2024 multimillion-dollar campaign by the American Israel Public Affairs Committee unseated her.</summary>
+      <pubDate>Sun, 29 Mar 2026 06:00:00 EST</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static.politico.com/91/0c/68708be546dc948567fd1e7a4412/house-of-representatives-83296.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
