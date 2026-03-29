@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-29T22:05:24.258482</generated>
+  <generated>2026-03-30T00:03:39.961238</generated>
   <items>
+    <item>
+      <title>Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/catholic-church-jerusalem.html</link>
+      <summary>Israeli police stopped clergymen from celebrating the Palm Sunday Mass at the Church of the Holy Sepulchre “for the first time in centuries,” church officials said.</summary>
+      <pubDate>Sun, 29 Mar 2026 20:54:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-palm-sunday-vjlp/29israel-iran-palm-sunday-vjlp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran War Draws Attention to U.S. Troop Presence in Saudi Arabia</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/injured-us-troops-saudi-arabia.html</link>
@@ -19,7 +30,7 @@
       <title>Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake</link>
       <summary>The</summary>
-      <pubDate>Sun, 29 Mar 2026 18:30:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 19:36:27 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-idf-photo-PROMO-qmlv/29israel-iran-idf-photo-PROMO-qmlv-mediumSquareAt3X.jpg</image>
@@ -27,10 +38,10 @@
       </media>
     </item>
     <item>
-      <title>Regional officials met in Pakistan to discuss the war in Iran.</title>
+      <title>Regional officials meet in Pakistan to discuss the war in Iran.</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/regional-officials-pakistan-meeting</link>
       <summary />
-      <pubDate>Sun, 29 Mar 2026 17:50:01 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 19:07:39 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-pakistan-talks-glht/29israel-iran-pakistan-talks-glht-mediumSquareAt3X.jpg</image>
@@ -41,7 +52,7 @@
       <title>Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html</link>
       <summary>Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.</summary>
-      <pubDate>Sun, 29 Mar 2026 17:02:50 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 19:44:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html</link>
-      <summary>Israel accused one of the reporters of being a Hezbollah operative. Lebanon’s president said they were journalists and condemned the killings.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:14:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-lebanon-journalists-2-htcw/28israel-iran-lebanon-journalists-2-htcw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
