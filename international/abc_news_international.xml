@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-29T06:03:18.408613</generated>
+  <generated>2026-03-29T08:05:36.982245</generated>
   <items>
     <item>
       <title>Zelenskyy visits Gulf Arab states to talk drone defense</title>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>North Korea conducts engine test for missile capable of targeting US mainland</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-conducts-engine-test-missile-capable-targeting-131514446</link>
+      <summary>North Korean leader Kim Jong Un has observed a test of a high-thrust, solid-fuel engine for weapons</summary>
+      <pubDate>Sun, 29 Mar 2026 00:47:56 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_bdc130f08bed4fd569bdd041ce2c67aa_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
       <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
       <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
@@ -67,6 +78,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two British men detained in a suspected antisemitic hate crime are released on bail</title>
+      <link>https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228</link>
+      <summary>British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime</summary>
+      <pubDate>Thu, 26 Mar 2026 04:58:32 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0ab1169b043ab72bbd7a32333eff2af6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_761b3ae00231ea0b176f93813c0a35eb_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Brazil's Bolsonaro leaves hospital and heads home to serve his 27-year sentence</title>
-      <link>https://abcnews.com/International/wireStory/brazils-bolsonaro-leaves-hospital-heads-home-serve-27-131468498</link>
-      <summary>Brazil&amp;rsquo;s former President Jair Bolsonaro has been discharged from a hospital in the capital and will continue serving a 27-year sentence for a coup attempt at his residence in an upscale gated community</summary>
-      <pubDate>Fri, 27 Mar 2026 12:19:36 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_3128ec598ba47e3086325e4c503455f4_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Nepal's new prime minister chooses auspicious time to take oath of office</title>
-      <link>https://abcnews.com/International/wireStory/nepals-new-prime-minister-chooses-auspicious-time-oath-131461117</link>
-      <summary>Nepal&amp;rsquo;s youngest prime minister will take the oath of office in a ceremony shaped as much by astrology as politics</summary>
-      <pubDate>Fri, 27 Mar 2026 02:33:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_19047838815c73ad4ac21d46c04fc24b_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
