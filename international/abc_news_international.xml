@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-29T12:03:13.991885</generated>
+  <generated>2026-03-29T14:03:03.808129</generated>
   <items>
     <item>
       <title>Zelenskyy visits Gulf Arab states to talk drone defense</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_dba2e2e2309f08547a3cbfdc2c367897_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Jerusalem heads into a subdued Passover and Easter under the shadow of the Iran war</title>
+      <link>https://abcnews.com/International/wireStory/jerusalem-heads-subdued-passover-easter-shadow-iran-war-131517212</link>
+      <summary>Jerusalem&amp;rsquo;s major holy sites are shuttered and the mood ahead of Passover and Easter is subdued as the Iran war rages on, now in its fifth week</summary>
+      <pubDate>Sun, 29 Mar 2026 06:24:25 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_83dd39fc7f931970230542339cd1b827_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Pope Leo rejects claims that God justifies war during Palm Sunday Mass</title>
+      <link>https://abcnews.com/International/wireStory/pope-leo-xiv-rejects-claims-god-justifies-war-131517311</link>
+      <summary>Pope Leo XIV says God never justifies war and Jesus rejects violence</summary>
+      <pubDate>Sun, 29 Mar 2026 06:22:28 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_5749906e8c5d5303b1fb06e33607e062_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life</title>
       <link>https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537</link>
       <summary>A knife attack at a Pok&amp;eacute;mon store in downtown Tokyo has left a woman and the attacker dead, police say</summary>
@@ -89,28 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_43248aca022d887f50c9153ba75638b3_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Africa is hurting again from a global crisis it had no part in starting</title>
-      <link>https://abcnews.com/International/wireStory/africa-hurting-global-crisis-part-starting-131496772</link>
-      <summary>Africa is hurting again from a global crisis it had no part in starting</summary>
-      <pubDate>Sat, 28 Mar 2026 04:51:44 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_aad28b599c8367a77458167842d53b47_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Indonesia starts implementing social media restrictions for children under 16</title>
-      <link>https://abcnews.com/International/wireStory/indonesia-starts-implementing-social-media-restrictions-children-16-131491331</link>
-      <summary>Indonesia has begun implementing a new government regulation approved earlier this month that bans children younger than 16 from access to digital platforms that could expose them to pornography, cyberbullying, online scams and addiction</summary>
-      <pubDate>Fri, 27 Mar 2026 22:58:36 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_761b3ae00231ea0b176f93813c0a35eb_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
