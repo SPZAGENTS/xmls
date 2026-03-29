@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-03-29T20:05:04.346622</generated>
+  <generated>2026-03-29T22:05:25.779677</generated>
   <items>
+    <item>
+      <title>World trade is struggling as war in Iran continues</title>
+      <link>https://www.france24.com/en/tv-shows/spotlight/20260329-world-trade-is-struggling-as-war-in-iran-continues</link>
+      <summary>30 days into the war in Iran, the key Strait of Hormuz is still partially closed, making prices of oil rise, considerably affecting businesses and citizens all around the world. Business owner John Catsimatidis decrypts this situation with France 24's Gavin Lee.</summary>
+      <pubDate>Sun, 29 Mar 2026 17:14:02 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/0e7bfab8-2b8b-11f1-bb01-005056a90284/w:1024/p:16x9/Anglais-2026-03-29T16-09-40-930Z.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Massive protests against Trump across US</title>
       <link>https://www.france24.com/en/massive-protests-against-trump-across-us</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/e808b108-2b55-11f1-a2f5-005056a97e36/w:1024/p:16x9/EN-20260329-111217-111407-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Anti-war protests in Israel: Hundreds gather in Tel-Aviv</title>
-      <link>https://www.france24.com/en/video/20260329-anti-war-protests-in-israel-hundreds-gather-in-tel-aviv</link>
-      <summary>Hundreds gathered in Tel Aviv on Saturday to protest the U.S.-Israeli war against Iran, the latest in a series of weekly demonstrations since the conflict began a month ago. Participation now appears to be growing, prompting a tough response from Israeli authorities, who moved...</summary>
-      <pubDate>Sun, 29 Mar 2026 09:48:16 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/50b13d1c-2b4f-11f1-bdf2-005056a97e36/w:1024/p:16x9/EN-20260329-101251-101432-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

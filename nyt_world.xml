@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-29T20:05:02.682130</generated>
+  <generated>2026-03-29T22:05:23.803558</generated>
   <items>
     <item>
       <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
@@ -16,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Iran War Live Updates: Israel Strikes Tehran as Regional Diplomats Gather in Pakistan</title>
+      <title>Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon, and Strikes Hit Iranian Port</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil</link>
-      <summary>Israel said it launched a wave of strikes targeting infrastructure in Tehran and other areas, and Iran retaliated. Officials from Saudi Arabia, Egypt and Turkey were meeting in Pakistan in hopes of finding a way to end the war.</summary>
-      <pubDate>Sun, 29 Mar 2026 17:02:51 +0000</pubDate>
+      <summary>Israel said it launched a wave of strikes targeting infrastructure in Tehran and other areas, and Iran retaliated. The speaker of Iran’s parliament accused the Trump administration of engaging in a front of diplomacy while “secretly planning a ground invasion.”</summary>
+      <pubDate>Sun, 29 Mar 2026 19:01:42 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-1pm-bhwz/29israel-iran-promo-1pm-bhwz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-2pm-zlmg/29israel-iran-promo-2pm-zlmg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,39 @@
       </media>
     </item>
     <item>
+      <title>Iran War Draws Attention to U.S. Troop Presence in Saudi Arabia</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/injured-us-troops-saudi-arabia.html</link>
+      <summary>A close U.S. ally and regional rival of Iran, the kingdom has faced hundreds of Iranian missile and drone attacks since the war began.</summary>
+      <pubDate>Sun, 29 Mar 2026 18:40:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-saudi-001-vlfp/29israel-iran-saudi-001-vlfp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.</title>
+      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake</link>
+      <summary>The</summary>
+      <pubDate>Sun, 29 Mar 2026 18:30:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-idf-photo-PROMO-qmlv/29israel-iran-idf-photo-PROMO-qmlv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Regional officials met in Pakistan to discuss the war in Iran.</title>
+      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/regional-officials-pakistan-meeting</link>
+      <summary />
+      <pubDate>Sun, 29 Mar 2026 17:50:01 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-pakistan-talks-glht/29israel-iran-pakistan-talks-glht-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html</link>
       <summary>Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.</summary>
@@ -78,39 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Airstrikes batter a university and residential zones in Tehran.</title>
-      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
-      <summary />
-      <pubDate>Sun, 29 Mar 2026 07:58:16 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html</link>
-      <summary>Israel accused one of the reporters of being a Hezbollah operative. Lebanon’s president said they were journalists and condemned the killings.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:14:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-lebanon-journalists-2-htcw/28israel-iran-lebanon-journalists-2-htcw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan Set to Host Top Regional Diplomats for Talks on Iran War</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-pakistan-diplomacy.html</link>
-      <summary>The foreign ministers of Saudi Arabia, Turkey and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.</summary>
-      <pubDate>Sat, 28 Mar 2026 14:21:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-pakistan-0001-pfch/28israel-iran-pakistan-0001-pfch-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
