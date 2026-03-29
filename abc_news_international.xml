@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-30T00:03:43.870904</generated>
+  <generated>2026-03-30T02:03:20.939152</generated>
   <items>
+    <item>
+      <title>An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training</title>
+      <link>https://abcnews.com/International/wireStory/israeli-soldier-connecticut-killed-southern-lebanon-weeks-after-131527285</link>
+      <summary>A young man who moved from Connecticut to Israel last year to join the military was killed Saturday during a combat operation in southern Lebanon</summary>
+      <pubDate>Sun, 29 Mar 2026 18:49:46 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Zelenskyy visits Gulf Arab states to talk drone defense</title>
       <link>https://abcnews.com/International/wireStory/nighttime-strikes-kill-5-ukraine-zelenskyy-discusses-drone-131497906</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_5749906e8c5d5303b1fb06e33607e062_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Extreme weather in Afghanistan leaves 17 people dead, authorities say</title>
-      <link>https://abcnews.com/International/wireStory/extreme-weather-afghanistan-leaves-17-people-dead-authorities-131517431</link>
-      <summary>Afghan authorities say that severe flooding, a landslide and thunderstorms in parts of Afghanistan have left 17 people dead and 26 injured over the last 24 hours</summary>
-      <pubDate>Sun, 29 Mar 2026 07:11:33 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
