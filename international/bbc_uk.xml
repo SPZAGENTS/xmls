@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-29T14:02:54.802057</generated>
+  <generated>2026-03-29T16:03:42.169997</generated>
   <items>
     <item>
       <title>Jeremy Bowen: Trump is waging war based on instinct and it isn't working</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb2/live/0bcea060-29e0-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian attacks across Gulf continue as major industrial sites hit</title>
+      <link>https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.</summary>
+      <pubDate>Sun, 29 Mar 2026 11:38:20 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d63e/live/88293d40-2b53-11f1-b0f8-33b27cc8c760.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>A simple invitation to bring cake led to a worldwide trend - now Sydney's getting a slice</title>
+      <link>https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Hundreds of bakers head to the city's botanic gardens to share and savour their colourful creations.</summary>
+      <pubDate>Sat, 28 Mar 2026 21:04:30 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde7/live/f669fe90-2b47-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How deepfake porn scandal surrounding TV star rocked Germany</title>
+      <link>https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.</summary>
+      <pubDate>Sun, 29 Mar 2026 00:00:18 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e0/live/6bc0d8c0-2b4e-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>No Kings protesters across the US rally against Donald Trump</title>
       <link>https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.</summary>
@@ -78,39 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c097/live/620fb060-2b41-11f1-8508-53eb198ee9ef.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney</title>
-      <link>https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Hundreds of bakers head to the city's botanic gardens to share and savour their colourful creations.</summary>
-      <pubDate>Sat, 28 Mar 2026 21:04:30 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde7/live/f669fe90-2b47-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Think Love Island is bad? Wait until you see the AI fruit version</title>
-      <link>https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Like in Love Island, the characters - or fruits - compete for a chance to couple up and stay on the island.</summary>
-      <pubDate>Sun, 29 Mar 2026 00:00:05 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7a/live/e67e5b90-294c-11f1-a79a-77e93010d956.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How deepfake porn scandal surrounding TV star rocked Germany</title>
-      <link>https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.</summary>
-      <pubDate>Sun, 29 Mar 2026 00:00:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e0/live/6bc0d8c0-2b4e-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

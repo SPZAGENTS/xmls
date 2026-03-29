@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-29T14:03:02.947164</generated>
+  <generated>2026-03-29T16:03:57.002967</generated>
   <items>
     <item>
       <title>Iran live updates: IDF launches 'widespread' strikes in Tehran</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trumps-48-hour-deadline-expire/?id=131316431</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Sun, 29 Mar 2026 06:52:55 -0400</pubDate>
+      <pubDate>Sun, 29 Mar 2026 07:59:06 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tehran-DB-260329_1774779337170_hpMain_4x3t_384.jpg</image>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>'No Kings' protests draw large crowds in cities, towns across US</title>
-      <link>https://abcnews.com/Politics/kings-protesters-set-rally-cities-towns-country-saturday/story?id=131472712</link>
-      <summary>Millions of protesters in cities from coast to coast filled streets for the latest "No Kings" protest against the Trump administration.</summary>
-      <pubDate>Sat, 28 Mar 2026 20:16:51 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/no-kings-new-york-02-ap-jt-260328_1774731130190_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Actors create a platform for young talent</title>
       <link>https://abcnews.com/video/131501603/</link>
       <summary>Mister Fitzgerald, Chi Mancho and Shomari Love, all working actors, created the "Soul Soirée," a cultural collective that gives a platform to young creatives and builds a community through art.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260328_gma_norwood_talent4_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Video shows Colorado skier narrowly misses hitting child during air stunt</title>
+      <link>https://abcnews.com/video/131489613/</link>
+      <summary>His skies nearly grazed the child's head, but maneuvered just in time.</summary>
+      <pubDate>Fri, 27 Mar 2026 20:21:03 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260327_wn_ski_close_call1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
