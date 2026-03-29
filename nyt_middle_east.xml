@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-29T06:03:13.664464</generated>
+  <generated>2026-03-29T08:05:31.713445</generated>
   <items>
+    <item>
+      <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html</link>
+      <summary>A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.</summary>
+      <pubDate>Sun, 29 Mar 2026 04:01:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-iran-retaliation-sub-top-clqp/29int-iran-retaliation-sub-top-clqp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html</link>
       <summary>The war with Iran escalated on Saturday as the Iran-allied Houthis joined the conflict and Israel bombarded Tehran with airstrikes.</summary>
-      <pubDate>Sat, 28 Mar 2026 23:16:00 +0000</pubDate>
+      <pubDate>Sat, 28 Mar 2026 23:16:01 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
@@ -17,9 +28,9 @@
     </item>
     <item>
       <title>Airstrikes batter a university and residential zones in Tehran.</title>
-      <link>https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
+      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
       <summary />
-      <pubDate>Sat, 28 Mar 2026 20:23:30 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 04:28:07 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/27/world/27israel-iran-industrial-sites/27israel-iran-industrial-sites-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Moves to Assert Control Over Strait While Trading Strikes With Israel</title>
-      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-israel-us-rubio-war.html</link>
-      <summary>Two ships turned back after being warned not to pass through the Strait of Hormuz on Friday. Iran said strikes in the country had hit a uranium processing plant and industrial sites.</summary>
-      <pubDate>Sat, 28 Mar 2026 00:51:11 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-iran-leadall-fwqb/27int-iran-leadall-fwqb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
