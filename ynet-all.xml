@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-28T00:03:05.889298</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-29T04:03:06.052612</generated>
   <items>
+    <item>
+      <title>Suspected Houthi drone intercepted over southern Israel, no injuries reported</title>
+      <link>https://www.ynetnews.com/article/hkk4gkboze</link>
+      <summary>Since war began, about 850 Hezbollah terrorists were killed; Air Force struck Iran’s maritime industries HQ near Tehran and other sites to weaken weapons production and air defenses</summary>
+      <pubDate>Sat, 28 Mar 2026 19:28:50 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>How Syria is disrupting the arms route supplying Hezbollah — and aiding Israel</title>
+      <link>https://www.ynetnews.com/article/b1armxvsbg</link>
+      <summary>Lebanese officials await war’s end to gauge Hezbollah’s condition and fear civil war, while Israel holds off on renewed talks; Western source says Syria only partly thwarts arms smuggling to Hezbollah; French diplomat says peace is premature but not impossible</summary>
+      <pubDate>Fri, 27 Mar 2026 15:36:49 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Iran FM says Israel strikes on nuclear sites contradict Trump’s extended diplomacy deadline</title>
+      <link>https://www.ynetnews.com/article/rjdvtb4iwl</link>
+      <summary>Abbas Araghchi says strikes hit nuclear and industrial targets as IDF confirms attacks on Arak reactor and uranium site, signaling escalation despite ongoing talks</summary>
+      <pubDate>Fri, 27 Mar 2026 21:41:12 +03:00</pubDate>
+      <priority>125</priority>
+    </item>
+    <item>
+      <title>‘Major blow to economy’: Iranian official acknowledges impact of Israeli strikes on steel plants</title>
+      <link>https://www.ynetnews.com/article/hjyqhgbs11l</link>
+      <summary>A Tehran official told ‘The New York Times’ Israeli strikes in Isfahan and Ahvaz will hinder postwar recovery; Israel says sites are military-linked, a businessman cites strict security checks</summary>
+      <pubDate>Sat, 28 Mar 2026 10:17:49 +03:00</pubDate>
+      <priority>120</priority>
+    </item>
+    <item>
+      <title>מי מתקרב מאחור?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14720633</link>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>חודש למלחמה: סיכום ביניים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14723147</link>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>מי מתקרב מאחור?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14720633</link>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>חודש למלחמה: סיכום ביניים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14723147</link>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>קונספציה חדשה והרסנית בצפון</title>
+      <link>https://www.ynet.co.il/news/article/b1r6gp7o11x</link>
+      <summary>רצועת הביטחון מבטיחה שלא תהיה הסדרה עם לבנון. שום ממשלה בלבנון לא תוכל לקבל מצב שבו דרום המדינה כבוש למעשה בידי ישראל. לבנון, בניגוד לעזה, היא מדינה שיש לה תמיכה בינלאומית; והרס סיטוני לשם הרס, כדאי להזכיר, הוא דבר הגובל בפשע מלחמה</summary>
+      <pubDate>Fri, 27 Mar 2026 11:46:01 +0300</pubDate>
+      <priority>115</priority>
+    </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
-      <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0200</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>מי באמת צריכה כימותרפיה בסרטן השד? מודל AI מהטכניון נותן תשובה מיידית</title>
-      <link>https://www.ynet.co.il/health/article/hkm00nwp911e</link>
-      <description>בכל שנה מאובחנות בסרטן השד כ-5,000 נשים בישראל, כ-300 אלף בארצות הברית וכ-2.3 מיליון ברחבי העולם. מחקר חדש מהטכניון מציג מודל בינה מלאכותית שמנתח דגימות רקמה ומסייע לנבא למי מהמטופלות כימותרפיה צפויה להועיל, ובכך עשוי לצמצם טיפולים מיותרים ולשפר את קבלת ההחלטות הרפואיות</description>
-      <pubDate>Tue, 24 Mar 2026 09:53:48 +0200</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Iran reports strike on uranium facility as Israel expands attacks on steel plants tied to IRGC</title>
-      <link>https://www.ynetnews.com/article/b1q3kxvizx</link>
-      <description>‘Yellowcake’ production site in Yazd targeted with no reported radiation leak, as IDF also hits major steel plants linked to Iran’s military industry and Basij funding networks</description>
-      <pubDate>Fri, 27 Mar 2026 19:07:26 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Katz warns Israel will escalate strikes as Iran keeps firing at civilian population</title>
-      <link>https://www.ynetnews.com/article/bkcbicxszx</link>
-      <description>Defense minister says Israel will 'step up a level' and widen strikes to additional targets in Iran’s military industries; sirens sound in center, south due Iran missile fire; Kfar Saba home, Herzliyah hotel take heavy damage from interception debris</description>
-      <pubDate>Fri, 27 Mar 2026 13:35:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Iran fires missiles toward central Israel, no casualties reported</title>
-      <link>https://www.ynetnews.com/article/hj7i00bmjbx</link>
-      <description>Sirens sound in Tel Aviv area, the Shfela and the West Bank; initial assessments indicated that the projectile was a missile carrying a cluster-type warhead</description>
-      <pubDate>Fri, 27 Mar 2026 03:06:46 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>An Air Force major knew about the date of the attack in Iran and made $162,000 on Polymarket | New details</title>
-      <link>https://www.ynetnews.com/article/sjjp4m7o11l</link>
-      <description>A reserve major passed information to his friend about the start of Operation Rising Lion so that he could bet on the date on Polymarket; the friend won $162,000 on the bet, and split the money with the reservist; The major's role led to several more successful bets</description>
-      <pubDate>Thu, 26 Mar 2026 23:44:14 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Israeli officials: 'Iran’s military can’t be destroyed in current war'</title>
-      <link>https://www.ynetnews.com/article/rywxjgqjwl</link>
-      <description>Military sources tell WSJ Israel cannot destroy Iran’s military now, but says capabilities are degraded and war would still be seen as a success</description>
-      <pubDate>Thu, 26 Mar 2026 22:26:12 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Missile fire triggers sirens in south as IDF pounds Iranian arms production sites</title>
-      <link>https://www.ynetnews.com/article/bjjtih7swe</link>
-      <description>Military says it struck Iran’s main naval missile and sea mine production site in Yazd, along with ballistic missile and air defense targets</description>
-      <pubDate>Fri, 27 Mar 2026 11:08:52 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>

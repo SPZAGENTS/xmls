@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-28T00:03:05.888704</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-29T04:03:06.051044</generated>
   <items>
+    <item>
+      <title>Suspected Houthi drone intercepted over southern Israel, no injuries reported</title>
+      <link>https://www.ynetnews.com/article/hkk4gkboze</link>
+      <summary>Since war began, about 850 Hezbollah terrorists were killed; Air Force struck Iran’s maritime industries HQ near Tehran and other sites to weaken weapons production and air defenses</summary>
+      <pubDate>Sat, 28 Mar 2026 19:28:50 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
     <item>
       <title>How Syria is disrupting the arms route supplying Hezbollah — and aiding Israel</title>
       <link>https://www.ynetnews.com/article/b1armxvsbg</link>
-      <description>Lebanese officials await war’s end to gauge Hezbollah’s condition and fear civil war, while Israel holds off on renewed talks; Western source says Syria only partly thwarts arms smuggling to Hezbollah; French diplomat says peace is premature but not impossible</description>
+      <summary>Lebanese officials await war’s end to gauge Hezbollah’s condition and fear civil war, while Israel holds off on renewed talks; Western source says Syria only partly thwarts arms smuggling to Hezbollah; French diplomat says peace is premature but not impossible</summary>
       <pubDate>Fri, 27 Mar 2026 15:36:49 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>Despite early Israeli and US claims, Iran and Hezbollah intensify fire and shift tactics</title>
-      <link>https://www.ynetnews.com/article/sysriaxsze</link>
-      <description>Data shows both adversaries are still launching sustained attacks, adapting strike patterns and inflicting casualties and damage across Israel</description>
-      <pubDate>Fri, 27 Mar 2026 12:57:05 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>Face-to-face with Hezbollah and under constant rocket fire: IDF troops say the fight has changed</title>
-      <link>https://www.ynetnews.com/article/by6f5omo11x</link>
-      <description>Golani battalion commander says IDF forces are operating deeper in southern Lebanon than before, using tactics refined in Gaza as they battle Hezbollah terrorists in villages, face close-range ambushes and come under heavy daily rocket fire</description>
-      <pubDate>Fri, 27 Mar 2026 10:13:13 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>Outrage in Jerusalem over pro-Israel German president who came out against Iran war: 'Ayatollah's dream'</title>
-      <link>https://www.ynetnews.com/article/b1ute47j11x</link>
-      <description>Frank-Walter Steinmeier is considered one of Israel's greatest friends in Europe, but claims that the attack on the regime in Tehran is illegal; Iranian foreign minister was quick to praise him, the Israeli ambassador in Berlin attacked his words</description>
-      <pubDate>Fri, 27 Mar 2026 00:35:36 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
-      <title>IDF Sgt. Aviaad Volansky killed in Hezbollah anti-tank fire in southern Lebanon</title>
-      <link>https://www.ynetnews.com/article/hjjsl11qjbl</link>
-      <description>The 21-year-old Jerusalem soldier was killed when Hezbollah fired two anti-tank missiles at his unit; one was intercepted, the other hit a tank, lightly wounding four soldiers, the IDF said</description>
-      <pubDate>Thu, 26 Mar 2026 21:37:06 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Iran FM says Israel strikes on nuclear sites contradict Trump’s extended diplomacy deadline</title>
       <link>https://www.ynetnews.com/article/rjdvtb4iwl</link>
-      <description>Abbas Araghchi says strikes hit nuclear and industrial targets as IDF confirms attacks on Arak reactor and uranium site, signaling escalation despite ongoing talks</description>
+      <summary>Abbas Araghchi says strikes hit nuclear and industrial targets as IDF confirms attacks on Arak reactor and uranium site, signaling escalation despite ongoing talks</summary>
       <pubDate>Fri, 27 Mar 2026 21:41:12 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
+      <priority>125</priority>
     </item>
     <item>
-      <title>בישראל מסרבים לכרוך את לבנון להסכם עם איראן - וההסבר לשרים: למה החות'ים עדיין בצד?</title>
-      <link>https://www.ynet.co.il/news/article/sjxlnyni11g</link>
-      <description>ההבנה בישראל היא שרק טראמפ יודע מתי תסתיים המלחמה, וכשברקע הלחץ של מדינות ערב המתונות לכלול גם סוגיית הטילים בכל הסכם עם איראן, בי-ם סולדים מדרישת טהרן לקשור את חיזבאללה לסיום העימות. שרי הקבינט קיבלו סקירה על המצב, זו הערת האלוף שעוררה סערה מול בן גביר ורגב - והתגובה של הרמטכ"ל</description>
-      <pubDate>Fri, 27 Mar 2026 20:14:01 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <title>‘Major blow to economy’: Iranian official acknowledges impact of Israeli strikes on steel plants</title>
+      <link>https://www.ynetnews.com/article/hjyqhgbs11l</link>
+      <summary>A Tehran official told ‘The New York Times’ Israeli strikes in Isfahan and Ahvaz will hinder postwar recovery; Israel says sites are military-linked, a businessman cites strict security checks</summary>
+      <pubDate>Sat, 28 Mar 2026 10:17:49 +03:00</pubDate>
+      <priority>120</priority>
+    </item>
+    <item>
+      <title>מי מתקרב מאחור?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14720633</link>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>חודש למלחמה: סיכום ביניים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14723147</link>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>מי מתקרב מאחור?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14720633</link>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>חודש למלחמה: סיכום ביניים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14723147</link>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
+      <priority>115</priority>
     </item>
     <item>
       <title>קונספציה חדשה והרסנית בצפון</title>
       <link>https://www.ynet.co.il/news/article/b1r6gp7o11x</link>
-      <description>רצועת הביטחון מבטיחה שלא תהיה הסדרה עם לבנון. שום ממשלה בלבנון לא תוכל לקבל מצב שבו דרום המדינה כבוש למעשה בידי ישראל. לבנון, בניגוד לעזה, היא מדינה שיש לה תמיכה בינלאומית; והרס סיטוני לשם הרס, כדאי להזכיר, הוא דבר הגובל בפשע מלחמה</description>
+      <summary>רצועת הביטחון מבטיחה שלא תהיה הסדרה עם לבנון. שום ממשלה בלבנון לא תוכל לקבל מצב שבו דרום המדינה כבוש למעשה בידי ישראל. לבנון, בניגוד לעזה, היא מדינה שיש לה תמיכה בינלאומית; והרס סיטוני לשם הרס, כדאי להזכיר, הוא דבר הגובל בפשע מלחמה</summary>
       <pubDate>Fri, 27 Mar 2026 11:46:01 +0300</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
-      <title>המלחמה מובילה להיערכויות אזוריות חדשות</title>
-      <link>https://www.ynet.co.il/news/article/bjhsm811ibe</link>
-      <description>נראה כי אין סכנה להסכמי השלום והנורמליזציה ששרדו את המלחמה בעזה, אולם ההידרדרות ביחסי ישראל עם מדינות האזור – במיוחד עם מצרים וירדן – תשפיע גם על מידת ההיתכנות של קידום הסכמי נורמליזציה עם מדינות נוספות באזור, ובמיוחד עם סעודיה, לאחר סיום המלחמה</description>
-      <pubDate>Wed, 25 Mar 2026 14:30:40 +0200</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>משחק הידידות של איראן הפך למפגן פוליטי נגד ישראל</title>
-      <link>https://www.ynet.co.il/sport/worldsoccer/article/s1ykzhvobl</link>
-      <description>שחקני הנבחרת עלו להתמודדות מול נבחרת ניגריה כשהם עונדים סרטים שחורים ואחוזים בתיקי בית ספר, כמחווה לתלמידות "שנהרגו ביום הראשון של המלחמה". סגן נשיא התאחדות הכדורגל האיראנית: "מחווה סמלית של סולידריות עם הקורבנות"</description>
-      <pubDate>Fri, 27 Mar 2026 20:43:38 +0300</pubDate>
-      <source>ynet-sports</source>
-      <priority-score>115</priority-score>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
