@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-29T10:03:16.413991</generated>
+  <generated>2026-03-29T12:03:10.205687</generated>
   <items>
+    <item>
+      <title>Why the Iran War May Force Countries to Rely Less on Natural Gas</title>
+      <link>https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html</link>
+      <summary>The U.S. and other exporters are poised for a windfall, but disruptions to Persian Gulf supplies are also pushing gas-buying countries to consider alternatives like coal, solar and nuclear energy.</summary>
+      <pubDate>Sun, 29 Mar 2026 09:00:54 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29biz-iran-natural-gas-hfkv/29biz-iran-natural-gas-hfkv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html</link>
       <summary>A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.</summary>
-      <pubDate>Sun, 29 Mar 2026 04:01:07 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 08:16:54 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-iran-retaliation-sub-top-clqp/29int-iran-retaliation-sub-top-clqp-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html</link>
       <summary>The war with Iran escalated on Saturday as the Iran-allied Houthis joined the conflict and Israel bombarded Tehran with airstrikes.</summary>
-      <pubDate>Sat, 28 Mar 2026 23:16:01 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 07:58:36 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>Airstrikes batter a university and residential zones in Tehran.</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
       <summary />
-      <pubDate>Sun, 29 Mar 2026 04:28:07 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 07:58:16 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/27/multimedia/27israel-iran-front-by-front1-bzgk/27israel-iran-front-by-front1-bzgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Strikes on Iranian Industry Expand Blows to Civilian Economy</title>
-      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-strikes-infrastructure-industry.html</link>
-      <summary>After Israel said it would intensify attacks on Iran’s industrial infrastructure, major steel plants and other vital plants were struck.</summary>
-      <pubDate>Fri, 27 Mar 2026 22:22:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/27/world/27israel-iran-industrial-sites/27israel-iran-industrial-sites-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

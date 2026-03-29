@@ -2,38 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-29T10:03:15.566711</generated>
+  <generated>2026-03-29T12:03:09.092366</generated>
   <items>
     <item>
-      <title>U.S. Marines Arrive in Middle East, as Houthis Enter War</title>
-      <link>https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil</link>
-      <summary>A U.S. official said that earlier an Iranian strike at a military base in Saudi Arabia injured around two dozen U.S. troops, one of the most serious breaches of American defenses since the war began.</summary>
-      <pubDate>Sun, 29 Mar 2026 04:28:13 +0000</pubDate>
+      <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html</link>
+      <summary>A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.</summary>
+      <pubDate>Sun, 29 Mar 2026 08:16:54 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-promo-430pm-gzjf/28israel-iran-promo-430pm-gzjf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-iran-retaliation-sub-top-clqp/29int-iran-retaliation-sub-top-clqp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html</link>
-      <summary>Israel accused one of the reporters of being a Hezbollah operative. Lebanon’s president said they were journalists and condemned the killings.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:14:03 +0000</pubDate>
+      <title>Iran War Live Updates: Tehran Hit by Heavy Airstrikes as U.S. Marines Arrive in Middle East</title>
+      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil</link>
+      <summary>Airstrikes pummel residential areas and a university in Iran’s capital. Houthi forces in Yemen entered the widening conflict with a missile attack on Israel.</summary>
+      <pubDate>Sun, 29 Mar 2026 09:02:28 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-lebanon-journalists-2-htcw/28israel-iran-lebanon-journalists-2-htcw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Yemen’s Houthis Fire at Israel and Vow Further Attacks</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html</link>
-      <summary>There has long been concern that the Houthis, an Iran-backed militia, could disrupt shipping in the Red Sea if they entered the broader war.</summary>
-      <pubDate>Sat, 28 Mar 2026 18:06:29 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-houthis-01-mfhj/28israel-iran-houthis-01-mfhj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-twgl/29israel-iran-promo-twgl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Airstrikes batter a university and residential zones in Tehran.</title>
-      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
-      <summary />
-      <pubDate>Sun, 29 Mar 2026 04:28:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +71,46 @@
       </media>
     </item>
     <item>
-      <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html</link>
-      <summary>A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.</summary>
-      <pubDate>Sun, 29 Mar 2026 04:01:07 +0000</pubDate>
+      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
+      <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html</link>
+      <summary>The war with Iran escalated on Saturday as the Iran-allied Houthis joined the conflict and Israel bombarded Tehran with airstrikes.</summary>
+      <pubDate>Sun, 29 Mar 2026 07:58:36 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-iran-retaliation-sub-top-clqp/29int-iran-retaliation-sub-top-clqp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-israel-united-states-war-recap.html</link>
-      <summary>The war with Iran escalated on Saturday as the Iran-allied Houthis joined the conflict and Israel bombarded Tehran with airstrikes.</summary>
-      <pubDate>Sat, 28 Mar 2026 23:16:01 +0000</pubDate>
+      <title>Airstrikes batter a university and residential zones in Tehran.</title>
+      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
+      <summary />
+      <pubDate>Sun, 29 Mar 2026 07:58:16 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israeli Strike Kills 3 Journalists in Southern Lebanon, Officials Say</title>
+      <link>https://www.nytimes.com/2026/03/28/world/middleeast/lebanon-journalists-killed-israeli-strike.html</link>
+      <summary>Israel accused one of the reporters of being a Hezbollah operative. Lebanon’s president said they were journalists and condemned the killings.</summary>
+      <pubDate>Sat, 28 Mar 2026 19:14:03 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-lebanon-journalists-2-htcw/28israel-iran-lebanon-journalists-2-htcw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Yemen’s Houthis Fire at Israel and Vow Further Attacks</title>
+      <link>https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html</link>
+      <summary>There has long been concern that the Houthis, an Iran-backed militia, could disrupt shipping in the Red Sea if they entered the broader war.</summary>
+      <pubDate>Sat, 28 Mar 2026 18:06:29 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-houthis-01-mfhj/28israel-iran-houthis-01-mfhj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
