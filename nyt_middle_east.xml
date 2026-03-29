@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-29T18:03:37.938515</generated>
+  <generated>2026-03-29T20:05:03.118669</generated>
   <items>
+    <item>
+      <title>Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html</link>
+      <summary>Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.</summary>
+      <pubDate>Sun, 29 Mar 2026 16:47:48 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Why the Iran War May Force Countries to Rely Less on Natural Gas</title>
       <link>https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/27/world/27israel-iran-americans-injured-saudi-base/27israel-iran-americans-injured-saudi-base-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Friday</title>
-      <link>https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-middle-east-recap.html</link>
-      <summary>American officials sought to temper concerns of a possibly expanding military incursion after the Pentagon’s decision to deploy more troops to the Middle East.</summary>
-      <pubDate>Sat, 28 Mar 2026 00:02:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/27/multimedia/27israel-iran-front-by-front1-bzgk/27israel-iran-front-by-front1-bzgk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

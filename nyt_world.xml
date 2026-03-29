@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-29T18:03:36.873187</generated>
+  <generated>2026-03-29T20:05:02.682130</generated>
   <items>
     <item>
       <title>A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.</title>
@@ -19,10 +19,10 @@
       <title>Iran War Live Updates: Israel Strikes Tehran as Regional Diplomats Gather in Pakistan</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil</link>
       <summary>Israel said it launched a wave of strikes targeting infrastructure in Tehran and other areas, and Iran retaliated. Officials from Saudi Arabia, Egypt and Turkey were meeting in Pakistan in hopes of finding a way to end the war.</summary>
-      <pubDate>Sun, 29 Mar 2026 14:56:40 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 17:02:51 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-1030am-zvqw/29israel-iran-promo-1030am-zvqw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-promo-1pm-bhwz/29israel-iran-promo-1pm-bhwz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan Set to Host Top Regional Diplomats for Talks on Iran War</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-pakistan-diplomacy.html</link>
-      <summary>The foreign ministers of Saudi Arabia, Turkey and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.</summary>
-      <pubDate>Sat, 28 Mar 2026 14:21:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-pakistan-0001-pfch/28israel-iran-pakistan-0001-pfch-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,6 +56,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/27/multimedia/27int-gulf-crackdown-1-bfcv/27int-gulf-crackdown-1-bfcv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html</link>
+      <summary>Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.</summary>
+      <pubDate>Sun, 29 Mar 2026 17:02:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Yemen’s Houthis Fire at Israel and Vow Further Attacks</title>
-      <link>https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html</link>
-      <summary>There has long been concern that the Houthis, an Iran-backed militia, could disrupt shipping in the Red Sea if they entered the broader war.</summary>
-      <pubDate>Sat, 28 Mar 2026 18:06:29 +0000</pubDate>
+      <title>Pakistan Set to Host Top Regional Diplomats for Talks on Iran War</title>
+      <link>https://www.nytimes.com/2026/03/28/world/middleeast/iran-pakistan-diplomacy.html</link>
+      <summary>The foreign ministers of Saudi Arabia, Turkey and Egypt are expected in Islamabad on Sunday as the Pakistani government strives to find a diplomatic solution to the war.</summary>
+      <pubDate>Sat, 28 Mar 2026 14:21:47 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-houthis-01-mfhj/28israel-iran-houthis-01-mfhj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-pakistan-0001-pfch/28israel-iran-pakistan-0001-pfch-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
