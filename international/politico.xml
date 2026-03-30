@@ -2,8 +2,19 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-30T20:04:24.740255</generated>
+  <generated>2026-03-30T22:03:46.339287</generated>
   <items>
+    <item>
+      <title>Iran war makes things personal for veteran candidates</title>
+      <link>https://www.politico.com/news/2026/03/30/iran-midterms-veterans-00850440</link>
+      <summary>Dozens of military veterans running for Congress across the country have now adapted their campaign messaging to befit a nation at war.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:00:00 EST</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.politico.com/db/a8/fcf6d645475c94d68171453127f9/iran-protest-67724.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A month into Iran, the GOP’s political reality sinks in</title>
       <link>https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116</link>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign</title>
-      <link>https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791</link>
-      <summary>The ads became a sore spot within the White House over Kristi Noem.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:56:00 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/34/27/82a7eb8f43db9cce39987fddb3d5/house-homeland-security-60041.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Poll: The battle for MAHA that could sway the midterms</title>
-      <link>https://www.politico.com/news/2026/03/30/poll-maha-trump-kennedy-democrats-midterms-00846760</link>
-      <summary>A new POLITICO Poll finds cracks in the coalition that helped put HHS Secretary Robert F. Kennedy Jr. and President Donald Trump in office.</summary>
-      <pubDate>Mon, 30 Mar 2026 04:00:00 EST</pubDate>
+      <title>Army investigating video of Apache helicopter at Kid Rock’s Nashville home</title>
+      <link>https://www.politico.com/news/2026/03/30/army-kid-rock-helicopter-video-00850747</link>
+      <summary>The musician, a vocal supporter of President Donald Trump, posted a video of an Army helicopter flying low outside his residence Saturday.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:33:20 EST</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://static.politico.com/45/de/edbbc0ad4373a5e0edee9e78a7fd/maha-midterms-final.png</image>
+        <image>https://static.politico.com/23/2e/8aafe59f479dbaba6808d7691ddc/https-delivery-gettyimages.com/downloads/2248013055</image>
         <type>image/jpeg</type>
       </media>
     </item>

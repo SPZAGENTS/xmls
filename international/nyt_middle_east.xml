@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-30T20:04:26.452339</generated>
+  <generated>2026-03-30T22:03:48.534530</generated>
   <items>
+    <item>
+      <title>Iran Condemns Attacks on Its Universities, Warns of Retaliation</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/iran-universities-strikes.html</link>
+      <summary>After attacks on several Iranian campuses, Iranian forces warn they could target American universities in the region.</summary>
+      <pubDate>Mon, 30 Mar 2026 17:47:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/30vid-tehran-university1-36030-cover/30vid-tehran-university1-36030-cover-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Claims ‘Regime Change’ in Iran Is Already Complete</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html</link>
       <summary>President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Iran’s power structure appears firmly in control despite a month of U.S.-Israeli attacks.</summary>
-      <pubDate>Mon, 30 Mar 2026 15:59:18 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 17:41:25 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-trump-regime-change2-zmvf/30israel-iran-trump-regime-change2-zmvf-mediumSquareAt3X.jpg</image>
@@ -16,10 +27,10 @@
       </media>
     </item>
     <item>
-      <title>Israel Debates Law to Allow Hanging of Palestinians Convicted of Deadly Attacks</title>
+      <title>Israel Passes Law to Allow Hanging of Palestinians Convicted of Deadly Attacks</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
-      <summary>The law could apply to Jewish Israeli extremists, but experts say that will likely never happen.</summary>
-      <pubDate>Mon, 30 Mar 2026 16:38:42 +0000</pubDate>
+      <summary>The law was written in such a way that it is unlikely to ever apply to Jewish extremists.</summary>
+      <pubDate>Mon, 30 Mar 2026 18:43:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html</link>
       <summary>The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.</summary>
-      <pubDate>Mon, 30 Mar 2026 15:49:36 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 15:49:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/2026-03-28-sports-hall-sat-index/2026-03-28-sports-hall-sat-index-mediumSquareAt3X-v8.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why the Iran War May Force Countries to Rely Less on Natural Gas</title>
-      <link>https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html</link>
-      <summary>The U.S. and other exporters are poised for a windfall, but disruptions to Persian Gulf supplies are also pushing gas-buying countries to consider alternatives like coal, solar and nuclear energy.</summary>
-      <pubDate>Sun, 29 Mar 2026 09:00:54 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29biz-iran-natural-gas-hfkv/29biz-iran-natural-gas-hfkv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

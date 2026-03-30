@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-30T20:04:23.123434</generated>
+  <generated>2026-03-30T22:03:44.676967</generated>
   <items>
     <item>
       <title>Spain closes airspace to US aircraft involved in Iran war</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Zelensky says allies asked him to scale back attacks on Russian energy</title>
+      <link>https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Ukraine's president says partners asked if the attacks could be "reduced" as prices soar due to the Iran war.</summary>
+      <pubDate>Mon, 30 Mar 2026 17:53:51 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>How the US could try to seize Iran's Kharg Island</title>
-      <link>https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:54:47 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Myanmar junta chief Min Aung Hlaing nominated as president</title>
       <link>https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The military leader, who has been sanctioned by Western countries, is now certain to get the job.</summary>
@@ -56,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823e/live/a40e2430-2bf8-11f1-8c73-bf1bf582fe35.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How the US could try to seize Iran's Kharg Island</title>
+      <link>https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.</summary>
+      <pubDate>Mon, 30 Mar 2026 14:54:47 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Russian oil tanker reaches Cuba after Trump appears to loosen blockade</title>
-      <link>https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The tanker has reached Cuban waters just hours after Donald Trump said he had "no problem" with it.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:46:15 GMT</pubDate>
-      <priority>65</priority>
+      <title>Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman</title>
+      <link>https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.</summary>
+      <pubDate>Mon, 30 Mar 2026 18:01:03 GMT</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c3/live/519c96d0-2c18-11f1-a165-7f32552c9375.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/a1fee4e0-2c48-11f1-b979-37139b7cb8c6.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Russia expels British diplomat over spying allegations</title>
-      <link>https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A UK Foreign Office spokesman accused Russia of an "aggressive and co-ordinated campaign of harassment against British diplomats".</summary>
-      <pubDate>Mon, 30 Mar 2026 10:33:56 GMT</pubDate>
-      <priority>65</priority>
+      <title>Most Syrian refugees in Germany expected to return home in three years, Merz says</title>
+      <link>https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.</summary>
+      <pubDate>Mon, 30 Mar 2026 18:08:12 GMT</pubDate>
+      <priority>70</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e89/live/9a6bef20-2c1b-11f1-a4a0-8d864191ac73.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Kris Jenner's image spreads in Chinese social media good luck trend</title>
-      <link>https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity</summary>
-      <pubDate>Mon, 30 Mar 2026 12:59:23 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/faaf16e0-2c3a-11f1-9d83-af3423d2a1a1.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6330/live/571088e0-2c60-11f1-88c4-254a3d5fc979.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

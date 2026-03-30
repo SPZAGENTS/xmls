@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-30T20:04:31.820660</generated>
+  <generated>2026-03-30T22:03:54.338798</generated>
   <items>
     <item>
       <title>Trump is weighing all options on Iran's Kharg Island</title>
@@ -10,13 +10,6 @@
       <summary>President Trump said the U.S. could "take the oil in Iran" and that he was considering sending U.S. forces to seize Kharg Island's oil terminal.</summary>
       <pubDate>Mon, 30 Mar 2026 06:05:02 -0400</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Ilia Malinin rebounds from the Olympics to win his 3rd straight world championship</title>
-      <link>https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season</link>
-      <summary>Worlds marks the last competition of the 2025-2026 season. Skaters have some time to go on tour, rest up and learn new routines before the next season starts in July.</summary>
-      <pubDate>Mon, 30 Mar 2026 12:30:19 -0400</pubDate>
-      <priority>65</priority>
     </item>
     <item>
       <title>NASA is just days away from historic Artemis II moon launch</title>
@@ -47,18 +40,25 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>China's chatbot industry is fiercely competing for customers. Cue the freebies</title>
+      <title>As birthright citizenship goes to Supreme Court, here's how Americans feel about it</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5760983/birthright-citizenship-public-opinion-supreme-court-arguments</link>
+      <summary>The Supreme Court will hear arguments Wednesday on whether all children born in the United States can continue to automatically receive citizenship.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>China's AI chatbots are advanced and versatile — and begging for more users</title>
       <link>https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao</link>
       <summary>Chinese AI companies are focused less on being cutting edge and more on attracting customers. That means holiday promotions, and making chatbots useful in everyday life.</summary>
       <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
-      <title>As birthright citizenship goes to Supreme Court, here's how Americans feel about it</title>
-      <link>https://www.npr.org/2026/03/30/nx-s1-5760983/birthright-citizenship-public-opinion-supreme-court-arguments</link>
-      <summary>The Supreme Court will hear arguments Wednesday on whether all children born in the United States can continue to automatically receive citizenship.</summary>
-      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
+      <title>Figure skating season ends with redemption and heartbreak. What do fans watch next?</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season</link>
+      <summary>Worlds marks the last competition of the 2025-2026 season. Skaters have some time to go on tour, rest up and learn new routines before the next season starts in July.</summary>
+      <pubDate>Mon, 30 Mar 2026 12:30:19 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>He's the voice of romantasy audiobooks' biggest heartthrobs. He's never been busier</title>
