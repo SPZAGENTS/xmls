@@ -2,14 +2,14 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-30T06:02:05.264438</generated>
-  <total_articles>321</total_articles>
+  <generated>2026-03-30T08:05:11.068159</generated>
+  <total_articles>320</total_articles>
   <items>
     <item>
-      <title>Oil rises above $115 and Asia stocks slide as Iran war escalates</title>
+      <title>Oil rises above $115 and Asia shares slide as Iran war enters fifth week</title>
       <link>https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.</summary>
-      <pubDate>Mon, 30 Mar 2026 01:45:22 GMT</pubDate>
+      <pubDate>Mon, 30 Mar 2026 03:34:37 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
@@ -61,17 +61,6 @@
       </media>
     </item>
     <item>
-      <title>Iranian attacks across Gulf continue as major industrial sites hit</title>
-      <link>https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.</summary>
-      <pubDate>Sun, 29 Mar 2026 13:32:49 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d63e/live/88293d40-2b53-11f1-b0f8-33b27cc8c760.jpg</image>
-      </media>
-    </item>
-    <item>
       <title>Iran-backed Houthis join war with attack against Israel</title>
       <link>https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.</summary>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae2/live/71d50150-2ab8-11f1-ab33-637d871d691b.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Palestinian man killed as death toll from West Bank settler violence climbs</title>
+      <link>https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.</summary>
+      <pubDate>Fri, 27 Mar 2026 12:30:10 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/37c70070-29c9-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
   </items>

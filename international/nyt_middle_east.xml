@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-30T06:02:00.292349</generated>
+  <generated>2026-03-30T08:05:05.902975</generated>
   <items>
+    <item>
+      <title>New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html</link>
+      <summary>The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.</summary>
+      <pubDate>Mon, 30 Mar 2026 03:42:35 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/2026-03-28-sports-hall-sat-index/2026-03-28-sports-hall-sat-index-mediumSquareAt3X-v8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Sunday</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-israel-united-states-war-recap.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-front-by-front-hgtl/28israel-iran-front-by-front-hgtl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Airstrikes batter a university and residential zones in Tehran.</title>
-      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/airstrikes-university-tehran</link>
-      <summary />
-      <pubDate>Sun, 29 Mar 2026 07:58:16 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
