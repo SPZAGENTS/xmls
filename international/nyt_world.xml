@@ -2,24 +2,24 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-30T18:03:41.124136</generated>
+  <generated>2026-03-30T20:04:26.010850</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
-      <summary>President Trump warned that if a deal was not struck, the U.S. would respond by “completely obliterating” Iranian energy infrastructure targets.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:56:10 +0000</pubDate>
+      <summary>President Trump warned that if a deal was not struck, he would respond by “completely obliterating” Iranian energy infrastructure targets. Oil and stock markets wavered on the news.</summary>
+      <pubDate>Mon, 30 Mar 2026 16:59:12 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo-915am-zkgw/30israel-iran-promo-915am-zkgw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo-12pm-ctfp/30israel-iran-promo-12pm-ctfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Israel Debates Law to Hang Palestinians Convicted of Deadly Attacks</title>
+      <title>Israel Debates Law to Allow Hanging of Palestinians Convicted of Deadly Attacks</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
-      <summary>The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.</summary>
-      <pubDate>Mon, 30 Mar 2026 13:58:54 +0000</pubDate>
+      <summary>The law could apply to Jewish Israeli extremists, but experts say that will likely never happen.</summary>
+      <pubDate>Mon, 30 Mar 2026 16:38:42 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
@@ -63,7 +63,7 @@
       <title>Trump Claims ‘Regime Change’ in Iran Is Already Complete</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html</link>
       <summary>President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Iran’s power structure appears firmly in control despite a month of U.S.-Israeli attacks.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:05:23 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 15:59:18 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-trump-regime-change2-zmvf/30israel-iran-trump-regime-change2-zmvf-mediumSquareAt3X.jpg</image>
@@ -104,15 +104,11 @@
       </media>
     </item>
     <item>
-      <title>How Russia Weaponized the Cold Ukrainian Winter</title>
-      <link>https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html</link>
-      <summary>Inside one Kyiv neighborhood as it braved the harshest conditions since World War II.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:02:42 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/magazine/12mag-kyiv-1/12mag-kyiv-1-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
+      <title>Analysis shows where a new U.S. missile hit an Iranian sports hall and school.</title>
+      <link>https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/analysis-shows-where-a-new-us-missile-hit-an-iranian-sports-hall-and-school</link>
+      <summary />
+      <pubDate>Mon, 30 Mar 2026 15:15:36 +0000</pubDate>
+      <priority>85</priority>
     </item>
   </items>
 </content-feed>

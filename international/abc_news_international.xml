@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-30T18:03:45.529605</generated>
+  <generated>2026-03-30T20:04:30.430246</generated>
   <items>
+    <item>
+      <title>Activists in Haiti say at least 30 people are dead after a gang attacks a town again</title>
+      <link>https://abcnews.com/International/wireStory/activists-haiti-30-people-dead-after-gang-attacks-131544611</link>
+      <summary>Human rights activists in Haiti say at least 30 people are dead and dozens more are missing after a gang renewed its attack on a town in the country's central region</summary>
+      <pubDate>Mon, 30 Mar 2026 11:40:04 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training</title>
       <link>https://abcnews.com/International/wireStory/israeli-soldier-connecticut-killed-southern-lebanon-weeks-after-131527285</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_eb296eedd73b026bdf54a0059f6e2940_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US lawmakers express support for stalled Taiwan special defense budget</title>
-      <link>https://abcnews.com/International/wireStory/us-lawmakers-express-support-stalled-taiwan-special-defense-131540175</link>
-      <summary>U.S. lawmakers visiting Taiwan say the United States supports efforts by Taiwan's government to pass a $40 billion special defense budget that is being stalled in the opposition-controlled parliament</summary>
-      <pubDate>Mon, 30 Mar 2026 10:05:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_685b8cf5feef733a86b360325913e442_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
