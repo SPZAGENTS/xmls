@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-30T22:03:46.740970</generated>
+  <generated>2026-03-31T00:03:15.966348</generated>
   <items>
     <item>
       <title>Pentagon prepares for weeks of ground operations in Iran</title>
@@ -12,17 +12,10 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Iranian-backed Houthis in Yemen attack Israel for first time in war</title>
-      <link>https://www.washingtonpost.com/world/2026/03/28/iran-us-war-yemen-trump/</link>
-      <summary>The missile attack by the Houthis in Yemen marks an escalation of the war in the Middle East and may pose further risks to shipping in the region.</summary>
-      <pubDate>Sat, 28 Mar 2026 20:02:09 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Outrage grows over Israeli restrictions to Jerusalem sites during Holy Week</title>
       <link>https://www.washingtonpost.com/world/2026/03/30/easter-jerusalem-pizzaballa-holy-church-sepulchre/</link>
       <summary>In a rare about-face, the move by Israeli police to block Cardinal Pierbattista Pizzaballa from the holiest site in Christianity was reversed after criticism.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:13:07 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 20:37:12 +0000</pubDate>
       <priority>95</priority>
     </item>
     <item>
@@ -31,6 +24,13 @@
       <summary>The administration had threatened to punish countries that attempted to break the blockade, which was aimed at weakening the communist government.</summary>
       <pubDate>Mon, 30 Mar 2026 11:01:29 +0000</pubDate>
       <priority>95</priority>
+    </item>
+    <item>
+      <title>Israel suspends battalion that detained CNN crew in West Bank</title>
+      <link>https://www.washingtonpost.com/world/2026/03/30/israel-suspends-battalion-cnn/</link>
+      <summary>Reservists from the IDF’s ultra-Orthodox Netzah Yehuda unit held CNN journalists for two hours on Thursday.</summary>
+      <pubDate>Mon, 30 Mar 2026 20:46:25 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Israel targets Iran’s leaders with lethal expertise using new AI platform</title>

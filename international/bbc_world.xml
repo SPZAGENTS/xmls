@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-30T22:03:44.676967</generated>
+  <generated>2026-03-31T00:03:13.484722</generated>
   <items>
     <item>
       <title>Spain closes airspace to US aircraft involved in Iran war</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two Indonesian UN peacekeepers killed in explosion in Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.</summary>
+      <pubDate>Mon, 30 Mar 2026 19:14:12 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4af/live/2d554230-2c64-11f1-88c4-254a3d5fc979.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,21 +107,10 @@
       <title>Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman</title>
       <link>https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The Australian town has been in the spotlight since Dezi Freeman shot dead two police officers last year.</summary>
-      <pubDate>Mon, 30 Mar 2026 18:01:03 GMT</pubDate>
+      <pubDate>Mon, 30 Mar 2026 20:54:28 GMT</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/a1fee4e0-2c48-11f1-b979-37139b7cb8c6.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Most Syrian refugees in Germany expected to return home in three years, Merz says</title>
-      <link>https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.</summary>
-      <pubDate>Mon, 30 Mar 2026 18:08:12 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6330/live/571088e0-2c60-11f1-88c4-254a3d5fc979.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c534/live/990a1390-2c7b-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
