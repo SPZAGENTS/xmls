@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-30T08:05:02.105509</generated>
+  <generated>2026-03-30T10:04:29.558148</generated>
   <items>
     <item>
       <title>Jeremy Bowen: Trump is waging war based on instinct and it isn't working</title>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Two Australian states offer free public transport as war pushes up fuel prices</title>
-      <link>https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.</summary>
-      <pubDate>Sun, 29 Mar 2026 15:24:54 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb88/live/cc4aef60-2b7f-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Fuel tax halved and free public transport offered as war pushes up prices in Australia</title>
+      <link>https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Victoria and Tasmania are incentivising commuters not to drive in a bid to ease cost pressures.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:38:26 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb88/live/cc4aef60-2b7f-11f1-a79a-77e93010d956.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Shops and restaurants in Egypt told to close early as energy crisis deepens</title>
       <link>https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Retail and dining premises will have to shut by 21:00 each night for the next month to conserve power.</summary>
@@ -104,7 +104,7 @@
       </media>
     </item>
     <item>
-      <title>Renoir, Cézanne and Matisse paintings stolen in Italian job</title>
+      <title>Thieves steal Renoir, Cézanne and Matisse paintings in three-minute Italian heist</title>
       <link>https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.</summary>
       <pubDate>Sun, 29 Mar 2026 21:29:56 GMT</pubDate>
