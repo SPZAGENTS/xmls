@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-30T14:03:53.715230</generated>
+  <generated>2026-03-30T16:00:56.336053</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
-      <summary>President Trump characterized the move as a “sign of respect” even as fighting between Israel and Iran continued and the war dragged into its second month.</summary>
-      <pubDate>Mon, 30 Mar 2026 10:55:23 +0000</pubDate>
+      <summary>Two Chinese ships crossed the strait in an initial sign that Iran could be relaxing its de facto blockade, according to a ship-tracking platform. President Trump said that “great progress” was being made toward a deal, even as he threatened Tehran with intense attacks.</summary>
+      <pubDate>Mon, 30 Mar 2026 12:53:42 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/20israel-iran-oil-hormuz-promo/29israel-iran-oil-hormuz-bfqk-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Trump Claims ‘Regime Change’ in Iran Is Already Complete</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html</link>
+      <summary>President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Despite a month of U.S.-Israeli attacks, Iran’s government, led by clerics and the Revolutionary Guards, appears firmly in control.</summary>
+      <pubDate>Mon, 30 Mar 2026 11:50:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-trump-regime-change2-zmvf/30israel-iran-trump-regime-change2-zmvf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Israel to Vote on Death Penalty Targeting Palestinians Guilty of Lethal Attacks</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
       <summary>The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.</summary>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-dubai-life-promo-tmcf/29int-dubai-life-promo-tmcf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Russia Weaponized the Cold Ukrainian Winter</title>
-      <link>https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html</link>
-      <summary>Inside one Kyiv neighborhood as it braved the harshest conditions since World War II.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:02:42 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/magazine/12mag-kyiv-1/12mag-kyiv-1-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

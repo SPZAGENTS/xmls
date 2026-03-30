@@ -2,19 +2,8 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-30T14:03:59.753840</generated>
+  <generated>2026-03-30T16:01:01.771516</generated>
   <items>
-    <item>
-      <title>Remove VAT from energy bills for three years, Tories urge</title>
-      <link>https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There has been a renewed focus on energy costs since the outbreak of the war in Iran.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:57:53 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc26/live/23f93f50-2c02-11f1-b297-95b0a0a8331e.jpg</image>
-      </media>
-    </item>
     <item>
       <title>Iran-backed Houthis join war with attack against Israel</title>
       <link>https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,6 +101,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb6/live/f4f38980-29fa-11f1-934f-036468834728.png</image>
+      </media>
+    </item>
+    <item>
+      <title>Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?</title>
+      <link>https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.</summary>
+      <pubDate>Fri, 27 Mar 2026 13:17:22 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg</image>
       </media>
     </item>
   </items>
