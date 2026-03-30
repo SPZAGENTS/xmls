@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-31T00:03:25.533897</generated>
+  <generated>2026-03-31T02:04:20.985248</generated>
   <items>
     <item>
       <title>Iran's strike hurt up to 20 U.S. personnel and damaged 2 radar jets in Saudi Arabia</title>
@@ -47,11 +47,18 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Trump administration cuts turned rural towns into sitting ducks for disasters</title>
-      <link>https://www.npr.org/2026/03/30/nx-s1-5753765/fema-trump-extreme-weather-rural-pennsylvania</link>
-      <summary>The Trump administration has delayed billions of dollars for projects to protect Americans from floods, wildfires and hurricanes. Local leaders are increasingly anxious.</summary>
-      <pubDate>Mon, 30 Mar 2026 05:08:00 -0400</pubDate>
-      <priority>65</priority>
+      <title>BTS rampages back to the top of the charts</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5766451/bts-arirang-pop-charts</link>
+      <summary>The K-pop group has officially returned from its four-year hiatus bigger than ever. Based solely on first-week sales, there's only one artist who has done any better.</summary>
+      <pubDate>Mon, 30 Mar 2026 17:52:47 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>Epstein survivor responds to lawsuit over release of identifying information</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5766245/epstein-survivor-responds-to-lawsuit-over-release-of-identifying-information</link>
+      <summary>NPR's Scott Detrow speaks with Epstein survivor Danielle Bensky about a new class action lawsuit against the Justice Department and Google over the release of identifying information about victims.</summary>
+      <pubDate>Mon, 30 Mar 2026 17:34:27 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>U.S. could exempt oil industry from protecting Gulf animals, for 'national security'</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/03/30/nx-s1-5766046/ilia-malinin-world-champion-figure-skating-season</link>
       <summary>Worlds marks the last competition of the 2025-2026 season. Skaters have some time to go on tour, rest up and learn new routines before the next season starts in July.</summary>
       <pubDate>Mon, 30 Mar 2026 12:30:19 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>He's the voice of romantasy audiobooks' biggest heartthrobs. He's never been busier</title>
-      <link>https://www.npr.org/2026/03/30/nx-s1-5759214/romantasy-audiobooks-acotar-anthony-palmini</link>
-      <summary>From Rhysand in A Court of Thorns and Roses to Kingfisher in "Fae and Alchemy," Anthony Palmini is a voiceover star for romantasy's bestsellers — a book genre that continues to explode.</summary>
-      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

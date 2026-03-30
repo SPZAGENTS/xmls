@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-31T00:03:23.383191</generated>
+  <generated>2026-03-31T02:04:18.983719</generated>
   <items>
     <item>
       <title>Activists in Haiti say at least 30 people are dead after a gang attacks a town again</title>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>France probes possible Iran link after bomb attack foiled outside Bank of America</title>
-      <link>https://abcnews.com/International/wireStory/france-probes-iran-link-after-bomb-attack-foiled-131533709</link>
-      <summary>French authorities are investigating a suspected link to Iran after thwarting a bomb attack outside a Bank of American building in Paris on the weekend</summary>
-      <pubDate>Mon, 30 Mar 2026 07:42:22 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_a5a5bf12b6422ad7e658b6cbaad5bda8_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire'</title>
       <link>https://abcnews.com/International/wireStory/pakistan-host-us-iran-talks-iran-warns-us-131516189</link>
       <summary>Pakistan&amp;rsquo;s foreign minister says Islamabad will soon host talks between the U.S. and Iran</summary>
@@ -45,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_26caaef651be1cb4d482b29adaa2d600_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>France probes possible Iran link after bomb attack foiled outside Bank of America</title>
+      <link>https://abcnews.com/International/wireStory/france-probes-iran-link-after-bomb-attack-foiled-131533709</link>
+      <summary>French authorities are investigating a suspected link to Iran after thwarting a bomb attack outside a Bank of American building in Paris on the weekend</summary>
+      <pubDate>Mon, 30 Mar 2026 07:42:22 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_a5a5bf12b6422ad7e658b6cbaad5bda8_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
