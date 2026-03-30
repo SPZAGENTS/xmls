@@ -2,15 +2,8 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-03-30T16:00:55.258916</generated>
+  <generated>2026-03-30T18:03:39.874062</generated>
   <items>
-    <item>
-      <title>U.S. cedes key war mission to Israel — killing top Iranians</title>
-      <link>https://www.washingtonpost.com/world/2026/03/30/iran-israel-war-killings/</link>
-      <summary>The division of responsibility has left Israel to hunt and kill Iranian leaders ruthlessly, using an intelligence apparatus built up to assassinate with lethal proficiency.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:01:07 +0000</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Pentagon prepares for weeks of ground operations in Iran</title>
       <link>https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/</link>
@@ -28,8 +21,8 @@
     <item>
       <title>Outrage grows over Israeli restrictions to Jerusalem sites during Holy Week</title>
       <link>https://www.washingtonpost.com/world/2026/03/30/easter-jerusalem-pizzaballa-holy-church-sepulchre/</link>
-      <summary>The move by Israeli police to block Cardinal Pierbattista Pizzaballa from the holiest site in Christianity was reversed after drawing criticism</summary>
-      <pubDate>Mon, 30 Mar 2026 11:19:44 +0000</pubDate>
+      <summary>In a rare about-face, the move by Israeli police to block Cardinal Pierbattista Pizzaballa from the holiest site in Christianity was reversed after criticism.</summary>
+      <pubDate>Mon, 30 Mar 2026 14:13:07 +0000</pubDate>
       <priority>95</priority>
     </item>
     <item>
@@ -38,6 +31,13 @@
       <summary>The administration had threatened to punish countries that attempted to break the blockade, which was aimed at weakening the communist government.</summary>
       <pubDate>Mon, 30 Mar 2026 11:01:29 +0000</pubDate>
       <priority>95</priority>
+    </item>
+    <item>
+      <title>Israel targets Iran’s leaders with lethal expertise using new AI platform</title>
+      <link>https://www.washingtonpost.com/world/2026/03/30/iran-israel-war-killings/</link>
+      <summary>The division of responsibility has left Israel to hunt and kill Iranian leaders ruthlessly, using an intelligence apparatus built up to assassinate with lethal proficiency.</summary>
+      <pubDate>Mon, 30 Mar 2026 09:01:07 +0000</pubDate>
+      <priority>90</priority>
     </item>
   </items>
 </content-feed>

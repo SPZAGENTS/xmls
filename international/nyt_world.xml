@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-30T16:00:56.336053</generated>
+  <generated>2026-03-30T18:03:41.124136</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz</title>
+      <title>Iran War Live Updates: Trump Claims Progress in Talks to End War, Then Again Threatens Intense Attacks</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
-      <summary>Two Chinese ships crossed the strait in an initial sign that Iran could be relaxing its de facto blockade, according to a ship-tracking platform. President Trump said that “great progress” was being made toward a deal, even as he threatened Tehran with intense attacks.</summary>
-      <pubDate>Mon, 30 Mar 2026 12:53:42 +0000</pubDate>
+      <summary>President Trump warned that if a deal was not struck, the U.S. would respond by “completely obliterating” Iranian energy infrastructure targets.</summary>
+      <pubDate>Mon, 30 Mar 2026 14:56:10 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/20israel-iran-oil-hormuz-promo/29israel-iran-oil-hormuz-bfqk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo-915am-zkgw/30israel-iran-promo-915am-zkgw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Debates Law to Hang Palestinians Convicted of Deadly Attacks</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
+      <summary>The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:58:54 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar</title>
-      <link>https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html</link>
-      <summary>The measures in Victoria and Tasmania are temporary, but show how far and how intensely the oil shock from the war in Iran has spread.</summary>
-      <pubDate>Mon, 30 Mar 2026 07:26:02 +0000</pubDate>
+      <title>Australian Police Kill Man Suspected of Slaying 2 Officers</title>
+      <link>https://www.nytimes.com/2026/03/30/world/australia/australia-fugitive-police-killing.html</link>
+      <summary>The fugitive, who was trained in surviving in the bush, had been on the run since a deadly confrontation last August with officers who had come to execute a search warrant.</summary>
+      <pubDate>Mon, 30 Mar 2026 09:55:49 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-oz-free-transit-vhjf/30int-oz-free-transit-vhjf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30int-oz-fugitive/30int-oz-fugitive-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,57 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast</title>
-      <link>https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html</link>
-      <summary>The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:53:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump Claims ‘Regime Change’ in Iran Is Already Complete</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html</link>
-      <summary>President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Despite a month of U.S.-Israeli attacks, Iran’s government, led by clerics and the Revolutionary Guards, appears firmly in control.</summary>
-      <pubDate>Mon, 30 Mar 2026 11:50:08 +0000</pubDate>
+      <summary>President Trump suggested that Iran’s current leaders were “much more reasonable” as he sought to show progress in his war aims. Iran’s power structure appears firmly in control despite a month of U.S.-Israeli attacks.</summary>
+      <pubDate>Mon, 30 Mar 2026 14:05:23 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-trump-regime-change2-zmvf/30israel-iran-trump-regime-change2-zmvf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel to Vote on Death Penalty Targeting Palestinians Guilty of Lethal Attacks</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
-      <summary>The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.</summary>
-      <pubDate>Mon, 30 Mar 2026 10:26:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australian Police Kill Man Suspected of Slaying 2 Officers</title>
-      <link>https://www.nytimes.com/2026/03/30/world/australia/australia-fugitive-police-killing.html</link>
-      <summary>The fugitive, who was trained in surviving in the bush, had been on the run since a deadly confrontation last August with officers who had come to execute a search warrant.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:55:49 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/world/30int-oz-fugitive/30int-oz-fugitive-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight</title>
-      <link>https://www.nytimes.com/2026/03/28/world/europe/iran-kurds-iraq-fighters.html</link>
-      <summary>These groups’ dream has long been to establish federal autonomy, akin to that of their fellow Kurds in Iraq. With Iran’s leaders battered and degraded, they hope their moment has come.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:52:22 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28iran-kurdistan-01-tlkb/28iran-kurdistan-01-tlkb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +78,39 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-dubai-life-promo-tmcf/29int-dubai-life-promo-tmcf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two More U.N. Peacekeepers Are Killed in Southern Lebanon</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html</link>
+      <summary>The deaths came a day after the U.N. secretary-general, António Guterres, condemned the killing of another peacekeeper.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:22:43 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-peacekeepers-kbtw/30israel-iran-peacekeepers-kbtw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Threatens to Destroy Kharg Island and Other Key Iranian Energy Sites</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-iran-kharg-island.html</link>
+      <summary>President Trump said in a newspaper interview that the United States might try to invade the Persian Gulf island, which is Iran’s main oil export hub.</summary>
+      <pubDate>Mon, 30 Mar 2026 14:09:24 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30israel-iran-kharg-island/30israel-iran-kharg-island-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How Russia Weaponized the Cold Ukrainian Winter</title>
+      <link>https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html</link>
+      <summary>Inside one Kyiv neighborhood as it braved the harshest conditions since World War II.</summary>
+      <pubDate>Mon, 30 Mar 2026 09:02:42 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/magazine/12mag-kyiv-1/12mag-kyiv-1-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
