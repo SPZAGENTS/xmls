@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-30T10:04:37.020488</generated>
+  <generated>2026-03-30T12:03:12.071567</generated>
   <items>
     <item>
       <title>An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_26caaef651be1cb4d482b29adaa2d600_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Photos show daily life in Iraq's Basra near Iranian border as war slows trade</title>
+      <link>https://abcnews.com/International/wireStory/photos-show-daily-life-iraqs-basra-iranian-border-131520388</link>
+      <summary>In Basra, southern Iraq, daily routines go on under the weight of the Iran war, as workers unload cargo at Umm Qasr Port and operations slow at the nearby Zubair oil field. At the Shalamcheh border crossing, mostly Iranian travelers pass into Iraq under tighter security, offer...</summary>
+      <pubDate>Mon, 30 Mar 2026 03:29:34 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_b2cb79223cf24ee041e8513894425317_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Israeli police prevent Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church</title>
-      <link>https://abcnews.com/International/wireStory/israeli-police-prevent-catholic-leaders-celebrating-palm-sunday-131521201</link>
-      <summary>Israeli police have blocked top Catholic leaders from entering Jerusalem&amp;rsquo;s Church of the Holy Sepulchre for a private Palm Sunday Mass</summary>
-      <pubDate>Sun, 29 Mar 2026 13:23:47 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_906c8fa00e5e461760089260a18a2b98_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>North Korea conducts engine test for missile capable of targeting US mainland</title>
       <link>https://abcnews.com/International/wireStory/north-korea-conducts-engine-test-missile-capable-targeting-131514446</link>
       <summary>North Korean leader Kim Jong Un has observed a test of a high-thrust, solid-fuel engine for weapons</summary>
@@ -82,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>Pope Leo rejects claims that God justifies war during Palm Sunday Mass</title>
-      <link>https://abcnews.com/International/wireStory/pope-leo-xiv-rejects-claims-god-justifies-war-131517311</link>
-      <summary>Pope Leo XIV says God never justifies war and Jesus rejects violence</summary>
-      <pubDate>Sun, 29 Mar 2026 06:22:28 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_5749906e8c5d5303b1fb06e33607e062_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australian police fatally shoot a suspect in a 3-hour standoff after 2 officers killed</title>
+      <title>Australian police fatally shoot suspect in 3-hour standoff after 2 officers killed</title>
       <link>https://abcnews.com/International/wireStory/australian-police-fatally-shoot-suspect-3-hour-standoff-131532407</link>
       <summary>Australian police believe they have shot dead a suspect accused of killing two police officers and seriously wounding a third in a remote forest region seven months ago</summary>
-      <pubDate>Mon, 30 Mar 2026 02:29:58 -0400</pubDate>
+      <pubDate>Mon, 30 Mar 2026 03:53:58 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_21d43166099bfbf60d4939780e32e02a_4x3_384.jpg</image>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Egypt’s early closing order jolts Cairo’s night life as war-driven oil costs soar</title>
+      <link>https://abcnews.com/International/wireStory/egypts-early-closing-order-jolts-cairos-night-life-131524826</link>
+      <summary>Egypt is imposing early closing times for shops, cafes and restaurants to cut oil use as energy prices surge during the war</summary>
+      <pubDate>Sun, 29 Mar 2026 20:09:07 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_aa25e671bcb27bf03b401ae138f36dc9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
