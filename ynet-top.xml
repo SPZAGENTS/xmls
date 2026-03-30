@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-03-30T02:04:16.467232</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-03-30T04:03:39.157282</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>US professor living in Israel: what Americans see online about Iran war is 'not reality'</title>
       <link>https://www.ynetnews.com/article/rkjvrzlj11g</link>
-      <summary>Fulbright scholar Jennifer Murtazashvili, who moved with her family to Israel, says daily life remains largely normal despite rocket fire and that many viral videos abroad are fake or misleading</summary>
+      <description>Fulbright scholar Jennifer Murtazashvili, who moved with her family to Israel, says daily life remains largely normal despite rocket fire and that many viral videos abroad are fake or misleading</description>
       <pubDate>Sun, 29 Mar 2026 07:59:09 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Suspected Houthi drone intercepted over southern Israel, no injuries reported</title>
       <link>https://www.ynetnews.com/article/hkk4gkboze</link>
-      <summary>Since war began, about 850 Hezbollah terrorists were killed; Air Force struck Iran’s maritime industries HQ near Tehran and other sites to weaken weapons production and air defenses</summary>
+      <description>Since war began, about 850 Hezbollah terrorists were killed; Air Force struck Iran’s maritime industries HQ near Tehran and other sites to weaken weapons production and air defenses</description>
       <pubDate>Sat, 28 Mar 2026 19:28:50 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Netanyahu says ‘Hezbollah is not the same,’ orders expanded buffer zone in Lebanon</title>
       <link>https://www.ynetnews.com/article/bytkcausbl</link>
-      <summary>Prime minister tells northern leaders Israel is reshaping the battlefield while pushing deeper into Lebanon; officials demand decisive outcome as IDF reports drop in Hezbollah rocket fire</summary>
+      <description>Prime minister tells northern leaders Israel is reshaping the battlefield while pushing deeper into Lebanon; officials demand decisive outcome as IDF reports drop in Hezbollah rocket fire</description>
       <pubDate>Sun, 29 Mar 2026 20:30:09 +03:00</pubDate>
-      <priority>125</priority>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>ארה"ב תצטרך להחליט: האופציה המועדפת על ישראל - והלחץ לסיום המלחמה השבוע</title>
       <link>https://www.ynet.co.il/news/article/h1wjmypobe</link>
-      <summary>הסיכוי להסכמות בין ארה"ב לאיראן נמוך, אבל לקראת מו"מ אפשרי בפקיסטן האמריקנים עשויים להכריז על הפסקת אש תוך יומיים-שלושה - ובישראל פועלים על זמן שאול. בארה"ב נערכים שהשיחות יעלו על שרטון ומתכוננים גם לאופציה הקרקעית - המועדפת על ישראל, לצד פגיעה בתשתיות הנפט והגז. תמונת מצב</summary>
+      <description>הסיכוי להסכמות בין ארה"ב לאיראן נמוך, אבל לקראת מו"מ אפשרי בפקיסטן האמריקנים עשויים להכריז על הפסקת אש תוך יומיים-שלושה - ובישראל פועלים על זמן שאול. בארה"ב נערכים שהשיחות יעלו על שרטון ומתכוננים גם לאופציה הקרקעית - המועדפת על ישראל, לצד פגיעה בתשתיות הנפט והגז. תמונת מצב</description>
       <pubDate>Mon, 30 Mar 2026 01:01:53 +0300</pubDate>
-      <priority>115</priority>
-    </item>
-    <item>
-      <title>הובא למנוחות לוחם הצנחנים משה שנפל בלבנון: "הלב מרוסק, כולנו הערצנו אותו"</title>
-      <link>https://www.ynet.co.il/news/article/rkdp5xvjze</link>
-      <summary>סמל משה יצחק הכהן כץ, שהגיע לארץ מקונטיקט כדי לשרת בצה"ל ונהרג מירי רקטי של חיזבאללה, נטמן בהר הרצל. אחותו ספדה בדמעות: "הוא היה חייל גאה ויהודי גאה". האב המאמץ הרים כוסית ויסקי, וכמנהג חב"ד אמר בבכי "לחיים"</summary>
-      <pubDate>Sun, 29 Mar 2026 22:44:20 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-main-news</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>מי מתקרב מאחור?</title>
       <link>https://www.ynet.co.il/news/article/yokra14720633</link>
-      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <description>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</description>
       <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>חודש למלחמה: סיכום ביניים</title>
       <link>https://www.ynet.co.il/news/article/yokra14723147</link>
-      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <description>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</description>
       <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>קונספציה חדשה והרסנית בצפון</title>
       <link>https://www.ynet.co.il/news/article/b1r6gp7o11x</link>
-      <summary>רצועת הביטחון מבטיחה שלא תהיה הסדרה עם לבנון. שום ממשלה בלבנון לא תוכל לקבל מצב שבו דרום המדינה כבוש למעשה בידי ישראל. לבנון, בניגוד לעזה, היא מדינה שיש לה תמיכה בינלאומית; והרס סיטוני לשם הרס, כדאי להזכיר, הוא דבר הגובל בפשע מלחמה</summary>
+      <description>רצועת הביטחון מבטיחה שלא תהיה הסדרה עם לבנון. שום ממשלה בלבנון לא תוכל לקבל מצב שבו דרום המדינה כבוש למעשה בידי ישראל. לבנון, בניגוד לעזה, היא מדינה שיש לה תמיכה בינלאומית; והרס סיטוני לשם הרס, כדאי להזכיר, הוא דבר הגובל בפשע מלחמה</description>
       <pubDate>Fri, 27 Mar 2026 11:46:01 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-opinions</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>"לגור במקלט עם משפחות אחרות זה סיר לחץ. צריך הרבה הכלה והבנה"</title>
       <link>https://www.ynet.co.il/economy/article/itfch3l35</link>
-      <summary>יעל ודייגו הגיעו מדרום אמריקה, התאהבו במסיבת סלסה ובנו משפחה בישראל. הפגיעה בבניין שלהם בר"ג במלחמה הקודמת עם איראן גרמה להם לא לקחת סיכונים ולהעביר את החיים בתקופה הזאת למקלט. איך מנהלים חיי משפחה מתחת לאדמה? משפחת רינגל על הספה</summary>
+      <description>יעל ודייגו הגיעו מדרום אמריקה, התאהבו במסיבת סלסה ובנו משפחה בישראל. הפגיעה בבניין שלהם בר"ג במלחמה הקודמת עם איראן גרמה להם לא לקחת סיכונים ולהעביר את החיים בתקופה הזאת למקלט. איך מנהלים חיי משפחה מתחת לאדמה? משפחת רינגל על הספה</description>
       <pubDate>Sat, 28 Mar 2026 07:57:42 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-economy</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
+      <link>https://www.ynet.co.il/health/article/yokra14718159</link>
+      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0200</pubDate>
+      <source>ynet-health</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
