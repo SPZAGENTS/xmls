@@ -2,28 +2,21 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-03-30T12:03:13.547787</generated>
+  <generated>2026-03-30T14:03:59.750739</generated>
   <items>
-    <item>
-      <title>Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5765380/pope-leo-rejects-claims-god-justifies-war-palm-sunday</link>
-      <summary>Pope Leo XIV rejected claims that God justifies war and prayed especially for Christians in the Middle East during a Palm Sunday Mass before tens of thousands of people in St. Peter's Square.</summary>
-      <pubDate>Sun, 29 Mar 2026 08:48:25 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war</link>
-      <summary>A high-ranking Iranian official has accused the U.S. of planning a ground invasion as part of the next stage in the Iran war, and said such an intervention would be met with force.</summary>
-      <pubDate>Sun, 29 Mar 2026 06:08:38 -0400</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Trump says he has 'no problem' with Russian oil tanker bringing relief to Cuba despite blockade</title>
       <link>https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade</link>
       <summary>President Donald Trump said he has "no problem" with a Russian oil tanker off the coast of Cuba delivering relief to the island, which has been brought to its knees by a U.S. oil blockade.</summary>
       <pubDate>Mon, 30 Mar 2026 01:37:21 -0400</pubDate>
       <priority>95</priority>
+    </item>
+    <item>
+      <title>Trump weighing all options on Iran's Kharg island</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5765967/trump-iran-israel-lebanon-kharg-island-oil</link>
+      <summary>The president said the U.S. could "take the oil in Iran" and that he was considering sending U.S. forces to seize Kharg Island's oil terminal.</summary>
+      <pubDate>Mon, 30 Mar 2026 06:05:02 -0400</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Central Haitian town descends into fire and bloodshed from gang warfare</title>
@@ -33,6 +26,34 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>Philanthropy in science has little oversight. Jeffrey Epstein exploited that</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5753946/science-jeffrey-epstein-mit-exploit-donors-philanthropy</link>
+      <summary>A large share of science funding comes through philanthropy, with little legal or public scrutiny. This lack of oversight allowed Jeffrey Epstein to cultivate scientists and launder his reputation.</summary>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump administration cuts turned rural towns into sitting ducks for disasters</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5753765/fema-trump-extreme-weather-rural-pennsylvania</link>
+      <summary>The Trump administration has delayed billions of dollars for projects to protect Americans from floods, wildfires and hurricanes. Local leaders are increasingly anxious.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:08:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>China's chatbot industry is fiercely competing for customers. Cue the freebies</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5760939/china-chatbot-industry-doubao-qwen-yuanbao</link>
+      <summary>Chinese AI companies are focused less on being cutting edge and more on attracting customers. That means holiday promotions, and making chatbots useful in everyday life.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>As birthright citizenship goes to Supreme Court, here's how Americans feel about it</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5760983/birthright-citizenship-public-opinion-supreme-court-arguments</link>
+      <summary>The Supreme Court will hear arguments Wednesday on whether all children born in the United States can continue to automatically receive citizenship.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>The Final Four is set with UConn stunning Duke to join Illinois, Arizona and Michigan</title>
       <link>https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026</link>
       <summary>The Huskies beat Duke with a 3-pointer from the logo with 0.4 seconds left by Braylon Mullins, who grew up just outside of Indianapolis.</summary>
@@ -40,38 +61,17 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>How to navigate the maze of drug discounts to get the best price</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5724143/prescription-drug-shopping-deals</link>
-      <summary>In February, TrumpRx joined a growing list of websites consumers can tap for discounts on their medicines. Here's a cheat sheet for getting the best deal.</summary>
-      <pubDate>Sun, 29 Mar 2026 07:30:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Sunday Puzzle: Vowel Renewals</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5760937/sunday-puzzle-vowel-renewals</link>
-      <summary>NPR's Don Gonyea plays the puzzle with KXJZ radio listener Suzanne Palmer and Weekend Edition Puzzlemaster Will Shortz.</summary>
-      <pubDate>Sun, 29 Mar 2026 06:14:20 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>He wants children's bikes made in the U.S.A. — and tariffs against his rivals</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5746807/trump-bike-children-competition-tariffs-opposition</link>
-      <summary>Nearly all the bicycles sold in the United States are made overseas. An Indiana company set out to change that — and it's seeking a push from the Trump administration's tariffs.</summary>
-      <pubDate>Sun, 29 Mar 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>ICE officers could remain at airports after TSA workers are paid</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5765454/tsa-paychecks-ice-airports-tom-homan</link>
-      <summary>Even when Transportation Security Administration workers get paid, Immigration and Customs Enforcement agents could still be present at U.S. airports.</summary>
-      <pubDate>Sun, 29 Mar 2026 20:00:17 -0400</pubDate>
+      <title>He's the voice of romantasy audiobooks' biggest heartthrobs. He's never been busier</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5759214/romantasy-audiobooks-acotar-anthony-palmini</link>
+      <summary>From Rhysand in A Court of Thorns and Roses to Kingfisher in "Fae and Alchemy," Anthony Palmini is a voiceover star for romantasy's bestsellers — a book genre that continues to explode.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
     <item>
-      <title>Why a 98-year-old federal judge is asking the Supreme Court for her job back</title>
-      <link>https://www.npr.org/2026/03/29/nx-s1-5752172/oldest-federal-judge-us-supreme-court</link>
-      <summary>Pauline Newman's story shines a light on the aging judiciary, where judges are getting older and lifetime tenure is raising thorny questions about retirement.</summary>
-      <pubDate>Sun, 29 Mar 2026 06:00:00 -0400</pubDate>
+      <title>How much protein do you need? Here's how to personalize your optimal intake</title>
+      <link>https://www.npr.org/2026/03/30/nx-s1-5750384/protein-intake-grams-food-how-much</link>
+      <summary>The Dietary Guidelines released this year recommend higher levels of this essential nutrient. But protein needs are personal. Here's how to assess yours.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

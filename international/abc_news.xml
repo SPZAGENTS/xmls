@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-30T12:03:11.492719</generated>
+  <generated>2026-03-30T14:03:57.501268</generated>
   <items>
     <item>
       <title>Iran live updates: Trump touts 'big day' in Iran with 'many' strikes</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 30 Mar 2026 04:36:48 -0400</pubDate>
+      <pubDate>Mon, 30 Mar 2026 06:47:09 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Escaping the Middle East: Inside the rush to evacuate</title>
+      <link>https://abcnews.com/Politics/escaping-middle-east-inside-rush-evacuate/story?id=131525458</link>
+      <summary>ABC News spoke with senior State Department officials about working to bring their colleagues and countrymen back home during the outbreak of the war with Iran.</summary>
+      <pubDate>Mon, 30 Mar 2026 05:32:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/embassy-doha-20260329-gty-jh_1774838982629_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260329_abc_social_helping_bees_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>TSA officers still calling out sick after Trump's directive to pay them</title>
-      <link>https://abcnews.com/US/tsa-officers-calling-sick-after-trumps-directive-pay/story?id=131524280</link>
-      <summary>Some of the nation's airports are still seeing long wait lines as Transportation Security Administration officers continued to call out sick over the weekend.</summary>
-      <pubDate>Sun, 29 Mar 2026 18:08:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/2268615201_1774639649405_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-30T12:03:07.863667</generated>
+  <generated>2026-03-30T14:03:53.715230</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Says Iran to Allow More Oil Ships Through Strait of Hormuz</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
       <summary>President Trump characterized the move as a “sign of respect” even as fighting between Israel and Iran continued and the war dragged into its second month.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:02:20 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 10:55:23 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/20israel-iran-oil-hormuz-promo/29israel-iran-oil-hormuz-bfqk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Myanmar’s Military Leader Moves One Step Closer to Becoming President</title>
+      <link>https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html</link>
+      <summary>Senior Gen. Min Aung Hlaing stepped down as commander in chief and is expected to be installed as the next civilian leader of the country by its rubber-stamp Parliament.</summary>
+      <pubDate>Mon, 30 Mar 2026 08:53:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-myanmar-ruler-ghwf/30int-myanmar-ruler-ghwf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,35 +60,24 @@
       </media>
     </item>
     <item>
-      <title>Myanmar’s Military Leader Moves One Step Closer to Becoming President</title>
-      <link>https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html</link>
-      <summary>Senior Gen. Min Aung Hlaing stepped down as commander in chief and is expected to be installed as the next civilian leader of the country by its rubber-stamp Parliament.</summary>
-      <pubDate>Mon, 30 Mar 2026 08:53:08 +0000</pubDate>
+      <title>Israel to Vote on Death Penalty Targeting Palestinians Guilty of Lethal Attacks</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
+      <summary>The bill is broadly popular and expected to pass. Critics say it would strip away many of the safeguards intended to preserve due process, including the possibility of a pardon.</summary>
+      <pubDate>Mon, 30 Mar 2026 10:26:03 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-myanmar-ruler-ghwf/30int-myanmar-ruler-ghwf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html</link>
-      <summary>The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.</summary>
-      <pubDate>Mon, 30 Mar 2026 03:42:35 +0000</pubDate>
+      <title>Australian Police Kill Man Suspected of Slaying 2 Officers</title>
+      <link>https://www.nytimes.com/2026/03/30/world/australia/australia-fugitive-police-killing.html</link>
+      <summary>The fugitive, who was trained in surviving in the bush, had been on the run since a deadly confrontation last August with officers who had come to execute a search warrant.</summary>
+      <pubDate>Mon, 30 Mar 2026 09:55:49 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/2026-03-28-sports-hall-sat-index/2026-03-28-sports-hall-sat-index-mediumSquareAt3X-v8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-israel-united-states-war-recap.html</link>
-      <summary>Diplomats from around the region met in Pakistan, and the U.S.-Israeli bombardment hit a southern Iranian port, killing at least five people, Iranian state media said.</summary>
-      <pubDate>Mon, 30 Mar 2026 02:19:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-front-by-front-jtbz/29israel-iran-front-by-front-jtbz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30int-oz-fugitive/30int-oz-fugitive-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Trump Says Iran Agreed to Allow 20 More Ships of Oil Through Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/trump-iran-hormuz-ships-oil.html</link>
-      <summary>The president, speaking to reporters on Air Force One, cast the permission as a “sign of respect.” He also asserted that the United States had already achieved “regime change” in Iran.</summary>
-      <pubDate>Mon, 30 Mar 2026 05:09:05 +0000</pubDate>
+      <title>How Russia Weaponized the Cold Ukrainian Winter</title>
+      <link>https://www.nytimes.com/2026/03/30/magazine/ukraine-kyiv-winter-cold-russia-war.html</link>
+      <summary>Inside one Kyiv neighborhood as it braved the harshest conditions since World War II.</summary>
+      <pubDate>Mon, 30 Mar 2026 09:02:42 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30-iran-war-trump-israel-oil-header-jvtb/30-iran-war-trump-israel-oil-header-jvtb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/12/magazine/12mag-kyiv-1/12mag-kyiv-1-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
