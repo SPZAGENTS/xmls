@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-30T02:03:16.416319</generated>
+  <generated>2026-03-30T04:03:00.541244</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
+      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-israel-united-states-war-recap.html</link>
+      <summary>Diplomats from around the region met in Pakistan, and the U.S.-Israeli bombardment hit a southern Iranian port, killing at least five people, Iranian state media said.</summary>
+      <pubDate>Mon, 30 Mar 2026 00:31:28 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-front-by-front-jtbz/29israel-iran-front-by-front-jtbz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/catholic-church-jerusalem.html</link>
       <summary>Israeli police stopped clergymen from celebrating the Palm Sunday Mass at the Church of the Holy Sepulchre “for the first time in centuries,” church officials said.</summary>
-      <pubDate>Sun, 29 Mar 2026 22:02:28 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 00:36:26 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-palm-sunday-vjlp/29israel-iran-palm-sunday-vjlp-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.</title>
       <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake</link>
       <summary>The</summary>
-      <pubDate>Sun, 29 Mar 2026 19:36:27 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 00:22:43 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-idf-photo-PROMO-qmlv/29israel-iran-idf-photo-PROMO-qmlv-mediumSquareAt3X.jpg</image>
@@ -52,7 +63,7 @@
       <title>Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike</title>
       <link>https://www.nytimes.com/2026/03/29/world/middleeast/funerals-lebanese-killed-israeli-strike.html</link>
       <summary>Israel said one of those killed was a member of Hezbollah’s military wing “disguised as a journalist.” Lebanon’s president said all three were journalists and condemned the killings.</summary>
-      <pubDate>Sun, 29 Mar 2026 19:44:58 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 19:44:59 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-funeral-promo-vpch/29israel-iran-funeral-promo-vpch-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/28/multimedia/28israel-iran-tehran-attacks-thmp/28israel-iran-tehran-attacks-thmp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine Finalizes Air Defense Deals With Gulf Nations Amid War in Mideast</title>
-      <link>https://www.nytimes.com/2026/03/28/world/europe/ukraine-air-defense-deal-qatar-saudi-arabia.html</link>
-      <summary>The Ukrainian president visited the Middle East, where he sought to shift his country from a recipient of military aid to a supplier.</summary>
-      <pubDate>Sat, 28 Mar 2026 19:53:21 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/28/multimedia/28int-ukraine-zelensky-jvbw/28int-ukraine-zelensky-jvbw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
