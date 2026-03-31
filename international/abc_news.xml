@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-31T10:03:45.476833</generated>
+  <generated>2026-03-31T12:03:24.532454</generated>
   <items>
     <item>
-      <title>Iran live updates: NATO intercepts Iranian missiles in Turkish airspace</title>
+      <title>Iran live updates: Israel, Gulf states report new Iranian strikes</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 31 Mar 2026 02:43:03 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 04:21:50 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran-18-rt-gmh-260326_1774542636111_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gas prices soar past $4 on average for a gallon of regular in US, highest since 2022</title>
+      <link>https://abcnews.com/Business/wireStory/gas-prices-soar-past-4-average-gallon-regular-131566500</link>
+      <summary>U.S. gas prices have jumped past an average of $4 a gallon for the first time since 2022 as fuel prices continue to soar worldwide amid the Iran war</summary>
+      <pubDate>Tue, 31 Mar 2026 04:30:54 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_de8b7ccea254a1585cab86f336db57a6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,28 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Florida Gov. DeSantis signs bill to rename Palm Beach airport after Trump</title>
-      <link>https://abcnews.com/Politics/florida-gov-desantis-signs-bill-rename-palm-beach/story?id=131557754</link>
-      <summary>Florida Gov. Ron DeSantis signed a bill Monday renaming Palm Beach International Airport to the President Donald J. Trump International Airport.</summary>
-      <pubDate>Mon, 30 Mar 2026 20:48:43 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/trump-desantis-20260330-ap-jh_1774913868860_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Eric Dane's final TV performance teased in new 'Euphoria' trailer</title>
-      <link>https://abcnews.com/GMA/Culture/eric-danes-final-tv-performance-euphoria-trailer/story?id=131553742</link>
-      <summary>HBO released the second trailer for the third season of "Euphoria" on Monday, which features Eric Dane, Zendaya, Jacob Elordi and more.</summary>
-      <pubDate>Mon, 30 Mar 2026 17:35:57 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/dane-ht-er-260330_1774904001843_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Chesney the kangaroo found after 3 day search</title>
       <link>https://abcnews.com/video/131546813/</link>
       <summary>ABC News' Danny New reports on Chesney the kangaroo's leap out of a petting zoo, where he scaled an eight foot fence after two hunting dogs entered the property.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/chesney_kangaroo_260330_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Barbie Dream Fest convention leaves many fans underwhelmed</title>
+      <link>https://abcnews.com/video/131536955/</link>
+      <summary>Some Barbie fans paid nearly $500 for a weekend “Dream Pass” that promised an 80s roller rink, a Barbie Dreamhouse photo op and more, but some fans said it wasn’t quite the dream they hoped for.</summary>
+      <pubDate>Mon, 30 Mar 2026 10:03:49 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260330_gma_barbie3_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

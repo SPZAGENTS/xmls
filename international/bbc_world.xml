@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-31T10:03:36.816387</generated>
+  <generated>2026-03-31T12:03:15.736595</generated>
   <items>
     <item>
       <title>Spain closes airspace to US aircraft involved in Iran war</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>48-hour curfew imposed after attack on bar in Nigerian city</title>
-      <link>https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.</summary>
-      <pubDate>Mon, 30 Mar 2026 16:44:28 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/3c5c3dd0-2c2b-11f1-8768-1105331460e6.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Myanmar junta chief Min Aung Hlaing nominated as president</title>
       <link>https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The military leader, who has been sanctioned by Western countries, is now certain to get the job.</summary>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6330/live/571088e0-2c60-11f1-88c4-254a3d5fc979.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Eurovision Song Contest launches first-ever Asia edition</title>
+      <link>https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Broadcasters from 10 countries, including South Korea and the Philippines, will be taking part.</summary>
+      <pubDate>Tue, 31 Mar 2026 06:26:19 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d17/live/68da7800-2cca-11f1-9585-1177e44a7ea1.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-31T10:03:40.628132</generated>
+  <generated>2026-03-31T12:03:19.408176</generated>
   <items>
     <item>
       <title>Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
       <summary>The vessel caught fire and sustained damage, its owner said on Tuesday, adding that there was the potential for an oil spill in surrounding waters. On Monday, President Trump warned Iran that without a deal he would order attacks on infrastructure targets.</summary>
-      <pubDate>Tue, 31 Mar 2026 06:34:21 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 07:45:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo830p-vwtf/30israel-iran-promo830p-vwtf-mediumSquareAt3X.jpg</image>
@@ -19,7 +19,7 @@
       <title>Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader</title>
       <link>https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html</link>
       <summary>As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.</summary>
-      <pubDate>Tue, 31 Mar 2026 04:01:06 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:30:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-uk-us-iran-01-tgph/31int-uk-us-iran-01-tgph-mediumSquareAt3X.jpg</image>
@@ -78,17 +78,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Palm Sunday Attack in Nigeria Leaves at Least 12 Dead</title>
-      <link>https://www.nytimes.com/2026/03/30/world/africa/palm-sunday-attack-nigeria-dead.html</link>
-      <summary>No one has claimed responsibility for the killings in the mostly Christian city of Jos, and the police have yet to arrest the gunmen.</summary>
-      <pubDate>Mon, 30 Mar 2026 21:23:32 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-nigeria-attacks-1-kwbq/30int-nigeria-attacks-1-kwbq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Can the ‘Dubai Dream’ Survive the War? Residents Say Life Goes On.</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/dubai-dream-war-iran.html</link>
       <summary>The Emirates’ largest city pitched itself to foreign workers and tourists as a sun-soaked safe haven in a volatile region. War has challenged that image.</summary>
@@ -107,6 +96,17 @@
       <priority>75</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-westbank-battalion-wgjh/30israel-iran-westbank-battalion-wgjh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kuwaiti Oil Tanker Set Ablaze After Attack Off the Coast of Dubai</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/kuwait-oil-tanker-iran-drone.html</link>
+      <summary>The attack damaged the hull, the owner of the tanker said, which could cause an oil spill.</summary>
+      <pubDate>Tue, 31 Mar 2026 01:42:08 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30israel-iran-kuwait-tanker1/30israel-iran-kuwait-tanker1-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

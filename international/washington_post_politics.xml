@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-03-31T10:03:39.980376</generated>
+  <generated>2026-03-31T12:03:18.760077</generated>
   <items>
     <item>
       <title>Pentagon prepares for weeks of ground operations in Iran</title>
@@ -40,9 +40,16 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Trump unveils renderings of planned presidential library tower</title>
+      <title>This 5-month-old was born on U.S. soil. She may never be a citizen.</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/31/birthright-citizenship-supreme-court-trump/</link>
+      <summary>The Supreme Court hears arguments Wednesday in a case that could determine whether a Florida child, and thousands like her, have a country to call home.</summary>
+      <pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump plans presidential library skyscraper with two gold statues of himself</title>
       <link>https://www.washingtonpost.com/politics/2026/03/30/trump-library-video/</link>
-      <summary>The president and his son Eric shared images of a towering skyscraper that would be located in downtown Miami.</summary>
+      <summary>The president and his son Eric shared images of a tower that appeared to be about 50 stories tall and would rise over downtown Miami.</summary>
       <pubDate>Tue, 31 Mar 2026 02:50:30 +0000</pubDate>
       <priority>65</priority>
     </item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/</link>
       <summary>An Army official said “appropriate action” will be taken if the probe reveals violations of safety standards or other regulations.</summary>
       <pubDate>Mon, 30 Mar 2026 18:59:56 +0000</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Supreme Court won’t reconsider ‘Tiger King’ murder-for-hire conviction</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/30/supreme-court-tiger-king-appeal/</link>
-      <summary>The Supreme Court declined to review the murder-for-hire conviction of Joseph Maldonado-Passage, the “Tiger King,” who gained notoriety from a 2020 documentary.</summary>
-      <pubDate>Mon, 30 Mar 2026 16:50:54 +0000</pubDate>
       <priority>50</priority>
     </item>
   </items>
