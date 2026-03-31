@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-01T00:01:10.150161</generated>
+  <generated>2026-04-01T02:01:03.698095</generated>
   <items>
     <item>
       <title>Trump touts talks with hardline Iranian leader, but says 'we know where he lives'</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260330_1774875235917_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Gas prices top $4 a gallon as Iran war triggers global oil shock</title>
-      <link>https://abcnews.com/Business/gas-prices-top-4-gallon-iran-war-triggers/story?id=131359225</link>
-      <summary>Fuel costs last exceeded $4 a gallon in 2022, AAA data showed.</summary>
-      <pubDate>Tue, 31 Mar 2026 08:31:34 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Business/gas-station-gty-jt-260324_1774372956908_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: How to get motivated to move your body after a long work week</title>
-      <link>https://abcnews.com/video/131506034/</link>
-      <summary>Founder of "Adonis" Bobby Westside joins ABC News Live with simple ways to fit a workout into a very busy schedule.</summary>
-      <pubDate>Sat, 28 Mar 2026 13:54:27 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Lifestyle/260326_abcnl_12p_saturday_stretch_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -82,13 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Federal judge orders halt to White House ballroom construction</title>
-      <link>https://abcnews.com/Politics/federal-judge-orders-halt-white-house-ballroom-construction/story?id=131587116</link>
-      <summary>The judge said Trump can't build it without authorization from Congress.</summary>
-      <pubDate>Tue, 31 Mar 2026 15:16:15 -0400</pubDate>
-      <priority>75</priority>
+      <title>Administration must restore legal status for thousands of immigrants, judge rules</title>
+      <link>https://abcnews.com/US/administration-restore-legal-status-thousands-immigrants-judge-rules/story?id=131592574</link>
+      <summary>The Trump administration must restore the legal status of potentially hundreds of thousands of immigrants, a federal judge ruled Tuesday.</summary>
+      <pubDate>Tue, 31 Mar 2026 18:35:34 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-2-ap-gmh-260330_1774874903013_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/CBP-gty-er-260331_1774995029676_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
+      <link>https://abcnews.com/video/131569036/</link>
+      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
+      <pubDate>Tue, 31 Mar 2026 09:54:26 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: 'The Devil Wears Prada 2' press tour kicks off</title>
+      <link>https://abcnews.com/video/131571467/</link>
+      <summary>Meryl Streep and Anne Hathaway kicked off the press tour for the sequel with a stop at the Frida Kahlo Museum in Mexico City.</summary>
+      <pubDate>Tue, 31 Mar 2026 10:59:15 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260331_gma_pop1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
