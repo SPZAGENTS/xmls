@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-31T12:03:19.987500</generated>
+  <generated>2026-03-31T14:04:14.771018</generated>
   <items>
+    <item>
+      <title>Trump Faces a Decision on Whether to Start a Ground War in Iran</title>
+      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-faces-a-decision-on-whether-to-start-a-ground-war-in-iran.html</link>
+      <summary>The president wants a negotiation, but the Iranians say they are refusing until a cease-fire is declared. And while Marines and the 82nd Airborne Division offer new leverage, the risks escalate quickly.</summary>
+      <pubDate>Tue, 31 Mar 2026 09:25:03 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-prexy-assess-top-cplw/31dc-prexy-assess-top-cplw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader</title>
       <link>https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html</link>
       <summary>As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.</summary>
-      <pubDate>Tue, 31 Mar 2026 08:30:15 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:30:16 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-uk-us-iran-01-tgph/31int-uk-us-iran-01-tgph-mediumSquareAt3X.jpg</image>
@@ -78,6 +89,17 @@
       </media>
     </item>
     <item>
+      <title>Kuwaiti Oil Tanker Set Ablaze After Attack Off the Coast of Dubai</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/kuwait-oil-tanker-iran-drone.html</link>
+      <summary>The attack damaged the hull, the tanker's owner said. No oil spill was detected, according to the authorities in the United Arab Emirates.</summary>
+      <pubDate>Tue, 31 Mar 2026 09:47:22 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30israel-iran-kuwait-tanker1/30israel-iran-kuwait-tanker1-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say</title>
       <link>https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html</link>
       <summary>As leaders are killed and replaced, Iranian negotiators may not know what their government is willing to concede in any negotiations.</summary>
@@ -85,28 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30dc-intel-01-mhtc/30dc-intel-01-mhtc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Zigzags on Iran, Claiming ‘Great Progress’ but Making Threats</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-iran-threats-kharg-island.html</link>
-      <summary>President Trump threatened to hit vital infrastructure in Iran if the Strait of Hormuz was not reopened, but he also said that “regime change” had already been achieved.</summary>
-      <pubDate>Mon, 30 Mar 2026 23:43:13 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-iran-leadall-phzm/30int-iran-leadall-phzm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Two More U.N. Peacekeepers Are Killed in Southern Lebanon</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html</link>
-      <summary>The deaths came a day after the U.N. secretary-general, António Guterres, condemned the killing of another peacekeeper.</summary>
-      <pubDate>Mon, 30 Mar 2026 22:04:39 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-peacekeepers-kbtw/30israel-iran-peacekeepers-kbtw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
