@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-31T16:00:58.768918</generated>
+  <generated>2026-03-31T20:00:55.281028</generated>
   <items>
     <item>
-      <title>Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats</title>
-      <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
-      <summary>The vessel caught fire and sustained damage, its owner said on Tuesday, adding that there was the potential for an oil spill in surrounding waters. On Monday, President Trump warned Iran that without a deal he would order attacks on infrastructure targets.</summary>
-      <pubDate>Tue, 31 Mar 2026 12:45:23 +0000</pubDate>
+      <title>Iran War Live Updates: B-52s Start Flying Missions Over Iran, Pentagon Says</title>
+      <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump</link>
+      <summary>U.S. bombers have free rein for the first time in the war, even though Defense Secretary Pete Hegseth said that Iran still retains the ability to launch missiles after a month of U.S.-Israeli attacks.</summary>
+      <pubDate>Tue, 31 Mar 2026 16:42:55 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo830p-vwtf/30israel-iran-promo830p-vwtf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-promo-1030am/31israel-iran-promo-1030am-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,10 +27,21 @@
       </media>
     </item>
     <item>
-      <title>Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader</title>
+      <title>King Charles to Visit U.S. as Tensions Rise Between Trump and Britain</title>
+      <link>https://www.nytimes.com/2026/03/31/world/europe/king-charles-state-visit-trump.html</link>
+      <summary>President Trump has fired criticism at America’s longtime ally over the war in Iran, but there are hopes that the royal visit will help shore up relations.</summary>
+      <pubDate>Tue, 31 Mar 2026 14:54:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/world/31int-uk-royals-trump-1/31int-uk-royals-trump-1-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How the U.K.’s Leader Decides Which U.S. Bombers to Let Fly Against Iran</title>
       <link>https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html</link>
       <summary>As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.</summary>
-      <pubDate>Tue, 31 Mar 2026 08:30:16 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:53:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-uk-us-iran-01-tgph/31int-uk-us-iran-01-tgph-mediumSquareAt3X.jpg</image>
@@ -41,7 +52,7 @@
       <title>Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
       <summary>Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.</summary>
-      <pubDate>Tue, 31 Mar 2026 01:10:58 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 01:10:59 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
@@ -49,24 +60,35 @@
       </media>
     </item>
     <item>
-      <title>Trump Faces a Decision on Whether to Start a Ground War in Iran</title>
-      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-faces-a-decision-on-whether-to-start-a-ground-war-in-iran.html</link>
-      <summary>The president wants a negotiation, but the Iranians say they are refusing until a cease-fire is declared. And while Marines and the 82nd Airborne Division offer new leverage, the risks escalate quickly.</summary>
-      <pubDate>Tue, 31 Mar 2026 11:42:54 +0000</pubDate>
+      <title>From Oil to Food, the Iran War Is Squeezing the Global Economy</title>
+      <link>https://www.nytimes.com/2026/03/31/world/middleeast/oil-energy-inflation-global-economy.html</link>
+      <summary>The effects of the war in Iran are squeezing consumers, businesses and governments around the world, raising the prices of many essential goods.</summary>
+      <pubDate>Tue, 31 Mar 2026 16:35:38 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-prexy-assess-top-cplw/31dc-prexy-assess-top-cplw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-global-econ-wrap-topart-kqhj/31israel-iran-global-econ-wrap-topart-kqhj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Can the ‘Dubai Dream’ Survive the War? Residents Say Life Goes On.</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/dubai-dream-war-iran.html</link>
-      <summary>The Emirates’ largest city pitched itself to foreign workers and tourists as a sun-soaked safe haven in a volatile region. War has challenged that image.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:01:33 +0000</pubDate>
-      <priority>90</priority>
+      <title>Arab World Faces ‘Profound’ Economic Crisis From Iran War, U.N. Agency Warns</title>
+      <link>https://www.nytimes.com/2026/03/31/world/middleeast/arab-countries-war-economic-impact.html</link>
+      <summary>An economic simulation warned that the region’s economy could lose more than $190 billion in just one month, and that Gulf states that have often bankrolled reconstruction efforts will be less able to help.</summary>
+      <pubDate>Tue, 31 Mar 2026 13:15:30 +0000</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29int-dubai-life-promo-tmcf/29int-dubai-life-promo-tmcf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-economic-impact-bqvt/31israel-iran-economic-impact-bqvt-mediumSquareAt3X-v2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Faces a Decision on Whether to Start a Ground War in Iran</title>
+      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-iran-ground-war.html</link>
+      <summary>The president wants a negotiation, but the Iranians say they are refusing until a cease-fire is declared. And while Marines and the 82nd Airborne Division offer new leverage, the risks escalate quickly.</summary>
+      <pubDate>Tue, 31 Mar 2026 13:02:00 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-prexy-assess-top-cplw/31dc-prexy-assess-top-cplw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,37 +104,11 @@
       </media>
     </item>
     <item>
-      <title>Kuwaiti Oil Tanker Set Ablaze After Attack Off the Coast of Dubai</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/kuwait-oil-tanker-iran-drone.html</link>
-      <summary>The attack damaged the hull, the tanker's owner said. No oil spill was detected, according to the authorities in the United Arab Emirates.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:47:22 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/world/30israel-iran-kuwait-tanker1/30israel-iran-kuwait-tanker1-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html</link>
-      <summary>While detaining a CNN crew, a soldier said that Israeli troops were motivated by “revenge” against Palestinians and that all of the West Bank was “for the Jews.”</summary>
-      <pubDate>Mon, 30 Mar 2026 12:08:05 +0000</pubDate>
+      <title>International Booker Prize Shortlist: 6 Novels With ‘Burning Humanity’</title>
+      <link>https://www.nytimes.com/2026/03/31/books/international-booker-prize-shortlist.html</link>
+      <summary>Books by Marie NDiaye, Daniel Kehlmann and Rene Karabash are among the shortlisted titles for the major award for fiction translated into English.</summary>
+      <pubDate>Tue, 31 Mar 2026 13:32:24 +0000</pubDate>
       <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-westbank-battalion-wgjh/30israel-iran-westbank-battalion-wgjh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Putin’s Internet Blackout: A Chaotic Drive to Cut Off Russians From the World</title>
-      <link>https://www.nytimes.com/2026/03/31/world/europe/russia-putin-telegram-internet.html</link>
-      <summary>With new outages and blockages, President Vladimir V. Putin is taking his boldest steps yet to control Russians’ communications.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:12:17 +0000</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/00int-russia-internet-06-wfjq/00int-russia-internet-06-wfjq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
