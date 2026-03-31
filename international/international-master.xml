@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-31T22:01:14.660256</generated>
-  <total_articles>328</total_articles>
+  <generated>2026-04-01T00:01:13.845048</generated>
+  <total_articles>330</total_articles>
   <items>
     <item>
       <title>Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ee/live/5d49ef60-2d0c-11f1-a79a-77e93010d956.png</image>
+      </media>
+    </item>
+    <item>
+      <title>Judge temporarily halts construction of Trump's White House ballroom</title>
+      <link>https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Republican-appointed judge ruled that Trump was the "steward" of the White House, but not the "owner".</summary>
+      <pubDate>Tue, 31 Mar 2026 20:21:19 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d3/live/9d15b4e0-2d38-11f1-8c7a-d7713554a96a.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd01/live/b7950160-2c69-11f1-95ce-9bb916c6cb06.png</image>
-      </media>
-    </item>
-    <item>
-      <title>Two Indonesian UN peacekeepers killed in explosion in Lebanon</title>
-      <link>https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Initial findings suggest a roadside explosion struck their convoy, the UN's peacekeeping chief says.</summary>
-      <pubDate>Tue, 31 Mar 2026 14:40:08 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4af/live/2d554230-2c64-11f1-88c4-254a3d5fc979.jpg</image>
       </media>
     </item>
   </items>

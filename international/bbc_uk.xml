@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-03-31T22:00:52.073421</generated>
+  <generated>2026-04-01T00:00:57.548811</generated>
   <items>
     <item>
       <title>Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ee/live/5d49ef60-2d0c-11f1-a79a-77e93010d956.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Judge temporarily halts construction of Trump's White House ballroom</title>
+      <link>https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Republican-appointed judge ruled that Trump was the "steward" of the White House, but not the "owner".</summary>
+      <pubDate>Tue, 31 Mar 2026 20:21:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d3/live/9d15b4e0-2d38-11f1-8c7a-d7713554a96a.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,10 +71,21 @@
       </media>
     </item>
     <item>
+      <title>Huge fires at Russian oil facilities following Ukraine strikes, satellite images show</title>
+      <link>https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Verify examines recent damage to three key Russian oil export facilities near the Baltic Sea.</summary>
+      <pubDate>Tue, 31 Mar 2026 10:09:25 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da6/live/00fc0a90-2cd5-11f1-a79a-77e93010d956.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>More UK troops to be sent to Middle East, defence secretary announces</title>
       <link>https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The UK government announces further air defence systems will be sent to countries in the region along with troops to operate them.</summary>
-      <pubDate>Tue, 31 Mar 2026 16:17:08 GMT</pubDate>
+      <pubDate>Tue, 31 Mar 2026 20:25:20 GMT</pubDate>
       <priority>85</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8451/live/1c2858e0-2d17-11f1-ba67-f7b8dbc6a466.jpg</image>
@@ -71,35 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Woman without a womb helps to deliver her own baby</title>
-      <link>https://www.bbc.com/news/articles/c9d4jxv2v83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Laura Folan, born with a rare condition, recalls her journey to motherhood thanks to surrogacy.</summary>
-      <pubDate>Tue, 31 Mar 2026 13:14:07 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b62/live/7c84ad90-2cec-11f1-9bc3-5f09adb18cec.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say</title>
       <link>https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The case was dropped in 2019 after the CPS deemed there was insufficient evidence to bring charges, police say.</summary>
-      <pubDate>Tue, 31 Mar 2026 15:03:44 GMT</pubDate>
+      <pubDate>Tue, 31 Mar 2026 19:56:59 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>British billionaire to donate £190m to Cambridge University</title>
-      <link>https://www.bbc.com/news/articles/c5y8gdwqklxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Hedge fund founder Chris Rokos said he wanted to "give something back" to the UK with the donation.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:36:45 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8202/live/33fc8180-2d17-11f1-ba67-f7b8dbc6a466.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

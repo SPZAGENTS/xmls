@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-31T22:01:11.324252</generated>
+  <generated>2026-04-01T00:01:10.150161</generated>
   <items>
     <item>
-      <title>Dow soars as Trump suggests Iran war may end without reopening Strait of Hormuz</title>
-      <link>https://abcnews.com/Business/dow-soars-950-points-after-trump-suggests-us/story?id=131582284</link>
-      <summary>Trump urged other countries to "go to the Strait, and just TAKE IT."</summary>
-      <pubDate>Tue, 31 Mar 2026 14:49:02 -0400</pubDate>
+      <title>Trump touts talks with hardline Iranian leader, but says 'we know where he lives'</title>
+      <link>https://abcnews.com/Politics/trump-touts-iran-talks-hardline-leader-mohammad-ghalibaf/story?id=131582258</link>
+      <summary>President Donald Trump spoke with ABC News' Jonathan Karl about the latest in the U.S.'s war with Iran, including who he's been in discussions with.</summary>
+      <pubDate>Tue, 31 Mar 2026 16:43:10 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/Business/stock-market-01-ap-jt-260331_1774978797874_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-7-ap-gmh-260330_1774875235917_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gas prices top $4 a gallon as Iran war triggers global oil shock</title>
+      <link>https://abcnews.com/Business/gas-prices-top-4-gallon-iran-war-triggers/story?id=131359225</link>
+      <summary>Fuel costs last exceeded $4 a gallon in 2022, AAA data showed.</summary>
+      <pubDate>Tue, 31 Mar 2026 08:31:34 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Business/gas-station-gty-jt-260324_1774372956908_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>DOJ told judge emails suggest Maxwell arranged women for Prince Andrew</title>
-      <link>https://abcnews.com/US/doj-told-judge-emails-suggested-maxwell-arranging-young/story?id=131566292</link>
-      <summary>Documents in the Epstein files show investigators had told a judge that emails suggested Ghislaine Maxwell was arranging young women to have sex with then Prince Andrew.</summary>
-      <pubDate>Tue, 31 Mar 2026 14:26:23 -0400</pubDate>
-      <priority>65</priority>
+      <title>Federal judge orders halt to White House ballroom construction</title>
+      <link>https://abcnews.com/Politics/federal-judge-orders-halt-white-house-ballroom-construction/story?id=131587116</link>
+      <summary>The judge said Trump can't build it without authorization from Congress.</summary>
+      <pubDate>Tue, 31 Mar 2026 15:16:15 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/maxwell-arrangements_1774940857420_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-2-ap-gmh-260330_1774874903013_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
-      <link>https://abcnews.com/video/131569036/</link>
-      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:54:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
