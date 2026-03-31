@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-31T02:03:06.506014</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-31T04:04:01.367841</generated>
   <items>
     <item>
-      <title>בנק ישראל הותיר את הריבית ללא שינוי וצופה האטה דרמטית בצריכה הפרטית</title>
-      <link>https://www.ynet.co.il/economy/article/r1kgrydobl</link>
-      <description>כפי שהעריכו רוב הכלכלנים, הוועדה המוניטרית לא הפחיתה את הריבית והותירה אותה על 4%, על רקע החשש מעליית מחירי הדלק וזינוק חד באינפלציה בעקבות המלחמה עם איראן. הבנק עדכן לרעה את התחזיות שלו: האטה משמעותית בצמיחה וגידול בגירעון הממשלתי</description>
-      <pubDate>Mon, 30 Mar 2026 16:00:51 +0300</pubDate>
-      <source>ynet-economy</source>
-      <priority-score>115</priority-score>
+      <title>Trump says response for Iran attacking Israel’s biggest oil refinery coming 'shortly'</title>
+      <link>https://www.ynetnews.com/article/bkvtvfoowl</link>
+      <summary>POTUS vows response as Iran widens strikes on regional energy infrastructure, including the Bazan refinery in Haifa Bay, says Washington would soon learn whether Iranian Parliament Speaker Ghalibaf was open to engagement</summary>
+      <pubDate>Mon, 30 Mar 2026 18:51:39 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
-      <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0200</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
+      <title>HRW says Iran’s cluster munition strikes on Israel may amount to war crimes</title>
+      <link>https://www.ynetnews.com/article/rk0mqwdiwl</link>
+      <summary>Human Rights Watch says Iran repeatedly used internationally banned cluster munitions in populated areas of Israel since Feb. 28, killing at least 4 civilians and endangering residents with unexploded submunitions that can remain hazardous for years</summary>
+      <pubDate>Mon, 30 Mar 2026 17:46:39 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>IDF names Sgt. Liran Ben Zion, 19, killed by anti-tank fire in Lebanon</title>
-      <link>https://www.ynetnews.com/article/syufepwjwe</link>
-      <description>Seven other soldiers wounded in separate incidents as Israeli forces push up to 10 km into southern Lebanon under heavy fire; military says Hezbollah continues launching rockets, drones and anti-tank missiles’</description>
-      <pubDate>Mon, 30 Mar 2026 12:58:38 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Combined barrage from Iran and Lebanon strikes central, northern Israel; Impact at Bazan oil refinery complex in Haifa area</title>
+      <link>https://www.ynetnews.com/article/rjxdihpsbx</link>
+      <summary>Heavy smoke was seen rising from the oil refineries in Haifa following an apparent impact during the combined barrage from Iran and Lebanon, while several people were reported wounded in two locations in the nearby city of Shfaram</summary>
+      <pubDate>Mon, 30 Mar 2026 13:06:31 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Over 80 bombs in hours: Israel expands strikes on Iran’s weapons industry in Tehran</title>
-      <link>https://www.ynetnews.com/article/hycd2ivi11e</link>
-      <description>IDF says missile and weapons production sites targeted in Tehran; Iran reports petrochemical strike in Tabriz</description>
-      <pubDate>Mon, 30 Mar 2026 12:32:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>'Anything linked to Hezbollah is demolished': IDF special forces deep in Lebanon</title>
+      <link>https://www.ynetnews.com/article/skst2odjbl</link>
+      <summary>Trained in dense urban warfare, the IDF’s counterterror unit — which prepares elite forces — is now operating at the deepest point of Israeli activity in southern Lebanon, where its commander says its ladders are a 'game changer' for rapid movement across rugged terrain.</summary>
+      <pubDate>Mon, 30 Mar 2026 07:47:01 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Israel faces pressure to end Iran strikes as US pushes ceasefire-for-talks option</title>
-      <link>https://www.ynetnews.com/article/skrivmwsbx</link>
-      <description>Officials say Washington is pressing for the war to wind down within days to allow possible US-Iran negotiations, even as Israel doubts a deal is likely and sees potential American ground action as a preferable next step</description>
-      <pubDate>Mon, 30 Mar 2026 01:40:27 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Netanyahu: Israel over halfway to war goals in Iran, no timeline for ending conflict</title>
+      <link>https://www.ynetnews.com/article/hykygkos11x</link>
+      <summary>PM says Israel and the US have struck Iran’s missile systems, weapons factories and nuclear personnel, while warning Tehran’s growing missile range could soon threaten Europe and beyond</summary>
+      <pubDate>Tue, 31 Mar 2026 02:15:19 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
+      <title>'We go with Trump': Israel says it will accept any US call on next phase of Iran war</title>
+      <link>https://www.ynetnews.com/article/r15o1vujze</link>
+      <summary>Senior Israeli official says Jerusalem has told Washington it will go along with whatever Trump decides, unlike last June when Israel objected to ending the fighting and the US president ordered Israeli warplanes to turn back</summary>
+      <pubDate>Mon, 30 Mar 2026 20:17:42 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>Israel aiding US with intelligence on Strait of Hormuz, senior defense official says</title>
-      <link>https://www.ynetnews.com/article/b1rp2suobl</link>
-      <description>Official says Jerusalem is helping the US mainly with intelligence on the Strait of Hormuz crisis, as Iranian media reports a plan to tighten Tehran’s control over the strategic waterway and bar ships from the US, Israel and countries imposing sanctions on Iran</description>
-      <pubDate>Mon, 30 Mar 2026 22:36:13 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>Turkey says it blocked alleged Israeli plan to recruit Kurdish fighters for Iran war</title>
+      <link>https://www.ynetnews.com/article/s1zfjavsze</link>
+      <summary>Report says 500 Kurdish fighters were en route to Iran before Ankara intervened; Erdogan warns Trump move could spark wider regional conflict and 'ring of fire'</summary>
+      <pubDate>Mon, 30 Mar 2026 14:15:28 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>Eilat man accused of spying for Iran, filming Ovda Airbase for payment</title>
-      <link>https://www.ynetnews.com/article/sjguncpiwx</link>
-      <description>Prosecutors say 23-year-old received hundreds of dollars to photograph sensitive sites, including an Israeli Air Force base where he worked, despite suspecting handler was linked to Iranian intelligence</description>
-      <pubDate>Mon, 30 Mar 2026 15:47:30 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>מי מתקרב מאחור?</title>
+      <link>https://www.ynet.co.il/news/article/yokra14720633</link>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
+      <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Fourth round of sirens since morning hits southern Israel; Home Front Command extends restrictions</title>
-      <link>https://www.ynetnews.com/article/hyazeqdobg</link>
-      <description>Sirens sounded for the fourth time since morning across southern Israel after launches from Iran, as the Home Front Command said restrictions will remain in place through Saturday following a situational assessment</description>
-      <pubDate>Mon, 30 Mar 2026 09:02:50 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>חודש למלחמה: סיכום ביניים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14723147</link>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
+      <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Iran missile fire sets off sirens in Dimona, Dead Sea</title>
-      <link>https://www.ynetnews.com/article/bjqf2bvsze</link>
-      <description>Air defenses shoot down threat approaching southern Israel; air raid alerts activated across Haifa after Lebanon rocket fire</description>
-      <pubDate>Mon, 30 Mar 2026 04:08:10 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>

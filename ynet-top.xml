@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-03-31T02:03:06.505363</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-03-31T04:04:01.366632</generated>
   <items>
     <item>
       <title>Trump says response for Iran attacking Israel’s biggest oil refinery coming 'shortly'</title>
       <link>https://www.ynetnews.com/article/bkvtvfoowl</link>
-      <description>POTUS vows response as Iran widens strikes on regional energy infrastructure, including the Bazan refinery in Haifa Bay, says Washington would soon learn whether Iranian Parliament Speaker Ghalibaf was open to engagement</description>
+      <summary>POTUS vows response as Iran widens strikes on regional energy infrastructure, including the Bazan refinery in Haifa Bay, says Washington would soon learn whether Iranian Parliament Speaker Ghalibaf was open to engagement</summary>
       <pubDate>Mon, 30 Mar 2026 18:51:39 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <priority>140</priority>
     </item>
     <item>
       <title>HRW says Iran’s cluster munition strikes on Israel may amount to war crimes</title>
       <link>https://www.ynetnews.com/article/rk0mqwdiwl</link>
-      <description>Human Rights Watch says Iran repeatedly used internationally banned cluster munitions in populated areas of Israel since Feb. 28, killing at least 4 civilians and endangering residents with unexploded submunitions that can remain hazardous for years</description>
+      <summary>Human Rights Watch says Iran repeatedly used internationally banned cluster munitions in populated areas of Israel since Feb. 28, killing at least 4 civilians and endangering residents with unexploded submunitions that can remain hazardous for years</summary>
       <pubDate>Mon, 30 Mar 2026 17:46:39 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>Combined barrage from Iran and Lebanon strikes central, northern Israel; Impact at Bazan oil refinery complex in Haifa area</title>
       <link>https://www.ynetnews.com/article/rjxdihpsbx</link>
-      <description>Heavy smoke was seen rising from the oil refineries in Haifa following an apparent impact during the combined barrage from Iran and Lebanon, while several people were reported wounded in two locations in the nearby city of Shfaram</description>
+      <summary>Heavy smoke was seen rising from the oil refineries in Haifa following an apparent impact during the combined barrage from Iran and Lebanon, while several people were reported wounded in two locations in the nearby city of Shfaram</summary>
       <pubDate>Mon, 30 Mar 2026 13:06:31 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
     </item>
     <item>
       <title>'Anything linked to Hezbollah is demolished': IDF special forces deep in Lebanon</title>
       <link>https://www.ynetnews.com/article/skst2odjbl</link>
-      <description>Trained in dense urban warfare, the IDF’s counterterror unit — which prepares elite forces — is now operating at the deepest point of Israeli activity in southern Lebanon, where its commander says its ladders are a 'game changer' for rapid movement across rugged terrain.</description>
+      <summary>Trained in dense urban warfare, the IDF’s counterterror unit — which prepares elite forces — is now operating at the deepest point of Israeli activity in southern Lebanon, where its commander says its ladders are a 'game changer' for rapid movement across rugged terrain.</summary>
       <pubDate>Mon, 30 Mar 2026 07:47:01 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Netanyahu: Israel over halfway to war goals in Iran, no timeline for ending conflict</title>
+      <link>https://www.ynetnews.com/article/hykygkos11x</link>
+      <summary>PM says Israel and the US have struck Iran’s missile systems, weapons factories and nuclear personnel, while warning Tehran’s growing missile range could soon threaten Europe and beyond</summary>
+      <pubDate>Tue, 31 Mar 2026 02:15:19 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
       <title>'We go with Trump': Israel says it will accept any US call on next phase of Iran war</title>
       <link>https://www.ynetnews.com/article/r15o1vujze</link>
-      <description>Senior Israeli official says Jerusalem has told Washington it will go along with whatever Trump decides, unlike last June when Israel objected to ending the fighting and the US president ordered Israeli warplanes to turn back</description>
+      <summary>Senior Israeli official says Jerusalem has told Washington it will go along with whatever Trump decides, unlike last June when Israel objected to ending the fighting and the US president ordered Israeli warplanes to turn back</summary>
       <pubDate>Mon, 30 Mar 2026 20:17:42 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
+      <priority>125</priority>
     </item>
     <item>
       <title>Turkey says it blocked alleged Israeli plan to recruit Kurdish fighters for Iran war</title>
       <link>https://www.ynetnews.com/article/s1zfjavsze</link>
-      <description>Report says 500 Kurdish fighters were en route to Iran before Ankara intervened; Erdogan warns Trump move could spark wider regional conflict and 'ring of fire'</description>
+      <summary>Report says 500 Kurdish fighters were en route to Iran before Ankara intervened; Erdogan warns Trump move could spark wider regional conflict and 'ring of fire'</summary>
       <pubDate>Mon, 30 Mar 2026 14:15:28 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>125</priority-score>
-    </item>
-    <item>
-      <title>"עין תחת עין" מול איראן; בלבנון: ככל הנראה יידרש תמרון מעבר לליטני</title>
-      <link>https://www.ynet.co.il/news/article/b1nvradj11e</link>
-      <description>ישראל ואיראן עברו למתקפות הדדיות על תשתיות לאומיות, בעוד שבבית הלבן מחכים להכרעת טראמפ: מו"מ והסכם או תמונת ניצחון צבאית. בלבנון, צה"ל מעצב "מרחב אבטחה" שונה מרצועת הביטחון שעזב בשנת 2000, אך כדי להפסיק את האש על הגליל לא יהיה כנראה מנוס מהפעלת תמרון יצירתי - גם מצפון לליטני</description>
-      <pubDate>Mon, 30 Mar 2026 17:45:21 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
+      <priority>125</priority>
     </item>
     <item>
       <title>מי מתקרב מאחור?</title>
       <link>https://www.ynet.co.il/news/article/yokra14720633</link>
-      <description>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</description>
+      <summary>בעוד שישראל מתמקדת במלחמה באיראן, גם על חשבון הטיפול בבעיית חיזבאללה, מתפתחת חזית מסוכנת נוספת | תחת השם התמים "משטרה פלסטינית" צומח צבא ענק, מאומן ומצויד המכוון להתקפה ולהשתלטות על שטחים</summary>
       <pubDate>Sun, 29 Mar 2026 00:43:25 +0300</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>חודש למלחמה: סיכום ביניים</title>
       <link>https://www.ynet.co.il/news/article/yokra14723147</link>
-      <description>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</description>
+      <summary>אחרי ארבעה שבועות של לחימה מול איראן: אלו הם הישגי התקיפות של ישראל וארה"ב, ואלו הם ההישגים של האויב</summary>
       <pubDate>Sun, 29 Mar 2026 00:37:44 +0300</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>

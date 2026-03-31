@@ -2,8 +2,19 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-03-30T02:03:14.467045</generated>
+  <generated>2026-03-31T02:04:10.281226</generated>
   <items>
+    <item>
+      <title>Iran war makes things personal for veteran candidates</title>
+      <link>https://www.politico.com/news/2026/03/30/iran-midterms-veterans-00850440</link>
+      <summary>Dozens of military veterans running for Congress across the country have now adapted their campaign messaging to befit a nation at war.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:00:00 EST</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.politico.com/db/a8/fcf6d645475c94d68171453127f9/iran-protest-67724.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A month into Iran, the GOP’s political reality sinks in</title>
       <link>https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116</link>
@@ -60,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Mark Sanford launches his comeback bid to Congress</title>
+      <link>https://www.politico.com/news/2026/03/30/mark-sanford-comeback-congress-trump-00850072</link>
+      <summary>The former GOP representative wants to retake his House seat in South Carolina’s Charleston area after losing to a Trump-backed challenger in 2018.</summary>
+      <pubDate>Mon, 30 Mar 2026 10:14:29 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/a5/9c/0080a7664b698a52f1f36cfbed3b/https-delivery-gettyimages.com/downloads/1183602952</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump plays Texas hold ’em with Senate endorsement</title>
       <link>https://www.politico.com/news/2026/03/27/trump-texas-senate-endorsement-00847967</link>
       <summary>The president has not endorsed in the Texas Senate GOP runoff. MAGA sees it as a signal.</summary>
@@ -82,35 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Political operatives with Trump ties raked in millions of dollars in commissions from DHS ad campaign</title>
-      <link>https://www.politico.com/news/2026/03/19/dhs-ad-money-companies-00834791</link>
-      <summary>The ads became a sore spot within the White House over Kristi Noem.</summary>
-      <pubDate>Thu, 19 Mar 2026 04:56:00 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/34/27/82a7eb8f43db9cce39987fddb3d5/house-homeland-security-60041.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>AIPAC faces calls to reassess strategy after split results in Illinois</title>
-      <link>https://www.politico.com/news/2026/03/18/aipac-israel-illinois-primary-results-00833615</link>
-      <summary>In its first midterms test, the powerful pro-Israel group backed two victors but failed to secure its preferred outcome in the two districts where it spent the most.</summary>
-      <pubDate>Wed, 18 Mar 2026 00:35:18 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/45/46/a0eafff441bfa4576e23096e9c48/main-illinois-aipac.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>DHS confirms that Lewandowski left the department along with Noem</title>
-      <link>https://www.politico.com/news/2026/03/27/dhs-lewandowski-left-with-noem-00849313</link>
-      <summary>Still unexplained is why he accompanied the former secretary to Guyana.</summary>
-      <pubDate>Fri, 27 Mar 2026 17:19:31 EST</pubDate>
+      <title>Army investigating video of Apache helicopter at Kid Rock’s Nashville home</title>
+      <link>https://www.politico.com/news/2026/03/30/army-kid-rock-helicopter-video-00850747</link>
+      <summary>The musician, a vocal supporter of President Donald Trump, posted a video of an Army helicopter flying low outside his residence Saturday.</summary>
+      <pubDate>Mon, 30 Mar 2026 13:33:20 EST</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://static.politico.com/5b/3b/21f57a994eec9b7afc6a6d3dab9c/hegseth-drug-cartels-54733.jpg</image>
+        <image>https://static.politico.com/23/2e/8aafe59f479dbaba6808d7691ddc/https-delivery-gettyimages.com/downloads/2248013055</image>
         <type>image/jpeg</type>
       </media>
     </item>
