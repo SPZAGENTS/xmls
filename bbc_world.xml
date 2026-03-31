@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-31T06:03:24.735033</generated>
+  <generated>2026-03-31T08:04:23.528396</generated>
   <items>
     <item>
       <title>Spain closes airspace to US aircraft involved in Iran war</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Zelensky says allies asked him to scale back attacks on Russian energy</title>
-      <link>https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Ukraine's president says partners asked if the attacks could be "reduced" as prices soar due to the Iran war.</summary>
-      <pubDate>Mon, 30 Mar 2026 17:53:51 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd01/live/b7950160-2c69-11f1-95ce-9bb916c6cb06.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Zelensky says allies asked him to scale back attacks on Russian energy</title>
+      <link>https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Ukraine's president says partners asked if the attacks could be "reduced" as prices soar due to the Iran war.</summary>
+      <pubDate>Mon, 30 Mar 2026 17:53:51 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

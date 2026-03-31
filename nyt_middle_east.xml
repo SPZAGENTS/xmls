@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-31T06:03:29.040734</generated>
+  <generated>2026-03-31T08:04:27.904457</generated>
   <items>
+    <item>
+      <title>Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader</title>
+      <link>https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html</link>
+      <summary>As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.</summary>
+      <pubDate>Tue, 31 Mar 2026 04:01:06 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-uk-us-iran-01-tgph/31int-uk-us-iran-01-tgph-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Monday</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/iran-middle-east-war-recap-monday.html</link>
@@ -74,17 +85,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-front-by-front-jtbz/29israel-iran-front-by-front-jtbz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/catholic-church-jerusalem.html</link>
-      <summary>Israeli police stopped clergymen from celebrating the Palm Sunday Mass at the Church of the Holy Sepulcher “for the first time in centuries,” church officials said.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:18:01 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-palm-sunday-vjlp/29israel-iran-palm-sunday-vjlp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
