@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-31T22:00:52.985397</generated>
+  <generated>2026-04-01T00:00:58.473012</generated>
   <items>
     <item>
       <title>Iran using children in security roles in war, reports and witnesses say</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Judge temporarily halts construction of Trump's White House ballroom</title>
+      <link>https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Republican-appointed judge ruled that Trump was the "steward" of the White House, but not the "owner".</summary>
+      <pubDate>Tue, 31 Mar 2026 20:21:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d3/live/9d15b4e0-2d38-11f1-8c7a-d7713554a96a.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>How the US could try to seize Iran's Kharg Island</title>
-      <link>https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:54:47 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Teen cyclist killed at Road World Championships not found for 82 minutes</title>
       <link>https://www.bbc.com/sport/cycling/articles/cnv85v7r22ro?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>A cyclist who was killed during the Road World Championships was not found for 82 minutes after a crash, investigators find.</summary>
@@ -104,7 +104,7 @@
       </media>
     </item>
     <item>
-      <title>Wolf bites woman in shock German attack in Hamburg shopping street</title>
+      <title>Wolf bites woman in shock German attack on busy Hamburg shopping street</title>
       <link>https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.</summary>
       <pubDate>Tue, 31 Mar 2026 13:00:32 GMT</pubDate>
