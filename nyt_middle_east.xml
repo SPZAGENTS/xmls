@@ -2,20 +2,31 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-31T02:04:13.142563</generated>
+  <generated>2026-03-31T06:03:29.040734</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Monday</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/iran-middle-east-war-recap-monday.html</link>
+      <summary>Iran maintained that no negotiations have been held with the United States, and said none would while the fighting continues.</summary>
+      <pubDate>Tue, 31 Mar 2026 00:25:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-front-by-front1-zklf/30israel-iran-front-by-front1-zklf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>A New U.S. Missile Hit a Sports Hall in Iran. Here’s What We Know About It.</title>
       <link>https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html</link>
       <summary>Barely out of prototype testing, the Precision Strike Missile is shrouded in secrecy — including which Persian Gulf countries the Army is launching them from.</summary>
-      <pubDate>Mon, 30 Mar 2026 22:45:50 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 01:22:16 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
       <title>Iran Condemns Attacks on Its Universities, Warns of Retaliation</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/iran-universities-strikes.html</link>
       <summary>After attacks on several Iranian campuses, Iranian forces warn they could target American universities in the region.</summary>
-      <pubDate>Mon, 30 Mar 2026 21:59:04 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 21:59:05 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/30vid-tehran-university1-36030-cover/30vid-tehran-university1-36030-cover-mediumSquareAt3X.jpg</image>
@@ -37,7 +48,7 @@
       <title>Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
       <summary>Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.</summary>
-      <pubDate>Mon, 30 Mar 2026 21:20:31 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 01:10:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
@@ -78,28 +89,6 @@
       </media>
     </item>
     <item>
-      <title>Iran War Draws Attention to U.S. Troop Presence in Saudi Arabia</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/injured-us-troops-saudi-arabia.html</link>
-      <summary>A close U.S. ally and regional rival of Iran, the kingdom has faced hundreds of Iranian missile and drone attacks since the war began.</summary>
-      <pubDate>Sun, 29 Mar 2026 18:40:17 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-saudi-001-vlfp/29israel-iran-saudi-001-vlfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel’s military posted two images of Ali Choeib in what it said was a Hezbollah uniform. One was fake.</title>
-      <link>https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/israels-military-posted-two-images-of-ali-choeib-in-what-it-said-was-a-hezbollah-uniform-one-was-fake</link>
-      <summary>The</summary>
-      <pubDate>Mon, 30 Mar 2026 00:22:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-idf-photo-PROMO-qmlv/29israel-iran-idf-photo-PROMO-qmlv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say</title>
       <link>https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html</link>
       <summary>As leaders are killed and replaced, Iranian negotiators may not know what their government is willing to concede in any negotiations.</summary>
@@ -107,6 +96,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30dc-intel-01-mhtc/30dc-intel-01-mhtc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Zigzags on Iran, Claiming ‘Great Progress’ but Making Threats</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-iran-threats-kharg-island.html</link>
+      <summary>President Trump threatened to hit vital infrastructure in Iran if the Strait of Hormuz was not reopened, but he also said that “regime change” had already been achieved.</summary>
+      <pubDate>Mon, 30 Mar 2026 23:43:13 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-iran-leadall-phzm/30int-iran-leadall-phzm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
