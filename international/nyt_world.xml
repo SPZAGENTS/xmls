@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-03-31T02:04:12.490637</generated>
+  <generated>2026-03-31T04:06:00.252621</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Renews Threats Against Iranian Oil and Energy Facilities</title>
+      <title>Iran War Live Updates: Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats</title>
       <link>https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news</link>
-      <summary>President Trump claimed progress in talks to end the war but warned that lacking a deal he would order intense attacks on Iranian infrastructure targets. Oil and stock markets wavered on the news.</summary>
-      <pubDate>Mon, 30 Mar 2026 22:56:24 +0000</pubDate>
+      <summary>The vessel caught fire and sustained damage, its owner said on Tuesday, adding that there was the potential for an oil spill in surrounding waters. On Monday, President Trump warned Iran that without a deal he would order attacks on infrastructure targets.</summary>
+      <pubDate>Tue, 31 Mar 2026 00:57:57 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo-4pm-gtpq/30israel-iran-promo-4pm-gtpq-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-promo830p-vwtf/30israel-iran-promo830p-vwtf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Here’s What Happened in the War in the Middle East on Monday</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/iran-middle-east-war-recap-monday.html</link>
+      <summary>Iran maintained that no negotiations have been held with the United States, and said none would while the fighting continues.</summary>
+      <pubDate>Tue, 31 Mar 2026 00:25:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-front-by-front1-zklf/30israel-iran-front-by-front1-zklf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>A New U.S. Missile Hit a Sports Hall in Iran. Here’s What We Know About It.</title>
       <link>https://www.nytimes.com/2026/03/30/us/politics/us-missile-strike-iran-sports-hall-school.html</link>
       <summary>Barely out of prototype testing, the Precision Strike Missile is shrouded in secrecy — including which Persian Gulf countries the Army is launching them from.</summary>
@@ -78,28 +89,6 @@
       </media>
     </item>
     <item>
-      <title>Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say</title>
-      <link>https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html</link>
-      <summary>As leaders are killed and replaced, Iranian negotiators may not know what their government is willing to concede in any negotiations.</summary>
-      <pubDate>Mon, 30 Mar 2026 21:40:54 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30dc-intel-01-mhtc/30dc-intel-01-mhtc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Zigzags on Iran, Claiming ‘Great Progress’ but Making Threats</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/trump-iran-threats-kharg-island.html</link>
-      <summary>President Trump threatened to hit vital infrastructure in Iran if the Strait of Hormuz was not reopened, but he also said that “regime change” had already been achieved.</summary>
-      <pubDate>Mon, 30 Mar 2026 22:18:45 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-iran-leadall-phzm/30int-iran-leadall-phzm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’</title>
       <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html</link>
       <summary>While detaining a CNN crew, a soldier said that Israeli troops were motivated by “revenge” against Palestinians and that all of the West Bank was “for the Jews.”</summary>
@@ -107,6 +96,17 @@
       <priority>75</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-westbank-battalion-wgjh/30israel-iran-westbank-battalion-wgjh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kuwaiti Oil Tanker Set Ablaze After Attack Off the Coast of Dubai</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/kuwait-oil-tanker-iran-drone.html</link>
+      <summary>The attack damaged the hull, the owner of the tanker said, which could cause an oil spill.</summary>
+      <pubDate>Tue, 31 Mar 2026 00:50:32 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/world/30israel-iran-kuwait-tanker1/30israel-iran-kuwait-tanker1-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-03-31T02:04:08.479929</generated>
+  <generated>2026-03-31T04:05:56.706212</generated>
   <items>
     <item>
       <title>Spain closes airspace to US aircraft involved in Iran war</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4290/live/72065650-2c80-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Gazan mother reunited with evacuated daughter after two years</title>
+      <link>https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of the war.</summary>
+      <pubDate>Mon, 30 Mar 2026 21:12:29 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd01/live/b7950160-2c69-11f1-95ce-9bb916c6cb06.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaf0/live/630892a0-2c2e-11f1-b8c9-f5058c0aec9a.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Most Syrian refugees in Germany expected to return home in three years, Merz says</title>
-      <link>https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Merz’s government has taken a tougher line on refugees and migrants, amid surging support for the anti-immigration AfD party.</summary>
-      <pubDate>Mon, 30 Mar 2026 20:07:17 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6330/live/571088e0-2c60-11f1-88c4-254a3d5fc979.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-31T02:04:18.983719</generated>
+  <generated>2026-03-31T04:06:06.037077</generated>
   <items>
     <item>
       <title>Activists in Haiti say at least 30 people are dead after a gang attacks a town again</title>
@@ -12,28 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>An Israeli soldier from Connecticut is killed in southern Lebanon weeks after completing training</title>
-      <link>https://abcnews.com/International/wireStory/israeli-soldier-connecticut-killed-southern-lebanon-weeks-after-131527285</link>
-      <summary>A young man who moved from Connecticut to Israel last year to join the military was killed Saturday during a combat operation in southern Lebanon</summary>
-      <pubDate>Sun, 29 Mar 2026 18:49:46 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire'</title>
-      <link>https://abcnews.com/International/wireStory/pakistan-host-us-iran-talks-iran-warns-us-131516189</link>
-      <summary>Pakistan&amp;rsquo;s foreign minister says Islamabad will soon host talks between the U.S. and Iran</summary>
-      <pubDate>Sun, 29 Mar 2026 22:18:34 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_26caaef651be1cb4d482b29adaa2d600_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,13 +27,24 @@
       </media>
     </item>
     <item>
-      <title>North Korea conducts engine test for missile capable of targeting US mainland</title>
-      <link>https://abcnews.com/International/wireStory/north-korea-conducts-engine-test-missile-capable-targeting-131514446</link>
-      <summary>North Korean leader Kim Jong Un has observed a test of a high-thrust, solid-fuel engine for weapons</summary>
-      <pubDate>Sun, 29 Mar 2026 00:47:56 -0400</pubDate>
+      <title>Spain says it has closed its airspace to US planes involved in the Iran war</title>
+      <link>https://abcnews.com/International/wireStory/spain-closed-airspace-us-planes-involved-iran-war-131536616</link>
+      <summary>Spain&amp;rsquo;s defense minister says the country has closed its airspace to U.S. planes involved in the Iran war</summary>
+      <pubDate>Mon, 30 Mar 2026 08:22:14 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_05e23ef4e0bda9cb226a16b10cd9437c_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What to know as military-led Myanmar transitions back to an elected government</title>
+      <link>https://abcnews.com/International/wireStory/military-led-myanmar-transitions-back-elected-government-131533526</link>
+      <summary>Myanmar&amp;rsquo;s Parliament has begun choosing a new president to lead an elective government, though the military retains power and influence</summary>
+      <pubDate>Mon, 30 Mar 2026 06:26:22 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_bdc130f08bed4fd569bdd041ce2c67aa_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_b313cd283d7eaf6922acdbdeabe54ffd_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +67,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Death toll in Afghanistan flooding increases to 28, authorities say</title>
+      <link>https://abcnews.com/International/wireStory/death-toll-afghanistan-flooding-increases-28-authorities-131535889</link>
+      <summary>Afghan authorities say the death toll from severe weather that has struck swathes of the country over the past four days has increased to 28, with 49 people injured</summary>
+      <pubDate>Mon, 30 Mar 2026 08:39:13 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e6be89ef89f32f5d8c68f3380bdebbe7_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International — War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-03-31T02:04:20.992290</generated>
+  <generated>2026-03-31T04:06:08.318626</generated>
   <items>
     <item>
       <title>Palestinians convicted of deadly attacks face death penalty under new Israeli law</title>
@@ -24,6 +24,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/0d729d50-2c5a-11f1-862e-73ba828c2693.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Inside the cockpit of RAF tanker during defensive mission against Iranian drones</title>
+      <link>https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Defence correspondent Jonathan Beale flies onboard an RAF Voyager as it refuels jets in the Middle East.</summary>
+      <pubDate>Mon, 30 Mar 2026 23:10:44 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>
@@ -101,17 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/37c70070-29c9-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Three Lebanese journalists killed in Israeli strike, say broadcasters</title>
-      <link>https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Israeli military confirms it killed Ali Shoeib and Mohamed Ftouni, alleging they also belonged to Hezbollah's military wing.</summary>
-      <pubDate>Mon, 30 Mar 2026 09:09:08 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
   </items>

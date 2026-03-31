@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-31T02:04:17.951858</generated>
+  <generated>2026-03-31T04:06:05.046843</generated>
   <items>
-    <item>
-      <title>Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI</title>
-      <link>https://abcnews.com/US/michigan-synagogue-attacker-committed-hezbollah-inspired-act-terrorism/story?id=131537299</link>
-      <summary>The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out "a Hezbollah-inspired act of terrorism," the FBI said.</summary>
-      <pubDate>Mon, 30 Mar 2026 16:43:37 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/temple-israel-1-ap-jef-260330_1774876008168_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Why has the price of gold fallen since the start of the Iran war?</title>
       <link>https://abcnews.com/video/131484390/</link>
@@ -71,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Video shows boat in Florida spinning out of control in deadly accident</title>
+      <link>https://abcnews.com/video/131557705/</link>
+      <summary>Firefighters said a woman and man were thrown from the boat and run over, killing the woman.</summary>
+      <pubDate>Mon, 30 Mar 2026 19:54:39 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260330_wn_vo_boat_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Rise in leaving traditional jobs for content creation</title>
       <link>https://abcnews.com/video/131507348/</link>
       <summary>Content creators Brandon Smithwrick and Eni Popoola join ABC News Live to discuss the growing trend of people leaving traditional jobs for jobs in content creation.</summary>
@@ -93,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Army says it's reviewing helicopters flying low and hovering near Kid Rock's home</title>
-      <link>https://abcnews.com/Politics/army-reviewing-attack-helicopters-flying-low-hovering-kid/story?id=131553036</link>
-      <summary>The Army is reviewing why two U.S. Army attack helicopters flew low and hovered just outside Kid Rock’s house in Nashville, the service said.</summary>
-      <pubDate>Mon, 30 Mar 2026 18:31:57 -0400</pubDate>
-      <priority>75</priority>
+      <title>Florida Gov. DeSantis signs bill to rename Palm Beach airport after Trump</title>
+      <link>https://abcnews.com/Politics/florida-gov-desantis-signs-bill-rename-palm-beach/story?id=131557754</link>
+      <summary>Florida Gov. Ron DeSantis signed a bill Monday renaming Palm Beach International Airport to the President Donald J. Trump International Airport.</summary>
+      <pubDate>Mon, 30 Mar 2026 20:48:43 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/kid-rock-2-ht-gmh-260330_1774902676140_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Politics/trump-desantis-20260330-ap-jh_1774913868860_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
