@@ -2,13 +2,20 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-03-31T12:03:26.760080</generated>
+  <generated>2026-03-31T14:04:21.618220</generated>
   <items>
     <item>
       <title>Trump is considering U.S. ground troops in Iran. Here are his options</title>
       <link>https://www.cbc.ca/news/world/trump-ground-troops-iran-scenarios-9.7147222?cmp=rss</link>
       <summary>As U.S. President Donald Trump considers ordering U.S. ground troops into Iran, military experts say trying to capture any of the most likely targets would pose a significant challenge.</summary>
       <pubDate>Tue, 31 Mar 2026 04:00:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>U.S. attacks Iranian nuclear site as Tehran strikes fully-loaded Kuwaiti oil tanker off Dubai coast</title>
+      <link>https://www.cbc.ca/news/world/iran-u-s-conflict-9.7148111?cmp=rss</link>
+      <summary>The United States hit the central Iranian city of Isfahan early Tuesday, sending a massive fireball into the sky, and Tehran struck a fully loaded Kuwaiti oil tanker in the Persian Gulf.</summary>
+      <pubDate>Tue, 31 Mar 2026 04:50:05 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>An armed man who crashed his pickup truck into a major Detroit-area synagogue earlier in March was inspired by the Iran-backed militant group Hezbollah and had sought to inflict as much damage as he could on Jewish people, the FBI said Monday.</summary>
       <pubDate>Mon, 30 Mar 2026 17:40:00 EDT</pubDate>
       <priority>95</priority>
-    </item>
-    <item>
-      <title>How China is charging forward with EV adoption as Canada prepares to welcome its cars</title>
-      <link>https://www.cbc.ca/news/world/china-electric-vehicles-ev-canada-9.7143644?cmp=rss</link>
-      <summary />
-      <pubDate>Thu, 17 Jul 2025 04:01:00 EDT</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>

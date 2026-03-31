@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-31T12:03:16.912000</generated>
+  <generated>2026-03-31T14:04:11.983951</generated>
   <items>
+    <item>
+      <title>Russia allegedly sharing satellite intelligence on US bases with Iran, world leader claims</title>
+      <link>https://www.foxnews.com/world/russia-allegedly-sharing-satellite-intelligence-us-bases-iran-world-leader-claims</link>
+      <summary>Zelenskyy warns Russian satellites photographed U.S. military bases across the Middle East in Iran&amp;apos;s interests, signaling possible strike preparations.</summary>
+      <pubDate>Tue, 31 Mar 2026 06:00:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/khamenei-putin-split-fox-news-001.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran's internet blackout hiding strike damage and suppressing dissent, Israeli officials say</title>
       <link>https://www.foxnews.com/world/irans-internet-blackout-hiding-strike-damage-suppressing-dissent-israeli-officials-say</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-katz-alireza-tangsiri.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Over 90% of Iranian missiles intercepted, but a critical vulnerability is growing, report warns</title>
-      <link>https://www.foxnews.com/world/more-than-90-iranian-missiles-intercepted-dangerous-imbalance-emerging</link>
-      <summary>Experts say Iran&amp;apos;s cheap drones and missiles are depleting allied interceptor stockpiles, raising questions about long-term air defense sustainability.</summary>
-      <pubDate>Thu, 26 Mar 2026 06:00:07 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/interceptors-tel-aviv.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
