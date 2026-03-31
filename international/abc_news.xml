@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-31T18:05:04.344580</generated>
+  <generated>2026-03-31T20:01:00.475278</generated>
   <items>
     <item>
-      <title>Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit</title>
+      <title>Iran live updates: Trump thinks Strait will 'automatically open' when US leaves</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 31 Mar 2026 10:00:17 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 12:48:11 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/iran-4-rt-gmh-260331_1774962178826_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Secretary Pete Hegseth provides update on war with Iran at Pentagon briefing</title>
+      <link>https://abcnews.com/video/131576625/</link>
+      <summary>Iran fired the "lowest number of enemy missiles and drones" in the last 24 hours, Secretary Pete Hegseth said at a Pentagon press briefing Tuesday</summary>
+      <pubDate>Tue, 31 Mar 2026 10:11:53 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/260331_abc_social_hegseth_pentagon_iran_update_vert_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Rise in leaving traditional jobs for content creation</title>
-      <link>https://abcnews.com/video/131507348/</link>
-      <summary>Content creators Brandon Smithwrick and Eni Popoola join ABC News Live to discuss the growing trend of people leaving traditional jobs for jobs in content creation.</summary>
-      <pubDate>Sat, 28 Mar 2026 14:40:16 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Lifestyle/260328_abcnl_2p_content_creators_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Supreme Court rules against Colorado law banning 'conversion therapy' for minors</title>
       <link>https://abcnews.com/Politics/supreme-court-strikes-colorado-law-banning-conversion-therapy/story?id=129036088</link>
       <summary>The Supreme Court struck down Colorado's ban on so-called "conversion therapy" for minors as a violation of counselors' free speech rights under the First Amendment.</summary>
-      <pubDate>Tue, 31 Mar 2026 10:46:01 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 12:28:38 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/Politics/supreme-2-ap-er-260108_1767910920661_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/scotus-1-rt-gmh-260330_1774885757272_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Delta flight makes emergency landing after engine fire</title>
-      <link>https://abcnews.com/video/131568687/</link>
-      <summary>A Delta Air Lines flight bound for Atlanta was forced to land after flames shot from one of its engines as passengers captured the terrifying moment on camera.</summary>
-      <pubDate>Tue, 31 Mar 2026 10:16:25 -0400</pubDate>
+      <title>WATCH: Business owner hit with mystery shipment of 600 French onion dips</title>
+      <link>https://abcnews.com/video/131579873/</link>
+      <summary>ABC News' Danny New reports on the unexpectedly robust shipment of French onion dip that landed on a Philadelphia business owner after asking for a sample.</summary>
+      <pubDate>Tue, 31 Mar 2026 12:17:24 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/gmafl_new_onion_260331_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
-      <link>https://abcnews.com/video/131569036/</link>
-      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:54:26 -0400</pubDate>
+      <title>WATCH: Delta flight makes emergency landing after engine fire</title>
+      <link>https://abcnews.com/video/131568687/</link>
+      <summary>A Delta Air Lines flight bound for Atlanta was forced to land after flames shot from one of its engines as passengers captured the terrifying moment on camera.</summary>
+      <pubDate>Tue, 31 Mar 2026 11:59:12 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
