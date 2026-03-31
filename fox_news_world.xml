@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-03-31T20:00:52.414155</generated>
+  <generated>2026-03-31T22:00:54.188531</generated>
   <items>
+    <item>
+      <title>More key US allies block military flights as Iran war rift widens with Trump</title>
+      <link>https://www.foxnews.com/world/more-key-us-allies-block-military-flights-iran-war-rift-widens-trump</link>
+      <summary>President Donald Trump blasted France, Spain, Italy and the U.K. on Truth Social, criticizing their refusal to support U.S. military operations tied to the war with Iran.</summary>
+      <pubDate>Tue, 31 Mar 2026 13:24:54 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-plane.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Russia allegedly sharing satellite intelligence on US bases with Iran, world leader claims</title>
       <link>https://www.foxnews.com/world/russia-allegedly-sharing-satellite-intelligence-us-bases-iran-world-leader-claims</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-nuclear-weapons-2026.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>North Korea tests solid-fuel missile engine as Kim boosts threat to US mainland</title>
-      <link>https://www.foxnews.com/world/north-korea-tests-solid-fuel-missile-engine-kim-boosts-threat-us-mainland</link>
-      <summary>Kim Jong Un oversaw a new solid-fuel rocket engine test, state media reports, as North Korea pushes to upgrade its long-range strategic strike capabilities.</summary>
-      <pubDate>Sun, 29 Mar 2026 07:28:04 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kim-jong-un-engine-test.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
