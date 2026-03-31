@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-03-31T08:04:27.904457</generated>
+  <generated>2026-03-31T10:03:41.275302</generated>
   <items>
     <item>
       <title>Offensive vs. Defensive: On Iran, the Distinction Matters for Britain’s Leader</title>
@@ -78,17 +78,6 @@
       </media>
     </item>
     <item>
-      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
-      <link>https://www.nytimes.com/2026/03/29/world/middleeast/iran-israel-united-states-war-recap.html</link>
-      <summary>Diplomats from around the region met in Pakistan, and the U.S.-Israeli bombardment hit a southern Iranian port, killing at least five people, Iranian state media said.</summary>
-      <pubDate>Mon, 30 Mar 2026 02:19:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/29/multimedia/29israel-iran-front-by-front-jtbz/29israel-iran-front-by-front-jtbz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say</title>
       <link>https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html</link>
       <summary>As leaders are killed and replaced, Iranian negotiators may not know what their government is willing to concede in any negotiations.</summary>
@@ -107,6 +96,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/30int-iran-leadall-phzm/30int-iran-leadall-phzm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Two More U.N. Peacekeepers Are Killed in Southern Lebanon</title>
+      <link>https://www.nytimes.com/2026/03/30/world/middleeast/lebanon-un-peacekeepers.html</link>
+      <summary>The deaths came a day after the U.N. secretary-general, António Guterres, condemned the killing of another peacekeeper.</summary>
+      <pubDate>Mon, 30 Mar 2026 22:04:39 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/30israel-iran-peacekeepers-kbtw/30israel-iran-peacekeepers-kbtw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

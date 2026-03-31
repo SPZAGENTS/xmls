@@ -2,19 +2,8 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-03-31T08:04:24.085540</generated>
+  <generated>2026-03-31T10:03:37.378970</generated>
   <items>
-    <item>
-      <title>Michigan synagogue attacker was inspired by Hezbollah, sought to kill as many Jewish people as possible: feds</title>
-      <link>https://www.foxnews.com/us/michigan-synagogue-attacker-inspired-hezbollah-sought-kill-many-jewish-people-possible-feds</link>
-      <summary>Federal investigators say the Michigan synagogue attacker was radicalized by Hezbollah and reportedly sought to kill as many Jewish people as possible on March 12.</summary>
-      <pubDate>Mon, 30 Mar 2026 18:18:40 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/west-bloomfield-synagogue-shooting.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Fugitive illegal alien convict on the run after attempting to strike ICE officer with vehicle: DHS</title>
       <link>https://www.foxnews.com/politics/fugitive-illegal-alien-convict-run-attempting-strike-ice-officer-vehicle-dhs</link>
@@ -67,6 +56,17 @@
       <priority>75</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/drone-track-madman-after-alleged-rampage.gif</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Florida county's Democratic Party chair accused of hitting man in head with bullhorn at 'No Kings' protest</title>
+      <link>https://www.foxnews.com/us/florida-countys-democratic-party-chair-accused-hitting-man-head-bullhorn-no-kings-protest</link>
+      <summary>The Hernando County Democratic Party chair was arrested for allegedly striking a disabled veteran with a bullhorn at a &amp;quot;No Kings&amp;quot; protest over the weekend.</summary>
+      <pubDate>Tue, 31 Mar 2026 02:26:53 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/dem-party-chair-fl-arrest-no-kings-protest-trump.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
