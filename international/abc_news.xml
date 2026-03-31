@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-03-31T14:04:19.166311</generated>
+  <generated>2026-03-31T16:01:04.545987</generated>
   <items>
     <item>
       <title>Iran live updates: Israel and Gulf states report new Iranian strikes, tanker hit</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 31 Mar 2026 07:00:11 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:46:06 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Israel-fire-DB-260331_1774944890701_hpMain_4x3t_384.jpg</image>
@@ -19,10 +19,21 @@
       <title>Gas prices top $4 a gallon as Iran war triggers global oil shock</title>
       <link>https://abcnews.com/Business/gas-prices-top-4-gallon-iran-war-triggers/story?id=131359225</link>
       <summary>Fuel costs last exceeded $4 a gallon in 2022, AAA data showed.</summary>
-      <pubDate>Tue, 31 Mar 2026 06:14:46 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:31:34 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Business/gas-station-gty-jt-260324_1774372956908_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI</title>
+      <link>https://abcnews.com/video/131562789/</link>
+      <summary>The man armed with fireworks who rammed his truck into a Michigan synagogue was carrying out " a Hezbollah-inspired act of terrorism purposely targeting the Jewish community," the FBI said Monday.</summary>
+      <pubDate>Mon, 30 Mar 2026 23:46:23 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260330_abc_soc_michigan_terrorism_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,32 +49,10 @@
       </media>
     </item>
     <item>
-      <title>WATCH: White House: 'Operation Epic Fury is moving ahead successfully'</title>
-      <link>https://abcnews.com/video/131552474/</link>
-      <summary>White House press secretary Karoline Leavitt said Monday more than 11,000 Iranian targets have been struck during "Operation Epic Fury."</summary>
-      <pubDate>Mon, 30 Mar 2026 15:47:43 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260330_abc_social_leavitt_iran_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: ABC News' Rachel Scott presses White House on negotiations with Iran</title>
-      <link>https://abcnews.com/video/131552906/</link>
-      <summary>ABC News' Rachel Scott pressed White House press secretary Karoline Leavitt on negotiations with Iran.</summary>
-      <pubDate>Mon, 30 Mar 2026 15:46:47 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260330_abc_social_scott_whitehouse_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Fri, 27 Mar 2026 14:22:23 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:31:56 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -96,7 +85,7 @@
       <title>European diplomats visit Ukraine on anniversary of Russia's Bucha atrocities</title>
       <link>https://abcnews.com/International/wireStory/european-diplomats-visit-ukraine-anniversary-russias-bucha-atrocities-131566501</link>
       <summary>Top European diplomats are visiting Ukraine to mark the anniversary of atrocities committed in a town near Kyiv by Russia&amp;rsquo;s invading forces four years ago</summary>
-      <pubDate>Tue, 31 Mar 2026 06:50:46 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 08:10:53 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_7e5737277056a2c3b431e99d85fb48c7_4x3_384.jpg</image>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Chesney the kangaroo found after 3 day search</title>
-      <link>https://abcnews.com/video/131546813/</link>
-      <summary>ABC News' Danny New reports on Chesney the kangaroo's leap out of a petting zoo, where he scaled an eight foot fence after two hunting dogs entered the property.</summary>
-      <pubDate>Mon, 30 Mar 2026 15:13:57 -0400</pubDate>
+      <title>WATCH: Delta flight makes emergency landing after engine fire</title>
+      <link>https://abcnews.com/video/131568687/</link>
+      <summary>A Delta Air Lines flight bound for Atlanta was forced to land after flames shot from one of its engines as passengers captured the terrifying moment on camera.</summary>
+      <pubDate>Tue, 31 Mar 2026 07:24:26 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/chesney_kangaroo_260330_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta_709_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
+      <link>https://abcnews.com/video/131569036/</link>
+      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
+      <pubDate>Tue, 31 Mar 2026 07:41:20 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
