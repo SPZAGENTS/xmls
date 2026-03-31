@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-03-31T16:01:05.613406</generated>
+  <generated>2026-03-31T18:05:05.568560</generated>
   <items>
     <item>
       <title>Activists in Haiti say at least 30 people are dead after a gang attacks a town again</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>US lawmakers express support for stalled Taiwan special defense budget</title>
-      <link>https://abcnews.com/International/wireStory/us-lawmakers-express-support-stalled-taiwan-special-defense-131540175</link>
-      <summary>U.S. lawmakers visiting Taiwan say the United States supports efforts by Taiwan's government to pass a $40 billion special defense budget that is being stalled in the opposition-controlled parliament</summary>
-      <pubDate>Mon, 30 Mar 2026 22:26:34 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_685b8cf5feef733a86b360325913e442_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Mongolia's third prime minister in a year faces political infighting and external crises</title>
       <link>https://abcnews.com/International/wireStory/mongolia-names-new-prime-minister-bid-end-legislative-131564552</link>
       <summary>Mongolia&amp;rsquo;s parliament has confirmed Uchral Nyam-Osor as prime minister to break a political deadlock and try to calm economic fears</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_52e8e0a4268910359d2899cdff819f2b_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US lawmakers express support for stalled Taiwan special defense budget</title>
+      <link>https://abcnews.com/International/wireStory/us-lawmakers-express-support-stalled-taiwan-special-defense-131540175</link>
+      <summary>U.S. lawmakers visiting Taiwan say the United States supports efforts by Taiwan's government to pass a $40 billion special defense budget that is being stalled in the opposition-controlled parliament</summary>
+      <pubDate>Mon, 30 Mar 2026 22:26:34 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_685b8cf5feef733a86b360325913e442_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
