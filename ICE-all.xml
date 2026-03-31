@@ -2,7 +2,7 @@
 <content-feed>
   <title>ICE — All Articles</title>
   <source>ICE</source>
-  <generated>2026-04-01T00:03:26.675495</generated>
+  <generated>2026-04-01T02:03:33.826157</generated>
   <items>
     <item>
       <title>שלמה קרמר מפתיע את השוק: זה המהלך שהוא מוביל בזמן המלחמה</title>
@@ -12,6 +12,17 @@
       <priority>90</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_545/rsz_615_346_שלמה קרמר 300620251.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>יאיר נתניהו במתקפה על חדשות 12: "כמה חלאה אתה צריך להיות?"</title>
+      <link>https://www.ice.co.il/media/news/article/1108244</link>
+      <summary>בנו של ראש הממשלה הטיח ביקורת חריפה על חדשות 12 על פרסום דברים נגדו וטענות למחיקת תגובות. העורך של N12 הגיב</summary>
+      <pubDate>2026/04/01 01:55:21</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_569/rsz_615_346_F221129AVS71.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,24 +49,13 @@
       </media>
     </item>
     <item>
-      <title>עידית סילמן ובעלה שמוליק נפרדו לאחר 18 שנה: "רגעים מאתגרים"</title>
+      <title>עידית סילמן ובעלה שמוליק ביום מרגש לאחר 18 שנה: "רגעים מאתגרים"</title>
       <link>https://www.ice.co.il/local-news/news/article/1108220</link>
-      <summary>השרה להגנת הסביבה ובעלה שמוליק נפרדו לאחר 18 שנה: הזוג ליווה הבוקר את בנם הבכור בדרכו אל השרשרת החיול של צה"ל. בברכה נוגעת ללב שפרסמו ההורים, הם שיתפו בתחושות המורכבות: "אין זכות גדולה מזו"</summary>
-      <pubDate>2026/03/31 20:48:39</pubDate>
+      <summary>השרה להגנת הסביבה ובעלה שמוליק ליוו הבוקר את בנם הבכור בדרכו אל השרשרת החיול של צה"ל. בברכה נוגעת ללב שפרסמו ההורים, הם שיתפו בתחושות המורכבות: "אין זכות גדולה מזו"</summary>
+      <pubDate>2026/03/31 20:48:00</pubDate>
       <priority>70</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_366/rsz_615_346_2ice10012023.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>הקטל בכבישים: זינוק מטריד בתאונות בזמן המלחמה | זו הסיבה</title>
-      <link>https://www.ice.co.il/local-news/news/article/1108218</link>
-      <summary>הרשות הלאומית לבטיחות בדרכים חשפה את הנתונים הקשים לשנת 2026 כשרבע ממספר ההרוגים נרשם רק בחודש מרץ. מניתוח הדברים עלה כי מרבית הנהגים נאלצים לקבל החלטה תחת לחץ האזעקות</summary>
-      <pubDate>2026/03/31 20:36:56</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_571/rsz_615_346_29ice11112025.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>המניות שזינקו בבורסה: אלו המנצחות של "שאגת הארי" - נתונים מפתיעים</title>
-      <link>https://www.ice.co.il/top-5/news/article/1108219</link>
-      <summary>מדד ת"א-125 הציג זינוקים מפתיעים במרץ 2026, בעוד הכותרות עסקו בלחימה. אלו החברות ששרדו את המתיחות הביטחונית ודהרו קדימה עם ביצועים חזקים במיוחד</summary>
-      <pubDate>2026/03/31 20:34:03</pubDate>
-      <priority>55</priority>
+      <title>בשידור חי בערוץ 14: הכוכב החדש שהפך להיות אישיו ב'פטריוטים'</title>
+      <link>https://www.ice.co.il/social/news/article/1108243</link>
+      <summary>העיתונאי החרדי הגיע לשידור מותש מהכנות לפסח, אך המגישים לא יכלו להתעלם מחיית המחמד הייחודית שנכנסה לביתו</summary>
+      <pubDate>2026/04/01 01:47:43</pubDate>
+      <priority>50</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_544/rsz_615_346_17ice24062025.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_576/rsz_615_346_צילום מסך 2025-12-09 024228.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>לוסי אהריש מודה: "אני מסתובבת עם רגש של שנאה שלא הכרתי"</title>
-      <link>https://www.ice.co.il/media/news/article/1108236</link>
-      <summary>מגישת רשת 13, לוסי אהריש, שחווה תקופה מטלטלת בחייה, סיפרה על הימים שאחרי ה-7 באוקטובר: "רגשות הנקם מאוד מובנים לי. אתה לא מבין איך אנשים מסוגלים לעשות דבר כזה. אי אפשר לדמיין את זה"</summary>
-      <pubDate>2026/03/31 22:21:42</pubDate>
+      <title>הדרמה בוול סטריט: המדדים זינקו בחדות בסוף הרבעון</title>
+      <link>https://www.ice.co.il/finance/news/article/1108242</link>
+      <summary>לאחר ארבעה ימי ירידות, נאסד"ק הוביל את העליות עם 3.8%, אך הרבעון הראשון ננעל בירידות מצטברות של עד 7% בחלק מהמדדים</summary>
+      <pubDate>2026/04/01 00:29:22</pubDate>
       <priority>50</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_469/rsz_615_346_14ice11072024.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_576/rsz_615_346_צילום מסך 2025-12-08 223439.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
