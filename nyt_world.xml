@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-01T10:00:56.639867</generated>
+  <generated>2026-04-01T12:03:35.982036</generated>
   <items>
     <item>
       <title>Trump Says U.S. Military Campaign to Wind Down and Plans National Address</title>
       <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump</link>
       <summary>“We will be leaving very soon,” the president told reporters in the Oval Office. A few hours later, the White House said Mr. Trump would provide “an important update on Iran” on Wednesday evening.</summary>
-      <pubDate>Wed, 01 Apr 2026 05:53:02 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 08:46:10 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31trump-news-promo0020h/31trump-news-trump2-jkqc-mediumSquareAt3X.jpg</image>
@@ -60,10 +60,21 @@
       </media>
     </item>
     <item>
+      <title>Israelis Prepare to Celebrate Passover in Shadow of War</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/israel-iran-passover.html</link>
+      <summary>The atmosphere during preparations for the Jewish festival has been unusually subdued, with people afraid to stray far from their homes and shelters.</summary>
+      <pubDate>Wed, 01 Apr 2026 08:52:45 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-passover-topart-fjlq/01israel-iran-passover-topart-fjlq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>The Sailors Stranded in the Persian Gulf</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html</link>
       <summary>Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.</summary>
-      <pubDate>Wed, 01 Apr 2026 04:01:12 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 04:01:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
@@ -82,28 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Israel Strikes Tehran Pharmaceutical Plant, Claiming Military Link</title>
-      <link>https://www.nytimes.com/2026/03/31/world/middleeast/tehran-pharmaceutical-strike-israel.html</link>
-      <summary>Iran’s foreign minister, Abbas Araghchi, said on Tuesday that Israel was “openly and unashamedly bombing pharmaceutical companies.”</summary>
-      <pubDate>Wed, 01 Apr 2026 00:59:39 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-pharmaceutical-company-hit1-qmkh/31israel-iran-pharmaceutical-company-hit1-qmkh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Narges Mohammadi Denied Treatment after Heart Attack in Iranian Prison, Husband Says</title>
-      <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump/narges-mohammadi-heart-attack-iranian-prison</link>
-      <summary />
-      <pubDate>Tue, 31 Mar 2026 22:44:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-narges-mohammadi1-hcbj/31israel-iran-narges-mohammadi1-hcbj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. Senators Press Taiwan to Raise Military Spending, as China Protests</title>
       <link>https://www.nytimes.com/2026/03/31/world/asia/senators-taiwan-military.html</link>
       <summary>Four visiting senators urged Taiwan to break an impasse over a $40 billion budget proposal, highlighting concerns in Washington about the threat from China.</summary>
@@ -113,6 +102,13 @@
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-taiwan-US-senators-qvwc/31int-taiwan-US-senators-qvwc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html</link>
+      <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
+      <priority>90</priority>
     </item>
   </items>
 </content-feed>
