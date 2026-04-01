@@ -2,18 +2,58 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-01T14:01:44.253853</generated>
+  <generated>2026-04-01T16:00:55.569637</generated>
   <items>
     <item>
-      <title>Trump Says U.S. Military Campaign to Wind Down and Plans National Address</title>
-      <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump</link>
-      <summary>“We will be leaving very soon,” the president told reporters in the Oval Office. A few hours later, the White House said Mr. Trump would provide “an important update on Iran” on Wednesday evening.</summary>
-      <pubDate>Wed, 01 Apr 2026 09:07:33 +0000</pubDate>
+      <title>Iran War Live Updates: Trump Berates Allies While Signaling He Will Wind Down the War</title>
+      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news</link>
+      <summary>President Trump said that he was considering leaving NATO over allies’ failure to support his Iran offensive. He suggested that the U.S. war would end in two or three weeks and that Iran’s closure of the Strait of Hormuz would be a problem for others to solve.</summary>
+      <pubDate>Wed, 01 Apr 2026 12:49:51 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31trump-news-promo0020h/31trump-news-trump2-jkqc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo7am-cjtg/01israel-iran-promo7am-cjtg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>Israel’s Message to Southern Lebanon: Shiites Must Go</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
+      <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from their towns, the leaders said.</summary>
+      <pubDate>Wed, 01 Apr 2026 10:43:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Sailors Stranded in the Persian Gulf</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html</link>
+      <summary>Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:01:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group</title>
+      <link>https://www.nytimes.com/2026/04/01/world/bank-of-america-attack-pro-iranian-group.html</link>
+      <summary>The group is suspected of involvement in a string of attacks on Jewish targets in Belgium, Britain and the Netherlands.</summary>
+      <pubDate>Wed, 01 Apr 2026 12:00:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-france-attack-khjt/01int-france-attack-khjt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>29 Killed in Russian Military Plane Crash in Crimea</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html</link>
+      <summary>Investigators cited a possible technical malfunction.</summary>
+      <pubDate>Wed, 01 Apr 2026 09:17:54 +0000</pubDate>
+      <priority>100</priority>
     </item>
     <item>
       <title>Europe Has a ‘Guns vs. Butter’ Problem. War in Iran Makes It Worse.</title>
@@ -27,57 +67,6 @@
       </media>
     </item>
     <item>
-      <title>King Charles to Visit U.S. as Tensions Rise Between Trump and Britain</title>
-      <link>https://www.nytimes.com/2026/03/31/world/europe/king-charles-state-visit-trump.html</link>
-      <summary>President Trump has fired criticism at America’s longtime ally over the war in Iran, but there are hopes that the royal visit will help shore up relations.</summary>
-      <pubDate>Tue, 31 Mar 2026 14:54:50 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/world/31int-uk-royals-trump-1/31int-uk-royals-trump-1-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How the U.K.’s Leader Decides Which U.S. Bombers to Let Fly Against Iran</title>
-      <link>https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html</link>
-      <summary>As the United States expands its armada of warplanes on British soil, Prime Minister Keir Starmer says he is trying to defend Britain’s interests while keeping the country out of war.</summary>
-      <pubDate>Tue, 31 Mar 2026 13:53:15 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-uk-us-iran-01-tgph/31int-uk-us-iran-01-tgph-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks</title>
-      <link>https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html</link>
-      <summary>Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.</summary>
-      <pubDate>Tue, 31 Mar 2026 01:10:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00-HFOisrael-deathpenalty-hzkj/00-HFOisrael-deathpenalty-hzkj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel’s Message to Southern Lebanon: Shiites Must Go</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
-      <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from their towns, the leaders said.</summary>
-      <pubDate>Wed, 01 Apr 2026 10:43:12 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>29 Killed in Russian Military Plane Crash in Crimea</title>
-      <link>https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html</link>
-      <summary>Investigators cited a possible technical malfunction.</summary>
-      <pubDate>Wed, 01 Apr 2026 09:17:54 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Israelis Prepare to Celebrate Passover in Shadow of War</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/israel-iran-passover.html</link>
       <summary>The atmosphere during preparations for the Jewish festival has been unusually subdued, with people afraid to stray far from their homes and shelters.</summary>
@@ -89,15 +78,22 @@
       </media>
     </item>
     <item>
-      <title>U.S. Senators Press Taiwan to Raise Military Spending, as China Protests</title>
-      <link>https://www.nytimes.com/2026/03/31/world/asia/senators-taiwan-military.html</link>
-      <summary>Four visiting senators urged Taiwan to break an impasse over a $40 billion budget proposal, highlighting concerns in Washington about the threat from China.</summary>
-      <pubDate>Tue, 31 Mar 2026 12:18:38 +0000</pubDate>
-      <priority>90</priority>
+      <title>Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks</title>
+      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html</link>
+      <summary>The White House said the president would address the nation about Iran on Wednesday evening.</summary>
+      <pubDate>Wed, 01 Apr 2026 01:38:40 +0000</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-taiwan-US-senators-qvwc/31int-taiwan-US-senators-qvwc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-trump-prexy-vis-lbwh/31dc-trump-prexy-vis-lbwh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html</link>
+      <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>U.S. Plans Military Expansion in Greenland</title>
