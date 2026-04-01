@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-01T02:01:04.935910</generated>
+  <generated>2026-04-01T04:01:04.356834</generated>
   <items>
-    <item>
-      <title>Activists in Haiti say at least 30 people are dead after a gang attacks a town again</title>
-      <link>https://abcnews.com/International/wireStory/activists-haiti-30-people-dead-after-gang-attacks-131544611</link>
-      <summary>Human rights activists in Haiti say at least 30 people are dead and dozens more are missing after a gang renewed its attack on a town in the country's central region</summary>
-      <pubDate>Mon, 30 Mar 2026 11:40:04 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Oil-thirsty Asian nations seek Russian crude as Iran war strains supplies</title>
       <link>https://abcnews.com/International/wireStory/oil-thirsty-asian-nations-seek-russian-crude-iran-131561458</link>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>China factory activity rebounds in March as Iran war looms over growth</title>
+      <link>https://abcnews.com/International/wireStory/china-factory-activity-rebounds-march-iran-war-looms-131562603</link>
+      <summary>China is reporting that factory activity expanded in March, reversing two straight months of contraction</summary>
+      <pubDate>Tue, 31 Mar 2026 03:46:33 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_1dece7eda196b93706091b7b52eef94a_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Czech police arrest a man who claimed responsibility for attack in Prague</title>
       <link>https://abcnews.com/International/wireStory/czech-police-arrest-man-claimed-responsibility-attack-russian-131567697</link>
       <summary>Czech police say they have arrested a foreign man who claims he threw Molotov cocktails at a Russian cultural center in Prague last week</summary>
@@ -45,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_ec1f1b6ca575d0e3c72c1c0b0e7cb62f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Japan deploys its first long-range missiles</title>
+      <link>https://abcnews.com/International/wireStory/japan-deploys-long-range-missiles-131566210</link>
+      <summary>Japan has deployed its first long-range missile at a southwestern army camp as the country accelerates its offensive capability in response to growing global challenges, including an increasingly assertive China</summary>
+      <pubDate>Tue, 31 Mar 2026 03:46:48 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_40322ab51735b2ce17ce6f02d224d14f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Brazilian inmates find relief and reduce sentences through reading</title>
-      <link>https://abcnews.com/International/wireStory/brazilian-inmates-find-relief-reduce-sentences-reading-131532145</link>
-      <summary>Brazil has a nationwide program that lets prisoners cut their sentences by reading books and proving they understood them</summary>
-      <pubDate>Mon, 30 Mar 2026 02:47:47 -0400</pubDate>
-      <priority>65</priority>
+      <title>With Spielberg's help, a 101-year-old Auschwitz survivor has become a mighty warrior against hate</title>
+      <link>https://abcnews.com/International/wireStory/spielbergs-101-year-auschwitz-survivor-become-mighty-warrior-131567313</link>
+      <summary>A 101-year-old survivor of Auschwitz has, with help from Steven Spielberg, become a mighty warrior against antisemitism in France</summary>
+      <pubDate>Tue, 31 Mar 2026 05:22:55 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_82f4c0e3a4a9f32489b3a070286a1302_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Cambodia advances a scam center law with penalties of up to life in prison</title>
-      <link>https://abcnews.com/International/wireStory/cambodia-advances-scam-center-law-penalties-life-prison-131536194</link>
-      <summary>Cambodia's lawmakers have passed legislation to crack down on online scam centers that have made the country a cybercrime hub</summary>
-      <pubDate>Mon, 30 Mar 2026 07:41:30 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_eb296eedd73b026bdf54a0059f6e2940_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_58b9594cc8290d40f1687dcb1c4a2579_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

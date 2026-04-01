@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-01T02:00:53.885414</generated>
+  <generated>2026-04-01T04:00:55.861826</generated>
   <items>
     <item>
       <title>'The View' hosts ask Rahm Emanuel if Trump started Iran war to distract from Epstein</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/rahm-emanuel-age-limits-president.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>NYC rideshare driver reportedly forced out of his own SUV at gunpoint after refusing four masked men rides</title>
+      <link>https://www.foxnews.com/us/nyc-rideshare-driver-reportedly-forced-own-suv-gunpoint-refusing-four-masked-men-rides</link>
+      <summary>A NYC rideshare driver was reportedly carjacked at gunpoint by four masked men in Lower Manhattan, and the stolen SUV was later recovered in Newark, N.J.</summary>
+      <pubDate>Tue, 31 Mar 2026 19:42:40 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/03/masked-men-gif.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Young brothers find human skull near creek; dozens more bones discovered in deadly mystery</title>
+      <link>https://www.foxnews.com/us/young-brothers-find-human-skull-near-creek-dozens-more-bones-discovered-deadly-mystery</link>
+      <summary>Two young brothers playing near a South Carolina creek discovered a human skull and roughly 45 bones, prompting a death investigation by authorities.</summary>
+      <pubDate>Tue, 31 Mar 2026 19:26:59 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/coroners-find-human-remains-near-south-carolina-creek.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Super Bowl heading back to Las Vegas as NFL confirms 2029 site</title>
       <link>https://www.foxnews.com/sports/super-bowl-heading-back-las-vegas-nfl-confirms-2029-site</link>
       <summary>The NFL has officially awarded Las Vegas Super Bowl LXIII in 2029, with Allegiant Stadium set to host the big game for the second time in five years.</summary>
@@ -38,79 +60,57 @@
       </media>
     </item>
     <item>
-      <title>PHOTOS: Anti-ICE agitators dox agents by sending warning postcards to neighbors</title>
-      <link>https://www.foxnews.com/politics/photos-anti-ice-agitators-doxx-agents-sending-warning-postcards-neighbors</link>
-      <summary>DHS says anti-ICE activists are doxxing immigration agents by mailing warning postcards to neighbors, adding to an alleged 8,000% surge in death threats.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:31:31 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ice-agent-doxxed-beware.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump floats dragging Congress back during spring recess to end shutdown — but one hurdle stands in the way</title>
-      <link>https://www.foxnews.com/politics/trump-floats-dragging-congress-back-during-spring-recess-end-shutdown-one-hurdle-stands-way</link>
-      <summary>Trump says calling Congress back from Easter recess to end the record 45-day DHS shutdown is under consideration, but a GOP insider calls it unlikely.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:04:40 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/931/523/AP24094055840651.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Forrest Gump' star Gary Sinise warns many Americans are 'disconnected' from military service</title>
-      <link>https://www.foxnews.com/media/gary-sinise-warns-many-americans-have-no-connection-those-who-serve</link>
-      <summary>Actor Gary Sinise warns many Americans are disconnected from military service because they don&amp;apos;t personally know anyone who serves, adding that gap threatens appreciation for troops.</summary>
-      <pubDate>Tue, 31 Mar 2026 16:59:49 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/gary-sinise-forrest-gump-military-veterans-fox-news.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Illegal alien murder suspect avoided system as ICE pushes Dem governor to keep him locked up</title>
-      <link>https://www.foxnews.com/politics/illegal-alien-murder-suspect-avoided-system-ice-pushes-dem-governor-keep-him-locked-up</link>
-      <summary>A Guatemalan national illegally in the U.S. faces a murder charge in a Fairfax County stabbing, with ICE lodging a detainer and urging Virginia not to release him.</summary>
-      <pubDate>Tue, 31 Mar 2026 18:46:18 -0400</pubDate>
+      <title>Trump signs executive order overhauling mail-in voting in major election integrity push</title>
+      <link>https://www.foxnews.com/politics/trump-signs-executive-order-overhauling-mail-in-voting-major-election-integrity-push</link>
+      <summary>Trump signed an executive order targeting mail-in voting and voter eligibility, directing agencies to compile citizenship lists and add USPS tracking.</summary>
+      <pubDate>Tue, 31 Mar 2026 20:18:11 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fairfax-county-stabbing-illegal-immigrant-charged-virginia-002.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/president-signs-mail-in-voting-eo.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Kristi Noem, Trump respond to shocking cross-dressing photos tied to her husband</title>
-      <link>https://www.foxnews.com/politics/kristi-noem-trump-respond-shocking-cross-dressing-photos-tied-her-husband</link>
-      <summary>Photos allegedly showing Kristi Noem&amp;apos;s husband Bryon Noem cross-dressing in private messages to women have emerged.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:38:38 -0400</pubDate>
+      <title>Man charged in 'particularly heinous' killing of DC resident found bound and set on fire in ritzy area: police</title>
+      <link>https://www.foxnews.com/us/man-charged-particularly-heinous-killing-dc-resident-found-bound-set-fire-ritzy-area-police</link>
+      <summary>Rico Rashaad Barnes was arrested in the robbery-murder of Syed Hammad Hussain, whose D.C. apartment was allegedly ransacked and set ablaze after his death.</summary>
+      <pubDate>Tue, 31 Mar 2026 20:04:05 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/bryon-noem-fox-news-004.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rico-barnes-dc-01.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Aggressive brain cancer may respond to high-dose vitamin therapy, study suggests</title>
-      <link>https://www.foxnews.com/health/aggressive-brain-cancer-may-respond-high-dose-vitamin-therapy-study-suggests</link>
-      <summary>High-dose vitamin B3 (niacin) may boost immune function and slow glioblastoma progression, with 82% of trial patients showing no disease progression after six months.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:29:28 -0400</pubDate>
+      <title>New ‘Supergirl’ star braces for backlash, believing women face scrutiny for 'simply existing' in franchises</title>
+      <link>https://www.foxnews.com/media/new-supergirl-star-braces-backlash-believing-women-face-scrutiny-simply-existing-franchises</link>
+      <summary>“Supergirl&amp;quot; star Milly Alcock said she fears backlash ahead of the film’s June premiere, arguing women in major franchises are often criticized for “simply existing.&amp;quot;</summary>
+      <pubDate>Tue, 31 Mar 2026 20:00:04 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/female-cancer-patient.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/milly-alcock-supergirl-fox-news.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Federal judge revokes US citizenship of Chinese couple convicted of stealing medical trade secrets for China</title>
-      <link>https://www.foxnews.com/us/federal-judge-revokes-us-citizenship-chinese-couple-convicted-stealing-medical-trade-secrets-china</link>
-      <summary>A married Chinese couple had their U.S. citizenship revoked after being convicted of stealing trade secrets from an Ohio children&amp;apos;s hospital to share with China.</summary>
-      <pubDate>Tue, 31 Mar 2026 17:21:54 -0400</pubDate>
+      <title>Family ramps up search for missing coffee shop owner, mother of two, urges public to check cameras</title>
+      <link>https://www.foxnews.com/us/family-ramps-up-search-missing-coffee-shop-owner-mother-two-urges-public-check-cameras</link>
+      <summary>Amy Hillyard, 52, has been missing from Oakland since March 25. Authorities classified her as at-risk, and hundreds of volunteers are searching the East Bay.</summary>
+      <pubDate>Tue, 31 Mar 2026 19:55:39 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/931/523/us-china.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/amy-hillyard-1.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Costco's $140, 10-pound Easter bunny has shoppers questioning price and instructions to smash it apart</title>
+      <link>https://www.foxnews.com/food-drink/costcos-140-10-pound-easter-bunny-has-shoppers-questioning-price-plus-instructions-smash-apart</link>
+      <summary>A giant 10-pound chocolate Easter bunny from Costco, priced up to $140, has sparked debate on social media over its price, quality and smash-to-eat instructions.</summary>
+      <pubDate>Tue, 31 Mar 2026 19:46:28 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/chocolate-bunny-split.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

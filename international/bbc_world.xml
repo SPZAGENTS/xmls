@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-01T02:00:53.235414</generated>
+  <generated>2026-04-01T04:00:55.360942</generated>
   <items>
     <item>
       <title>Iran using children in security roles in war, reports and witnesses say</title>
@@ -40,11 +40,22 @@
     <item>
       <title>Judge temporarily halts construction of Trump's White House ballroom</title>
       <link>https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Republican-appointed judge ruled that Trump was the "steward" of the White House, but not the "owner".</summary>
-      <pubDate>Tue, 31 Mar 2026 22:16:06 GMT</pubDate>
+      <summary>The Republican-appointed judge ruled that Trump was a "steward" of the White House, not the owner.</summary>
+      <pubDate>Tue, 31 Mar 2026 23:58:29 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d3/live/9d15b4e0-2d38-11f1-8c7a-d7713554a96a.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb1/live/563386c0-2d5a-11f1-b633-8319d55ee810.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'You're no longer my sister' - rows erupt as war divides Iranian families</title>
+      <link>https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>People in Iran describe angry scenes and tense relationships as rifts open up over the war.</summary>
+      <pubDate>Tue, 31 Mar 2026 23:25:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,57 +71,46 @@
       </media>
     </item>
     <item>
-      <title>How Pakistan won over Trump to become an unlikely mediator in the Iran war</title>
-      <link>https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Pakistan's role as intermediary in this conflict took many by surprise. But perhaps it shouldn't have.</summary>
-      <pubDate>Tue, 31 Mar 2026 02:33:18 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed4/live/2d00ae60-2cb8-11f1-b9bb-6dfb750e57ca.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Inside the cockpit of RAF tanker during defensive mission against Iranian drones</title>
-      <link>https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.</summary>
-      <pubDate>Mon, 30 Mar 2026 23:10:44 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Long queues in Myanmar as Iran war fuel crisis deepens</title>
-      <link>https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Drivers are queuing for hours at petrol stations in Myanmar as the Iran war continues to send shockwaves across the globe.</summary>
-      <pubDate>Mon, 30 Mar 2026 22:03:59 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e7/live/cc704a40-2c46-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>US journalist Shelly Kittleson kidnapped in Baghdad</title>
       <link>https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.</summary>
       <pubDate>Tue, 31 Mar 2026 21:08:35 GMT</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/93b6a420-2d2b-11f1-a36a-2bc3523bb833.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74f/live/0ae033f0-2d5d-11f1-ba5e-31fb01ddb409.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>How the US could try to seize Iran's Kharg Island</title>
-      <link>https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Donald Trump has indicated he could send troops to take control of Iran's key oil export terminal.</summary>
-      <pubDate>Mon, 30 Mar 2026 14:54:47 GMT</pubDate>
-      <priority>90</priority>
+      <title>US Army pilots who flew near Kid Rock's home suspended and then reinstated within hours</title>
+      <link>https://www.bbc.com/news/articles/c4gx2rw87e9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The crews of two military helicopters were suspended by the army, then told there would be "no investigation" by Defence Secretary Pete Hegseth.</summary>
+      <pubDate>Wed, 01 Apr 2026 00:51:56 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422b/live/289593e0-2c3b-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/268d/live/f3fb2740-2d51-11f1-8287-670af2c7ae92.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Wolf bites woman in shock German attack on busy Hamburg shopping street</title>
+      <link>https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.</summary>
+      <pubDate>Tue, 31 Mar 2026 13:00:32 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f399/live/d18ee660-2cfc-11f1-b960-35ed0ba67153.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US</title>
+      <link>https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Seizing the stockpile would be one of the "most complicated special operations in history", a former defence official tells the BBC.</summary>
+      <pubDate>Tue, 31 Mar 2026 23:16:15 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f06/live/2896dc70-2d38-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
