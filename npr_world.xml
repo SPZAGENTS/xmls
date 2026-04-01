@@ -2,21 +2,42 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-01T16:01:04.149887</generated>
+  <generated>2026-04-01T20:01:40.381206</generated>
   <items>
     <item>
-      <title>Trump to address nation after saying U.S. may leave war within weeks</title>
+      <title>After Israel's invasion, many in southern Lebanon worry they'll never go home</title>
+      <link>https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation</link>
+      <summary>Israel says it's creating a "security zone" inside Lebanon, where homes will be demolished, and residents won't be allowed to return home until people in northern Israel feel safe.</summary>
+      <pubDate>Wed, 01 Apr 2026 11:15:11 -0400</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump will address the nation after saying the U.S. may leave the Iran war within weeks</title>
       <link>https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump</link>
-      <summary>President Trump is set to address the nation on the Iran war at 9 p.m. Eastern time on Wednesday night, with White House press secretary Karoline Leavitt saying he would be providing "an important update," without providing further details.</summary>
+      <summary>President Trump is set to address the nation on the Iran war Wednesday night and provide an "important update," White House press secretary Karoline Leavitt said.</summary>
       <pubDate>Wed, 01 Apr 2026 06:02:54 -0400</pubDate>
       <priority>100</priority>
     </item>
     <item>
-      <title>NASA's Artemis II astronauts are hours away from moon launch. Watch it here</title>
+      <title>WATCH LIVE: NASA's Artemis II astronauts launch to the moon</title>
       <link>https://www.npr.org/2026/04/01/nx-s1-5768254/nasa-astronauts-about-to-launch-moon-artemis-ii</link>
       <summary>NASA's Artemis II mission aims to send four astronauts around the moon on a roughly 10-day journey that could help pave the way toward a future lunar landing.</summary>
       <pubDate>Wed, 01 Apr 2026 05:00:00 -0400</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>A propaganda war on the National Mall pits Trump against satirical statues and posters</title>
+      <link>https://www.npr.org/2026/04/01/nx-s1-5770077/president-trump-national-mall-jeffrey-epstein-stephen-miller-pam-bondi</link>
+      <summary>The Trump administration and its critics are waging a war of images on the National Mall like none before. The president's face stares down from federal buildings while statues and posters mock him below.</summary>
+      <pubDate>Wed, 01 Apr 2026 12:22:11 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Greetings from London, where a big COVID memorial holds vigil over the halls of power</title>
+      <link>https://www.npr.org/2026/04/01/nx-s1-5767068/london-uk-covid-memorial-wall</link>
+      <summary>Britain's 1,640-foot-long National Covid Memorial Wall stretches along the River Thames, with over a quarter million hearts representing the lives lost during the pandemic — across from Parliament.</summary>
+      <pubDate>Wed, 01 Apr 2026 08:50:36 -0400</pubDate>
+      <priority>80</priority>
     </item>
     <item>
       <title>From scrappy startup to tech giant, Apple celebrates its 50th year</title>
@@ -47,32 +68,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Suspension lifted for helicopter pilots who hovered near Kid Rock's home</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5769800/suspension-lifted-helicopter-pilots-kid-rock</link>
-      <summary>The Army pilots who hovered two helicopters near Kid Rock's Tennessee home during a training run while he clapped and saluted have had their suspension lifted, Defense Secretary Pete Hegseth said Tuesday.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:32:45 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump plans to attend Wednesday's Supreme Court hearing on birthright citizenship</title>
-      <link>https://www.npr.org/2026/04/01/g-s1-116019/trump-attend-supreme-court-birthright-citizenship</link>
-      <summary>President Donald Trump plans to sit in on Wednesday's Supreme Court hearing on birthright citizenship, making him the first sitting president to attend oral arguments at the nation's highest court.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:26:14 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Food assistance slashed for hundreds of thousands of Rohingya refugees trapped in Bangladesh camps</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5769798/food-assistance-slashed-rohingya-refugees-bangladesh-camps</link>
-      <summary>Hundreds of thousands of Rohingya refugees struggling to survive in Bangladesh's overcrowded camps will see their food assistance slashed starting on Wednesday, raising alarm throughout the increasingly desperate community.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:24:16 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Tiger Woods says he'll seek treatment after pleading not guilty to DUI</title>
-      <link>https://www.npr.org/2026/04/01/g-s1-116015/tiger-woods-seek-treatment</link>
-      <summary>Woods said Tuesday he is stepping away to seek treatment, four days after his vehicle crashed in Florida and he was arrested on suspicion of driving under the influence. He will miss the Masters for the second straight year.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:14:35 -0400</pubDate>
-      <priority>65</priority>
+      <title>Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App</title>
+      <link>https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app</link>
+      <summary>Tuesday's ruling reinstates the immigration status of those who came via CBP One and whose status was terminated.</summary>
+      <pubDate>Wed, 01 Apr 2026 12:14:21 -0400</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
