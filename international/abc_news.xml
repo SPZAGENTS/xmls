@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-01T16:01:01.148300</generated>
+  <generated>2026-04-01T18:05:31.929564</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump hints at US leaving NATO, cites allied reluctance on Iran</title>
+      <title>Iran live updates: Trump says Iran's 'new regime president' asked for ceasefire</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 01 Apr 2026 07:09:36 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 09:07:52 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Tel-aviv-strike-DB-260401_1775026861691_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-260330_1774875236410_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,21 +27,32 @@
       </media>
     </item>
     <item>
-      <title>Artemis II live updates: Window for launch opens today</title>
-      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
-      <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Wed, 01 Apr 2026 08:29:38 -0400</pubDate>
-      <priority>95</priority>
+      <title>On reopening the Strait of Hormuz, Trump tries to shift responsibility away from US</title>
+      <link>https://abcnews.com/Politics/reopening-strait-hormuz-trump-shift-responsibility-us/story?id=131579105</link>
+      <summary>As oil and gas prices soar amid Iran's stranglehold on the Strait of Hormuz, President Trump is now suggesting it's not the U.S.'s problem to solve.</summary>
+      <pubDate>Tue, 31 Mar 2026 15:20:34 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/artemis-2-ht-gmh-260401._1775045893070_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260330_1774875235386_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
+      <title>WATCH: Details about the historic Artemis II launch</title>
+      <link>https://abcnews.com/video/131614401/</link>
+      <summary>After more than 50 years, NASA is taking a key step towards its long-term return to the moon with Artemis II.</summary>
+      <pubDate>Wed, 01 Apr 2026 10:49:41 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260401_abc_social_rocket_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>LIVE: Supreme Court hears birthright citizenship arguments: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Tue, 31 Mar 2026 08:31:56 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 10:14:03 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -60,13 +71,13 @@
       </media>
     </item>
     <item>
-      <title>Administration must restore legal status for thousands of immigrants, judge rules</title>
-      <link>https://abcnews.com/US/administration-restore-legal-status-thousands-immigrants-judge-rules/story?id=131592574</link>
-      <summary>The Trump administration must restore the legal status of potentially hundreds of thousands of immigrants, a federal judge ruled Tuesday.</summary>
-      <pubDate>Tue, 31 Mar 2026 18:35:34 -0400</pubDate>
+      <title>Justices question administration's 'quirky' arguments in birthright citizenship case</title>
+      <link>https://abcnews.com/US/oral-arguments-underway-supreme-courts-landmark-birthright-citizenship/story?id=131590625</link>
+      <summary>The Supreme Court's oral arguments in its landmark birthright citizenship case are underway.</summary>
+      <pubDate>Wed, 01 Apr 2026 11:03:04 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/CBP-gty-er-260331_1774995029676_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Politics/scotus-gty-er-260330_1774902569305_hpMain_2_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
-      <link>https://abcnews.com/video/131569036/</link>
-      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:54:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
