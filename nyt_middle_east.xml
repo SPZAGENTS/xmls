@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-01T22:01:01.037471</generated>
+  <generated>2026-04-02T00:03:41.537280</generated>
   <items>
+    <item>
+      <title>Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/iran-president-pezeshkian-letter-diplomacy.html</link>
+      <summary>The letter, by President Masoud Pezeshkian of Iran, was at times defiant, patronizing or conciliatory, and came hours before President Trump was set to address the American people on the war.</summary>
+      <pubDate>Wed, 01 Apr 2026 20:25:20 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/world/01israel-iran-pezeshkian-letter/01israel-iran-pezeshkian-letter-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html</link>
@@ -30,10 +41,10 @@
       <title>Heavy bombings across Tehran jolt its war-weary residents.</title>
       <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran</link>
       <summary>Some people in the capital said the blasts on Wednesday morning were among the most powerful they had felt in more than a month of war.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:44:09 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 19:05:43 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-tehran-strikes-jgbc/01israel-iran-tehran-strikes-jgbc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-tehran-strikes-swap-bkzl/01israel-iran-tehran-strikes-swap-bkzl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks</title>
-      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html</link>
-      <summary>The White House said the president would address the nation about Iran on Wednesday evening.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:38:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-trump-prexy-vis-lbwh/31dc-trump-prexy-vis-lbwh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
