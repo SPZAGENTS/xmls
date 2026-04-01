@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-01T10:00:53.416901</generated>
+  <generated>2026-04-01T12:03:30.903827</generated>
   <items>
     <item>
       <title>Marco Rubio warns Iran wanted to be the 'next North Korea' as he sees 'finish line' in conflict</title>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/coroners-find-human-remains-near-south-carolina-creek.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kristi Noem ‘devastated’ by story about her husband’s online activities</title>
+      <link>https://www.foxnews.com/media/kristi-noem-devastated-story-about-her-husbands-online-activities</link>
+      <summary>A former CIA officer warns Kristi Noem may have been a blackmail risk after the Daily Mail reported on her husband Bryon&amp;apos;s alleged secret fetish life.</summary>
+      <pubDate>Wed, 01 Apr 2026 03:00:45 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kristi-noem-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rico-barnes-dc-01.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>New ‘Supergirl’ star braces for backlash, believing women face scrutiny for 'simply existing' in franchises</title>
-      <link>https://www.foxnews.com/media/new-supergirl-star-braces-backlash-believing-women-face-scrutiny-simply-existing-franchises</link>
-      <summary>“Supergirl&amp;quot; star Milly Alcock said she fears backlash ahead of the film’s June premiere, arguing women in major franchises are often criticized for “simply existing.&amp;quot;</summary>
-      <pubDate>Tue, 31 Mar 2026 20:00:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/milly-alcock-supergirl-fox-news.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
