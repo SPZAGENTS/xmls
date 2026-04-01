@@ -2,8 +2,30 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-01T14:01:41.196487</generated>
+  <generated>2026-04-01T16:00:52.245751</generated>
   <items>
+    <item>
+      <title>Lawmaker says Iran targeted him in phishing attack disguised as TV interview</title>
+      <link>https://www.foxnews.com/politics/lawmaker-says-iran-targeted-him-phishing-attack-disguised-tv-interview</link>
+      <summary>Rep. Randy Fine said an Iranian state actor likely carried out a recent cyberattack on his office in an effort to gain access to his personal Gmail account.</summary>
+      <pubDate>Wed, 01 Apr 2026 08:04:33 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/randy-fine-congressman.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump says he's considering pulling US out of NATO over Iran war stance</title>
+      <link>https://www.foxnews.com/politics/trump-nato-withdrawal-iran-war-allies</link>
+      <summary>President Donald Trump said he is considering pulling the U.S. out of NATO after allies declined to support his approach to the Iran conflict.</summary>
+      <pubDate>Wed, 01 Apr 2026 07:24:31 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-nato-iran-war.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>President Trump to address nation with 'important update' on Iran and more top headlines</title>
       <link>https://www.foxnews.com/us/president-trump-address-nation-important-update-iran-more-top-headlines</link>
@@ -16,101 +38,79 @@
       </media>
     </item>
     <item>
-      <title>Exclusive: Sara Netanyahu warns of surging antisemitism and importance of Jewish-Christian alliance</title>
-      <link>https://www.foxnews.com/world/exclusive-sara-netanyahu-warns-surging-antisemitism-importance-jewish-christian-alliance</link>
-      <summary>Sara Netanyahu wrapped up a four-day Washington visit at the invitation of the First Lady Melania Trump focused on tech and education over the backdrop of the Iran war and rising antisemitism.</summary>
-      <pubDate>Wed, 01 Apr 2026 06:30:03 -0400</pubDate>
-      <priority>100</priority>
+      <title>This Passover, no more waiting: A call for strength, unity and the unapologetic defense of Jewish life</title>
+      <link>https://www.foxnews.com/opinion/passover-no-more-waiting-call-strength-unity-unapologetic-defense-jewish-life</link>
+      <summary>Rising antisemitism and the Passover story inspire an urgent plea for decisive leadership and unified action to protect Jewish communities worldwide.</summary>
+      <pubDate>Wed, 01 Apr 2026 07:00:47 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sara-netanyahu-dc.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/american-israel-flag-at-la-protest.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>President Trump says US could finish Iran operation within two to three weeks</title>
-      <link>https://www.foxnews.com/politics/trump-iran-conflict-end-timeline-nuclear-goal</link>
-      <summary>United States President Donald Trump indicated on Tuesday that he thinks America will be finished with attacks on Iran in two to three weeks.</summary>
-      <pubDate>Wed, 01 Apr 2026 05:57:15 -0400</pubDate>
-      <priority>100</priority>
+      <title>Russian military plane crash in Crimea kills 29 people</title>
+      <link>https://www.foxnews.com/world/russian-military-plane-crash-crimea-kills-29-people</link>
+      <summary>A Russian military transport plane crashed in annexed Crimea, killing 29 people aboard as officials pointed to a possible technical malfunction.</summary>
+      <pubDate>Wed, 01 Apr 2026 07:32:08 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-march-31-2026.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/russia-crimea-plane-crash.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>One Month at War With Iran — Can Washington define victory?</title>
-      <link>https://www.foxnews.com/opinion/one-month-at-war-with-iran-can-washington-define-victory</link>
-      <summary>Operation Epic Fury lacks a political end state one month in, as Iran&amp;apos;s regime endures and the Strait of Hormuz remains contested.</summary>
-      <pubDate>Wed, 01 Apr 2026 05:00:54 -0400</pubDate>
-      <priority>100</priority>
+      <title>Palantir CTO warns US has only 'eight days of weapons' in hypothetical battle against China</title>
+      <link>https://www.foxnews.com/media/palantir-cto-warns-us-has-only-eight-days-weapons-hypothetical-battle-against-china</link>
+      <summary>Palantir CTO Shyam Sankar argued AI can give American workers superpowers, helping the U.S. outproduce China and restore its global military edge.</summary>
+      <pubDate>Wed, 01 Apr 2026 07:00:43 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/1200/675/people-on-rooftops-watch-smoke-over-iran.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/shyam-sankar-china-palantir.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>President Trump's new Iran option: USS Tripoli ready to strike fast, hard</title>
-      <link>https://www.foxnews.com/opinion/president-trumps-new-iran-option-uss-tripoli-ready-strike-fast-hard</link>
-      <summary>USS Tripoli&amp;apos;s F-35B Lightning jump jets, MV-22B Ospreys and CH-53E Super Stallions give CENTCOM strike options against Iran in Operation Epic Fury.</summary>
-      <pubDate>Wed, 01 Apr 2026 05:00:17 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/uss-tripoli.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Italy makes heartbreaking history by missing out on third straight World Cup after shootout loss</title>
-      <link>https://www.foxnews.com/sports/italy-makes-heartbreaking-history-missing-out-third-straight-world-cup-after-shootout-loss</link>
-      <summary>Italy made history by missing a third straight World Cup, becoming the first champion to suffer three consecutive tournament absences in heartbreak.</summary>
-      <pubDate>Wed, 01 Apr 2026 06:30:24 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/italy-world-cup.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ex-Vikings captain is 'sick' Minnesota is in legal conflict with Trump admin over males in girls' sports</title>
-      <link>https://www.foxnews.com/sports/ex-vikings-captain-sick-minnesota-now-legal-conflict-trump-admin-over-males-girls-sports</link>
-      <summary>The DOJ is suing Minnesota education agencies, alleging the MDE and MSHSL violate Title IX by allowing biological male trans athletes to compete in girls&amp;apos; sports.</summary>
-      <pubDate>Wed, 01 Apr 2026 06:29:14 -0400</pubDate>
+      <title>White House marks Holy Week, Easter with days of prayer centered on religious liberty</title>
+      <link>https://www.foxnews.com/politics/white-house-marks-holy-week-easter-days-prayer-centered-religious-liberty</link>
+      <summary>FIRST ON FOX: The White House is marking Holy Week with days of prayer and worship, with President Trump participating in a number of events to honor the holiday and celebrate the “right to religious liberty.&amp;quot;</summary>
+      <pubDate>Wed, 01 Apr 2026 07:00:36 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/walz-vikings.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trum-melania.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>EXCLUSIVE: Unearthed videos expose how Trump-endorsed candidate championed DEI in university hiring process</title>
-      <link>https://www.foxnews.com/politics/exclusive-unearthed-videos-expose-how-trump-endorsed-candidate-championed-dei-university-hiring-process</link>
-      <summary>Trump-endorsed Senate hopeful Julia Letlow says she spent years fighting DEI in the House and will keep it up in the Senate,</summary>
-      <pubDate>Wed, 01 Apr 2026 06:00:31 -0400</pubDate>
-      <priority>75</priority>
+      <title>Tennessee library director fired for refusing to move LGBTQ books out of kids' section</title>
+      <link>https://www.foxnews.com/media/tennessee-library-director-fired-refusing-move-lgbtq-books-out-kids-section</link>
+      <summary>Tennessee&amp;apos;s Rutherford County Library Board fired Director Luanne James after she refused to relocate over 100 children&amp;apos;s books flagged for controversial themes.</summary>
+      <pubDate>Wed, 01 Apr 2026 08:00:43 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/julia-letlow-2.jpg?ve=1&amp;tl=1</image>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2023/09/child-library.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Kristi Noem ‘devastated’ by story about her husband’s online activities</title>
-      <link>https://www.foxnews.com/media/kristi-noem-devastated-story-about-her-husbands-online-activities</link>
-      <summary>A former CIA officer warns Kristi Noem may have been a blackmail risk after the Daily Mail reported on her husband Bryon&amp;apos;s alleged secret fetish life.</summary>
-      <pubDate>Wed, 01 Apr 2026 03:00:45 -0400</pubDate>
-      <priority>75</priority>
+      <title>Weight-loss drugs crush food demand as farmers face dumping mountains of potatoes</title>
+      <link>https://www.foxnews.com/food-drink/weight-loss-drugs-crush-food-demand-farmers-face-dumping-mountains-potatoes</link>
+      <summary>Potato farmers report a massive surplus as weight-loss medication use cuts food demand. One farmer has 1.3 million pounds worth about $158,000 at risk of spoiling.</summary>
+      <pubDate>Wed, 01 Apr 2026 08:00:11 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kristi-noem-1.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/andy-goodacre-potato.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Trump admin unlawfully terminated legal status of migrants who used Biden-era app, judge rules</title>
-      <link>https://www.foxnews.com/politics/trump-admin-unlawfully-terminated-legal-status-migrants-who-used-biden-era-app-judge-rules</link>
-      <summary>A federal judge ruled the Trump administration unlawfully ended parole status for migrants who used the CBP One app and ordered DHS to reverse the move.</summary>
-      <pubDate>Wed, 01 Apr 2026 02:54:39 -0400</pubDate>
-      <priority>75</priority>
+      <title>Diamondbacks rookie enters rare company with 2 homers in debut</title>
+      <link>https://www.foxnews.com/sports/diamondbacks-rookie-enters-rare-company-2-homers-debut</link>
+      <summary>Arizona Diamondbacks third baseman Jose Fernandez became just the seventh person since 1900 to hit two home runs in his major league debut.</summary>
+      <pubDate>Wed, 01 Apr 2026 07:22:04 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/donald-trump-memphis-roundtable-001.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mlb-dbacks-jose-fernandez-040126-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
