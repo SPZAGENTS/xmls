@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-01T20:01:31.860914</generated>
+  <generated>2026-04-01T22:00:59.680910</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Downplays Uranium Threat, Sending More Conflicting Signals</title>
       <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news</link>
       <summary>President Trump told Reuters he was no longer worried about Iran’s uranium stockpile because it is “so far underground” and can be monitored by spy satellites. He was set to deliver a speech at 9 p.m. Eastern.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:58:26 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 18:59:32 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo1125am-hjlb/01israel-iran-promo1125am-hjlb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo-2pm-gfjv/01israel-iran-promo-2pm-gfjv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html</link>
+      <summary>The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:31:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-gaza-children-sub-new-fix-woo-zqpv/01int-gaza-children-sub-new-fix-woo-zqpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +30,7 @@
       <title>Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
       <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from southern towns, the leaders said.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:21:41 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 18:50:54 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
@@ -52,7 +63,7 @@
       <title>29 Killed in Russian Military Plane Crash in Crimea</title>
       <link>https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html</link>
       <summary>Investigators cited a possible technical malfunction.</summary>
-      <pubDate>Wed, 01 Apr 2026 09:17:54 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 09:17:55 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -98,13 +109,6 @@
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-netanyahu-qfzl/01israel-iran-netanyahu-qfzl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’</title>
-      <link>https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html</link>
-      <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
-      <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>

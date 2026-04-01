@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-01T20:01:37.168757</generated>
+  <generated>2026-04-01T22:01:06.253412</generated>
   <items>
     <item>
       <title>Iran live updates: Trump is considering withdrawing US from NATO</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 01 Apr 2026 12:51:14 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 12:55:19 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-260330_1774875236410_hpMain_4x3t_384.jpg</image>
@@ -16,10 +16,21 @@
       </media>
     </item>
     <item>
+      <title>Artemis II live updates: Astronauts enter Orion crew module</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Wed, 01 Apr 2026 14:53:34 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/artemis-11-gty-gmh-260401_1775066101295_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Hiker's dog lost in forest rescued by helicopter after strangers fund search</title>
       <link>https://abcnews.com/International/wireStory/hikers-dog-lost-wild-new-zealand-forest-rescued-131603909</link>
       <summary>A lost border collie has been rescued alive after her owner fell from a tall waterfall in New Zealand bush</summary>
-      <pubDate>Wed, 01 Apr 2026 03:22:43 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 14:00:21 -0400</pubDate>
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/Weird/wirestory_b698bf1cb50d6f2b23b61f85ac17f2d7_3x2_384.jpg</image>
@@ -30,7 +41,7 @@
       <title>WATCH: Details about the historic Artemis II launch</title>
       <link>https://abcnews.com/video/131614401/</link>
       <summary>After more than 50 years, NASA is taking a key step towards its long-term return to the moon with Artemis II.</summary>
-      <pubDate>Wed, 01 Apr 2026 10:49:41 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 14:48:50 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260401_abc_social_rocket_hpMain_1x1_384.jpg</image>
@@ -38,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
+      <title>LIVE: Artemis II astronauts entering capsule: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Wed, 01 Apr 2026 12:28:42 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 14:38:48 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,17 +67,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260330_wn_vo_boat_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Justices question administration's 'quirky' arguments in birthright citizenship case</title>
-      <link>https://abcnews.com/US/oral-arguments-underway-supreme-courts-landmark-birthright-citizenship/story?id=131590625</link>
-      <summary>The Supreme Court's oral arguments in its landmark birthright citizenship case are underway.</summary>
-      <pubDate>Wed, 01 Apr 2026 12:36:41 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/scotus-gty-er-260330_1774902569305_hpMain_2_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
