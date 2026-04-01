@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-02T00:03:41.537280</generated>
+  <generated>2026-04-02T02:01:02.123325</generated>
   <items>
+    <item>
+      <title>Iran Is Skeptical About Diplomacy, U.S. Intelligence Says</title>
+      <link>https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html</link>
+      <summary>Any decision by Iran to keep fighting would complicate President Trump’s stated goal of trying to end the war within weeks.</summary>
+      <pubDate>Wed, 01 Apr 2026 22:35:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01dc-iran-intel-01-tcgp/01dc-intel-01-tcgp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s President Suggests Diplomatic Engagement Possible in Letter to U.S. Public</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/iran-president-pezeshkian-letter-diplomacy.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-passover-topart-fjlq/01israel-iran-passover-topart-fjlq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Sailors Stranded in the Persian Gulf</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html</link>
-      <summary>Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.</summary>
-      <pubDate>Wed, 01 Apr 2026 04:01:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

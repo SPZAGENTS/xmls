@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-02T00:03:37.792394</generated>
+  <generated>2026-04-02T02:00:57.030191</generated>
   <items>
     <item>
       <title>Trump to address nation about Iran as he signals war could end within weeks</title>
@@ -27,35 +27,79 @@
       </media>
     </item>
     <item>
-      <title>Nigeria's Christians on edge for Easter after Palm Sunday massacre</title>
-      <link>https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre</link>
-      <summary>Nigeria, ranked seventh-worst in the world for Christian persecution, saw a reported 28 killed on Palm Sunday, with fears Christians could be targeted this Easter.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:24:13 -0400</pubDate>
-      <priority>80</priority>
+      <title>Trump admonishes reporter for interrupting his answer on Iran operations: 'Lot of problems with you'</title>
+      <link>https://www.foxnews.com/media/trump-admonishes-reporter-interrupting-his-answer-iran-operations-lot-problems-you</link>
+      <summary>President Donald Trump remarked he&amp;apos;s &amp;quot;had a lot of problems&amp;quot; with NewsNation correspondent Libbey Dean after she interrupted him during a press conference.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:30:20 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nigeria-christians-cross.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-march-31-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Golf influencer Paige Spiranac shares words of encouragement for Tiger Woods after DUI arrest</title>
-      <link>https://www.foxnews.com/sports/golf-influencer-paige-spiranac-shares-words-encouragement-tiger-woods-after-dui-arrest</link>
-      <summary>Golf influencer Paige Spiranac posted words of encouragement for Tiger Woods after his DUI arrest last week, saying &amp;quot;we are all rooting for Tiger.&amp;quot;</summary>
-      <pubDate>Wed, 01 Apr 2026 15:55:51 -0400</pubDate>
-      <priority>75</priority>
+      <title>Fox News Poll: Broad anxiety about AI doesn’t extend to jobs</title>
+      <link>https://www.foxnews.com/politics/fox-news-poll-broad-anxiety-about-ai-doesnt-extend-jobs</link>
+      <summary>A new poll finds voter concern about AI has risen to 66%, while nearly two-thirds are uncomfortable with military use of autonomous weapons systems.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:00:02 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/paige-spiranac.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/ai-job-replacement-autonomous-weapon-split.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>‘Virginia father’ charged with murdering infant daughter is illegal alien, says DHS</title>
-      <link>https://www.foxnews.com/politics/virginia-father-charged-murdering-infant-daughter-illegal-alien-says-dhs</link>
-      <summary>A “Virginia father&amp;quot; charged with beating his infant daughter to death is an illegal immigrant let into the country under the Biden administration, according to DHS.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:52:20 -0400</pubDate>
-      <priority>75</priority>
+      <title>Artemis II vs Apollo: Why this mission loops the moon but doesn't land</title>
+      <link>https://www.foxnews.com/us/artemis-ii-vs-apollo-why-mission-loops-moon-doesnt-land</link>
+      <summary>NASA&amp;apos;s Artemis II crew prepares for a historic lunar flyby aboard the Orion spacecraft and SLS rocket, traveling farther into space than any humans since Apollo.</summary>
+      <pubDate>Wed, 01 Apr 2026 17:04:29 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/fairfax-county-alleged-infant-murderer-mughsot.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nasa-sls-orion-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Artemis II launches astronauts around the moon in first deep space mission since Apollo</title>
+      <link>https://www.foxnews.com/us/artemis-ii-launches-astronauts-around-moon-first-deep-space-mission-since-apollo</link>
+      <summary>NASA&amp;apos;s Artemis II crew launched on the first crewed lunar mission in over 50 years, sending four astronauts around the moon aboard the Orion spacecraft.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:37:39 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/artemis-ii-liftoff-gif-fox-news-001.gif</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Jalen Brunson's sister blasts ESPN after Stephen A Smith Knicks rant: 'Utterly ridiculous'</title>
+      <link>https://www.foxnews.com/sports/jalen-brunsons-sister-blasts-espn-after-stephen-smith-knicks-rant-utterly-ridiculous</link>
+      <summary>Jalen Brunson&amp;apos;s sister, Erica, blasted ESPN on X after Stephen A. Smith ranted about the Knicks and Josh Hart, calling the coverage &amp;quot;utterly ridiculous.&amp;quot;</summary>
+      <pubDate>Wed, 01 Apr 2026 18:10:40 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jalen-brunson-wife-rant.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Stephen A Smith regrets voting for Kamala Harris, says he lost faith in Democrats</title>
+      <link>https://www.foxnews.com/media/stephen-smith-regrets-voting-kamala-harris-says-he-lost-faith-democrats</link>
+      <summary>Stephen A. Smith said that he regrets voting for former Vice President Kamala Harris, initially believing she could work across the aisle before concluding Democrats still did not understand why they lost.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:00:16 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/stephen-a-smith-talks-hope-forum.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ilhan Omar admits Dems are responsible for DHS shutdown</title>
+      <link>https://www.foxnews.com/media/ilhan-omar-admits-dems-responsible-dhs-shutdown</link>
+      <summary>Rep. Ilhan Omar said Democrats withheld support for a Homeland Security funding bill unless immigration enforcement reforms were included while speaking at a town hall in Minnesota.</summary>
+      <pubDate>Wed, 01 Apr 2026 17:56:11 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/ilhan-omar-hearing.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,50 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/sg-john-sauer.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ted Bundy unmasked in decades-old teen murder as cold case finally solved by DNA: report</title>
-      <link>https://www.foxnews.com/us/ted-bundy-unmasked-decades-old-teen-murder-cold-case-finally-solved-dna-report</link>
-      <summary>New DNA technology linked Ted Bundy to the 1974 Halloween murder of Utah teen Laura Ann Aime, 51 years after her disappearance, officials confirmed.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:28:33 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/ted-bundy-utah-cold-case-murder_03-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jen Shah, Theranos' Elizabeth Holmes bonded in prison over 'poop duty' responsibilities</title>
-      <link>https://www.foxnews.com/entertainment/jen-shah-theranos-elizabeth-holmes-bonded-prison-poop-duty-responsibilities</link>
-      <summary>&amp;quot;Real Housewives&amp;quot; star Jen Shah says she grew close to Theranos founder Elizabeth Holmes over shared &amp;quot;poop duty&amp;quot; and late-night walks at FPC Bryan in Texas.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:07:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jen-shah-elizabeth-holmes.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump hypes moon mission as Artemis II prepares to lift off under pressure from past failures</title>
-      <link>https://www.foxnews.com/politics/trump-hypes-moon-mission-artemis-ii-prepares-lift-off-under-pressure-from-past-failures</link>
-      <summary>Trump celebrated Artemis II as astronauts including Jeremy Hansen prepare to travel around the moon, the first crewed deep-space mission since 1972.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:43:16 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-artemis-ii-launch-hp-thumb-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukraine signals progress on US security guarantees after call with Trump envoys</title>
-      <link>https://www.foxnews.com/world/ukraine-signals-progress-us-security-guarantees-after-call-trump-envoys</link>
-      <summary>Ukrainian President Volodymyr Zelenskyy says talks with Trump envoys Witkoff and Kushner showed progress on Ukraine security guarantees, calling for a leaders&amp;apos; summit to advance peace.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:41:08 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/zelenskyy-telecall.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
