@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-02T00:03:43.592681</generated>
+  <generated>2026-04-02T02:01:03.790169</generated>
   <items>
+    <item>
+      <title>Trump to deliver 'important update' on Iran war in televised speech</title>
+      <link>https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech</link>
+      <summary>Donald Trump will give an “important update” on the Iran war in a prime-time televised address to the American nation on Wednesday evening, which is expected to reiterate the president's timeline for rolling back US military operations in the region.</summary>
+      <pubDate>Wed, 01 Apr 2026 22:05:07 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/84e1792c-2923-11f1-abfb-005056a97e36/w:1024/p:16x9/2026-03-26T145104Z-1949627195-RC2ECKA31DGN-RTRMADP-3-USA-TRUMP.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Debunking claims Israeli Jews are 'stealing land' in Morocco</title>
       <link>https://www.france24.com/en/debunking-claims-israeli-jews-are-stealing-land-in-morocco</link>
@@ -60,13 +71,24 @@
       </media>
     </item>
     <item>
-      <title>Bedouins in Israel’s Negev desert face bomb shelter shortage</title>
-      <link>https://www.france24.com/en/tv-shows/the-observers/20260401-bedouins-israel-negev-desert-shortage-bomb-shelters</link>
-      <summary>As Iranian and Hezbollah air strikes on Israel continue, tens of thousands of Bedouins living in the country’s southern Negev desert have no access to shelters. While some NGOs are attempting to install mobile shelters, they are primarily calling on the government to take acti...</summary>
-      <pubDate>Wed, 01 Apr 2026 15:17:36 GMT</pubDate>
-      <priority>100</priority>
+      <title>Live: Artemis II astronauts embark on historic lunar flyby</title>
+      <link>https://www.france24.com/en/technology/20260401-artemis-2-set-for-historic-crewed-return-around-moon</link>
+      <summary>Four astronauts lifted off Wednesday on NASA’s Artemis II mission, humanity’s first crewed journey around the Moon in over 50 years. The 10-day flight will test new systems, carry the most diverse lunar crew ever, and set the stage for future landings and a sustainable America...</summary>
+      <pubDate>Wed, 01 Apr 2026 22:38:11 GMT</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.france24.com/media/display/33b6af90-2d15-11f1-a7c3-005056bfb2b6/w:1024/p:16x9/Sans-titre-1-Modifie%CC%81-Modifie%CC%81.png</image>
+        <image>https://s.france24.com/media/display/52778c70-2d4b-11f1-a10b-005056bfb2b6/w:1024/p:16x9/2026-03-27T193359Z-48374400-RC27DKARD3WP-RTRMADP-3-SPACE-MOON-ARTEMIS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'There's a certain romanticism to sending humans into space'</title>
+      <link>https://www.france24.com/en/tv-shows/a-propos/20260401-there-s-a-certain-romanticism-to-sending-humans-into-space</link>
+      <summary>Speaking with FRANCE 24's Sharon Gaffney, Dr David Brown, Senior Research Fellow in the Astronomy and Astrophysics Group at Warwick University, hopes that the Artemis II mission "is the start of a new era of human spaceflight", adding that "it is incredibly exciting and inspir...</summary>
+      <pubDate>Wed, 01 Apr 2026 21:12:26 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.france24.com/media/display/59f5725e-2e0f-11f1-9e18-005056a90284/w:1024/p:16x9/capture-29899835569cd8a00e75746-82349829.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.france24.com/media/display/c0e54f7e-2e06-11f1-bcd8-005056bf30b7/w:1024/p:16x9/ANGL260401-2141-Live-01.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Joy and heartbreak as World Cup qualifying marathon ends</title>
-      <link>https://www.france24.com/en/video/20260401-joy-and-heartbreak-as-world-cup-qualifying-marathon-ends</link>
-      <summary>The 48-team field for FIFA ’s biggest ever World Cup is complete after a qualifying process that spanned more than two and a half years. Iraq edged Bolivia 2-1 in an intercontinental playoff at Monterrey in northern Mexico on Tuesday to secure the 48th spot, hours after Bosnia...</summary>
-      <pubDate>Wed, 01 Apr 2026 14:45:23 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.france24.com/media/display/396ec3a0-2dd8-11f1-b22a-005056bfb2b6/w:1024/p:16x9/EN-20260401-153157-153321-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump administration lifts sanctions on Venezuela’s interim leader</title>
-      <link>https://www.france24.com/en/americas/20260401-us-lifts-sanctions-on-venezuela-interim-leader-delcy-rodriguez</link>
-      <summary>The US has lifted sanctions on Delcy Rodriguez, Venezuela’s interim president, in a significant shift following the ouster of Nicolas Maduro. The move comes as relations between Washington and Caracas begin to thaw, with Rodriguez taking steps to open the country’s energy sect...</summary>
-      <pubDate>Wed, 01 Apr 2026 20:44:40 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8290d674-1373-11f1-8530-005056bfb2b6/w:1024/p:16x9/2026-02-20T030431Z-1426192195-RC2DPJAS2KF8-RTRMADP-3-VENEZUELA-ASSEMBLY-AMNESTY-LAW.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

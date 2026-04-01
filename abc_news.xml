@@ -2,13 +2,24 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T00:03:45.631590</generated>
+  <generated>2026-04-02T02:01:05.775594</generated>
   <items>
+    <item>
+      <title>Trump to address nation with 'important update' on Iran</title>
+      <link>https://abcnews.com/Politics/trump-address-nation-important-update-iran/story?id=131600313</link>
+      <summary>President Donald Trump will address the nation Wednesday night to give an "important update" on Iran as the war continues in its fifth week.</summary>
+      <pubDate>Wed, 01 Apr 2026 09:44:08 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/trump-eo-01-gty-jt-260331_1774993799235_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran live updates: Trump is considering withdrawing US from NATO</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:56:12 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 17:09:09 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-260330_1774875236410_hpMain_4x3t_384.jpg</image>
@@ -16,24 +27,24 @@
       </media>
     </item>
     <item>
-      <title>Artemis II live updates: NASA troubleshooting flight termination system issue</title>
+      <title>Artemis II live updates: Artemis II crew lifts off, crosses boundary into space</title>
       <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
       <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:53:02 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 18:49:53 -0400</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/artemis-2-ht-gmh-260401._1775045893070_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/artemis-29-rt-gmh-260401_1775083160758_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Artemis II mission to the moon: By the numbers</title>
-      <link>https://abcnews.com/Technology/artemis-ii-mission-moon-numbers/story?id=131577630</link>
-      <summary>The rocket to send astronauts on a lunar adventure will launch Wednesday.</summary>
-      <pubDate>Tue, 31 Mar 2026 16:22:27 -0400</pubDate>
+      <title>WATCH: Eight-year-old dances down hallway after beating cancer</title>
+      <link>https://abcnews.com/video/131630420/</link>
+      <summary>A heartwarming moment as 8-year-old Royce rings the bell to celebrate the end of his cancer treatment for leukemia at a children’s hospital in Fort Worth, TX, even hitting a cartwheel along the way.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:21:42 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/Technology/artemis-ap-jef-260331_1774972112186_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/Health/260401_abc_social_cancer_beat_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +71,24 @@
       </media>
     </item>
     <item>
-      <title>Johnson, Thune announce plan to end DHS shutdown 'in the coming days'</title>
+      <title>Johnson, Thune announce plan to end DHS shutdown but could face long road</title>
       <link>https://abcnews.com/Politics/johnson-thune-announce-plan-end-dhs-shutdown-coming/story?id=131623253</link>
       <summary>House Speaker Mike Johnson and Senate Majority Leader John Thune announced a plan for the Republican-controlled Congress to fully fund DHS "in the coming days."</summary>
-      <pubDate>Wed, 01 Apr 2026 15:27:51 -0400</pubDate>
+      <pubDate>Wed, 01 Apr 2026 17:36:15 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/capitol-1-gty-gmh-260401_1775070640746_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Artemis II crew lifts off for the moon</title>
+      <link>https://abcnews.com/video/131631097/</link>
+      <summary>Artemis II has launched, taking four astronauts around the moon for the first time in more than 50 years. The Artemis II crew lifted off at 6:35 p.m. ET from the Kennedy Space Center in Florida.</summary>
+      <pubDate>Wed, 01 Apr 2026 18:56:04 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260401_abcnl_artemis_lift_off_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/gmafl_new_onion_260331_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Delta flight makes emergency landing after engine fire</title>
-      <link>https://abcnews.com/video/131568687/</link>
-      <summary>A Delta Air Lines flight bound for Atlanta was forced to land after flames shot from one of its engines as passengers captured the terrifying moment on camera.</summary>
-      <pubDate>Tue, 31 Mar 2026 14:10:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_benitez_delta2_709_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Mission to the moon: Countdown to Artemis II launch</title>
-      <link>https://abcnews.com/video/131569036/</link>
-      <summary>NASA prepares for Artemis II, the first crewed lunar mission in more than 50 years, with launch just one day away.</summary>
-      <pubDate>Tue, 31 Mar 2026 09:54:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260331_gma_champion_artemis3_715_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

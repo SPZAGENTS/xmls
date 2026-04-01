@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-02T00:03:40.416853</generated>
+  <generated>2026-04-02T02:01:01.086052</generated>
   <items>
     <item>
       <title>Trump prepares to address nation on Iran after vowing to end conflict in ‘weeks’</title>
@@ -10,6 +10,13 @@
       <summary>The White House promised an “important update” on Iran, in what is set to be the president’s first prime-time address since the U.S. and Israeli assault began.</summary>
       <pubDate>Wed, 01 Apr 2026 17:02:37 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump endorses Republican plan to end DHS shutdown</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/01/republicans-trump-shutdown-immigration/</link>
+      <summary>After weeks of negotiations with Democrats, Republicans say they’ll pass a party-line bill to fund ICE and Border Patrol, which would end the partial shutdown.</summary>
+      <pubDate>Wed, 01 Apr 2026 22:23:33 +0000</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Trump attends Supreme Court hearing in unusual role: Silent observer</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com</link>
       <summary />
       <pubDate>Wed, 01 Apr 2026 15:44:40 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>This 5-month-old could have her citizenship stripped if Trump’s order is upheld</title>
-      <link>https://www.washingtonpost.com</link>
-      <summary />
-      <pubDate>Wed, 01 Apr 2026 15:38:27 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
