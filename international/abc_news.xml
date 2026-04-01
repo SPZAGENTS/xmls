@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-01T04:01:03.468141</generated>
+  <generated>2026-04-01T06:01:00.839493</generated>
   <items>
     <item>
       <title>Iran live updates: Trump to address nation with 'important update' on Iran</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 31 Mar 2026 20:04:57 -0400</pubDate>
+      <pubDate>Tue, 31 Mar 2026 22:09:54 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Trump-AF1-DB-260330_1774849855351_hpMain_4x3t_384.jpg</image>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260330_wn_vo_boat_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump unveils presidential library plans with gold Trump statue, gifted jet</title>
+      <link>https://abcnews.com/Politics/trump-unveils-plans-presidential-library-including-gifted-air/story?id=131589343</link>
+      <summary>The president told ABC News that he does not want the project to start until after his current term in office.</summary>
+      <pubDate>Tue, 31 Mar 2026 22:18:36 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/trump-library-1-ht-gmh-260331_1774988469463_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260331_gma_pop1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Chesney the kangaroo found after 3 day search</title>
-      <link>https://abcnews.com/video/131546813/</link>
-      <summary>ABC News' Danny New reports on Chesney the kangaroo's leap out of a petting zoo, where he scaled an eight foot fence after two hunting dogs entered the property.</summary>
-      <pubDate>Mon, 30 Mar 2026 15:13:57 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/chesney_kangaroo_260330_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
