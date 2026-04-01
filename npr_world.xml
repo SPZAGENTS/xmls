@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-01T02:01:06.953249</generated>
+  <generated>2026-04-01T04:01:06.220920</generated>
   <items>
     <item>
       <title>Gas crosses $4 a gallon in the U.S. for the first time in 3 years</title>
@@ -19,13 +19,6 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Supreme Court strikes Colorado ban on conversion therapy</title>
-      <link>https://www.npr.org/2026/03/31/nx-s1-5768105/supreme-court-conversion-therapy-colorado-ban</link>
-      <summary>The Supreme Court has ruled that Colorado's law banning conversion therapy "regulates speech based on viewpoint."</summary>
-      <pubDate>Tue, 31 Mar 2026 11:59:44 -0400</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Domino, the warty frogfish, is the first of its kind to be raised in captivity</title>
       <link>https://www.npr.org/2026/03/31/nx-s1-5766459/warty-frogfish-shedd-aquarium</link>
       <summary>Scientists say the little fish may hold broader lessons for raising other marine species in captivity.</summary>
@@ -35,7 +28,7 @@
     <item>
       <title>Trump signs a new executive order on voting. Experts say he lacks the authority</title>
       <link>https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order</link>
-      <summary>President Trump has signed an executive order as part of an effort to end the practice of voting by mail in the U.S., though election law scholars say he doesn't have the authority.</summary>
+      <summary>Trump's executive order seeks to create lists of U.S. citizens who are eligible to vote in each state, and instruct the U.S. Postal Service to send mail ballots only to verified voters.</summary>
       <pubDate>Tue, 31 Mar 2026 17:54:12 -0400</pubDate>
       <priority>65</priority>
     </item>
@@ -72,6 +65,13 @@
       <link>https://www.npr.org/sections/the-picture-show/2026/03/31/g-s1-115791/hatshepsut-one-of-egypts-greatest-pharaohs</link>
       <summary>NPR art director and illustrator Jackie Lay tells the story of Hatshepsut, who is widely regarded as one of the greatest pharaohs in Egypt's history — but whose legacy was erased for over 3,000 years.</summary>
       <pubDate>Tue, 31 Mar 2026 13:00:00 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>Supreme Court opens door to controversial conversion therapy</title>
+      <link>https://www.npr.org/2026/03/31/nx-s1-5768105/supreme-court-conversion-therapy-colorado-ban</link>
+      <summary>The Supreme Court has ruled that Colorado's law banning conversion therapy "regulates speech based on viewpoint."</summary>
+      <pubDate>Tue, 31 Mar 2026 11:59:44 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — All Articles</title>
-  <source>ynet</source>
-  <generated>2026-04-01T02:03:33.810874</generated>
+  <title>Ynet All Articles — Complete Feed</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-04-01T04:03:08.629467</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
-      <title>Iranian president, FM reemerge in public despite Netanyahu’s threatened '10 plagues' of war</title>
-      <link>https://www.ynetnews.com/article/rkxq0otiwl</link>
-      <summary>Senior Iranian leaders appeared at pro-regime rallies in Tehran after weeks out of public view, signaling defiance despite Israeli claims of targeting top officials; Araghchi: 'There are no negotiations, there is an exchange of messages. We will not accept a ceasefire'</summary>
-      <pubDate>Tue, 31 Mar 2026 23:55:13 +03:00</pubDate>
-      <priority>140</priority>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Israel pushes US to hit Iran energy sites, says it could collapse regime</title>
-      <link>https://www.ynetnews.com/article/byjcjcfo11x</link>
-      <summary>Officials in Jerusalem said a target bank focused on energy facilities and critical infrastructure has already been prepared, with any potential strike now dependent on a decision by Trump</summary>
-      <pubDate>Tue, 31 Mar 2026 22:16:02 +03:00</pubDate>
-      <priority>140</priority>
+      <title>Hezbollah launches dozens of rockets, drones at northern Israel</title>
+      <link>https://www.ynetnews.com/article/bk4vvtkjwg</link>
+      <description>Repeated barrages trigger alerts from Haifa to the Galilee; drones spotted and intercepted as emergency teams report no immediate casualties</description>
+      <pubDate>Tue, 31 Mar 2026 20:35:26 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Netanyahu: Iran no longer poses an existential threat to Israel</title>
-      <link>https://www.ynetnews.com/article/hkt3k9to11x</link>
-      <summary>PM claims Iran had invested nearly $1 trillion in its military buildup, including nuclear and missile programs, and now he says that investment has now been 'wasted'</summary>
-      <pubDate>Tue, 31 Mar 2026 21:22:36 +03:00</pubDate>
-      <priority>140</priority>
+      <title>Israel aiding US with intelligence on Strait of Hormuz, senior defense official says</title>
+      <link>https://www.ynetnews.com/article/b1rp2suobl</link>
+      <description>Official says Jerusalem is helping the US mainly with intelligence on the Strait of Hormuz crisis, as Iranian media reports a plan to tighten Tehran’s control over the strategic waterway and bar ships from the US, Israel and countries imposing sanctions on Iran</description>
+      <pubDate>Mon, 30 Mar 2026 22:36:13 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Israel says air campaign cripples much of Iran’s defense industry</title>
-      <link>https://www.ynetnews.com/article/bkzzkqfiwx</link>
-      <summary>Security officials say Israeli Air Force nearing completion of attacks on Iran’s most vital military-industrial sites, while citing close coordination with US as campaign expands and more targets are prepared for weeks ahead</summary>
-      <pubDate>Tue, 31 Mar 2026 14:10:43 +03:00</pubDate>
-      <priority>130</priority>
+      <title>גוש המדינות החדש - וההצעה של סין והמתווכת להפסקת אש</title>
+      <link>https://www.ynet.co.il/news/article/sj4ojuyo11e</link>
+      <description>הפורום המרובע של פקיסטן, מצרים, סעודיה וטורקיה מנסה לשמר ערוצי קשר עקיפים בין וושינגטון לטהרן, ושכנע את איראן להתיר מעבר ספינות סמלי בהורמוז. בייג'ינג קוראת יחד עם איסלאמאבד להפסקת אש מיידית ותחילת מו"מ בהקדם</description>
+      <pubDate>Tue, 31 Mar 2026 17:55:09 +0300</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>105</priority-score>
+    </item>
+    <item>
+      <title>Katz says IDF will permanently control large swaths of southern Lebanon</title>
+      <link>https://www.ynetnews.com/article/s13yvxyo11e</link>
+      <description>Defense minister says Israeli troops will retain security control up to the Litani River deep inside southern Lebanon after the campaign, homes in border villages would be demolished</description>
+      <pubDate>Tue, 31 Mar 2026 13:48:04 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>105</priority-score>
+    </item>
+    <item>
+      <title>4 IDF commandos killed in close-range clash with Hezbollah terrorists</title>
+      <link>https://www.ynetnews.com/article/rj6c6hojzl</link>
+      <description>Military names Capt. Noam Madmoni, 22; Staff Sgt. Ben Cohen, 21; Staff Sgt. Maxsim Entis, 21; and Staff Sgt. Gilad Harel, 21; Netanyahu: 'We will continue striking our enemies with force'</description>
+      <pubDate>Tue, 31 Mar 2026 12:05:21 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>105</priority-score>
+    </item>
+    <item>
+      <title>צועדים בגלוי, אחרי חודש של מלחמה: נשיא איראן ושר החוץ תועדו ברחובות טהרן</title>
+      <link>https://www.ynet.co.il/news/article/b1a0sotiwx</link>
+      <description>נתניהו דיבר על "מכת בכירים", אבל בטהרן הצטרפו ל"מפגינים" הנשיא פזשכיאן ושר החוץ עראקצ'י. אחרי הפעם הקודמת, חוסל לריג'אני. עראקצ'י: "אין מו"מ, יש חילופי מסרים. התנאים שלנו לסיום המלחמה ברורים. לא נקבל הפסקת אש"</description>
+      <pubDate>Wed, 01 Apr 2026 00:18:42 +0300</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
+    </item>
+    <item>
+      <title>על פרשת דרכים</title>
+      <link>https://www.ynet.co.il/news/article/yokra14727597</link>
+      <description>ההישגים של ישראל וארה"ב משמעותיים: פגיעה אנושה בפרויקט הגרעין, פגיעה קשה בתשתיות האש, וחיזוק ההרתעה מול ההנהגה האיראנית. מנגד, איראן מאמצת אסטרטגיה מוכרת: “אי-הפסד הוא ההצלחה שלי”. המציאות הזו מציבה שתי חלופות ברורות: איום אמריקאי אפקטיבי שיוביל לסיום מהיר של המערכה בתוך ימים,...</description>
+      <pubDate>Wed, 01 Apr 2026 00:07:26 +0300</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
     </item>
     <item>
       <title>נתניהו מנה "10 מכות" על איראן: "הטריליון שהשקיעו ירד לטמיון"</title>
       <link>https://www.ynet.co.il/news/article/bkau5oyiwx</link>
-      <summary>בהצהרה מוקלטת, ללא שאלות, רה"מ אמר כי "אנחנו כותשים את איראן", מנה "10 מכות" ו"10 הישגים", אבל הודה – לאחר מטח של עשרות רקטות לצפון – כי "לצבאות הטרור שהקימה יש עדיין יכולת שיורית לירות עלינו". לפיד: "נאום יוהרה, עם ישראל הבין שהוא לא יודע לנצח"</summary>
+      <description>בהצהרה מוקלטת, ללא שאלות, רה"מ אמר כי "אנחנו כותשים את איראן", מנה "10 מכות" ו"10 הישגים", אבל הודה – לאחר מטח של עשרות רקטות לצפון – כי "לצבאות הטרור שהקימה יש עדיין יכולת שיורית לירות עלינו". לפיד: "נאום יוהרה, עם ישראל הבין שהוא לא יודע לנצח"</description>
       <pubDate>Tue, 31 Mar 2026 21:02:03 +0300</pubDate>
-      <priority>125</priority>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
     </item>
     <item>
-      <title>Netanyahu: Israel over halfway to war goals in Iran, no timeline for ending conflict</title>
-      <link>https://www.ynetnews.com/article/hykygkos11x</link>
-      <summary>PM says Israel and the US have struck Iran’s missile systems, weapons factories and nuclear personnel, while warning Tehran’s growing missile range could soon threaten Europe and beyond</summary>
-      <pubDate>Tue, 31 Mar 2026 02:15:19 +03:00</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>'We go with Trump': Israel says it will accept any US call on next phase of Iran war</title>
-      <link>https://www.ynetnews.com/article/r15o1vujze</link>
-      <summary>Senior Israeli official says Jerusalem has told Washington it will go along with whatever Trump decides, unlike last June when Israel objected to ending the fighting and the US president ordered Israeli warplanes to turn back</summary>
-      <pubDate>Mon, 30 Mar 2026 20:17:42 +03:00</pubDate>
-      <priority>125</priority>
-    </item>
-    <item>
-      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
-      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
-      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
-    </item>
-    <item>
-      <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
-      <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <summary>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</summary>
-      <pubDate>Tue, 31 Mar 2026 06:05:42 +0300</pubDate>
-      <priority>115</priority>
-    </item>
-    <item>
-      <title>Israel spotted Radwan buildup before Hezbollah strike, weighed preemptive attack</title>
-      <link>https://www.ynetnews.com/article/hjx1ovyibx</link>
-      <summary>Security officials say Israel detected about 1,000 Radwan Force operatives mobilizing in southern Lebanon before Hezbollah’s opening retaliation to Iran war, prompting discussions of possible preemptive strike</summary>
-      <pubDate>Tue, 31 Mar 2026 15:17:44 +03:00</pubDate>
-      <priority>115</priority>
+      <title>100 הרוגים בדרכים מתחילת השנה: הנתונים, והשפעת המלחמה</title>
+      <link>https://www.ynet.co.il/news/article/h1qsbkwiwe</link>
+      <description>מפרוץ המלחמה נגד איראן נהרגו 26 בני אדם ברחבי הארץ - נתון שדומה לשנה הקודמת, למרות הירידה במספר כלי הרכב בכבישים. חלק מהתאונות היו בזמן אזעקות. מספר ההרוגים מתחילת שנת 2026 הגיע ל-100 - בהם 13 ילדים עד גיל 14</description>
+      <pubDate>Tue, 31 Mar 2026 19:06:06 +0300</pubDate>
+      <source>ynet-main-news</source>
+      <priority-score>95</priority-score>
     </item>
   </items>
 </content-feed>

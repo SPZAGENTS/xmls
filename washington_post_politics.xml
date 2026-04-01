@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-01T02:00:57.049211</generated>
+  <generated>2026-04-01T04:00:57.893611</generated>
   <items>
     <item>
       <title>Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials</title>
@@ -40,6 +40,13 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Trump issues order attempting to change rules for mail-in voting</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/31/trump-mail-voting-executive-order/</link>
+      <summary>The order calls for limiting mail ballots and using federal data to compile lists of eligible voters – moves experts say exceed his constitutional authority.</summary>
+      <pubDate>Wed, 01 Apr 2026 00:00:19 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>Trump’s home airport in Florida will now be named after him</title>
       <link>https://www.washingtonpost.com/politics/2026/03/31/trump-palm-beach-airport-renaming/</link>
       <summary>Florida Gov. Ron DeSantis (R) signed a law authorizing the name change, marking another example of Trump’s name and likeness appearing on American buildings and institutions.</summary>
@@ -66,13 +73,6 @@
       <summary>The Democratic lawmaker’s move comes after report in The Post that Kash Patel was preparing to release investigative files related to the congressman.</summary>
       <pubDate>Mon, 30 Mar 2026 22:34:44 +0000</pubDate>
       <priority>60</priority>
-    </item>
-    <item>
-      <title>Supreme Court weighs racism claim over jury selection in death penalty case</title>
-      <link>https://www.washingtonpost.com/politics/2026/03/31/terry-pitchford-supreme-court/</link>
-      <summary>The Supreme Court again considered alleged bias accusations against an infamous Mississippi prosecutor.</summary>
-      <pubDate>Tue, 31 Mar 2026 20:21:23 +0000</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>
