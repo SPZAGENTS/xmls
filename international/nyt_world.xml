@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-01T12:03:35.982036</generated>
+  <generated>2026-04-01T14:01:44.253853</generated>
   <items>
     <item>
       <title>Trump Says U.S. Military Campaign to Wind Down and Plans National Address</title>
       <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump</link>
       <summary>“We will be leaving very soon,” the president told reporters in the Oval Office. A few hours later, the White House said Mr. Trump would provide “an important update on Iran” on Wednesday evening.</summary>
-      <pubDate>Wed, 01 Apr 2026 08:46:10 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 09:07:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31trump-news-promo0020h/31trump-news-trump2-jkqc-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,24 @@
       </media>
     </item>
     <item>
+      <title>Israel’s Message to Southern Lebanon: Shiites Must Go</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
+      <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from their towns, the leaders said.</summary>
+      <pubDate>Wed, 01 Apr 2026 10:43:12 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>29 Killed in Russian Military Plane Crash in Crimea</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/russia-military-plane-crash-crimea.html</link>
+      <summary>Investigators cited a possible technical malfunction.</summary>
+      <pubDate>Wed, 01 Apr 2026 09:17:54 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
       <title>Israelis Prepare to Celebrate Passover in Shadow of War</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/israel-iran-passover.html</link>
       <summary>The atmosphere during preparations for the Jewish festival has been unusually subdued, with people afraid to stray far from their homes and shelters.</summary>
@@ -67,28 +85,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-passover-topart-fjlq/01israel-iran-passover-topart-fjlq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Sailors Stranded in the Persian Gulf</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html</link>
-      <summary>Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.</summary>
-      <pubDate>Wed, 01 Apr 2026 04:01:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks</title>
-      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html</link>
-      <summary>The White House said the president would address the nation about Iran on Wednesday evening.</summary>
-      <pubDate>Wed, 01 Apr 2026 01:38:40 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-trump-prexy-vis-lbwh/31dc-trump-prexy-vis-lbwh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,11 +100,15 @@
       </media>
     </item>
     <item>
-      <title>In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’</title>
-      <link>https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html</link>
-      <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
-      <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
-      <priority>90</priority>
+      <title>U.S. Plans Military Expansion in Greenland</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html</link>
+      <summary>The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didn’t like the idea.</summary>
+      <pubDate>Wed, 01 Apr 2026 10:26:01 +0000</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-greenland-us-military-01-zvgk/31int-greenland-us-military-01-zvgk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
   </items>
 </content-feed>

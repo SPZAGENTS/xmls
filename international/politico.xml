@@ -2,8 +2,19 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-01T12:03:32.067725</generated>
+  <generated>2026-04-01T14:01:42.424227</generated>
   <items>
+    <item>
+      <title>Dems hit the airwaves over Iran</title>
+      <link>https://www.politico.com/news/2026/04/01/votevets-iran-war-ad-00853505</link>
+      <summary>VoteVets Action Fund’s $250,000 ad campaign targeting vulnerable GOP Rep. Derrick Van Orden represents an escalation in Democrats’ efforts to hammer Republicans over the war.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:45:00 EST</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static.politico.com/fd/50/ea77da414ad0a9deab1e68f19f79/vance-20827.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran war makes things personal for veteran candidates</title>
       <link>https://www.politico.com/news/2026/03/30/iran-midterms-veterans-00850440</link>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://static.politico.com/af/02/8c3e33b34e8b96e7dfbcc624ff02/trump-62158.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Army investigating video of Apache helicopter at Kid Rock’s Nashville home</title>
-      <link>https://www.politico.com/news/2026/03/30/army-kid-rock-helicopter-video-00850747</link>
-      <summary>The musician, a vocal supporter of President Donald Trump, posted a video of an Army helicopter flying low outside his residence Saturday.</summary>
-      <pubDate>Mon, 30 Mar 2026 13:33:20 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/23/2e/8aafe59f479dbaba6808d7691ddc/https-delivery-gettyimages.com/downloads/2248013055</image>
         <type>image/jpeg</type>
       </media>
     </item>
