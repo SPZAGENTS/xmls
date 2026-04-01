@@ -2,13 +2,46 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-01T04:00:59.149795</generated>
+  <generated>2026-04-01T06:00:56.753021</generated>
   <items>
+    <item>
+      <title>Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks</title>
+      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html</link>
+      <summary>The White House said the president would address the nation about Iran on Wednesday evening.</summary>
+      <pubDate>Wed, 01 Apr 2026 01:38:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-trump-prexy-vis-lbwh/31dc-trump-prexy-vis-lbwh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Says He Halted Nuclear Threat From Iran, Despite Evidence to the Contrary</title>
+      <link>https://www.nytimes.com/2026/03/31/us/politics/trump-nuclear-threat-iran.html</link>
+      <summary>For the second time in recent days, President Trump declared that one of the key objectives of the war had been accomplished.</summary>
+      <pubDate>Wed, 01 Apr 2026 01:45:15 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-NUKES-vis-bcwp/31dc-NUKES-vis-bcwp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Strikes Tehran Pharmaceutical Plant, Claiming Military Link</title>
+      <link>https://www.nytimes.com/2026/03/31/world/middleeast/tehran-pharmaceutical-strike-israel.html</link>
+      <summary>Iran’s foreign minister, Abbas Araghchi, said on Tuesday that Israel was “openly and unashamedly bombing pharmaceutical companies.”</summary>
+      <pubDate>Wed, 01 Apr 2026 00:59:39 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-pharmaceutical-company-hit1-qmkh/31israel-iran-pharmaceutical-company-hit1-qmkh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Narges Mohammadi Denied Treatment after Heart Attack in Iranian Prison, Husband Says</title>
       <link>https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump/narges-mohammadi-heart-attack-iranian-prison</link>
       <summary />
-      <pubDate>Tue, 31 Mar 2026 22:44:46 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 22:44:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-narges-mohammadi1-hcbj/31israel-iran-narges-mohammadi1-hcbj-mediumSquareAt3X.jpg</image>
@@ -63,7 +96,7 @@
       <title>Trump Seeks to Redefine ‘Regime Change’ in Iran War</title>
       <link>https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html</link>
       <summary>President Trump and his aides have made contradictory statements on whether the United States and Israel have transformed the Iranian government through violence.</summary>
-      <pubDate>Wed, 01 Apr 2026 00:51:10 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 02:17:25 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-regine-change-01-bjhk/31dc-regine-change-01-bjhk-mediumSquareAt3X.jpg</image>
@@ -76,39 +109,6 @@
       <summary>President Trump shared a video of the attack, which the Pentagon said had targeted an ammunition depot.</summary>
       <pubDate>Tue, 31 Mar 2026 18:13:04 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Israel Signals Plans to Occupy Southern Lebanon After Ground Invasion</title>
-      <link>https://www.nytimes.com/2026/03/31/world/middleeast/israel-lebanon-ground-invasion.html</link>
-      <summary>Israeli forces will control “the entire area” from the border to the Litani River, up to 20 miles into Lebanon, the defense minister said. He indicated Israel would control it after the ground invasion ends.</summary>
-      <pubDate>Tue, 31 Mar 2026 18:24:54 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-idf-lebanon-topart-vmqz/31israel-iran-idf-lebanon-topart-vmqz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>From Oil to Food, the Iran War Is Squeezing the Global Economy</title>
-      <link>https://www.nytimes.com/2026/03/31/world/middleeast/oil-energy-inflation-global-economy.html</link>
-      <summary>The effects of the war in Iran are squeezing consumers, businesses and governments around the world, raising the prices of many essential goods.</summary>
-      <pubDate>Tue, 31 Mar 2026 16:35:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-global-econ-wrap-topart-kqhj/31israel-iran-global-econ-wrap-topart-kqhj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Arab World Faces ‘Profound’ Economic Crisis From Iran War, U.N. Agency Warns</title>
-      <link>https://www.nytimes.com/2026/03/31/world/middleeast/arab-countries-war-economic-impact.html</link>
-      <summary>An economic simulation warned that the region’s economy could lose more than $190 billion in just one month, and that Gulf states that have often bankrolled reconstruction efforts will be less able to help.</summary>
-      <pubDate>Tue, 31 Mar 2026 13:15:30 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-economic-impact-bqvt/31israel-iran-economic-impact-bqvt-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
