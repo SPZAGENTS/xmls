@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-01T06:00:57.490758</generated>
+  <generated>2026-04-01T10:00:57.900591</generated>
   <items>
     <item>
       <title>‘God squad’ waives endangered species law to allow US drilling in Gulf of Mexico</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/7df5ac002b8790e161dc69f61eec051199c3f9c6/578_440_1109_888/master/1109.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e014ed845f303830c302d12e367c6a</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war</title>
+      <link>https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal</link>
+      <summary>South Korea will delay the shutdown of coal-fired plants, while the Philippines also plans to boost the output of its coal-burning plantsGovernments across Asia are ramping up their use of coal, the dirtiest fossil fuel, as they try to cover huge energy shortfalls triggered by...</summary>
+      <pubDate>Wed, 01 Apr 2026 05:05:00 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/7dfcffa0f7dc694d16fecaa7fd807999c7b082c1/666_0_4066_3253/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9abc202c6df0890cb1f34ade1d390a3a</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,35 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Australia politics live: PM to address nation tonight on Iran and fuel crisis; new traffic data shows cars deserting city streets</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/apr/01/australian-politics-live-cost-of-living-fuel-crisis-excise-inflation-anthony-albanese-jim-chalmers-budget-health-insurance-premiums-ntwnfb</link>
-      <summary>Prime minister’s address to the nation will be broadcast across all TV and radio networks simultaneously at 7pm AEDT. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe makers of Claude.ai will become the first company to sign on to Australi...</summary>
-      <pubDate>Wed, 01 Apr 2026 02:50:02 GMT</pubDate>
+      <title>Empty petrol stations and volatile prices: Australia’s fuel crisis in charts</title>
+      <link>https://www.theguardian.com/australia-news/2026/apr/01/australia-fuel-crisis-petrol-prices-graphs</link>
+      <summary>Track the latest data on fuel prices, outages and oil tanker deliveriesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastHundreds of service stations across Australia have run empty, fuel prices are elevated and oi...</summary>
+      <pubDate>Wed, 01 Apr 2026 06:03:45 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://i.guim.co.uk/img/media/a58f3c0d0fee8e1cbc2168d50c37ff13276efad9/6_429_6343_5075/master/6343.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0df506af539374a418105da3ecd1de42</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Chalmers says small business ‘paying the price’ for Middle East conflict as he unveils support measures</title>
-      <link>https://www.theguardian.com/australia-news/2026/apr/01/chalmers-says-small-business-paying-the-price-for-middle-east-conflict-as-he-unveils-support-measures</link>
-      <summary>Treasurer says Iran war having ‘extreme impact on global economy’ as Albanese to address nation about fuel crisisFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJim Chalmers has unveiled a suite of Covid-era supp...</summary>
-      <pubDate>Wed, 01 Apr 2026 01:04:52 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/eb2ca5c0df4ab0fee10a8bb2fe3942cee6fdfe86/178_0_4838_3871/master/4838.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4519db0ef96150774ae594fff5d93d47</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australia’s superb fairywren could be extinct within decades due to climate crisis, researchers say</title>
-      <link>https://www.theguardian.com/australia-news/2026/apr/01/australia-superb-fairywren-bird-climate-crisis-extinction-risk-within-decades-scientists-warn</link>
-      <summary>Scientists tracked bird population in Canberra’s botanic gardens and found climate impacts starting to affect themFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA common and well-loved bird of bush and garden co...</summary>
-      <pubDate>Tue, 31 Mar 2026 22:00:03 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/81cf1247719d19e3a59b08577e12485e439a5ce4/317_0_2849_2279/master/2849.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebf588e4caad68ee61a77c65d6f5326f</image>
+        <image>https://i.guim.co.uk/img/media/1a8711f3f2d6baa3d2b66010e94fa2e3a2525c53/169_0_2615_2092/master/2615.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a1fde5598cfa908b507f80fdbddfc99</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Labor’s draft party platform more assertive on China and omits mandatory jail term stance</title>
-      <link>https://www.theguardian.com/australia-news/2026/apr/01/labor-government-draft-national-party-platform-china-mandatory-jail</link>
-      <summary>Exclusive: the 2026 document is designed to provide ‘scaffolding’ for a long-term Labor governmentFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLabor’s longstanding opposition to mandatory jail terms has been o...</summary>
-      <pubDate>Tue, 31 Mar 2026 14:00:03 GMT</pubDate>
+      <title>Petrol and diesel prices fall across Australia as Labor’s fuel excise cut takes effect</title>
+      <link>https://www.theguardian.com/australia-news/2026/apr/01/australia-fuel-restrictions-rationing-petrol-diesel-prices-excise-cut</link>
+      <summary>Adelaide has the biggest price decline, with unleaded down 24.9 cents and diesel down 21.3 centsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFuel prices started to fall immediately across Australia after the g...</summary>
+      <pubDate>Wed, 01 Apr 2026 06:18:21 GMT</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://i.guim.co.uk/img/media/421a0bd69c73a117b0ef5f486275561e26aebfbd/555_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01feb30fc59aa36932c5d1eaabc680ec</image>
+        <image>https://i.guim.co.uk/img/media/0ba9946b52e353efc4632971f26264f859c11c39/0_213_4791_3835/master/4791.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd0c884138b5b5e04c63b48205c5e6c5</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Moira Deeming could stay on Liberal ticket after preselection bungle as members make ‘stitch up’ claim</title>
+      <link>https://www.theguardian.com/australia-news/2026/apr/01/moira-deeming-liberal-party-preselection-ntwnfb</link>
+      <summary>Potential challengers given only 36 hours to prepare for a rerun after the winner was deemed ineligibleFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMoira Deeming could secure the top spot on a Victorian Libera...</summary>
+      <pubDate>Wed, 01 Apr 2026 06:09:35 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/425666e09e9a3cd7f40494f989d0ce972813e391/121_2_6570_5260/master/6570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bfbaa42c11de4f8fd583f15aec57a83</image>
         <type>image/jpeg</type>
       </media>
     </item>
