@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-01T18:05:26.695664</generated>
+  <generated>2026-04-01T20:01:32.549114</generated>
   <items>
+    <item>
+      <title>Heavy bombings across Tehran jolt its war-weary residents.</title>
+      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran</link>
+      <summary>Some people in the capital said the blasts on Wednesday morning were among the most powerful they had felt in more than a month of war.</summary>
+      <pubDate>Wed, 01 Apr 2026 15:44:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-tehran-strikes-jgbc/01israel-iran-tehran-strikes-jgbc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Why Reopening the Strait of Hormuz Matters for the U.S. Economy</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/strait-of-hormuz-economy-oil.html</link>
@@ -19,7 +30,7 @@
       <title>Placing U.S. Troops in Middle East Hotels May Violate Laws of War</title>
       <link>https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html</link>
       <summary>U.S. commanders have kept many troops away from bases in the region to protect them from Iran’s ballistic missile attacks.</summary>
-      <pubDate>Wed, 01 Apr 2026 14:18:37 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 14:18:38 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01dc-troops-hotels-01-wvkj/01dc-troops-hotels-01-wvkj-mediumSquareAt3X.jpg</image>
@@ -41,7 +52,7 @@
       <title>Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
       <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from southern towns, the leaders said.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:26:18 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 16:21:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-pharmaceutical-company-hit1-qmkh/31israel-iran-pharmaceutical-company-hit1-qmkh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Narges Mohammadi Denied Treatment after Heart Attack in Iranian Prison, Husband Says</title>
-      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/narges-mohammadi-heart-attack-iranian-prison</link>
-      <summary />
-      <pubDate>Tue, 31 Mar 2026 22:44:47 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-narges-mohammadi1-hcbj/31israel-iran-narges-mohammadi1-hcbj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

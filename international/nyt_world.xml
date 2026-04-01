@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-01T18:05:25.931489</generated>
+  <generated>2026-04-01T20:01:31.860914</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Berates Allies While Offering Conflicting Signals About the War</title>
+      <title>Iran War Live Updates: Trump Downplays Uranium Threat, Sending More Conflicting Signals</title>
       <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news</link>
-      <summary>President Trump said that he was considering leaving NATO over allies’ failure to support his Iran offensive. After suggesting that the U.S. war would end in weeks, he threatened Iran with more attacks. He was scheduled to deliver an address on the war at 9 p.m. Eastern.</summary>
-      <pubDate>Wed, 01 Apr 2026 14:54:42 +0000</pubDate>
+      <summary>President Trump told Reuters he was no longer worried about Iran’s uranium stockpile because it is “so far underground” and can be monitored by spy satellites. He was set to deliver a speech at 9 p.m. Eastern.</summary>
+      <pubDate>Wed, 01 Apr 2026 16:58:26 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo-920am-kzwb/01israel-iran-promo-920am-kzwb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-promo1125am-hjlb/01israel-iran-promo1125am-hjlb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go</title>
       <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
       <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from southern towns, the leaders said.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:26:18 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 16:21:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>French Prosecutors Link Foiled Attack on American Bank to a Pro-Iranian Group</title>
-      <link>https://www.nytimes.com/2026/04/01/world/bank-of-america-attack-pro-iranian-group.html</link>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/bank-of-america-attack-pro-iranian-group.html</link>
       <summary>The group is suspected of involvement in a string of attacks on Jewish targets in Belgium, Britain and the Netherlands.</summary>
-      <pubDate>Wed, 01 Apr 2026 12:00:14 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 15:58:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-france-attack-khjt/01int-france-attack-khjt-mediumSquareAt3X.jpg</image>
@@ -63,6 +63,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/30/world/00int-Europe-Guns-Butter-abol/00int-Europe-Guns-Butter-abol-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Heavy bombings across Tehran jolt its war-weary residents.</title>
+      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran</link>
+      <summary>Some people in the capital said the blasts on Wednesday morning were among the most powerful they had felt in more than a month of war.</summary>
+      <pubDate>Wed, 01 Apr 2026 15:44:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-tehran-strikes-jgbc/01israel-iran-tehran-strikes-jgbc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -94,17 +105,6 @@
       <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
       <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>U.S. Plans Military Expansion in Greenland</title>
-      <link>https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html</link>
-      <summary>The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didn’t like the idea.</summary>
-      <pubDate>Wed, 01 Apr 2026 10:26:01 +0000</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-greenland-us-military-01-zvgk/31int-greenland-us-military-01-zvgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>

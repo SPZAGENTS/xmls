@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-01T18:05:21.537575</generated>
+  <generated>2026-04-01T20:01:27.485654</generated>
   <items>
-    <item>
-      <title>China is trying to play peacemaker in the Iran war - will it work?</title>
-      <link>https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?</summary>
-      <pubDate>Wed, 01 Apr 2026 07:16:15 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control</title>
       <link>https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -60,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>'You're no longer my sister' - rows erupt as war divides Iranian families</title>
-      <link>https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>People in Iran describe angry scenes and tense relationships as rifts open up over the war.</summary>
-      <pubDate>Tue, 31 Mar 2026 23:25:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>US journalist Shelly Kittleson kidnapped in Baghdad</title>
       <link>https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.</summary>
@@ -78,6 +56,17 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74f/live/0ae033f0-2d5d-11f1-ba5e-31fb01ddb409.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What do Trump's latest comments on leaving Nato mean for the alliance?</title>
+      <link>https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Trump has criticised Nato members for showing a lack of support for US objectives in Iran.</summary>
+      <pubDate>Wed, 01 Apr 2026 16:31:17 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +82,35 @@
       </media>
     </item>
     <item>
-      <title>Explosions at Burundi ammunition depot kill civilians, witnesses say</title>
-      <link>https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.</summary>
-      <pubDate>Wed, 01 Apr 2026 14:46:52 GMT</pubDate>
-      <priority>80</priority>
+      <title>Trump to give primetime address on war as questions swirl over his next move</title>
+      <link>https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president finds himself under growing pressure at home to avoid a protracted conflict.</summary>
+      <pubDate>Wed, 01 Apr 2026 14:59:06 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaae/live/584600b0-2dd6-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd5/live/b65924b0-2dd7-11f1-a186-bdbec3fa8607.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Peter Magyar, the former Orban ally vying for power in Hungary</title>
-      <link>https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Magyar represents the biggest threat to Viktor Orban's rule in Hungary since he won the first of four consecutive victories in 2010.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:43:10 GMT</pubDate>
+      <title>Explosions at Burundi ammunition depot kill civilians, witnesses say</title>
+      <link>https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.</summary>
+      <pubDate>Wed, 01 Apr 2026 16:26:19 GMT</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Families cram into Greek court for trial into deadliest train crash</title>
+      <link>https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.</summary>
+      <pubDate>Wed, 01 Apr 2026 16:30:17 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/ab563050-2dbc-11f1-8717-b31b777dcd62.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b342/live/338a9380-2de0-11f1-9c84-b558be249093.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
