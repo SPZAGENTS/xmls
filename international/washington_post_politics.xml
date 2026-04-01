@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-01T22:00:58.825663</generated>
+  <generated>2026-04-02T00:03:40.416853</generated>
   <items>
     <item>
       <title>Trump prepares to address nation on Iran after vowing to end conflict in ‘weeks’</title>
@@ -12,17 +12,24 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump attends Supreme Court hearing on birthright citizenship</title>
+      <title>Trump attends Supreme Court hearing in unusual role: Silent observer</title>
       <link>https://www.washingtonpost.com/politics/2026/04/01/trump-supreme-court-birthright-citizenship/</link>
-      <summary>There is no record of a sitting president attending oral arguments at the nation’s highest court, though the president has floated the idea before.</summary>
-      <pubDate>Wed, 01 Apr 2026 17:49:32 +0000</pubDate>
+      <summary>The president’s name did not come up as he watched the arguments over his birthright citizenship executive order from the public viewing gallery.</summary>
+      <pubDate>Wed, 01 Apr 2026 20:45:57 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Marines scramble to reassure families after report of ICE at boot camp</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/01/marines-ice-parris-island/</link>
+      <summary>A communications breakdown precipitated an announcement that immigration enforcement will occur at the service’s Parris Island graduation ceremonies in South Carolina, officials said.</summary>
+      <pubDate>Wed, 01 Apr 2026 20:37:20 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
       <title>Supreme Court appears skeptical of Trump’s effort to end birthright citizenship</title>
       <link>https://www.washingtonpost.com/politics/2026/04/01/birthright-citizenship-supreme-court-argument/</link>
       <summary>The justices appeared poised to turn aside government arguments that the president can deny citizenship to babies born to parents without permanent immigration status.</summary>
-      <pubDate>Wed, 01 Apr 2026 17:23:07 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2026 20:27:09 +0000</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary />
       <pubDate>Wed, 01 Apr 2026 15:38:27 +0000</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>ACLU Legal Director Cecillia Wang said the 14th Amendment does not allow Congress to add more...</title>
-      <link>https://www.washingtonpost.com</link>
-      <summary />
-      <pubDate>Wed, 01 Apr 2026 16:16:40 +0000</pubDate>
-      <priority>60</priority>
     </item>
   </items>
 </content-feed>
