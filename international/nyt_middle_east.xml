@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-01T06:00:56.753021</generated>
+  <generated>2026-04-01T08:05:56.389230</generated>
   <items>
+    <item>
+      <title>The Sailors Stranded in the Persian Gulf</title>
+      <link>https://www.nytimes.com/2026/04/01/world/middleeast/sailors-stranded-phillipines-iran.html</link>
+      <summary>Thousands of civilian sailors have been stranded for more than a month in waters surrounded by a conflict zone because of the U.S.-Israeli war on Iran.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:01:12 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00int-philippines-sailors-hzjp/00int-philippines-sailors-hzjp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks</title>
       <link>https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html</link>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/03/31/multimedia/31dc-regine-change-01-bjhk/31dc-regine-change-01-bjhk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Trump Shares Video of Bombing in Iranian City of Isfahan</title>
-      <link>https://www.nytimes.com/2026/03/31/world/middleeast/isfahan-iran-bombing-trump-video.html</link>
-      <summary>President Trump shared a video of the attack, which the Pentagon said had targeted an ammunition depot.</summary>
-      <pubDate>Tue, 31 Mar 2026 18:13:04 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
