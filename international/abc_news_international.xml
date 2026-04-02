@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-02T08:01:00.394847</generated>
+  <generated>2026-04-02T10:01:02.085463</generated>
   <items>
     <item>
       <title>Lebanese displaced by war fill Beirut's streets, upending city life</title>
@@ -60,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Russian military plane crashes in annexed Crimea, killing 29 people on board</title>
-      <link>https://abcnews.com/International/wireStory/russian-military-plane-crashes-annexed-crimea-killing-29-131603717</link>
-      <summary>A Russian military plane has crashed in annexed Crimea, killing six crew and 23 passengers on board, Russian news agencies reported in the early hours of Wednesday, citing the country&amp;rsquo;s Defense Ministry</summary>
-      <pubDate>Wed, 01 Apr 2026 02:57:42 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Serbian journalists protest reported attacks, pressure on media</title>
-      <link>https://abcnews.com/International/wireStory/serbian-journalists-protest-reported-attacks-pressure-media-131605805</link>
-      <summary>Dozens of Serbian journalists have blocked traffic outside the offices of populist President Aleksandar Vucic to protest what they say are mounting attacks and pressure on the media in the Balkan country</summary>
-      <pubDate>Wed, 01 Apr 2026 07:27:50 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_3e003a2e70ff159f25e5d21b1fea8e16_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Italian coast guard finds 19 migrants dead and rescues 58 from dinghy off Lampedusa</title>
       <link>https://abcnews.com/International/wireStory/italian-coast-guard-finds-19-migrants-dead-rescues-131617532</link>
       <summary>The Italian coast guard has found 19 people dead and rescued 58 from a dinghy filled with migrants near Lampedusa</summary>
@@ -111,6 +89,28 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_351105bdcf0de6e7cc373458aef46e6c_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kidnapped reporter was known for pursuing gutsy, low-budget assignments</title>
+      <link>https://abcnews.com/International/wireStory/reporter-kidnapped-baghdad-pursuing-gutsy-low-budget-assignments-131617756</link>
+      <summary>The American freelance journalist who was kidnapped Tuesday in Iraq has been described by friends and colleagues as a determined, gutsy reporter</summary>
+      <pubDate>Thu, 02 Apr 2026 00:02:51 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_3f3df27cb39ae304ecf49c81b7c44c80_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A road accident in Colombia involving several vehicles kills at least 2 people and injures 19</title>
+      <link>https://abcnews.com/International/wireStory/road-accident-colombia-involving-vehicles-kills-2-people-131622257</link>
+      <summary>A road accident involving at least eight vehicles in central Colombia has killed at least two people and injured 19 others</summary>
+      <pubDate>Wed, 01 Apr 2026 14:15:38 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_8ac6b768a20be8370ead95699defe772_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
