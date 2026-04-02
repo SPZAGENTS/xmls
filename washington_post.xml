@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-02T16:00:58.760272</generated>
+  <generated>2026-04-02T18:03:34.023207</generated>
   <items>
+    <item>
+      <title>Israelis celebrate Passover in a parking garage turned bomb shelter</title>
+      <link>https://www.washingtonpost.com/world/2026/04/02/passover-seder-tel-aviv-bomb-shelter/</link>
+      <summary>People broke matzoh, read from the Haggadah and sang — with no need to worry about when the next air raid siren might sound.</summary>
+      <pubDate>Thu, 02 Apr 2026 13:34:06 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Migrant workers keep Dubai running but can’t afford to flee Iranian strikes</title>
       <link>https://www.washingtonpost.com/world/2026/04/03/iran-war-migrant-workers-casualties/</link>
@@ -47,10 +54,10 @@
       <priority>70</priority>
     </item>
     <item>
-      <title>Nations to meet on Strait of Hormuz as Trump calls for others to ‘take the lead’</title>
+      <title>Oil prices jump after Trump demands others ‘take the lead’ on Strait of Hormuz</title>
       <link>https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/</link>
-      <summary>The president has said responsibility for reopening the waterway should fall largely to European and Asian countries that depend on it more than the U.S. does for oil.</summary>
-      <pubDate>Thu, 02 Apr 2026 11:39:38 +0000</pubDate>
+      <summary>Oil prices surged around 8 percent and stock markets fell after President Donald Trump presented no plan to open the critical waterway.</summary>
+      <pubDate>Thu, 02 Apr 2026 13:52:10 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
