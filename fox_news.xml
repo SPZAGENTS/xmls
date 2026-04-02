@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-02T06:03:42.311297</generated>
+  <generated>2026-04-02T08:00:51.173093</generated>
   <items>
     <item>
       <title>Trump says Iran ‘no longer a threat’ after 32 days — outlines next phase of US war</title>
@@ -34,6 +34,17 @@
       <priority>85</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/1200/675/trump-rutte-hague.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>7-month-old baby killed by stray bullet in Brooklyn shooting, police say</title>
+      <link>https://www.foxnews.com/us/7-month-old-baby-killed-stray-bullet-brooklyn-shooting-police-say</link>
+      <summary>Seven-month-old Kaori Patterson-Moore was killed by a stray bullet in Brooklyn after a gunman on a moped opened fire on a crowded street, police say.</summary>
+      <pubDate>Wed, 01 Apr 2026 23:12:50 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/child-killed-in-brooklyn-by-stray-bullet.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eugene-mirman-suit.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Multiple community-honored firefighters charged in child sex abuse case targeting same juvenile victim</title>
-      <link>https://www.foxnews.com/us/multiple-community-honored-firefighters-charged-child-sex-abuse-case-targeting-same-juvenile-victim</link>
-      <summary>Three Texas firefighters have been charged with child sex abuse after allegedly targeting a 16-year-old junior firefighter, court documents say.</summary>
-      <pubDate>Wed, 01 Apr 2026 20:36:30 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/david-perez-glass-01-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
