@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-02T22:00:59.651622</generated>
+  <generated>2026-04-03T00:00:57.790673</generated>
   <items>
     <item>
-      <title>How Trump Boxed Himself In on Iran</title>
+      <title>Trump Hails Destruction of Iranian Bridge, Warning ‘More to Follow’</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/trump-iran-bridge-strike.html</link>
+      <summary>Fars, a semiofficial news agency, said eight people had been killed in the attack and dozens wounded.</summary>
+      <pubDate>Thu, 02 Apr 2026 20:40:38 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-bridge-struck-topart-qkgc/02israel-iran-bridge-struck-topart-qkgc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Says He’ll End the Iran War in Weeks. What If He Can’t?</title>
       <link>https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html</link>
       <summary>President Trump faces the possibility that at the end of his own two-to-three week window for wrapping up the war in Iran, nothing much will have changed.</summary>
-      <pubDate>Thu, 02 Apr 2026 18:20:37 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 20:20:20 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02dc-prexy-top-tlgw/02dc-prexy-top-tlgw-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care</title>
       <link>https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html</link>
       <summary>As the White House prepares to release its 2027 budget, President Trump said military protection, not social programs, took precedence.</summary>
-      <pubDate>Thu, 02 Apr 2026 18:50:59 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 20:43:36 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02dc-iran-costs-fqjp/02dc-iran-costs-fqjp-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>Mortgage Rates Climb for 5th Week as Iran War Weighs on U.S. Housing Market</title>
       <link>https://www.nytimes.com/2026/04/02/business/mortgage-rates-housing-iran-war.html</link>
       <summary>The average rate on a 30-year mortgage in the United States jumped to 6.46 percent, making it harder for buyers to afford homes.</summary>
-      <pubDate>Thu, 02 Apr 2026 16:07:24 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 19:24:30 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -92,17 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-front-by-front-gfzb/01israel-iran-front-by-front-gfzb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In Speech, Trump Is Expected to Call Iran War a Success</title>
-      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/trump-iran-war-speech</link>
-      <summary />
-      <pubDate>Wed, 01 Apr 2026 23:36:35 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-potus-speech-art-hgjv/01israel-iran-potus-speech-art-hgjv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
