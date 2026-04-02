@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-02T02:01:03.790169</generated>
+  <generated>2026-04-02T04:00:59.075090</generated>
   <items>
+    <item>
+      <title>Live: Trump addresses nation on Iran war amid rising tensions</title>
+      <link>https://www.france24.com/en/americas/20260402-trump-addresses-nation-on-iran-war</link>
+      <summary>President Donald Trump delivers his first prime-time speech since launching strikes with Israel over a month ago, offering an update on the Iran conflict. Amid rising oil prices, market volatility and fresh troop deployments, the address aims to clarify objectives and outline ...</summary>
+      <pubDate>Thu, 02 Apr 2026 00:52:42 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/ebf5a744-2dda-11f1-9460-005056bf30b7/w:1024/p:16x9/2026-03-31T215645Z-920343596-RC2XFKAZOCUL-RTRMADP-3-USA-TRUMP.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump to deliver 'important update' on Iran war in televised speech</title>
       <link>https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech</link>
@@ -60,22 +71,11 @@
       </media>
     </item>
     <item>
-      <title>Israel says will reduce French defence imports 'to zero'</title>
-      <link>https://www.france24.com/en/video/20260401-israel-says-will-reduce-french-defence-imports-to-zero</link>
-      <summary>Israel will reduce its military imports from France "to zero" in retaliation for French policies it deems hostile towards its interests, a defence ministry spokeswoman told AFP on Tuesday. According to the French parliament, Paris does not export weapons to Israel, but compone...</summary>
-      <pubDate>Wed, 01 Apr 2026 15:20:15 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/666bcfd8-2ddd-11f1-b863-005056a90284/w:1024/p:16x9/EN-20260401-161247-161442-CS-01.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Live: Artemis II astronauts embark on historic lunar flyby</title>
+      <title>Artemis II launches historic flyby lunar mission with diverse crew</title>
       <link>https://www.france24.com/en/technology/20260401-artemis-2-set-for-historic-crewed-return-around-moon</link>
-      <summary>Four astronauts lifted off Wednesday on NASA’s Artemis II mission, humanity’s first crewed journey around the Moon in over 50 years. The 10-day flight will test new systems, carry the most diverse lunar crew ever, and set the stage for future landings and a sustainable America...</summary>
+      <summary>Four astronauts – three Americans and one Canadian – blasted off Wednesday on NASA’s Artemis II, humanity’s first lunar flight in over 50 years. The 32-storey rocket soared from Kennedy Space Center, marking the start of a decade-long plan for sustainable Moon exploration and ...</summary>
       <pubDate>Wed, 01 Apr 2026 22:38:11 GMT</pubDate>
-      <priority>95</priority>
+      <priority>90</priority>
       <media>
         <image>https://s.france24.com/media/display/52778c70-2d4b-11f1-a10b-005056bfb2b6/w:1024/p:16x9/2026-03-27T193359Z-48374400-RC27DKARD3WP-RTRMADP-3-SPACE-MOON-ARTEMIS.jpg</image>
         <type>image/jpeg</type>

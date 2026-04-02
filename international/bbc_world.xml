@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-02T02:00:56.451274</generated>
+  <generated>2026-04-02T04:00:52.512575</generated>
   <items>
     <item>
       <title>Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control</title>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb1/live/563386c0-2d5a-11f1-b633-8319d55ee810.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'You're no longer my sister' - rows erupt as war divides Iranian families</title>
+      <link>https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>People in Iran describe angry scenes and tense relationships as rifts open up over the war.</summary>
+      <pubDate>Tue, 31 Mar 2026 23:25:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b342/live/338a9380-2de0-11f1-9c84-b558be249093.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Peter Magyar, the former Orban ally vying for power in Hungary</title>
-      <link>https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Magyar represents the biggest threat to Viktor Orban's rule in Hungary since he won the first of four consecutive victories in 2010.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:43:10 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/ab563050-2dbc-11f1-8717-b31b777dcd62.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
