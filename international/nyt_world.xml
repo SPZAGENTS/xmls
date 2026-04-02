@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-02T18:03:35.884835</generated>
+  <generated>2026-04-02T20:01:37.453158</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Oil Prices Surge After Trump Threatens to Escalate Attacks</title>
+      <title>Iran War Live Updates: Macron Faults Trump For Shifting U.S. Goals</title>
       <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news</link>
-      <summary>In his address, President Trump also insisted that the military campaign was an overwhelming success but failed to offer a clear exit strategy.</summary>
-      <pubDate>Thu, 02 Apr 2026 14:59:13 +0000</pubDate>
+      <summary>The French president said President Trump could not be taken seriously because he had repeatedly changed his goals for the Iran war. He also criticized the president for berating NATO.</summary>
+      <pubDate>Thu, 02 Apr 2026 16:58:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-promo-fpjv/02israel-iran-promo-fpjv-mediumSquareAt3X.jpg</image>
@@ -16,10 +16,10 @@
       </media>
     </item>
     <item>
-      <title>Britain Says It Will Host Military Talks on Securing Strait of Hormuz</title>
+      <title>U.K. to Host Talks on Securing Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/04/02/world/uk-reopen-strait-of-hormuz-talks.html</link>
       <summary>It was not clear whether the talks, expected to involve dozens of countries, would satisfy President Trump’s demand that other nations take a more active part in the Iran war.</summary>
-      <pubDate>Thu, 02 Apr 2026 14:57:14 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 15:33:02 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02int-uk-hormuz-mbvk/02int-uk-hormuz-mbvk-mediumSquareAt3X.jpg</image>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html</link>
-      <summary>Israel has issued sweeping evacuation warnings, and pressed some Christian and Druse leaders to expel Shiite Muslims from southern towns, the leaders said.</summary>
-      <pubDate>Wed, 01 Apr 2026 18:50:55 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/00int-lebanon-south-03-zqgl-promo/00int-lebanon-south-03-zqgl-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Macron Snaps Back at Trump’s Mockery and Criticism of NATO</title>
       <link>https://www.nytimes.com/2026/04/02/world/middleeast/macron-trump-nato.html</link>
       <summary>President Emmanuel Macron of France suggested that President Trump’s daily comments on the war in Iran were unserious. “Maybe one shouldn’t speak every day,” Mr. Macron told reporters.</summary>
@@ -74,30 +63,12 @@
       <title>Iranian officials come out defiant after Trump’s war speech.</title>
       <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranian-officials-come-out-defiant-after-trumps-war-speech</link>
       <summary />
-      <pubDate>Thu, 02 Apr 2026 13:10:08 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 15:03:17 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-trump-reax-topart-hltf/02israel-iran-trump-reax-topart-hltf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>5 Takeaways From Trump’s Speech on Iran</title>
-      <link>https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html</link>
-      <summary>President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:45:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/05/01/multimedia/01dc-takeaways-swap-wlbf/01dc-takeaways-swap-wlbf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Transcript: Trump’s Speech on Iran War</title>
-      <link>https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html</link>
-      <summary>The president made his case for the U.S. attack, and said that the main objectives had been achieved.</summary>
-      <pubDate>Thu, 02 Apr 2026 02:46:02 +0000</pubDate>
-      <priority>100</priority>
     </item>
     <item>
       <title>In a Muzzled Russia, He Still Speaks His Mind</title>
@@ -107,6 +78,35 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-russia-muratov-profile-sub-ljbz/01int-russia-muratov-profile-sub-ljbz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In UK Prisons, Drones Fly In Contraband ‘As if by Uber Eats’</title>
+      <link>https://www.nytimes.com/2026/04/01/world/europe/uk-prisons-contraband-drones.html</link>
+      <summary>Decades-old prison buildings were designed to be secure from the ground but not the air. Experts say that makes a lucrative smuggling trade hard to tackle.</summary>
+      <pubDate>Wed, 01 Apr 2026 04:01:05 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>Danish Warship Sunk by Britain’s Lord Nelson 225 Years Ago Is Found</title>
+      <link>https://www.nytimes.com/2026/04/02/world/europe/danish-warship-britain-nelson-copenhagen.html</link>
+      <summary>The ship sank during the Battle of Copenhagen, an important moment in Danish and British history, and became the origin of a common saying.</summary>
+      <pubDate>Thu, 02 Apr 2026 16:04:20 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02int-denmark-ship-01-bpmk/02int-denmark-ship-01-bpmk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html</link>
+      <summary>The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.</summary>
+      <pubDate>Thu, 02 Apr 2026 13:09:58 +0000</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-Syria-Sting-hkcw/01int-Syria-Sting-hkcw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

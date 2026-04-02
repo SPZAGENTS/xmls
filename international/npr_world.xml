@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-02T18:03:42.173085</generated>
+  <generated>2026-04-02T20:01:43.774520</generated>
   <items>
     <item>
       <title>'Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along</title>
@@ -40,13 +40,6 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Republicans in Congress say they have a deal to end the record-long shutdown at DHS</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5770566/dhs-shutdown-congress-republicans</link>
-      <summary>The plan would fund DHS, except for immigration enforcement, through September. Republicans would then try to fund the whole agency for three years using a tactic that would not need Democratic votes.</summary>
-      <pubDate>Wed, 01 Apr 2026 17:27:46 -0400</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day'</title>
       <link>https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy</link>
       <summary>It has been a year since President Trump announced double-digit tariffs on imports from around the world. So far, those levies have not produced the economic boom the president promised.</summary>
@@ -66,6 +59,13 @@
       <summary>FIFA has raised prices for over 40 games of the World Cup in its latest sale that kicked off Wednesday, according to an NPR count. The most expensive tickets to the final now cost $10,900.</summary>
       <pubDate>Wed, 01 Apr 2026 20:11:51 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Ziggy Stardust and Hacky Sack: What life was like the last time we went to the moon</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5771486/artemis-moon-mission-apollo-1972</link>
+      <summary>The Artemis II mission is the first time humans have headed to the moon since 1972. That year also marked the debut of The Godfather and the Egg McMuffin.</summary>
+      <pubDate>Thu, 02 Apr 2026 12:41:41 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>As hoops betting spikes, it's New Hampshire and other states vs. prediction markets</title>
