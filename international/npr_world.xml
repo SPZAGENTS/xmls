@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-02T04:01:03.351911</generated>
+  <generated>2026-04-02T06:03:53.314993</generated>
   <items>
     <item>
       <title>This fringe actor finds the spotlight in Israel's most provocative film post-Oct. 7</title>
@@ -12,7 +12,7 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Watch: Trump to address nation at critical moment in the war with Iran</title>
+      <title>Trump addresses the nation at critical moment in the war with Iran</title>
       <link>https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war</link>
       <summary>The address comes after weeks of uncertainty over when and how the U.S. could extricate itself from the conflict.</summary>
       <pubDate>Wed, 01 Apr 2026 13:48:19 -0400</pubDate>
@@ -31,6 +31,13 @@
       <summary>The Trump administration and its critics are waging a war of images on the National Mall like none before. The president's face stares down from federal buildings while statues and posters mock him below.</summary>
       <pubDate>Wed, 01 Apr 2026 12:22:11 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Appeals court rejects HUD homelessness overhaul saying it would be "disastrous"</title>
+      <link>https://www.npr.org/2026/04/01/nx-s1-5770629/appeals-court-rejects-hud-homelessness-overhaul</link>
+      <summary>The federal housing agency wants to shift money away from permanent housing and toward programs that impose sobriety and other conditions. Advocates warn that would push many back into homelessness.</summary>
+      <pubDate>Wed, 01 Apr 2026 20:42:04 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Republicans in Congress say they have a deal to end the record-long shutdown at DHS</title>
@@ -66,13 +73,6 @@
       <summary>The majority seemed skeptical of the Trump administration's argument on birthright citizenship, appearing ready to rule in favor of upholding automatic citizenship for babies born on U.S. soil.</summary>
       <pubDate>Wed, 01 Apr 2026 13:02:53 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>Federal judge rules DHS illegally stripped immigration status from thousands who entered through CBP One App</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5770189/federal-judge-rules-dhs-illegally-stripped-immigration-status-from-thousands-who-entered-through-cbp-one-app</link>
-      <summary>Tuesday's ruling reinstates the immigration status of those who came via CBP One and whose status was terminated.</summary>
-      <pubDate>Wed, 01 Apr 2026 12:14:21 -0400</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>

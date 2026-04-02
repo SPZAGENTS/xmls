@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-02T04:00:51.878463</generated>
+  <generated>2026-04-02T06:03:41.087511</generated>
   <items>
     <item>
       <title>UK will seek closer ties with EU in light of Iran war, Starmer says</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2952/live/95f06840-2dbf-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Palantir UK boss says it's up to militaries to decide how AI targeting is used in war</title>
+      <link>https://www.bbc.com/news/articles/cdrm52g4pl2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.</summary>
+      <pubDate>Wed, 01 Apr 2026 16:03:20 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf78/live/5afc17a0-2de4-11f1-9c68-d3b327b335eb.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel's perpetual war with Iran may be hard to win with military might alone</title>
+      <link>https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.</summary>
+      <pubDate>Wed, 01 Apr 2026 19:23:52 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b50/live/dd5d4230-2df5-11f1-84b6-e98f87f2e88b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6753/live/6e1e1f30-2cfa-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The delicate question of where responsibility lies for safety on our mountains</title>
-      <link>https://www.bbc.com/news/articles/cz0e105yk23o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Who is responsible for safety in our mountains?</summary>
-      <pubDate>Wed, 01 Apr 2026 23:08:09 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f827/live/addd8a70-2ceb-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>New laws to make it easier to cancel subscriptions</title>
-      <link>https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Consumers will be able to cancel unwanted subscriptions 'at the click of a button', the government said.</summary>
-      <pubDate>Wed, 01 Apr 2026 23:10:34 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d4/live/ec7705e0-2de5-11f1-ae65-97b179e2f0f5.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
