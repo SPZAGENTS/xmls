@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-02T12:03:18.775153</generated>
+  <generated>2026-04-02T14:03:24.159584</generated>
   <items>
+    <item>
+      <title>Lost Friendships, Broken Relationships: How the War in Iran Is Dividing the Diaspora</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html</link>
+      <summary>Amid months of protest, repression and war in their native country, Iranians living abroad are navigating their biggest rifts yet.</summary>
+      <pubDate>Thu, 02 Apr 2026 09:22:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-iran-diaspora-jptk/00int-iran-diaspora-jptk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>5 Takeaways From Trump’s Address on Iran</title>
       <link>https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html</link>
       <summary>President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.</summary>
-      <pubDate>Thu, 02 Apr 2026 03:36:15 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 09:45:07 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-trump-takeaways-qbvt/01israel-iran-trump-takeaways-qbvt-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/05/01/multimedia/01dc-takeaways-swap-wlbf/01dc-takeaways-swap-wlbf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01dc-military-iran-tqfb/01dc-military-iran-tqfb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Heavy bombings across Tehran jolt its war-weary residents.</title>
-      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/heavy-bombings-tehran</link>
-      <summary>Some people in the capital said the blasts on Wednesday morning were among the most powerful they had felt in more than a month of war.</summary>
-      <pubDate>Wed, 01 Apr 2026 19:05:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-tehran-strikes-swap-bkzl/01israel-iran-tehran-strikes-swap-bkzl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

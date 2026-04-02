@@ -2,28 +2,14 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-02T12:03:25.359307</generated>
+  <generated>2026-04-02T14:03:31.730008</generated>
   <items>
     <item>
-      <title>This fringe actor finds the spotlight in Israel's most provocative film post-Oct. 7</title>
-      <link>https://www.npr.org/2026/04/01/g-s1-115947/this-fringe-actor-finds-the-spotlight-in-israels-most-provocative-film-post-oct-7</link>
-      <summary>Israeli fringe actor in the spotlight for anti-war film</summary>
-      <pubDate>Wed, 01 Apr 2026 14:18:31 -0400</pubDate>
+      <title>Iran continues strikes across the Persian Gulf despite Trump's warning</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5771160/iran-war-trump-speech</link>
+      <summary>Iran continued to target Gulf countries with ballistic missiles and drones Thursday as the U.S. Embassy in Baghdad issued a security alert warning of attacks by Iran-backed militias.</summary>
+      <pubDate>Thu, 02 Apr 2026 06:14:26 -0400</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Trump makes his case for war with Iran, saying the conflict is 'nearing completion'</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war</link>
-      <summary>Trump used a prime-time address to outline his objectives for the war and discuss the military's progress to date. He also repeated an earlier claim that fighting could end in two to three weeks.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:48:19 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>"Lives will be lost": How the U.K.'s aid cuts may affect parts of Africa</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5763752/lives-will-be-lost-how-the-u-k-s-aid-cuts-may-affect-parts-of-africa</link>
-      <summary>In March, the UK announced it would trim its global aid budget and set new priorities in 2027. This has some countries and organizations worried that on top of the US aid cuts, this could be unsurvivable.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:31:33 -0400</pubDate>
-      <priority>95</priority>
     </item>
     <item>
       <title>U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez</title>
@@ -31,6 +17,13 @@
       <summary>The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro.</summary>
       <pubDate>Thu, 02 Apr 2026 02:44:49 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Trump's VA killed a home loan program. Vets are now losing their homes because of it</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue</link>
+      <summary>Foreclosures on VA loans are at their highest level in a decade. VA has a fix but it is months away and could still leave vets worse off than most other homeowners.</summary>
+      <pubDate>Thu, 02 Apr 2026 05:00:00 -0400</pubDate>
+      <priority>80</priority>
     </item>
     <item>
       <title>Appeals court rejects HUD homelessness overhaul saying it would be "disastrous"</title>
@@ -47,6 +40,20 @@
       <priority>75</priority>
     </item>
     <item>
+      <title>Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day'</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy</link>
+      <summary>It has been a year since President Trump announced double-digit tariffs on imports from around the world. So far, those levies have not produced the economic boom the president promised.</summary>
+      <pubDate>Thu, 02 Apr 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>In a thunderous launch, Artemis II astronauts leave Earth. Here's what's next</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview</link>
+      <summary>NASA's Artemis II crew has successfully launched on a mission that will take it around the moon and back to Earth. Here's what to expect over their roughly 10-day journey.</summary>
+      <pubDate>Thu, 02 Apr 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>FIFA hikes World Cup prices, again. A finals ticket can now cost as much as $11,000</title>
       <link>https://www.npr.org/2026/04/01/nx-s1-5770564/fifa-world-cup-ticket-prices</link>
       <summary>FIFA has raised prices for over 40 games of the World Cup in its latest sale that kicked off Wednesday, according to an NPR count. The most expensive tickets to the final now cost $10,900.</summary>
@@ -61,18 +68,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Is the U.S. Navy ready to clear sea mines in the Persian Gulf?</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs</link>
-      <summary>Despite the danger of sea mines, experts say that mine clearing has received minimal attention and funding from the U.S. Navy — and it's often overshadowed by more high-profile weapons systems.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:54:36 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Supreme Court majority seems inclined to rule against Trump on birthright citizenship</title>
-      <link>https://www.npr.org/2026/04/01/nx-s1-5754762/trump-supreme-court-birthright-citizenship</link>
-      <summary>The majority seemed skeptical of the Trump administration's argument on birthright citizenship, appearing ready to rule in favor of upholding automatic citizenship for babies born on U.S. soil.</summary>
-      <pubDate>Wed, 01 Apr 2026 13:02:53 -0400</pubDate>
-      <priority>65</priority>
+      <title>As hoops betting spikes, it's New Hampshire and other states vs. prediction markets</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5770198/states-gaming-prediction-markets-kalshi</link>
+      <summary>In New Hampshire and states with legalized sports gambling, wagering helps fund government services. But now competitors like Kalshi and Polymarket are getting a cut of the action.</summary>
+      <pubDate>Thu, 02 Apr 2026 06:00:00 -0400</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
