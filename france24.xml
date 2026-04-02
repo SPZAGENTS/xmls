@@ -2,12 +2,23 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-02T04:00:59.075090</generated>
+  <generated>2026-04-02T06:03:48.941206</generated>
   <items>
     <item>
-      <title>Live: Trump addresses nation on Iran war amid rising tensions</title>
+      <title>Middle East live: Israeli air defences intercept multiple Iranian missile waves</title>
+      <link>https://www.france24.com/en/middle-east/20260402-middle-east-live-israeli-air-defences-intercept-multiple-iranian-missile-waves</link>
+      <summary>Israeli air defences intercepted three waves of Iranian missile fire early Thursday, with several people lightly injured in the Tel Aviv area. The attacks, coming hours after a US presidential address, triggered widespread sirens and raised fears of further escalation in the i...</summary>
+      <pubDate>Thu, 02 Apr 2026 02:32:43 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/2bb3cd32-2d97-11f1-900c-005056bfb2b6/w:1024/p:16x9/AP26088551532464.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump pledges to 'finish the job' in Iran in national address</title>
       <link>https://www.france24.com/en/americas/20260402-trump-addresses-nation-on-iran-war</link>
-      <summary>President Donald Trump delivers his first prime-time speech since launching strikes with Israel over a month ago, offering an update on the Iran conflict. Amid rising oil prices, market volatility and fresh troop deployments, the address aims to clarify objectives and outline ...</summary>
+      <summary>President Donald Trump defended US operations in Iran Wednesday night, pledging to “finish the job” as military objectives near completion. Speaking amid rising oil prices, volatile markets and fresh Iranian missile attacks, Trump outlined his timeline for ending the conflict ...</summary>
       <pubDate>Thu, 02 Apr 2026 00:52:42 GMT</pubDate>
       <priority>100</priority>
       <media>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/a702327e-2df3-11f1-97d5-005056a97e36/w:1024/p:16x9/Anglais-2026-04-01T17-12-38-918Z.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Transatlantic rift widens as Trump lashes out at NATO</title>
-      <link>https://www.france24.com/en/video/20260401-transatlantic-rift-widens-as-trump-lashes-out-at-nato</link>
-      <summary>President Donald Trump has said he is strongly considering pulling the US out of NATO, ratcheting up his criticism of European allies and exposing a wider rift in the transatlantic alliance — this time over America's war alongside Israel against Iran.</summary>
-      <pubDate>Wed, 01 Apr 2026 15:22:35 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/62e159ce-2ddc-11f1-af31-005056a90284/w:1024/p:16x9/EN-20260401-160813-161011-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
