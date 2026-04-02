@@ -2,24 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T16:01:05.117232</generated>
+  <generated>2026-04-02T18:03:39.711462</generated>
   <items>
-    <item>
-      <title>Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 02 Apr 2026 07:33:12 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/Iraq-militia-DB-260402_1775125495016_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Artemis II live updates: Crew testing Orion systems, preparing for push toward Moon</title>
       <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
       <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Thu, 02 Apr 2026 08:26:41 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 10:19:47 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/artemis-1-ht-gmh-260402_1775132474466_hpMain_4x3t_384.jpg</image>
@@ -38,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: President Trump on Iran war: 'We're going to bring them back to the Stone Ages'</title>
-      <link>https://abcnews.com/video/131638205/</link>
-      <summary>President Trump on the war in Iran: "We are on track to complete all of America's military objectives... We're going to bring them back to the Stone Ages where they belong."</summary>
-      <pubDate>Thu, 02 Apr 2026 02:45:49 -0400</pubDate>
-      <priority>100</priority>
+      <title>Stocks tick lower after Trump vows to hit Iran 'extremely hard' in coming weeks</title>
+      <link>https://abcnews.com/Business/stocks-tumble-after-trump-vows-hit-iran-extremely/story?id=131647304</link>
+      <summary>U.S. oil prices soared more than 10% on Thursday.</summary>
+      <pubDate>Thu, 02 Apr 2026 11:00:06 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/Politics/260401_abc_social_stone_ages3_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/nyse-3-gty-gmh-260402_1775140159289_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -63,7 +52,7 @@
       <title>WATCH: Search for American journalist kidnapped in Iraq</title>
       <link>https://abcnews.com/video/131643411/</link>
       <summary>A source says the FBI is now involved in the search for veteran American journalist Shelly Kittleson.</summary>
-      <pubDate>Thu, 02 Apr 2026 08:11:57 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 09:51:39 -0400</pubDate>
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_rivers_journalist3_hpMain_4x3_384.jpg</image>
@@ -71,10 +60,10 @@
       </media>
     </item>
     <item>
-      <title>4.9 magnitude earthquake rattles Northern California</title>
+      <title>4.6 magnitude earthquake rattles Northern California</title>
       <link>https://abcnews.com/US/49-magnitude-earthquake-rattles-northern-california/story?id=131642124</link>
-      <summary>A 4.9 magnitude earthquake shook Northern California early Thursday morning, ​according to the United States Geological ​Survey (USGS).</summary>
-      <pubDate>Thu, 02 Apr 2026 05:31:52 -0400</pubDate>
+      <summary>A 4.6 magnitude earthquake shook Northern California early Thursday morning, ​according to the United States Geological ​Survey (USGS).</summary>
+      <pubDate>Thu, 02 Apr 2026 10:30:48 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg</image>
@@ -85,7 +74,7 @@
       <title>WATCH: KitKat launches tracker after chocolate heist</title>
       <link>https://abcnews.com/video/131643422/</link>
       <summary>Nestlé, the maker of KitKat, has launched a tracker in an attempt to find the 12 tons of stolen chocolate.</summary>
-      <pubDate>Thu, 02 Apr 2026 07:39:31 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 09:52:12 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_reeve_kitkat1_hpMain_4x3_384.jpg</image>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260401_wn_benitez_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: The science behind how astronauts’ bodies respond in space</title>
+      <link>https://abcnews.com/video/131594735/</link>
+      <summary>ABC News’ Linsey Davis spoke with UCLA director of space medicine Dr. Haig Aintablian on how astronauts are preparing for their trip to space ahead of the Artemis II launch.</summary>
+      <pubDate>Wed, 01 Apr 2026 01:44:55 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260331_abcnl_prime_haig_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
