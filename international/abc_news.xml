@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T20:01:41.455177</generated>
+  <generated>2026-04-02T22:01:02.394976</generated>
   <items>
-    <item>
-      <title>Artemis II live updates: Crew testing Orion systems, preparing for push toward Moon</title>
-      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
-      <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Thu, 02 Apr 2026 10:19:47 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/artemis-1-ht-gmh-260402_1775132474466_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: President Trump touts success against Iran in primetime address</title>
       <link>https://abcnews.com/video/131638279/</link>
@@ -27,10 +16,21 @@
       </media>
     </item>
     <item>
+      <title>Stocks tick lower after Trump vows to hit Iran 'extremely hard' in coming weeks</title>
+      <link>https://abcnews.com/Business/stocks-tumble-after-trump-vows-hit-iran-extremely/story?id=131647304</link>
+      <summary>U.S. oil prices soared more than 10% on Thursday.</summary>
+      <pubDate>Thu, 02 Apr 2026 12:44:47 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/nyse-3-gty-gmh-260402_1775140159289_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Wed, 01 Apr 2026 21:12:21 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 13:36:27 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -49,24 +49,13 @@
       </media>
     </item>
     <item>
-      <title>Trump says he'll sign order to pay all DHS employees as shutdown continues</title>
-      <link>https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312</link>
-      <summary>President Donald Trump said he plans to sign an order to pay "all" employees at the Department of Homeland Security amid the record-long agency shutdown.</summary>
-      <pubDate>Thu, 02 Apr 2026 12:28:09 -0400</pubDate>
+      <title>Trump replacing Pam Bondi as attorney general, Todd Blanche to step in</title>
+      <link>https://abcnews.com/US/trump-replacing-pam-bondi-attorney-general-todd-blanche/story?id=131647710</link>
+      <summary>President Trump has announced that Pam Bondi is being ousted as his attorney general, and that Todd Blanche will serve as acting attorney general.</summary>
+      <pubDate>Thu, 02 Apr 2026 14:05:47 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>4.6 magnitude earthquake rattles Northern California</title>
-      <link>https://abcnews.com/US/49-magnitude-earthquake-rattles-northern-california/story?id=131642124</link>
-      <summary>A 4.6 magnitude earthquake shook Northern California early Thursday morning, ​according to the United States Geological ​Survey (USGS).</summary>
-      <pubDate>Thu, 02 Apr 2026 10:30:48 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/pam-bondi-5-gty-gmh-260402_1775151560263_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260331_abcnl_prime_haig_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Dog found a week after owner survives 180-foot fall at waterfall</title>
+      <link>https://abcnews.com/video/131648950/</link>
+      <summary>A hiker was evacuated after falling 180 feet in New Zealand and had to leave her dog behind. An intrepid helicopter pilot rescued it.</summary>
+      <pubDate>Thu, 02 Apr 2026 09:46:22 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260402_abc_social_dog_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
