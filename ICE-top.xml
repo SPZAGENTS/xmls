@@ -2,7 +2,7 @@
 <content-feed>
   <title>ICE — Top 10 Articles</title>
   <source>ICE</source>
-  <generated>2026-04-02T18:03:04.001031</generated>
+  <generated>2026-04-02T20:02:28.408164</generated>
   <items>
     <item>
       <title>דוח בנק ישראל: הכלכלה הישראלית יציבה, אך סיכונים חדשים נחשפים</title>
@@ -12,6 +12,17 @@
       <priority>95</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_540/rsz_615_346_37ice05062025.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>מבצע "שאגת הארי": ירי מתימן לירושלים וים המלח, הטיל יורט</title>
+      <link>https://www.ice.co.il/local-news/news/article/1108332</link>
+      <summary>דיווחים על כמה זירות נפילה באזור המרכז: טיל ששוגר לירושלים יורט ללא נפגעים וללא כל נזק. מכניסת החג: כ-150 שיגורים מלבנון ליישובי הצפון. צה"ל חיסל למעלה מ-40 מחבלים בדרום המדינה | כל העדכונים</summary>
+      <pubDate>2026/04/02 19:58:00</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_588/rsz_615_346_010320261736.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>חברת הענק הישראלית קורסת: נקלעה לחובות של 12 מיליון שקל</title>
-      <link>https://www.ice.co.il/finance/news/article/1108300</link>
-      <summary>הסנדלר הולך יחף: חברת הגבייה ש.י.ל.ת שירותי גביה, נקלעה לחובות עתק בעצמה, מה שמאיים על המשך קיומה אחרי שהגישה בקשה לצו עיכוב הליכים</summary>
-      <pubDate>2026/04/01 12:58:05</pubDate>
-      <priority>75</priority>
+      <title>ביטוח לאומי בהודעה קריטית: זה מה שאתם חייבים לעשות עד ה-15.4</title>
+      <link>https://www.ice.co.il/consumerism/news/article/1108315</link>
+      <summary>כמדי חודש, גם באפריל ישלם המוסד לביטוח לאומי את הקצבאות והמענקים למאות אלפי ישראלים זכאים. ice עושה לכם סדר -מועדי קבלת הכסף, עד מתי תהיו חייבים לדווח והזינוק בממוצע הקצבאות בשל השינויים במדד המחירים לצרכן</summary>
+      <pubDate>2026/04/02 20:01:29</pubDate>
+      <priority>70</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_404/rsz_615_346_17ice16072023.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_565/rsz_615_346_16ice15102025.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>משטרת ישראל בהודעה מפחידה לציבור: "מבקשים לא להגיע"</title>
-      <link>https://www.ice.co.il/local-news/news/article/1108310</link>
-      <summary>התקבל דיווח על קריסת מבנה בתל אביב יפו. על פי גורמי הרפואה, נפצעו 2 אנשים באורח קל</summary>
-      <pubDate>2026/04/01 13:06:00</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_593/rsz_615_346_0104202261340.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>אבל במוזיקה הישראלית: אחד מחלוצי הז'אנר הלך לעולמו בגיל 76</title>
       <link>https://www.ice.co.il/culture/news/article/1108324</link>
       <summary>האיש מאחורי פריצת המוזיקה המזרחית – אשר ראובני, ממייסדי "האחים ראובני", הלך לעולמו בגיל 76; ניהל אמנים רבים והיה מהדמויות המרכזיות בז’אנר לאורך עשרות שנים</summary>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>10 המכות: המניות החלשות בבורסה בערב חג הפסח</title>
-      <link>https://www.ice.co.il/finance/news/article/1108287</link>
-      <summary>ממש כמו בסיפור יציאת מצרים, גם השנה חטפו כמה מניות בתל אביב מכות שמהן קשה להתאושש - ממחיקה כמעט מוחלטת ועד קריסה של מחצית השווי. אלו המניות החלשות בבורסה ברבעון הראשון של השנה</summary>
-      <pubDate>2026/04/01 15:10:00</pubDate>
+      <title>רותם סלע מתעשרת: כך תכניס לכיסה סכום של 24 מיליון שקל</title>
+      <link>https://www.ice.co.il/financial-gossip/news/article/1108329</link>
+      <summary>השחקנית והמגישה מציעה למכירה את דירתה במגדל הגימנסיה בתל אביב במחיר מבוקש של 24 מיליון שקל – עם שטח של כ-350 מ"ר, נוף פתוח לעיר ומתקני יוקרה בבניין</summary>
+      <pubDate>2026/04/02 19:52:07</pubDate>
       <priority>55</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_519/rsz_615_346_32ice17032025.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_513/rsz_615_346_רותם סלע.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>הקריפטו היומי: השוק מתאושש, האת'ריום מזנק, וזה מה שקרה לביטקוין</title>
-      <link>https://www.ice.co.il/crypto/news/article/1108316</link>
-      <summary>הקריפטו היומי: מגמה ירוקה נרשמת בשוק המטבעות הדיגיטליים. בזמן שהביטקוין חוזר להיסחר מעל רף ה-68 אלף דולר, האת'ריום גונב את ההצגה עם הזינוק היומי החד ביותר בקרב המטבעות המובילים | כל המספרים</summary>
-      <pubDate>2026/04/01 13:42:05</pubDate>
+      <title>מהעסקאות הגדולות בהיסטוריה: שתי הענקיות מתמזגות ב-65 מיליארד דולר</title>
+      <link>https://www.ice.co.il/finance/news/article/1108327</link>
+      <summary>עסקת ענק בענף המזון – יוניליוור תמזג את חטיבת המזון שלה עם מקורמיק: החברה הממוזגת צפויה להיות בשווי כ-65 מיליארד דולר, ובעלי מניות יוניליוור יחזיקו בכ-65% ממנה</summary>
+      <pubDate>2026/04/02 19:51:24</pubDate>
       <priority>55</priority>
       <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_585/rsz_615_346_22ice22012026.jpg</image>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_551/rsz_615_346_33ice27072025.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-02T18:03:40.537116</generated>
+  <generated>2026-04-02T20:01:42.256256</generated>
   <items>
     <item>
       <title>Lebanese displaced by war fill Beirut's streets, upending city life</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9c5ffc3b99f168c81e48d4ea938f92af_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>3 major airlines in United Arab Emirates say Iranians are now barred from entering or transiting country as war rages</title>
-      <link>https://abcnews.com/International/wireStory/3-major-airlines-united-arab-emirates-iranians-now-131597860</link>
-      <summary>3 major airlines in United Arab Emirates say Iranians are now barred from entering or transiting country as war rages</summary>
-      <pubDate>Wed, 01 Apr 2026 07:33:51 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_46489e01bbf0c9f5ab639c05fec446c8_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>AI machine sorts clothes faster than humans to boost textile recycling in China</title>
+      <link>https://abcnews.com/International/wireStory/ai-machine-sorts-clothes-faster-humans-boost-textile-131637633</link>
+      <summary>A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling</summary>
+      <pubDate>Thu, 02 Apr 2026 02:31:25 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

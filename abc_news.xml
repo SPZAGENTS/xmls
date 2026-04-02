@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T18:03:39.711462</generated>
+  <generated>2026-04-02T20:01:41.455177</generated>
   <items>
     <item>
       <title>Artemis II live updates: Crew testing Orion systems, preparing for push toward Moon</title>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>Stocks tick lower after Trump vows to hit Iran 'extremely hard' in coming weeks</title>
-      <link>https://abcnews.com/Business/stocks-tumble-after-trump-vows-hit-iran-extremely/story?id=131647304</link>
-      <summary>U.S. oil prices soared more than 10% on Thursday.</summary>
-      <pubDate>Thu, 02 Apr 2026 11:00:06 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/nyse-3-gty-gmh-260402_1775140159289_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -56,6 +45,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_rivers_journalist3_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump says he'll sign order to pay all DHS employees as shutdown continues</title>
+      <link>https://abcnews.com/Politics/trump-hell-sign-order-pay-dhs-employees-shutdown/story?id=131650312</link>
+      <summary>President Donald Trump said he plans to sign an order to pay "all" employees at the Department of Homeland Security amid the record-long agency shutdown.</summary>
+      <pubDate>Thu, 02 Apr 2026 12:28:09 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-19-epa-gmh-04012026_1775092868441_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
