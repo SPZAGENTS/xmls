@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-02T12:03:15.491926</generated>
+  <generated>2026-04-02T14:03:19.870806</generated>
   <items>
+    <item>
+      <title>Israeli paramedic delivers baby, rushes it to bomb shelter during Iran attack</title>
+      <link>https://www.foxnews.com/world/israeli-paramedic-delivers-baby-rushes-bomb-shelter-during-iran-attack</link>
+      <summary>Israeli paramedic Dr. Gal Rosen delivered a baby in Tel Aviv, then raced to a bomb shelter with the newborn as Iron Dome missile sirens blared overhead.</summary>
+      <pubDate>Thu, 02 Apr 2026 06:00:07 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/dr-gal-rosen.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran's ceasefire push may be a 'cycle of deception,' analysts warn as shadowy figure gains power</title>
       <link>https://www.foxnews.com/world/irans-ceasefire-push-may-cycle-deception-analysts-warn-shadowy-figure-gains-power</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/iran-internet-blackout.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns</title>
-      <link>https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns</link>
-      <summary>Iran&amp;apos;s ballistic missiles, including the Shahab-3 and Khorramshahr-4, were developed with North Korean help, says expert Bruce Bechtol, who urges stronger sanctions enforcement.</summary>
-      <pubDate>Mon, 30 Mar 2026 06:13:45 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kim-khamenei-split-fox-news-001.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

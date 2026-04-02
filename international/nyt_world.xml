@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-02T12:03:18.258938</generated>
+  <generated>2026-04-02T14:03:22.821848</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Gulf Nations and Israel Face New Attacks After Trump Claims Military Success</title>
+      <title>Iran War Live Updates: Oil Prices Surge After Trump Claims Success Without Offering Exit Plan</title>
       <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news</link>
-      <summary>President Trump said the United States would hit Iran “extremely hard” over the next two to three weeks. He said the war was already a success but did not offer a concrete exit timeline.</summary>
-      <pubDate>Thu, 02 Apr 2026 08:33:24 +0000</pubDate>
+      <summary>In his address, President Trump also repeated his threats to hit Iranian infrastructure, including electrical plants, unless a deal was struck.</summary>
+      <pubDate>Thu, 02 Apr 2026 10:49:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-promo-fpjv/02israel-iran-promo-fpjv-mediumSquareAt3X.jpg</image>
@@ -67,13 +67,24 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Lost Friendships, Broken Relationships: How the War in Iran Is Dividing the Diaspora</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html</link>
+      <summary>Amid months of protest, repression and war in their native country, Iranians living abroad are navigating their biggest rifts yet.</summary>
+      <pubDate>Thu, 02 Apr 2026 09:22:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-iran-diaspora-jptk/00int-iran-diaspora-jptk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>5 Takeaways From Trump’s Address on Iran</title>
       <link>https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html</link>
       <summary>President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.</summary>
-      <pubDate>Thu, 02 Apr 2026 03:36:15 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 09:45:07 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-trump-takeaways-qbvt/01israel-iran-trump-takeaways-qbvt-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/05/01/multimedia/01dc-takeaways-swap-wlbf/01dc-takeaways-swap-wlbf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,24 +96,13 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>What Happened in the War in the Middle East on Wednesday.</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/what-happened-in-the-war-in-the-middle-east-on-wednesday.html</link>
-      <summary>Formidable strikes rocked Tehran early Wednesday morning. Iran launched what its state-aligned media called one of the largest attacks on Israel yet, damaging several cities.</summary>
-      <pubDate>Wed, 01 Apr 2026 23:53:26 +0000</pubDate>
-      <priority>100</priority>
+      <title>In a Muzzled Russia, He Still Speaks His Mind</title>
+      <link>https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html</link>
+      <summary>While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.</summary>
+      <pubDate>Thu, 02 Apr 2026 09:44:11 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-front-by-front-gfzb/01israel-iran-front-by-front-gfzb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>In Speech, Trump Is Expected to Call Iran War a Success</title>
-      <link>https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news/trump-iran-war-speech</link>
-      <summary />
-      <pubDate>Wed, 01 Apr 2026 23:36:34 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-potus-speech-art-hgjv/01israel-iran-potus-speech-art-hgjv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-russia-muratov-profile-sub-ljbz/01int-russia-muratov-profile-sub-ljbz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

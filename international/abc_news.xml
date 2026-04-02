@@ -2,27 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T12:03:22.685415</generated>
+  <generated>2026-04-02T14:03:28.472057</generated>
   <items>
     <item>
-      <title>Iran live updates: Israel, UAE, Saudi Arabia report drone and missile attacks</title>
+      <title>Iran live updates: US Embassy tells Americans to leave Iraq, cites terror threat</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 02 Apr 2026 03:37:38 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 06:53:54 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Abu-Dhabi-DB-260402_1775113972029_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/Iraq-militia-DB-260402_1775125495016_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Artemis II live updates: Crew enters high Earth orbit, are in 'great spirits'</title>
+      <title>Artemis II live updates: Crew testing Orion systems, preparing for push toward Moon</title>
       <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
       <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Wed, 01 Apr 2026 20:55:17 -0400</pubDate>
-      <priority>95</priority>
+      <pubDate>Thu, 02 Apr 2026 06:23:27 -0400</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/artemis-33-gty-gmh-260401_1775084309226_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/Artemis-DB-260402_1775125021682_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Vice mayor of Florida city found dead in 'domestic violence incident': Police</title>
-      <link>https://abcnews.com/US/coral-springs-vice-mayor-nancy-metayer-bowen-found/story?id=131636253</link>
-      <summary>Coral Springs Vice Mayor Nancy Metayer Bowen was found dead in her home Wednesday and police said they are investigating it as a "domestic violence incident."</summary>
-      <pubDate>Wed, 01 Apr 2026 22:23:11 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/nancy-metayer-ht-gmh-260401_1775093888626_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Video shows boat in Florida spinning out of control in deadly accident</title>
       <link>https://abcnews.com/video/131557705/</link>
       <summary>Firefighters said a woman and man were thrown from the boat and run over, killing the woman.</summary>
@@ -56,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260330_wn_vo_boat_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>4.9 magnitude earthquake rattles Northern California</title>
+      <link>https://abcnews.com/US/49-magnitude-earthquake-rattles-northern-california/story?id=131642124</link>
+      <summary>A 4.9 magnitude earthquake shook Northern California early Thursday morning, ​according to the United States Geological ​Survey (USGS).</summary>
+      <pubDate>Thu, 02 Apr 2026 05:31:52 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
