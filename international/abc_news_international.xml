@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-02T14:03:29.587319</generated>
+  <generated>2026-04-02T16:01:06.121473</generated>
   <items>
     <item>
       <title>Lebanese displaced by war fill Beirut's streets, upending city life</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Fire and explosions cause panic near military camp in Burundi</title>
-      <link>https://abcnews.com/International/wireStory/fire-explosions-cause-panic-military-camp-burundi-131604191</link>
-      <summary>Residents of an area near a military camp in Burundi fled on Tuesday night after explosions were heard coming from the camp, due to what the army spokesperson later said was a fire caused by an electrical fault at the armory</summary>
-      <pubDate>Wed, 01 Apr 2026 04:55:12 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Italian coast guard finds 19 migrants dead and rescues 58 from dinghy off Lampedusa</title>
       <link>https://abcnews.com/International/wireStory/italian-coast-guard-finds-19-migrants-dead-rescues-131617532</link>
       <summary>The Italian coast guard has found 19 people dead and rescued 58 from a dinghy filled with migrants near Lampedusa</summary>
@@ -67,28 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_89f4f6f3367b4525123dbe8ca5d20d1e_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Business sentiments in Japan improving despite Iran worries</title>
-      <link>https://abcnews.com/International/wireStory/business-sentiments-japan-improving-despite-iran-worries-131599962</link>
-      <summary>A quarterly survey by the Bank of Japan shows business sentiment among major Japanese manufacturers improved slightly</summary>
-      <pubDate>Wed, 01 Apr 2026 07:33:47 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0160ffb35fe09b8229ceafdcbe6b2c6d_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>3 more men arrested in suspected antisemitic ambulance torching in London</title>
-      <link>https://abcnews.com/International/wireStory/3-men-arrested-suspected-antisemitic-ambulance-torching-london-131607566</link>
-      <summary>London police have arrested three more suspects in the arson attack that burned four ambulances owned by a Jewish charity</summary>
-      <pubDate>Wed, 01 Apr 2026 08:11:53 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_351105bdcf0de6e7cc373458aef46e6c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +78,39 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_8ac6b768a20be8370ead95699defe772_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>India has begun its long-delayed population census. Here's why it matters</title>
+      <link>https://abcnews.com/International/wireStory/india-begun-long-delayed-population-census-matters-131602973</link>
+      <summary>India has begun the world&amp;rsquo;s largest national population count, which could reshape welfare programs and political representation across the country</summary>
+      <pubDate>Wed, 01 Apr 2026 22:34:36 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_3c7480e4eb294efcf56e9a85cd87a087_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Operation to tow damaged Russian tanker off Libya fails due to weather</title>
+      <link>https://abcnews.com/International/wireStory/operation-tow-damaged-russian-tanker-off-libya-fails-131646176</link>
+      <summary>Libyan authorities said the operation to tow a damaged Russian tanker adrift in the Mediterranean has failed due to bad weather</summary>
+      <pubDate>Thu, 02 Apr 2026 08:49:33 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_46489e01bbf0c9f5ab639c05fec446c8_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>AI machine sorts clothes faster than humans to boost textile recycling in China</title>
+      <link>https://abcnews.com/International/wireStory/ai-machine-sorts-clothes-faster-humans-boost-textile-131637633</link>
+      <summary>A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling</summary>
+      <pubDate>Thu, 02 Apr 2026 02:31:25 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
