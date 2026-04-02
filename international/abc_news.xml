@@ -2,30 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-02T22:01:02.394976</generated>
+  <generated>2026-04-03T00:01:00.928838</generated>
   <items>
-    <item>
-      <title>WATCH: President Trump touts success against Iran in primetime address</title>
-      <link>https://abcnews.com/video/131638279/</link>
-      <summary>President Trump delivered a primetime address to the nation on Wednesday, touting U.S. military operations against Iran.</summary>
-      <pubDate>Thu, 02 Apr 2026 01:08:49 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/260401_abc_social_trump_open2e_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Stocks tick lower after Trump vows to hit Iran 'extremely hard' in coming weeks</title>
-      <link>https://abcnews.com/Business/stocks-tumble-after-trump-vows-hit-iran-extremely/story?id=131647304</link>
-      <summary>U.S. oil prices soared more than 10% on Thursday.</summary>
-      <pubDate>Thu, 02 Apr 2026 12:44:47 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/nyse-3-gty-gmh-260402_1775140159289_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
@@ -52,10 +30,21 @@
       <title>Trump replacing Pam Bondi as attorney general, Todd Blanche to step in</title>
       <link>https://abcnews.com/US/trump-replacing-pam-bondi-attorney-general-todd-blanche/story?id=131647710</link>
       <summary>President Trump has announced that Pam Bondi is being ousted as his attorney general, and that Todd Blanche will serve as acting attorney general.</summary>
-      <pubDate>Thu, 02 Apr 2026 14:05:47 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 16:54:53 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/pam-bondi-5-gty-gmh-260402_1775151560263_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Suspect arrested in killing of 7-month-old baby shot in stroller, police say</title>
+      <link>https://abcnews.com/US/senseless-7-month-baby-stroller-killed-new-york/story?id=131629573</link>
+      <summary>A 7-month-old baby girl in a stroller was shot and killed when two people on a moped drove past a busy street corner and one of them opened fire, authorities said.</summary>
+      <pubDate>Thu, 02 Apr 2026 12:54:31 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/mamdani-presser-shooting-ht-jt-260401_1775082261124_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Dog found a week after owner survives 180-foot fall at waterfall</title>
-      <link>https://abcnews.com/video/131648950/</link>
-      <summary>A hiker was evacuated after falling 180 feet in New Zealand and had to leave her dog behind. An intrepid helicopter pilot rescued it.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:46:22 -0400</pubDate>
+      <title>WATCH: Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</title>
+      <link>https://abcnews.com/video/131666275/</link>
+      <summary>Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</summary>
+      <pubDate>Thu, 02 Apr 2026 15:53:30 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/260402_abc_social_dog_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260402_abc_social_bondi_out_fix_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: New Acting Attorney General Todd Blanche has a track record of loyalty to President Trump — but so did Pam Bondi, ABC News' Alex Mallin reports.</title>
+      <link>https://abcnews.com/video/131666333/</link>
+      <summary>New Acting Attorney General Todd Blanche has a track record of loyalty to President Trump — but so did Pam Bondi, ABC News' Alex Mallin reports.</summary>
+      <pubDate>Thu, 02 Apr 2026 15:54:16 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260402_abc_social_mallin_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-02T22:01:04.313399</generated>
+  <generated>2026-04-03T00:01:03.209928</generated>
   <items>
     <item>
       <title>'Stay Alive,' about daily life in Nazi Berlin, shows how easy it is to just go along</title>
@@ -19,13 +19,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez</title>
-      <link>https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez</link>
-      <summary>The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro.</summary>
-      <pubDate>Thu, 02 Apr 2026 02:44:49 -0400</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>Trump's VA killed a home loan program. Vets are now losing their homes because of it</title>
       <link>https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue</link>
       <summary>Foreclosures on VA loans are at their highest level in a decade. VA has a fix but it is months away and could still leave vets worse off than most other homeowners.</summary>
@@ -33,16 +26,23 @@
       <priority>80</priority>
     </item>
     <item>
+      <title>Trump administration sues three states over attempts to regulate prediction markets</title>
+      <link>https://www.npr.org/2026/04/02/nx-s1-5771635/trump-cftc-kalshi-polymarket-lawsuits</link>
+      <summary>The suits are the most ambitious effort to date that the Trump administration has gone to try to override state laws and set the rules for the fast-growing and increasingly divisive betting industry.</summary>
+      <pubDate>Thu, 02 Apr 2026 15:54:18 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>EPA flags microplastics, pharmaceuticals as contaminants in drinking water</title>
       <link>https://www.npr.org/2026/04/02/nx-s1-5771155/epa-microplastics-pharmaceuticals-drinking-water</link>
-      <summary>There's been a lot of public is concerned about health risks from the chemicals, especially from the Make America Healthy Again movement. The agency's move doesn't in itself guarantee regulation.</summary>
+      <summary>There is public concern about health risks from the chemicals, especially from the Make America Healthy Again movement. The agency's move doesn't in itself guarantee regulation.</summary>
       <pubDate>Thu, 02 Apr 2026 14:15:01 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
       <title>Attorney General Pam Bondi out at DOJ</title>
       <link>https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-general-departure</link>
-      <summary>President Trump has announced that Attorney General Pam Bondi is out at the Justice Department. Her departure comes amid simmering frustration over her leadership and handling of the Epstein files.</summary>
+      <summary>Bondi's departure comes amid simmering frustration over her leadership and handling of the Epstein files. President Trump says Deputy Attorney General Todd Blanche will be acting attorney general.</summary>
       <pubDate>Thu, 02 Apr 2026 13:35:55 -0400</pubDate>
       <priority>65</priority>
     </item>
@@ -54,9 +54,9 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>In a thunderous launch, Artemis II astronauts leave Earth. Here's what's next</title>
+      <title>Artemis II's next major milestone marks a crossroads: Watch it here</title>
       <link>https://www.npr.org/2026/04/02/nx-s1-5770599/artemis-ii-10-day-mission-preview</link>
-      <summary>NASA's Artemis II crew has successfully launched on a mission that will take it around the moon and back to Earth. Here's what to expect over their roughly 10-day journey.</summary>
+      <summary>NASA's Artemis II crew has successfully launched on a mission that will take it around the moon and back to Earth. A key maneuver Thursday night determines whether they embark on their lunar visit.</summary>
       <pubDate>Thu, 02 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
