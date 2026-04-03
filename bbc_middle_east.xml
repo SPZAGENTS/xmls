@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East — Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-04-03T08:03:26.085493</generated>
+  <generated>2026-04-03T10:00:50.176650</generated>
   <items>
     <item>
       <title>'I haven't slept for days': Iranians describe mounting desperation after a month of war</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505d/live/74f65ce0-2e9a-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ros Atkins on…the cost of the Iran war</title>
+      <link>https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.</summary>
+      <pubDate>Thu, 02 Apr 2026 18:29:14 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,17 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e913/live/7a71f3c0-2da8-11f1-8469-3bd0a3d7fbf1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'You're no longer my sister' - rows erupt as war divides Iranian families</title>
-      <link>https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>People in Iran describe angry scenes and tense relationships as rifts open up over the war.</summary>
-      <pubDate>Tue, 31 Mar 2026 23:25:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
