@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-03T10:03:32.465992</generated>
-  <total_articles>338</total_articles>
+  <generated>2026-04-03T12:03:41.934774</generated>
+  <total_articles>339</total_articles>
   <items>
     <item>
       <title>'I haven't slept for days': Iranians describe mounting desperation after a month of war</title>
@@ -14,6 +14,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505d/live/74f65ce0-2e9a-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Ros Atkins on…the cost of the Iran war</title>
+      <link>https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.</summary>
+      <pubDate>Thu, 02 Apr 2026 18:29:14 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'Be serious... don't speak every day': Macron criticises Trump approach to Iran war</title>
+      <link>https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.</summary>
+      <pubDate>Thu, 02 Apr 2026 13:41:27 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg</image>
       </media>
     </item>
     <item>
@@ -91,28 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3901/live/3d965d90-2e72-11f1-8a66-65c63934aa34.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israel's perpetual war with Iran may be hard to win with military might alone</title>
-      <link>https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.</summary>
-      <pubDate>Wed, 01 Apr 2026 19:23:52 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b50/live/dd5d4230-2df5-11f1-84b6-e98f87f2e88b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control</title>
-      <link>https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.</summary>
-      <pubDate>Wed, 01 Apr 2026 10:33:35 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e913/live/7a71f3c0-2da8-11f1-8469-3bd0a3d7fbf1.jpg</image>
       </media>
     </item>
   </items>
