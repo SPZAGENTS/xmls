@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-03T20:03:42.208760</generated>
+  <generated>2026-04-03T22:00:54.105519</generated>
   <items>
+    <item>
+      <title>Iran Guards recruiting children as young as 12, putting them on front lines of war</title>
+      <link>https://www.foxnews.com/world/iran-guards-recruiting-children-young-12-putting-them-front-lines-war</link>
+      <summary>Human Rights Watch and Amnesty International report Iran&amp;apos;s Islamic Revolutionary Guard Corps is recruiting children as young as 12 into military-linked combat and patrol roles.</summary>
+      <pubDate>Fri, 03 Apr 2026 13:10:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Iran-Children-IRGC.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran's tallest bridge collapses after reported US airstrikes; Iran threatens American allies in retaliation</title>
       <link>https://www.foxnews.com/world/irans-tallest-bridge-collapses-reported-us-airstrikes-iran-threatens-american-allies-retaliation</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-drones-china-parts.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran moderates pushing Trump deal risk being ‘eliminated’ as regime fractures deepen</title>
-      <link>https://www.foxnews.com/world/iran-moderates-pushing-trump-deal-risk-eliminated-regime-fractures-deepen</link>
-      <summary>Pete Hegseth says Iran should make a deal to end the war as Secretary of State Marco Rubio cites internal fractures in the new Iranian regime.</summary>
-      <pubDate>Tue, 31 Mar 2026 15:47:37 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/ghalibaf-irgc.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
