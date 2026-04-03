@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-03T06:03:53.859834</generated>
+  <generated>2026-04-03T08:01:15.407550</generated>
   <items>
     <item>
       <title>Jealous ex-boyfriend accused of ‘vicious’ acid attack that left college student severely burned: DA</title>
@@ -12,6 +12,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nafiah-ikram-court-shaquille-coke-nyc-acid-attack.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Karoline Leavitt reveals 'anti-climatic' way Trump told her she’d be press secretary: ‘Oh, by the way’</title>
+      <link>https://www.foxnews.com/politics/karoline-leavitt-reveals-anti-climatic-way-trump-told-her-shed-press-secretary-oh-way</link>
+      <summary>Karoline Leavitt reveals President Trump offered her the White House press secretary role in a casual phone call with no formal process after the 2024 election.</summary>
+      <pubDate>Thu, 02 Apr 2026 23:05:40 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/erika-kirk-karoline-leavitt-tpusa-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/senate-minority-leader-chuck-schumer-shutdown-dhs-pieces.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Police chatter frantic in harrowing moments after Tiger Woods' car crash: 911 audio</title>
-      <link>https://www.foxnews.com/sports/police-chatter-harrowing-moment-tiger-woods-car-crash-revealed</link>
-      <summary>Newly released 911 audio captures police conversation after Tiger Woods&amp;apos; DUI car crash in Florida, when officers were unable to reach the alleged impaired driver.</summary>
-      <pubDate>Thu, 02 Apr 2026 20:38:40 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tiger-woods-crash.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

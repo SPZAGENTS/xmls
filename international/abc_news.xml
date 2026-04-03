@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T06:03:59.523555</generated>
+  <generated>2026-04-03T08:01:21.991461</generated>
   <items>
-    <item>
-      <title>Artemis II live updates: Crew headed to moon after critical translunar injection burn</title>
-      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
-      <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Thu, 02 Apr 2026 21:25:06 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/artemis-10-ht-gmh-260402_1775173422003_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Artemis II orbits Earth for full day, takes critical step in path towards the moon</title>
       <link>https://abcnews.com/video/131669968/</link>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260331_abcnl_prime_haig_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</title>
+      <link>https://abcnews.com/video/131666275/</link>
+      <summary>Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</summary>
+      <pubDate>Thu, 02 Apr 2026 17:40:08 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260402_abc_social_bondi_out_fix_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
