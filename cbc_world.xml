@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-04T00:04:08.440186</generated>
+  <generated>2026-04-04T02:00:58.530749</generated>
   <items>
     <item>
       <title>Israel strikes Beirut as U.S. warns Iran may target universities</title>
@@ -54,6 +54,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>1 crew member rescued, search underway for another after U.S. fighter jet goes down in Iran</title>
+      <link>https://www.cbc.ca/news/world/iran-war-u-s-gulf-states-9.7152750?cmp=rss</link>
+      <summary />
+      <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Conversion therapy survivors on edge as U.S. Supreme Court strikes down ban</title>
       <link>https://www.cbc.ca/radio/asithappens/conversion-therapy-scotus-9.7150499?cmp=rss</link>
       <summary>The U.S. Supreme Court has ruled that banning conversion therapy for minors is a violation of free speech. But a man who once underwent the practice himself says it's about protecting vulnerable young people from serious — and sometimes fatal — harm.</summary>
@@ -66,13 +73,6 @@
       <summary>Ever since becoming leader in 2011, North Korean Leader Kim Jong-un has made his nuclear weapons program a national goal — almost a doctrine — arguing it is the only way for smaller powers to keep from being "mercilessly violated" by superpowers.</summary>
       <pubDate>Wed, 01 Apr 2026 10:49:51 EDT</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person</title>
-      <link>https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss</link>
-      <summary>An undersea magnitude 7.4 earthquake toppled buildings in parts of northern Indonesia, sent people fleeing from their homes, killed at least one person and generated a small tsunami Thursday.</summary>
-      <pubDate>Thu, 02 Apr 2026 04:48:36 EDT</pubDate>
-      <priority>80</priority>
     </item>
   </items>
 </content-feed>
