@@ -2,8 +2,15 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-03T22:03:42.751236</generated>
+  <generated>2026-04-04T00:03:03.705480</generated>
   <items>
+    <item>
+      <title>Israel strikes Beirut as U.S. warns Iran may target universities</title>
+      <link>https://www.cbc.ca/news/world/iran-war-lebanon-universities-warning-9.7153025?cmp=rss</link>
+      <summary>Israel pounded Beirut with airstrikes on Friday that the military said ‌had targeted what it calls militant "infrastructure" in Lebanon's capital, as the U.S. warned that Iran may target universities in the country as war in the Middle East rages.</summary>
+      <pubDate>Fri, 03 Apr 2026 16:10:00 EDT</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Gaza family says toddler released from Israeli custody found with cigarette burn marks</title>
       <link>https://www.cbc.ca/news/world/gaza-toddler-israeli-military-custody-9.7148662?cmp=rss</link>
@@ -47,13 +54,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Tracking deaths in Iran, wider Middle East as conflict rages on</title>
-      <link>https://www.cbc.ca/news/world/tracking-deaths-iran-israel-united-states-middle-east-9.7114340?cmp=rss</link>
-      <summary>As the Middle East war enters a second month, thousands of people have been killed in the regional conflict that began when U.S. and Israel targeted Iran, which quickly pulled in neighbouring countries and opened a new front in Lebanon.</summary>
-      <pubDate>Wed, 04 Mar 2026 15:47:35 EST</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Conversion therapy survivors on edge as U.S. Supreme Court strikes down ban</title>
       <link>https://www.cbc.ca/radio/asithappens/conversion-therapy-scotus-9.7150499?cmp=rss</link>
       <summary>The U.S. Supreme Court has ruled that banning conversion therapy for minors is a violation of free speech. But a man who once underwent the practice himself says it's about protecting vulnerable young people from serious — and sometimes fatal — harm.</summary>
@@ -68,11 +68,11 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>IN PHOTOS | Launch of Artemis II mission</title>
-      <link>https://www.cbc.ca/news/science/photos/in-photos-launch-of-artemis-ii-mission-9.7070495?cmp=rss</link>
-      <summary>The Artemis II SLS rocket with the Orion capsule and its crew blasted off from the Kennedy Space Center in Cape Canaveral, Fla., on Wednesday on a nearly 10-day mission that's expected to take them around the moon and back to Earth.</summary>
-      <pubDate>Wed, 01 Apr 2026 16:45:00 EDT</pubDate>
-      <priority>90</priority>
+      <title>Magnitude 7.4 earthquake off Indonesia topples buildings, kills 1 person</title>
+      <link>https://www.cbc.ca/news/world/earthquake-indonesia-9.7151044?cmp=rss</link>
+      <summary>An undersea magnitude 7.4 earthquake toppled buildings in parts of northern Indonesia, sent people fleeing from their homes, killed at least one person and generated a small tsunami Thursday.</summary>
+      <pubDate>Thu, 02 Apr 2026 04:48:36 EDT</pubDate>
+      <priority>80</priority>
     </item>
   </items>
 </content-feed>

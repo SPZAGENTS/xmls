@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-03T22:03:34.085955</generated>
+  <generated>2026-04-04T00:02:54.526411</generated>
   <items>
     <item>
       <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia chose 'Easter escalation' over ceasefire, says Zelensky</title>
+      <link>https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.</summary>
+      <pubDate>Fri, 03 Apr 2026 20:43:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Meet the elite US teams tasked with combat rescues</title>
+      <link>https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.</summary>
+      <pubDate>Fri, 03 Apr 2026 20:42:56 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Artemis II crew take 'spectacular' image of Earth</title>
       <link>https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.</summary>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>France's Muslim gathering ban overturned by courts</title>
-      <link>https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.</summary>
-      <pubDate>Fri, 03 Apr 2026 12:20:28 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1667/live/4c676ee0-2f67-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Boy, 14, shot dead in Woolwich named as three teens held</title>
-      <link>https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A boy, 14, shot dead in south-east London is named as Eghosa Ogbebor, as three people are arrested.</summary>
-      <pubDate>Fri, 03 Apr 2026 16:56:42 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e7/live/cb093260-2f76-11f1-9ab7-3fd8eff9efaa.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
