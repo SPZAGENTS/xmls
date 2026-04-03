@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-03T18:01:08.601973</generated>
+  <generated>2026-04-03T18:03:38.389051</generated>
   <items>
     <item>
       <title>What B-52 bombers bring to the Iran fight and more top headlines</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/b-52-raf.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>State top cop moves to crush alleged DHS records restriction as county denies ICE-out</title>
+      <link>https://www.foxnews.com/politics/state-top-cop-moves-crush-alleged-dhs-records-restriction-county-denies-ice-out</link>
+      <summary>Montana AG tells Gallatin County its refusal to recognize ICE as a criminal justice agency is legally wrong, warning &amp;apos;Montana is not California.&amp;apos;</summary>
+      <pubDate>Fri, 03 Apr 2026 10:55:35 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mt-ag-knudsen.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/michelle-pfeiffer-madison.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Viral Easter candy trends pair giant 'smash eggs,' pricey treats with 'better-for-you' swaps</title>
-      <link>https://www.foxnews.com/food-drink/viral-easter-candy-trends-pair-giant-smash-eggs-pricey-treats-better-for-you-swaps</link>
-      <summary>Retro freeze-dried favorites, Dubai-style chocolate eggs and giant smash bunnies lead the viral Easter candy trends taking over TikTok and baskets in 2026.</summary>
-      <pubDate>Fri, 03 Apr 2026 08:39:16 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/easter-basket-candy-hands.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
