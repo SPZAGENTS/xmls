@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T20:03:47.233547</generated>
+  <generated>2026-04-03T22:00:59.761821</generated>
   <items>
-    <item>
-      <title>Iran live updates: US jet appears to have been shot down by Iran, US official says</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Fri, 03 Apr 2026 12:49:32 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/iran-6-ht-gmh-260403_1775219910817_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>White House asks for record-breaking $1.5 trillion for defense in new budget request</title>
       <link>https://abcnews.com/Politics/white-house-asks-record-breaking-15-trillion-defense/story?id=131683487</link>
@@ -49,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>US fighter jet down in Iran: 1 crew member rescued as search continues, officials say</title>
+      <link>https://abcnews.com/Politics/us-fighter-jet-iran-search-rescue-officials/story?id=131685787</link>
+      <summary>It appears that a U.S. fighter jet has been shot down by Iran and that the U.S. has launched a search and rescue effort, three U.S. officials confirmed to ABC News.</summary>
+      <pubDate>Fri, 03 Apr 2026 13:24:41 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/iran-7-ht-gmh-260403_1775219910292_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Artemis II orbits Earth for full day, takes critical step in path towards the moon</title>
       <link>https://abcnews.com/video/131669968/</link>
       <summary>After a picture perfect lift-off and a full day of orbiting Earth, Artemis II has fired up the crucial translunar injection.</summary>
@@ -74,7 +74,7 @@
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Fri, 03 Apr 2026 10:54:55 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 13:18:07 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -82,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Secretary Hegseth ousts Army Chief of Staff General Randy George</title>
-      <link>https://abcnews.com/video/131686463/</link>
-      <summary>Hegseth has asked George, the service's top uniformed officer, to step down from his position and retire immediately, the Pentagon said Thursday.</summary>
-      <pubDate>Fri, 03 Apr 2026 12:42:31 -0400</pubDate>
+      <title>WATCH: One crew member from downed jet over Iran is rescued</title>
+      <link>https://abcnews.com/video/131694346/</link>
+      <summary>One crew member aboard the downed fighter jet over Iran has been rescued, according to a U.S. official.</summary>
+      <pubDate>Fri, 03 Apr 2026 13:47:56 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/Politics/260403_abc_social_hegseth2_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/260403_abc_social_rescue_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

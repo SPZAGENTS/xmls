@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-03T20:03:44.128122</generated>
+  <generated>2026-04-03T22:00:56.313009</generated>
   <items>
     <item>
       <title>Iran War Live Updates: One American Rescued From Fighter Jet Downed Over Iran, Officials Say</title>
       <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil</link>
-      <summary>The fate of a second airman shot down in a F-15E warplane was unknown. It was the first time during the five-week war that a U.S. warplane had been brought down over Iran.</summary>
-      <pubDate>Fri, 03 Apr 2026 16:56:20 +0000</pubDate>
+      <summary>The fate of a second airman shot down in the F-15E warplane was unknown. A second U.S. combat plane crashed in the Gulf region around the same time and its lone pilot was rescued, U.S. officials said.</summary>
+      <pubDate>Fri, 03 Apr 2026 18:57:42 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-promo-11am-pcbw/03israel-iran-promo-11am-pcbw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-promo-130pm-pcbw/03israel-iran-promo-11am-pcbw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post</title>
       <link>https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html</link>
       <summary>Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.</summary>
-      <pubDate>Fri, 03 Apr 2026 16:12:02 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 18:24:26 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03france-arrest-01-zptj/03france-arrest-01-zptj-mediumSquareAt3X.jpg</image>
@@ -56,6 +56,17 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>The F-15E Strike Eagle: What to Know</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/f15e-strike-eagle.html</link>
+      <summary>The U.S. military aircraft with a two-person crew was shot down in Iran on Friday.</summary>
+      <pubDate>Fri, 03 Apr 2026 18:57:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-F15-explainer-topart-bcpv/03israel-iran-F15-explainer-topart-bcpv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Kuwait Blames Iran for Attack on Power and Desalination Plants</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/infrastructure-attacked-gulf-kuwait-iran.html</link>
       <summary>In Kuwait, an Iranian attack on Friday damaged a power and water desalination plant, officials said. Both sides in the Iran war have ramped up strikes on civilian targets.</summary>
@@ -78,35 +89,24 @@
       </media>
     </item>
     <item>
+      <title>Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html</link>
+      <summary>In sharp contrast to the Trump administration’s calls for Christian prayers for the war effort, Pope Leo XIV says military domination is “entirely foreign to the way of Jesus Christ.”</summary>
+      <pubDate>Fri, 03 Apr 2026 17:30:56 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-pope-fjmv/03israel-iran-pope-fjmv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html</link>
       <summary>A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.</summary>
       <pubDate>Fri, 03 Apr 2026 04:01:13 +0000</pubDate>
       <priority>85</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/02/23/multimedia/23syria-kidnapping-01-bmvw/23syria-kidnapping-01-bmvw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html</link>
-      <summary>The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.</summary>
-      <pubDate>Thu, 02 Apr 2026 13:09:59 +0000</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-Syria-Sting-hkcw/01int-Syria-Sting-hkcw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What U.S. military Pilots Are Trained to Do if Shot Down</title>
-      <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/what-us-military-pilots-are-trained-to-do-when-they-are-shot-down</link>
-      <summary />
-      <pubDate>Fri, 03 Apr 2026 16:54:21 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-survival-training-topart-vhbm/03israel-iran-survival-training-topart-vhbm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/23syria-kidnapping-01-bmvw/23syria-kidnapping-01-bmvw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
