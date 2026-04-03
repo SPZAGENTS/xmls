@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-03T20:02:04.768229</generated>
+  <generated>2026-04-03T20:03:47.904038</generated>
   <items>
-    <item>
-      <title>Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions</title>
-      <link>https://abcnews.com/International/wireStory/lebanons-displaced-shiites-face-rising-hostility-airstrikes-fuel-131678027</link>
-      <summary>A growing number of Shiite families displaced by the war in Lebanon say they&amp;rsquo;re being pushed out of towns where they feel unwelcome</summary>
-      <pubDate>Fri, 03 Apr 2026 03:30:51 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_fe533bddfbdc8fa0e0ce892a241bbf69_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>UK gathers more than 40 countries to plot ways of reopening the Strait of Hormuz</title>
       <link>https://abcnews.com/International/wireStory/uk-gathers-30-countries-plot-ways-reopening-strait-131640331</link>
@@ -45,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_8b4a43addd4acb65176b72686b7f4958_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Machete-wielding man attacks Ugandan nursery school, killing 4 children</title>
+      <link>https://abcnews.com/International/wireStory/machete-wielding-man-attacks-ugandan-nursery-school-killing-131644496</link>
+      <summary>A man has killed four children in a machete attack at a nursery school in Kampala, Uganda</summary>
+      <pubDate>Thu, 02 Apr 2026 08:24:32 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,10 +93,10 @@
       </media>
     </item>
     <item>
-      <title>Priceless ancient golden helmet stolen from a Dutch museum is recovered</title>
-      <link>https://abcnews.com/International/wireStory/priceless-ancient-golden-helmet-stolen-dutch-museum-recovered-131645500</link>
-      <summary>Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands</summary>
-      <pubDate>Thu, 02 Apr 2026 09:06:40 -0400</pubDate>
+      <title>AI machine sorts clothes faster than humans to boost textile recycling in China</title>
+      <link>https://abcnews.com/International/wireStory/ai-machine-sorts-clothes-faster-humans-boost-textile-131637633</link>
+      <summary>A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling</summary>
+      <pubDate>Thu, 02 Apr 2026 02:31:25 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
@@ -104,10 +104,10 @@
       </media>
     </item>
     <item>
-      <title>AI machine sorts clothes faster than humans to boost textile recycling in China</title>
-      <link>https://abcnews.com/International/wireStory/ai-machine-sorts-clothes-faster-humans-boost-textile-131637633</link>
-      <summary>A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling</summary>
-      <pubDate>Thu, 02 Apr 2026 02:31:25 -0400</pubDate>
+      <title>Priceless ancient golden helmet stolen from a Dutch museum is recovered</title>
+      <link>https://abcnews.com/International/wireStory/priceless-ancient-golden-helmet-stolen-dutch-museum-recovered-131645500</link>
+      <summary>Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands</summary>
+      <pubDate>Thu, 02 Apr 2026 09:06:40 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
