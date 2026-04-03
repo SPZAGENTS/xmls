@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T04:03:46.222498</generated>
+  <generated>2026-04-03T06:02:57.606096</generated>
   <items>
     <item>
       <title>Artemis II live updates: Crew headed to moon after critical translunar injection burn</title>
       <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
       <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Thu, 02 Apr 2026 20:45:26 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 21:25:06 -0400</pubDate>
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/artemis-10-ht-gmh-260402_1775173422003_hpMain_4x3t_384.jpg</image>
@@ -19,10 +19,21 @@
       <title>WATCH: Artemis II orbits Earth for full day, takes critical step in path towards the moon</title>
       <link>https://abcnews.com/video/131669968/</link>
       <summary>After a picture perfect lift-off and a full day of orbiting Earth, Artemis II has fired up the crucial translunar injection.</summary>
-      <pubDate>Thu, 02 Apr 2026 20:54:26 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 21:07:48 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260402_wn_benitez_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.</title>
+      <link>https://abcnews.com/video/131673696/</link>
+      <summary>The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.</summary>
+      <pubDate>Thu, 02 Apr 2026 22:58:52 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260402_abc_social_nasa_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US journalist abducted in Iraq was 'stressed out' by kidnap training: Colleague</title>
-      <link>https://abcnews.com/International/american-journalist-abducted-iraq-trained-case-kidnapped-colleague/story?id=131653465</link>
-      <summary>As the search continued in Iraq for abducted American journalist Shelly Kittleson, a colleague described her as resilient and careful to avoid danger.</summary>
-      <pubDate>Thu, 02 Apr 2026 17:49:30 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/shelly-kittleson-ht-jt-260331_1774991931141_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

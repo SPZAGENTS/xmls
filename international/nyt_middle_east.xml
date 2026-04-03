@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-03T04:03:43.659550</generated>
+  <generated>2026-04-03T06:02:54.412499</generated>
   <items>
+    <item>
+      <title>Trump’s Strait of Hormuz Problem</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html</link>
+      <summary>Our White House reporter Zolan Kanno-Youngs parses some of President Trump’s conflicting messages about the war with Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 02:17:22 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Thursday</title>
       <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
@@ -92,17 +99,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-trump-reax-topart-hltf/02israel-iran-trump-reax-topart-hltf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Lost Friendships, Broken Relationships: How the War in Iran Is Dividing the Diaspora</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html</link>
-      <summary>Amid months of protest, repression and war in their native country, Iranians living abroad are navigating their biggest rifts yet.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:22:05 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-iran-diaspora-jptk/00int-iran-diaspora-jptk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
