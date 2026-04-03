@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-03T06:02:58.385582</generated>
+  <generated>2026-04-03T06:04:00.163175</generated>
   <items>
-    <item>
-      <title>Lebanese displaced by war fill Beirut's streets, upending city life</title>
-      <link>https://abcnews.com/International/wireStory/lebanese-displaced-war-fill-beiruts-streets-upending-city-131604474</link>
-      <summary>Beirut is bursting under a massive wave of displaced people as Israel&amp;rsquo;s attacks and evacuation orders drive families out of southern and eastern Lebanon and the southern suburbs</summary>
-      <pubDate>Wed, 01 Apr 2026 04:55:00 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_4f11267f43ddafd8a0babcdbc41c3fe5_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>New funding transforms lives by expanding electricity access across Africa</title>
       <link>https://abcnews.com/International/wireStory/new-funding-transforms-lives-expanding-electricity-access-africa-131640774</link>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_d11b2b1341479d6925b1036b4ddfea68_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A look at the UK's Royal Navy, which has faced jibe after jibe from Trump and Hegseth</title>
+      <link>https://abcnews.com/International/wireStory/uks-royal-navy-faced-jibe-after-jibe-trump-131643792</link>
+      <summary>U.S. President Donald Trump and his Defense Secretary Pete Hegseth have been damning of the U.K.&amp;rsquo;s naval capabilities</summary>
+      <pubDate>Thu, 02 Apr 2026 08:26:54 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_98707823fde34ee9ca9c828657e72177_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
