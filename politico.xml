@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-03T06:03:54.802291</generated>
+  <generated>2026-04-03T08:01:16.528603</generated>
   <items>
     <item>
       <title>'What the hell did he just say?' GOP Iran worries build after Trump speech.</title>
@@ -71,6 +71,13 @@
       </media>
     </item>
     <item>
+      <title>Nuclear rockets, moon bases and NASA’s Mars plan</title>
+      <link>https://www.politico.com/video/2026/04/02/nuclear-rockets-moon-bases-and-nasas-mars-plan-1994266</link>
+      <summary />
+      <pubDate>Thu, 02 Apr 2026 22:59:00 EST</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Mark Sanford launches his comeback bid to Congress</title>
       <link>https://www.politico.com/news/2026/03/30/mark-sanford-comeback-congress-trump-00850072</link>
       <summary>The former GOP representative wants to retake his House seat in South Carolina’s Charleston area after losing to a Trump-backed challenger in 2018.</summary>
@@ -100,17 +107,6 @@
       <priority>75</priority>
       <media>
         <image>https://static.politico.com/af/02/8c3e33b34e8b96e7dfbcc624ff02/trump-62158.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s MAGA allies have a new plan for mass deportations. It could splinter the coalition.</title>
-      <link>https://www.politico.com/news/2026/04/01/trump-maga-immigration-raids-worksites-00853334</link>
-      <summary>Surpassing 1 million deportations this year hinges on worksite enforcement — which would enrage farm and construction groups (and possibly voters).</summary>
-      <pubDate>Wed, 01 Apr 2026 05:10:00 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/49/eb/7873f0bb4acb8a5e77e9d4097dd7/https-delivery-gettyimages.com/downloads/2161855958</image>
         <type>image/jpeg</type>
       </media>
     </item>
