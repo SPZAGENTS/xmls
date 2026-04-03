@@ -2,13 +2,27 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-03T16:03:28.376456</generated>
+  <generated>2026-04-03T18:01:12.314983</generated>
   <items>
     <item>
-      <title>Trump pushed the Iran war in prime time. Investors weren’t swayed.</title>
+      <title>U.S. fighter jet crashes in Iran; search launched for 2 crew members</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/</link>
+      <summary>It’s the first known loss of an American aircraft inside Iranian territory since the war began a month ago.</summary>
+      <pubDate>Fri, 03 Apr 2026 14:53:20 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Reeling from war in the Middle East, Trump reaches for a reset</title>
       <link>https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/</link>
       <summary>The president is in a precarious political moment seven months before the midterm elections, facing some of his lowest approval ratings and presiding over an unpopular war.</summary>
-      <pubDate>Fri, 03 Apr 2026 09:41:39 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 14:26:05 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump requests record-breaking budget of $1.5 trillion for Pentagon</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/03/trump-budget-pentagon-defense-spending/</link>
+      <summary>The budget proposes a 42 percent increase in defense spending, and Trump’s request comes as Congress grapples with the ballooning costs of the war in Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 14:07:24 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -59,20 +73,6 @@
       <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
       <pubDate>Thu, 02 Apr 2026 18:57:30 +0000</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>Congress is in no rush to authorize Trump’s ballroom after judge’s ruling</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/02/trump-ballroom-white-house-congress/</link>
-      <summary>The president doesn’t appear interested in seeking lawmakers’ approval for his $400 million project — and they’re not inclined to give it.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:00:14 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Court tosses sentence for former clerk in scheme tied to 2020 election</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/02/tina-peters-sentence-appeals-court/</link>
-      <summary>The Colorado appeals court ordered a new sentence for Tina Peters, a former county elections official convicted for her efforts to boost Trump’s false claims.</summary>
-      <pubDate>Fri, 03 Apr 2026 00:56:12 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>

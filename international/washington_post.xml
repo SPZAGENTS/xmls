@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-03T16:03:27.979355</generated>
+  <generated>2026-04-03T18:01:11.510046</generated>
   <items>
+    <item>
+      <title>U.S. fighter jet crashes in Iran; search launched for 2 crew members</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/</link>
+      <summary>It’s the first known loss of an American aircraft inside Iranian territory since the war began a month ago.</summary>
+      <pubDate>Fri, 03 Apr 2026 14:53:20 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>With Mideast in conflict, Pope Leo criticizes those who invoke God for war</title>
       <link>https://www.washingtonpost.com/world/2026/04/03/pope-leo-god-war-trump-peace/</link>
@@ -66,13 +73,6 @@
       <summary>Iraq’s interior ministry said it had arrested one suspect, seized a car and was looking for accomplices.</summary>
       <pubDate>Wed, 01 Apr 2026 21:07:38 +0000</pubDate>
       <priority>70</priority>
-    </item>
-    <item>
-      <title>Cuba says it will release over 2,000 prisoners, as U.S. keeps up pressure</title>
-      <link>https://www.washingtonpost.com/world/2026/04/03/cuba-prisoner-release-trump-blockade/</link>
-      <summary>The move, described by the communist government as a “humanitarian and sovereign gesture,” comes as the U.S. enforces a crippling oil blockade on the island.</summary>
-      <pubDate>Fri, 03 Apr 2026 05:36:41 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
