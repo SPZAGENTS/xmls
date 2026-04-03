@@ -2,13 +2,42 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-03T00:00:57.790673</generated>
+  <generated>2026-04-03T04:01:00.184431</generated>
   <items>
     <item>
-      <title>Trump Hails Destruction of Iranian Bridge, Warning ‘More to Follow’</title>
+      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
+      <summary>President Trump’s prime-time address received a defiant response from a top leader in Tehran.</summary>
+      <pubDate>Thu, 02 Apr 2026 23:26:59 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-front-by-front-qzcb/02israel-iran-front-by-front-qzcb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Macron Voices Europe’s Frustration With Trump’s Handling of Iran War</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-trump-strait.html</link>
+      <summary>President Emmanuel Macron of France expressed disapproval about President Trump’s handling of the war against Iran on Thursday, chastising him for speaking cavalierly in a speech.</summary>
+      <pubDate>Thu, 02 Apr 2026 23:16:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02int-iran-ledeall-1-tkgw/02int-iran-ledeall-1-tkgw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranians hold a nature festival in the shadow of war.</title>
+      <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war</link>
+      <summary />
+      <pubDate>Thu, 02 Apr 2026 23:31:24 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump Hails Strike on Iranian Bridge, Warning ‘More to Follow’</title>
       <link>https://www.nytimes.com/2026/04/02/world/middleeast/trump-iran-bridge-strike.html</link>
-      <summary>Fars, a semiofficial news agency, said eight people had been killed in the attack and dozens wounded.</summary>
-      <pubDate>Thu, 02 Apr 2026 20:40:38 +0000</pubDate>
+      <summary>Iran state media said eight people had been killed in the attack and dozens wounded. A local official said the bridge, in the mountains, was not yet in operation and that the people had been nearby when the attack happened.</summary>
+      <pubDate>Fri, 03 Apr 2026 00:57:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-bridge-struck-topart-qkgc/02israel-iran-bridge-struck-topart-qkgc-mediumSquareAt3X.jpg</image>
@@ -30,7 +59,7 @@
       <title>War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care</title>
       <link>https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html</link>
       <summary>As the White House prepares to release its 2027 budget, President Trump said military protection, not social programs, took precedence.</summary>
-      <pubDate>Thu, 02 Apr 2026 20:43:36 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 20:43:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02dc-iran-costs-fqjp/02dc-iran-costs-fqjp-mediumSquareAt3X.jpg</image>
@@ -48,7 +77,7 @@
       <title>Macron Snaps Back at Trump, Reflecting Europe’s Growing Anger Over Iran</title>
       <link>https://www.nytimes.com/2026/04/02/world/middleeast/macron-trump-nato.html</link>
       <summary>President Emmanuel Macron of France is among several European officials to speak out about the accumulated effect of President Trump’s criticisms of NATO and his war in Iran.</summary>
-      <pubDate>Thu, 02 Apr 2026 18:24:00 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 21:32:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-europe-trump-topart-zqgf/02israel-iran-europe-trump-topart-zqgf-mediumSquareAt3X.jpg</image>
@@ -74,35 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-iran-diaspora-jptk/00int-iran-diaspora-jptk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>5 Takeaways From Trump’s Speech on Iran</title>
-      <link>https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html</link>
-      <summary>President Trump did not define a clear path out of the conflict, which he estimated would end within three weeks.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:45:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/05/01/multimedia/01dc-takeaways-swap-wlbf/01dc-takeaways-swap-wlbf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Transcript: Trump’s Speech on Iran War</title>
-      <link>https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html</link>
-      <summary>The president made his case for the U.S. attack, and said that the main objectives had been achieved.</summary>
-      <pubDate>Thu, 02 Apr 2026 02:46:02 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>What Happened in the War in the Middle East on Wednesday.</title>
-      <link>https://www.nytimes.com/2026/04/01/world/middleeast/what-happened-in-the-war-in-the-middle-east-on-wednesday.html</link>
-      <summary>Formidable strikes rocked Tehran early Wednesday morning. Iran launched what its state-aligned media called one of the largest attacks on Israel yet, damaging several cities.</summary>
-      <pubDate>Wed, 01 Apr 2026 23:53:26 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01israel-iran-front-by-front-gfzb/01israel-iran-front-by-front-gfzb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
