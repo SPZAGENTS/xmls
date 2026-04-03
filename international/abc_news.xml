@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T12:05:12.774394</generated>
+  <generated>2026-04-03T14:03:13.509737</generated>
   <items>
+    <item>
+      <title>Jobs report set to offer key gauge of economy amid war with Iran</title>
+      <link>https://abcnews.com/Business/jobs-report-set-offer-key-gauge-economy-amid/story?id=131610908</link>
+      <summary>The Iran war set off one of the worst global oil shocks in decades.</summary>
+      <pubDate>Fri, 03 Apr 2026 05:19:09 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Business/construction-ap-jt-260402_1775162326744_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: Artemis II orbits Earth for full day, takes critical step in path towards the moon</title>
       <link>https://abcnews.com/video/131669968/</link>
@@ -56,17 +67,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_rivers_journalist3_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>From stunning Earth views to toilet fix, Artemis II crew talks to ABC News from space</title>
-      <link>https://abcnews.com/US/entire-globe-artemis-ii-astronauts-speak-abc-news/story?id=131674209</link>
-      <summary>A day after lift-off, ABC News' Gio Benitez spoke with astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen from their Orion spacecraft.</summary>
-      <pubDate>Fri, 03 Apr 2026 03:42:59 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/artemis-19-ht-gmh-260402_1775187290463_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
