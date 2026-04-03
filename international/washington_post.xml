@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-03T08:03:28.291794</generated>
+  <generated>2026-04-03T10:00:53.129338</generated>
   <items>
     <item>
       <title>As Trump doubles down on Iran war, markets shudder and oil prices climb</title>
@@ -52,6 +52,13 @@
       <summary>Iraq’s interior ministry said it had arrested one suspect, seized a car and was looking for accomplices.</summary>
       <pubDate>Wed, 01 Apr 2026 21:07:38 +0000</pubDate>
       <priority>70</priority>
+    </item>
+    <item>
+      <title>Cuba says it will release over 2,000 prisoners, as U.S. keeps up pressure</title>
+      <link>https://www.washingtonpost.com/world/2026/04/03/cuba-prisoner-release-trump-blockade/</link>
+      <summary>The move, described by the communist government as a “humanitarian and sovereign gesture,” comes as the U.S. enforces a crippling oil blockade on the island.</summary>
+      <pubDate>Fri, 03 Apr 2026 05:36:41 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
