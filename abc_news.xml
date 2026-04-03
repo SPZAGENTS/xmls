@@ -2,16 +2,38 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T16:03:31.703125</generated>
+  <generated>2026-04-03T18:01:16.544248</generated>
   <items>
+    <item>
+      <title>Iran live updates: US jet appears to have been shot down by Iran, US official says</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Fri, 03 Apr 2026 10:47:57 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/iran-6-ht-gmh-260403_1775219910817_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Jobs report shows strong hiring in March, despite oil shock set off by Iran war</title>
       <link>https://abcnews.com/Business/jobs-report-set-offer-key-gauge-economy-amid/story?id=131610908</link>
       <summary>The Iran war set off one of the worst global oil shocks in decades.</summary>
-      <pubDate>Fri, 03 Apr 2026 08:50:53 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 10:13:06 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Business/construction-ap-jt-260402_1775162326744_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Jobs report shows strong hiring in March, despite oil shock set off by Iran war</title>
+      <link>https://abcnews.com/video/131686886/</link>
+      <summary>The U.S. recorded strong job gains in March, rebounding from dismal losses, even as the nation weathered a global oil shock set off by the U.S.-Israeli war on Iran, a jobs report on Friday showed.</summary>
+      <pubDate>Fri, 03 Apr 2026 10:29:28 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260403_abc_social_jobs_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,21 +49,10 @@
       </media>
     </item>
     <item>
-      <title>WATCH: The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.</title>
-      <link>https://abcnews.com/video/131673696/</link>
-      <summary>The translunar injection burn sending the Artemis II crew and Orion on its path toward the moon has been successfully completed.</summary>
-      <pubDate>Fri, 03 Apr 2026 02:10:45 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260402_abc_social_nasa_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 02 Apr 2026 20:10:21 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 10:54:55 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -56,6 +67,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Secretary Hegseth ousts Army Chief of Staff General Randy George</title>
+      <link>https://abcnews.com/video/131686463/</link>
+      <summary>Hegseth has asked George, the service's top uniformed officer, to step down from his position and retire immediately, the Pentagon said Thursday.</summary>
+      <pubDate>Fri, 03 Apr 2026 10:10:09 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/260403_abc_social_hegseth2_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260401_abcnl_artemis_mission_boundary_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Historic Artemis II mission to the moon manned with 4 astronauts</title>
-      <link>https://abcnews.com/video/131632436/</link>
-      <summary>NASA teams cheered and crowds at Kennedy Space Center clamored to view the launch as the astronauts embarked on their voyage.</summary>
-      <pubDate>Wed, 01 Apr 2026 20:54:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260401_wn_benitez_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</title>
-      <link>https://abcnews.com/video/131666275/</link>
-      <summary>Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</summary>
-      <pubDate>Thu, 02 Apr 2026 17:40:08 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260402_abc_social_bondi_out_fix_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
