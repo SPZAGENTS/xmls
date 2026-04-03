@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T18:03:43.992651</generated>
+  <generated>2026-04-03T20:02:03.994190</generated>
   <items>
     <item>
       <title>Iran live updates: US jet appears to have been shot down by Iran, US official says</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Fri, 03 Apr 2026 10:47:57 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 12:49:32 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-6-ht-gmh-260403_1775219910817_hpMain_4x3t_384.jpg</image>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>Jobs report shows strong hiring in March, despite oil shock set off by Iran war</title>
-      <link>https://abcnews.com/Business/jobs-report-set-offer-key-gauge-economy-amid/story?id=131610908</link>
-      <summary>The Iran war set off one of the worst global oil shocks in decades.</summary>
-      <pubDate>Fri, 03 Apr 2026 10:13:06 -0400</pubDate>
+      <title>White House asks for record-breaking $1.5 trillion for defense in new budget request</title>
+      <link>https://abcnews.com/Politics/white-house-asks-record-breaking-15-trillion-defense/story?id=131683487</link>
+      <summary>The White House is asking Congress to approve roughly $1.5 trillion for defense -- a record-breaking amount as the U.S. remains in its fifth week of war with Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 12:24:19 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/Business/construction-ap-jt-260402_1775162326744_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/donald-trump-16-gty-gmh-04012026_1775092207741_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Father and son share special moment on World Autism Awareness Day</title>
+      <link>https://abcnews.com/video/131689883/</link>
+      <summary>ABC News' Danny New shares the special moment when ESPN analyst Dan Orlovsky brought his son Madden who has autism onto "NFL Live."</summary>
+      <pubDate>Fri, 03 Apr 2026 12:48:46 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/autism_gmafl_260403_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -30,7 +41,7 @@
       <title>WATCH: Jobs report shows strong hiring in March, despite oil shock set off by Iran war</title>
       <link>https://abcnews.com/video/131686886/</link>
       <summary>The U.S. recorded strong job gains in March, rebounding from dismal losses, even as the nation weathered a global oil shock set off by the U.S.-Israeli war on Iran, a jobs report on Friday showed.</summary>
-      <pubDate>Fri, 03 Apr 2026 10:29:28 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 12:45:18 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260403_abc_social_jobs_hpMain_1x1_384.jpg</image>
@@ -49,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: American fighter jet appears to have been shot down by Iran, U.S. official says</title>
+      <link>https://abcnews.com/video/131690200/</link>
+      <summary>An American fighter jet appears to have been shot down by Iran. A search and rescue is underway, a U.S. official said.</summary>
+      <pubDate>Fri, 03 Apr 2026 12:14:10 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260403_abc_social_jet_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -60,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>Judge dismisses much of Blake Lively's lawsuit against Justin Baldoni</title>
-      <link>https://abcnews.com/GMA/Culture/judge-guts-blake-livelys-lawsuit-justin-baldoni/story?id=131668004</link>
-      <summary>The trial in Lively's suit against Baldoni and Wayfarer Studios was set to begin May 18.</summary>
-      <pubDate>Thu, 02 Apr 2026 18:42:24 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Secretary Hegseth ousts Army Chief of Staff General Randy George</title>
       <link>https://abcnews.com/video/131686463/</link>
       <summary>Hegseth has asked George, the service's top uniformed officer, to step down from his position and retire immediately, the Pentagon said Thursday.</summary>
-      <pubDate>Fri, 03 Apr 2026 10:10:09 -0400</pubDate>
+      <pubDate>Fri, 03 Apr 2026 12:42:31 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260403_abc_social_hegseth2_hpMain_1x1_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_reeve_kitkat1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Artemis II crew crosses boundary into space</title>
-      <link>https://abcnews.com/video/131634798/</link>
-      <summary>The four-person crew of the Artemis II mission has crossed the boundary into space after launching from NASA’s Kennedy Space Center in Florida.</summary>
-      <pubDate>Wed, 01 Apr 2026 21:09:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260401_abcnl_artemis_mission_boundary_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

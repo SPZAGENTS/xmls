@@ -2,13 +2,20 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-03T18:03:40.420097</generated>
+  <generated>2026-04-03T20:02:00.125954</generated>
   <items>
     <item>
-      <title>U.S. fighter jet crashes in Iran; search launched for 2 crew members</title>
+      <title>1 rescued after U.S. fighter jet crash in Iran; search ongoing for crew member</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/</link>
       <summary>It’s the first known loss of an American aircraft inside Iranian territory since the war began a month ago.</summary>
-      <pubDate>Fri, 03 Apr 2026 14:53:20 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 16:40:15 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump requests record-breaking budget of $1.5 trillion for Pentagon</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/03/trump-budget-pentagon-defense-spending/</link>
+      <summary>The budget proposes a 44 percent increase in defense spending, and Trump’s request comes as Congress grapples with the ballooning costs of the war in Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 16:30:43 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -19,13 +26,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump requests record-breaking budget of $1.5 trillion for Pentagon</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/03/trump-budget-pentagon-defense-spending/</link>
-      <summary>The budget proposes a 42 percent increase in defense spending, and Trump’s request comes as Congress grapples with the ballooning costs of the war in Iran.</summary>
-      <pubDate>Fri, 03 Apr 2026 14:07:24 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Hegseth forces out Army’s top general, two other senior officers</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/02/hegseth-ousts-army-general-randy-george/</link>
       <summary>Gen. Randy George’s ouster is the latest clash between the Pentagon chief and the service’s senior leadership, and comes during the war in Iran.</summary>
@@ -33,11 +33,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump says Iran war is ‘nearing completion’ as he seeks to calm economic worries</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/01/trump-speech-iran-war/</link>
-      <summary>The White House is trying to contain the consequences of a conflict that has sent gas prices soaring and soured feelings about the president and the economy.</summary>
-      <pubDate>Thu, 02 Apr 2026 08:05:41 +0000</pubDate>
-      <priority>100</priority>
+      <title>Trump proposes $10B fund for D.C. construction, beautification projects</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/03/trump-budget-dc-beautification/</link>
+      <summary>The planned Presidential Capital Stewardship Program would help renovate parks and infrastructure, as Trump works to remake a city he has derided as “dirty.”</summary>
+      <pubDate>Fri, 03 Apr 2026 16:44:08 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Alleged D.C. pipe bomber might adopt debunked conspiracy theory as defense</title>

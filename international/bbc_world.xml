@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-03T18:03:37.812672</generated>
+  <generated>2026-04-03T20:01:57.352244</generated>
   <items>
-    <item>
-      <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
-      <link>https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.</summary>
-      <pubDate>Fri, 03 Apr 2026 13:16:33 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>International law experts allege violations in Iran war</title>
       <link>https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de4f/live/87429030-2f58-11f1-b471-73a11a0c1806.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
+      <link>https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.</summary>
+      <pubDate>Fri, 03 Apr 2026 13:16:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,10 +85,21 @@
       <title>Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit</title>
       <link>https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.</summary>
-      <pubDate>Thu, 02 Apr 2026 22:47:48 GMT</pubDate>
+      <pubDate>Fri, 03 Apr 2026 15:07:43 GMT</pubDate>
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Italy's famed Uffizi admits cyber-attack but denies security breach</title>
+      <link>https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.</summary>
+      <pubDate>Fri, 03 Apr 2026 15:04:39 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb8/live/2e39bd00-2d9c-11f1-8be6-dbad2e8ac294.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>France's Muslim gathering ban overturned by courts</title>
-      <link>https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.</summary>
-      <pubDate>Fri, 03 Apr 2026 12:20:28 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1667/live/4c676ee0-2f67-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

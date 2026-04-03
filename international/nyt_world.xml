@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-03T18:03:40.842552</generated>
+  <generated>2026-04-03T20:02:00.569533</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: American Fighter Jet Downed Over Iran, U.S. Officials Say</title>
+      <title>Iran War Live Updates: One American Rescued From Fighter Jet Downed Over Iran, Officials Say</title>
       <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil</link>
-      <summary>The fate of the plane’s crew was unclear, as American officials scrambled to mount a search and rescue operation before Iran could get to any survivors, officials said. Iranian state media also said a jet had been downed.</summary>
-      <pubDate>Fri, 03 Apr 2026 14:56:00 +0000</pubDate>
+      <summary>The fate of a second airman shot down in a F-15E warplane was unknown. It was the first time during the five-week war that a U.S. warplane had been brought down over Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 16:56:20 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03live-iran-promo01-qbtv/03live-iran-promo01-qbtv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-promo-11am-pcbw/03israel-iran-promo-11am-pcbw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post</title>
+      <link>https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html</link>
+      <summary>Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.</summary>
+      <pubDate>Fri, 03 Apr 2026 16:12:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03france-arrest-01-zptj/03france-arrest-01-zptj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,24 +67,6 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Strait of Hormuz Problem</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html</link>
-      <summary>Our White House reporter Zolan Kanno-Youngs parses some of President Trump’s conflicting messages about the war with Iran.</summary>
-      <pubDate>Fri, 03 Apr 2026 02:17:22 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
-      <summary>President Trump’s prime-time address received a defiant response from a top leader in Tehran.</summary>
-      <pubDate>Thu, 02 Apr 2026 23:26:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-front-by-front-qzcb/02israel-iran-front-by-front-qzcb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>In a Muzzled Russia, He Still Speaks His Mind</title>
       <link>https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html</link>
       <summary>While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.</summary>
@@ -103,6 +96,17 @@
       <priority>85</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-Syria-Sting-hkcw/01int-Syria-Sting-hkcw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What U.S. military Pilots Are Trained to Do if Shot Down</title>
+      <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/what-us-military-pilots-are-trained-to-do-when-they-are-shot-down</link>
+      <summary />
+      <pubDate>Fri, 03 Apr 2026 16:54:21 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-survival-training-topart-vhbm/03israel-iran-survival-training-topart-vhbm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
