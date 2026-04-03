@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-04T00:04:03.988169</generated>
+  <generated>2026-04-04T02:00:53.908388</generated>
   <items>
     <item>
-      <title>What We Know About the US Fighter Jet Shot Down by Iran</title>
+      <title>Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html</link>
+      <summary>Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:35:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/world/03int-pilot-interview-top/03int-pilot-interview-top-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html</link>
+      <summary>Iran has sent waves of missiles and drones at Israel and Gulf states in recent weeks and shot down an American fighter jet on Friday.</summary>
+      <pubDate>Fri, 03 Apr 2026 21:53:54 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-capabilities1-bjvc/03israel-iran-capabilities1-bjvc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What We Know About the F-15E Strike Eagle Shot Down by Iran</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html</link>
-      <summary>It was the first enemy downing of an American warplane during the war with Iran. The F-15E Strike Eagle was carrying two crew members, who ejected, officials said.</summary>
-      <pubDate>Fri, 03 Apr 2026 20:33:35 +0000</pubDate>
+      <summary>An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:41:11 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
@@ -30,7 +52,7 @@
       <title>The F-15E Strike Eagle: What to Know</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f15e-strike-eagle.html</link>
       <summary>The U.S. military aircraft with a two-person crew was shot down in Iran on Friday.</summary>
-      <pubDate>Fri, 03 Apr 2026 19:04:11 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 21:55:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-F15-explainer-topart-bcpv/03israel-iran-F15-explainer-topart-bcpv-mediumSquareAt3X.jpg</image>
@@ -85,24 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/02/multimedia/02int-iran-ledeall-1-tkgw/02int-iran-ledeall-1-tkgw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians hold a nature festival in the shadow of war.</title>
-      <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war</link>
-      <summary />
-      <pubDate>Thu, 02 Apr 2026 23:31:25 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Trump Hails Strike on Iranian Bridge, Warning ‘More to Follow’</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/trump-iran-bridge-strike.html</link>
-      <summary>Iran state media said eight people had been killed in the attack and dozens wounded. A local official said the bridge, in the mountains, was not yet in operation and that the people had been nearby when the attack happened.</summary>
-      <pubDate>Fri, 03 Apr 2026 00:57:48 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-bridge-struck-topart-qkgc/02israel-iran-bridge-struck-topart-qkgc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

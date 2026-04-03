@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-04T00:04:07.076107</generated>
+  <generated>2026-04-04T02:00:57.085463</generated>
   <items>
     <item>
       <title>White House asks for record-breaking $1.5 trillion for defense in new budget request</title>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>US fighter jet down in Iran: 1 crew member rescued as search continues, officials say</title>
-      <link>https://abcnews.com/Politics/us-fighter-jet-iran-search-rescue-officials/story?id=131685787</link>
-      <summary>It appears that a U.S. fighter jet has been shot down by Iran and that the U.S. has launched a search and rescue effort, three U.S. officials confirmed to ABC News.</summary>
-      <pubDate>Fri, 03 Apr 2026 16:14:56 -0400</pubDate>
+      <title>'No air defenses': Trump, Hegseth touted American dominance before jet was downed</title>
+      <link>https://abcnews.com/Politics/air-defenses-trump-hegseth-touted-american-dominance-iran/story?id=131690203</link>
+      <summary>Donald Trump and Secretary of Defense Pete Hegseth repeatedly claimed Tehran’s anti-aircraft defenses were taken out by American forces.</summary>
+      <pubDate>Fri, 03 Apr 2026 18:36:58 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/iran-7-ht-gmh-260403_1775219910292_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/trump-2-gty-er-250403_1775255657811_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Fast-growing wildfire in windy Southern California triggers evacuations</title>
+      <link>https://abcnews.com/US/wireStory/fast-growing-wildfire-windy-southern-california-triggers-evacuations-131700798</link>
+      <summary>A fast-growing wildfire in Southern California has prompted multiple evacuation orders and warnings</summary>
+      <pubDate>Fri, 03 Apr 2026 18:14:59 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: One crew member from downed jet over Iran is rescued</title>
       <link>https://abcnews.com/video/131694346/</link>
       <summary>One crew member aboard the downed fighter jet over Iran has been rescued, according to a U.S. official.</summary>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_rivers_journalist3_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: KitKat launches tracker after chocolate heist</title>
-      <link>https://abcnews.com/video/131643422/</link>
-      <summary>Nestlé, the maker of KitKat, has launched a tracker in an attempt to find the 12 tons of stolen chocolate.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:52:12 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260402_gma_reeve_kitkat1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-04T00:04:03.557357</generated>
+  <generated>2026-04-04T02:00:53.470764</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: American Rescued, Search for 2nd Underway, From Downed Jet</title>
+      <title>Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War</title>
       <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil</link>
-      <summary>The F-15E was the first American warplane confirmed shot down by Iran in the five-week war. A second U.S. combat plane crashed in the Gulf region and its lone pilot was rescued, U.S. officials said.</summary>
-      <pubDate>Fri, 03 Apr 2026 21:00:08 +0000</pubDate>
+      <summary>The F-15E was the first American warplane shot down by Iran in the five-week war and a crew member is missing. A second U.S. combat plane crashed in the Gulf region and its pilot was rescued, U.S. officials said.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:51:22 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-promo330p-hvcl/03israel-iran-promo330p-hvcl-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-promo630p-pjkb/03israel-iran-promo630p-pjkb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,10 +56,32 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>What We Know About the US Fighter Jet Shot Down by Iran</title>
+      <title>Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html</link>
+      <summary>Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:35:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/world/03int-pilot-interview-top/03int-pilot-interview-top-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html</link>
+      <summary>Iran has sent waves of missiles and drones at Israel and Gulf states in recent weeks and shot down an American fighter jet on Friday.</summary>
+      <pubDate>Fri, 03 Apr 2026 21:53:54 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-capabilities1-bjvc/03israel-iran-capabilities1-bjvc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What We Know About the F-15E Strike Eagle Shot Down by Iran</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html</link>
-      <summary>It was the first enemy downing of an American warplane during the war with Iran. The F-15E Strike Eagle was carrying two crew members, who ejected, officials said.</summary>
-      <pubDate>Fri, 03 Apr 2026 20:33:35 +0000</pubDate>
+      <summary>An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:41:11 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
@@ -81,30 +103,12 @@
       <title>The F-15E Strike Eagle: What to Know</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f15e-strike-eagle.html</link>
       <summary>The U.S. military aircraft with a two-person crew was shot down in Iran on Friday.</summary>
-      <pubDate>Fri, 03 Apr 2026 19:04:11 +0000</pubDate>
+      <pubDate>Fri, 03 Apr 2026 21:55:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-F15-explainer-topart-bcpv/03israel-iran-F15-explainer-topart-bcpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>In a Muzzled Russia, He Still Speaks His Mind</title>
-      <link>https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html</link>
-      <summary>While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:44:11 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-russia-muratov-profile-sub-ljbz/01int-russia-muratov-profile-sub-ljbz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Shoots Down U.S. Fighter Jet, Setting Off American Search and Rescue</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/us-airman-search-iran.html</link>
-      <summary>One crew member was rescued. The risky operation to find the second airman came as the United States and Israel struck infrastructure targets in Iran, prompting Iranian retaliation in the Gulf.</summary>
-      <pubDate>Fri, 03 Apr 2026 20:50:51 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>
