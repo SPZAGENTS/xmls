@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-03T10:03:27.074778</generated>
+  <generated>2026-04-03T12:03:36.018720</generated>
   <items>
     <item>
-      <title>Strikes Hit Infrastructure Sites in Iran After Trump’s Threat</title>
-      <link>https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news</link>
-      <summary>President Trump celebrated an attack on a major highway bridge outside of Tehran after vowing to take Iran “back to the Stone Ages.” And a leading public health institution in the country was destroyed.</summary>
-      <pubDate>Fri, 03 Apr 2026 06:41:15 +0000</pubDate>
+      <title>Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites</title>
+      <link>https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil</link>
+      <summary>The strike set several refinery units ablaze, its operator said. President Trump threatened to destroy Iran’s infrastructure but there was no sign of a deal to end the war.</summary>
+      <pubDate>Fri, 03 Apr 2026 08:57:32 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-promo0100h-promo/02israel-iran-promo10p-phcb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03live-iran-promo01-qbtv/03live-iran-promo01-qbtv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Myanmar Junta Chief Ascends to President, Five Years After Coup</title>
+      <link>https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html</link>
+      <summary>U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.</summary>
+      <pubDate>Fri, 03 Apr 2026 06:42:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/world/00int-myanmar-president-hfo/00int-myanmar-president-hfo-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,28 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Lost Friendships, Broken Relationships: How the War in Iran Is Dividing the Diaspora</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-diaspora.html</link>
-      <summary>Amid months of protest, repression and war in their native country, Iranians living abroad are navigating their biggest rifts yet.</summary>
-      <pubDate>Thu, 02 Apr 2026 09:22:05 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-iran-diaspora-jptk/00int-iran-diaspora-jptk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Myanmar Junta Chief Ascends to President, Five Years After Coup</title>
-      <link>https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html</link>
-      <summary>U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.</summary>
-      <pubDate>Fri, 03 Apr 2026 06:42:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/02/world/00int-myanmar-president-hfo/00int-myanmar-president-hfo-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump’s Strait of Hormuz Problem</title>
       <link>https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html</link>
       <summary>Our White House reporter Zolan Kanno-Youngs parses some of President Trump’s conflicting messages about the war with Iran.</summary>
@@ -78,6 +67,17 @@
       </media>
     </item>
     <item>
+      <title>Macron Voices Europe’s Frustration With Trump’s Handling of Iran War</title>
+      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-trump-strait.html</link>
+      <summary>President Emmanuel Macron of France expressed disapproval about President Trump’s handling of the war against Iran on Thursday, chastising him for speaking cavalierly in a speech.</summary>
+      <pubDate>Thu, 02 Apr 2026 23:16:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02int-iran-ledeall-1-tkgw/02int-iran-ledeall-1-tkgw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>In a Muzzled Russia, He Still Speaks His Mind</title>
       <link>https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html</link>
       <summary>While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.</summary>
@@ -89,6 +89,17 @@
       </media>
     </item>
     <item>
+      <title>In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html</link>
+      <summary>A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.</summary>
+      <pubDate>Fri, 03 Apr 2026 04:01:12 +0000</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/02/23/multimedia/23syria-kidnapping-01-bmvw/23syria-kidnapping-01-bmvw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal</title>
       <link>https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html</link>
       <summary>The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.</summary>
@@ -96,17 +107,6 @@
       <priority>85</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-Syria-Sting-hkcw/01int-Syria-Sting-hkcw-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Plans Military Expansion in Greenland</title>
-      <link>https://www.nytimes.com/2026/04/01/world/europe/us-military-seeks-expansion-in-greenland.html</link>
-      <summary>The Pentagon is in talks with Denmark for access to three more areas on the Arctic island. Several Greenlanders said they didn’t like the idea.</summary>
-      <pubDate>Wed, 01 Apr 2026 10:26:02 +0000</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/31/multimedia/31int-greenland-us-military-01-zvgk/31int-greenland-us-military-01-zvgk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
