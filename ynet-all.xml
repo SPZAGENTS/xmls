@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-04-03T00:03:06.445801</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-04-03T04:02:14.533036</generated>
   <items>
+    <item>
+      <title>Iranian president, FM reemerge in public despite Netanyahu’s threatened '10 plagues' of war</title>
+      <link>https://www.ynetnews.com/article/rkxq0otiwl</link>
+      <summary>Senior Iranian leaders appeared at pro-regime rallies in Tehran after weeks out of public view, signaling defiance despite Israeli claims of targeting top officials; Araghchi: 'There are no negotiations, there is an exchange of messages. We will not accept a ceasefire'</summary>
+      <pubDate>Tue, 31 Mar 2026 23:55:13 +03:00</pubDate>
+      <priority>140</priority>
+    </item>
+    <item>
+      <title>Israel pushes US to hit Iran energy sites, says it could collapse regime</title>
+      <link>https://www.ynetnews.com/article/byjcjcfo11x</link>
+      <summary>Officials in Jerusalem said a target bank focused on energy facilities and critical infrastructure has already been prepared, with any potential strike now dependent on a decision by Trump</summary>
+      <pubDate>Tue, 31 Mar 2026 22:16:02 +03:00</pubDate>
+      <priority>140</priority>
+    </item>
+    <item>
+      <title>Netanyahu: Iran no longer poses an existential threat to Israel</title>
+      <link>https://www.ynetnews.com/article/hkt3k9to11x</link>
+      <summary>PM claims Iran had invested nearly $1 trillion in its military buildup, including nuclear and missile programs, and now he says that investment has now been 'wasted'</summary>
+      <pubDate>Tue, 31 Mar 2026 21:22:36 +03:00</pubDate>
+      <priority>140</priority>
+    </item>
+    <item>
+      <title>Billions for terror: Israel says Iran doubled Hezbollah funding since last war</title>
+      <link>https://www.ynetnews.com/article/r1mcxehibx</link>
+      <summary>IDF says Tehran sent Hezbollah about $2 billion over the past year, roughly twice its usual annual support, helping the group rebuild after the 2024 war and sustain heavy rocket and drone fire in the current conflict</summary>
+      <pubDate>Thu, 02 Apr 2026 21:39:32 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>Israel says it has completed strikes on vital targets in Iran</title>
+      <link>https://www.ynetnews.com/article/h1e7deij11g</link>
+      <summary>IDF says Air Force had put nearly all predesignated 'vital and strategic' targets out of operation, including military-industrial and nuclear-related sites, while pressing attacks in Tehran and opening a new ground line in southern Lebanon</summary>
+      <pubDate>Wed, 01 Apr 2026 23:15:02 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>IDF strike in Beirut kills Hezbollah Southern Front commander</title>
+      <link>https://www.ynetnews.com/article/hjkf0v9obx</link>
+      <summary>Military says Hajj Yusuf Ismail Hashem oversaw Hezbollah operations in southern Lebanon, including rocket fire and aerial attacks toward Israel, as well as plans targeting civilians and soldiers</summary>
+      <pubDate>Wed, 01 Apr 2026 13:10:17 +03:00</pubDate>
+      <priority>130</priority>
+    </item>
+    <item>
+      <title>הנחישות מול איראן והשלוחות האזוריות שלה</title>
+      <link>https://www.ynet.co.il/news/article/bypvipfo11l</link>
+      <summary>המערכה הנוכחית אינה רק על פירוק הציר השיעי או על סיכול האיום המיידי על ישראל. היא קשורה גם למאמץ רחב יותר לעצב מחדש את המזרח התיכון כמרחב של שיתוף פעולה כלכלי ותחבורתי בין מזרח למערב</summary>
+      <pubDate>Wed, 01 Apr 2026 05:45:00 +0300</pubDate>
+      <priority>125</priority>
+    </item>
+    <item>
+      <title>מטחים כבדים מלבנון - וכל הציטוטים מהנאום הלילי של טראמפ | כותרות החג</title>
+      <link>https://www.ynet.co.il/news/article/byk8dznjzg</link>
+      <summary>כ-140 שיגורים מהבוקר מלבנון: פגיעה בגן בנהריה, שני פצועים בכפר בענה ליד כרמיאל | טראמפ בנאום לילי לאומה: "מטרות הלחימה כמעט הושלמו" | בישראל חוששים מהפסקת אש זמנית | 14 מדינות אירופיות קראו לישראל לסיים את המלחמה מול חיזבאללה</summary>
+      <pubDate>Thu, 02 Apr 2026 19:38:34 +0300</pubDate>
+      <priority>115</priority>
+    </item>
+    <item>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>115</priority>
+    </item>
     <item>
       <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
       <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
+      <summary>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</summary>
       <pubDate>Tue, 31 Mar 2026 06:05:42 +0300</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>"היה לי בבית גבר יפה כמו פרח. ב'הבימה' כולם היו עם גיבנת, לא היה על מי להסתכל"</title>
-      <link>https://www.ynet.co.il/entertainment/article/skcyvk00iwl</link>
-      <description>כמי שנמלטה עם אמה מאימת מלחמת העולם השנייה, ומאז עברה את כל מלחמות ישראל, הקורונה וטבח 7 באוקטובר - ליא קניג כבר יודעת עד כמה השגרה עלולה להתנפץ ברגע. כעת, כשהמתקפה מאיראן הגיעה הכי קרוב לבית - עד לתיאטרון הבימה - היא מספרת בריאיון על הקושי להיות רחוקה מהבמה ("אבל הייתי מוותרת...</description>
-      <pubDate>Wed, 01 Apr 2026 06:00:00 +0300</pubDate>
-      <source>ynet-culture</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Missiles from Iran, Lebanon hit Israel, 12 impact sites reported, 4 lightly wounded</title>
-      <link>https://www.ynetnews.com/article/rj005vmiszl</link>
-      <description>Emergency teams scan 12 locations after strikes across central and northern Israel; four lightly wounded in Bnei Brak, including two infants, with additional cases of shock reported</description>
-      <pubDate>Thu, 02 Apr 2026 02:29:10 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>Missile barrages ahead of holiday: girl fighting for her life, teen seriously injured</title>
-      <link>https://www.ynetnews.com/article/rjp86m5jze</link>
-      <description>Cluster missile from Iran hits multiple central Israel sites, critically wounding 11-year-old girl and seriously injuring teen in Bnei Brak; damage reported in Tel Aviv, launches also target north and south as IDF strikes Tehran and Beirut</description>
-      <pubDate>Wed, 01 Apr 2026 10:30:37 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
-      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
-      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
-      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Barrage from Lebanon hits Upper Galilee; 2 lightly hurt in Kiryat Shmona</title>
-      <link>https://www.ynetnews.com/article/r111glusjzl</link>
-      <description>Barrage from Lebanon hits Upper Galilee, wounding two in Kiryat Shmona building strike, after earlier Iran missile fire triggered sirens across Haifa area and the Galilee without casualties</description>
-      <pubDate>Thu, 02 Apr 2026 09:57:00 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>'The fire isn't random': Iran’s retaliation strategy shows command and control still intact</title>
-      <link>https://www.ynetnews.com/article/bkyhfrcjwe</link>
-      <description>Tehran is no longer just mirroring attacks on its own soil; it is expanding its response by targeting parallel sectors — from energy and nuclear sites to industry and academia — while signaling it is ready to raise the cost across the region</description>
-      <pubDate>Wed, 01 Apr 2026 21:07:41 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Sirens wail across central and southern Israel as Hezbollah resumes fire</title>
-      <link>https://www.ynetnews.com/article/b1j9fs9jwl</link>
-      <description>Alerts stretch from Tel Aviv to Ashdod and Ashkelon; two rockets explode in open areas, no injuries; earlier barrages from Iran and Lebanon set off nonstop sirens across center, causing minor damage</description>
-      <pubDate>Wed, 01 Apr 2026 20:27:17 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Six-story building collapses in Tel Aviv; one injured, four apartments damaged</title>
-      <link>https://www.ynetnews.com/article/sktp2d9izl</link>
-      <description>Officials said the incident is not related to the war with Iran, and the cause of the collapse remains under investigation</description>
-      <pubDate>Wed, 01 Apr 2026 13:59:48 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
-    </item>
-    <item>
-      <title>Hezbollah launches dozens of rockets, drones at northern Israel</title>
-      <link>https://www.ynetnews.com/article/bk4vvtkjwg</link>
-      <description>Repeated barrages trigger alerts from Haifa to the Galilee; drones spotted and intercepted as emergency teams report no immediate casualties</description>
-      <pubDate>Tue, 31 Mar 2026 20:35:26 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>

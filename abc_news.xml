@@ -2,16 +2,60 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-03T00:01:00.928838</generated>
+  <generated>2026-04-03T04:01:02.954000</generated>
   <items>
+    <item>
+      <title>Artemis II live updates: Crew headed to moon after critical translunar injection burn</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II will carry a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Thu, 02 Apr 2026 20:45:26 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/artemis-10-ht-gmh-260402_1775173422003_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Artemis II orbits Earth for full day, takes critical step in path towards the moon</title>
+      <link>https://abcnews.com/video/131669968/</link>
+      <summary>After a picture perfect lift-off and a full day of orbiting Earth, Artemis II has fired up the crucial translunar injection.</summary>
+      <pubDate>Thu, 02 Apr 2026 20:54:26 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260402_wn_benitez_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 02 Apr 2026 13:36:27 -0400</pubDate>
+      <pubDate>Thu, 02 Apr 2026 20:10:21 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Judge dismisses much of Blake Lively's lawsuit against Justin Baldoni</title>
+      <link>https://abcnews.com/GMA/Culture/judge-guts-blake-livelys-lawsuit-justin-baldoni/story?id=131668004</link>
+      <summary>The trial in Lively's suit against Baldoni and Wayfarer Studios was set to begin May 18.</summary>
+      <pubDate>Thu, 02 Apr 2026 18:42:24 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/lively-baldoni-split-1-gty-bb-250107_1736276364081_hpMain_v16x9_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US journalist abducted in Iraq was 'stressed out' by kidnap training: Colleague</title>
+      <link>https://abcnews.com/International/american-journalist-abducted-iraq-trained-case-kidnapped-colleague/story?id=131653465</link>
+      <summary>As the search continued in Iraq for abducted American journalist Shelly Kittleson, a colleague described her as resilient and careful to avoid danger.</summary>
+      <pubDate>Thu, 02 Apr 2026 17:49:30 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/shelly-kittleson-ht-jt-260331_1774991931141_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -23,28 +67,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260402_gma_rivers_journalist3_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump replacing Pam Bondi as attorney general, Todd Blanche to step in</title>
-      <link>https://abcnews.com/US/trump-replacing-pam-bondi-attorney-general-todd-blanche/story?id=131647710</link>
-      <summary>President Trump has announced that Pam Bondi is being ousted as his attorney general, and that Todd Blanche will serve as acting attorney general.</summary>
-      <pubDate>Thu, 02 Apr 2026 16:54:53 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/pam-bondi-5-gty-gmh-260402_1775151560263_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Suspect arrested in killing of 7-month-old baby shot in stroller, police say</title>
-      <link>https://abcnews.com/US/senseless-7-month-baby-stroller-killed-new-york/story?id=131629573</link>
-      <summary>A 7-month-old baby girl in a stroller was shot and killed when two people on a moped drove past a busy street corner and one of them opened fire, authorities said.</summary>
-      <pubDate>Thu, 02 Apr 2026 12:54:31 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/mamdani-presser-shooting-ht-jt-260401_1775082261124_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260331_abcnl_prime_haig_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</title>
-      <link>https://abcnews.com/video/131666275/</link>
-      <summary>Trump's deputy attorney general and former personal attorney Todd Blanche will serve as acting Attorney General, the president said.</summary>
-      <pubDate>Thu, 02 Apr 2026 15:53:30 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260402_abc_social_bondi_out_fix_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: New Acting Attorney General Todd Blanche has a track record of loyalty to President Trump — but so did Pam Bondi, ABC News' Alex Mallin reports.</title>
-      <link>https://abcnews.com/video/131666333/</link>
-      <summary>New Acting Attorney General Todd Blanche has a track record of loyalty to President Trump — but so did Pam Bondi, ABC News' Alex Mallin reports.</summary>
-      <pubDate>Thu, 02 Apr 2026 15:54:16 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260402_abc_social_mallin_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
