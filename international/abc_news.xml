@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-04T20:01:21.765856</generated>
+  <generated>2026-04-04T22:03:00.942467</generated>
   <items>
     <item>
       <title>Iran live updates: Search for missing US crew member enters 2nd day</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Sat, 04 Apr 2026 12:33:27 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2026 14:53:53 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>White House asks for record-breaking $1.5 trillion for defense in new budget request</title>
+      <link>https://abcnews.com/Politics/white-house-asks-record-breaking-15-trillion-defense/story?id=131683487</link>
+      <summary>The White House is asking Congress to approve roughly $1.5 trillion for defense -- a record-breaking amount as the U.S. remains in its fifth week of war with Iran.</summary>
+      <pubDate>Fri, 03 Apr 2026 12:24:19 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-16-gty-gmh-04012026_1775092207741_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260403_abc_social_jobs_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'No air defenses': Trump, Hegseth touted American dominance before jet was downed</title>
-      <link>https://abcnews.com/Politics/air-defenses-trump-hegseth-touted-american-dominance-iran/story?id=131690203</link>
-      <summary>Donald Trump and Secretary of Defense Pete Hegseth repeatedly claimed Tehran’s anti-aircraft defenses were taken out by American forces.</summary>
-      <pubDate>Fri, 03 Apr 2026 18:36:58 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/trump-2-gty-er-250403_1775255657811_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
