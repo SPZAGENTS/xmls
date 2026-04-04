@@ -2,19 +2,8 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-04T14:01:06.539657</generated>
+  <generated>2026-04-04T16:00:55.876731</generated>
   <items>
-    <item>
-      <title>Costa Rica strikes deal to accept third country deportees from US</title>
-      <link>https://www.theguardian.com/us-news/2026/apr/02/trump-costa-rica-deported-migrants-deal</link>
-      <summary>Central American country to receive up to 25 migrants a week expelled as part of Trump’s immigration crackdownSign up for the Breaking News US email to get newsletter alerts in your inboxThe Costa Rican government has agreed to receive up to 25 deported migrants a week from th...</summary>
-      <pubDate>Thu, 02 Apr 2026 16:00:28 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/b901b0bd0ccfcd0590818f6e098f1d98783325ae/726_0_3637_2909/master/3637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=501473d1e38c76ed45127c774cebe5cf</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>A day in the life of Asia’s fuel crisis</title>
       <link>https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers</link>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/dbf425ff26b36cf76c02ae127e1ae08f7d58597f/100_0_916_733/master/916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=121c07b2e3b06f52cd32ce4d662b05a1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Weather tracker: Thunderstorms drench UAE and Saudi Arabia</title>
+      <link>https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia</link>
+      <summary>Abnormally strong jet stream triggers deluge in Middle East, while north Africa braces for 60-80mph gustsAn unusual weather pattern unleashed severe thunderstorms across parts of the Middle East last week, battering countries including the United Arab Emirates and Saudi Arabia...</summary>
+      <pubDate>Mon, 30 Mar 2026 09:31:31 GMT</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/21b4d3fd5eb29e85ac1894250eab5708ee2a8697/281_0_2800_2241/master/2800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5b862298b6dfd0b46ac8474855e9cbd</image>
         <type>image/jpeg</type>
       </media>
     </item>
