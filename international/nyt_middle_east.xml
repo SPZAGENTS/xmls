@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-04T12:00:53.908490</generated>
+  <generated>2026-04-04T14:01:05.971469</generated>
   <items>
+    <item>
+      <title>Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How</title>
+      <link>https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html</link>
+      <summary>President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.</summary>
+      <pubDate>Sat, 04 Apr 2026 09:01:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-endless-01-vlmq/03dc-endless-01-vlmq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html</link>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/xxint-israel-mood-02-fmpq/xxint-israel-mood-02-fmpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Trump’s Strait of Hormuz Problem</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010815863/trumps-strait-of-hormuz-problem.html</link>
-      <summary>Our White House reporter Zolan Kanno-Youngs parses some of President Trump’s conflicting messages about the war with Iran.</summary>
-      <pubDate>Fri, 03 Apr 2026 02:17:22 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
