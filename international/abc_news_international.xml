@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-04T06:00:56.626000</generated>
+  <generated>2026-04-04T08:01:30.435084</generated>
   <items>
     <item>
       <title>Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions</title>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_4f11267f43ddafd8a0babcdbc41c3fe5_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Collapse of Tokyo's aging cherry blossom trees raises safety concerns</title>
+      <link>https://abcnews.com/International/wireStory/collapse-tokyos-aging-cherry-blossom-trees-viewing-season-131707291</link>
+      <summary>In Tokyo, the birthplace of Japan&amp;rsquo;s popular Somei Yoshino cherry blossom variety, many of the trees planted during the country&amp;rsquo;s postwar advancement of the 1960s are now getting old and frail</summary>
+      <pubDate>Sat, 04 Apr 2026 00:58:48 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_8214651be7d0f5a42748008bbb55f7fa_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_3f3df27cb39ae304ecf49c81b7c44c80_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Exclusive: Orbán challenger Magyar says election is a 'referendum' on Hungary's place in the world</title>
-      <link>https://abcnews.com/International/wireStory/exclusive-orbn-challenger-magyar-election-referendum-hungarys-place-131682179</link>
-      <summary>Hungarian opposition leader P&amp;eacute;ter Magyar says an upcoming election against pro-Russian Prime Minister Viktor Orb&amp;aacute;n is a &amp;ldquo;referendum&amp;rdquo; on Hungary&amp;rsquo;s future</summary>
-      <pubDate>Fri, 03 Apr 2026 11:04:02 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_5ce359a2bf065484669454b722237ea1_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
