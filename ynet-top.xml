@@ -1,90 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet Top 10 — Most Relevant Articles</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-04-04T04:04:51.931060</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — Top 10 Articles</title>
+  <source>ynet</source>
+  <generated>2026-04-01T02:02:20.682224</generated>
   <items>
     <item>
-      <title>'Hezbollah is sending us to die,’ prisoner recordings reveal collapse in morale</title>
-      <link>https://www.ynetnews.com/article/syneswai11g</link>
-      <description>Captured Radwan Force operatives tell Israeli interrogators morale is breaking amid prolonged fighting, claiming Hezbollah joined war to serve Iran and is forcing fighters back into battle despite exhaustion</description>
-      <pubDate>Fri, 03 Apr 2026 12:47:36 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>160</priority-score>
+      <title>Iranian president, FM reemerge in public despite Netanyahu’s threatened '10 plagues' of war</title>
+      <link>https://www.ynetnews.com/article/rkxq0otiwl</link>
+      <summary>Senior Iranian leaders appeared at pro-regime rallies in Tehran after weeks out of public view, signaling defiance despite Israeli claims of targeting top officials; Araghchi: 'There are no negotiations, there is an exchange of messages. We will not accept a ceasefire'</summary>
+      <pubDate>Tue, 31 Mar 2026 23:55:13 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>US intelligence: Iran still has half its missile launchers despite weeks of strikes</title>
-      <link>https://www.ynetnews.com/article/sk5ddt2szl</link>
-      <description>Despite Trump’s claim of dramatic setbacks, US intelligence assessments say Iran still holds roughly half its missile launchers and thousands of drones, while Israeli officials estimate about 25% remain operational, excluding buried systems</description>
-      <pubDate>Fri, 03 Apr 2026 08:03:02 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>140</priority-score>
+      <title>Israel pushes US to hit Iran energy sites, says it could collapse regime</title>
+      <link>https://www.ynetnews.com/article/byjcjcfo11x</link>
+      <summary>Officials in Jerusalem said a target bank focused on energy facilities and critical infrastructure has already been prepared, with any potential strike now dependent on a decision by Trump</summary>
+      <pubDate>Tue, 31 Mar 2026 22:16:02 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>Hezbollah continues rocket fire on northern Israel after earlier Iranian missile strikes</title>
-      <link>https://www.ynetnews.com/article/hjj9ditize</link>
-      <description>Sirens sound across Galilee, Haifa and surrounding areas as barrages persist into the night; no injuries reported so far</description>
-      <pubDate>Fri, 03 Apr 2026 23:53:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <title>Netanyahu: Iran no longer poses an existential threat to Israel</title>
+      <link>https://www.ynetnews.com/article/hkt3k9to11x</link>
+      <summary>PM claims Iran had invested nearly $1 trillion in its military buildup, including nuclear and missile programs, and now he says that investment has now been 'wasted'</summary>
+      <pubDate>Tue, 31 Mar 2026 21:22:36 +03:00</pubDate>
+      <priority>140</priority>
     </item>
     <item>
-      <title>Fury erupts in the north as Israel retreats on Hezbollah disarmament</title>
-      <link>https://www.ynetnews.com/article/hjm11le6s11e</link>
-      <description>Army briefing says dismantling Hezbollah is not a current war goal despite repeated pledges; officials insist it remains long-term, while northern residents accuse leaders of misleading the public</description>
-      <pubDate>Fri, 03 Apr 2026 15:35:22 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <title>Israel says air campaign cripples much of Iran’s defense industry</title>
+      <link>https://www.ynetnews.com/article/bkzzkqfiwx</link>
+      <summary>Security officials say Israeli Air Force nearing completion of attacks on Iran’s most vital military-industrial sites, while citing close coordination with US as campaign expands and more targets are prepared for weeks ahead</summary>
+      <pubDate>Tue, 31 Mar 2026 14:10:43 +03:00</pubDate>
+      <priority>130</priority>
     </item>
     <item>
-      <title>Iran claims it downed US F-35; nonstop sirens hit Kiryat Shmona</title>
-      <link>https://www.ynetnews.com/article/hk6kscnsbg</link>
-      <description>Iran releases alleged wreckage images of US stealth jet; Kuwait reports refinery fires after drone strike while Hezbollah rocket fire triggers sirens in northern Israel and IDF says 15 terrorists were killed in southern Lebanon</description>
-      <pubDate>Fri, 03 Apr 2026 09:33:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <title>נתניהו מנה "10 מכות" על איראן: "הטריליון שהשקיעו ירד לטמיון"</title>
+      <link>https://www.ynet.co.il/news/article/bkau5oyiwx</link>
+      <summary>בהצהרה מוקלטת, ללא שאלות, רה"מ אמר כי "אנחנו כותשים את איראן", מנה "10 מכות" ו"10 הישגים", אבל הודה – לאחר מטח של עשרות רקטות לצפון – כי "לצבאות הטרור שהקימה יש עדיין יכולת שיורית לירות עלינו". לפיד: "נאום יוהרה, עם ישראל הבין שהוא לא יודע לנצח"</summary>
+      <pubDate>Tue, 31 Mar 2026 21:02:03 +0300</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>Billions for terror: Israel says Iran doubled Hezbollah funding since last war</title>
-      <link>https://www.ynetnews.com/article/r1mcxehibx</link>
-      <description>IDF says Tehran sent Hezbollah about $2 billion over the past year, roughly twice its usual annual support, helping the group rebuild after the 2024 war and sustain heavy rocket and drone fire in the current conflict</description>
-      <pubDate>Thu, 02 Apr 2026 21:39:32 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
+      <title>Netanyahu: Israel over halfway to war goals in Iran, no timeline for ending conflict</title>
+      <link>https://www.ynetnews.com/article/hykygkos11x</link>
+      <summary>PM says Israel and the US have struck Iran’s missile systems, weapons factories and nuclear personnel, while warning Tehran’s growing missile range could soon threaten Europe and beyond</summary>
+      <pubDate>Tue, 31 Mar 2026 02:15:19 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
-      <title>הנחישות מול איראן והשלוחות האזוריות שלה</title>
-      <link>https://www.ynet.co.il/news/article/bypvipfo11l</link>
-      <description>המערכה הנוכחית אינה רק על פירוק הציר השיעי או על סיכול האיום המיידי על ישראל. היא קשורה גם למאמץ רחב יותר לעצב מחדש את המזרח התיכון כמרחב של שיתוף פעולה כלכלי ותחבורתי בין מזרח למערב</description>
-      <pubDate>Wed, 01 Apr 2026 05:45:00 +0300</pubDate>
-      <source>ynet-opinions</source>
-      <priority-score>125</priority-score>
+      <title>'We go with Trump': Israel says it will accept any US call on next phase of Iran war</title>
+      <link>https://www.ynetnews.com/article/r15o1vujze</link>
+      <summary>Senior Israeli official says Jerusalem has told Washington it will go along with whatever Trump decides, unlike last June when Israel objected to ending the fighting and the US president ordered Israeli warplanes to turn back</summary>
+      <pubDate>Mon, 30 Mar 2026 20:17:42 +03:00</pubDate>
+      <priority>125</priority>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <source>ynet-technology</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
       <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
       <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
+      <summary>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</summary>
       <pubDate>Tue, 31 Mar 2026 06:05:42 +0300</pubDate>
-      <source>ynet-health</source>
-      <priority-score>115</priority-score>
+      <priority>115</priority>
     </item>
     <item>
-      <title>Iran and Lebanon fire at northern Israel as IDF strikes Tehran and Beirut</title>
-      <link>https://www.ynetnews.com/article/bydw0l6j11l</link>
-      <description>Damage reported in Nahariya and Gesher HaZiv after barrage from Lebanon; MDA says no injuries as IDF launches simultaneous strikes in Beirut and Tehran</description>
-      <pubDate>Fri, 03 Apr 2026 18:47:29 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <title>Israel spotted Radwan buildup before Hezbollah strike, weighed preemptive attack</title>
+      <link>https://www.ynetnews.com/article/hjx1ovyibx</link>
+      <summary>Security officials say Israel detected about 1,000 Radwan Force operatives mobilizing in southern Lebanon before Hezbollah’s opening retaliation to Iran war, prompting discussions of possible preemptive strike</summary>
+      <pubDate>Tue, 31 Mar 2026 15:17:44 +03:00</pubDate>
+      <priority>115</priority>
     </item>
   </items>
 </content-feed>
