@@ -2,7 +2,7 @@
 <content-feed>
   <title>ICE — All Articles</title>
   <source>ICE</source>
-  <generated>2026-04-04T22:04:09.562742</generated>
+  <generated>2026-04-05T00:04:05.988880</generated>
   <items>
     <item>
       <title>מגישת חדשות 13 נגד נתניהו: "לא מוטטנו את חמאס וחיזבאללה"</title>
@@ -16,6 +16,17 @@
       </media>
     </item>
     <item>
+      <title>דני קושמרו תחת מתקפה: "עוכר ישראל", "השופר הגדול של קפלן"</title>
+      <link>https://www.ice.co.il/media/news/article/1108450</link>
+      <summary>לאחר שנתניהו קרא לערוצי הטלוויזיה לחזק את המורל הלאומי של האזרחים והלוחמים בזמן מלחמה, דני קושמרו הצהיר בשידור חי: "הילדים שלנו מסכנים את החיים שלהם. הם נפלאים ועושים עבודה נפלאה, אל תטיפו לנו". בעקבות דבריו, קושמרו ספג מתקפה חריפה מצד גולשים רבים</summary>
+      <pubDate>2026/04/04 22:38:39</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_561/rsz_615_346_40ice10092025.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>גילי ורמוט על המצב בלבנון: "סוף סוף מישהו אומר את האמת"</title>
       <link>https://www.ice.co.il/media/news/article/1108437</link>
       <summary>פרשן הכדורגל התייחס לדבריו של גורם צבאי בכיר שאמר כי פירוק ארגון הטרור חיזבאללה הוא אינו חלק ממטרות המלחמה ועקץ: "יפרוק מנשקו בדיוק כמו הניצחון המוחלט בעזה כשנהרוג את החמאסניק האחרון"</summary>
@@ -23,17 +34,6 @@
       <priority>95</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_593/rsz_615_346_634-09690478093647093470937406.JPG</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>מבצע "שאגת הארי": אזעקות לאורך כל השבת; לוחם צה"ל נפל בלבנון</title>
-      <link>https://www.ice.co.il/local-news/news/article/1108427</link>
-      <summary>רס"ל גיא לודר נפל במהלך מבצע ללכידת סייען חיזבאללה, כאשר תקרית ירי קשה הובילה למותו ופצעה לוחם נוסף באורח קשה</summary>
-      <pubDate>2026/04/04 20:08:28</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_588/rsz_615_346_010320261733.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,39 @@
       </media>
     </item>
     <item>
+      <title>המנכ"ל הישראלי המוערך הלך לעולמו במפתיע: פרטים חדשים נחשפו</title>
+      <link>https://www.ice.co.il/culture/news/article/1108456</link>
+      <summary>נטע קסטין שניהל את כל פעילות של רשת בתי הקפה של פקטורי 54 הלך לעולמו במפתיע, רגע לאחר ליל הסדר. חברו הטוב, גיא פינס סיפר על הרגעים שלפני מותו: "הוא מודיע לאמא שלא יגיע לסדר"</summary>
+      <pubDate>2026/04/04 23:05:07</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_593/rsz_615_346_factory54_3867047610184179418's2026-4-3-13.39.443 story.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>בשורה אדירה לישראלים: קו טיסות ישיר לבירת דרום קוריאה כבר מהיום</title>
+      <link>https://www.ice.co.il/tourism/news/article/1108448</link>
+      <summary>הבירה האירופאית שכבר הכריזה על מספר קווים המחברים בין היבשות השכנות הודיעה על פתיחה נוספת וחגיגית של קו ישיר ממנה לבירה הפופולרית במזרח, סיאול</summary>
+      <pubDate>2026/04/04 22:31:32</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_485/rsz_615_346_22ice14102024.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>עומר מילר לאחר שנעצר בדובאי: "אי הבנה שיצאה מפרופורציה"</title>
+      <link>https://www.ice.co.il/social/news/article/1108449</link>
+      <summary>השף הישראלי שיתף מדוע הוא נעצר בשדה התעופה בדובאי ונאזק מול אשתו, שירן וילדיו והבהיר :"אין קשר להיותי ישראלי או יהודי", וגם איך אמו, עדנה הגיבה לראשונה למעצר</summary>
+      <pubDate>2026/04/04 22:12:51</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_546/rsz_615_346_מילר.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>טקס המשואות 2026: זו ההחלטה הדרמטית שהתקבלה בצל המלחמה</title>
       <link>https://www.ice.co.il/culture/news/article/1108445</link>
       <summary>הטקס המסורתי שנערך מידי שנה ביום העצמאות בהר הרצל מול קהל רב, ייערך השנה במתכונת קצת אחרת. גם טקס יום השואה ויום הזכרון ייערכו באותה מתכונת</summary>
@@ -78,39 +111,6 @@
       <priority>70</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_467/rsz_615_346_10ice02072024.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>אימה בערב החג: כך חולצו הישראליות מהעיר האסורה "רצינו לנפוש"</title>
-      <link>https://www.ice.co.il/local-news/news/article/1108440</link>
-      <summary>שלוש אזרחיות ופעוטה בת שנתיים נכנסו לעיר הפלסטינית יריחו במטרה לנפוש בעיר במהלך חג הפסח. משטרת ישראל בשיתוף כוחות הצלה נוספים הצליחו לחלץ אותן והן הועברו לחקירה</summary>
-      <pubDate>2026/04/04 21:35:10</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_428/rsz_615_346_16ice13112023.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>ליאון רוזנברג על הירידה מהארץ: "נתן לנו חופש לפעול"</title>
-      <link>https://www.ice.co.il/media/news/article/1108439</link>
-      <summary>מגיש הטלוויזיה חשף מדוע הוא ופאולה עזבו את ישראל לקפריסין, והסביר כיצד ההחלטה התקבלה למען בנותיהם: "בראש ובראשונה עשינו את זה כדי להציל את הנפש של הבנות שלנו"</summary>
-      <pubDate>2026/04/04 21:22:24</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_536/rsz_615_346_25ice22052025.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>נועה קירל ודניאל פרץ מטריפים את העולם: זו ההשוואה המחמיאה שקיבלו</title>
-      <link>https://www.ice.co.il/social/news/article/1108432</link>
-      <summary>הזוג הישראלי הנוצץ זוכה לסיקור נרחב בבריטניה, עם ראיונות למגזינים הבולטים והשוואה לזוג בקהאם. פרץ: " כשצפיתי באירוויזיון אמרתי: 'וואו, אני רוצה שהיא תהיה אשתי. היא האישה הכי יפה בעולם'"</summary>
-      <pubDate>2026/04/04 21:02:17</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_593/rsz_615_346_6464646464646488.jpeg</image>
         <type>image/jpeg</type>
       </media>
     </item>
