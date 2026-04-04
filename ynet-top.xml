@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — Top 10 Articles</title>
-  <source>ynet</source>
-  <generated>2026-04-04T02:03:23.128962</generated>
+  <title>Ynet Top 10 — Most Relevant Articles</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-04-04T04:04:51.931060</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
       <title>'Hezbollah is sending us to die,’ prisoner recordings reveal collapse in morale</title>
       <link>https://www.ynetnews.com/article/syneswai11g</link>
-      <summary>Captured Radwan Force operatives tell Israeli interrogators morale is breaking amid prolonged fighting, claiming Hezbollah joined war to serve Iran and is forcing fighters back into battle despite exhaustion</summary>
+      <description>Captured Radwan Force operatives tell Israeli interrogators morale is breaking amid prolonged fighting, claiming Hezbollah joined war to serve Iran and is forcing fighters back into battle despite exhaustion</description>
       <pubDate>Fri, 03 Apr 2026 12:47:36 +03:00</pubDate>
-      <priority>160</priority>
+      <source>ynet-news-english</source>
+      <priority-score>160</priority-score>
     </item>
     <item>
       <title>US intelligence: Iran still has half its missile launchers despite weeks of strikes</title>
       <link>https://www.ynetnews.com/article/sk5ddt2szl</link>
-      <summary>Despite Trump’s claim of dramatic setbacks, US intelligence assessments say Iran still holds roughly half its missile launchers and thousands of drones, while Israeli officials estimate about 25% remain operational, excluding buried systems</summary>
+      <description>Despite Trump’s claim of dramatic setbacks, US intelligence assessments say Iran still holds roughly half its missile launchers and thousands of drones, while Israeli officials estimate about 25% remain operational, excluding buried systems</description>
       <pubDate>Fri, 03 Apr 2026 08:03:02 +03:00</pubDate>
-      <priority>140</priority>
+      <source>ynet-news-english</source>
+      <priority-score>140</priority-score>
     </item>
     <item>
       <title>Hezbollah continues rocket fire on northern Israel after earlier Iranian missile strikes</title>
       <link>https://www.ynetnews.com/article/hjj9ditize</link>
-      <summary>Sirens sound across Galilee, Haifa and surrounding areas as barrages persist into the night; no injuries reported so far</summary>
+      <description>Sirens sound across Galilee, Haifa and surrounding areas as barrages persist into the night; no injuries reported so far</description>
       <pubDate>Fri, 03 Apr 2026 23:53:40 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Fury erupts in the north as Israel retreats on Hezbollah disarmament</title>
       <link>https://www.ynetnews.com/article/hjm11le6s11e</link>
-      <summary>Army briefing says dismantling Hezbollah is not a current war goal despite repeated pledges; officials insist it remains long-term, while northern residents accuse leaders of misleading the public</summary>
+      <description>Army briefing says dismantling Hezbollah is not a current war goal despite repeated pledges; officials insist it remains long-term, while northern residents accuse leaders of misleading the public</description>
       <pubDate>Fri, 03 Apr 2026 15:35:22 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Iran claims it downed US F-35; nonstop sirens hit Kiryat Shmona</title>
       <link>https://www.ynetnews.com/article/hk6kscnsbg</link>
-      <summary>Iran releases alleged wreckage images of US stealth jet; Kuwait reports refinery fires after drone strike while Hezbollah rocket fire triggers sirens in northern Israel and IDF says 15 terrorists were killed in southern Lebanon</summary>
+      <description>Iran releases alleged wreckage images of US stealth jet; Kuwait reports refinery fires after drone strike while Hezbollah rocket fire triggers sirens in northern Israel and IDF says 15 terrorists were killed in southern Lebanon</description>
       <pubDate>Fri, 03 Apr 2026 09:33:40 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>Billions for terror: Israel says Iran doubled Hezbollah funding since last war</title>
       <link>https://www.ynetnews.com/article/r1mcxehibx</link>
-      <summary>IDF says Tehran sent Hezbollah about $2 billion over the past year, roughly twice its usual annual support, helping the group rebuild after the 2024 war and sustain heavy rocket and drone fire in the current conflict</summary>
+      <description>IDF says Tehran sent Hezbollah about $2 billion over the past year, roughly twice its usual annual support, helping the group rebuild after the 2024 war and sustain heavy rocket and drone fire in the current conflict</description>
       <pubDate>Thu, 02 Apr 2026 21:39:32 +03:00</pubDate>
-      <priority>130</priority>
-    </item>
-    <item>
-      <title>Israel says it has completed strikes on vital targets in Iran</title>
-      <link>https://www.ynetnews.com/article/h1e7deij11g</link>
-      <summary>IDF says Air Force had put nearly all predesignated 'vital and strategic' targets out of operation, including military-industrial and nuclear-related sites, while pressing attacks in Tehran and opening a new ground line in southern Lebanon</summary>
-      <pubDate>Wed, 01 Apr 2026 23:15:02 +03:00</pubDate>
-      <priority>130</priority>
+      <source>ynet-news-english</source>
+      <priority-score>130</priority-score>
     </item>
     <item>
       <title>הנחישות מול איראן והשלוחות האזוריות שלה</title>
       <link>https://www.ynet.co.il/news/article/bypvipfo11l</link>
-      <summary>המערכה הנוכחית אינה רק על פירוק הציר השיעי או על סיכול האיום המיידי על ישראל. היא קשורה גם למאמץ רחב יותר לעצב מחדש את המזרח התיכון כמרחב של שיתוף פעולה כלכלי ותחבורתי בין מזרח למערב</summary>
+      <description>המערכה הנוכחית אינה רק על פירוק הציר השיעי או על סיכול האיום המיידי על ישראל. היא קשורה גם למאמץ רחב יותר לעצב מחדש את המזרח התיכון כמרחב של שיתוף פעולה כלכלי ותחבורתי בין מזרח למערב</description>
       <pubDate>Wed, 01 Apr 2026 05:45:00 +0300</pubDate>
-      <priority>125</priority>
+      <source>ynet-opinions</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
       <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <description>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</description>
       <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <source>ynet-technology</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
       <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
       <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <summary>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</summary>
+      <description>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</description>
       <pubDate>Tue, 31 Mar 2026 06:05:42 +0300</pubDate>
-      <priority>115</priority>
+      <source>ynet-health</source>
+      <priority-score>115</priority-score>
+    </item>
+    <item>
+      <title>Iran and Lebanon fire at northern Israel as IDF strikes Tehran and Beirut</title>
+      <link>https://www.ynetnews.com/article/bydw0l6j11l</link>
+      <description>Damage reported in Nahariya and Gesher HaZiv after barrage from Lebanon; MDA says no injuries as IDF launches simultaneous strikes in Beirut and Tehran</description>
+      <pubDate>Fri, 03 Apr 2026 18:47:29 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
   </items>
 </content-feed>
