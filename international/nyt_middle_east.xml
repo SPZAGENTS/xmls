@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-04T16:00:55.124429</generated>
+  <generated>2026-04-04T18:00:55.397691</generated>
   <items>
+    <item>
+      <title>A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.</title>
+      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker</link>
+      <summary>There was no reported increase in radiation levels. A string of recent attacks near the Persian Gulf facility has fueled fears of a nuclear accident.</summary>
+      <pubDate>Sat, 04 Apr 2026 14:27:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How</title>
       <link>https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html</link>
@@ -63,7 +74,7 @@
       <title>What We Know About the F-15E Strike Eagle Shot Down by Iran</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html</link>
       <summary>An F-15E Strike Eagle was shot down over Iran and an A-10 Warthog crashed near the Strait of Hormuz, officials said on Friday. Two airmen were rescued, and one is unaccounted for.</summary>
-      <pubDate>Sat, 04 Apr 2026 11:30:58 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 14:37:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-infrastructure-attacks-hbpq/03israel-iran-infrastructure-attacks-hbpq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>At War With Iran Again, Some Israelis Fear Conflict Is Becoming Routine</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html</link>
-      <summary>A majority of Israelis support the war with Iran, but many doubt that it will solve Israel’s long-term security problems. Some also question their prime minister’s assurances and motives.</summary>
-      <pubDate>Fri, 03 Apr 2026 09:07:18 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/01/multimedia/xxint-israel-mood-02-fmpq/xxint-israel-mood-02-fmpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

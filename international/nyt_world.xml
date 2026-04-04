@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-04T16:00:54.590724</generated>
+  <generated>2026-04-04T18:00:54.947039</generated>
   <items>
     <item>
       <title>Iranians Seek Respite in Nature Amid the War</title>
@@ -19,10 +19,10 @@
       <title>Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran</title>
       <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news</link>
       <summary>Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. In southwest Iran, one person was killed when a projectile struck the perimeter of a nuclear power plant, Iranian media reported.</summary>
-      <pubDate>Sat, 04 Apr 2026 12:56:29 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 14:59:03 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04mideast-promo-6am-ET-vflg/04mideast-promo-6am-ET-vflg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-promo-11am-fmjq/04israel-iran-ru-university-fmjq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,7 +41,7 @@
       <title>What We Know About the F-15E Strike Eagle Shot Down by Iran</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html</link>
       <summary>An F-15E Strike Eagle was shot down over Iran and an A-10 Warthog crashed near the Strait of Hormuz, officials said on Friday. Two airmen were rescued, and one is unaccounted for.</summary>
-      <pubDate>Sat, 04 Apr 2026 11:30:58 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 14:37:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.</title>
+      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker</link>
+      <summary>There was no reported increase in radiation levels. A string of recent attacks near the Persian Gulf facility has fueled fears of a nuclear accident.</summary>
+      <pubDate>Sat, 04 Apr 2026 14:27:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How</title>
       <link>https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html</link>
       <summary>President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-tehran-voices3/03dc-endless-02-qhgt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Friday</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-war-middle-east-recap-friday.html</link>
-      <summary>An American fighter jet was shot down by Iran for the first time since the start of the war, leading to an urgent search-and-rescue operation for a missing crew member.</summary>
-      <pubDate>Sat, 04 Apr 2026 01:20:51 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-front-by-front2-lcbh/03israel-iran-front-by-front2-lcbh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

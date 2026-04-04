@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-04T16:00:53.540980</generated>
+  <generated>2026-04-04T18:00:54.124999</generated>
   <items>
     <item>
       <title>U.S. races to find missing airman as Iranian TV broadcasts reward for capture</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Israelis celebrate Passover in a parking garage turned bomb shelter</title>
-      <link>https://www.washingtonpost.com/world/2026/04/02/passover-seder-tel-aviv-bomb-shelter/</link>
-      <summary>People broke matzoh, read from the Haggadah and sang — with no need to worry about when the next air raid siren might sound.</summary>
-      <pubDate>Thu, 02 Apr 2026 13:34:06 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Russian attacks on Ukraine kill 5 people; nearly 20 animals die in fire</title>
       <link>https://www.washingtonpost.com/world/2026/04/03/people-animals-killed-russia-ukraine-war/</link>
       <summary>Ukraine’s Emergency Services posted images of rescue workers trying to save the animals — in one instance administering CPR to a dog — at the clinic in Chabany.</summary>
@@ -73,6 +66,13 @@
       <summary>Sexual violence is a widespread weapon of war in Sudan. “Survivors frequently and clearly identified the perpetrators as RSF fighters,” Doctors Without Borders says.</summary>
       <pubDate>Thu, 02 Apr 2026 15:38:56 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Epstein victims demand meeting with King Charles in Washington</title>
+      <link>https://www.washingtonpost.com/world/2026/04/04/king-charles-epstein-victims-state-visit/</link>
+      <summary>A state visit intended to mark 250 years of U.S. independence could become a test of the British monarchy’s willingness to confront one of its most difficult controversies.</summary>
+      <pubDate>Sat, 04 Apr 2026 09:00:48 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>

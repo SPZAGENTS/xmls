@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-04T16:00:50.926696</generated>
+  <generated>2026-04-04T18:00:51.492286</generated>
   <items>
+    <item>
+      <title>Australians told to continue Easter travel plans despite fuel shortages</title>
+      <link>https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.</summary>
+      <pubDate>Sat, 04 Apr 2026 12:10:10 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1232/live/86e3bc60-301e-11f1-93d4-afd16efe51c8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Russia chose 'Easter escalation' over ceasefire, says Zelensky</title>
       <link>https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -12,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian attack on Ukraine market kills five</title>
+      <link>https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.</summary>
+      <pubDate>Sat, 04 Apr 2026 14:00:31 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a103/live/c0c0df90-3018-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Faced with new energy shock, Europe asks if reviving nuclear is the answer</title>
-      <link>https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.</summary>
-      <pubDate>Fri, 03 Apr 2026 23:14:04 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Football rally in Peru leaves one dead and dozens injured</title>
       <link>https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.</summary>
@@ -56,17 +67,6 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit</title>
-      <link>https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The judge left in place three allegations against Baldoni, meaning the civil trial will go ahead next month.</summary>
-      <pubDate>Fri, 03 Apr 2026 15:07:43 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
