@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-04T22:03:00.942467</generated>
+  <generated>2026-04-05T00:02:59.875554</generated>
   <items>
     <item>
       <title>Iran live updates: Search for missing US crew member enters 2nd day</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Sat, 04 Apr 2026 14:53:53 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2026 15:32:38 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg</image>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Fast-growing wildfire in windy Southern California triggers evacuations</title>
-      <link>https://abcnews.com/US/wireStory/fast-growing-wildfire-windy-southern-california-triggers-evacuations-131700798</link>
-      <summary>A fast-growing wildfire in Southern California has prompted multiple evacuation orders and warnings</summary>
-      <pubDate>Fri, 03 Apr 2026 18:14:59 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: One crew member from downed jet over Iran is rescued</title>
       <link>https://abcnews.com/video/131694346/</link>
       <summary>One crew member aboard the downed fighter jet over Iran has been rescued, according to a U.S. official.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/Entertainment/260404_abcnl_prime_peete_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: KitKat launches tracker after chocolate heist</title>
+      <link>https://abcnews.com/video/131643422/</link>
+      <summary>Nestlé, the maker of KitKat, has launched a tracker in an attempt to find the 12 tons of stolen chocolate.</summary>
+      <pubDate>Thu, 02 Apr 2026 09:52:12 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260402_gma_reeve_kitkat1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

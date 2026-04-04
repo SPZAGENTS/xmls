@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-04T22:02:56.794729</generated>
+  <generated>2026-04-05T00:02:54.953155</generated>
   <items>
     <item>
       <title>Iranians Seek Respite in Nature Amid the War</title>
@@ -16,10 +16,10 @@
       </media>
     </item>
     <item>
-      <title>Iran War Live Updates: U.S. Searches for Missing Airman as Trump Repeats Threats Over Strait</title>
+      <title>Iran War Live Updates: U.S. Races to Find Missing Crew Member as Trump Repeats Threats Over Strait</title>
       <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news</link>
-      <summary>President Trump has been mostly been silent about the downing of a U.S. fighter jet over Iran but said time was “running out” on his ultimatum to reopen the Strait of Hormuz.</summary>
-      <pubDate>Sat, 04 Apr 2026 18:59:22 +0000</pubDate>
+      <summary>President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest.</summary>
+      <pubDate>Sat, 04 Apr 2026 20:45:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-promo-2pm-pflh/04israel-iran-promo-2pm-pflh-mediumSquareAt3X.jpg</image>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Myanmar Junta Chief Ascends to President, Five Years After Coup</title>
-      <link>https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html</link>
-      <summary>U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.</summary>
-      <pubDate>Fri, 03 Apr 2026 06:42:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/02/world/00int-myanmar-president-hfo/00int-myanmar-president-hfo-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html</link>
       <summary>A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.</summary>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-endless-01-vlmq/03dc-endless-01-vlmq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances</title>
+      <link>https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html</link>
+      <summary>A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident.</summary>
+      <pubDate>Sat, 04 Apr 2026 16:42:39 +0000</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04int-uk-ambulances-01-wblg/04int-uk-ambulances-01-wblg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
