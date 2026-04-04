@@ -2,20 +2,9 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-04T02:03:36.211594</generated>
-  <total_articles>340</total_articles>
+  <generated>2026-04-04T04:01:22.997837</generated>
+  <total_articles>300</total_articles>
   <items>
-    <item>
-      <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
-      <link>https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.</summary>
-      <pubDate>Fri, 03 Apr 2026 13:16:33 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
     <item>
       <title>Russia chose 'Easter escalation' over ceasefire, says Zelensky</title>
       <link>https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -25,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
+      <link>https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.</summary>
+      <pubDate>Fri, 03 Apr 2026 13:16:33 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
       </media>
     </item>
     <item>
