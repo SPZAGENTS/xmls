@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-04T10:00:53.907830</generated>
+  <generated>2026-04-04T12:00:53.523191</generated>
   <items>
+    <item>
+      <title>Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran</title>
+      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news</link>
+      <summary>Iran downed an F-15E, the first U.S. warplane the country has shot down in the war. The episode presents challenges for the United States that would grow if the missing airman is taken prisoner.</summary>
+      <pubDate>Sat, 04 Apr 2026 08:56:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-promo-wbqz/04israel-iran-promo-wbqz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html</link>
+      <summary>Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.</summary>
+      <pubDate>Fri, 03 Apr 2026 22:35:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/world/03int-pilot-interview-top/03int-pilot-interview-top-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post</title>
       <link>https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html</link>
@@ -38,13 +60,6 @@
       </media>
     </item>
     <item>
-      <title>As H-1B Visa Program Changes, Skilled Foreign Workers Consider Leaving U.S.</title>
-      <link>https://www.nytimes.com/2026/04/03/video/h-1b-visa-skilled-workers-trump.html</link>
-      <summary>As the Trump administration cracks down on the H-1B visa program, which allows skilled workers like software engineers to work in the United States, foreign professionals are debating whether to stay and build careers or quit the American Dream.</summary>
-      <pubDate>Fri, 03 Apr 2026 09:01:40 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html</link>
       <summary>Fifteen residents of Tehran said in telephone interviews and text messages that the capital was weathering heavy bombardment Friday.</summary>
@@ -67,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html</link>
-      <summary>Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.</summary>
-      <pubDate>Fri, 03 Apr 2026 22:35:05 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/world/03int-pilot-interview-top/03int-pilot-interview-top-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html</link>
       <summary>Iran has sent waves of missiles and drones at Israel and Gulf states in recent weeks and shot down an American fighter jet on Friday.</summary>
@@ -85,6 +89,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-capabilities1-bjvc/03israel-iran-capabilities1-bjvc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What We Know About the F-15E Strike Eagle Shot Down by Iran</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html</link>
+      <summary>An F-15E Strike Eagle was lost to enemy fire and an A-10 Warthog crashed in the Persian Gulf region on Friday, officials said. A rescue helicopter was also fired upon.</summary>
+      <pubDate>Sat, 04 Apr 2026 05:56:00 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -98,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/04/01/multimedia/01int-russia-muratov-profile-sub-ljbz/01int-russia-muratov-profile-sub-ljbz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Iran Shoots Down U.S. Fighter Jet, Setting Off American Search and Rescue</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/us-airman-search-iran.html</link>
-      <summary>One crew member was rescued. The risky operation to find the second airman came as the United States and Israel struck infrastructure targets in Iran, prompting Iranian retaliation in the Gulf.</summary>
-      <pubDate>Fri, 03 Apr 2026 21:58:08 +0000</pubDate>
-      <priority>90</priority>
     </item>
   </items>
 </content-feed>
