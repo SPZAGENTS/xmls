@@ -2,16 +2,27 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-04T18:00:52.180190</generated>
+  <generated>2026-04-04T20:01:14.285741</generated>
   <items>
     <item>
-      <title>Child of Chinese illegal immigrants charged with planting explosive at US military base</title>
-      <link>https://www.foxnews.com/politics/child-chinese-illegal-immigrants-charged-planting-explosive-us-military-base</link>
-      <summary>DHS revealed that a suspect who fled to China after allegedly planting a deadly explosive device at an important military base is the child of two Chinese illegal immigrants.</summary>
-      <pubDate>Sat, 04 Apr 2026 09:00:41 -0400</pubDate>
+      <title>IRGC's 'larger than normal' presence poses challenge in search for missing F-15E crew member, expert warns</title>
+      <link>https://www.foxnews.com/media/search-missing-f-15e-crew-member-iran-complicated-irgc-presence-military-expert-warns</link>
+      <summary>Military expert says U.S. search and rescue for a missing F-15E crew member in Iran is complicated by a large IRGC presence in the crash region.</summary>
+      <pubDate>Sat, 04 Apr 2026 12:10:12 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/chinese-illegal-aliens-air-force-base-attack.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/military-middle-east-iran-fox-news.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Cruise line abruptly adds extra charges for passengers as travelers worry others may follow</title>
+      <link>https://www.foxnews.com/travel/cruise-line-abruptly-adds-extra-charges-passengers-travelers-worry-others-may-follow</link>
+      <summary>Cruise passengers fear retroactive charges as oil prices surge 40% since the Iran conflict, with cruise lines&amp;apos; fine print allowing added fees. Ticket prices could rise too.</summary>
+      <pubDate>Sat, 04 Apr 2026 12:08:29 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/cruise34545.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,24 +38,57 @@
       </media>
     </item>
     <item>
-      <title>'Last Man Standing' alum Nancy Travis warns Americans 'feel more alone than ever'</title>
-      <link>https://www.foxnews.com/entertainment/last-man-standing-alum-nancy-travis-warns-americans-feel-alone-ever</link>
-      <summary>Nancy Travis discusses her role in Lifetime&amp;apos;s &amp;quot;Rescued by Faith: The Connie and Larry Van Oosten Story,&amp;quot; reflecting on America&amp;apos;s growing sense of isolation and the power of faith and community in overcoming adversity.</summary>
-      <pubDate>Sat, 04 Apr 2026 09:00:36 -0400</pubDate>
-      <priority>90</priority>
+      <title>6 jaw-dropping food heists that came before the massive 12-ton KitKat theft</title>
+      <link>https://www.foxnews.com/food-drink/6-massive-food-heists-rocked-world-before-kitkat-job</link>
+      <summary>From KitKat bars to maple syrup and olive oil, organized criminals are increasingly targeting food shipments in costly and sophisticated cargo thefts.</summary>
+      <pubDate>Sat, 04 Apr 2026 11:04:07 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Nancy-Travis.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/maple-syrup-bottling-infamous-food-thefts.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Alcatraz could reopen as a 'state-of-the-art secure prison' under Trump's $152M budget request</title>
-      <link>https://www.foxnews.com/politics/alcatraz-could-reopen-state-art-secure-prison-trumps-152m-budget-request</link>
-      <summary>The White House is seeking $152 million to reopen Alcatraz, closed since 1963, as a state-of-the-art secure facility for federal inmates.</summary>
-      <pubDate>Sat, 04 Apr 2026 08:53:30 -0400</pubDate>
+      <title>Georgetown University to offer pornography course to students</title>
+      <link>https://www.foxnews.com/media/georgetown-university-offer-pornography-course-students</link>
+      <summary>Georgetown University will offer a pornography course this fall examining pornography production and &amp;quot;the pornographic&amp;quot; in contemporary media, culture, and social conflicts.</summary>
+      <pubDate>Sat, 04 Apr 2026 12:00:57 -0400</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/alcatraz-island-san-francisco-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/931/523/college-student-overwhelmed.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump unveils $1.5T defense surge, deep domestic cuts — what’s on the budget chopping block</title>
+      <link>https://www.foxnews.com/politics/trump-unveils-1-5t-defense-surge-deep-domestic-cuts-whats-chopping-block</link>
+      <summary>The White House proposes a fiscal year 2027 budget with roughly $1.5 trillion in defense spending and sweeping cuts to key domestic programs.</summary>
+      <pubDate>Sat, 04 Apr 2026 11:28:37 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-farmers-white-house-fox-news-002.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>James Carville goes on profanity-laced Trump tirade, says he hopes president doesn’t ‘croak’ before midterms</title>
+      <link>https://www.foxnews.com/media/james-carville-goes-profanity-laced-trump-tirade-says-he-hopes-president-doesnt-croak-before-midterms</link>
+      <summary>James Carville scorches Trump in a profanity-laced YouTube rant, questioning his fitness for office and taunting his declining approval poll numbers.</summary>
+      <pubDate>Sat, 04 Apr 2026 11:38:20 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/carville-trump.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WWE NXT champ Jacy Jayne ready for call-up, puts women's division on notice</title>
+      <link>https://www.foxnews.com/sports/wwe-nxt-champ-jacy-jayne-ready-call-puts-womens-division-notice</link>
+      <summary>NXT women&amp;apos;s champion Jacy Jayne says years ago she would have floundered on the main roster, but now she feels ready to take a spot from the best in WWE.</summary>
+      <pubDate>Sat, 04 Apr 2026 11:04:50 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jacy-jayne-new-york-fox-news-002.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,50 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/south-carolina-uconn-basketball-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'The Super Mario Galaxy Movie' Review: A nostalgic blast for Nintendo fans</title>
-      <link>https://www.foxnews.com/opinion/the-super-mario-galaxy-movie-review-nostalgic-blast-nintendo-fans</link>
-      <summary>Fox News Digital reviews Universal and Illumination&amp;apos;s &amp;quot;The Super Mario Galaxy Movie&amp;quot; starring Chris Pratt, Jack Black, Anya Taylor-Joy, Charlie Day and Brie Larson.</summary>
-      <pubDate>Sat, 04 Apr 2026 10:00:45 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/super-mario-galaxy-1.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Johnny Carson's strict character rule kept Pee-Wee Herman from appearing on 'Tonight Show': book</title>
-      <link>https://www.foxnews.com/entertainment/johnny-carsons-strict-character-rule-kept-pee-wee-herman-from-appearing-tonight-show-book</link>
-      <summary>According to Mark Malkoff&amp;apos;s book, Carson refused &amp;quot;Tonight Show&amp;quot; guests who appeared in character, which included Paul Reubens as Pee-Wee Herman.</summary>
-      <pubDate>Sat, 04 Apr 2026 10:00:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/pee-wee-herman-cooking.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Georgia teachers union boss blames school choice for public schools being 'grossly underfunded'</title>
-      <link>https://www.foxnews.com/media/georgia-teachers-union-boss-blames-school-choice-public-schools-being-grossly-underfunded</link>
-      <summary>Georgia teachers union leader slams school choice, blaming &amp;quot;disinformation&amp;quot; for public school enrollment drops and a recent wave of Atlanta school closures.</summary>
-      <pubDate>Sat, 04 Apr 2026 09:00:20 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/school-desks.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Education Secretary Linda McMahon accuses critics of having ‘Trump Derangement Syndrome’</title>
-      <link>https://www.foxnews.com/media/education-secretary-linda-mcmahon-accuses-critics-trump-derangement-syndrome</link>
-      <summary>Linda McMahon discusses President Donald Trump&amp;apos;s directive to fire herself by dismantling the Department of Education, calling out critics driven by &amp;quot;Trump Derangement Syndrome.&amp;quot;</summary>
-      <pubDate>Sat, 04 Apr 2026 09:00:07 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/trump-mcmahon-education.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
