@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-04T04:01:12.482940</generated>
+  <generated>2026-04-04T06:00:49.600891</generated>
   <items>
     <item>
       <title>Experts dispute US account of deadly Iran sports hall strike in Lamerd</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How elite US teams tackle combat rescue missions</title>
-      <link>https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.</summary>
-      <pubDate>Fri, 03 Apr 2026 20:42:56 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,6 +56,17 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rescue team in Iran face 'harrowing and dangerous' search for US crew member</title>
+      <link>https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.</summary>
+      <pubDate>Sat, 04 Apr 2026 02:52:09 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

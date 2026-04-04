@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-04T04:01:16.178337</generated>
+  <generated>2026-04-04T06:00:52.959383</generated>
   <items>
+    <item>
+      <title>‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear</title>
+      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html</link>
+      <summary>Fifteen residents of Tehran said in telephone interviews and text messages that the capital was weathering heavy bombardment Friday.</summary>
+      <pubDate>Sat, 04 Apr 2026 02:08:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-tehran-voices3/03dc-endless-02-qhgt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Friday</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-war-middle-east-recap-friday.html</link>
       <summary>An American fighter jet was shot down by Iran for the first time since the start of the war, leading to an urgent search-and-rescue operation for a missing crew member.</summary>
-      <pubDate>Sat, 04 Apr 2026 00:34:21 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 01:20:51 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-front-by-front1-zmqf/03israel-iran-front-by-front1-zmqf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-front-by-front2-lcbh/03israel-iran-front-by-front2-lcbh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -98,17 +109,6 @@
       <summary>Our White House reporter Zolan Kanno-Youngs parses some of President Trump’s conflicting messages about the war with Iran.</summary>
       <pubDate>Fri, 03 Apr 2026 02:17:22 +0000</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
-      <link>https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
-      <summary>President Trump’s prime-time address received a defiant response from a top leader in Tehran.</summary>
-      <pubDate>Thu, 02 Apr 2026 23:26:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-front-by-front-qzcb/02israel-iran-front-by-front-qzcb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
