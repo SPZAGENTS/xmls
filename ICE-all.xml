@@ -2,7 +2,7 @@
 <content-feed>
   <title>ICE — All Articles</title>
   <source>ICE</source>
-  <generated>2026-04-05T00:04:05.988880</generated>
+  <generated>2026-04-05T02:04:34.133294</generated>
   <items>
     <item>
       <title>מגישת חדשות 13 נגד נתניהו: "לא מוטטנו את חמאס וחיזבאללה"</title>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_591/rsz_615_346_1803202261225.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>דרמה ביטחונית: רומניה בדרך לבטל עסקת ענק עם אלביט</title>
+      <link>https://www.ice.co.il/local-news/news/article/1108457</link>
+      <summary>עיכובים באספקת מל"טים מתקדמים גרמו לקנסות של 70 מיליון דולר, והשר הרומני הודיע כי ארצו בוחנת מחדש את ההתקשרות עם החברה הישראלית</summary>
+      <pubDate>2026/04/05 01:10:38</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_541/rsz_615_346_אלביט 120620251.jpeg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_315/rsz_615_346_F220504YS121.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>אלפי נפגעים בבתי חולים בישראל: משרד הבריאות בהודעה חשובה</title>
-      <link>https://www.ice.co.il/health/news/article/1108441</link>
-      <summary>משרד הבריאות מפרסם נתונים על 6,771 פצועים ומאושפזים מתחילת מבצע "שאגת הארי". במקביל לכך, הגוף הממשלתי מפרסם הנחיות ברורות לצורך קבלת טיפול רפואי בעת חירום | כל הפרטים</summary>
-      <pubDate>2026/04/04 21:37:41</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>http://img.ice.co.il/giflib/news/rsPhoto/sz_467/rsz_615_346_10ice02072024.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
