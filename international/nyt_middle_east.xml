@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-05T20:02:53.457863</generated>
+  <generated>2026-04-05T22:00:57.219997</generated>
   <items>
+    <item>
+      <title>Trump Revels in Threats to Commit War Crimes in Iran</title>
+      <link>https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html</link>
+      <summary>The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.</summary>
+      <pubDate>Sun, 05 Apr 2026 18:50:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/05/multimedia/05dc-warcrimes-trump-fjvc/05dc-warcrimes-trump-fjvc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Seems Emboldened With New Threats in Truth Social Post Over Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/04/05/world/middleeast/trump-truth-social-post-iran-allah-strait-of-hormuz.html</link>
       <summary>In an expletive-filled social media post, Mr. Trump said Iran should open the Strait of Hormuz or he will bomb bridges and power plants.</summary>
-      <pubDate>Sun, 05 Apr 2026 16:54:15 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 18:23:46 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/05/multimedia/05israel-iran-Trump-truth-social-btvl/05israel-iran-Trump-truth-social-btvl-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-front-by-front2-lcbh/03israel-iran-front-by-front2-lcbh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html</link>
-      <summary>Ronald Young Jr. was in the Army when his Apache Longbow copter went down during the U.S. invasion of Iraq.</summary>
-      <pubDate>Fri, 03 Apr 2026 22:35:05 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/world/03int-pilot-interview-top/03int-pilot-interview-top-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

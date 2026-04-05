@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 Middle East — Top 10 Articles</title>
   <source>France24 Middle East</source>
-  <generated>2026-04-05T20:02:56.685392</generated>
+  <generated>2026-04-05T22:00:59.502907</generated>
   <items>
+    <item>
+      <title>Israel launches new strikes on Lebanon, forces closure of Syria border crossing</title>
+      <link>https://www.france24.com/en/middle-east/20260405-israel-launches-new-strikes-on-lebanon-forces-closure-of-syria-border-crossing</link>
+      <summary>Israeli airstrikes on Beirut and southern Lebanon on Sunday killed at least 11 people, including a family of six, and wounded dozens more. The attacks also forced the closure of Lebanon’s main border crossing with Syria, as Israel's conflict with Hezbollah intensifies.</summary>
+      <pubDate>Sun, 05 Apr 2026 17:54:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/bf333418-3115-11f1-9d6f-005056a90284/w:1024/p:16x9/000-A6TK2VW.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>War in the Middle East: Israeli strike on South Beirut kills at least 4 people</title>
       <link>https://www.france24.com/en/war-in-the-middle-east-israeli-strike-on-south-beirut-kills-at-least-4-people</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/b4c15210-30c2-11f1-8067-005056a90284/w:1024/p:16x9/EN-20260405-080743-080951-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sri Lanka struggles to avert economic collapse over Mideast war</title>
-      <link>https://www.france24.com/en/sri-lanka-struggles-to-avert-economic-collapse-over-mideast-war</link>
-      <summary>Sri Lanka is struggling to prevent a repeat of its spectacular economic collapse four years ago, as the prolonged Middle East war compounds the fallout from a deadly cyclone in November.</summary>
-      <pubDate>Sun, 05 Apr 2026 09:30:18 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8703d5da-30c4-11f1-9f36-005056a97e36/w:1024/p:16x9/EN-20260405-081445-081643-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

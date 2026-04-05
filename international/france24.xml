@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-05T20:02:55.896215</generated>
+  <generated>2026-04-05T22:00:59.129903</generated>
   <items>
+    <item>
+      <title>Israel launches new strikes on Lebanon, forces closure of Syria border crossing</title>
+      <link>https://www.france24.com/en/middle-east/20260405-israel-launches-new-strikes-on-lebanon-forces-closure-of-syria-border-crossing</link>
+      <summary>Israeli airstrikes on Beirut and southern Lebanon on Sunday killed at least 11 people, including a family of six, and wounded dozens more. The attacks also forced the closure of Lebanon’s main border crossing with Syria, as Israel's conflict with Hezbollah intensifies.</summary>
+      <pubDate>Sun, 05 Apr 2026 17:54:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/bf333418-3115-11f1-9d6f-005056a90284/w:1024/p:16x9/000-A6TK2VW.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>War in the Middle East: Israeli strike on South Beirut kills at least 4 people</title>
       <link>https://www.france24.com/en/war-in-the-middle-east-israeli-strike-on-south-beirut-kills-at-least-4-people</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/36503d4c-30e0-11f1-a9be-005056bfb2b6/w:1024/p:16x9/EN-20260405-110135-110253-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>On Easter, Pope Leo urges world leaders to end wars, renounce conquest</title>
-      <link>https://www.france24.com/en/on-easter-pope-leo-urges-world-leaders-to-end-wars-renounce-conquest</link>
-      <summary>Seema Gupta is live from Rome.</summary>
-      <pubDate>Sun, 05 Apr 2026 11:30:57 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8ee41aba-30df-11f1-996e-005056a97e36/w:1024/p:16x9/EN-20260405-110254-110625-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
