@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-05T18:00:50.671891</generated>
+  <generated>2026-04-05T20:02:49.053205</generated>
   <items>
+    <item>
+      <title>US airman injured but safe after rescue from inside Iran, Trump says</title>
+      <link>https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The recovery of the airman follows separate search efforts by both the US and Iran.</summary>
+      <pubDate>Sun, 05 Apr 2026 16:46:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff4/live/1a5813f0-30c0-11f1-9a33-4dcb3f23e392.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Australians told to continue Easter travel plans despite fuel shortages</title>
       <link>https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -12,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1232/live/86e3bc60-301e-11f1-93d4-afd16efe51c8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hungary alleges plot to blow up gas pipeline ahead of election</title>
+      <link>https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.</summary>
+      <pubDate>Sun, 05 Apr 2026 16:38:06 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,10 +82,10 @@
       </media>
     </item>
     <item>
-      <title>What we know so far about rescue of US airman in Iran</title>
+      <title>How downed F-15 US airman was rescued inside Iran</title>
       <link>https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.</summary>
-      <pubDate>Sun, 05 Apr 2026 10:07:16 GMT</pubDate>
+      <pubDate>Sun, 05 Apr 2026 15:45:20 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg</image>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Bombay went from a fort city to a bustling metropolis</title>
-      <link>https://www.bbc.com/news/articles/cj60k3x879ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A new exhibition charts Bombay's passage through the centuries via paintings, photographs and prints.</summary>
-      <pubDate>Sat, 04 Apr 2026 00:09:54 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fed/live/d6ab00b0-273f-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope Leo calls for global leaders to choose peace in his first Easter Mass</title>
-      <link>https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.</summary>
-      <pubDate>Sun, 05 Apr 2026 12:35:36 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

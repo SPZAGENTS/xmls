@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-05T18:00:49.911283</generated>
+  <generated>2026-04-05T20:02:48.209035</generated>
   <items>
+    <item>
+      <title>Hungary alleges plot to blow up gas pipeline ahead of election</title>
+      <link>https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.</summary>
+      <pubDate>Sun, 05 Apr 2026 16:38:06 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>German men under 45 may need military approval for long stays abroad</title>
       <link>https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -27,10 +38,10 @@
       </media>
     </item>
     <item>
-      <title>What we know so far about rescue of US airman in Iran</title>
+      <title>How downed F-15 US airman was rescued inside Iran</title>
       <link>https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.</summary>
-      <pubDate>Sun, 05 Apr 2026 10:07:16 GMT</pubDate>
+      <pubDate>Sun, 05 Apr 2026 15:45:20 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg</image>
@@ -38,35 +49,24 @@
       </media>
     </item>
     <item>
-      <title>'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon</title>
-      <link>https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Astronauts on the Artemis II mission are on the third day of their journey around the far side of the Moon.</summary>
-      <pubDate>Sun, 05 Apr 2026 00:04:03 GMT</pubDate>
-      <priority>65</priority>
+      <title>Archbishop prays for Middle East peace in first Easter sermon</title>
+      <link>https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Dame Sarah Mullally called for an 'end to the violence and destruction' before a congregation in Canterbury.</summary>
+      <pubDate>Sun, 05 Apr 2026 12:37:52 GMT</pubDate>
+      <priority>70</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1904/live/7ae31190-30c8-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76e/live/149442d0-30e9-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Starmer 'concerned' over Kanye West UK festival dates</title>
-      <link>https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.</summary>
-      <pubDate>Sun, 05 Apr 2026 13:37:13 GMT</pubDate>
+      <title>Artemis's stunning Moon pictures - science or holiday photos?</title>
+      <link>https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.</summary>
+      <pubDate>Sun, 05 Apr 2026 15:03:19 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Storm Dave hits road and rail travel but conditions easing</title>
-      <link>https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Storm Dave will clear northeast on Easter Sunday, bringing "sunshine and showers" to much of the country.</summary>
-      <pubDate>Sun, 05 Apr 2026 11:29:37 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c755/live/bb295180-30e4-11f1-a79a-77e93010d956.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfde/live/0c742dd0-30f4-11f1-b6e3-bf199a2978e2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>AI videos fuel rhetoric as Orbán bids for four more years in Hungary</title>
-      <link>https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.</summary>
-      <pubDate>Sat, 04 Apr 2026 23:15:48 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ec/live/47e3fed0-3005-11f1-a1a5-7555ad51d4c1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Pope Leo calls for global leaders to choose peace in his first Easter Mass</title>
       <link>https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.</summary>
@@ -100,6 +89,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Storm Dave hits road and rail travel but conditions easing</title>
+      <link>https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Storm Dave will clear northeast on Easter Sunday, bringing "sunshine and showers" to much of the country.</summary>
+      <pubDate>Sun, 05 Apr 2026 15:12:16 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c755/live/bb295180-30e4-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
