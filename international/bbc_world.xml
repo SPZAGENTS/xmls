@@ -2,16 +2,16 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-05T22:00:51.741454</generated>
+  <generated>2026-04-06T00:00:55.695907</generated>
   <items>
     <item>
-      <title>Seriously wounded US airman rescued from Iran, Trump says</title>
-      <link>https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The recovery of the airman follows separate search efforts by both the US and Iran.</summary>
-      <pubDate>Sun, 05 Apr 2026 16:46:33 GMT</pubDate>
+      <title>Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom</title>
+      <link>https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.</summary>
+      <pubDate>Sun, 05 Apr 2026 20:02:01 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff4/live/1a5813f0-30c0-11f1-9a33-4dcb3f23e392.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,10 +27,21 @@
       </media>
     </item>
     <item>
+      <title>How rescue of US airman in remote part of Iran unfolded</title>
+      <link>https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.</summary>
+      <pubDate>Sun, 05 Apr 2026 20:00:20 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Hungary alleges plot to blow up gas pipeline ahead of election</title>
       <link>https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.</summary>
-      <pubDate>Sun, 05 Apr 2026 16:38:06 GMT</pubDate>
+      <pubDate>Sun, 05 Apr 2026 19:17:42 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg</image>
@@ -78,17 +89,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How downed F-15 US airman was rescued inside Iran</title>
-      <link>https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.</summary>
-      <pubDate>Sun, 05 Apr 2026 17:15:34 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
