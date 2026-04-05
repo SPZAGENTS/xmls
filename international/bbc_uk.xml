@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-06T00:00:54.524008</generated>
+  <generated>2026-04-06T02:00:56.165490</generated>
   <items>
     <item>
       <title>Trump declares victory in Iran war after rescue, but threats to US operation still loom</title>
@@ -12,6 +12,39 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Why did US and Israel attack Iran and how long could the war last?</title>
+      <link>https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:25:48 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/33c15b00-25c9-11f1-9659-a9a8987c78b0.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump issues expletive-laden threat to Iran over Hormuz Strait blockage</title>
+      <link>https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:10:06 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8493/live/fba08020-313a-11f1-819d-c96a4978551d.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How rescue of US airman in remote part of Iran unfolded</title>
+      <link>https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:19:02 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>How rescue of US airman in remote part of Iran unfolded</title>
-      <link>https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.</summary>
-      <pubDate>Sun, 05 Apr 2026 20:00:20 GMT</pubDate>
+      <title>Artemis II astronauts have toilet trouble on their way towards the Moon</title>
+      <link>https://www.bbc.com/news/articles/c87wy05wr4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The four astronauts aboard the Artemis II mission's Orion capsule have encountered intermittent complications with their spacecraft's toilet.</summary>
+      <pubDate>Sun, 05 Apr 2026 18:35:24 GMT</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>German men under 45 may need military approval for long stays abroad</title>
-      <link>https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.</summary>
-      <pubDate>Sat, 04 Apr 2026 21:16:42 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e7/live/ec4a7e00-305e-11f1-ba49-5da6d3e5ad3c.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1364/live/76cc98f0-310a-11f1-b297-95b0a0a8331e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Archbishop prays for Middle East peace in first Easter sermon</title>
-      <link>https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Dame Sarah Mullally called for an 'end to the violence and destruction' before a congregation in Canterbury.</summary>
-      <pubDate>Sun, 05 Apr 2026 12:37:52 GMT</pubDate>
-      <priority>70</priority>
+      <title>'We are at the edge of a battlefield': BBC reports near Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:30:19 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76e/live/149442d0-30e9-11f1-b297-95b0a0a8331e.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c34/live/1a05ce70-3132-11f1-934f-036468834728.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfde/live/0c742dd0-30f4-11f1-b6e3-bf199a2978e2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Royals attend Windsor Easter Sunday service</title>
-      <link>https://www.bbc.com/news/articles/c80md8v473do?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Andrew-Mountbatten Windsor and his family are absent from the traditional family event.</summary>
-      <pubDate>Sun, 05 Apr 2026 11:50:41 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98e/live/e99993c0-30eb-11f1-a79a-77e93010d956.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope Leo calls for global leaders to choose peace in his first Easter Mass</title>
-      <link>https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.</summary>
-      <pubDate>Sun, 05 Apr 2026 12:35:36 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
