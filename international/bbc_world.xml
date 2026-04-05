@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-05T06:00:49.891413</generated>
+  <generated>2026-04-05T08:05:19.579882</generated>
   <items>
     <item>
       <title>Australians told to continue Easter travel plans despite fuel shortages</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>US and Iran trade threats to unleash 'hell' as search for missing US airman continues</title>
-      <link>https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.</summary>
-      <pubDate>Sat, 04 Apr 2026 22:54:06 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e76/live/3d4d3850-306f-11f1-9582-d1ec97d5b335.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>What we know so far about the US fighter jet shot down over Iran</title>
+      <link>https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, US media reports.</summary>
+      <pubDate>Sat, 04 Apr 2026 20:06:12 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Football rally in Peru leaves one dead and dozens injured</title>
       <link>https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.</summary>
@@ -78,17 +78,6 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Search for missing airman presents serious test for US</title>
-      <link>https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.</summary>
-      <pubDate>Sat, 04 Apr 2026 20:13:41 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The man who became one of India's greatest stage queens</title>
+      <link>https://www.bbc.com/news/articles/cd0rl52z3dzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Chapal Bhaduri was Bengal’s biggest stage queen - until women arrived and the spotlight moved on.</summary>
+      <pubDate>Sat, 04 Apr 2026 22:20:51 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b000/live/09a9c730-2e57-11f1-b0fd-93b59b3986e7.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

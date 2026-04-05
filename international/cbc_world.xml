@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World — Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-05T06:01:00.039438</generated>
+  <generated>2026-04-05T08:05:29.876179</generated>
   <items>
     <item>
       <title>How the war in the Middle East is already impacting mortgage rates in Canada</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump gives Iran 48 hours to make a deal as search continues for missing U.S. pilot</title>
-      <link>https://www.cbc.ca/news/world/iran-bushehr-nuclear-struck-9.7153228?cmp=rss</link>
-      <summary />
-      <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>U.K. police arrest 4th suspect in connection with arson attack on Jewish ambulances</title>
       <link>https://www.cbc.ca/news/world/fourth-person-arrested-uk-jewish-ambulance-attacks-9.7153339?cmp=rss</link>
       <summary>British police arrested a fourth person in connection with an ‌arson attack on Jewish community ambulances that happened last month, with the detention happening at a London court where three males already charged in the case were appearing, prosecutors said on Saturday.</summary>
@@ -66,6 +59,13 @@
       <summary>An undersea magnitude 7.4 earthquake toppled buildings in parts of northern Indonesia, sent people fleeing from their homes, killed at least one person and generated a small tsunami Thursday.</summary>
       <pubDate>Thu, 02 Apr 2026 04:48:36 EDT</pubDate>
       <priority>80</priority>
+    </item>
+    <item>
+      <title>U.S. rescues airman whose F-15 was downed in Iran, officials say</title>
+      <link>https://www.cbc.ca/news/world/us-rescues-airman-iran-9.7153538?cmp=rss</link>
+      <summary />
+      <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Trump administration seeks $152M to reopen Alcatraz as 'state-of-the-art secure prison'</title>

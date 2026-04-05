@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-05T06:00:58.791676</generated>
+  <generated>2026-04-05T08:05:28.580564</generated>
   <items>
     <item>
       <title>Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says</title>
-      <link>https://abcnews.com/International/wireStory/paramilitary-forces-sudan-kill-10-people-hospital-drone-131679213</link>
-      <summary>The Rapid Support Forces killed at least 10 people in a drone attack on a Sudanese hospital, according to a medical group</summary>
-      <pubDate>Fri, 03 Apr 2026 07:31:13 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_8b4a43addd4acb65176b72686b7f4958_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Dutch police probe a small blast outside a pro-Israel Christian center</title>
       <link>https://abcnews.com/International/wireStory/dutch-police-probe-small-blast-pro-israel-christian-131715586</link>
       <summary>Dutch police are investigating a small explosion outside a Christian center that promotes Israel</summary>
@@ -89,6 +78,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>English choirs seek to protect a musical tradition little changed since Queen Elizabeth I</title>
+      <link>https://abcnews.com/International/wireStory/english-choirs-seek-protect-musical-tradition-changed-queen-131738929</link>
+      <summary>A campaign is underway to protect England's choral music tradition, which has thrived for nearly 500 years</summary>
+      <pubDate>Sun, 05 Apr 2026 01:00:34 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_36c2232d5653e9aa70f27b7be1729740_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
