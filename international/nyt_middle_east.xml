@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-05T04:00:57.170520</generated>
+  <generated>2026-04-05T06:00:53.778045</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
+      <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html</link>
+      <summary>The U.S. military’s search-and-rescue operation for a missing American airman entered its second day. The Israeli military struck a major petrochemical complex in Iran.</summary>
+      <pubDate>Sun, 05 Apr 2026 01:05:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-FRONT-BY-FRONT-kqvl/04ISRAEL-IRAN-FRONT-BY-FRONT-kqvl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israel Strikes Iran’s Largest Petrochemical Complex</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html</link>
@@ -41,7 +52,7 @@
       <title>Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How</title>
       <link>https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html</link>
       <summary>President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.</summary>
-      <pubDate>Sat, 04 Apr 2026 17:29:57 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 17:29:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-endless-01-vlmq/03dc-endless-01-vlmq-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03xp-iran-jet-wwk-qcgm/03xp-iran-jet-wwk-qcgm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Is Quickly Repairing Missile Bunkers, U.S. Intelligence Says</title>
-      <link>https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html</link>
-      <summary>Reports cast doubt on how close the United States is to destroying Iran’s missile capability, a key goal in the war.</summary>
-      <pubDate>Fri, 03 Apr 2026 23:07:31 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-intel-zblq/03dc-intel-zblq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

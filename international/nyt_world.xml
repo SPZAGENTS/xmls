@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-05T04:00:56.606572</generated>
+  <generated>2026-04-05T06:00:53.252661</generated>
   <items>
     <item>
       <title>Iranians Seek Respite in Nature Amid the War</title>
@@ -19,7 +19,7 @@
       <title>Iran War Live Updates: U.S. Races to Rescue Missing Crew Member as Trump Repeats Threats</title>
       <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news</link>
       <summary>President Trump said time was “running out” on his ultimatum to reopen the Strait of Hormuz, and Israel struck a major petrochemical complex in Iran’s southwest.</summary>
-      <pubDate>Sun, 05 Apr 2026 00:33:36 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 02:50:12 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-promo-2pm-pflh/04israel-iran-promo-2pm-pflh-mediumSquareAt3X.jpg</image>
@@ -71,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>Here’s What Happened in the War in the Middle East on Saturday</title>
+      <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html</link>
+      <summary>The U.S. military’s search-and-rescue operation for a missing American airman entered its second day. The Israeli military struck a major petrochemical complex in Iran.</summary>
+      <pubDate>Sun, 05 Apr 2026 01:05:08 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-FRONT-BY-FRONT-kqvl/04ISRAEL-IRAN-FRONT-BY-FRONT-kqvl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Israel Strikes Iran’s Largest Petrochemical Complex</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html</link>
       <summary>The sprawling complex in the city of Mahshahr was taken offline after strikes hit two utility plants that provided basic services like gas and power, Iranian officials said.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances</title>
-      <link>https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html</link>
-      <summary>A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident.</summary>
-      <pubDate>Sat, 04 Apr 2026 16:42:39 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04int-uk-ambulances-01-wblg/04int-uk-ambulances-01-wblg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
