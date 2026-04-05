@@ -1,78 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>ynet — All Articles</title>
-  <source>ynet</source>
-  <generated>2026-04-04T02:03:23.129468</generated>
+  <title>Ynet All Articles — Complete Feed</title>
+  <source>ynet-aggregated</source>
+  <source-type>rss</source-type>
+  <last-updated>2026-04-05T04:03:07.535666</last-updated>
+  <article-count>10</article-count>
   <items>
     <item>
-      <title>'Hezbollah is sending us to die,’ prisoner recordings reveal collapse in morale</title>
-      <link>https://www.ynetnews.com/article/syneswai11g</link>
-      <summary>Captured Radwan Force operatives tell Israeli interrogators morale is breaking amid prolonged fighting, claiming Hezbollah joined war to serve Iran and is forcing fighters back into battle despite exhaustion</summary>
-      <pubDate>Fri, 03 Apr 2026 12:47:36 +03:00</pubDate>
-      <priority>160</priority>
+      <title>Multi-front attack: Iran, Hezbollah, Yemen fire hits Tel Aviv area; 1 injured</title>
+      <link>https://www.ynetnews.com/article/hjdx8irsbe</link>
+      <description>Direct hits from a cluster missile in central Israel damage buildings in Ramat Gan, Petah Tikva and Bnei Brak</description>
+      <pubDate>Sat, 04 Apr 2026 12:39:23 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>US intelligence: Iran still has half its missile launchers despite weeks of strikes</title>
-      <link>https://www.ynetnews.com/article/sk5ddt2szl</link>
-      <summary>Despite Trump’s claim of dramatic setbacks, US intelligence assessments say Iran still holds roughly half its missile launchers and thousands of drones, while Israeli officials estimate about 25% remain operational, excluding buried systems</summary>
-      <pubDate>Fri, 03 Apr 2026 08:03:02 +03:00</pubDate>
-      <priority>140</priority>
+      <title>Iran and Lebanon fire at northern Israel as IDF strikes Tehran and Beirut</title>
+      <link>https://www.ynetnews.com/article/bydw0l6j11l</link>
+      <description>Damage reported in Nahariya and Gesher HaZiv after barrage from Lebanon; MDA says no injuries as IDF launches simultaneous strikes in Beirut and Tehran</description>
+      <pubDate>Fri, 03 Apr 2026 18:47:29 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Hezbollah continues rocket fire on northern Israel after earlier Iranian missile strikes</title>
-      <link>https://www.ynetnews.com/article/hjj9ditize</link>
-      <summary>Sirens sound across Galilee, Haifa and surrounding areas as barrages persist into the night; no injuries reported so far</summary>
-      <pubDate>Fri, 03 Apr 2026 23:53:40 +03:00</pubDate>
-      <priority>130</priority>
+      <title>Israel shifts strategy in Hezbollah fight as army drops disarmament goal</title>
+      <link>https://www.ynetnews.com/article/bjzhrgpobl</link>
+      <description>IDF to present plan to seize and demolish frontline villages in southern Lebanon, creating a deep buffer zone similar to Gaza model; officials say dismantling Hezbollah would require full occupation of Lebanon</description>
+      <pubDate>Fri, 03 Apr 2026 11:28:25 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>115</priority-score>
     </item>
     <item>
-      <title>Fury erupts in the north as Israel retreats on Hezbollah disarmament</title>
-      <link>https://www.ynetnews.com/article/hjm11le6s11e</link>
-      <summary>Army briefing says dismantling Hezbollah is not a current war goal despite repeated pledges; officials insist it remains long-term, while northern residents accuse leaders of misleading the public</summary>
-      <pubDate>Fri, 03 Apr 2026 15:35:22 +03:00</pubDate>
-      <priority>130</priority>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Iran claims it downed US F-35; nonstop sirens hit Kiryat Shmona</title>
-      <link>https://www.ynetnews.com/article/hk6kscnsbg</link>
-      <summary>Iran releases alleged wreckage images of US stealth jet; Kuwait reports refinery fires after drone strike while Hezbollah rocket fire triggers sirens in northern Israel and IDF says 15 terrorists were killed in southern Lebanon</summary>
-      <pubDate>Fri, 03 Apr 2026 09:33:40 +03:00</pubDate>
-      <priority>130</priority>
+      <title>From automatic support to political risk: Israel is now a burden for Democratic Party candidates</title>
+      <link>https://www.ynetnews.com/article/bj1h271nwx</link>
+      <description>Less than three year to US presidential elections and just a few months before the midterms, almost all Democratic leaders are making clear their aversion to Israel and openly talking about breaking away from it - and are saying things about Israel that were once unimaginable</description>
+      <pubDate>Sun, 05 Apr 2026 03:51:27 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Billions for terror: Israel says Iran doubled Hezbollah funding since last war</title>
-      <link>https://www.ynetnews.com/article/r1mcxehibx</link>
-      <summary>IDF says Tehran sent Hezbollah about $2 billion over the past year, roughly twice its usual annual support, helping the group rebuild after the 2024 war and sustain heavy rocket and drone fire in the current conflict</summary>
-      <pubDate>Thu, 02 Apr 2026 21:39:32 +03:00</pubDate>
-      <priority>130</priority>
+      <title>US military pilots’ survival guide: how they train for worst-case scenarios</title>
+      <link>https://www.ynetnews.com/article/byaabpai11x</link>
+      <description>Two crew members were aboard the US fighter jet shot down in Iran; one has been found while the other remains missing; American pilots train for ejection over hostile territory where long-term survival can be especially challenging</description>
+      <pubDate>Sat, 04 Apr 2026 02:48:45 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>Israel says it has completed strikes on vital targets in Iran</title>
-      <link>https://www.ynetnews.com/article/h1e7deij11g</link>
-      <summary>IDF says Air Force had put nearly all predesignated 'vital and strategic' targets out of operation, including military-industrial and nuclear-related sites, while pressing attacks in Tehran and opening a new ground line in southern Lebanon</summary>
-      <pubDate>Wed, 01 Apr 2026 23:15:02 +03:00</pubDate>
-      <priority>130</priority>
+      <title>Iran claims wave of strikes on US tech giants as Gulf tensions erupt</title>
+      <link>https://www.ynetnews.com/article/hkb06etiwl</link>
+      <description>Revolutionary Guard says it hit data centers in Dubai and Bahrain and warned 18 US tech firms they are now targets, linking the attacks to assassinations in Iran and calling one strike an attempt to derail diplomacy</description>
+      <pubDate>Fri, 03 Apr 2026 11:55:35 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>110</priority-score>
     </item>
     <item>
-      <title>הנחישות מול איראן והשלוחות האזוריות שלה</title>
-      <link>https://www.ynet.co.il/news/article/bypvipfo11l</link>
-      <summary>המערכה הנוכחית אינה רק על פירוק הציר השיעי או על סיכול האיום המיידי על ישראל. היא קשורה גם למאמץ רחב יותר לעצב מחדש את המזרח התיכון כמרחב של שיתוף פעולה כלכלי ותחבורתי בין מזרח למערב</summary>
-      <pubDate>Wed, 01 Apr 2026 05:45:00 +0300</pubDate>
-      <priority>125</priority>
+      <title>תותחי לייזר ורובוטים על ארבע: כך ההייטק הישראלי משנה את המלחמה</title>
+      <link>https://www.ynet.co.il/economy/article/yokra14726616</link>
+      <description>רובוטים שנשלחים למשימות מודיעין, תותחי לייזר זעירים שמפילים רחפני טרור, ספינות אוטונומיות שמשייטות במצרי הורמוז ומדפסות תלת ממד שמייצרות חלקי טילים תוך יומיים - אלה הם רק חלק מהפיתוחים של סטארטאפים ישראלים, שהניסיון שצברו תחת אש הפך לקמפיין השיווק הכי טוב שלהם בחו"ל</description>
+      <pubDate>Fri, 03 Apr 2026 07:53:50 +0300</pubDate>
+      <source>ynet-economy</source>
+      <priority-score>105</priority-score>
     </item>
     <item>
-      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
-      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
-      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
-      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
-      <priority>115</priority>
+      <title>דיווח באיראן: "ארה"ב וישראל תוקפות באזור שבו ככל הנראה נמצא הנווט הנעדר"</title>
+      <link>https://www.ynet.co.il/news/article/b1r11ify3bl</link>
+      <description />
+      <pubDate>Sun, 05 Apr 2026 02:14:02 +0300</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>95</priority-score>
     </item>
     <item>
-      <title>כך מתדלקת המלחמה באיראן את השוק השחור של תרופות המרשם בישראל</title>
-      <link>https://www.ynet.co.il/health/article/yokra14718159</link>
-      <summary>אופיואידים ממכרים, גלולות קשב וריכוז, זריקות הרזיה - וגם תרופות שינה והרגעה. השוק השחור של תרופות המרשם בישראל, דרך ערוצי הטלגרם, היה עוד קודם רווי פעילות. ואז באה המלחמה הנוכחית - והחמירה עוד יותר את המצב. "7 ימים" שוחח עם סוחרים שהבטיחו "פנטה אורגינל", וגם עם מומחים וחוקרים,...</summary>
-      <pubDate>Tue, 31 Mar 2026 06:05:42 +0300</pubDate>
-      <priority>115</priority>
+      <title>איראן מאיימת על מתקנים פטרוכימיים בישראל: "התקיפה לא תישאר ללא מענה"</title>
+      <link>https://www.ynet.co.il/news/article/rykrog1nbl</link>
+      <description />
+      <pubDate>Sat, 04 Apr 2026 23:53:02 +0300</pubDate>
+      <source>ynet-breaking-news</source>
+      <priority-score>95</priority-score>
     </item>
   </items>
 </content-feed>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>גיקטיים — All Articles</title>
   <source>גיקטיים</source>
-  <generated>2026-04-04T02:03:23.133351</generated>
+  <generated>2026-04-05T04:02:21.800951</generated>
   <items>
     <item>
       <title>אחרי חודש של מלחמה: כיצד נראים הגיוסים בהייטק הישראלי?</title>
@@ -26,11 +26,25 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>סטארטאפ ישראלי גייס עכשיו 130 מיליון דולר וחלק מזה הולך לעובדים</title>
-      <link>https://www.geektime.co.il/scaleops-raises-major-round-with-secondary/</link>
-      <summary>הוצאות הענן של ארגונים נחשבות לאחד מכאבי הראש הגדולים של אנשי הכספים והטכנולוגיה, וזה עוד לפני שהוספנו למשוואה את הזינוק האדיר בצריכת משאבי AI בשנים האחרונות. הסטארטאפ הישראלי ScaleOps מדווח היום (ב') על מגה-גיוס חדש שנועד לפתור בדיוק את הבעיה הזאת. הקצאה אוטומטית במקום קונפיג...</summary>
-      <pubDate>Mon, 30 Mar 2026 12:30:56 +0000</pubDate>
-      <priority>90</priority>
+      <title>צריכים משהו לחכות לו? הנה 3 וובינרים ששווים את הזמן שלכם</title>
+      <link>https://www.geektime.co.il/geek-events-142026/</link>
+      <summary>ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת &amp;#8211; אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח ה...</summary>
+      <pubDate>Sat, 04 Apr 2026 16:10:07 +0000</pubDate>
+      <priority>85</priority>
+    </item>
+    <item>
+      <title>האם תאבדו את הזכויות על הקוד שלכם רק בגלל שהשתמשתם ב-AI?</title>
+      <link>https://www.geektime.co.il/using-ai-in-tech-might-have-some-consequences/</link>
+      <summary>מאת: עו"ד אסף טננבאום האם משתמש העושה שימוש במודלים של בינה מלאכותית, יכול להיחשב כממציא או יוצר של קוד, או יצירות והמצאות אחרות שפלטו אותם מודלים? שתי החלטות של בתי משפט בישראל ובארה"ב שניתנו לאחרונה &amp;#8211; אחת בעולמות זכויות היוצרים ואחת בעולמות דיני הפטנטים &amp;#8211; יצרו שי...</summary>
+      <pubDate>Sat, 04 Apr 2026 12:15:19 +0000</pubDate>
+      <priority>85</priority>
+    </item>
+    <item>
+      <title>ישראלי מדגים כיצד ניתן לעקוף את פיצ'ר ה-View Once של וואטסאפ</title>
+      <link>https://www.geektime.co.il/israeli-researcher-bypasses-whatsapp-privacy-feature/</link>
+      <summary>"אהלן אושרי, טל בארי. אם אתה רוצה, שלח שנייה תמונה במצב View Once לכאן, ואראה לך איך אני פותח אותה כמה פעמים שאני רק רוצה", כך התחילה השיחה שלי עם בארי, חוקר אבטחה וה-CTO של הסטארטאפ Zengo. לעקוף פיצ'ר פרטיות של אחת מהאפליקציות הפופולריות בעולם? זה מעניין. אז הוא קיבל ממני תמו...</summary>
+      <pubDate>Sat, 04 Apr 2026 08:09:40 +0000</pubDate>
+      <priority>85</priority>
     </item>
     <item>
       <title>ה-AI מגיע לטלגרם שלכם בעברית ובחינם</title>
@@ -59,20 +73,6 @@
       <summary>בתחילת החודש הטילה Anthropic פצצה נוספת לזירת ה-AI למפתחים: כלי ה-Code Review החדש של Claude Code. המהלך הזה הפך למקור דאגה עבור לא מעט סטארטאפים בתחום, אבל לא כולם מתרגשים מהתחרות, למשל Qodo הישראלית. "זה נראה משכנע בדמו, אבל נשבר בפרודקשן" המערכת של Qodo מספקת למפתחים סט כלי...</summary>
       <pubDate>Mon, 30 Mar 2026 13:16:33 +0000</pubDate>
       <priority>85</priority>
-    </item>
-    <item>
-      <title>סטארטאפ ישראלי בן פחות משנה כבר מגן על טיקטוק</title>
-      <link>https://www.geektime.co.il/huskeys-seed-funding-edge-security-management-waf/</link>
-      <summary>עולם אבטחת האפליקציות נעזר כבר כמה עשורים בטכנולוגיית ה-WAF (או Web Application Firewall), שהומצאה בישראל, ומסייעת לסנן תעבורה זדונית לפני שהיא מגיעה ופוגעת בשרתי הארגון. אלא שמאז ועד היום, למרות שהאינטרנט השתנה ללא היכר, ה-WAF נשאר כמעט סטטי. הוא מבוסס על חוקים קשיחים, דורש נ...</summary>
-      <pubDate>Mon, 30 Mar 2026 12:00:47 +0000</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
-      <title>היסטוריה: חללית Artemis 2 שוגרה עם אסטרונאוטים בדרך לירח</title>
-      <link>https://www.geektime.co.il/historic-artemis-2-launch/</link>
-      <summary>אמנם בשבועות האחרונים אנחנו בישראל מדברים על טילים שונים ומביטים לשמיים מסיבות אחרות, אבל מעבר לאוקיינוס, נקבעה היסטוריה קטנה קצת אחרי אחת בלילה (שעון ישראל). בפעם הראשונה מאז תוכנית אפולו ב-1972, נאס"א משגרת בני אדם לכיוון הירח. משימת Artemis II המריאה הלילה (ה') בהצלחה ממרכז...</summary>
-      <pubDate>Thu, 02 Apr 2026 07:00:19 +0000</pubDate>
-      <priority>70</priority>
     </item>
   </items>
 </content-feed>
