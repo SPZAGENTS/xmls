@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-05T08:05:19.015201</generated>
+  <generated>2026-04-05T10:00:51.164442</generated>
   <items>
-    <item>
-      <title>Trump's 'hellfire ultimatum' to Iran and 'PM slams Kanye gig'</title>
-      <link>https://www.bbc.com/news/articles/c0e79re1w89o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The ongoing US-Israeli war against Iran and a Kanye West gig are top stories in the papers this Sunday.</summary>
-      <pubDate>Sun, 05 Apr 2026 04:36:03 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/3c89c040-307a-11f1-a79a-77e93010d956.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge</title>
       <link>https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -38,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>Storm Dave to ease on Easter Sunday after amber alert expires</title>
-      <link>https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Storm Dave will clear northeast on Easter Sunday, bringing "sunshine and showers" to much of the country.</summary>
-      <pubDate>Sun, 05 Apr 2026 04:04:31 GMT</pubDate>
-      <priority>95</priority>
+      <title>Trump's 'hellfire ultimatum' to Iran and 'PM slams Kanye gig'</title>
+      <link>https://www.bbc.com/news/articles/c0e79re1w89o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The ongoing US-Israeli war against Iran and a Kanye West gig are top stories in the papers this Sunday.</summary>
+      <pubDate>Sun, 05 Apr 2026 04:36:03 GMT</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ba/live/9dd38c90-302b-11f1-9cbd-37c700a63936.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/3c89c040-307a-11f1-a79a-77e93010d956.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bca/live/917615d0-3053-11f1-a58f-07c787a90e98.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Storm Dave hits road and rail travel but is set to ease</title>
+      <link>https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Storm Dave will clear northeast on Easter Sunday, bringing "sunshine and showers" to much of the country.</summary>
+      <pubDate>Sun, 05 Apr 2026 06:20:42 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ba/live/9dd38c90-302b-11f1-9cbd-37c700a63936.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
