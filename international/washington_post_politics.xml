@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-05T02:01:06.159588</generated>
+  <generated>2026-04-05T04:00:55.959877</generated>
   <items>
     <item>
       <title>Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member</title>
@@ -23,13 +23,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/03/trump-iran-midterms-gas-prices/</link>
       <summary>The president is in a precarious political moment seven months before the midterm elections, facing some of his lowest approval ratings and presiding over an unpopular war.</summary>
       <pubDate>Fri, 03 Apr 2026 14:26:05 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Hegseth forces out Army’s top general, two other senior officers</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/02/hegseth-ousts-army-general-randy-george/</link>
-      <summary>Gen. Randy George’s ouster is the latest clash between the Pentagon chief and the service’s senior leadership, and comes during the war in Iran.</summary>
-      <pubDate>Thu, 02 Apr 2026 23:41:35 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -61,17 +54,24 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>Panel led by Trump allies approves White House ballroom amid legal battle</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/02/trump-ballroom-federal-review-commission/</link>
-      <summary>The vote by the National Capital Planning Commission on Thursday marked the final procedural hurdle for President Donald Trump’s plans.</summary>
-      <pubDate>Thu, 02 Apr 2026 23:49:24 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Todd Blanche takes on DOJ’s top job and the burden of Trump’s expectations</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/03/todd-blanche-doj-bondi-trump/</link>
       <summary>After Trump ousted Pam Bondi, her deputy is set to lead the department — and take on many of the same challenges.</summary>
       <pubDate>Sat, 04 Apr 2026 00:21:56 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Justice Alito ‘felt ill’ at March event, was examined by doctor, court says</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/03/supreme-court-justice-alito-sick-doctor/</link>
+      <summary>Alito’s security detail recommended examination “out of an abundance of caution” before his three-hour drive home from Philadelphia, the Supreme Court said.</summary>
+      <pubDate>Fri, 03 Apr 2026 20:01:07 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump issues order attempting to change rules for mail-in voting</title>
+      <link>https://www.washingtonpost.com/politics/2026/03/31/trump-mail-voting-executive-order/</link>
+      <summary>The order calls for limiting mail ballots and using federal data to compile lists of eligible voters – moves experts say exceed his constitutional authority.</summary>
+      <pubDate>Fri, 03 Apr 2026 18:26:12 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

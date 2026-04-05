@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-05T02:01:03.645107</generated>
+  <generated>2026-04-05T04:00:53.273472</generated>
   <items>
-    <item>
-      <title>US and Iran trade threats to unleash 'hell' as search for missing US airman continues</title>
-      <link>https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Donald Trump wants Iran to strike a deal and to open the strategic Strait of Hormuz whose closure has led to a spike in oil prices.</summary>
-      <pubDate>Sat, 04 Apr 2026 22:54:06 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e76/live/3d4d3850-306f-11f1-9582-d1ec97d5b335.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Australians told to continue Easter travel plans despite fuel shortages</title>
       <link>https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US and Iran trade threats to unleash 'hell' as search for missing US airman continues</title>
+      <link>https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.</summary>
+      <pubDate>Sat, 04 Apr 2026 22:54:06 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e76/live/3d4d3850-306f-11f1-9582-d1ec97d5b335.png</image>
         <type>image/jpeg</type>
       </media>
     </item>

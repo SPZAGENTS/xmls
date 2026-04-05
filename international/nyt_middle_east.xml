@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-05T02:01:07.331541</generated>
+  <generated>2026-04-05T04:00:57.170520</generated>
   <items>
+    <item>
+      <title>Israel Strikes Iran’s Largest Petrochemical Complex</title>
+      <link>https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html</link>
+      <summary>The sprawling complex in the city of Mahshahr was taken offline after strikes hit two utility plants that provided basic services like gas and power, Iranian officials said.</summary>
+      <pubDate>Sat, 04 Apr 2026 23:58:37 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-MAHSHAHR/04ISRAEL-IRAN-MAHSHAHR-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html</link>
@@ -41,7 +52,7 @@
       <title>‘Iran Is Being Destroyed in Front of Our Eyes’: Tehran Is Gripped by Fear</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-is-being-destroyed-in-front-of-our-eyes-tehran-is-gripped-by-fear.html</link>
       <summary>Fifteen residents of Tehran said in telephone interviews and text messages that the capital was weathering heavy bombardment.</summary>
-      <pubDate>Sat, 04 Apr 2026 17:40:54 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2026 17:40:55 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-tehran-voices3/03dc-endless-02-qhgt-mediumSquareAt3X.jpg</image>
@@ -74,7 +85,7 @@
       <title>Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones</title>
       <link>https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html</link>
       <summary>Iran has sent waves of missiles and drones at Israel and Gulf states in recent weeks and shot down an American fighter jet on Friday.</summary>
-      <pubDate>Fri, 03 Apr 2026 21:53:54 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 00:17:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-capabilities1-bjvc/03israel-iran-capabilities1-bjvc-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-intel-zblq/03dc-intel-zblq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The F-15E Strike Eagle: What to Know</title>
-      <link>https://www.nytimes.com/2026/04/03/world/middleeast/f15e-strike-eagle.html</link>
-      <summary>The U.S. military aircraft with a two-person crew was shot down in Iran on Friday.</summary>
-      <pubDate>Fri, 03 Apr 2026 21:55:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03israel-iran-F15-explainer-topart-bcpv/03israel-iran-F15-explainer-topart-bcpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

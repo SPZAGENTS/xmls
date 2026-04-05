@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-05T02:01:11.039173</generated>
+  <generated>2026-04-05T04:01:01.182508</generated>
   <items>
     <item>
-      <title>Iran live updates: Search for missing US crew member enters 2nd day</title>
+      <title>Iran live updates: Search for missing US crew member intensifies</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Sat, 04 Apr 2026 18:26:52 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2026 20:16:12 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-34-ht-gmh-260403_1775242505239_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>White House asks for record-breaking $1.5 trillion for defense in new budget request</title>
-      <link>https://abcnews.com/Politics/white-house-asks-record-breaking-15-trillion-defense/story?id=131683487</link>
-      <summary>The White House is asking Congress to approve roughly $1.5 trillion for defense -- a record-breaking amount as the U.S. remains in its fifth week of war with Iran.</summary>
-      <pubDate>Fri, 03 Apr 2026 12:24:19 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-16-gty-gmh-04012026_1775092207741_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260403_abc_social_jobs_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Artemis II live updates: Astronauts closer to the moon than Earth, NASA says</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II is carrying a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Sat, 04 Apr 2026 19:41:20 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/nasa-earth-window-02-ht-jt-260404_1775324524887_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
