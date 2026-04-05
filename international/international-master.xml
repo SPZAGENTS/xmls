@@ -2,42 +2,9 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-05T12:01:02.806562</generated>
-  <total_articles>332</total_articles>
+  <generated>2026-04-05T14:01:05.453079</generated>
+  <total_articles>331</total_articles>
   <items>
-    <item>
-      <title>'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge</title>
-      <link>https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.</summary>
-      <pubDate>Fri, 03 Apr 2026 10:35:55 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f9/live/5b149340-2f45-11f1-934f-036468834728.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>When will the Iran war end? Tracing the Trump administration's timelines</title>
-      <link>https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.</summary>
-      <pubDate>Fri, 03 Apr 2026 11:28:34 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c95/live/56b83840-2ee8-11f1-a79a-77e93010d956.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump's 'hellfire ultimatum' to Iran and 'PM slams Kanye gig'</title>
-      <link>https://www.bbc.com/news/articles/c0e79re1w89o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The ongoing US-Israeli war against Iran and a Kanye West gig are top stories in the papers this Sunday.</summary>
-      <pubDate>Sun, 05 Apr 2026 04:36:03 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/3c89c040-307a-11f1-a79a-77e93010d956.png</image>
-      </media>
-    </item>
     <item>
       <title>US warns its citizens to leave Lebanon citing escalating security risks</title>
       <link>https://www.bbc.com/news/articles/c93e9r62py4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -113,6 +80,39 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Iranian Nobel laureate suffered suspected heart attack in prison, family says</title>
+      <link>https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.</summary>
+      <pubDate>Thu, 02 Apr 2026 16:00:58 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d1/live/c0b9dad0-2e90-11f1-a4cb-179d6842c4b9.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Trump says Iran war objectives 'nearing completion' in address to nation</title>
+      <link>https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president's first televised address of the conflict with Iran did little to quell uneasy markets.</summary>
+      <pubDate>Thu, 02 Apr 2026 11:33:18 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3901/live/3d965d90-2e72-11f1-8a66-65c63934aa34.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>When will the Iran war end? Tracing the Trump administration's timelines</title>
+      <link>https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.</summary>
+      <pubDate>Fri, 03 Apr 2026 11:28:34 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c95/live/56b83840-2ee8-11f1-a79a-77e93010d956.jpg</image>
       </media>
     </item>
   </items>

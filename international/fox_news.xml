@@ -2,27 +2,16 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-05T12:00:52.466103</generated>
+  <generated>2026-04-05T14:00:54.954572</generated>
   <items>
     <item>
-      <title>FBI's Patel delivers blunt warning to law enforcement attackers: 'We're going to put you down'</title>
-      <link>https://www.foxnews.com/politics/fbi-patel-delivers-blunt-warning-law-enforcement-attackers</link>
-      <summary>FBI Director Kash Patel vowed to &amp;quot;put down&amp;quot; anyone who touches a cop, warning criminals will face the full force of law enforcement nationwide.</summary>
-      <pubDate>Sat, 04 Apr 2026 17:34:37 -0400</pubDate>
-      <priority>100</priority>
+      <title>Artemis II astronauts face toilet trouble as they head toward the moon</title>
+      <link>https://www.foxnews.com/us/artemis-ii-astronauts-face-toilet-trouble-head-toward-moon</link>
+      <summary>The Artemis II crew is experiencing a recurring toilet malfunction on the Orion spacecraft due to a suspected ice blockage during their 10-day trip to orbit the moon.</summary>
+      <pubDate>Sun, 05 Apr 2026 04:59:55 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/fbi-kash-patel.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ex-NATO ambassador warns US and allies must 'stop the sniping' and unite to end Iran conflict</title>
-      <link>https://www.foxnews.com/media/ex-nato-ambassador-warns-us-allies-must-stop-sniping-unite-end-iran-conflict</link>
-      <summary>Former U.S. Ambassador to NATO Kurt Volker said the United States and its allies must &amp;quot;stop the sniping&amp;quot; and work together to end the conflict with Iran on &amp;quot;Fox News Live.&amp;quot;</summary>
-      <pubDate>Sat, 04 Apr 2026 16:28:02 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-NATO-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nasa-artemis-ii-astronauts-moon-mission.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +23,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/aperitivo-outdoor-gelateria-sirmione-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Easter duck-hunting trip in New Orleans turns nearly deadly until last-minute prayer brings miracle</title>
+      <link>https://www.foxnews.com/lifestyle/easter-duck-hunting-trip-new-orleans-turns-nearly-deadly-until-last-minute-prayer-brings-miracle</link>
+      <summary>A near-death experience during a duck hunting trip across the bay from New Orleans leads a stubborn skeptic to faith, love and a second chance at life.</summary>
+      <pubDate>Sun, 05 Apr 2026 06:00:42 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/new-orleans-istock.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +60,24 @@
       </media>
     </item>
     <item>
-      <title>Dan Hurley’s wife calls out St John’s fans for rooting against UConn in March Madness</title>
-      <link>https://www.foxnews.com/sports/dan-hurleys-wife-calls-st-johns-fans-rooting-uconn-march-madness</link>
-      <summary>Dan Hurley&amp;apos;s wife Andrea says St. John&amp;apos;s fans rooted against UConn, suggesting it was heartbreaking as the Huskies head to the Final Four against Illinois.</summary>
-      <pubDate>Sat, 04 Apr 2026 17:09:51 -0400</pubDate>
-      <priority>80</priority>
+      <title>Man who put up $100K to find Nancy Guthrie says tipsters should skip the sheriff and call Crime Stoppers</title>
+      <link>https://www.foxnews.com/us/man-put-100k-find-nancy-guthrie-says-tipsters-skip-sheriff-call-crime-stoppers</link>
+      <summary>Crime Stoppers is offering a $102,500 reward for anonymous tips in the case of Nancy Guthrie, who was allegedly taken from her Tucson home in February.</summary>
+      <pubDate>Sun, 05 Apr 2026 06:00:22 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/uconn-dan-hurley-final-four-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/savannah-guthrie-ransom-blood-search-for-nancy-guthrie-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kamala Harris' travels and comments clearly point to 2028</title>
+      <link>https://www.foxnews.com/politics/kamala-harris-travels-comments-clearly-point-2028</link>
+      <summary>Former Vice President Kamala Harris heads to a major Democratic cattle call event, fueling growing speculation about a potential 2028 White House run.</summary>
+      <pubDate>Sun, 05 Apr 2026 05:00:20 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/kamala-harris-smile.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/paul-mccartney-linda-mccartney.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>AI-Driven school expanding to major US cities despite union pushback</title>
-      <link>https://www.foxnews.com/media/ai-driven-school-expanding-major-us-cities-despite-union-pushback</link>
-      <summary>Alpha Schools is expanding its AI-driven model nationwide this fall, but researchers say the approach is untested and Pennsylvania rejected its charter school application.</summary>
-      <pubDate>Sat, 04 Apr 2026 19:00:06 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/students-classroom.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

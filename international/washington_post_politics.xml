@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-05T12:00:54.862424</generated>
+  <generated>2026-04-05T14:00:57.617950</generated>
   <items>
     <item>
       <title>Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member</title>
@@ -47,13 +47,6 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>How Trump came to re-endorse a Republican congressman he had just ditched</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/03/trump-jeff-hurd-endorsement/</link>
-      <summary>House leaders and lobbyists rallied around Rep. Jeff Hurd (Colorado) after Trump, angry about Hurd’s vote against tariffs, withdrew support for his reelection.</summary>
-      <pubDate>Fri, 03 Apr 2026 09:00:21 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Todd Blanche takes on DOJ’s top job and the burden of Trump’s expectations</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/03/todd-blanche-doj-bondi-trump/</link>
       <summary>After Trump ousted Pam Bondi, her deputy is set to lead the department — and take on many of the same challenges.</summary>
@@ -73,6 +66,13 @@
       <summary>The order calls for limiting mail ballots and using federal data to compile lists of eligible voters – moves experts say exceed his constitutional authority.</summary>
       <pubDate>Fri, 03 Apr 2026 18:26:12 +0000</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Epstein victims demand meeting with King Charles in Washington</title>
+      <link>https://www.washingtonpost.com/world/2026/04/04/king-charles-epstein-victims-state-visit/</link>
+      <summary>A state visit intended to mark 250 years of U.S. independence could become a test of the British monarchy’s willingness to confront one of its most difficult controversies.</summary>
+      <pubDate>Sat, 04 Apr 2026 09:00:48 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
