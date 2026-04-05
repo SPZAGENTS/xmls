@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-05T16:01:12.526420</generated>
+  <generated>2026-04-05T18:00:54.664830</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says</title>
+      <title>Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman</title>
       <link>https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news</link>
-      <summary>The rescue followed a two-day race between U.S. and Iranian forces to reach the injured airman, officials said. On Saturday, Israel attacked Iran’s largest petrochemical industrial complex.</summary>
-      <pubDate>Sun, 05 Apr 2026 12:33:44 +0000</pubDate>
+      <summary>President Trump used an expletive-laden social media post to taunt Iranian leaders, saying that the United States would attack if they did not fully reopen the Strait of Hormuz.</summary>
+      <pubDate>Sun, 05 Apr 2026 14:53:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/05/multimedia/05mideast-blog-promo-745am-ET/05mideast-blog-header-pjtv-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>In New Threats, Trump Seems Emboldened by a Successful Rescue</title>
+      <link>https://www.nytimes.com/2026/04/05/world/middleeast/trump-truth-social-post-iran-allah-strait-of-hormuz.html</link>
+      <summary>In an expletive-filled social media post, Mr. Trump said Iran should open the Strait of Hormuz or he will bomb bridges and power plants.</summary>
+      <pubDate>Sun, 05 Apr 2026 14:53:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/05/multimedia/05israel-iran-Trump-truth-social-btvl/05israel-iran-Trump-truth-social-btvl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html</link>
       <summary>The U.S. military’s search-and-rescue operation for a missing American airman entered its second day. The Israeli military struck a major petrochemical complex in Iran.</summary>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-MAHSHAHR/04ISRAEL-IRAN-MAHSHAHR-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</title>
-      <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html</link>
-      <summary>A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.</summary>
-      <pubDate>Sat, 04 Apr 2026 16:43:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-britain-bases-topart-lwfg/04israel-iran-britain-bases-topart-lwfg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
