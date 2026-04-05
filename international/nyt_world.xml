@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt World — Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-05T10:00:55.886060</generated>
+  <generated>2026-04-05T12:00:55.493587</generated>
   <items>
+    <item>
+      <title>Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says</title>
+      <link>https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news</link>
+      <summary>The rescue followed a two-day race between U.S. and Iranian forces to reach the injured airman, officials said. On Saturday, Israel attacked Iran’s largest petrochemical industrial complex.</summary>
+      <pubDate>Sun, 05 Apr 2026 08:40:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/05/multimedia/05mideast-blog-promo-445am-ET-vhqt/05mideast-blog-promo-445am-ET-vhqt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iranians Seek Respite in Nature Amid the War</title>
       <link>https://www.nytimes.com/2026/04/04/world/europe/iranian-respite-war.html</link>
@@ -12,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/02/multimedia/02int-Iran-Nowruz-Photos-01-jmcz/02int-Iran-Nowruz-Photos-01-jmcz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Rescues Downed Air Force Officer Deep Inside Iran, Trump Says</title>
-      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news</link>
-      <summary>American commandos carried out a risky mission in Iran to extract an injured crew member who bailed out when a U.S. fighter jet was shot down on Friday.</summary>
-      <pubDate>Sun, 05 Apr 2026 06:37:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/05/multimedia/05iran-promo-1amET-wmlq/05iran-promo-1amET-wmlq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post</title>
-      <link>https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html</link>
-      <summary>Rima Hassan, a member of the European Parliament, could face seven years in prison for the post, in which she quoted a perpetrator of a 1972 massacre in Israel.</summary>
-      <pubDate>Sat, 04 Apr 2026 10:45:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03france-arrest-01-zptj/03france-arrest-01-zptj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Here’s What Happened in the War in the Middle East on Saturday</title>
       <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html</link>
       <summary>The U.S. military’s search-and-rescue operation for a missing American airman entered its second day. The Israeli military struck a major petrochemical complex in Iran.</summary>
@@ -93,6 +82,28 @@
       </media>
     </item>
     <item>
+      <title>U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</title>
+      <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html</link>
+      <summary>A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.</summary>
+      <pubDate>Sat, 04 Apr 2026 16:43:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-britain-bases-topart-lwfg/04israel-iran-britain-bases-topart-lwfg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.</title>
+      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker</link>
+      <summary>There was no reported increase in radiation levels. A string of recent attacks near the Persian Gulf facility has fueled fears of a nuclear accident.</summary>
+      <pubDate>Sat, 04 Apr 2026 14:27:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances</title>
       <link>https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html</link>
       <summary>A fourth suspect was arrested after showing up at a hearing for the defendants, the police said. The March attack was widely condemned but has not been declared a terrorist incident.</summary>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04int-uk-ambulances-01-wblg/04int-uk-ambulances-01-wblg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China Built the World’s Drone Industry. Now It’s Locking Down the Skies.</title>
-      <link>https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html</link>
-      <summary>The Chinese government tightened rules to curb what it described as illegal drone use, but some users say the changes are now restricting too many flights.</summary>
-      <pubDate>Sun, 05 Apr 2026 04:01:08 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/05/world/05int-china-drones/05int-china-drones-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

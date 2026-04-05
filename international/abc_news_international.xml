@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-05T10:01:01.177949</generated>
+  <generated>2026-04-05T12:01:00.925964</generated>
   <items>
     <item>
       <title>Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot</title>
@@ -16,10 +16,21 @@
       </media>
     </item>
     <item>
+      <title>A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP</title>
+      <link>https://abcnews.com/International/wireStory/long-mideast-war-support-ukraine-zelenskyy-tells-ap-131739662</link>
+      <summary>Ukrainian President Volodymyr Zelenskyy is concerned that a prolonged U.S.-Israeli war on Iran could erode America's support for Ukraine as Washington's global priorities shift</summary>
+      <pubDate>Sun, 05 Apr 2026 04:05:17 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_584e73848c0ca1008824c399b8026487_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Aid groups warn Iran war is hindering food and medicine from reaching millions</title>
       <link>https://abcnews.com/International/wireStory/aid-groups-warn-iran-war-hindering-food-medicine-131739756</link>
       <summary>Aid groups are warning that the war in the Middle East has upended their ability to get food and medicine to millions in need and that more people will suffer if the violence continues</summary>
-      <pubDate>Sun, 05 Apr 2026 01:33:50 -0400</pubDate>
+      <pubDate>Sun, 05 Apr 2026 01:57:42 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_eae99c347456ced2989e9f253448b56b_4x3_384.jpg</image>
@@ -85,7 +96,7 @@
       <title>Choirs seek to protect a musical tradition little changed since Queen Elizabeth I</title>
       <link>https://abcnews.com/International/wireStory/english-choirs-seek-protect-musical-tradition-changed-queen-131738929</link>
       <summary>A campaign is underway to protect England's choral music tradition, which has thrived for nearly 500 years</summary>
-      <pubDate>Sun, 05 Apr 2026 01:12:46 -0400</pubDate>
+      <pubDate>Sun, 05 Apr 2026 01:57:31 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_36c2232d5653e9aa70f27b7be1729740_4x3_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_46489e01bbf0c9f5ab639c05fec446c8_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>AI machine sorts clothes faster than humans to boost textile recycling in China</title>
-      <link>https://abcnews.com/International/wireStory/ai-machine-sorts-clothes-faster-humans-boost-textile-131637633</link>
-      <summary>A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling</summary>
-      <pubDate>Thu, 02 Apr 2026 02:31:25 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
