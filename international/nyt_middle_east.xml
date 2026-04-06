@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-06T02:01:02.856502</generated>
+  <generated>2026-04-06T04:00:57.478070</generated>
   <items>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Sunday</title>
+      <link>https://www.nytimes.com/2026/04/05/world/middleeast/iran-israel-us-war-middle-east.html</link>
+      <summary>President Trump taunted Iran on social media, while strikes continued in Iran, Israel, Lebanon and some Gulf states.</summary>
+      <pubDate>Mon, 06 Apr 2026 00:56:28 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/05/multimedia/05israel-iran-front-by-front-mcbf/05israel-iran-front-by-front-mcbf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump’s Lesson From Risky Rescue: Threaten to Go Harder at Iran</title>
       <link>https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How</title>
-      <link>https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html</link>
-      <summary>President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.</summary>
-      <pubDate>Sat, 04 Apr 2026 17:29:58 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/03dc-endless-01-vlmq/03dc-endless-01-vlmq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

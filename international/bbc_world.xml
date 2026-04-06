@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World — Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-06T02:00:56.883075</generated>
+  <generated>2026-04-06T04:00:52.861539</generated>
   <items>
-    <item>
-      <title>Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom</title>
-      <link>https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.</summary>
-      <pubDate>Sun, 05 Apr 2026 20:02:01 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Australians told to continue Easter travel plans despite fuel shortages</title>
       <link>https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -30,7 +19,7 @@
       <title>Trump issues expletive-laden threat to Iran over Hormuz Strait blockage</title>
       <link>https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.</summary>
-      <pubDate>Sun, 05 Apr 2026 21:10:06 GMT</pubDate>
+      <pubDate>Mon, 06 Apr 2026 00:01:55 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8493/live/fba08020-313a-11f1-819d-c96a4978551d.jpg</image>
@@ -45,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump declares victory after rescue but threats to US operation in Iran still loom</title>
+      <link>https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.</summary>
+      <pubDate>Mon, 06 Apr 2026 00:23:16 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

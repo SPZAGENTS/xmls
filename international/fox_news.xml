@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News — Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-06T02:00:57.480820</generated>
+  <generated>2026-04-06T04:00:53.444000</generated>
   <items>
     <item>
       <title>Airman rescue shows US can penetrate enemy territory 'anywhere' in Iran, former Pentagon official warns</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/f15e-strike-eagle-takeoff-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Warnock likens pro-Trump Christian leaders to those who used Scripture to defend slavery</title>
+      <link>https://www.foxnews.com/media/warnock-likens-pro-trump-christian-leaders-those-who-used-scripture-defend-slavery</link>
+      <summary>Sen. Warnock compares Christian leaders backing Trump to those who justified slavery, saying their faith-based support for the president is misguided.</summary>
+      <pubDate>Sun, 05 Apr 2026 19:46:53 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/08/931/523/DNC-Kamala-Harris-Chicago-Day-1_120.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/savannah-guthrie-easter-2026-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Lola Vice ascends to top of WWE NXT women's division, picking up women's title at Stand &amp; Deliver</title>
-      <link>https://www.foxnews.com/sports/lola-vice-ascends-top-wwe-nxt-womens-division-picking-womens-title-stand-deliver</link>
-      <summary>Lola Vice wins the NXT Women&amp;apos;s Championship in a triple threat match against Jacy Jayne and Kendal Grey at WWE NXT Stand &amp;amp; Deliver in St. Louis.</summary>
-      <pubDate>Sun, 05 Apr 2026 13:56:02 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/lola-vice-kendal-grey-nxt-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
