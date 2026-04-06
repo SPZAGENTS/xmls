@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-06T10:01:08.803757</generated>
+  <generated>2026-04-06T12:01:00.116402</generated>
   <items>
     <item>
       <title>Iran live updates: Casualties reported from missile strikes in Israel</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 06 Apr 2026 02:43:21 -0400</pubDate>
+      <pubDate>Mon, 06 Apr 2026 04:52:28 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Haifa-impact-DB-260406_1775453984328_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jeffries 'thankful' US airman was rescued but criticizes 'reckless and costly war'</title>
-      <link>https://abcnews.com/Politics/jeffries-thankful-us-airman-rescued-criticizes-reckless-costly/story?id=131741483</link>
-      <summary>House Minority Leader Hakeem Jeffries called the rescue of a U.S. airman in Iran "heroic," but continued to criticize what he called a "war of choice" with Iran.</summary>
-      <pubDate>Sun, 05 Apr 2026 14:59:55 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/iran-flag-20260405-gty-jh_1775394099906_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260403_abc_social_jobs_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Artemis II live updates: Crew prepare for lunar flyby on Monday</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II is carrying a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Mon, 06 Apr 2026 03:47:48 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/Artemis-moon-DB-260406_1775458667334_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Dazzling outfits and colorful hats shine at New York Easter parade, in photos</title>
-      <link>https://abcnews.com/US/wireStory/dazzling-outfits-colorful-hats-shine-new-york-easter-131755308</link>
-      <summary>People wearing decorated hats and costumes participated in an Easter parade on Fifth Avenue in New York on Sunday. ___ This is a photo gallery curated by AP photo editors.</summary>
-      <pubDate>Mon, 06 Apr 2026 00:15:55 -0400</pubDate>
+      <title>30 passengers evacuate after cruise ship runs aground on a reef in Fiji</title>
+      <link>https://abcnews.com/International/wireStory/30-passengers-evacuate-after-cruise-ship-runs-aground-131757081</link>
+      <summary>Thirty passengers have been evacuated from a cruise ship that ran aground on a reef in Fiji</summary>
+      <pubDate>Mon, 06 Apr 2026 02:55:45 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/wirestory_4ffda6258dfa2b8b22f4e06bbaec7c92_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
