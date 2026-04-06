@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World — Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-06T08:02:47.757874</generated>
+  <generated>2026-04-06T10:01:05.278199</generated>
   <items>
     <item>
       <title>A day in the life of Asia’s fuel crisis</title>
@@ -45,6 +45,17 @@
       <priority>95</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/0f6ef6d19a97c1d325787526f55025c6be4a1d23/324_0_4280_3425/master/4280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd56381112a453bd1bff2de85b8b1291</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Man’s body found after being swept away in outback flood waters</title>
+      <link>https://www.theguardian.com/australia-news/2026/apr/06/mans-body-found-swept-away-innamincka-outback-australia-flood</link>
+      <summary>Three-day search effort ends after 65-year-old disappeared near Innamincka in remote north-eastern South Australia on Easter SaturdayGet our breaking news email, free app or daily news podcastPolice have found the body of a 65-year-old man who was swept into flood waters in So...</summary>
+      <pubDate>Mon, 06 Apr 2026 06:17:58 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/2281332a1ca6a32c6fa6cf92f1b2a29b1ec3e11b/289_0_4382_3507/master/4382.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f285b42aef928ab938980de3a99f7c3</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>85</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/21b4d3fd5eb29e85ac1894250eab5708ee2a8697/281_0_2800_2241/master/2800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5b862298b6dfd0b46ac8474855e9cbd</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>One dead and dozens injured at Peru football stadium during pre-match event</title>
-      <link>https://www.theguardian.com/world/2026/apr/04/lima-football-stadium-pre-match-event-injured-dead</link>
-      <summary>Initial reports suggested parts of arena’s wall had collapsed, but Alianza Lima says there were no structural failuresOne person has been killed and dozens more injured at the Alejandro Villanueva Stadium in Lima, Peru, according to the football club Alianza Lima.Hundreds of f...</summary>
-      <pubDate>Sat, 04 Apr 2026 10:00:05 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/067f9149a3a631d30e9862e9dffd8b449fc3e49e/474_0_4718_3777/master/4718.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a70c42ca0670f0f49146a2c2baca439</image>
         <type>image/jpeg</type>
       </media>
     </item>

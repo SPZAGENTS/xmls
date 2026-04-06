@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-06T08:02:52.286044</generated>
+  <generated>2026-04-06T10:01:09.682646</generated>
   <items>
     <item>
       <title>A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_584e73848c0ca1008824c399b8026487_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump issues an expletive-filled threat against Iran as details of US aviator's rescue emerge</title>
+      <link>https://abcnews.com/International/wireStory/trump-issues-expletive-filled-threat-iran-details-us-131738935</link>
+      <summary>U.S. President Donald Trump has issued an expletive-filled threat to escalate strikes on Iran if it doesn&amp;rsquo;t open the Strait of Hormuz by his Tuesday deadline</summary>
+      <pubDate>Mon, 06 Apr 2026 02:48:26 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_cf4a792196259d6e9c066d0be1c57962_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Displaced by war, Lebanon's Christians mark Easter far from their homes and churches</title>
+      <link>https://abcnews.com/International/wireStory/displaced-war-lebanons-christians-mark-easter-homes-churches-131742006</link>
+      <summary>Many Lebanese Christians are marking Easter far from their homes and churches, displaced by Israel's war with the militant Hezbollah group</summary>
+      <pubDate>Mon, 06 Apr 2026 02:54:31 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_936e2d8636610149ef1700f6fccdd7c4_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot</title>
       <link>https://abcnews.com/International/wireStory/iran-calls-public-find-enemy-pilot-us-continues-131720410</link>
       <summary>U_S_ President Donald Trump has again warned Tehran over his Monday deadline to open the crucial Strait of Hormuz and allow ship traffic to flow again, and Iran has responded by threatening to open &amp;ldquo;the gates of hell.&amp;rdquo;</summary>
@@ -38,13 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions</title>
-      <link>https://abcnews.com/International/wireStory/lebanons-displaced-shiites-face-rising-hostility-airstrikes-fuel-131678027</link>
-      <summary>A growing number of Shiite families displaced by the war in Lebanon say they&amp;rsquo;re being pushed out of towns where they feel unwelcome</summary>
-      <pubDate>Fri, 03 Apr 2026 03:30:51 -0400</pubDate>
-      <priority>100</priority>
+      <title>After harsh winter, Ukrainians find joy in releasing bats rescued from war</title>
+      <link>https://abcnews.com/International/wireStory/after-harsh-winter-ukrainians-find-joy-releasing-bats-131756819</link>
+      <summary>Children and volunteers gathered at a nature park on the edge of Kyiv to release bats into the night sky</summary>
+      <pubDate>Mon, 06 Apr 2026 01:57:16 -0400</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_fe533bddfbdc8fa0e0ce892a241bbf69_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_810fc1d18dfee2db1a1e34ba2f17f136_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,46 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says</title>
-      <link>https://abcnews.com/International/wireStory/paramilitary-forces-sudan-kill-10-people-hospital-drone-131679213</link>
-      <summary>The Rapid Support Forces killed at least 10 people in a drone attack on a Sudanese hospital, according to a medical group</summary>
-      <pubDate>Fri, 03 Apr 2026 07:31:13 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_8b4a43addd4acb65176b72686b7f4958_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Christians mark Holy Week in the region and other top photos from Latin America and the Caribbean</title>
-      <link>https://abcnews.com/International/wireStory/christians-mark-holy-week-region-top-photos-latin-131677921</link>
-      <summary>March 27 - April 2, 2026 People around Latin America and the Caribbean marked Holy Week with colorful processions and other traditional displays. The 69 members of the security forces who died in a military plane crash in Colombia were honored in a solemn ceremony in Bogota. T...</summary>
-      <pubDate>Fri, 03 Apr 2026 03:31:11 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_bae5c6ee90e47f93738a55dd68097131_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>3 killed as high winds topple a tree on an Easter egg hunt in Germany</title>
       <link>https://abcnews.com/International/wireStory/3-killed-high-winds-topple-tree-easter-egg-131743996</link>
       <summary>German police say three people, including a 10-month-old girl, were killed.</summary>
-      <pubDate>Sun, 05 Apr 2026 10:21:14 -0400</pubDate>
+      <pubDate>Sun, 05 Apr 2026 13:01:16 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China says peace talks between Afghanistan and Pakistan are advancing</title>
-      <link>https://abcnews.com/International/wireStory/china-peace-talks-afghanistan-pakistan-advancing-131680013</link>
-      <summary>Peace talks between Afghanistan&amp;rsquo;s Taliban government and Pakistan are advancing, China&amp;rsquo;s government said, two days after those countries resumed conversations after weeks of fighting that have killed hundreds</summary>
-      <pubDate>Fri, 03 Apr 2026 08:17:36 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_0e958d0c36d9a3b513698361035c6751_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,10 +96,21 @@
       <title>Pope Leo marks first Easter as pontiff with call for hope amid global conflicts</title>
       <link>https://abcnews.com/International/wireStory/pope-leo-marks-easter-pontiff-call-hope-amid-131740375</link>
       <summary>He is calling for an end to conflicts worldwide.</summary>
-      <pubDate>Sun, 05 Apr 2026 10:27:25 -0400</pubDate>
+      <pubDate>Sun, 05 Apr 2026 14:29:07 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_611de44cf58ffa153f00ae1145ad3130_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>France condemns China's execution of a French citizen held on death row for 15 years</title>
+      <link>https://abcnews.com/International/wireStory/france-condemns-chinas-execution-french-citizen-held-death-131740553</link>
+      <summary>France says China has executed a French citizen convicted of drug trafficking after more than 15 years on death row</summary>
+      <pubDate>Sun, 05 Apr 2026 07:25:15 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
