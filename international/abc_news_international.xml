@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-06T16:01:04.999427</generated>
+  <generated>2026-04-06T18:01:02.320469</generated>
   <items>
     <item>
-      <title>A Russian attack kills 3 in Odesa while Ukraine targets Russian oil infrastructure, officials say</title>
+      <title>Russian attacks kill 4 as Ukraine drones target oil infrastructure</title>
       <link>https://abcnews.com/International/wireStory/russian-attack-kills-3-odesa-ukraine-targets-russian-131757459</link>
       <summary>Ukrainian officials say a Russian drone attack on Odesa has killed two women and a toddler</summary>
-      <pubDate>Mon, 06 Apr 2026 07:09:18 -0400</pubDate>
+      <pubDate>Mon, 06 Apr 2026 09:09:17 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_e455aee8c725ef624bf23ddf1542c523_4x3_384.jpg</image>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Displaced by war, Lebanon's Christians mark Easter far from their homes and churches</title>
-      <link>https://abcnews.com/International/wireStory/displaced-war-lebanons-christians-mark-easter-homes-churches-131742006</link>
-      <summary>Many Lebanese Christians are marking Easter far from their homes and churches, displaced by Israel's war with the militant Hezbollah group</summary>
-      <pubDate>Mon, 06 Apr 2026 02:54:31 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_936e2d8636610149ef1700f6fccdd7c4_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Nigerian military and officials say at least 26 killed in 3 weekend attacks on civilians and police</title>
       <link>https://abcnews.com/International/wireStory/nigerian-military-officials-26-killed-3-weekend-attacks-131757480</link>
       <summary>At least 26 people have been killed in three separate Easter attacks in northern Nigeria</summary>
@@ -67,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A 12-hour drive through Iran offers glimpses of destruction, defiance and daily life</title>
+      <link>https://abcnews.com/International/wireStory/12-hour-drive-iran-offers-glimpses-destruction-defiance-131760098</link>
+      <summary>A black banner hangs over the border crossing and portraits of Iran&amp;rsquo;s slain Supreme Leader Ayatollah Ali Khamenei stare down, promising vengeance against the United States and Israel</summary>
+      <pubDate>Mon, 06 Apr 2026 09:17:13 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_712a964141a72724971765850ca675ca_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
