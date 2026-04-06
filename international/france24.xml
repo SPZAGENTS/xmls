@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 — Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-06T18:00:58.832269</generated>
+  <generated>2026-04-06T20:06:37.033431</generated>
   <items>
+    <item>
+      <title>Lebanon says Israeli strikes hit south Beirut, country's south</title>
+      <link>https://www.france24.com/en/lebanon-says-israeli-strikes-hit-south-beirut-country-s-south</link>
+      <summary>An Israeli strike hit Beirut's southern suburbs on Monday as Israel's army said it was targeting Iran-backed militant group Hezbollah, while Lebanon reported broad strikes in the country's south.</summary>
+      <pubDate>Mon, 06 Apr 2026 15:25:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/aa2510f8-31cb-11f1-ad0f-005056bf30b7/w:1024/p:16x9/EN-20260406-170422-170605-CS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israeli strikes kill Iran Guards intel chief as Trump deadline looms</title>
       <link>https://www.france24.com/en/israeli-strikes-kill-iran-guards-intel-chief-as-trump-deadline-looms</link>
@@ -60,46 +71,13 @@
       </media>
     </item>
     <item>
-      <title>War in the Middle East: Donald Trump threatens to hit Iran power plants</title>
-      <link>https://www.france24.com/en/war-in-the-middle-east-donald-trump-threatens-to-hit-iran-power-plants</link>
-      <summary>Israeli strikes killed the intelligence chief of Iran's Revolutionary Guards, as the Islamic republic on Monday defied threats from US President Donald Trump to devastate civilian infrastructure if it does not reopen the Strait of Hormuz.</summary>
-      <pubDate>Mon, 06 Apr 2026 09:29:30 GMT</pubDate>
-      <priority>100</priority>
+      <title>Follow live: Artemis II begins its final lunar flyby</title>
+      <link>https://www.france24.com/en/europe/20260406-follow-live-artemis-ii-begins-its-final-lunar-flyby</link>
+      <summary>Artemis II begins its final lunar flyby Monday to set a new distance record from Earth promising magnificent views of the far side of the moon. During the lunar flyby, which will last for several hours, the crew will study specific lunar sites and phenomena as part of a 10-goa...</summary>
+      <pubDate>Mon, 06 Apr 2026 16:13:59 GMT</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.france24.com/media/display/715656be-319a-11f1-af8a-005056bf30b7/w:1024/p:16x9/EN-20260406-090228-090419-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Could China's adoption of electric vehicles shield it from the energy crisis?</title>
-      <link>https://www.france24.com/en/tv-shows/business/20260406-could-china-s-adoption-of-electric-vehicles-shield-it-from-the-energy-crisis</link>
-      <summary>As crude prices hover around the $110 per barrel mark on Monday morning, consumers worldwide are feeling the impact of the war in Iran and the closure of the Hormuz Strait when they head to the petrol pump. In China, where more than half of new car sales are for electric vehic...</summary>
-      <pubDate>Mon, 06 Apr 2026 09:06:06 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/f2928314-318c-11f1-85df-005056a90284/w:1024/p:16x9/capture-75327624269d3653593e559-51119526.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Hit by both sides': US war on Iran threatens Iraq's 'careful strategy of multi-alignment'</title>
-      <link>https://www.france24.com/en/hit-by-both-sides-us-war-on-iran-threatens-iraq-s-careful-strategy-of-multi-alignment</link>
-      <summary>Catherine Viette is pleased to welcome Dr Renad Mansour, Deputy Director for the Middle East and North Africa Programme and Director of the Iraq Initiative at Chatham House. For years, Iraq has pursued a strategy of multi-alignment, explains Dr. Mansour, carefully maintaining ...</summary>
-      <pubDate>Mon, 06 Apr 2026 07:15:58 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/78d58b2c-3185-11f1-9715-005056bf30b7/w:1024/p:16x9/EN-20260403-140539-141506-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Middle East war: ‘No indication that legitimate US-Iran talks taking place’</title>
-      <link>https://www.france24.com/en/video/20260406-middle-east-war-no-indication-that-legitimate-us-iran-talks-taking-place</link>
-      <summary>Reporting from Tehran, FRANCE 24’s Reza Sayad said that “everyone” in Iran is aware of US President Donald Trump’s deadline to reopen the strait of Hormuz, but regardless of what the White House might be saying “there’s no indication that legitimate talks are taking place” bet...</summary>
-      <pubDate>Mon, 06 Apr 2026 05:30:11 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/16df0e82-3178-11f1-8aa7-005056bfb2b6/w:1024/p:16x9/EN-20260406-070154-070536-CS.jpg</image>
+        <image>https://s.france24.com/media/display/18d9998e-31d5-11f1-84cf-005056bf30b7/w:1024/p:16x9/000-A6VQ44J.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +89,28 @@
       <priority>95</priority>
       <media>
         <image>https://s.france24.com/media/display/cb3c949e-31be-11f1-bd40-005056a97e36/w:1024/p:16x9/EN-20260406-141052-141239-CS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>AI technologies could have saved ‘thousands of lives’ during covid, expert says</title>
+      <link>https://www.france24.com/en/tv-shows/perspective/20260406-ai-technologies-could-have-saved-thousands-of-lives-during-covid-expert-says</link>
+      <summary>The health of humans, animals, and the entire ecosystem is inextricably linked. This message is at the heart of the One Health Summit, currently underway in France, where global health leaders are gathering. The summit aims to explore future strategies, particularly using emer...</summary>
+      <pubDate>Mon, 06 Apr 2026 13:24:18 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.france24.com/media/display/7e5163a0-3199-11f1-af5e-005056bfb2b6/w:1024/p:16x9/ANGL260406-0940-Live-CS0940.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Donald Trump issues expletive threat to Iran over Hormuz Strait blockage</title>
+      <link>https://www.france24.com/en/us-oil-prices-flip-flop-ahead-of-trump-s-deadline-to-bomb-iranian-power-plants</link>
+      <summary>Kethevane Gorjestani, France 24 In ternational Affairs Editor, has more.</summary>
+      <pubDate>Mon, 06 Apr 2026 14:28:29 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.france24.com/media/display/190e3a98-31be-11f1-9910-005056bf30b7/w:1024/p:16x9/EN-20260406-120336-120823-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
