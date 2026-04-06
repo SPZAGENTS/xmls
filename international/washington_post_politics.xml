@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics — Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-06T12:00:54.545056</generated>
+  <generated>2026-04-06T14:01:05.147991</generated>
   <items>
     <item>
       <title>On Easter, Pope Leo delivers commanding message of peace to a world at war</title>
@@ -26,10 +26,17 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>In Hungarian election, Trump and Putin are backing Viktor Orban</title>
-      <link>https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/</link>
-      <summary>Viktor Orban, who has built strong ties to the MAGA movement and the Kremlin, faces a tough electoral challenge from center-right candidate Peter Magyar on April 12.</summary>
-      <pubDate>Sun, 05 Apr 2026 09:00:38 +0000</pubDate>
+      <title>Trump administration’s secrecy on health deals alarms experts, governments</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/</link>
+      <summary>A dearth of information has been disclosed about the agreements, fueling speculation that the “America First” approach to foreign aid is exploitative.</summary>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Virginians deeply divided on Spanberger months after her landslide win</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/06/virginia-spanberger-approval-poll-affordability/</link>
+      <summary>A Washington Post-Schar School poll finds that Virginia voters are highly polarized over Gov. Abigail Spanberger (D), who ran as a unifying centrist.</summary>
+      <pubDate>Mon, 06 Apr 2026 09:00:05 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

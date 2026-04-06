@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-06T12:00:55.794430</generated>
+  <generated>2026-04-06T14:01:06.401092</generated>
   <items>
+    <item>
+      <title>On Iran, Trump Keeps World Off Balance With Ever-Changing Threats</title>
+      <link>https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html</link>
+      <summary>Global leaders are struggling in their efforts to find a way to end the American-Israeli war on Iran, and they are spooked about what President Trump might do next.</summary>
+      <pubDate>Mon, 06 Apr 2026 10:44:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/06/multimedia/06int-iran-leaders-01-wzjg/06int-iran-leaders-01-wzjg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Sunday</title>
       <link>https://www.nytimes.com/2026/04/05/world/middleeast/iran-israel-us-war-middle-east.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-britain-bases-topart-lwfg/04israel-iran-britain-bases-topart-lwfg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A projectile hit near Iran’s Bushehr nuclear plant, killing a worker.</title>
-      <link>https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/a-projectile-hit-near-irans-bushehr-nuclear-plant-killing-a-worker</link>
-      <summary>There was no reported increase in radiation levels. A string of recent attacks near the Persian Gulf facility has fueled fears of a nuclear accident.</summary>
-      <pubDate>Sat, 04 Apr 2026 14:27:14 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-nucelar-plant-01-jwbp/04israel-iran-nucelar-plant-01-jwbp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
