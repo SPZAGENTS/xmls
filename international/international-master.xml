@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News — Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-06T04:01:04.642887</generated>
-  <total_articles>323</total_articles>
+  <generated>2026-04-06T06:01:03.029246</generated>
+  <total_articles>321</total_articles>
   <items>
     <item>
       <title>Trump declares victory in Iran war after rescue, but threats to US operation still loom</title>
@@ -14,17 +14,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Why did US and Israel attack Iran and how long could the war last?</title>
-      <link>https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.</summary>
-      <pubDate>Sun, 05 Apr 2026 21:25:48 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/33c15b00-25c9-11f1-9659-a9a8987c78b0.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d1/live/c0b9dad0-2e90-11f1-a4cb-179d6842c4b9.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Trump says Iran war objectives 'nearing completion' in address to nation</title>
+      <link>https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president's first televised address of the conflict with Iran did little to quell uneasy markets.</summary>
+      <pubDate>Thu, 02 Apr 2026 11:33:18 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3901/live/3d965d90-2e72-11f1-8a66-65c63934aa34.jpg</image>
       </media>
     </item>
   </items>

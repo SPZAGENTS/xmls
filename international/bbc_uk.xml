@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk — Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-06T04:00:52.003903</generated>
+  <generated>2026-04-06T06:00:51.564233</generated>
   <items>
     <item>
       <title>Trump declares victory in Iran war after rescue, but threats to US operation still loom</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why did US and Israel attack Iran and how long could the war last?</title>
-      <link>https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.</summary>
-      <pubDate>Sun, 05 Apr 2026 21:25:48 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/33c15b00-25c9-11f1-9659-a9a8987c78b0.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Oil back above $110 after expletive-laden Trump threat to Iran</title>
+      <link>https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president said Iran's bridges and power plants would be destroyed unless it opened the Strait of Hormuz.</summary>
+      <pubDate>Mon, 06 Apr 2026 01:09:26 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefe/live/5f932e40-314d-11f1-b849-f5bf4267dd5c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

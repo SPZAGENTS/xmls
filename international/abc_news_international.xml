@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International — Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-06T04:01:02.941080</generated>
+  <generated>2026-04-06T06:01:01.407762</generated>
   <items>
     <item>
       <title>A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions</title>
-      <link>https://abcnews.com/International/wireStory/lebanons-displaced-shiites-face-rising-hostility-airstrikes-fuel-131678027</link>
-      <summary>A growing number of Shiite families displaced by the war in Lebanon say they&amp;rsquo;re being pushed out of towns where they feel unwelcome</summary>
-      <pubDate>Fri, 03 Apr 2026 03:30:51 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_fe533bddfbdc8fa0e0ce892a241bbf69_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Gulf kingdom of Bahrain cracks down on dissent as Iran war reignites internal unrest</title>
       <link>https://abcnews.com/International/wireStory/gulf-kingdom-bahrain-cracks-dissent-iran-war-reignites-131678995</link>
       <summary>A man detained in Bahrain last month as the island kingdom came under missile attack from Iran vanished for days, until his family was called to retrieve his body from a military hospital</summary>
@@ -56,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_952f20a5bafd31d91b2a83454e8f9985_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions</title>
+      <link>https://abcnews.com/International/wireStory/lebanons-displaced-shiites-face-rising-hostility-airstrikes-fuel-131678027</link>
+      <summary>A growing number of Shiite families displaced by the war in Lebanon say they&amp;rsquo;re being pushed out of towns where they feel unwelcome</summary>
+      <pubDate>Fri, 03 Apr 2026 03:30:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_fe533bddfbdc8fa0e0ce892a241bbf69_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
