@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World — Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-06T14:01:03.160173</generated>
+  <generated>2026-04-06T16:00:56.266065</generated>
   <items>
+    <item>
+      <title>IDF confirms IRGC intel chief killed; Quds Force commander also eliminated in strike</title>
+      <link>https://www.foxnews.com/world/idf-confirms-irgc-intel-chief-killed-quds-force-commander-also-eliminated-strike</link>
+      <summary>Israel announces IRGC intelligence chief Majid Khademi was killed in a precision strike that also took out Quds Force special operations commander Bagheri.</summary>
+      <pubDate>Mon, 06 Apr 2026 07:07:22 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/IRGC-intelligence-chief-Majid-Khademi.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now</title>
       <link>https://www.foxnews.com/world/iran-proxy-militias-threaten-us-universities-lebanon-americans-urged-flee</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/hamas2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Exclusive: Sara Netanyahu warns of surging antisemitism and importance of Jewish-Christian alliance</title>
-      <link>https://www.foxnews.com/world/exclusive-sara-netanyahu-warns-surging-antisemitism-importance-jewish-christian-alliance</link>
-      <summary>Sara Netanyahu wrapped up a four-day Washington visit at the invitation of the first lady Melania Trump focused on tech and education over the backdrop of the Iran war and rising antisemitism.</summary>
-      <pubDate>Wed, 01 Apr 2026 06:30:03 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sara-netanyahu-dc.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

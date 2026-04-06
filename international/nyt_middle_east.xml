@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East — Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-06T14:01:06.401092</generated>
+  <generated>2026-04-06T16:00:59.665516</generated>
   <items>
+    <item>
+      <title>Iranian Intelligence Chief Killed in Overnight Attack</title>
+      <link>https://www.nytimes.com/2026/04/06/world/middleeast/iran-khademi-intelligence-israel.html</link>
+      <summary>Israel claimed responsibility for the death of Major General Seyed Majid Khademi, the spy chief of the Islamic Revolutionary Guards Corps, the latest senior official to be killed in the war.</summary>
+      <pubDate>Mon, 06 Apr 2026 12:12:39 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/06/multimedia/06israel-iran-khademi-bkhf/06israel-iran-khademi-bkhf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>On Iran, Trump Keeps World Off Balance With Ever-Changing Threats</title>
       <link>https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-MAHSHAHR/04ISRAEL-IRAN-MAHSHAHR-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield</title>
-      <link>https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html</link>
-      <summary>A military analyst identified markings consistent with a squadron based at R.A.F. Lakenheath, one of two British bases that host the largest U.S. fighter jet operation in Europe.</summary>
-      <pubDate>Sat, 04 Apr 2026 16:43:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/04/multimedia/04israel-iran-britain-bases-topart-lwfg/04israel-iran-britain-bases-topart-lwfg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
