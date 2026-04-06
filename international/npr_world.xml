@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World — Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-06T06:01:03.024814</generated>
+  <generated>2026-04-06T08:02:54.015177</generated>
   <items>
     <item>
       <title>In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted</title>
@@ -26,6 +26,13 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>A music festival booked Kanye West, now known as Ye, and lost major sponsors</title>
+      <link>https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo</link>
+      <summary>The rapper Ye was announced as the headliner for the Wireless Festival in London. He's gained notoriety over the years for his antisemitic comments and activities glorifying Nazis.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:20:21 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>These rock-climbing fish can shimmy up a 50-foot waterfall</title>
       <link>https://www.npr.org/2026/04/05/nx-s1-5773315/shellear-climbing-fish-congo-waterfall</link>
       <summary>New research from the Democratic Republic of Congo offers a behavioral and anatomical portrait of a species that can achieve surprising athletic feats.</summary>
@@ -47,11 +54,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Judge halts Trump effort requiring colleges to show they don't consider race in admissions</title>
-      <link>https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race</link>
-      <summary>A federal judge on Saturday said the Trump Administration the demand to collect data from universities was rolled out in a "rushed and chaotic" manner.</summary>
-      <pubDate>Sat, 04 Apr 2026 13:13:03 -0400</pubDate>
-      <priority>65</priority>
+      <title>UCLA storms past South Carolina to claim its 1st NCAA women's basketball title</title>
+      <link>https://www.npr.org/2026/04/05/nx-s1-5774557/ucla-ncaa-womens-basketball-champions</link>
+      <summary>UCLA secured the first NCAA women's basketball national championship in school history — a goal that was set after losing in the first Final Four last season.</summary>
+      <pubDate>Sun, 05 Apr 2026 21:25:27 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Questions to help you get 'financially naked' with your partner</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/04/05/nx-s1-5762276/teens-getting-hooked-on-gambling-sports-betting</link>
       <summary>The explosion of online gambling and sports betting, as well as the advertising behind it, is attracting a growing number of young people, most of them boys.</summary>
       <pubDate>Sun, 05 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>After the Minnesota surge, ICE is moving to a quieter enforcement approach</title>
-      <link>https://www.npr.org/2026/04/04/nx-s1-5768273/after-minnesota-ice-surge-shift-to-quieter-enforcement</link>
-      <summary>ICE seems to be changing from aggressive immigration enforcement on city streets to an apparent return to operations that rely heavily on local law enforcement. But even in Florida, where sheriffs are required to cooperate with ICE, some conservative sheriffs have concerns abo...</summary>
-      <pubDate>Sat, 04 Apr 2026 11:34:17 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
