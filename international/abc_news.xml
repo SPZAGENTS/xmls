@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News — Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-06T20:06:39.340029</generated>
+  <generated>2026-04-06T22:01:02.047661</generated>
   <items>
     <item>
-      <title>Trump to hold news conference on airman rescue as his deadline for Iran looms</title>
-      <link>https://abcnews.com/Politics/trump-hold-news-conference-airman-rescue-deadline-iran/story?id=131764525</link>
-      <summary>Trump will hold a news conference at the White House, where he's expected to give more details on the rescue of a U.S. airman whose fighter jet was shot down over Iran.</summary>
-      <pubDate>Mon, 06 Apr 2026 13:00:08 -0400</pubDate>
+      <title>Iran live updates: Trump says Iran 'can be taken out in one night'</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Mon, 06 Apr 2026 14:31:25 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-6-epa-gmh-260406_1775492026908_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/iran-10-rt-gmh-260406_1775481578262_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: President Trump describes airman rescue as Iran deadline looms</title>
+      <link>https://abcnews.com/video/131774363/</link>
+      <summary>President Trump said that "militarily" this was "one of the best" Easters as he described the daring weekend rescue of a U.S. airman whose fighter jet was shot down over Iran.</summary>
+      <pubDate>Mon, 06 Apr 2026 14:27:25 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260406_abc_social_trump_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: President Trump threatens Iran if no peace deal reached soon</title>
       <link>https://abcnews.com/video/131758499/</link>
       <summary>President Trump said Sunday that if no peace deal is reached with Iran in the next 48 hours, "we're blowing up the entire country." ABC News' Selina Wang reports from the White House.</summary>
@@ -49,21 +60,32 @@
       </media>
     </item>
     <item>
-      <title>LIVE: Trump to speak on US airman rescue: ABC News Live</title>
+      <title>LIVE: Artemis II crew begins historic lunar flyby</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Mon, 06 Apr 2026 13:01:30 -0400</pubDate>
+      <pubDate>Mon, 06 Apr 2026 14:45:53 -0400</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/war-with-iran-abc-gmh-260303_1772549475149_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/artemis-abc-gmh-260326_1774539923624_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Artemis II live updates: Crew sets record for farthest humans traveled from Earth</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II is carrying a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Mon, 06 Apr 2026 14:56:50 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/artemis-17-ht-gmh-260406_1775499306076_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
       <title>US lawmakers visiting Cuba denounce island's 'economic bombing' under energy blockade</title>
       <link>https://abcnews.com/International/wireStory/2-us-lawmakers-visiting-cuba-denounce-islands-economic-131769309</link>
-      <summary>Two U</summary>
-      <pubDate>Mon, 06 Apr 2026 12:30:30 -0400</pubDate>
+      <summary>Two U.S. lawmakers are calling for a permanent solution to Cuba&amp;rsquo;s crises after witnessing the effects of a U.S. energy blockade during an official visit to the island</summary>
+      <pubDate>Mon, 06 Apr 2026 14:13:42 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_92db6e9bfebfb70f3c0b29a42a40c8fa_4x3_384.jpg</image>
@@ -82,35 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Supreme Court vacates Steve Bannon contempt-of-Congress charges</title>
-      <link>https://abcnews.com/Politics/supreme-court-vacates-steve-bannon-contempt-congress-charges/story?id=131764229</link>
-      <summary>Bannon refused to honor a subpoena to testify about the Jan. 6, 2021, attack.</summary>
-      <pubDate>Mon, 06 Apr 2026 12:47:22 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/steve-bannon-2-rt-gmh-260406_1775484638415_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: One crew member from downed jet over Iran is rescued</title>
-      <link>https://abcnews.com/video/131694346/</link>
-      <summary>One crew member aboard the downed fighter jet over Iran has been rescued, according to a U.S. official.</summary>
-      <pubDate>Fri, 03 Apr 2026 13:47:56 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/260403_abc_social_rescue_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Emergency landing on PA highway caught on video</title>
-      <link>https://abcnews.com/video/131759769/</link>
-      <summary>A car dashcam caught the moment a small plane landed on I-78 in Allentown, Pennsylvania, after the pilot encountered engine problems.</summary>
-      <pubDate>Mon, 06 Apr 2026 11:42:49 -0400</pubDate>
+      <title>WATCH: Comms blackout expected during Artemis II flyby</title>
+      <link>https://abcnews.com/video/131769806/</link>
+      <summary>Aerospace engineer Elio Morillo breaks down why the crew is expected to experience a communication blackout during the flyby.</summary>
+      <pubDate>Mon, 06 Apr 2026 13:58:40 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260406_gma_reeve_emergencylanding4_0742_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/Technology/260406_abcnl_12p_elio_morillo_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
