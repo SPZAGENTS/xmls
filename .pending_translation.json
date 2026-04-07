@@ -1,16 +1,26 @@
 {
-  "timestamp": "2026-04-07T18:20:28.664532",
-  "new_count": 1,
+  "timestamp": "2026-04-07T20:20:08.855795",
+  "new_count": 2,
   "articles": [
     {
-      "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
-      "link": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than one million people in Lebanon have been displaced since the start of the war as Israel expands its ground operation there.",
-      "pubDate": "Tue, 07 Apr 2026 14:12:38 GMT",
+      "title": "Two major airlines cut flights and hike fares as fuel prices surge",
+      "link": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Airlines have reduced services and lifted ticket costs as the Iran war weighs on jet fuel costs.",
+      "pubDate": "Tue, 07 Apr 2026 15:49:22 GMT",
       "source": "bbc-uk",
       "priority": "100",
-      "title_hebrew": "אמא של תאומים שטענה שהבית שלה בלבנון נופץ בריאיון ל-BBB",
-      "summary_hebrew": "יותר ממיליון אנשים בלבנון הושלטו מאז תחילת המלחמה כאשר ישראל מרחיבה את הנוכחות הקרקעית שלה שם."
+      "title_hebrew": "שתי חברות תעופה גדולות מקצצות בטיסות ומעלות תעריפים כשמחירי הדלק זינקו",
+      "summary_hebrew": "חברות תעופה הפחיתו שירותים והעלו מחירי כרטיסים כאשר מלחמת איראן משפיעה על עלות דלק הסילון."
+    },
+    {
+      "title": "Iran, Hezbollah launch missiles at Israel as second Passover eve begins; IDF warns of widening escalation",
+      "link": "https://www.ynetnews.com/article/s1hwcjf2wg",
+      "summary": "Ballistic missiles target central and northern Israel as holiday begins; no injuries reported; IDF warns vessels off Lebanon coast to move north amid Hezbollah activity; military says campaign against Iran nearing 'strategic crossroads'",
+      "pubDate": "Tue, 07 Apr 2026 19:25:20 +03:00",
+      "source": "All Israeli News",
+      "priority": "130",
+      "title_hebrew": "איראן וחיזבאללה שיגרו טילים לישראל עם תחילת ערב פסח השני; צה\"ל מזהיר מהגברת ההסלמה",
+      "summary_hebrew": "טילים בליסטיים מכוונים למרכז וצפון ישראל עם תחילת החג; לא דווח על נפגעים; צה\"ל מזהיר כלי שיט מול חופי לבנון לעבור צפונה amid פעילות חיזבאללה; הצבא אומר כי המבצע נגד איראן מתקרב לצומת אסטרטגי"
     }
   ]
 }
