@@ -2,13 +2,27 @@
 <content-feed>
   <title>Washington Post — Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-06T22:00:55.395198</generated>
+  <generated>2026-04-07T12:00:55.204561</generated>
   <items>
     <item>
-      <title>Trump to detail rescue mission as Iran rebuffs U.S. war demands</title>
+      <title>Trump claims ‘active’ peace talks with Iran as bombing deadline approaches</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/06/trump-iran-ceasefire-bombing-threat/</link>
+      <summary>The president has given Iranian officials until 8 p.m. Tuesday to make a ceasefire deal or face widespread destruction. Tehran on Monday reasserted its rejection of U.S. demands.</summary>
+      <pubDate>Tue, 07 Apr 2026 01:33:59 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Kidnapped U.S. journalist believed alive in militia’s Iraqi stronghold</title>
+      <link>https://www.washingtonpost.com/world/2026/04/06/journalist-kidnapped-iraq-kittleson-kataib-hezbollah/</link>
+      <summary>U.S. and Iraqi officials say they believe freelancer Shelly Kittleson was kidnapped last week by Kataib Hezbollah, a paramilitary group with links to Iran.</summary>
+      <pubDate>Mon, 06 Apr 2026 22:41:55 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump threatens new rampage as Iran deal deadline nears</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/06/trump-us-iran-war-rescue-airman/</link>
-      <summary>The rescue of a crewman averted a potentially disastrous POW situation, but Trump’s threats showed frustration amid a dangerous and politically unpopular war.</summary>
-      <pubDate>Mon, 06 Apr 2026 17:14:36 +0000</pubDate>
+      <summary>The president vowed anew to destroy Iranian bridges and energy sites if a deal to open the Strait of Hormuz isn’t reached.</summary>
+      <pubDate>Mon, 06 Apr 2026 21:03:16 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -33,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>American universities in Middle East brace for Iranian retaliation</title>
-      <link>https://www.washingtonpost.com/world/2026/04/05/american-university-middle-east-iran/</link>
-      <summary>After the U.S.-Israeli campaign struck Iranian universities, the Islamic Revolutionary Guard Corps called American schools in the Middle East “legitimate targets.”</summary>
-      <pubDate>Sun, 05 Apr 2026 09:00:04 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>It’s Holy Week, but Jerusalem’s Old City is quiet and eerily empty</title>
       <link>https://www.washingtonpost.com/world/2026/04/05/jerusalem-easter-holy-week-old-city/</link>
       <summary>The Austrian Hospice urges groups of Christian pilgrims to book 16 months ahead. One night this week, a receptionist warned a Post reporter she would be the only guest.</summary>
@@ -58,13 +65,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/</link>
       <summary>A dearth of information has been disclosed about the agreements, fueling speculation that the “America First” approach to foreign aid is exploitative.</summary>
       <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>In Hungarian election, Trump and Putin are backing Viktor Orban</title>
-      <link>https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/</link>
-      <summary>Viktor Orban, who has built strong ties to the MAGA movement and the Kremlin, faces a tough electoral challenge from center-right candidate Peter Magyar on April 12.</summary>
-      <pubDate>Sun, 05 Apr 2026 09:00:38 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

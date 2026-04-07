@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico — Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-05T04:00:54.868617</generated>
+  <generated>2026-04-07T12:00:53.922076</generated>
   <items>
     <item>
       <title>'What the hell did he just say?' GOP Iran worries build after Trump speech.</title>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Wes Moore criticizes Trump for talking about Medicare cuts</title>
+      <link>https://www.politico.com/news/2026/04/05/wes-moore-trump-medicare-cuts-00859272</link>
+      <summary>"We don't want to be fighting foreign wars while you're taking away our health care," Maryland's governor said.</summary>
+      <pubDate>Sun, 05 Apr 2026 10:38:47 EST</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static.politico.com/08/1b/7d45dd77433ab0edcd643ebafa84/governors-summit-12540.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Cori Bush wants her seat back — and a rematch over AIPAC</title>
       <link>https://www.politico.com/news/2026/03/29/aipac-2026-elections-cori-bush-00846126</link>
       <summary>She is back on the campaign trail after a 2024 multimillion-dollar campaign by the American Israel Public Affairs Committee unseated her.</summary>
@@ -89,21 +100,10 @@
       </media>
     </item>
     <item>
-      <title>Trump plays Texas hold ’em with Senate endorsement</title>
-      <link>https://www.politico.com/news/2026/03/27/trump-texas-senate-endorsement-00847967</link>
-      <summary>The president has not endorsed in the Texas Senate GOP runoff. MAGA sees it as a signal.</summary>
-      <pubDate>Fri, 27 Mar 2026 05:30:08 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/1d/c0/24552cc1489190b1eeb4333be382/election-2020-trump-02826.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Is Hochul the unlikely hero of Adams’ world indictments?</title>
-      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/04/03/is-hochul-the-unlikely-hero-of-adams-world-indictments-00858598</link>
-      <summary>Gov. Kathy Hochul has spent the last four months beating the auto-insurance affordability drum and fighting the trial lawyers and unconvinced lawmakers who stand in her way.</summary>
-      <pubDate>Fri, 03 Apr 2026 16:30:36 EST</pubDate>
+      <title>Mamdani’s investigation nominee faces questions on independence</title>
+      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/04/06/mamdanis-investigation-nominee-faces-questions-on-independence-00860814</link>
+      <summary>During his campaign, New York City Mayor Zohran Mamdani had a historic number of volunteers who canvassed on his behalf.</summary>
+      <pubDate>Mon, 06 Apr 2026 16:41:25 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>

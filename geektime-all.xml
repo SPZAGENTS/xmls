@@ -1,29 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>גיקטיים — All Articles</title>
-  <source>גיקטיים</source>
-  <generated>2026-04-05T04:02:21.802933</generated>
+  <title>Geektime — All Articles</title>
+  <source>Geektime</source>
+  <generated>2026-04-07T09:02:14.614395+00:00</generated>
   <items>
+    <item>
+      <title>מייל פנימי של אמזון חושף את חומרת הפגיעה האיראנית בדאטה-סנטרים שלה</title>
+      <link>https://www.geektime.co.il/aws-regions-are-hard-down-post-iran-attacks/</link>
+      <summary>האיראנים מאיימים שוב ושוב בפגיעה בחברות ותשתיות טכנולוגיה באיזור, אבל עבור אמזון, לא מדובר רק באיומים עתידיים אלא באיום ממומש. דיווח חדש חושף כי המתקפות האיראניות על חוות השרתים של ענקית הענן בבחריין ובדובאי גרמו לנזק משמעותי, שהוביל לקריסות קבועות של שירותי החברה באזורים אלו....</summary>
+      <pubDate>Sun, 05 Apr 2026 07:16:36 +0000</pubDate>
+      <priority>110</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
     <item>
       <title>אחרי חודש של מלחמה: כיצד נראים הגיוסים בהייטק הישראלי?</title>
       <link>https://www.geektime.co.il/israeli-high-tech-ecosystem-funding-roundup-q1-2026/</link>
       <summary>הילדים מטפסים עליכם בין פגישות זום, ליל הסדר נראה אחרת לחלוטין בצל המלחמה, והשגרה נראית רחוקה&amp;#8230; אבל גם בזמן שהכל מסביב רועד, האקוסיסטם הישראלי חייב להראות שהוא ממשיך לדלבר. החדשות הרעות הן, שזה לא פשוט. החדשות הטובות הן, שלפחות בינתיים, גיוסי ההון המדווחים לא ספגו פגיעה י...</summary>
       <pubDate>Fri, 03 Apr 2026 10:50:11 +0000</pubDate>
-      <priority>105</priority>
+      <priority>110</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
-      <title>הבילוי הבא שלכם בממ"ד: משחקי ארקייד ברוח המלחמה</title>
-      <link>https://www.geektime.co.il/israel-iran-arcade/</link>
-      <summary>אתם אולי בשירותים, או בממ"ד עם הילדים בזמן אזעקה, או סתם תקועים בעוד "וויקלי" שהפך לסקירה גיאופוליטית &amp;#8211; ומשעמם לכם. המציאות הישראלית של החודש האחרון אולי לא מרגישה כמו משחק, אבל מפתח ומעצב ישראלי החליט לקחת את המצב ההזוי ולהפוך אותו בדיוק לזה: אוסף משחקי רטרו נוסטלגיים ב...</summary>
-      <pubDate>Thu, 02 Apr 2026 11:24:51 +0000</pubDate>
+      <title>המתחרה הישראלית של Wolt, שאתם כנראה לא מכירים, גייסה 19 מיליון דולר</title>
+      <link>https://www.geektime.co.il/wolt-comp-raised-60m-nis/</link>
+      <summary>רבים שמחו לשמוע על השקה אפשרית של Uber Eats בישראל, כדי שסוף סוף אולי תהיה אלטרנטיבה ראויה ל-Wolt, אבל בלא מעט מקומות וערים בישראל כבר יש חלופה כזו והיא אפילו ישראלית. גם אשראי וגם מזומן, וגם כשאין כתובת לצד וולט, משלוחה ותן ביס, מסתובבת לה עוד פלטפורמת משלוחים מקומית שהחלה את...</summary>
+      <pubDate>Mon, 06 Apr 2026 06:48:06 +0000</pubDate>
       <priority>90</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
-      <title>גיוס של 16 מיליון דולר לסטארטאפ הישראלי שמפתח חלבונים בעזרת AI</title>
-      <link>https://www.geektime.co.il/scala-biodesign-raises-a-round/</link>
-      <summary>חלבונים הם המולקולות המורכבות ביותר בטבע. בגלל החשיבות הקריטית שלהם, הם מהווים את הרכיבים הפעילים המרכזיים בשוק התרופות, הדיאגנוסטיקה, המזון והחקלאות. אולם, כדי להשתמש בהם בתעשיות הללו יש צורך בהנדסה מדויקת &amp;#8211; תהליך שמהווה כיום צוואר בקבוק משמעותי בפיתוח. הסטארטאפ הישראלי...</summary>
-      <pubDate>Tue, 31 Mar 2026 11:00:19 +0000</pubDate>
-      <priority>90</priority>
+      <title>סטארטאפ קוונטי ישראלי שנחשף עכשיו מבטיח להצליח איפה שהגדולות מתקשות</title>
+      <link>https://www.geektime.co.il/q-factor-comes-out-of-stealth-with-24m-seed/</link>
+      <summary>אנחנו רגילים לשמוע שמחשוב קוונטי נמצא רגע לפני פריצת הדרך הגדולה, אבל בפועל, התעשייה טרם הציגה פיתוח שיקפיץ את התחום לשלב הבא &amp;#8211; בעיקר בשל אתגרי סקיילאביליות. הסטארטאפ הישראלי Q-Factor, שנחשף היום (ב'), טוען כי הוא יכול להמציא מחדש את הארכיטקטורה של המחשב הקוונטי. אם הכל ...</summary>
+      <pubDate>Mon, 06 Apr 2026 13:00:23 +0000</pubDate>
+      <priority>85</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
       <title>צריכים משהו לחכות לו? הנה 3 וובינרים ששווים את הזמן שלכם</title>
@@ -31,6 +42,7 @@
       <summary>ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת &amp;#8211; אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח ה...</summary>
       <pubDate>Sat, 04 Apr 2026 16:10:07 +0000</pubDate>
       <priority>85</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
       <title>האם תאבדו את הזכויות על הקוד שלכם רק בגלל שהשתמשתם ב-AI?</title>
@@ -38,6 +50,7 @@
       <summary>מאת: עו"ד אסף טננבאום האם משתמש העושה שימוש במודלים של בינה מלאכותית, יכול להיחשב כממציא או יוצר של קוד, או יצירות והמצאות אחרות שפלטו אותם מודלים? שתי החלטות של בתי משפט בישראל ובארה"ב שניתנו לאחרונה &amp;#8211; אחת בעולמות זכויות היוצרים ואחת בעולמות דיני הפטנטים &amp;#8211; יצרו שי...</summary>
       <pubDate>Sat, 04 Apr 2026 12:15:19 +0000</pubDate>
       <priority>85</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
       <title>ישראלי מדגים כיצד ניתן לעקוף את פיצ'ר ה-View Once של וואטסאפ</title>
@@ -45,6 +58,7 @@
       <summary>"אהלן אושרי, טל בארי. אם אתה רוצה, שלח שנייה תמונה במצב View Once לכאן, ואראה לך איך אני פותח אותה כמה פעמים שאני רק רוצה", כך התחילה השיחה שלי עם בארי, חוקר אבטחה וה-CTO של הסטארטאפ Zengo. לעקוף פיצ'ר פרטיות של אחת מהאפליקציות הפופולריות בעולם? זה מעניין. אז הוא קיבל ממני תמו...</summary>
       <pubDate>Sat, 04 Apr 2026 08:09:40 +0000</pubDate>
       <priority>85</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
       <title>ה-AI מגיע לטלגרם שלכם בעברית ובחינם</title>
@@ -52,27 +66,103 @@
       <summary>זה לקח קצת זמן, אבל ה-AI מגיע גם לאפליקציית התקשורת, שזוכה עכשיו (שוב) לבוסט של פופולריות בעקבות המלחמה: טלגרם השיקה עורך טקסט AI חדש ישירות בתוך שורת ההודעות. הפיצ'ר, שמבוסס על רשת ה-Cocoon המבוזרת של החברה, מאפשר לתקן שגיאות, לתרגם הודעות ואפילו לשכתב אותן מחדש בצורות שונות....</summary>
       <pubDate>Fri, 03 Apr 2026 05:56:12 +0000</pubDate>
       <priority>85</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
-      <title>יזמת ישראלית הופכת רכבות דיזל ישנות ומזהמות לחשמליות ומתקדמות</title>
-      <link>https://www.geektime.co.il/voltify-comes-out-of-stealth/</link>
-      <summary>קטרי הדיזל המסורתיים והוותיקים מתבססים על מנועי בעירה פנימית רועשת &amp;#8211; טכנולוגיה מזהמת ובעלת נצילות אנרגטית נמוכה. לעומתם, קטרים עם מנוע חשמלי מציעים חלופה עדיפה כמעט בכל פרמטר: מומנט (Torque) גבוה שזמין כבר בזינוק, הרבה פחות תחזוקה בזכות מיעוט חלקים נעים, ונצילות של 90% ל...</summary>
-      <pubDate>Tue, 31 Mar 2026 13:00:04 +0000</pubDate>
-      <priority>85</priority>
+      <title>הסרטון הזה מציג שיטה מקורית לגלות האקרים צפון קוריאנים</title>
+      <link>https://www.geektime.co.il/video-shows-interesting-way-to-sift-out-north-korean-it-workers/</link>
+      <summary>צפון קוריאה נחשבת למדינה המבודדת בעולם &amp;#8211; שילוב של בחירה אידאולוגית וסנקציות כבדות מצד ארה"ב ואירופה. כדי לשמר את כלכלת המדינה, לממן את תוכנית הגרעין ולתחזק את תדמיתו של הדיקטטור קים ג'ונג און, המדינה הפכה למעצמת סייבר ופריצה. אחת השיטות המרכזיות שלה היא השתלת עובדי IT "ת...</summary>
+      <pubDate>Tue, 07 Apr 2026 08:55:14 +0000</pubDate>
+      <priority>70</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
-      <title>כמה טיפים ממגייסות בהייטק לחיפוש עבודה בימי מלחמה</title>
-      <link>https://www.geektime.co.il/job-search-guide-during-war/</link>
-      <summary>חיפוש עבודה הוא אף פעם לא תהליך פשוט, אבל בזמן מלחמה הוא יכול להיות גם עניין מלחיץ למדי, וזה עוד לפני שדיברנו על צליל ההתרעה באפליקציית פיקוד העורף. אז איך מתמרנים בין אי הוודאות ומהפכת ה-AI, שמשנה תפקידים בזמן אמת, למצב צבירה שמורכב מחוסר שעות שינה, שינויים ברגע האחרון וסבבי ...</summary>
-      <pubDate>Mon, 30 Mar 2026 14:57:13 +0000</pubDate>
-      <priority>85</priority>
+      <title>הסדרה החדשה של "מלחמת הכוכבים" מחזירה את הנבל האהוב לנקום, וזה שווה צפייה</title>
+      <link>https://www.geektime.co.il/star-wars-darth-maul-shadow-lord-review/</link>
+      <summary>בתחילת השנה פרשה מתפקידה קת'לין קנדי, נשיאת Lucasfilm ומי שהייתה האחראית על פרנצ'ייז "מלחמת הכוכבים" במשך 14 השנים האחרונות. אחד היורשים של קנדי בתפקיד הוא דייב פילוני, האיש שגדל על ברכיו של ג'ורג' לוקאס וכוכב הצפון של הפרנצ'ייז בכל הקשור לפיתוח תכנים. היום (ב') עולה לאוויר בד...</summary>
+      <pubDate>Mon, 06 Apr 2026 07:00:41 +0000</pubDate>
+      <priority>70</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
     <item>
-      <title>"משכנע בדמו, נשבר בפרודקשן": הסטארטאפ הישראלי שלא מפחד מקלוד קוד</title>
-      <link>https://www.geektime.co.il/israeli-startup-nabs-fresh-round-of-funding-and-is-not-afraid-of-claude-code/</link>
-      <summary>בתחילת החודש הטילה Anthropic פצצה נוספת לזירת ה-AI למפתחים: כלי ה-Code Review החדש של Claude Code. המהלך הזה הפך למקור דאגה עבור לא מעט סטארטאפים בתחום, אבל לא כולם מתרגשים מהתחרות, למשל Qodo הישראלית. "זה נראה משכנע בדמו, אבל נשבר בפרודקשן" המערכת של Qodo מספקת למפתחים סט כלי...</summary>
-      <pubDate>Mon, 30 Mar 2026 13:16:33 +0000</pubDate>
-      <priority>85</priority>
+      <title>וובינר חדש: לפצח את המרקטפלייס עם אסטרטגיות שעובדות באמת</title>
+      <link>https://www.geektime.co.il/scaling-growth-with-microsoft-marketplace-webinar-13426/</link>
+      <summary>אם ניסיתם למכור תוכנה לארגון אנטרפרייז, בטח כבר הבנתם שהמכשול האמיתי הוא לא שיווק הטכנולוגיה שלכם – אלא דווקא תהליכי הרכש. המכירות הישירות הפכו למסע התשה ארוך ויקר מול מחלקות ה-Procurement, אבל ישנה דלת אחורית שעוקפת את הביורוקרטיה: פלטפורמות המרקטפלייס של ענקיות הענן. הסיבה ל...</summary>
+      <pubDate>Sun, 05 Apr 2026 11:04:49 +0000</pubDate>
+      <priority>70</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>גוגל חושפת אפליקציית הכתבה חינמית עם כמה טוויסטים מעניינים</title>
+      <link>https://www.geektime.co.il/google-has-a-new-free-ios-dictation-app-that-works-offline/</link>
+      <summary>מודלי AI הביאו שדרוגים בלא מעט תחומים שקשורים בטקסט כמו תרגומים, עיבוד טקסט ושכתוב ותמלולים. אבל יש תחום אחד שנשאר קצת מאחור: הכתבה (Dictation, לא הכתבה הספציפית הזאת). כעת, גוגל משחררת בהפתעה, ובשקט, אפליקציה חדשה וחינמית. אז בדקנו אותה, וחזרנו עם כמה תובנות. מתקנת על הדרך הא...</summary>
+      <pubDate>Tue, 07 Apr 2026 07:41:22 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>ביט מייקרת שוב העברות כספים, אבל לא לכולם</title>
+      <link>https://www.geektime.co.il/bit-is-raising-prices/</link>
+      <summary>בעשור האחרון התרגלנו להעביר ולקבל כסף באפליקציות שונות, ובראשן, bit. כעת, מודיעה האפליקציה הפופולרית ביותר בתחום על העלאה בתעריפי העמלות, אבל לא לכולם, וחלק יהיו פטורים מהגזרה החדשה. העמלה עולה משתמשי אפליקציית bit החלו לקבל השבוע הודעות המבשרות כי עמלת קבלת הכספים בביט עולה מ...</summary>
+      <pubDate>Mon, 06 Apr 2026 08:27:21 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>מנהלת לשעבר באורקל: 30 אלף פוטרו, אלגוריתם קבע מי ילך הביתה</title>
+      <link>https://www.geektime.co.il/former-oracle-employee-says-30k-were-laid-off-and-company-used-algorithm/</link>
+      <summary>ב-31 במרץ, בשעה 06:00 בבוקר, נחת בתיבות המייל של אלפי עובדי אורקל מסר קצר, קר ותמציתי. המשמעות שלו הייתה ברורה: "אתם לא עובדים פה יותר". בעוד ענקית הענן של לארי אליסון שומרת על שתיקה בנוגע למספרים הרשמיים, עובדת ותיקה החליטה להוציא את הכביסה המלוכלכת החוצה ולחשוף לכאורה את הממ...</summary>
+      <pubDate>Sun, 05 Apr 2026 12:23:29 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>גוגל השיקה מודלי AI פתוחים וחזקים, שיכולים לרוץ גם על הטלפון שלכם</title>
+      <link>https://www.geektime.co.il/google-launches-gemma-4-open-weight-ai-model/</link>
+      <summary>אחד האיומים הגדולים ביותר על ענקיות ה-AI האמריקאיות מגיע מסין, כאשר בזו אחר זו, חברות סיניות משחררות מודלי AI קלים ויעילים שמצליחים להרשים את כולם. התשובה של גוגל מגיעה עם החשיפה של Gemma 4, משפחת מודלי ה-Open Weights החדשים שלה, והם נראים מרשימים ופתוחים מתמיד. מהסמארטפון שלכ...</summary>
+      <pubDate>Sun, 05 Apr 2026 10:00:10 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>ה-AI לא יהרוג את חברות התוכנה בזכות "המלכה האדומה"</title>
+      <link>https://www.geektime.co.il/red-queen-hypothesis-and-ai/</link>
+      <summary>&amp;#160; מאת: אדם פישר תיאוריית "המלכה האדומה" היא עקרון אבולוציוני הטוען כי מינים חייבים להשתנות ולהתפתח ללא הרף בתגובה הדדית ביחס ליריבים בטבע, כמו טורפים או טפילים. לדוגמה, אריה וצבי &amp;#8211; שני המינים חייבים ללמוד לרוץ מהר יותר כל הזמן. התיאוריה תקפה לעתים גם בשדה הקרב או בש...</summary>
+      <pubDate>Thu, 02 Apr 2026 14:30:52 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>הפיצ'ר החדש של Windows יעביר בכם רטט</title>
+      <link>https://www.geektime.co.il/microsofts-new-windows-feature-will-give-you-vibrations/</link>
+      <summary>אם יש לכם Windows ומכשירים מתאימים, תוכלו בקרוב להרגיש את המחשב. בערך. גרסת הבטא האחרונה של Windows 11 (או Build 26300.8155 בערוץ ה-Dev), שהגיעה כבר לחברי Windows Insider, תוכנית הבטא של החברה, כוללת לראשונה גם תמיכה בפידבק הפטי (Haptic Feedback). השינוי המרכזי הוא שמעכשיו תרג...</summary>
+      <pubDate>Mon, 06 Apr 2026 11:18:52 +0000</pubDate>
+      <priority>50</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>קליפי, יש לנו בעיה: האאוטלוק של האסטרונאוטים קרס בדרך לירח</title>
+      <link>https://www.geektime.co.il/artemis-ii-outlook-issues/</link>
+      <summary>בסוף השבוע האחרון נרשם רגע משמעותי במיוחד עבור האנושות: לראשונה מאז 1972 ותוכנית אפולו, נאס"א שיגרה בני אדם לעבר הירח במסגרת משימת Artemis II. על סיפון החללית נמצאים מפקד המשימה ריד וייסמן, הטייס ויקטור גלובר, והאסטרונאוטים כריסטינה קוק וג'רמי הנסן. מדובר בצוות שהתכונן כל חייו...</summary>
+      <pubDate>Sun, 05 Apr 2026 16:46:21 +0000</pubDate>
+      <priority>50</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>ספק הווירטואליזציה שלכם יקר מדי? כך תעברו ל-Multi-hypervisor</title>
+      <link>https://www.geektime.co.il/multi-hypervisor-migration-guide/</link>
+      <summary>מאת חררדו רודניק, ארכיטקט ראשי במלם תים בעולם שבו תשתיות IT נדרשות להיות גם גמישות וגם חסכוניות יותר, עוד ועוד ארגונים בוחנים מחדש את אחת האקסיומות הוותיקות בתעשייה: עבודה עם ספק יחיד. תחום בולט בהקשר זה הוא וירטואליזציה, ורבים שוקלים לעבור מארכיטקטורה אחודה לגישה של Multi-hyp...</summary>
+      <pubDate>Sun, 05 Apr 2026 08:43:09 +0000</pubDate>
+      <priority>50</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
+      <title>לאנת'רופיק נמאס ומשתמשי OpenClaw יצטרכו לשלם</title>
+      <link>https://www.geektime.co.il/anthropic-wants-you-to-pay-extra-for-openclaw-usage/</link>
+      <summary>"או שאתה מת כגיבור, או שאתה חי מספיק זמן כדי לראות את עצמך הופך לנבל". זו הפרדיגמה של כל חברה שהופכת בשלב כלשהו ל"חביבת ה[הכנס כאן קבוצה של משתמשים]", ובימים האחרונים חברת Anthropic, המפתחת מאחורי Claude Code ופיתוחים אהובים נוספים, מוצאת את עצמה מותחת שוב ושוב את הגבול דווקא ...</summary>
+      <pubDate>Sun, 05 Apr 2026 07:55:24 +0000</pubDate>
+      <priority>50</priority>
+      <source-display-name>Geektime</source-display-name>
     </item>
   </items>
 </content-feed>
