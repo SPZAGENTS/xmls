@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-08T12:00:57.249714</generated>
+  <generated>2026-04-08T13:00:56.501363</generated>
   <items>
     <item>
-      <title>U.S., Iran and Israel Agree to Cease-Fire</title>
-      <link>https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news</link>
-      <summary>The deal came shortly before President Trump’s deadline for Iran to reopen the Strait of Hormuz or face devastation. Israel said the cease-fire did not include Lebanon.</summary>
-      <pubDate>Wed, 08 Apr 2026 08:43:37 +0000</pubDate>
+      <title>Iran War Live Updates: Fragile Cease-Fire Takes Hold as Both Sides Claim Victory</title>
+      <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</link>
+      <summary>Global relief at the pause in fighting was tempered by uncertainty over what happens next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it did not include its war against Hezbollah in Lebanon.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:57:38 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07israel-iran-live-promo1025p-tzhv/07israel-iran-live-promo1025p-tzhv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-promo-jvwz/08israel-iran-promo-jvwz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump</title>
+      <link>https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</link>
+      <summary>Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with the president’s whims.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:36:38 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-global-assess-01-fvzw/08int-iran-global-assess-01-fvzw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say</title>
-      <link>https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html</link>
-      <summary>Two other armed men and two police officers were wounded in the clash, the provincial governor said.</summary>
-      <pubDate>Tue, 07 Apr 2026 17:36:09 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07int-turkey-attack-zktj/07int-turkey-attack-zktj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Australia Charges Ex-Soldier With War Crimes in Afghanistan</title>
       <link>https://www.nytimes.com/2026/04/07/world/australia/australia-soldier-afghanistan-war-crimes-roberts-smith.html</link>
       <summary>The suspect, charged with five counts of murder, is accused of killing or ordering the killings of unarmed civilians during the Afghan war.</summary>
@@ -49,24 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Board of Peace Gives Hamas Disarmament Deadline</title>
-      <link>https://www.nytimes.com/2026/04/06/world/middleeast/trump-board-of-peace-hamas-disarmament.html</link>
-      <summary>The demand reflects both the U.S. administration’s eagerness to secure a lasting cease-fire in Gaza and its growing impatience with the Palestinian militant group.</summary>
-      <pubDate>Mon, 06 Apr 2026 15:54:20 +0000</pubDate>
+      <title>China Pressed Iran Toward Cease-fire, Iranian Officials Say</title>
+      <link>https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</link>
+      <summary>Beijing appeared to have helped push Tehran to accept the two-week deal with the United States, reflecting China’s growing influence and its stake in avoiding a wider war.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:36:20 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/06/multimedia/06int-gaza-hamas-top-wfvm/06int-gaza-hamas-top-wfvm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-china-mcpv/08israel-iran-china-mcpv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>On Iran, Trump Keeps World Off Balance With Ever-Changing Threats</title>
-      <link>https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html</link>
-      <summary>Global leaders are struggling in their efforts to find a way to end the American-Israeli war on Iran, and they are spooked about what President Trump might do next.</summary>
-      <pubDate>Mon, 06 Apr 2026 14:40:33 +0000</pubDate>
+      <title>Israel Says Iran Cease-Fire Does Not Extend to Lebanon</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-lebanon-israel-hezbollah.html</link>
+      <summary>Prime Minister Benjamin Netanyahu contradicted an earlier statement from Pakistan that said the deal included Lebanon, where Israel is at war with the Iran-backed militant group Hezbollah.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:11:59 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/06/multimedia/06int-iran-leaders-01-wzjg/06int-iran-leaders-01-wzjg-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-lebanon-pwqg/08israel-iran-lebanon-pwqg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Trump’s Iran Threats Look Like Self-Incrimination for Potential War Crimes</title>
-      <link>https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html</link>
-      <summary>President Trump, in vowing to systematically destroy civilian infrastructure and annihilate Iran’s entire civilization, appears to be creating evidence about his intentions.</summary>
-      <pubDate>Tue, 07 Apr 2026 23:43:08 +0000</pubDate>
-      <priority>100</priority>
+      <title>Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed</title>
+      <link>https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html</link>
+      <summary>The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.</summary>
+      <pubDate>Wed, 08 Apr 2026 02:13:48 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/dc-trump-warcrimes-hmjf/dc-trump-warcrimes-hmjf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/00int-iraq-kidnapping-HFO-wqjk/00int-iraq-kidnapping-HFO-wqjk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed</title>
-      <link>https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html</link>
-      <summary>The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.</summary>
-      <pubDate>Wed, 08 Apr 2026 02:13:47 +0000</pubDate>
-      <priority>95</priority>
+      <title>Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.</title>
+      <link>https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html</link>
+      <summary>After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.</summary>
+      <pubDate>Tue, 07 Apr 2026 15:42:11 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/00int-iraq-kidnapping-HFO-wqjk/00int-iraq-kidnapping-HFO-wqjk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-kabul-strike-families-promo-mzbc/00int-kabul-strike-families-promo-mzbc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
