@@ -2,7 +2,7 @@
 <content-feed>
   <title>Geektime — All Articles</title>
   <source>Geektime</source>
-  <generated>2026-04-07T09:02:14.614395+00:00</generated>
+  <generated>2026-04-08T05:03:34.603146+00:00</generated>
   <items>
     <item>
       <title>מייל פנימי של אמזון חושף את חומרת הפגיעה האיראנית בדאטה-סנטרים שלה</title>
@@ -93,6 +93,14 @@
       <source-display-name>Geektime</source-display-name>
     </item>
     <item>
+      <title>אחרי 37 שנים: לינוקס מפסיקה לתמוך במעבד המיתולוגי של אינטל</title>
+      <link>https://www.geektime.co.il/linux-7-1-dropping-intel-i486-support/</link>
+      <summary>בעולם הטכנולוגיה, שבו סמארטפונים נחשבים למיושנים אחרי שנה בערך, חומרה ששורדת כמעט ארבעה עשורים היא הישג כמעט בלתי נתפס. אבל עכשיו נראה שהמסע הארוך של אחד המעבדים המשפיעים ביותר בהיסטוריה מגיע לסיומו הרשמי. זה קורה כשלינוקס, מערכת ההפעלה שידועה ביכולת המופלאה שלה לתמוך גם ב"ברז...</summary>
+      <pubDate>Tue, 07 Apr 2026 13:48:50 +0000</pubDate>
+      <priority>65</priority>
+      <source-display-name>Geektime</source-display-name>
+    </item>
+    <item>
       <title>גוגל חושפת אפליקציית הכתבה חינמית עם כמה טוויסטים מעניינים</title>
       <link>https://www.geektime.co.il/google-has-a-new-free-ios-dictation-app-that-works-offline/</link>
       <summary>מודלי AI הביאו שדרוגים בלא מעט תחומים שקשורים בטקסט כמו תרגומים, עיבוד טקסט ושכתוב ותמלולים. אבל יש תחום אחד שנשאר קצת מאחור: הכתבה (Dictation, לא הכתבה הספציפית הזאת). כעת, גוגל משחררת בהפתעה, ובשקט, אפליקציה חדשה וחינמית. אז בדקנו אותה, וחזרנו עם כמה תובנות. מתקנת על הדרך הא...</summary>
@@ -121,14 +129,6 @@
       <link>https://www.geektime.co.il/google-launches-gemma-4-open-weight-ai-model/</link>
       <summary>אחד האיומים הגדולים ביותר על ענקיות ה-AI האמריקאיות מגיע מסין, כאשר בזו אחר זו, חברות סיניות משחררות מודלי AI קלים ויעילים שמצליחים להרשים את כולם. התשובה של גוגל מגיעה עם החשיפה של Gemma 4, משפחת מודלי ה-Open Weights החדשים שלה, והם נראים מרשימים ופתוחים מתמיד. מהסמארטפון שלכ...</summary>
       <pubDate>Sun, 05 Apr 2026 10:00:10 +0000</pubDate>
-      <priority>65</priority>
-      <source-display-name>Geektime</source-display-name>
-    </item>
-    <item>
-      <title>ה-AI לא יהרוג את חברות התוכנה בזכות "המלכה האדומה"</title>
-      <link>https://www.geektime.co.il/red-queen-hypothesis-and-ai/</link>
-      <summary>&amp;#160; מאת: אדם פישר תיאוריית "המלכה האדומה" היא עקרון אבולוציוני הטוען כי מינים חייבים להשתנות ולהתפתח ללא הרף בתגובה הדדית ביחס ליריבים בטבע, כמו טורפים או טפילים. לדוגמה, אריה וצבי &amp;#8211; שני המינים חייבים ללמוד לרוץ מהר יותר כל הזמן. התיאוריה תקפה לעתים גם בשדה הקרב או בש...</summary>
-      <pubDate>Thu, 02 Apr 2026 14:30:52 +0000</pubDate>
       <priority>65</priority>
       <source-display-name>Geektime</source-display-name>
     </item>

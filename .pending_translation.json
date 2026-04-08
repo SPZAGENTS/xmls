@@ -1,36 +1,26 @@
 {
-  "timestamp": "2026-04-08T03:20:09.655165",
-  "new_count": 3,
+  "timestamp": "2026-04-08T07:20:04.980038",
+  "new_count": 2,
   "articles": [
     {
-      "title": "Oil slides after Trump agrees to conditional two-week Iran ceasefire",
-      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump announced the deal not long before a deadline for a Tuesday evening ultimatum for Iran was reached.",
-      "pubDate": "Tue, 07 Apr 2026 23:40:16 GMT",
-      "source": "bbc-uk",
-      "priority": "100",
-      "title_hebrew": "מחירי הנפט צונחים לאחר שטראמפ הסכים להפסקת אש מותנית של שבועיים עם איראן",
-      "summary_hebrew": "טראמפ הכריז על העסקה זמן קצר לפני תום הדד-ליין לאולטימטום לערב יום שלישי עבור איראן"
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "title_hebrew": "\"לא ישנתי כבר ימים\": איראנים מתארים ייאוש גובר אחרי חודש של מלחמה",
+      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "summary_hebrew": "אזרחים רגילים מרחבי איראן מתארים תקיפות מתרחבות, כאב כלכלי ופחד מדיכוי.",
+      "pubDate": "Thu, 02 Apr 2026 16:09:24 GMT",
+      "source": "bbc-middle-east",
+      "priority": "100"
     },
     {
-      "title": "Trump says suspended bombing Iran for 2 weeks as Tehran agrees to reopen Strait of Hormuz",
-      "link": "https://www.ynetnews.com/article/h1ojuzq3wg",
-      "summary": "President says he agreed to pause US strikes, describing move as part of possible 'double-sided ceasefire' as Washington and Tehran weigh proposed framework for broader agreement; Israel said to join truce, including in Lebanon",
-      "pubDate": "Wed, 08 Apr 2026 01:42:41 +03:00",
+      "title": "Trump: US to 'suspend bombing' of Iran for 2 weeks while talks held on 'longterm peace' deal",
+      "title_hebrew": "טראמפ: ארה\"ב תשהה את ההפצצות על אירן לשבועיים בזמן שמתקיימים דיונים על עסקת שלום לטווח ארוך",
+      "link": "https://www.timesofisrael.com/trump-us-to-suspend-bombing-of-iran-for-2-weeks-while-talks-held-on-longterm-peace-deal/",
+      "summary": "Iran and Israel keep up attacks after US president says 'double sided CEASEFIRE' dependent on Strait of Hormuz reopening, though Pakistani PM claims it's 'effective immediately' and also covers Lebanon, which Netanyahu disputes",
+      "summary_hebrew": "איראן וישראל ממשיכות בהתקפות לאחר שהנשיא האמריקאי אמר שהפסקת האש הדו-צדדית תלויה בפתיחת מצר הורמוז, אם כי ראש ממשלת פקיסטן טוען שהיא תיכנס לתוקף מיידית וכוללת גם את לבנון, דבר שנטניהו מכחיש",
+      "pubDate": "Wed, 08 Apr 2026 03:27:12 +0000",
       "source": "All Israeli News",
-      "priority": "140",
-      "title_hebrew": "טראמפ: השעיתי את ההפצצות באיראן לשבועיים כשטהרן הסכימה לפתוח מחדש את מצר הורמוז",
-      "summary_hebrew": "הנשיא אומר שהסכים להשהות את התקיפות האמריקאיות, מתאר את הצעד כחלק מהפסקת אש אפשרית דו-צדדית כשוושינגטון וטהרן שוקלות מסגרת מוצעת להסכם רחב יותר; ישראל אמורה לצרף להפסקת האש, כולל בלבנון"
-    },
-    {
-      "title": "Trump: US to 'suspend bombing' of Iran for 2 weeks as talks held on 'longterm peace' deal",
-      "link": "https://www.timesofisrael.com/liveblog-april-08-2026/",
-      "summary": "Israel also part of the ceasefire, White House says, as Iran launches missile attacks on Jerusalem area and south * US president says 'double sided CEASEFIRE' dependent on Iran reopening Strait of Hormuz, claims that 'we have already met and exceeded all military objectives' T...",
-      "pubDate": "Tue, 07 Apr 2026 22:45:53 +0000",
-      "source": "All Israeli News",
-      "priority": "140",
-      "title_hebrew": "טראמפ: ארה\"ב תשעה את ההפצצות באיראן לשבועיים בתום משא ומתן על עסקת שלום לטווח ארוך",
-      "summary_hebrew": "גם ישראל חלק מהפסקת האש, אומר הבית הלבן, כשאיראן משגרת מתקפות טילים על אזור ירושלים והדרום; הנשיא האמריקאי אומר שהפסקת האש הדו-צדדית תלויה בפתיחה מחדש של מצר הורמוז על ידי איראן, טוען שכבר הגשנו וחרגנו מכל היעדים הצבאיים"
+      "priority": "140"
     }
   ]
 }

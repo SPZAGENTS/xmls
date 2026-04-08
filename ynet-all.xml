@@ -1,90 +1,408 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Ynet All Articles — Complete Feed</title>
-  <source>ynet-aggregated</source>
-  <source-type>rss</source-type>
-  <last-updated>2026-04-07T12:06:05.857783</last-updated>
-  <article-count>10</article-count>
+  <title>ynet — All Articles</title>
+  <source>ynet</source>
+  <generated>2026-04-08T05:03:34.594309+00:00</generated>
   <items>
+    <item>
+      <title>Trump says suspended bombing Iran for 2 weeks as Tehran agrees to reopen Strait of Hormuz</title>
+      <link>https://www.ynetnews.com/article/h1ojuzq3wg</link>
+      <summary>President says he agreed to pause US strikes, describing move as part of possible 'double-sided ceasefire' as Washington and Tehran weigh proposed framework for broader agreement; Israel joins truce, denies Lebanon included</summary>
+      <pubDate>Wed, 08 Apr 2026 01:42:41 +03:00</pubDate>
+      <priority>140</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Iran says ‘gloves are off’ as IRGC threatens escalation beyond region ahead of Trump deadline</title>
+      <link>https://www.ynetnews.com/article/hyzg8tg211x</link>
+      <summary>Revolutionary Guards threaten strikes on US and allies if red lines crossed; Trump warns of massive attack within hours; US hit Kharg Island, Israel targets rail and military sites; oil prices surge</summary>
+      <pubDate>Tue, 07 Apr 2026 16:38:03 +03:00</pubDate>
+      <priority>140</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Israel strikes Iranian air force, hits dozens of jets and helicopters in major Tehran attack</title>
+      <link>https://www.ynetnews.com/article/ry2mefw311l</link>
+      <summary>Israel targets IRGC sites and missile infrastructure; Iran responds with intensified barrages aimed at deterring further strikes and signaling Trump</summary>
+      <pubDate>Mon, 06 Apr 2026 21:59:10 +03:00</pubDate>
+      <priority>140</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>איפה נופלים הטילים? האתרים שמציגים בזמן אמת את מפת המלחמה עם איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/b1iojjk5wl</link>
+      <summary>עוד לפני מבצע "שאגת הארי", נולד בישראל אקוסיסטם של מפות והתרעות שמרכז בזמן אמת נתוני שיגורים, יירוטים ושיבושי GPS. יוזמות עצמאיות ואתרי חדשות מציגים לציבור מידע שבעבר היה שמור לחמ"לים צבאיים בלבד. בעולם של איומים מתמשכים, הדאטה הפך לכלי הישרדות של ממש</summary>
+      <pubDate>Wed, 11 Mar 2026 16:17:28 +0200</pubDate>
+      <priority>130</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Iran, Hezbollah launch missiles at Israel as second Passover eve begins; IDF warns of widening escalation</title>
+      <link>https://www.ynetnews.com/article/s1hwcjf2wg</link>
+      <summary>Ballistic missiles target central and northern Israel as holiday begins; no injuries reported; IDF warns vessels off Lebanon coast to move north amid Hezbollah activity; military says campaign against Iran nearing 'strategic crossroads'</summary>
+      <pubDate>Tue, 07 Apr 2026 19:25:20 +03:00</pubDate>
+      <priority>130</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Decades-old 'flaw': missile was not intercepted, entire family was wiped out</title>
+      <link>https://www.ynetnews.com/article/hjiccemnze</link>
+      <summary>In the Gulf War, Patriots failed to stop modified Iraqi missiles; Israeli defenses failed for the same reason in Haifa, where four family members were killed</summary>
+      <pubDate>Tue, 07 Apr 2026 06:58:06 +03:00</pubDate>
+      <priority>130</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Top Gun smile, real war: IAF commander on long-range F-35 strike missions over Iran</title>
+      <link>https://www.ynetnews.com/article/hjmmmsb2wx</link>
+      <summary>After long-range F-35 missions over Iran, Nevatim Airbase commander details operational risks, air force strategy and lessons from October 7, as Israel works to degrade Iranian military capabilities while managing fatigue</summary>
+      <pubDate>Mon, 06 Apr 2026 17:47:28 +03:00</pubDate>
+      <priority>130</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>טראמפ קנה זמן וישראל משלמת מחיר</title>
+      <link>https://www.ynet.co.il/news/article/bjjdwemh11g</link>
+      <summary>הנשיא טראמפ יכול לרשום לזכותו שני הישגים מיידיים כתוצאה מהפסקת האש עם איראן, ואילו ישראל נותרת מול סיכונים ביטחוניים והכרעות לא גמורות בין היתר מול חיזבאללה - אם אכן הכול ייעצר בלבנון</summary>
+      <pubDate>Wed, 08 Apr 2026 05:53:32 +0300</pubDate>
+      <priority>125</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>כך טראמפ החליט לצאת למלחמה - והמתקפה על מצגת נתניהו: "בולשיט, מגוחך"</title>
+      <link>https://www.ynet.co.il/news/article/bjccptghwg</link>
+      <summary>"ניו יורק טיימס" חושף פרטים חדשים: בפגישה ב-11 בפברואר הציג רה"מ לנשיא ארה"ב את תוכנית הפעולה מול איראן, תרחישי שינוי משטר וגם מנהיגים אפשריים - כבנו של השאה. "זה נשמע טוב", אמר טראמפ - אבל בסביבתו לא מיהרו לתמוך. ראש ה-CIA קרא לתרחישי שינוי המשטר "מגוחכים", מזכיר המדינה רוביו...</summary>
+      <pubDate>Tue, 07 Apr 2026 21:42:02 +0300</pubDate>
+      <priority>125</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>דאגה באפריקה: טראמפ מפרק מנגנון אספקת תרופות ל-HIV ולמלריה</title>
+      <link>https://www.ynet.co.il/health/article/syb9cepjbg</link>
+      <summary>מחלקת המדינה הורתה לעובדים ב-17 מדינות באפריקה ובהאיטי לסיים את תוכנית האספקה עד מאי - בלי תוכנית מעבר ברורה. מסמך פנימי שהגיע לרויטרס מזהיר מ"סיכונים מיידיים לרציפות השירות". ארה"ב בשיחות עם הקרן העולמית למאבק באיידס, שחפת ומלריה כחלופה - אך כמה גורמים אומרים שהמועד החדש אינו...</summary>
+      <pubDate>Fri, 03 Apr 2026 16:50:58 +0300</pubDate>
+      <priority>125</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Trump warns Iran: 'A whole civilization will die tonight'</title>
+      <link>https://www.ynetnews.com/article/ol076ejw1</link>
+      <summary>US and Israel hit Iran’s Kharg oil hub and key infrastructure, including bridges and missile sites; Iran warned it could target regional energy assets, while reports described casualties, power outages and expanding attacks across multiple cities</summary>
+      <pubDate>Tue, 07 Apr 2026 14:23:45 +03:00</pubDate>
+      <priority>125</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Iran fires repeatedly at Israel after Trump extends ultimatum to Tehran</title>
+      <link>https://www.ynetnews.com/article/sk01y11m3bg</link>
+      <summary>Non-stop sirens blare across central, southern and northern parts of Israel after US president announced 2-week suspension of bombing tied to Iran reopening Strait of Hormuz; 3 teens lightly hurt in Tel Sheva</summary>
+      <pubDate>Wed, 08 Apr 2026 01:50:18 +03:00</pubDate>
+      <priority>120</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>How Trump decided to strike Iran as aides dismissed Netanyahu’s regime change plan as ‘bullshit’</title>
+      <link>https://www.ynetnews.com/article/hkaherz2bx</link>
+      <summary>NYT report reveals internal White House debates before war; Trump aligned with Netanyahu on strikes but rejected regime change scenarios, which US officials called 'farcical' and 'bullshit,' before approving operation hours before deadline</summary>
+      <pubDate>Tue, 07 Apr 2026 22:12:54 +03:00</pubDate>
+      <priority>120</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Iran rejects ceasefire proposal, demands end to war as Trump says deadline remains final</title>
+      <link>https://www.ynetnews.com/article/skwj3rb2wg</link>
+      <summary>Tehran submits 10-point response via Pakistan, links deal to regional conflicts and Hormuz; Trump warns Iran will 'pay a big price'</summary>
+      <pubDate>Mon, 06 Apr 2026 18:37:24 +03:00</pubDate>
+      <priority>120</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>ארה"ב תקפה ב"אי הנפט", צה"ל הפציץ 8 גשרים - ואיראן מאיימת: "הרסן הותר"</title>
+      <link>https://www.ynet.co.il/news/article/hjxc8dz311g</link>
+      <summary>טראמפ באיום חסר תקדים, לפני הדד-ליין: "ציביליזציה שלמה תמות". ארה"ב תקפה עשרות יעדים באי חארג, ישראל הפציצה גשרים ומסילות ברזל. גם הבסיס הצבאי פרצ'ין הותקף - ומחיר הנפט ממשיך לעלות. איראן מאיימת ב"עלטה בכל האזור" ובסגירת מצר נוסף. תיעוד: שרשראות אנושיות ליד תחנות הכוח והגשרים</summary>
+      <pubDate>Tue, 07 Apr 2026 16:11:36 +0300</pubDate>
+      <priority>115</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Israel strikes across Iran as explosions reported in Tehran and other cities</title>
+      <link>https://www.ynetnews.com/article/rjfcdsgh11l</link>
+      <summary>Opposition-linked media reported a large explosion at the Parchin complex, a major and sensitive defense industry site southeast of Tehran</summary>
+      <pubDate>Tue, 07 Apr 2026 12:32:57 +03:00</pubDate>
+      <priority>115</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Iranian missiles strike central Israel, at least six impact sites reported, no injuries</title>
+      <link>https://www.ynetnews.com/article/h1rh17gh11e</link>
+      <summary>Three waves of sirens triggered across central and southern Israel; reports of impacts in Bnei Brak and Ramat Hasharon, emergency teams search the areas</summary>
+      <pubDate>Tue, 07 Apr 2026 09:48:49 +03:00</pubDate>
+      <priority>115</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>IDF strikes Iran’s largest petrochemical facility</title>
+      <link>https://www.ynetnews.com/article/s1ckjmbnwl</link>
+      <summary>Defense Minister Israel Katz says that following a previous strike on another major facility last week, 85% of Iran’s petrochemical exports and are now out of operation</summary>
+      <pubDate>Mon, 06 Apr 2026 14:43:41 +03:00</pubDate>
+      <priority>115</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>שניות שמצילות חיים: כך עובד "המוח הדיגיטלי" של צה"ל</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14713296</link>
+      <summary>בזמן שהלוחמים מתמרנים בלבנון וטייסי חיל האוויר פועלים בשמי איראן, מאחורי הקלעים פועלת יחידת מצפ"ן - מערכת דיגיטלית פורצת דרך בצה"ל. בראיון מיוחד מספר מפקד היחידה, אל"מ רותם בשי, איך מסייעת המערכת לזהות איומים ולקצר לשניות את זמני קבלת ההחלטות ולחסוך בחיי חיילים</summary>
+      <pubDate>Sun, 22 Mar 2026 09:52:56 +0200</pubDate>
+      <priority>110</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <summary>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</summary>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <priority>110</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>כשאלגוריתם פוגש טיל: כך נכנסה הבינה המלאכותית אל לב המלחמה מול איראן</title>
+      <link>https://www.ynet.co.il/digital/technology/article/rkvml1uy11l</link>
+      <summary>הבינה המלאכותית כבר לא רק מנתחת מודיעין – היא מאיצה את קצב המלחמה כולו. מהפקת מטרות בזמן אמת ועד ניהול יירוטים והפעלת נחילי רחפנים אוטונומיים, האלגוריתמים נכנסו עמוק למרכז קבלת ההחלטות. מאחורי הקלעים של המערכה מול איראן מתגלה שדה קרב חדש לגמרי</summary>
+      <pubDate>Wed, 04 Mar 2026 18:56:02 +0200</pubDate>
+      <priority>110</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
     <item>
       <title>Four IDF soldiers arrested over suspected spying for Iran</title>
       <link>https://www.ynetnews.com/article/hjkgxibhzx</link>
-      <description>Suspects held for weeks as probe reveals attempts to produce explosives for Iranian handlers; separate case details recruitment via social media and crypto payments</description>
+      <summary>Suspects held for weeks as probe reveals attempts to produce explosives for Iranian handlers; separate case details recruitment via social media and crypto payments</summary>
       <pubDate>Tue, 07 Apr 2026 00:08:38 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <priority>110</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
       <title>Victims of Iran missile strike in Haifa identified as Lena, Vladimir, their son Dima and their daughter-in-law Lucille</title>
       <link>https://www.ynetnews.com/article/skxjv8znwx</link>
-      <description>Four members of the Gershovich family were killed when an Iranian missile struck their building, collapsing floors as they tried to shelter; the son had just returned his father home from a prolonged hospital stay</description>
+      <summary>Four members of the Gershovich family were killed when an Iranian missile struck their building, collapsing floors as they tried to shelter; the son had just returned his father home from a prolonged hospital stay</summary>
       <pubDate>Tue, 07 Apr 2026 06:46:51 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <priority>110</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>Four bodies recovered in Haifa after 18-hour rescue following Iran missile strike</title>
-      <link>https://www.ynetnews.com/article/hjbmgez3bx</link>
-      <description>Authorities said the four — an elderly couple in their 80s, their son in his 40s and his partner, a foreign national in her 30s — had apparently tried to shelter in the building’s stairwell and were buried under concrete when the structure collapsed</description>
-      <pubDate>Mon, 06 Apr 2026 11:59:38 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>"הוא גמור, תפסיקו לסגוד לו": מתקפת MAGA על טראמפ</title>
+      <link>https://www.ynet.co.il/news/article/ryilmofnbx</link>
+      <summary>המלחמה עם איראן מעוררת זעם במחנה השמרני על נשיא ארה"ב, גם על רקע ציוציו המאיימים. "המוח שלו לא מתפקד", "תתערבו בשיגעון שלו": הביקורות, הריב עם טאקר קרלסון, הבכירים ש"מבועתים מהמצב" - והקריאה להדחה. וגם: אי-האמון של הציבור האמריקני בנתניהו</summary>
+      <pubDate>Tue, 07 Apr 2026 22:18:10 +0300</pubDate>
+      <priority>105</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>Woman seriously wounded after Iranian missile barrage on central Israel</title>
-      <link>https://www.ynetnews.com/article/sjlkwhx2bl</link>
-      <description>At least two other people were wounded in Tel Aviv; authorities said at least one of the missiles was a cluster-type munition, prompting searches for several possible impact sites</description>
-      <pubDate>Mon, 06 Apr 2026 07:05:32 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>המלחמה שינתה את כללי המשחק - ועכשיו העולם בא ללמוד מישראל</title>
+      <link>https://www.ynet.co.il/digital/technology/article/bk7b2stobg</link>
+      <summary>בשנתיים וחצי של אש מתמשכת נורו לעבר ישראל עשרות אלפי רקטות, טילים ורחפנים - והניסיון המבצעי הפך למטבע עולמי. בתערוכת הדיפנסטק נחשף איך בינה מלאכותית, רובוטים ומערכות יירוט חכמות נולדו מתוך השטח עצמו. אך לצד ההישגים, גם בצה"ל מודים: יש עוד פערים לסגור</summary>
+      <pubDate>Mon, 23 Feb 2026 12:48:18 +0200</pubDate>
+      <priority>105</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>More than 10 impact sites reported in Haifa after latest barrage; no injuries reported</title>
-      <link>https://www.ynetnews.com/article/hk00zlfx2bx</link>
-      <description>Sirens sound in Haifa area following launches from Iran after multiple waves hit central Israel earlier</description>
-      <pubDate>Mon, 06 Apr 2026 06:37:40 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>110</priority-score>
+      <title>Pakistan urges Trump to delay Iran deadline; White House, Tehran review request as ‘civilization’ threat looms</title>
+      <link>https://www.ynetnews.com/article/sy8wjcznze</link>
+      <summary>Pakistan calls for a two-week delay as Iran confirms ongoing indirect talks with the US; appeal comes amid Trump’s warning that 'a whole civilization will die tonight' and IRGC threats of escalation beyond the region</summary>
+      <pubDate>Tue, 07 Apr 2026 22:36:28 +03:00</pubDate>
+      <priority>105</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>אפקט הדומינו: ביום אחד בוטלו 7% מכל הטיסות בעולם - וזו רק ההתחלה</title>
+      <link>https://www.ynet.co.il/economy/article/sj2qs7113bl</link>
+      <summary>המלחמה באיראן הובילה למחסור חמור בדלק סילוני למטוסים ומחירו זינק ב-95%. התוצאה: חברות תעופה מבטלות טיסות בהמוניהן, מה שעלול לפגוע קשות בתעשיית התיירות העולמית ולהוביל לפיטורים דרמטיים, אבטלה גואה ואף למיתון גלובלי. באיטליה כבר שוקלים לשלם לאיראן "מס הורמוז" כדי להחזיר למדינה א...</summary>
+      <pubDate>Mon, 06 Apr 2026 17:04:11 +0300</pubDate>
+      <priority>100</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>"מלחמת הצללים: החיסול בדובאי" מעלה שאלה שישראל מנסה להדחיק</title>
+      <link>https://www.ynet.co.il/entertainment/article/bk2o00xmh11x</link>
+      <summary>יוצרי "צל של אמת", יחד עם רונן ברגמן, חוזרים עם מיני-סדרה על יום הכיפורים של המוסד הישראלי - פרשת חיסול מחמוד אל-מבחוח. הדוקו מצליח להאיר מחדש סיפור שכבר סופר לא פעם, יוצר תמונה מלאה של האופן בו איראן בנתה את חמאס ומציף את השאלה - האם מדיניות החיסולים היא כלי אסטרטגי יעיל או ה...</summary>
+      <pubDate>Tue, 07 Apr 2026 12:06:10 +0300</pubDate>
+      <priority>100</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>נועה קירל צפויה להופיע לצד נכדתו של טראמפ בטקס פרסי ישראל</title>
+      <link>https://www.ynet.co.il/entertainment/article/rk6gvmb311l</link>
+      <summary>פרסום ראשון: ארבלה, בתם של איוונקה טראמפ וג'ארד קושנר, צפויה להופיע לצד הזמרת הישראלית בטקס הנחשב, שאליו צפוי להגיע גם נשיא ארצות הברית - לצד נשיא ארגנטינה חוויאר מיליי שהוזמן אף הוא. זאת, כמובן, בתנאי שיושג עד אז הסכם הפסקת אש בין ישראל וארצות הברית לאיראן</summary>
+      <pubDate>Mon, 06 Apr 2026 15:24:54 +0300</pubDate>
+      <priority>100</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
       <title>'Take it easy tiger': Iran mocks Trump's threat</title>
       <link>https://www.ynetnews.com/article/skniyzz311e</link>
-      <description>Iranian embassies around the world were amused by Donald Trump's unusual social media post in which called for the opening of the 'f**king strait'; one advised Americans to declare Trump unfit to serve as president, while the second posted: 'Get a grip on yourself, old man!'</description>
+      <summary>Iranian embassies around the world were amused by Donald Trump's unusual social media post in which called for the opening of the 'f**king strait'; one advised Americans to declare Trump unfit to serve as president, while the second posted: 'Get a grip on yourself, old man!'</summary>
       <pubDate>Mon, 06 Apr 2026 16:33:25 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>100</priority-score>
+      <priority>100</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>צה"ל: תקפנו באיראן מפעל פטרוכימי ששימש לייצור חומרים לטילים בליסטיים</title>
-      <link>https://www.ynet.co.il/news/article/sjvaixfhzg</link>
-      <description />
-      <pubDate>Tue, 07 Apr 2026 10:04:37 +0300</pubDate>
-      <source>ynet-breaking-news</source>
-      <priority-score>95</priority-score>
+      <title>גורם מדיני בכיר: ארה"ב תיאמה מראש עם ישראל את הפסקת האש עם איראן</title>
+      <link>https://www.ynet.co.il/news/article/hk5su4x3wx</link>
+      <summary />
+      <pubDate>Wed, 08 Apr 2026 05:03:42 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>"אני מנהלת סיכון גדול לחיי אדם במתווה הטיסות. אני לא ישנה טוב בלילה"</title>
-      <link>https://www.ynet.co.il/news/article/yokra14727010</link>
-      <description>שיתוק התעופה במלחמה מול איראן מחייב את שרת התחבורה מירי רגב לקבל הכרעות שמכווצות לה את הבטן / "אתה יודע מה יקרה אם רסיס יפגע במטוס מלא?" היא אומרת, "אבל צריך להראות חוסן ואנשים חייבים חופש" / ראיון על סיכוייה בפריימריז בליכוד ("אני מתמודדת מול גברים, לא נשים"), על טקס יום העצמ...</description>
-      <pubDate>Tue, 07 Apr 2026 08:08:01 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>95</priority-score>
+      <title>דובר צה"ל ל-CNN: ממשיכים לתקוף באיראן</title>
+      <link>https://www.ynet.co.il/news/article/ryci9qq211g</link>
+      <summary />
+      <pubDate>Wed, 08 Apr 2026 04:19:45 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>דיווח: מוג'תבא חמינאי מאושפז בעיר קום מחוסר הכרה ו"לא מסוגל לנהל את המדינה"</title>
-      <link>https://www.ynet.co.il/news/article/bylkpbg211x</link>
-      <description>המנהיג העליון של איראן לא נראה בציבור מאז נבחר ליורש, ולפי ה"טיימס", מסמך דיפלומטי המבוסס על הערכות מודיעיניות אמריקניות-ישראליות חושף כי הוא מקבל טיפול רפואי "חמור" בעיר קום - בניגוד לטענות על פציעות קלות בלבד</description>
-      <pubDate>Tue, 07 Apr 2026 08:01:16 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>95</priority-score>
+      <title>מצרי הורמוז, הסרת הסנקציות - והאורניום: פרטי ההסכם לסיום המלחמה באיראן</title>
+      <link>https://www.ynet.co.il/news/article/h1j7x7qnbl</link>
+      <summary>התקשורת הממלכתית באיראן פרסמה כי תוכנית 10 הנקודות שהועברה לארה"ב כוללת גם פיצויים, שחרור נכסים שהוקפאו, סיום המלחמה מול חיזבאללה ונסיגת ארה"ב מהמפרץ. "מצרי הורמוז? ספינות יעברו בתיאום עם איראן", נכתב. בינתיים, איראן תגבה עמלה על מעבר בהם. השלב הבא: מו"מ בפקיסטן לקראת הסכם סופי</summary>
+      <pubDate>Wed, 08 Apr 2026 04:28:12 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
     <item>
-      <title>טראמפ לא אופטימי שיהיה הסכם, וישראל מחכה לאור ירוק: "היעדים מוכנים"</title>
-      <link>https://www.ynet.co.il/news/article/bkzulwz311l</link>
-      <description>ב"וול סטריט ג'ורנל" דווח כי בשיחות סגורות, נשיא ארה"ב לא אופטימי שיהיה הסכם עם איראן - וצפוי לאשר תקיפות נרחבות של תחנות כוח וגשרים עם פקיעת הדד-ליין. טהרן דורשת שני מיליון דולר לכל ספינה שתעבור במצר הורמוז, שיתחלק בינה לעומאן. גורמים ישראלים ל-CNN: "יש לנו תוכניות לשבועות הקר...</description>
-      <pubDate>Tue, 07 Apr 2026 07:29:49 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>95</priority-score>
+      <title>לילה לא שקט: אזעקות ויירוטים | כל התיעודים</title>
+      <link>https://www.ynet.co.il/news/article/sj5647m211x</link>
+      <summary>אחרי ההכרזה על הפסקת אש זמנית לשבועיים, המשיכה איראן לשגר טילים לעבר ישראל. שלושה נערים נפצעו קל בתל שבע. צפו בתיעודים מהלילה ברחבי הארץ</summary>
+      <pubDate>Wed, 08 Apr 2026 04:17:13 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>פרסום ראשון: טקס יום השואה המרכזי ביד ושם יתקיים ללא קהל ויוקלט מראש</title>
+      <link>https://www.ynet.co.il/news/article/bkeb0hzhzl</link>
+      <summary>כחלק מההיערכות לאירועי הזיכרון בצל המלחמה מול איראן, הוחלט לצלם מראש גם את טקס "לכל איש יש שם" בכנסת. טקס הנחת הזרים הממלכתי יתקיים במועד המקורי, אך ללא קהל - ויד ושם יישאר סגור גם במהלך יום הזיכרון לשואה ולגבורה</summary>
+      <pubDate>Tue, 07 Apr 2026 12:44:53 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>הניצחון המובהק</title>
+      <link>https://www.ynet.co.il/news/article/by3n00s113bl</link>
+      <summary>ישראל וארה"ב מנצחות במערכה כנגד איראן ושלוחיה. זהו ניצחון שמשנה את הכיוון בו ההיסטוריה צעדה ותוצאותיו ילוו אותנו לשנים ארוכות</summary>
+      <pubDate>Tue, 07 Apr 2026 04:08:00 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>עונש מוות - מה בכל זאת השיג החוק ליוזמיו?</title>
+      <link>https://www.ynet.co.il/news/article/skt3lel2zg</link>
+      <summary>בסופו של דבר, החוק מעגן הבחנה נורמטיבית בין נאשמים ערבים לבין יהודים שביצעו רצח ממניע לאומני. הוא קובע דין שונה למעשה זהה, וממסגר אותו באופן מפלה. בנוסף, הוא שולל כמעט לחלוטין אפשרות לשחרור מחבלים עם "דם על הידיים"</summary>
+      <pubDate>Mon, 06 Apr 2026 05:05:00 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>הגזלייטינג של צה"ל</title>
+      <link>https://www.ynet.co.il/news/article/yokra14730869</link>
+      <summary>הצהרות הרמטכ"ל ואלוף פיקוד צפון מעידות שהצבא לכל הפחות שותף בכיר של הממשלה בגיבוש מצג השווא בשלושה היבטים: כוונות חיזבאללה, היכולות שלו והאפשרות לפרק אותו מנשקו</summary>
+      <pubDate>Mon, 06 Apr 2026 00:04:00 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>המשטר שורד על חשבון המדינה</title>
+      <link>https://www.ynet.co.il/news/article/yokra14729221</link>
+      <summary>חמישה שבועות לתוך המלחמה, הרפובליקה האיסלאמית מציגה נחישות ומסרבת לפשרות, גם במחיר הפיכתה של איראן למדינה כושלת</summary>
+      <pubDate>Sun, 05 Apr 2026 00:06:00 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>המלחמה ממשיכה להשפיע על ענף הבנייה: עלויות החומרים מזנקות שוב</title>
+      <link>https://www.ynet.co.il/economy/article/rj4nhf113bl</link>
+      <summary>הקפיצה בעלויות ההובלה בים בעקבות סגירת המייצרים המרכזיים המובילים לישראל הובילו לזינוק במחירים של חומרי ומוצרי הבנייה, שגם כך טיפסו מאז 7 באוקטובר. בענף הבנייה טוענים כי ההתייקרות תתגלגל לכיסם של רוכשי הדירות ומזהירים: "עוד ישראלים יעזבו את הארץ כי לא יהיו להם בית או תשתיות"</summary>
+      <pubDate>Tue, 07 Apr 2026 07:19:44 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>התאומים נדב ואסף פתאל מקבלים את המפתחות לרשת המלונאות הגדולה בישראל</title>
+      <link>https://www.ynet.co.il/economy/article/yokra14724430</link>
+      <summary>שלושה עשורים אחרי שדוד פתאל הקים אימפריית מלונאות, מתיישבים בניו התאומים, נדב ואסף, על כיסא המנכ"לות של הרשת בישראל • בראיון ראשון בתפקיד, הם מדברים על הקשר ביניהם כאחים–שותפים: "אנחנו מכירים אחד את השני 40 שנה, האמון בינינו מוחלט. ברור שיש מחלוקות מקצועיות, אבל היכולת להתווכח...</summary>
+      <pubDate>Mon, 06 Apr 2026 07:49:53 +0300</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>Impacts reported in north, central Israel after Hezbollah, Iranian barrages</title>
+      <link>https://www.ynetnews.com/article/sknsfszhze</link>
+      <summary>Sirens sounded across central Israel; impacts reported in Tel Aviv area, while direct hit in north set vehicles ablaze</summary>
+      <pubDate>Tue, 07 Apr 2026 13:29:08 +03:00</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>IDF continues pushing Hezbollah toward Litani River | Watch</title>
+      <link>https://www.ynetnews.com/article/syrttmfhwx</link>
+      <summary>Military says forces have destroyed nearly 500 Hezbollah sites, including caves and homes, uncovering weapons, drones and supplies; troops also report reduced resistance and signs of weakening coordination on the ground</summary>
+      <pubDate>Tue, 07 Apr 2026 10:10:46 +03:00</pubDate>
+      <priority>95</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>התקדמות בשיא הלחץ: הדרמה שלפני הדד-ליין</title>
+      <link>https://www.ynet.co.il/news/article/rk0pf1xnzl</link>
+      <summary>ראש ממשלת פקיסטן ביקש מטראמפ להאריך את הדד-ליין ומהאיראנים לפתוח את הורמוז. טראמפ אמר: "מו"מ מתוח". בכיר איראני טען: "בוחנים בחיוב". ההתקדמות המשמעותית על רקע ציוץ "מחיקת הציוויליזציה", ההערכה במודיעין הישראלי והאפשרות להתגברות הירי - ייתכן כ"שיגורי פרידה" לסיום המלחמה</summary>
+      <pubDate>Tue, 07 Apr 2026 23:19:49 +0300</pubDate>
+      <priority>90</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>הם לא ישנו לפני המלחמה - עכשיו המצב שלהם מסוכן פי כמה</title>
+      <link>https://www.ynet.co.il/health/article/h1zytngh11x</link>
+      <summary>המלחמה גרמה כמעט לכולנו לסבול מנדודי שינה. אבל, עבור כמיליון וחצי ישראלים, הפרעות שינה הן מצב כרוני, והמלחמה רק הרעה את מצבם. האם לקחת תרופות שינה בזמן מלחמה? איך מצליחים לישון עם אזעקות בלילה? והאם יש טיפולים שיאפשרו לכם לישון אבל גם להתעורר בזמן למרחב המוגן? ד"ר ג'ניפר זיצר,...</summary>
+      <pubDate>Mon, 06 Apr 2026 10:24:26 +0300</pubDate>
+      <priority>90</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>בין מאסק לגייטס: הרשת שטווה אפשטיין בלב עמק הסיליקון</title>
+      <link>https://www.ynet.co.il/digital/technology/article/rypmtz1yzl</link>
+      <summary>3 מיליון מסמכים שנחשפו בארה"ב מציירים תמונה מטרידה של קשרים עמוקים של עבריין המין עם צמרת ההייטק והאקדמיה. מיילים פנימיים, טיסות פרטיות והצעות "ייעוץ" חושפים חדירה לליבה של מיקרוסופט, גוגל וטסלה. וגם זווית ישראלית שלא נעלמה מהתיקים</summary>
+      <pubDate>Fri, 27 Feb 2026 18:53:34 +0200</pubDate>
+      <priority>85</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>האינטרנט שלכם מתחיל בחיפה: הסוד הישראלי שמאחורי מאות לוויינים</title>
+      <link>https://www.ynet.co.il/digital/technology/article/h1ecj8ed11x</link>
+      <summary>במעבדות של רפאל בקריית ים ובתל אביב פותחו מנועים שמנווטים לוויינים במסלולים הקריטיים ביותר בעולם. היעילות הגבוהה מאפשרת להם לפעול שנים ארוכות בלי תקלות ובלי מוסך בדרך. עכשיו החברה רוצה לעבור משלב המנועים - לשלב הלוויין השלם</summary>
+      <pubDate>Thu, 19 Feb 2026 11:06:05 +0200</pubDate>
+      <priority>85</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>וטו רוסי-סיני, וההצעה נפלה: האו"ם לא מגנה את איראן על סגירת מצר הורמוז</title>
+      <link>https://www.ynet.co.il/news/article/bj6d1hg2zx</link>
+      <summary>מדינות המפרץ יזמו הצעת החלטו במועצת הביטחון שלפיה פעולות איראן מהוות איום על השלום והביטחון הבינ"ל, אך למרות תמיכת 11 מדינות - היא נפלה. "זה תקדים מסוכן", הסביר השגריר הרוסי, האמריקני תקף: "מחזיקים את הכלכלה העולמית עם אקדח לרקה". הוא קרא: "מדינות אחראיות - הצטרפו אלינו בהגנה"</summary>
+      <pubDate>Tue, 07 Apr 2026 20:40:22 +0300</pubDate>
+      <priority>80</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>המורד מימין: פטר מדיאר יפיל את המבצר של ויקטור אורבן?</title>
+      <link>https://www.ynet.co.il/news/article/bykucxgnbl</link>
+      <summary>ביום ראשון הקרוב זה קורה: הונגריה הולכת לקלפיות, וכיסאו של ידידו של נתניהו מתנדנד מתמיד. הסיבה: שמרן ימני, לאומני ודתי, שצמח במפלגתו של אורבן וערק לאחר שערוריית חנינה בתיק פדופיליה. ואנס הגיע כדי לסייע לאורבן, אבל מדיאר מוביל בפער גדול - ומהפך אפשרי. איך זה עשוי להשפיע על היחס...</summary>
+      <pubDate>Tue, 07 Apr 2026 18:08:27 +0300</pubDate>
+      <priority>80</priority>
+      <source-display-name>ynet</source-display-name>
+    </item>
+    <item>
+      <title>הרצוג, תהיה וושינגטון</title>
+      <link>https://www.ynet.co.il/news/article/skqvlhbh11l</link>
+      <summary>השוואה בין החנינה שניתנה לריצ'רד ניקסון לבין הקריאות לחנינה עבור בנימין נתניהו מדגישה הן הבדלים מבניים והן הבדלים פוליטיים בין המערכות האמריקאית והישראלית. החנינה לניקסון ניתנה לאחר שניקסון התפטר ולפני שהחל משפט פלילי.</summary>
+      <pubDate>Tue, 07 Apr 2026 05:52:00 +0300</pubDate>
+      <priority>80</priority>
+      <source-display-name>ynet</source-display-name>
     </item>
   </items>
 </content-feed>
