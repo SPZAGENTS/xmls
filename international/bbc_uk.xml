@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-08T22:00:54.500010</generated>
+  <generated>2026-04-08T23:01:16.763496</generated>
   <items>
     <item>
       <title>Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b9/live/12a4d210-335e-11f1-8079-85791470d942.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Why fuel and food prices could still be affected for months</title>
+      <link>https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Analysts fear long-lasting economic damage from the US-Israel war with Iran has already been set in motion.</summary>
+      <pubDate>Wed, 08 Apr 2026 14:07:41 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f4f/live/026763d0-334b-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,7 +96,7 @@
       <title>'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death</title>
       <link>https://www.bbc.com/news/articles/c6258qe1yl0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Jasveen Sangha was found guilty of selling drugs that killed Friends actor Matthew Perry who had struggled with addiction for years.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:28:13 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:34:29 GMT</pubDate>
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a70/live/e3eb39b0-3375-11f1-98b1-a33d5d12908a.png</image>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8195/live/1e35df00-3360-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Temperature exceeds 26C on the warmest day of the year so far</title>
-      <link>https://www.bbc.com/weather/articles/c9d46yx0ndwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Temperatures reached 26C (79F) in some places on Wednesday but it will feel much fresher on Thursday and for the rest of the week.</summary>
-      <pubDate>Wed, 08 Apr 2026 15:45:20 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb89/live/1f081560-335b-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

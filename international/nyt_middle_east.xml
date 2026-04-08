@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-08T22:00:59.926509</generated>
+  <generated>2026-04-08T23:01:22.038935</generated>
   <items>
+    <item>
+      <title>As Trump Swings on Iran, Congress Is Absent and G.O.P. Leaders Mum</title>
+      <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-congress-republicans.html</link>
+      <summary>In a week in which President Trump has veered from threatening to wipe out Iranian civilization to declaring a cease-fire, Congress is out of session and lawmakers with the power to declare war mostly in the dark.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:48:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-cong-iran-gbwf/08dc-cong-iran-gbwf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Fed Minutes Show Officials in No Rush to Cut as Iran War Scrambled Outlook</title>
       <link>https://www.nytimes.com/2026/04/08/business/fed-minutes-rate-cuts-iran-war.html</link>
-      <summary>The conflict in the Middle East has left the Federal Reserve braced for higher inflation, upending expectations about if officials will restart interest rate cuts.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:43:34 +0000</pubDate>
+      <summary>The conflict in the Middle East has left the Federal Reserve braced for higher inflation, with more officials open to the possibility of rate increases.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:12:09 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-fed-zqfm/08dc-fed-zqfm-mediumSquareAt3X.jpg</image>
@@ -41,14 +52,14 @@
       <title>Gulf Arab nations report a barrage of Iranian attacks since the cease-fire.</title>
       <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/gulf-countries-attacks-iran-ceasefire</link>
       <summary />
-      <pubDate>Wed, 08 Apr 2026 18:43:49 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:54:50 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
       <title>What Trump Has Accomplished in Iran After 5 Weeks of War</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html</link>
       <summary>President Trump said “we have already met and exceeded” his military objectives. But his goals are largely unresolved.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:57:24 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:36:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-prexy-zwbq/08dc-prexy-zwbq-mediumSquareAt3X.jpg</image>
@@ -81,7 +92,7 @@
       <title>After Iran Cease-Fire, Ship Traffic in Strait of Hormuz Remains Throttled</title>
       <link>https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html</link>
       <summary>A handful of vessels have crossed the crucial waterway since the U.S.-Iran truce began, but shipowners, insurers and others are wary of safe passage.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:50:40 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 16:50:41 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-shipping-kjqt/08israel-iran-shipping-kjqt-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/00us-iran-leadership-hfgb/00us-iran-leadership-hfgb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Gulf Nations Face New Reality, Whether Cease-Fire Holds or Not</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-cease-fire-gulf-countries-reaction.html</link>
-      <summary>The countries will have to re-evaluate their relationships with Israel, Iran and the United States after a war that has exposed their vulnerability.</summary>
-      <pubDate>Wed, 08 Apr 2026 14:20:30 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/26/multimedia/00hfous-iran-gulf-ghzf/00hfous-iran-gulf-ghzf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
