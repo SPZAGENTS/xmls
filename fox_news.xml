@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-08T16:01:26.950719</generated>
+  <generated>2026-04-08T17:00:52.845690</generated>
   <items>
+    <item>
+      <title>Trump, Rubio face NATO chief as US moves to 'reexamine' alliance after Iran clash</title>
+      <link>https://www.foxnews.com/politics/trump-rubio-face-nato-chief-us-moves-reexamine-alliance-after-iran-clash</link>
+      <summary>President Donald Trump to meet NATO Secretary-General Mark Rutte at the White House as transatlantic tensions escalate over the U.S. military operation in Iran.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:25:04 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-rubio-rutte.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Gen Jack Keane 'skeptical' that Iran ceasefire will hold, warns Tehran will 'delay and obfuscate'</title>
       <link>https://www.foxnews.com/media/gen-jack-keane-skeptical-iran-ceasefire-hold-warns-tehran-delay-obfuscate</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Jennifer-Newsom-speaking.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>CBS filling Stephen Colbert's time slot with Byron Allen program could be new model for late-night TV</title>
-      <link>https://www.foxnews.com/media/cbs-filling-stephen-colberts-time-slot-byron-allen-program-could-be-new-model-late-night-tv</link>
-      <summary>Plans for CBS to replace &amp;quot;The Late Show with Stephen Colbert&amp;quot; with Byron Allen&amp;apos;s &amp;quot;Comics Unleashed&amp;quot; could become the new model for how networks handle late night TV, experts say.</summary>
-      <pubDate>Wed, 08 Apr 2026 07:56:00 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/stephen-colbert-byron-allen.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
