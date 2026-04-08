@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-08T15:01:03.380451</generated>
+  <generated>2026-04-08T16:01:35.296950</generated>
   <items>
     <item>
       <title>Iran live updates: Trump suggests 'joint venture' in Strait of Hormuz, no enrichment</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 08 Apr 2026 07:55:57 -0400</pubDate>
+      <pubDate>Wed, 08 Apr 2026 08:59:30 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Iran-flags-DB260408_1775633536121_hpMain_4x3t_384.jpg</image>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Gunman shot dead outside Israeli consulate in Istanbul, two other gunmen injured</title>
-      <link>https://abcnews.com/video/131804863/</link>
-      <summary>One gunman was shot dead outside the Israeli consulate in Istanbul and two other gunmen were injured on Tuesday, Turkish police told ABC News.</summary>
-      <pubDate>Tue, 07 Apr 2026 12:10:57 -0400</pubDate>
+      <title>Trump expected to meet NATO leader as he considers leaving military alliance</title>
+      <link>https://abcnews.com/US/wireStory/trump-expected-meet-nato-leader-rutte-muses-pulling-131830331</link>
+      <summary>NATO Secretary-General Mark Rutte is expected to meet with President Donald Trump to try to smooth over the president&amp;rsquo;s anger with the military alliance over the Iran war</summary>
+      <pubDate>Wed, 08 Apr 2026 08:50:08 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/260407_abc_social_consulate_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/wirestory_981d250a7265774a4913b63d8797fc34_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Trump achieved ‘decisive military victory’ in Iran, Hegseth says</title>
+      <link>https://abcnews.com/video/131834646/</link>
+      <summary>Secretary Pete Hegseth claimed the U.S. reached a "decisive military victory" in Iran under President Trump at a press conference at the Pentagon on Wednesday.</summary>
+      <pubDate>Wed, 08 Apr 2026 08:54:53 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260408_abc_social_hegseth_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,7 +52,7 @@
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Mon, 06 Apr 2026 19:46:10 -0400</pubDate>
+      <pubDate>Wed, 08 Apr 2026 08:14:05 -0400</pubDate>
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
@@ -63,7 +74,7 @@
       <title>Gilgo Beach suspect returning to court, may change plea to guilty: Sources</title>
       <link>https://abcnews.com/US/gilgo-beach-serial-killer-suspect-rex-heuermann-returning/story?id=131759998</link>
       <summary>Accused Gilgo Beach, New York, serial killer Rex Heuermann might change his plea to guilty at his court appearance on Wednesday.</summary>
-      <pubDate>Wed, 08 Apr 2026 07:07:56 -0400</pubDate>
+      <pubDate>Wed, 08 Apr 2026 08:39:33 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/heuermann-1-ap-jef-260406_1775479486420_hpMain_4x3t_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260407_gmafl_parakeet_rescue_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Emergency landing on PA highway caught on video</title>
-      <link>https://abcnews.com/video/131759769/</link>
-      <summary>A car dashcam caught the moment a small plane landed on I-78 in Allentown, Pennsylvania, after the pilot encountered engine problems.</summary>
-      <pubDate>Mon, 06 Apr 2026 11:42:49 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260406_gma_reeve_emergencylanding4_0742_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
