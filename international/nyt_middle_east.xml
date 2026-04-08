@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-08T12:00:57.874378</generated>
+  <generated>2026-04-08T13:00:57.158188</generated>
   <items>
+    <item>
+      <title>China Pressed Iran Toward Cease-fire, Iranian Officials Say</title>
+      <link>https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html</link>
+      <summary>Beijing appeared to have helped push Tehran to accept the two-week deal with the United States, reflecting China’s growing influence and its stake in avoiding a wider war.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:36:20 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-china-mcpv/08israel-iran-china-mcpv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel Says Iran Cease-Fire Does Not Extend to Lebanon</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-lebanon-israel-hezbollah.html</link>
+      <summary>Prime Minister Benjamin Netanyahu contradicted an earlier statement from Pakistan that said the deal included Lebanon, where Israel is at war with the Iran-backed militant group Hezbollah.</summary>
+      <pubDate>Wed, 08 Apr 2026 09:11:59 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-lebanon-pwqg/08israel-iran-lebanon-pwqg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump</title>
       <link>https://www.nytimes.com/2026/04/07/world/middleeast/pope-leo-xiv-trump-iran-threats.html</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/05/multimedia/07israel-iran-school-strike/07israel-iran-school-strike-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranian Officials Say Indirect Talks With U.S. Ended After Trump’s Latest Threat</title>
-      <link>https://www.nytimes.com/2026/04/07/world/middleeast/iran-trump-negotiations-talks-threat.html</link>
-      <summary>As the United States’ 8 p.m. deadline to open the Strait of Hormuz approaches, Iran vowed to retaliate if its power plants were attacked.</summary>
-      <pubDate>Tue, 07 Apr 2026 19:55:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07israel-iran-regime-wght/07israel-iran-regime-wght-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Threatens Broad Attacks in Iran. How Is Illegal Conduct in War Defined?</title>
-      <link>https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html</link>
-      <summary>It is illegal for any military to target civilians, as President Trump has suggested he would in threats against Iran. But the U.S. has sought significant leeway in defining a civilian target.</summary>
-      <pubDate>Tue, 07 Apr 2026 18:13:12 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/07dc-warcrimes-explainer-qhlz/07dc-warcrimes-explainer-qhlz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
