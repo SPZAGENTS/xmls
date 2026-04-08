@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-08T13:00:55.811600</generated>
+  <generated>2026-04-08T14:03:27.979498</generated>
   <items>
+    <item>
+      <title>Trump administration expected to slash Iran war funding request</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-war-funding/</link>
+      <summary>The eventual ask of Congress is likely to fall between $80 billion and $100 billion, officials said, less than half the amount of an earlier proposal to offset costs of the conflict.</summary>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>JD Vance campaigns for far-right nationalist Viktor Orban in Hungary</title>
       <link>https://www.washingtonpost.com/politics/2026/04/07/vance-orban-trump-election/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/07/chad-bianco-riverside-ballot-seizure/</link>
       <summary>Riverside County Sheriff Chad Bianco, who is running for California governor as a Republican, tried to review ballots despite election officials reaffirming the results.</summary>
       <pubDate>Tue, 07 Apr 2026 13:51:36 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Trump administration’s secrecy on health deals alarms experts, governments</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/</link>
-      <summary>A dearth of information has been disclosed about the agreements, fueling speculation that the “America First” approach to foreign aid is exploitative.</summary>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-08T13:00:51.950891</generated>
+  <generated>2026-04-08T14:03:23.800604</generated>
   <items>
     <item>
       <title>Iran deal gives Trump a way out of war - but at a high cost</title>
@@ -19,7 +19,7 @@
       <title>What we know about the two-week ceasefire between the US and Iran</title>
       <link>https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.</summary>
-      <pubDate>Wed, 08 Apr 2026 02:58:55 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 11:00:53 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2903/live/9dacbc50-32ec-11f1-99b6-23f4623af7b4.jpg</image>
@@ -27,10 +27,21 @@
       </media>
     </item>
     <item>
+      <title>Israel strikes southern Lebanon after US-Iran ceasefire</title>
+      <link>https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Air strikes hit the Tyre and Nabatieh areas hours after the US-Iran ceasefire was announced.</summary>
+      <pubDate>Wed, 08 Apr 2026 10:49:37 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664b/live/2a384f60-3336-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>UK house prices fall as Iran war uncertainty dampens demand</title>
       <link>https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Mortgage rates have been rising and hundreds of the cheapest deals have disappeared over the last month.</summary>
-      <pubDate>Wed, 08 Apr 2026 09:51:42 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:48:58 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e7/live/eb0573e0-331c-11f1-89be-ff1db6c3a1e6.jpg</image>
@@ -41,7 +52,7 @@
       <title>Starmer to visit Middle East after US and Iran reach deal</title>
       <link>https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The prime minister welcomes the deal, saying the UK will do "all we can to support and sustain this ceasefire".</summary>
-      <pubDate>Wed, 08 Apr 2026 07:09:22 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 10:56:54 GMT</pubDate>
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/200115d0-3323-11f1-b297-95b0a0a8331e.jpg</image>
@@ -51,7 +62,7 @@
     <item>
       <title>Oil prices plunge on agreement to reopen Strait of Hormuz</title>
       <link>https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.</summary>
+      <summary>Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.</summary>
       <pubDate>Wed, 08 Apr 2026 08:15:36 GMT</pubDate>
       <priority>90</priority>
       <media>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>How Pakistan helped secure a fragile truce between the US and Iran</title>
-      <link>https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies</summary>
-      <pubDate>Wed, 08 Apr 2026 05:03:31 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d2f/live/18f58ed0-3312-11f1-b297-95b0a0a8331e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Top Australian soldier charged with war crimes to remain in jail on remand</title>
-      <link>https://www.bbc.com/news/articles/c1l9qemvgppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Ben Roberts-Smith faces five charges of the war crime of murder, which has a penalty of life in prison.</summary>
-      <pubDate>Wed, 08 Apr 2026 02:24:33 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b05e/live/9898c820-32f2-11f1-99b6-23f4623af7b4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Tributes after British teen dies in reported Vietnam motorbike fall</title>
       <link>https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Orla Wates is remembered by her mother as "beautiful, independent and very funny".</summary>
       <pubDate>Wed, 08 Apr 2026 09:26:28 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bcd/live/af965420-3324-11f1-a02b-974260fa1e16.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997e/live/52dceb60-3331-11f1-8873-2d60fc58e0b0.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Forecast for UK to peak at 26C before temperatures plunge</title>
+      <link>https://www.bbc.com/weather/articles/c9d46yx0ndwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Temperatures could nudge as high as 26C (79F) in some places on Wednesday.</summary>
+      <pubDate>Wed, 08 Apr 2026 06:17:11 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a034/live/d2954110-3316-11f1-a79a-77e93010d956.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
