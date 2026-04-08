@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-08T14:03:34.396067</generated>
+  <generated>2026-04-08T15:01:04.465249</generated>
   <items>
     <item>
       <title>Former Australian soldier charged with committing 5 war crime murders in Afghanistan</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_b428075a9980783863a8bcb7c70fb989_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>China says Afghanistan and Pakistan agreed to explore a 'comprehensive solution'</title>
+      <link>https://abcnews.com/International/wireStory/china-afghanistan-pakistan-agreed-explore-comprehensive-solution-131829830</link>
+      <summary>China&amp;rsquo;s government has said that Afghanistan and Pakistan agreed not to escalate their conflict and to &amp;ldquo;explore a comprehensive solution&amp;rdquo; after several weeks of cross-border fighting between the two countries that has left hundreds of people killed</summary>
+      <pubDate>Wed, 08 Apr 2026 07:12:15 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,13 +60,13 @@
       </media>
     </item>
     <item>
-      <title>As Trump threatens Iran's infrastructure, a Tehran couple wonders how to prepare</title>
-      <link>https://abcnews.com/International/wireStory/trump-threatens-irans-infrastructure-tehran-couple-wonders-prepare-131790656</link>
-      <summary>A couple living in Iran's capital have grown used to the sound of daily airstrikes five weeks into the war</summary>
-      <pubDate>Tue, 07 Apr 2026 01:42:52 -0400</pubDate>
-      <priority>100</priority>
+      <title>Trial of man accused of torture during Syria's civil war begins in the Netherlands</title>
+      <link>https://abcnews.com/International/wireStory/trial-syrian-man-accused-torture-syrias-civil-war-131830015</link>
+      <summary>A Syrian man accused of crimes against humanity has denied charges of torture and sexual violence in a trial in the Netherlands</summary>
+      <pubDate>Wed, 08 Apr 2026 07:10:32 -0400</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/wirestory_b8ad971bd1870c9290839f4a19c180fe_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_c0bebe3fce7f89c8d15313e9c1ae6dbf_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_afa9783d500e286cefc50dd29a0cd5fe_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ukrainian forces operating in Libya have attacked a Russian tanker, officials say</title>
-      <link>https://abcnews.com/International/wireStory/ukrainian-forces-operating-libya-attacked-russian-tanker-officials-131806401</link>
-      <summary>Two Libyan officials say that Ukrainian forces are operating in western Libya and that they used the region to strike a Russian tanker in the Mediterranean last month</summary>
-      <pubDate>Tue, 07 Apr 2026 12:24:51 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_4b9ec378ea1bf064d13cfe4ea026d2d4_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

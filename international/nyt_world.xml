@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-08T14:03:28.658264</generated>
+  <generated>2026-04-08T15:00:55.099415</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Fragile Cease-Fire Takes Hold as Both Sides Claim Victory</title>
       <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</link>
-      <summary>Global relief at the pause in fighting was tempered by uncertainty over what happens next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it did not include its war against Hezbollah in Lebanon.</summary>
-      <pubDate>Wed, 08 Apr 2026 11:00:57 +0000</pubDate>
+      <summary>International relief was tempered by uncertainty over what comes next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it had launched the largest wave of strikes against Hezbollah in Lebanon since the war began.</summary>
+      <pubDate>Wed, 08 Apr 2026 11:54:35 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-promo-jvwz/08israel-iran-promo-jvwz-mediumSquareAt3X.jpg</image>
@@ -19,7 +19,7 @@
       <title>Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump</title>
       <link>https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</link>
       <summary>Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.</summary>
-      <pubDate>Wed, 08 Apr 2026 10:22:00 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 11:11:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-global-assess-01-fvzw/08int-iran-global-assess-01-fvzw-mediumSquareAt3X.jpg</image>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/07int-oz-soldier-pjht/07int-oz-soldier-pjht-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>War Decimated Iran’s Leadership and Pushed Up a New Generation</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-leadership-next-generation.html</link>
+      <summary>Since the killing of Ayatollah Ali Khamenei, authority has shifted to the Islamic Revolutionary Guards Corps. Younger military leaders have come to the fore.</summary>
+      <pubDate>Wed, 08 Apr 2026 11:07:48 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/00us-iran-leadership-hfgb/00us-iran-leadership-hfgb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-china-mcpv/08israel-iran-china-mcpv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Says Iran Cease-Fire Does Not Extend to Lebanon</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-lebanon-israel-hezbollah.html</link>
-      <summary>Prime Minister Benjamin Netanyahu contradicted an earlier statement from Pakistan that said the deal included Lebanon, where Israel is at war with the Iran-backed militant group Hezbollah.</summary>
-      <pubDate>Wed, 08 Apr 2026 09:11:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-lebanon-pwqg/08israel-iran-lebanon-pwqg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
