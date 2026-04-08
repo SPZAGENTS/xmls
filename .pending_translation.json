@@ -1,26 +1,36 @@
 {
-  "timestamp": "2026-04-08T02:20:07.363804",
-  "new_count": 2,
+  "timestamp": "2026-04-08T03:20:09.655165",
+  "new_count": 3,
   "articles": [
     {
-      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
-      "link": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN's chief says he is \"deeply troubled\" by such statements, as the US president ramps up pressure on Iran to agree a deal to end the war.",
-      "pubDate": "Tue, 07 Apr 2026 21:56:02 GMT",
+      "title": "Oil slides after Trump agrees to conditional two-week Iran ceasefire",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump announced the deal not long before a deadline for a Tuesday evening ultimatum for Iran was reached.",
+      "pubDate": "Tue, 07 Apr 2026 23:40:16 GMT",
       "source": "bbc-uk",
       "priority": "100",
-      "title_hebrew": "טראמפ נגוער על איום שציביליזציה של איראן תמות",
-      "summary_hebrew": "מזכיר האוום אומר שהוא מוטרד מאוד מדברים כאלה, כשהנשיא האמריקאי מגביר את הלחץ על איראן להסכים על עסקה לסיום המלחמה"
+      "title_hebrew": "מחירי הנפט צונחים לאחר שטראמפ הסכים להפסקת אש מותנית של שבועיים עם איראן",
+      "summary_hebrew": "טראמפ הכריז על העסקה זמן קצר לפני תום הדד-ליין לאולטימטום לערב יום שלישי עבור איראן"
     },
     {
-      "title": "Iran fires missiles at central Israel, Jerusalem after Trump extends ultimatum to Tehran",
-      "link": "https://www.ynetnews.com/article/sk01y11m3bg",
-      "summary": "IDF says air defenses engaging incoming threat and issues shelter-in-place orders to residents",
-      "pubDate": "Wed, 08 Apr 2026 01:50:18 +03:00",
+      "title": "Trump says suspended bombing Iran for 2 weeks as Tehran agrees to reopen Strait of Hormuz",
+      "link": "https://www.ynetnews.com/article/h1ojuzq3wg",
+      "summary": "President says he agreed to pause US strikes, describing move as part of possible 'double-sided ceasefire' as Washington and Tehran weigh proposed framework for broader agreement; Israel said to join truce, including in Lebanon",
+      "pubDate": "Wed, 08 Apr 2026 01:42:41 +03:00",
       "source": "All Israeli News",
       "priority": "140",
-      "title_hebrew": "איראן שוגרת טילים על מרכז ישראל וירושלים אחרי שטראמפ האריך את האולטימטום לטהרן",
-      "summary_hebrew": "צה\"ל אומר שמערכות ההגנה האווירית מתמודדות עם האיום הנכנס ומפיצות הוראות להישאר במקומות מוגן לתושבים"
+      "title_hebrew": "טראמפ: השעיתי את ההפצצות באיראן לשבועיים כשטהרן הסכימה לפתוח מחדש את מצר הורמוז",
+      "summary_hebrew": "הנשיא אומר שהסכים להשהות את התקיפות האמריקאיות, מתאר את הצעד כחלק מהפסקת אש אפשרית דו-צדדית כשוושינגטון וטהרן שוקלות מסגרת מוצעת להסכם רחב יותר; ישראל אמורה לצרף להפסקת האש, כולל בלבנון"
+    },
+    {
+      "title": "Trump: US to 'suspend bombing' of Iran for 2 weeks as talks held on 'longterm peace' deal",
+      "link": "https://www.timesofisrael.com/liveblog-april-08-2026/",
+      "summary": "Israel also part of the ceasefire, White House says, as Iran launches missile attacks on Jerusalem area and south * US president says 'double sided CEASEFIRE' dependent on Iran reopening Strait of Hormuz, claims that 'we have already met and exceeded all military objectives' T...",
+      "pubDate": "Tue, 07 Apr 2026 22:45:53 +0000",
+      "source": "All Israeli News",
+      "priority": "140",
+      "title_hebrew": "טראמפ: ארה\"ב תשעה את ההפצצות באיראן לשבועיים בתום משא ומתן על עסקת שלום לטווח ארוך",
+      "summary_hebrew": "גם ישראל חלק מהפסקת האש, אומר הבית הלבן, כשאיראן משגרת מתקפות טילים על אזור ירושלים והדרום; הנשיא האמריקאי אומר שהפסקת האש הדו-צדדית תלויה בפתיחה מחדש של מצר הורמוז על ידי איראן, טוען שכבר הגשנו וחרגנו מכל היעדים הצבאיים"
     }
   ]
 }
