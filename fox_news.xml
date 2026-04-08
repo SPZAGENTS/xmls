@@ -1,9 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Fox News — Top 10 Articles</title>
+  <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-08T07:00:51.947655</generated>
+  <generated>2026-04-08T09:00:51.527539</generated>
   <items>
+    <item>
+      <title>A-10 Warthog given new maritime role targeting boats in Iran after efforts to retire aircraft</title>
+      <link>https://www.foxnews.com/us/a-10-warthog-given-new-maritime-role-targeting-boats-iran-efforts-retire-aircraft</link>
+      <summary>The A-10 Warthog has a new maritime role in targeting boats in the war in Iran that could extend the life of the aircraft after the U.S. Air Force had been attempting to retire it.</summary>
+      <pubDate>Tue, 07 Apr 2026 23:58:33 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/a-10-jets-iran-war-pentagon-air-force.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Pope Leo calls out Trump’s Iran rhetoric before last-minute ceasefire emerges</title>
       <link>https://www.foxnews.com/politics/pope-leo-calls-out-trumps-iran-rhetoric-before-last-minute-ceasefire-emerges</link>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/man-arrested-for-homicide-at-gas-station.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Athena Strand photo shows deadly ride with FedEx driver who admitted killing girl during Christmas delivery</title>
-      <link>https://www.foxnews.com/us/athena-strand-photo-shows-deadly-ride-fedex-driver-admitted-killing-girl-christmas-delivery</link>
-      <summary>FedEx driver Tanner Horner admitted to the capital murder of Athena Strand, 7, after allegedly abducting her during a delivery at her father&amp;apos;s home.</summary>
-      <pubDate>Tue, 07 Apr 2026 18:46:04 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Athena-Strand-Fox-News-03.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

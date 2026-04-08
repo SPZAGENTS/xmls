@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Nyt World — Top 10 Articles</title>
+  <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-08T07:00:55.381874</generated>
+  <generated>2026-04-08T09:00:55.118298</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: U.S., Iran and Israel Agree to Cease-Fire</title>
+      <title>U.S., Iran and Israel Agree to Cease-Fire</title>
       <link>https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news</link>
       <summary>The deal came shortly before President Trump’s deadline for Iran to reopen the Strait of Hormuz or face devastation. Israel said the cease-fire did not include Lebanon.</summary>
-      <pubDate>Wed, 08 Apr 2026 03:39:36 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 05:59:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/07israel-iran-live-promo1025p-tzhv/07israel-iran-live-promo1025p-tzhv-mediumSquareAt3X.jpg</image>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Deadline Time</title>
-      <link>https://www.nytimes.com/2026/04/07/world/iran-deadline-jd-vance-hungary-election.html</link>
-      <summary>U.S. and Israeli forces hit targets in Iran as President Trump threatened to wipe out a “whole civilization.”</summary>
-      <pubDate>Tue, 07 Apr 2026 21:06:37 +0000</pubDate>
-      <priority>100</priority>
+      <title>Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed</title>
+      <link>https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html</link>
+      <summary>The journalist, Shelly Kittleson, was abducted by a militia allied with Iran and held for a week. Iraqi officials say she was freed in exchange for the release of militia members.</summary>
+      <pubDate>Wed, 08 Apr 2026 02:13:47 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-theworld-asia-nl-iran-ltvj-promo/08int-theworld-asia-nl-iran-ltvj-promo-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/02/multimedia/00int-iraq-kidnapping-HFO-wqjk/00int-iraq-kidnapping-HFO-wqjk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

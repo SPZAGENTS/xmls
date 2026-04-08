@@ -2,7 +2,7 @@
 <content-feed>
   <title>Walla — All Articles</title>
   <source>Walla</source>
-  <generated>2026-04-08T05:03:34.615080+00:00</generated>
+  <generated>2026-04-08T06:02:18.964885+00:00</generated>
   <items>
     <item>
       <title>שני קציני צה"ל ואזרח יואשמו בהברחת סחורות לעזה בתוך משאיות הסיוע ההומניטרי</title>
@@ -60,6 +60,18 @@
       <priority>100</priority>
       <media>
         <image>https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/5/4035688-46.png</image>
+        <type>image/jpeg</type>
+      </media>
+      <source-display-name>Walla</source-display-name>
+    </item>
+    <item>
+      <title>העיתונאית האמריקנית שנחטפה בעיראק שוחררה: "עליה לעזוב מידית"</title>
+      <link>https://news.walla.co.il/item/3829124</link>
+      <summary>שלי קיטלסון, שהוחזקה בשבי גדודי חיזבאללה, תשוב לארה"ב אחרי ימים מורטי עצבים שבהם הופעל לחץ כבד על המיליציה השיעית לשחררה. לפי דיווחים, כמה מחברי הארגון שנעצרו במהלך המלחמה ישוחררו בתמורה. רוביו: ממשל טראמפ מחויב לשלומם של האמריקנים בכל מקום בעולם</summary>
+      <pubDate>Wed, 08 Apr 2026 08:30:00 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/3/4033582-46.jpeg</image>
         <type>image/jpeg</type>
       </media>
       <source-display-name>Walla</source-display-name>
@@ -168,18 +180,6 @@
       <priority>70</priority>
       <media>
         <image>https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/5/4035519-46.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-      <source-display-name>Walla</source-display-name>
-    </item>
-    <item>
-      <title>החייל המעוטר ביותר של אוסטרליה מואשם בפשעי מלחמה</title>
-      <link>https://news.walla.co.il/item/3828998</link>
-      <summary>בן רוברטס-סמית, הוכר כגיבור לאומי לאחר שזכה בכמה עיטורים צבאיים בכירים, כולל צלב ויקטוריה, נעצר והואשם בחמישה סעיפים של רצח כפשעי מלחמה במהלך שירותו באפגניסטן. לפי האישומים, הקורבנות היו אזרחים לא חמושים שלא היו מעורבים בלחימה</summary>
-      <pubDate>Tue, 07 Apr 2026 12:29:00 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://images.wcdn.co.il/f_auto,q_auto,w_300/4/0/3/5/4035472-46.jpeg</image>
         <type>image/jpeg</type>
       </media>
       <source-display-name>Walla</source-display-name>
