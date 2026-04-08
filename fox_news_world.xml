@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-08T23:01:18.854035</generated>
+  <generated>2026-04-09T00:01:00.348056</generated>
   <items>
+    <item>
+      <title>UK's NATO show of force ends with docked destroyer in Mediterranean after 'technical' issue</title>
+      <link>https://www.foxnews.com/world/uks-nato-show-force-ends-docked-destroyer-mediterranean-after-technical-issue</link>
+      <summary>The U.K. docked its sole naval warship in the Mediterranean due to technical issues amid growing criticism of PM Starmer&amp;apos;s response to the Iran war.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:11:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Starmer-HMS-Destroyer.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Evangelical leaders rally for Trump and Israel as Operation Epic Fury reshapes the region</title>
       <link>https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region</link>
@@ -89,17 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/majid-khademi-map-split.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now</title>
-      <link>https://www.foxnews.com/world/iran-proxy-militias-threaten-us-universities-lebanon-americans-urged-flee</link>
-      <summary>Iran and its proxy militias have threatened universities in Lebanon, U.S. officials say, and the State Department warned Americans to depart immediately.</summary>
-      <pubDate>Fri, 03 Apr 2026 15:06:37 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/Iraq-Regional-Jitters-1.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
