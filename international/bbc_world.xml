@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-08T19:00:53.067222</generated>
+  <generated>2026-04-08T20:04:14.644407</generated>
   <items>
     <item>
       <title>Iran ceasefire deal gives Trump a way out of war - but at a high cost</title>
@@ -41,10 +41,21 @@
       <title>Oil prices plunge and shares jump on US-Iran ceasefire plan</title>
       <link>https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Crude prices tumbled by more than 15% on the conditional pause but remain far higher than before the war.</summary>
-      <pubDate>Wed, 08 Apr 2026 15:14:16 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 16:36:29 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4882/live/8faf6050-3358-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ships still cautious about using Strait of Hormuz as Iran issues warning</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:13:44 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/30e05350-327b-11f1-934f-036468834728.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WHO suspends Gaza medical evacuations after contractor killed by Israeli troops</title>
-      <link>https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed "an immediate threat".</summary>
-      <pubDate>Tue, 07 Apr 2026 13:55:19 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d500/live/3cc9d920-3280-11f1-9fac-89e41bab67f2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-08T19:01:03.916361</generated>
+  <generated>2026-04-08T20:04:25.797763</generated>
   <items>
     <item>
       <title>Former Australian soldier charged with committing 5 war crime murders in Afghanistan</title>
@@ -45,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_332059536d7c4d6071c8f5abb35d8c8d_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trial of man accused of torture during Syria's civil war begins in the Netherlands</title>
-      <link>https://abcnews.com/International/wireStory/trial-syrian-man-accused-torture-syrias-civil-war-131830015</link>
-      <summary>A Syrian man accused of crimes against humanity has denied charges of torture and sexual violence in a trial in the Netherlands</summary>
-      <pubDate>Wed, 08 Apr 2026 07:30:09 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_c0bebe3fce7f89c8d15313e9c1ae6dbf_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Vietnam elects Communist Party chief as president, echoing China's power structure</title>
-      <link>https://abcnews.com/International/wireStory/vietnam-elects-communist-party-chief-president-echoing-chinas-131789817</link>
-      <summary>Vietnam has unanimously elected Communist Party leader To Lam as president, consolidating his control over both party and state</summary>
-      <pubDate>Tue, 07 Apr 2026 02:00:12 -0400</pubDate>
-      <priority>65</priority>
+      <title>Dominican officials to cancel classes, warning of flooding and power outages</title>
+      <link>https://abcnews.com/International/wireStory/heavy-rains-force-dominican-officials-cancel-classes-warning-131845905</link>
+      <summary>Heavy rains in the Dominican Republic are causing power outages and forcing officials to suspend classes at some public and private schools</summary>
+      <pubDate>Wed, 08 Apr 2026 12:46:07 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_9e2e66ff044145f3411617e422424b78_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Bahamian officials search for missing US woman after husband says she fell overboard</title>
+      <link>https://abcnews.com/International/wireStory/bahamian-officials-search-missing-us-woman-after-husband-131843233</link>
+      <summary>Authorities in the Bahamas are searching for a U.S. woman who is missing at sea after her husband reported that she fell overboard</summary>
+      <pubDate>Wed, 08 Apr 2026 12:37:23 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
