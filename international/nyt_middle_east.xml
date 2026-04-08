@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-08T18:01:53.517837</generated>
+  <generated>2026-04-08T19:00:57.363767</generated>
   <items>
+    <item>
+      <title>What Trump Has Accomplished in Iran After 5 Weeks of War</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/trump-iran-goals.html</link>
+      <summary>President Trump said “we have already met and exceeded” his military objectives. But his goals are largely unresolved.</summary>
+      <pubDate>Wed, 08 Apr 2026 15:49:05 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-prexy-zwbq/08dc-prexy-zwbq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Hegseth Demands Iran Turn Over Uranium Stockpiles</title>
       <link>https://www.nytimes.com/2026/04/08/world/middleeast/hegseth-caine-iran-uranium.html</link>
       <summary>The American defense secretary warned President Trump could still order a commando raid to seize 970 pounds of enriched uranium buried in Isfahan if Iran does not agree.</summary>
-      <pubDate>Wed, 08 Apr 2026 14:38:33 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 14:38:34 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-hegseth-caine-topart-wplj/08israel-iran-hegseth-caine-topart-wplj-mediumSquareAt3X.jpg</image>
@@ -30,7 +41,7 @@
       <title>After Iran Cease-Fire, Ship Traffic in Strait of Hormuz Remains Throttled</title>
       <link>https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html</link>
       <summary>A handful of vessels have crossed the crucial waterway since the U.S.-Iran truce began, but shipowners, insurers and others are wary of safe passage.</summary>
-      <pubDate>Wed, 08 Apr 2026 13:11:08 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 15:27:03 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-shipping-kjqt/08israel-iran-shipping-kjqt-mediumSquareAt3X.jpg</image>
@@ -74,7 +85,7 @@
       <title>Israel Says Iran Cease-Fire Does Not Extend to Lebanon and Continues Strikes</title>
       <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-lebanon-israel-hezbollah.html</link>
       <summary>Deadly airstrikes pummeled Lebanon in what Israel said was its largest bombing wave yet in the monthlong war with Iran-backed Hezbollah.</summary>
-      <pubDate>Wed, 08 Apr 2026 14:18:41 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 15:54:54 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-lebanon-pwqg/08israel-iran-lebanon-pwqg-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/24/multimedia/24israel-iran-timeline-HFO-03-ghcb/24israel-iran-timeline-HFO-03-ghcb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Iran Threats Look Like Self-Incrimination for Potential War Crimes</title>
-      <link>https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html</link>
-      <summary>President Trump, in vowing to systematically destroy civilian infrastructure and annihilate Iran’s entire civilization, appears to be creating evidence about his intentions.</summary>
-      <pubDate>Tue, 07 Apr 2026 23:43:08 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/dc-trump-warcrimes-hmjf/dc-trump-warcrimes-hmjf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,13 +2,20 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-08T18:01:51.617861</generated>
+  <generated>2026-04-08T19:00:55.537997</generated>
   <items>
+    <item>
+      <title>Israel kills dozens in Beirut, claims Lebanon is not part of Iran truce</title>
+      <link>https://www.washingtonpost.com/world/2026/04/08/israel-strikes-beirut-lebanon-iran-ceasefire/</link>
+      <summary>Israeli strikes pounded the Lebanese capital, killing dozens of people in an aerial barrage hours after the U.S.-Iran ceasefire took hold.</summary>
+      <pubDate>Wed, 08 Apr 2026 15:51:59 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Halt in strikes mostly holds after Trump, Iran agree to 2-week ceasefire</title>
       <link>https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/</link>
       <summary>With Washington and Tehran each claiming victory, the agreement raised the prospect of some respite after nearly six weeks of bombing.</summary>
-      <pubDate>Wed, 08 Apr 2026 13:17:57 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 15:11:45 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/world/2026/04/07/iran-war-fears-trump-infrastructure-economy-attacks/</link>
       <summary>People in Iran say they could be left to pick up the pieces if President Donald Trump destroys the country’s infrastructure and economy.</summary>
       <pubDate>Tue, 07 Apr 2026 15:07:15 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iran war hits supply chains for K-beauty, ramen and clothes</title>
-      <link>https://www.washingtonpost.com/world/2026/04/07/asia-shortages-iran-war-naphtha-oil-hormuz/</link>
-      <summary>Even potato chips aren’t safe from the ripple effects of President Donald Trump’s war, which is disrupting supply chains across Asia.</summary>
-      <pubDate>Tue, 07 Apr 2026 09:55:53 +0000</pubDate>
       <priority>100</priority>
     </item>
   </items>
