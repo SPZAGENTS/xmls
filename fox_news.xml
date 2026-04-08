@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-09T01:01:00.127509</generated>
+  <generated>2026-04-09T02:01:05.757694</generated>
   <items>
+    <item>
+      <title>White House fires back at George Clooney after actor accuses Trump of threatening a war crime</title>
+      <link>https://www.foxnews.com/entertainment/white-house-fires-back-george-clooney-actor-accuses-trump-threatening-war-crime</link>
+      <summary>George Clooney blasts Trump&amp;apos;s threat to end a civilization as a potential war crime. The White House responds by mocking Clooney&amp;apos;s movies and acting.</summary>
+      <pubDate>Wed, 08 Apr 2026 18:50:35 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-george-clooney.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Schumer blasts Trump’s Iran war as failure, moves to rein in his war powers amid ceasefire</title>
       <link>https://www.foxnews.com/politics/schumer-blasts-trumps-iran-war-failure-moves-rein-war-powers-amid-ceasefire</link>
@@ -23,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hezbollah-iran.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Michael Moore calls Democratic Party 'cowards' who actually support Iran war</title>
-      <link>https://www.foxnews.com/media/michael-moore-calls-democratic-party-cowards-who-actually-support-iran-war</link>
-      <summary>Michael Moore claimed Democratic Party leadership supports the Iran conflict after arguing President Donald Trump made a &amp;quot;holocaust&amp;quot; level threat against the country.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:16:30 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Michael-Moore-speaks.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Kirk Cousins reveals how a FaceTime call with Tom Brady sealed his decision to join the Raiders</title>
-      <link>https://www.foxnews.com/sports/kirk-cousins-reveals-facetime-call-tom-brady-sealed-decision-join-raiders</link>
-      <summary>Kirk Cousins credited Tom Brady for giving him a big nudge toward signing with the Las Vegas Raiders, calling their FaceTime conversation &amp;quot;life-giving.&amp;quot;</summary>
-      <pubDate>Wed, 08 Apr 2026 16:17:12 -0400</pubDate>
-      <priority>75</priority>
+      <title>Top school district slapped with complaint alleging 'elaborate system' to keep kids' gender transitions secret</title>
+      <link>https://www.foxnews.com/politics/top-school-district-slapped-complaint-elaborate-system-keep-kids-gender-transitions-secret</link>
+      <summary>Montgomery County Public Schools faces a federal complaint alleging its gender identity handbook helps staff keep parents in the dark about key decisions involving their children.</summary>
+      <pubDate>Wed, 08 Apr 2026 18:31:02 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/kirk-cousins-tom-brady-raymond-james-stadium-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/montgomery-county-schools-parental-rights-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
