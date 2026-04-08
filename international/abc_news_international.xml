@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <content-feed>
-  <title>Abc News International — Top 10 Articles</title>
+  <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-08T07:01:01.191436</generated>
+  <generated>2026-04-08T09:01:00.932788</generated>
   <items>
     <item>
       <title>Former Australian soldier charged with committing 5 war crime murders in Afghanistan</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_b428075a9980783863a8bcb7c70fb989_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Bahrain sounds its missile alert alarm hours after U.S. and Iran said they agreed on a 2-week ceasefire in the war</title>
+      <link>https://abcnews.com/International/wireStory/bahrain-sounds-missile-alert-alarm-hours-after-us-131826469</link>
+      <summary>Bahrain sounds its missile alert alarm hours after U.S. and Iran said they agreed on a 2-week ceasefire in the war</summary>
+      <pubDate>Wed, 08 Apr 2026 01:00:49 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>North Korea fires missiles toward sea after ridiculing South's hopes for better ties</title>
-      <link>https://abcnews.com/International/wireStory/north-korea-fires-missiles-sea-after-ridiculing-souths-131820652</link>
-      <summary>South Korea&amp;rsquo;s military says it detected North Korea firing several ballistic missiles toward its eastern seas in its second launch event in two days</summary>
-      <pubDate>Tue, 07 Apr 2026 23:53:59 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_098ca1f60e71fe6aa25539d8a9e14c96_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>French train driver killed, 16 injured in a railway crossing crash</title>
       <link>https://abcnews.com/International/wireStory/french-train-driver-killed-16-injured-railway-crossing-131800600</link>
       <summary>A French high-speed train driver has died after his train collided with a truck carrying military equipment in northern France</summary>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>North Korea fires missiles toward sea after ridiculing South's hopes for better ties</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-fires-missiles-sea-after-ridiculing-souths-131820652</link>
+      <summary>South Korea&amp;rsquo;s military says it detected North Korea firing several short-range ballistic missiles toward the sea Wednesday</summary>
+      <pubDate>Wed, 08 Apr 2026 01:53:57 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_098ca1f60e71fe6aa25539d8a9e14c96_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Japanese national believed to be NHK journalist detained in Iran released on bail</title>
       <link>https://abcnews.com/International/wireStory/japanese-national-believed-nhk-journalist-detained-iran-released-131790654</link>
       <summary>Japan&amp;rsquo;s top government spokesperson says a Japanese national who had been detained in Iran since January has been released on bail</summary>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_f11238d25825452fba571baf64eaa327_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Decorated Australian veteran remains behind bars on Afghan war crime charges</title>
-      <link>https://abcnews.com/International/wireStory/decorated-australian-veteran-remains-bars-afghan-war-crime-131825638</link>
-      <summary>Australia&amp;rsquo;s most decorated living veteran did not apply for bail when the war crime murder charges against him were listed in a Sydney court Wednesday</summary>
-      <pubDate>Tue, 07 Apr 2026 23:57:24 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_345fb96c8a6f7eb825a303335f8a111c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
