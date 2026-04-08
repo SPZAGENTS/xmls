@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-08T22:00:59.330920</generated>
+  <generated>2026-04-08T23:01:21.446746</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon</title>
       <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</link>
-      <summary>Israel launched a major offensive against Iran-backed Hezbollah in Lebanon, and Iran threatened to retaliate if the strikes were not “immediately halted.” The Trump administration and Iran disagree about whether Lebanon was included in the truce.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:58:57 +0000</pubDate>
+      <summary>The speaker of Iran’s parliament accused the U.S. of violating the cease-fire over Israel’s attacks on Iran-backed Hezbollah in Lebanon. The Trump administration and Iran disagree about whether Lebanon was included in the truce.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:59:19 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-promo-130pm-lkzq/08israel-iran-promo-130pm-lkzq-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08iran-400-kbzq/08iran-400-kbzq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump</title>
       <link>https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</link>
       <summary>Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.</summary>
-      <pubDate>Wed, 08 Apr 2026 17:23:18 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:15:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-global-assess-01-fvzw/08int-iran-global-assess-01-fvzw-mediumSquareAt3X.jpg</image>
@@ -63,28 +63,17 @@
       <title>Gulf Arab nations report a barrage of Iranian attacks since the cease-fire.</title>
       <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/gulf-countries-attacks-iran-ceasefire</link>
       <summary />
-      <pubDate>Wed, 08 Apr 2026 18:43:49 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:54:50 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
       <title>What Trump Has Accomplished in Iran After 5 Weeks of War</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html</link>
       <summary>President Trump said “we have already met and exceeded” his military objectives. But his goals are largely unresolved.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:57:24 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:36:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-prexy-zwbq/08dc-prexy-zwbq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Hegseth Demands Iran Turn Over Uranium Stockpiles</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/hegseth-caine-iran-uranium.html</link>
-      <summary>The American defense secretary warned President Trump could still order a commando raid to seize 970 pounds of enriched uranium buried in Isfahan if Iran does not agree.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:32:28 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-hegseth-caine-topart-wplj/08israel-iran-hegseth-caine-topart-wplj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +96,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-ceasefire-wtk-qmbk/08int-iran-ceasefire-wtk-qmbk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.</title>
+      <link>https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html</link>
+      <summary>After the deadliest attack in Afghanistan since the Taliban took over, families searched among photos and remains for signs of their relatives.</summary>
+      <pubDate>Tue, 07 Apr 2026 15:42:11 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00int-kabul-strike-families-promo-mzbc/00int-kabul-strike-families-promo-mzbc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

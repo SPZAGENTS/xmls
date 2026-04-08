@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-08T22:01:07.132705</generated>
+  <generated>2026-04-08T23:01:28.888832</generated>
   <items>
     <item>
       <title>Oil prices plunge and stocks soar after U.S. and Iran agree on a ceasefire</title>
@@ -47,13 +47,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Your sarcasm is showing — and its history is surprisingly violent</title>
-      <link>https://www.npr.org/2026/04/08/nx-s1-5771648/sarcasm-origin-history-etymology</link>
-      <summary>Some people use sarcasm jokingly. But funnily enough, we tend not to find it witty when we're on the receiving end.</summary>
-      <pubDate>Wed, 08 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>Colleges are trying to boost student voting. A Trump probe freezes data for that work</title>
       <link>https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration</link>
       <summary>To figure out how to boost student voting, colleges have relied on a study about campus voter registration and turnout rates. A Trump administration investigation has cut schools off from new data.</summary>
@@ -61,10 +54,10 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Telehealth abortion will remain available for now, after a federal judge's ruling</title>
-      <link>https://www.npr.org/2026/04/07/nx-s1-5776946/telehealth-abortion-louisiana-federal-court-mifepristone</link>
-      <summary>The abortion pill mifepristone must undergo a safety review by the FDA, the judge said. Louisiana's case seeking to ban its use through telemedicine will proceed after that review.</summary>
-      <pubDate>Tue, 07 Apr 2026 21:52:15 -0400</pubDate>
+      <title>Your sarcasm is showing — and its history is surprisingly violent</title>
+      <link>https://www.npr.org/2026/04/08/nx-s1-5771648/sarcasm-origin-history-etymology</link>
+      <summary>Some people use sarcasm jokingly. But funnily enough, we tend not to find it witty when we're on the receiving end.</summary>
+      <pubDate>Wed, 08 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -73,6 +66,13 @@
       <summary>A tortured Oslo police detective may be on the trail of a psycho killer in this genuinely suspenseful screen adaptation of Jo Nesbø's The Devil's Star.</summary>
       <pubDate>Wed, 08 Apr 2026 09:18:17 -0400</pubDate>
       <priority>50</priority>
+    </item>
+    <item>
+      <title>Why OpenAI bought 'SportsCenter for Silicon Valley'</title>
+      <link>https://www.npr.org/2026/04/08/nx-s1-5775734/openai-tbpn-tech-media-silicon-valley</link>
+      <summary>OpenAI is seeking to shape the public narrative about AI with the purchase of a niche talk show popular with Silicon Valley insiders.</summary>
+      <pubDate>Wed, 08 Apr 2026 15:17:45 -0400</pubDate>
+      <priority>35</priority>
     </item>
   </items>
 </content-feed>
