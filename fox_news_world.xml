@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-09T00:01:00.348056</generated>
+  <generated>2026-04-09T01:01:00.739866</generated>
   <items>
+    <item>
+      <title>Iran threatens to end ceasefire over Hezbollah's exclusion from truce deal</title>
+      <link>https://www.foxnews.com/world/iran-threatens-end-ceasefire-over-hezbollahs-exclusion-from-truce-deal</link>
+      <summary>Iran says the U.S. must choose between ceasefire or war via Israel as Tuesday&amp;apos;s ceasefire deal excludes Tehran-backed terrorist group Hezbollah.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:58:48 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hezbollah-iran.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>UK's NATO show of force ends with docked destroyer in Mediterranean after 'technical' issue</title>
       <link>https://www.foxnews.com/world/uks-nato-show-force-ends-docked-destroyer-mediterranean-after-technical-issue</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/majid-khademi-map-split.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations</title>
-      <link>https://www.foxnews.com/world/australias-decorated-living-soldier-charged-amid-fierce-debate-war-crimes-allegations</link>
-      <summary>Australia&amp;apos;s most decorated living soldier Ben Roberts-Smith arrested and charged with allegedly murdering five unarmed Afghans in Afghanistan.</summary>
-      <pubDate>Tue, 07 Apr 2026 14:10:49 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Ben-Roberts-Smith-defamation.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
