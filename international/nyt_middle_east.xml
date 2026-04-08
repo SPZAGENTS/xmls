@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-08T23:01:22.038935</generated>
+  <generated>2026-04-09T00:01:04.396799</generated>
   <items>
     <item>
-      <title>As Trump Swings on Iran, Congress Is Absent and G.O.P. Leaders Mum</title>
+      <title>Has Trump Met His War Goals in Iran?</title>
+      <link>https://www.nytimes.com/2026/04/08/us/politics/trump-war-goals.html</link>
+      <summary>On the first day of the pause, Iran fired missiles and launched drones in the region. It said an oil refinery on Lavan Island had been attacked. Israel continued its strikes in Lebanon.</summary>
+      <pubDate>Wed, 08 Apr 2026 20:43:53 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-wargoals-explainer-01-fgqw/08dc-wargoals-explainer-01-fgqw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As Trump Swings on Iran War, Republicans Leaders in Congress Are Largely Silent</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-congress-republicans.html</link>
       <summary>In a week in which President Trump has veered from threatening to wipe out Iranian civilization to declaring a cease-fire, Congress is out of session and lawmakers with the power to declare war mostly in the dark.</summary>
-      <pubDate>Wed, 08 Apr 2026 19:48:36 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:48:37 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-cong-iran-gbwf/08dc-cong-iran-gbwf-mediumSquareAt3X.jpg</image>
@@ -41,7 +52,7 @@
       <title>For Trump, Resuming Combat in Iran Would Be Risky, Even if Cease-Fire Expires</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-combat-political-risks.html</link>
       <summary>President Trump knows that even if a cease-fire runs out with no final agreement on the issues dividing Washington and Tehran, the political risk of renewing hostilities is high.</summary>
-      <pubDate>Wed, 08 Apr 2026 17:58:05 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 20:32:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-assess-zwfv/08dc-assess-zwfv-mediumSquareAt3X.jpg</image>
@@ -58,8 +69,8 @@
     <item>
       <title>What Trump Has Accomplished in Iran After 5 Weeks of War</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html</link>
-      <summary>President Trump said “we have already met and exceeded” his military objectives. But his goals are largely unresolved.</summary>
-      <pubDate>Wed, 08 Apr 2026 19:36:58 +0000</pubDate>
+      <summary>President Trump said that “we have already met and exceeded” his military objectives. But his goals are largely unresolved.</summary>
+      <pubDate>Wed, 08 Apr 2026 20:27:23 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-prexy-zwbq/08dc-prexy-zwbq-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-shipping-kjqt/08israel-iran-shipping-kjqt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>War Decimated Iran’s Leadership and Pushed Up a New Generation</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-leadership-next-generation.html</link>
-      <summary>Since the killing of Ayatollah Ali Khamenei, authority has shifted to the Islamic Revolutionary Guards Corps. Younger military leaders have come to the fore.</summary>
-      <pubDate>Wed, 08 Apr 2026 11:07:48 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/00us-iran-leadership-hfgb/00us-iran-leadership-hfgb-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-08T23:01:19.890199</generated>
+  <generated>2026-04-09T00:01:02.283359</generated>
   <items>
-    <item>
-      <title>Hormuz traffic at standstill, strikes reported in Gulf amid fragile Iran ceasefire</title>
-      <link>https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/</link>
-      <summary>With Trump and Iran each claiming victory, but still far apart on key issues, the two-week agreement raises the prospect of respite after nearly six weeks of war.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:30:47 +0000</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>As Hegseth proclaims victory in Iran war, Caine takes cautious tone</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/08/hegseth-caine-iran-ceasefire/</link>
       <summary>The defense secretary described the state of hostilities mostly in past tense. The Joint Chiefs chairman noted that the “ceasefire is a pause” in combat operations.</summary>
-      <pubDate>Wed, 08 Apr 2026 17:47:18 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 20:22:18 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/07/hegseth-iran-rhetoric/</link>
       <summary>The defense secretary’s rosy portrayal of U.S. success in the conflict risks misinforming the public and the president, observers worry.</summary>
       <pubDate>Tue, 07 Apr 2026 16:34:28 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Iranian civilians voice fear and fatigue as U.S. escalates conflict</title>
+      <link>https://www.washingtonpost.com/world/2026/04/07/iran-war-fears-trump-infrastructure-economy-attacks/</link>
+      <summary>People in Iran say they could be left to pick up the pieces if President Donald Trump destroys the country’s infrastructure and economy.</summary>
+      <pubDate>Tue, 07 Apr 2026 15:07:15 +0000</pubDate>
       <priority>100</priority>
     </item>
   </items>
