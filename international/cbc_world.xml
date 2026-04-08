@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-08T17:01:03.306792</generated>
+  <generated>2026-04-08T18:02:00.503869</generated>
   <items>
     <item>
       <title>Sporadic attacks reported in Iran, Gulf countries hours after Trump announces ceasefire</title>
@@ -54,13 +54,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Israeli airstrike kills 4 Palestinians in Gaza, medics say</title>
-      <link>https://www.cbc.ca/news/world/israeli-airstrike-palestinians-killed-9.7153563?cmp=rss</link>
-      <summary>An Israeli airstrike killed four Palestinians in the northern Gaza Strip on Sunday, local health authorities said, in the latest violence to overshadow ‌a fragile ceasefire amid a new push by mediators to bolster the agreement.</summary>
-      <pubDate>Sun, 05 Apr 2026 08:40:59 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump says U.S. will 'work closely' with Iran amid confusion over ceasefire terms</title>
       <link>https://www.cbc.ca/news/world/livestory/u-s-israel-iran-war-trump-deadline-9.7154523?cmp=rss</link>
       <summary />
@@ -72,6 +65,13 @@
       <link>https://www.cbc.ca/radio/asithappens/ukraine-bat-release-festival-9.7128068?cmp=rss</link>
       <summary>Over the weekend more than 1,000 spectators gathered in Ukraine to carefully open cloth bags and release dozens of rescued bats into the air. Alona Pryslutska, co-founder of the Ukrainian Bat Rehab Center, says not even the war is stopping this unconventional marker of the arr...</summary>
       <pubDate>Tue, 07 Apr 2026 16:39:40 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>On Easter, Pope Leo urges world leaders to end wars, conquest</title>
+      <link>https://www.cbc.ca/news/world/pope-leo-easter-message-9.7153591?cmp=rss</link>
+      <summary>Pope Leo urged global leaders in his Easter message on Sunday to end the conflicts raging across the world and abandon any schemes for power, conquest or domination.</summary>
+      <pubDate>Sun, 05 Apr 2026 09:53:13 EDT</pubDate>
       <priority>90</priority>
     </item>
   </items>

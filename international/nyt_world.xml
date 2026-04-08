@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-08T17:00:56.123901</generated>
+  <generated>2026-04-08T18:01:52.874673</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Fragile Cease-Fire Takes Hold as Both Sides Claim Victory</title>
       <link>https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news</link>
-      <summary>International relief was tempered by uncertainty over what comes next. Israel declared its support for the two-week truce between the U.S. and Iran, but said it had launched the largest wave of strikes against Hezbollah in Lebanon since the war began.</summary>
-      <pubDate>Wed, 08 Apr 2026 13:57:17 +0000</pubDate>
+      <summary>International relief was tempered by uncertainty over what comes next. Israel declared its support for the two-week truce between the U.S. and Iran, but pressed ahead with its strikes against Hezbollah in Lebanon.</summary>
+      <pubDate>Wed, 08 Apr 2026 14:50:07 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-promo-jvwz/08israel-iran-promo-jvwz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-top--02-bmgl/08israel-iran-top--02-bmgl-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump</title>
       <link>https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html</link>
       <summary>Across Europe and the globe, the war has damaged economies, roiled politics and underscored a lack of options in dealing with President Trump’s whims.</summary>
-      <pubDate>Wed, 08 Apr 2026 13:56:37 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 14:43:36 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-global-assess-01-fvzw/08int-iran-global-assess-01-fvzw-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Hegseth Demands Iran Turn Over Uranium Stockpiles</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/hegseth-caine-iran-uranium.html</link>
+      <summary>The American defense secretary warned President Trump could still order a commando raid to seize 970 pounds of enriched uranium buried in Isfahan if Iran does not agree.</summary>
+      <pubDate>Wed, 08 Apr 2026 14:38:33 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-hegseth-caine-topart-wplj/08israel-iran-hegseth-caine-topart-wplj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Stuck in ‘Limbo,’ Iranians Take Stock After Six Brutal Weeks</title>
       <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-voices.html</link>
       <summary>With a tenuous cease-fire in place, Iranians are left picking up the pieces of their lives. Some fear the government will crack down on its domestic critics.</summary>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/00us-iran-leadership-hfgb/00us-iran-leadership-hfgb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Delta Expects Strong Profit Despite Higher Fuel Costs</title>
-      <link>https://www.nytimes.com/2026/04/08/business/delta-air-lines-earnings.html</link>
-      <summary>The airline said demand for tickets remained very strong despite the effects of the war in Iran.</summary>
-      <pubDate>Wed, 08 Apr 2026 10:47:31 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08biz-delta-tjhc/08biz-delta-tjhc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
