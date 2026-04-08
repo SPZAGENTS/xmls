@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-09T00:01:04.396799</generated>
+  <generated>2026-04-09T01:01:04.211182</generated>
   <items>
+    <item>
+      <title>White House Knew About Pakistan’s Cease-Fire Post on X Before It Was Sent</title>
+      <link>https://www.nytimes.com/2026/04/08/world/middleeast/trump-pakistan-tweet-iran.html</link>
+      <summary>Pakistan’s prime minister posted a public plea on X for President Trump to extend his Tuesday evening deadline for Iran. The White House was directly involved in shaping the message.</summary>
+      <pubDate>Wed, 08 Apr 2026 21:44:17 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-behind-scenes-pakistan1-gchp/08israel-iran-behind-scenes-pakistan1-gchp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Has Trump Met His War Goals in Iran?</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-war-goals.html</link>
       <summary>On the first day of the pause, Iran fired missiles and launched drones in the region. It said an oil refinery on Lavan Island had been attacked. Israel continued its strikes in Lebanon.</summary>
-      <pubDate>Wed, 08 Apr 2026 20:43:53 +0000</pubDate>
+      <pubDate>Wed, 08 Apr 2026 20:59:03 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-wargoals-explainer-01-fgqw/08dc-wargoals-explainer-01-fgqw-mediumSquareAt3X.jpg</image>
@@ -18,8 +29,8 @@
     <item>
       <title>As Trump Swings on Iran War, Republicans Leaders in Congress Are Largely Silent</title>
       <link>https://www.nytimes.com/2026/04/08/us/politics/trump-iran-congress-republicans.html</link>
-      <summary>In a week in which President Trump has veered from threatening to wipe out Iranian civilization to declaring a cease-fire, Congress is out of session and lawmakers with the power to declare war mostly in the dark.</summary>
-      <pubDate>Wed, 08 Apr 2026 19:48:37 +0000</pubDate>
+      <summary>In a week in which President Trump has veered from threatening to wipe out Iranian civilization to declaring a cease-fire, Congress is out of session and lawmakers with the power to declare war are mostly in the dark.</summary>
+      <pubDate>Wed, 08 Apr 2026 21:38:36 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08dc-cong-iran-gbwf/08dc-cong-iran-gbwf-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-iranian-voices-wqhv/08israel-iran-iranian-voices-wqhv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>After Iran Cease-Fire, Ship Traffic in Strait of Hormuz Remains Throttled</title>
-      <link>https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html</link>
-      <summary>A handful of vessels have crossed the crucial waterway since the U.S.-Iran truce began, but shipowners, insurers and others are wary of safe passage.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:50:41 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-shipping-kjqt/08israel-iran-shipping-kjqt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
