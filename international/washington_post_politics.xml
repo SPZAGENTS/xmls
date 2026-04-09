@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-09T02:01:08.568345</generated>
+  <generated>2026-04-09T03:00:57.135256</generated>
   <items>
     <item>
       <title>Trump to discuss leaving NATO in meeting with alliance’s leader, White House says</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump says God supports U.S. cause in Iran war as he threatens wider bombing</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/06/trump-iran-war-christianity/</link>
-      <summary>The president offered a new rationale for the costly, unpopular conflict: “God wants to see people taken care of,” he said.</summary>
-      <pubDate>Mon, 06 Apr 2026 23:14:15 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Trump’s Iran brinkmanship reaches truce, escalates backlash at home</title>
       <link>https://www.washingtonpost.com/politics/2026/04/08/trump-iran-threats-deal/</link>
       <summary>The president’s ultimatum drew condemnation across the political spectrum and intensified open debate about his credibility, morality and sanity.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/07/chad-bianco-riverside-ballot-seizure/</link>
       <summary>The court accepted a case challenging an unusual investigation by Riverside County Sheriff Chad Bianco, who is running for California governor as a Republican.</summary>
       <pubDate>Wed, 08 Apr 2026 18:24:36 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump has battled the drug industry. Now its top lobbyist is leaving.</title>
+      <link>https://www.washingtonpost.com/health/2026/04/08/washingtons-most-powerful-drug-industry-lobbyist-is-stepping-down/</link>
+      <summary>Steve Ubl built PhRMA into a more aggressive operation, one that has tangled with President Donald Trump as he seeks to curb drug prices.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:28:34 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

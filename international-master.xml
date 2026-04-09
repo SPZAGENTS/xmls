@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-09T02:01:17.075005</generated>
-  <total_articles>346</total_articles>
+  <generated>2026-04-09T03:01:05.151322</generated>
+  <total_articles>345</total_articles>
   <items>
     <item>
       <title>Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long</title>
@@ -25,6 +25,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c0/live/d9445160-3341-11f1-9d5c-8ba507d7dbde.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>'Even if Iran war ends now, farmers' costs will have to be passed on'</title>
+      <link>https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.</summary>
+      <pubDate>Wed, 08 Apr 2026 23:03:53 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ff/live/3e1e7ec0-32a3-11f1-bcd7-95478cdf5125.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/9bbd8820-333c-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>What we know about the two-week ceasefire between the US and Iran</title>
-      <link>https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.</summary>
-      <pubDate>Wed, 08 Apr 2026 20:25:49 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063b/live/9d8855b0-333f-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
   </items>
