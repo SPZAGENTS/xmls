@@ -2,16 +2,38 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-09T02:01:13.920444</generated>
+  <generated>2026-04-09T03:01:02.391512</generated>
   <items>
     <item>
-      <title>Reopening of the Strait of Hormuz in jeopardy after Israeli attack on Lebanon</title>
-      <link>https://abcnews.com/International/reopening-strait-hormuz-jeopardy-after-israeli-attack-lebanon/story?id=131846094</link>
-      <summary>Iran closed the Strait of Hormuz and claimed Israel violated a ceasefire agreement by launching a major attack against Lebanon on Wednesday.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:26:24 -0400</pubDate>
+      <title>WATCH: Urgent search for victims in deadly Philadelphia parking garage collapse</title>
+      <link>https://abcnews.com/video/131859183/</link>
+      <summary>A seven-story parking garage that was under construction partially collapsed in Philadelphia, killing at least one person.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:54:51 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Strait-of-hormuz-gty-bh-260408_1775676446228_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/WNT/260408_wn_lenghi_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump suggests US, Iran could work together to remove 'nuclear dust'</title>
+      <link>https://abcnews.com/Politics/trump-suggests-us-iran-work-remove-nuclear-dust/story?id=131856150</link>
+      <summary>While many details of the U.S. deal with Iran are still unclear or to be negotiated, President Donald Trump suggested they could work together to remove nuclear material.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:44:50 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-14-rt-gmh-260406_1775496555816_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Criminal investigation opened on woman missing, going overboard in Bahamas: Sources</title>
+      <link>https://abcnews.com/International/husband-woman-reported-missing-bahamas-after-overboard-speaks/story?id=131843133</link>
+      <summary>In a statement posted to social media, Brian Hooker said "unpredictable seas and high winds" caused his "beloved Lynette to fall from our small dinghy" near Elbow Cay.</summary>
+      <pubDate>Wed, 08 Apr 2026 19:07:12 -0400</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/hookers-1-ht-er-260406_1775515425027_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Growing trend of Gen Z men being drawn to Catholicism</title>
+      <link>https://abcnews.com/video/131859405/</link>
+      <summary>Young Catholic convert William Bogdan discusses what drew him to the Catholic faith and why he thinks more younger men are joining the church.</summary>
+      <pubDate>Wed, 08 Apr 2026 18:58:43 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Lifestyle/260408_abcnl_6p_gen_z_religion1_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Artemis II returns stunning images from historic lunar flyby</title>
       <link>https://abcnews.com/video/131792831/</link>
       <summary>Transportation correspondent Gio Benitez shares images taken by four astronauts who traveled farther into space than any humans before during the lunar flyby.</summary>
@@ -74,43 +107,10 @@
       <title>WATCH: Golden retriever brightens stressful train journey for UK commuters</title>
       <link>https://abcnews.com/video/131855863/</link>
       <summary>An adorable golden retriever therapy dog named Max helped ease a stressful journey for commuters aboard a crowded train in the United Kingdom.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:23:04 -0400</pubDate>
+      <pubDate>Wed, 08 Apr 2026 19:27:34 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260408_abc_social_therapy_dog_uk1_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Accused Gilgo Beach serial killer Rex Heuermann admits to killing eight women</title>
-      <link>https://abcnews.com/video/131847467/</link>
-      <summary>Heuermann changed his plea to guilty and admitted to the murders of eight women in court.</summary>
-      <pubDate>Wed, 08 Apr 2026 15:23:41 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260408_abc_social_gilgo_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Ketamine Queen' sentenced to 15 years in Matthew Perry's overdose death</title>
-      <link>https://abcnews.com/US/ketamine-queen-set-sentenced-connection-matthew-perrys-overdose/story?id=131770412</link>
-      <summary>Jasveen Sangha admitted to working with another dealer to provide the "Friends" actor with dozens of vials of ketamine in the weeks before his fatal overdose.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:34:20 -0400</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/Sangha-sh-er-260326_1774540790150_hpMain_2_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Prosecutors move to subpoena Tiger Woods' prescription drug records after DUI arrest</title>
-      <link>https://abcnews.com/US/wireStory/prosecutors-move-subpoena-tiger-woods-prescription-drug-records-131856657</link>
-      <summary>Prosecutors are seeking Tiger Woods' prescription drug records from a Florida pharmacy</summary>
-      <pubDate>Wed, 08 Apr 2026 17:40:31 -0400</pubDate>
-      <priority>50</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_30bc48ec18e8ffae6bc4a62b404d4b9a_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
