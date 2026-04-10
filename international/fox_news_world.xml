@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-10T18:01:04.520126</generated>
+  <generated>2026-04-10T19:00:53.628714</generated>
   <items>
+    <item>
+      <title>Iran’s ‘Godfather of propaganda’ tactics resurface in war with US and Israel</title>
+      <link>https://www.foxnews.com/world/irans-godfather-propaganda-tactics-resurface-war-us-israel</link>
+      <summary>Experts say Iran uses civilians and children as human shields for propaganda purposes, caring nothing for the safety and fate of its own people.</summary>
+      <pubDate>Fri, 10 Apr 2026 11:03:30 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/iranian-flag-april-1-2026-2.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Inside Tehran after strikes: Iranian woman describes fear, checkpoints and people used as ‘human shields’</title>
       <link>https://www.foxnews.com/world/inside-tehran-after-strikes-iranian-woman-describes-fear-checkpoints-people-human-shields</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/931/523/gettyimages-506421604.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russia, China veto UN resolution aimed at reopening Strait of Hormuz, hours before Trump deadline</title>
-      <link>https://www.foxnews.com/world/russia-china-veto-un-resolution-aimed-reopening-strait-hormuz-hours-trump-deadline</link>
-      <summary>Russia and China vetoed a U.N. resolution to reopen the Strait of Hormuz hours before President Donald Trump&amp;apos;s deadline for Iran to stop threatening the vital waterway.</summary>
-      <pubDate>Tue, 07 Apr 2026 13:50:52 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/un-security-council-vote-strait-hormuz-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
