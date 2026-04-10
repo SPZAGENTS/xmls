@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-10T14:01:10.959452</generated>
+  <generated>2026-04-10T15:01:03.564128</generated>
   <items>
+    <item>
+      <title>AMB GORDON SONDLAND: NATO blinked on Iran, and Trump has every right to be furious</title>
+      <link>https://www.foxnews.com/opinion/amb-gordon-sondland-nato-blinked-iran-trump-every-right-furious</link>
+      <summary>A former U.S. ambassador to the EU argues NATO&amp;apos;s hesitation after strikes on Iran emboldens adversaries and erodes the credibility of Western deterrence.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:00:17 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/president-donald-trump-NATO-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Why Melania Trump is denying alleged smears related to Jeffrey Epstein–and wants victims to testify</title>
       <link>https://www.foxnews.com/opinion/why-melania-trump-denying-alleged-smears-related-jeffrey-epstein-and-wants-victims-testify</link>
@@ -60,13 +71,35 @@
       </media>
     </item>
     <item>
-      <title>MAN VS MACHINE: Philadelphians aren't taking kindly to sharing sidewalks with delivery robots</title>
-      <link>https://www.foxnews.com/media/man-vs-machine-philadelphians-arent-taking-kindly-sharing-sidewalks-delivery-robots</link>
-      <summary>Philadelphia residents are clashing with Uber Eats delivery robots, with incidents of kicking and sitting on the autonomous sidewalk couriers reported.</summary>
-      <pubDate>Thu, 09 Apr 2026 21:30:49 -0400</pubDate>
+      <title>Artemis II crew closes in on Earth as mission ends with Pacific splashdown and more top headlines</title>
+      <link>https://www.foxnews.com/us/artemis-ii-crew-closes-earth-mission-ends-pacific-splashdown-more-top-headlines</link>
+      <summary>Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:13:26 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/uber-eats-delivery-robot-1.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/nasa-artemis-ii-astronauts-moon-mission.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'To Catch a Predator' host Chris Hansen warns Roblox dangers far worse than past online chatrooms</title>
+      <link>https://www.foxnews.com/media/to-catch-predator-host-chris-hansen-warns-roblox-dangers-far-worse-than-past-online-chatrooms</link>
+      <summary>Chris Hansen compared Roblox to an amusement park where kids are flying off rides, warning parents about what he claims is a surge of grooming.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:00:53 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/chris-hansen-roblox-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Divorce boom may follow use of Ozempic and other GLP-1 drugs, experts warn</title>
+      <link>https://www.foxnews.com/health/divorce-boom-may-follow-use-ozempic-glp-1-drugs-experts-warn</link>
+      <summary>Research suggests GLP-1 drugs like Ozempic and Wegovy could double divorce risk, mirroring trends seen in bariatric surgery patients, experts say.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:00:32 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/divorce-couple-relationship-conflict-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/randy-fine-december-18-2025.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>I'm a drone CEO. Our skies are dangerously exposed — here's the solution</title>
-      <link>https://www.foxnews.com/opinion/im-drone-ceo-skies-dangerously-exposed-heres-solution</link>
-      <summary>A Digital Flight Authorization System could replace fragmented drone approval processes with real-time verification of operators and missions.</summary>
-      <pubDate>Fri, 10 Apr 2026 05:00:01 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/ukraine-fpv-drones.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Simple fruit combo could improve heart function in weeks, new study finds</title>
-      <link>https://www.foxnews.com/food-drink/simple-fruit-combo-could-improve-heart-function-weeks-study-finds</link>
-      <summary>A new study found that adults with prediabetes who ate one avocado and one cup of mango daily for eight weeks saw improvements in vascular function, though experts note caveats.</summary>
-      <pubDate>Fri, 10 Apr 2026 06:00:28 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/young-woman-peeling-mango-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>School choice is booming and families are winning as the education cartel crumbles</title>
-      <link>https://www.foxnews.com/opinion/school-choice-booming-families-winning-education-cartel-crumbles</link>
-      <summary>As the Trump administration winds down the Department of Education, a school choice revolution gains momentum with over 1.3 million students enrolled.</summary>
-      <pubDate>Fri, 10 Apr 2026 05:00:11 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/students-classroom.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-10T14:01:09.350503</generated>
+  <generated>2026-04-10T15:01:02.139534</generated>
   <items>
     <item>
       <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Simple guide: How the Iran war is affecting the cost of holidays, food and clothes</title>
+      <link>https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.</summary>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a8/live/3891a4f0-34b5-11f1-9d5c-8ba507d7dbde.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +71,13 @@
       </media>
     </item>
     <item>
-      <title>How the cost of holidays, food and clothes is rising - despite the Iran ceasefire</title>
-      <link>https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.</summary>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-      <priority>75</priority>
+      <title>Ireland protester willing to 'close the country' over fuel costs</title>
+      <link>https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Irish military will be deployed to move vehicles "blocking critical infrastructure".</summary>
+      <pubDate>Fri, 10 Apr 2026 11:33:22 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a8/live/3891a4f0-34b5-11f1-9d5c-8ba507d7dbde.png</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c344/live/d4b47d40-3437-11f1-a18c-d7e9f5df98a8.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ab6/live/9704d300-34a5-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Dublin Airport issues travel guidance as Irish fuel protests continue</title>
-      <link>https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Irish military will be deployed to move vehicles "blocking critical infrastructure".</summary>
-      <pubDate>Fri, 10 Apr 2026 09:52:39 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c344/live/d4b47d40-3437-11f1-a18c-d7e9f5df98a8.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
