@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-10T21:00:55.953516</generated>
+  <generated>2026-04-10T22:00:54.938460</generated>
   <items>
+    <item>
+      <title>U.S. and Iran want to end the war, but peace talks hinge on these issues</title>
+      <link>https://www.washingtonpost.com/world/2026/04/10/iran-united-states-war-peace-talks/</link>
+      <summary>The sides are far apart on Iran’s nuclear program, the Strait of Hormuz and the Israeli campaign against Hezbollah in Lebanon.</summary>
+      <pubDate>Fri, 10 Apr 2026 18:21:54 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump fumes as Iran retains choke hold on Strait of Hormuz ahead of peace talks</title>
       <link>https://www.washingtonpost.com/world/2026/04/10/iran-us-war-ceasefire-trump/</link>
@@ -66,13 +73,6 @@
       <summary>The request for the Americans’ release may be delayed if the talks between President Donald Trump’s team and Iran prove difficult, according to people briefed on the plans.</summary>
       <pubDate>Fri, 10 Apr 2026 13:52:35 +0000</pubDate>
       <priority>90</priority>
-    </item>
-    <item>
-      <title>In Lebanon’s shelters, not everyone is welcome</title>
-      <link>https://www.washingtonpost.com/world/2026/04/09/lebanon-israel-hezbollah-displacement-war/</link>
-      <summary>Those who are able head for second homes, move in with family or stay in hotels. Those who aren’t crowd into cramped shelters, stadiums or parking lots, or worse.</summary>
-      <pubDate>Thu, 09 Apr 2026 09:14:36 +0000</pubDate>
-      <priority>75</priority>
     </item>
   </items>
 </content-feed>

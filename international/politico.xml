@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-10T21:00:54.773893</generated>
+  <generated>2026-04-10T22:00:54.405975</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/bf/43/28550b534f1187badcf33b0089dc/vatican-pope-53951.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'What the hell did he just say?' GOP Iran worries build after Trump speech.</title>
-      <link>https://www.politico.com/news/2026/04/02/what-the-hell-did-he-just-say-gop-iran-worries-build-after-trump-speech-00855321</link>
-      <summary>Republicans wanted a clear message on the war from Trump. Instead, some feel like they got the runaround.</summary>
-      <pubDate>Thu, 02 Apr 2026 11:26:54 EST</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static.politico.com/ba/9a/0199a977457d9cdbf89123cc0cfd/aptopix-trump-iran-us-12569.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -87,6 +76,17 @@
       <summary />
       <pubDate>Thu, 02 Apr 2026 22:59:00 EST</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Inside the DNC’s Middle East (not) working group</title>
+      <link>https://www.politico.com/news/2026/04/10/dnc-middle-east-resolution-00867186</link>
+      <summary>The Democratic National Committee set up a task force to tackle the Middle East. Seven months later, the working group still has work to do.</summary>
+      <pubDate>Fri, 10 Apr 2026 13:00:00 EST</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://static.politico.com/c8/1e/23f76b774826bf47ea113e831a76/us-israel-85101.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Harris gives her clearest signal she is mounting a 2028 presidential bid</title>
