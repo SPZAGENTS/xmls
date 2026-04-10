@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-10T16:01:02.590119</generated>
+  <generated>2026-04-10T17:01:06.930901</generated>
   <items>
+    <item>
+      <title>Inflation surges to highest level in nearly two years as energy costs spike</title>
+      <link>https://www.npr.org/2026/04/10/nx-s1-5780604/inflation-consumer-prices-economy</link>
+      <summary>Consumer prices in March were up 3.3% from a year ago, the biggest annual increase in nearly two years. Higher gasoline prices tied to the war with Iran accounted for much of the surge.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:07:21 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump says Iran 'doing a very poor job' in reopening the Strait of Hormuz</title>
       <link>https://www.npr.org/2026/04/10/g-s1-117013/trump-iran-strait-of-hormuz</link>
@@ -12,18 +19,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Nations tried to impose a digital fog of war in Iran. The results are mixed</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship</link>
-      <summary>Governments are blocking the internet, banning social media posts and cutting access to commercial satellite images. But experts say that efforts to censor information have had mixed results.</summary>
+      <title>There's growing disquiet in the military. The Iran war made it worse</title>
+      <link>https://www.npr.org/2026/04/10/nx-s1-5771612/military-iran-war-trump-conscientious-objector</link>
+      <summary>Since Trump began his second term, his administration's use of the armed forces has left a growing number in the military unsettled, according to NPR interviews with service members and advocates.</summary>
       <pubDate>Fri, 10 Apr 2026 05:00:00 -0400</pubDate>
       <priority>100</priority>
-    </item>
-    <item>
-      <title>Artemis II astronauts are set to return to Earth today. Here's what to expect</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5776716/artemis-ii-astronauts-return-earth-moon-splashdown-pacific</link>
-      <summary>After swooping around the moon, viewing an eclipse, breaking an Apollo distance record and testing out a space toilet, NASA's Artemis II mission is about to return to Earth. Here's what the astronauts must face to make it safely home.</summary>
-      <pubDate>Fri, 10 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>95</priority>
     </item>
     <item>
       <title>China's Xi meets Taiwan opposition leader ahead of key summit with Trump</title>
@@ -54,16 +54,16 @@
       <priority>50</priority>
     </item>
     <item>
-      <title>Women are getting most of the new jobs. What's going on with men?</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5773327/women-men-jobs-health-care-manufacturing</link>
-      <summary>Over the past year, the vast majority of new jobs have gone to women. One economist says to help men find work, we need to embrace ways to "make girly jobs appeal to manly men."</summary>
+      <title>Stephen Colbert and Marjorie Taylor Greene are OUT. Who is IN? The quiz knows</title>
+      <link>https://www.npr.org/2026/04/10/g-s1-116787/arsenio-zendaya-colbert-bitcoin-news-quiz</link>
+      <summary>If you keep up with secret identities, you'll get at least one question right this week!</summary>
       <pubDate>Fri, 10 Apr 2026 05:01:00 -0400</pubDate>
       <priority>50</priority>
     </item>
     <item>
-      <title>Stephen Colbert and Marjorie Taylor Greene are OUT. Who is IN? The quiz knows</title>
-      <link>https://www.npr.org/2026/04/10/g-s1-116787/arsenio-zendaya-colbert-bitcoin-news-quiz</link>
-      <summary>If you keep up with secret identities, you'll get at least one question right this week!</summary>
+      <title>Women are getting most of the new jobs. What's going on with men?</title>
+      <link>https://www.npr.org/2026/04/10/nx-s1-5773327/women-men-jobs-health-care-manufacturing</link>
+      <summary>Over the past year, the vast majority of new jobs have gone to women. One economist says to help men find work, we need to embrace ways to "make girly jobs appeal to manly men."</summary>
       <pubDate>Fri, 10 Apr 2026 05:01:00 -0400</pubDate>
       <priority>50</priority>
     </item>

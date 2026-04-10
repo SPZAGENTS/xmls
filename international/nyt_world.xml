@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-10T16:00:56.349991</generated>
+  <generated>2026-04-10T17:01:00.527082</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Vance Departs for Talks With Iran as Lebanon Impasse Threatens Cease-Fire</title>
       <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</link>
-      <summary>Vice President JD Vance expressed optimism before traveling to Pakistan to meet with Iranian officials. Israel said it would continue striking Hezbollah, the Iran-backed Lebanese militia, despite Iranian demands to extend the truce to Lebanon.</summary>
-      <pubDate>Fri, 10 Apr 2026 12:56:15 +0000</pubDate>
+      <summary>Vice President JD Vance expressed optimism before traveling to Pakistan, though Iran has threatened to boycott the talks if the truce is not extended to Lebanon.</summary>
+      <pubDate>Fri, 10 Apr 2026 13:56:50 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-promo-0715EST-gplv/10israel-iran-promo-0715EST-gplv-mediumSquareAt3X.jpg</image>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire</title>
+      <link>https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html</link>
+      <summary>Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.</summary>
+      <pubDate>Fri, 10 Apr 2026 13:53:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-iran-embassies-fhqc/00int-iran-embassies-fhqc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
       <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
       <summary>For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.</summary>
@@ -41,7 +52,7 @@
       <title>Vance Faces Test of His Negotiating Skills With Iran Talks</title>
       <link>https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html</link>
       <summary>Vice President JD Vance is leading negotiations this weekend toward an end to a war that he had opposed starting.</summary>
-      <pubDate>Fri, 10 Apr 2026 09:03:38 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 13:53:25 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09dc-vance-klcj/09dc-vance-klcj-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-ukraine-zelensky-vcpz/09int-ukraine-zelensky-vcpz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Cease-Fire for Now in Iran, but a Blow to American Credibility</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/iran-war-suez.html</link>
-      <summary>Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.</summary>
-      <pubDate>Thu, 09 Apr 2026 04:27:57 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-suez-assess-0001-kfjm/09int-iran-suez-assess-0001-kfjm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
