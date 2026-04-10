@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-10T06:00:53.405611</generated>
+  <generated>2026-04-10T07:00:55.084681</generated>
   <items>
+    <item>
+      <title>Trump blasts Biden admin for releasing illegal immigrant now charged in fatal hammer attack on Florida mother</title>
+      <link>https://www.foxnews.com/politics/trump-blasts-biden-admin-releasing-haitian-immigrant-charged-fatal-hammer-attack-florida-mother</link>
+      <summary>President blasts Biden for releasing a Haitian immigrant now accused of fatally bludgeoning a woman with a hammer at a Florida gas station last week.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:00:48 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/illegal-immigrant-attacks-woman-at-gas-station.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Inside Tehran after strikes: Iranian woman describes fear, checkpoints and people used as ‘human shields’</title>
       <link>https://www.foxnews.com/world/inside-tehran-after-strikes-iranian-woman-describes-fear-checkpoints-people-human-shields</link>
@@ -78,17 +89,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/caitlin-clark-lexie-hull.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Biden-appointed judge at center of repeated clashes with Trump administration issues new immigration block</title>
-      <link>https://www.foxnews.com/politics/biden-appointed-judge-center-repeated-clashes-trump-admin-issues-new-immigration-block</link>
-      <summary>Biden-appointed Judge Brian Murphy blocked the deportation of thousands of Ethiopian migrants, finding DHS did not follow proper protocols to cancel their temporary protected status.</summary>
-      <pubDate>Thu, 09 Apr 2026 18:00:53 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/brian-murphy.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
