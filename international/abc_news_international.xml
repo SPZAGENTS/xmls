@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-10T08:01:39.608298</generated>
+  <generated>2026-04-10T09:01:06.726979</generated>
   <items>
     <item>
       <title>Pro-Iran groups have used AI to troll Trump and try to control the war narrative</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_6622aa77b833cbd470b53ed7d43be9bd_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
+      <link>https://abcnews.com/International/wireStory/croatian-fishermen-feel-strain-after-iran-war-ramps-131906377</link>
+      <summary>Croatian fishermen are facing tough times as rising fuel prices, driven by the war in Iran, impact the industry</summary>
+      <pubDate>Fri, 10 Apr 2026 01:36:15 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_04e7aa974513232d01a42f3d8279b4ce_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</title>
-      <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131870911</link>
-      <summary>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</summary>
-      <pubDate>Thu, 09 Apr 2026 08:02:56 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>UK and Norway led military operation to deter Russian submarines in the N. Atlantic</title>
       <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131871001</link>
       <summary>The U.K. says British and Norwegian militaries led an operation to deter Russian submarines suspected of &amp;ldquo;malign activity&amp;rdquo; in the North Atlantic</summary>
@@ -56,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_7aa163bc29266504dd1d4c9949aeafde_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</title>
+      <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131870911</link>
+      <summary>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</summary>
+      <pubDate>Thu, 09 Apr 2026 08:02:56 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Peruvians choosing a president from 35-candidate pool in Sunday's election</title>
-      <link>https://abcnews.com/International/wireStory/peruvians-choosing-president-35-candidate-pool-sundays-election-131868230</link>
-      <summary>Peru's next president will be chosen from a pool of 35 candidates that includes a former minister, a comedian and a political dynasty heiress</summary>
-      <pubDate>Thu, 09 Apr 2026 04:52:20 -0400</pubDate>
+      <title>Pope's Africa trip takes him to a source of growth for the church, and critical challenges</title>
+      <link>https://abcnews.com/International/wireStory/popes-africa-trip-takes-source-growth-church-critical-131906197</link>
+      <summary>Pope Leo XIV is making a long and ambitious odyssey across four African countries -- Algeria, Angola, Cameroon and Equatorial Guinea</summary>
+      <pubDate>Fri, 10 Apr 2026 01:36:37 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_980a5ee78d1fed794dc6c9b90f9a1ce4_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Japanese town sours on the crowds coming to see cherry blossoms and Mount Fuji</title>
-      <link>https://abcnews.com/International/wireStory/japanese-town-sours-crowds-coming-cherry-blossoms-mount-131868517</link>
-      <summary>A viral photo of snow-capped Mount Fuji, a red pagoda and cherry blossoms has brought many tourists to a peaceful Japanese town</summary>
-      <pubDate>Thu, 09 Apr 2026 03:38:35 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Travel/wirestory_215524ca75a3a0a43c7a4e08b53d4bbd_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/wirestory_e6330b8fe4fad2516f8cd8c1e257b446_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
