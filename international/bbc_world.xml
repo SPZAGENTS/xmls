@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-10T22:00:52.397040</generated>
+  <generated>2026-04-10T23:00:52.547838</generated>
   <items>
     <item>
       <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be05/live/f8e4f3e0-33fe-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump criticises Nato as alliance chief describes meeting as 'very frank'</title>
+      <link>https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president says Nato "wasn't there when we needed them" during the Iran war.</summary>
+      <pubDate>Thu, 09 Apr 2026 01:59:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,21 +85,10 @@
       <title>Lebanon says ceasefire must be in place before Israel talks</title>
       <link>https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:21:59 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 19:43:42 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/f3457360-34c6-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Prince Harry sued for defamation by charity Sentebale he co-founded</title>
-      <link>https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Prince Harry left the charity last year in an acrimonious dispute over how Sentebale was being managed.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:29:16 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea2/live/fe0f4930-71fb-11f0-88cf-791e5d4bcee3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
