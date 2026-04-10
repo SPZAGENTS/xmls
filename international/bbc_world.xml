@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-10T19:00:52.388089</generated>
+  <generated>2026-04-10T20:00:51.666913</generated>
   <items>
-    <item>
-      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
-      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Both sides have reason to end the war but share no common ground.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Al Jazeera condemns killing of journalist in Israeli strike in Gaza</title>
       <link>https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
+      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Both sides have reason to end the war but share no common ground.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>What we know about the two-week ceasefire between the US and Iran</title>
-      <link>https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.</summary>
-      <pubDate>Wed, 08 Apr 2026 20:25:49 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063b/live/9d8855b0-333f-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'</title>
       <link>https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US president accused Iran of "doing a very poor job" with the waterway as Israel and Lebanon to begin peace talks.</summary>
@@ -78,6 +67,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb74/live/ad515bf0-347e-11f1-bbf7-7db5bb17fba6.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Dutch police urge victims of 'international sextortion campaign' to come forward</title>
+      <link>https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries.</summary>
+      <pubDate>Fri, 10 Apr 2026 13:24:03 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebb8/live/deb12e50-34d8-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Fears over West Africa's Islamist insurgency dominate Benin's election campaign</title>
-      <link>https://www.bbc.com/news/articles/c75k1631e75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Cross-border raids from militant Islamists are increasingly threatening the West African state's stability.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:02:13 GMT</pubDate>
-      <priority>70</priority>
+      <title>Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</title>
+      <link>https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>She called rumours that Epstein introduced her to Donald Trump "mean-spirited attempts to defame my reputation".</summary>
+      <pubDate>Fri, 10 Apr 2026 08:37:05 GMT</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e456/live/5a3732d0-333b-11f1-9f60-37eac42daa69.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
