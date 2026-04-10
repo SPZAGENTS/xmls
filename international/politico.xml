@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-10T07:00:56.283718</generated>
+  <generated>2026-04-10T08:01:31.250892</generated>
   <items>
     <item>
       <title>'What the hell did he just say?' GOP Iran worries build after Trump speech.</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/fd/50/ea77da414ad0a9deab1e68f19f79/vance-20827.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran war makes things personal for veteran candidates</title>
-      <link>https://www.politico.com/news/2026/03/30/iran-midterms-veterans-00850440</link>
-      <summary>Dozens of military veterans running for Congress across the country have now adapted their campaign messaging to befit a nation at war.</summary>
-      <pubDate>Mon, 30 Mar 2026 13:00:00 EST</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static.politico.com/db/a8/fcf6d645475c94d68171453127f9/iran-protest-67724.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -87,6 +76,13 @@
       <summary />
       <pubDate>Thu, 02 Apr 2026 22:59:00 EST</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Marjorie Taylor Greene unloads on Trump, Netanyahu and the future of MAGA</title>
+      <link>https://www.politico.com/video/2026/04/10/marjorie-taylor-greene-unloads-on-trump-netanyahu-and-the-future-of-maga-2005052</link>
+      <summary />
+      <pubDate>Thu, 09 Apr 2026 23:40:56 EST</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>The enduring influence of Al Sharpton</title>

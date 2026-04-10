@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-10T07:01:04.861609</generated>
+  <generated>2026-04-10T08:01:39.608298</generated>
   <items>
     <item>
       <title>Pro-Iran groups have used AI to troll Trump and try to control the war narrative</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>UK and Norway led military operation to deter Russian submarines in the N. Atlantic</title>
-      <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131871001</link>
-      <summary>The U.K. says British and Norwegian militaries led an operation to deter Russian submarines suspected of &amp;ldquo;malign activity&amp;rdquo; in the North Atlantic</summary>
-      <pubDate>Thu, 09 Apr 2026 06:56:32 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_7aa163bc29266504dd1d4c9949aeafde_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</title>
       <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131870911</link>
       <summary>UK says it and Norway led a military operation to deter Russian submarines in the north Atlantic</summary>
@@ -56,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UK and Norway led military operation to deter Russian submarines in the N. Atlantic</title>
+      <link>https://abcnews.com/International/wireStory/uk-norway-led-military-operation-deter-russian-submarines-131871001</link>
+      <summary>The U.K. says British and Norwegian militaries led an operation to deter Russian submarines suspected of &amp;ldquo;malign activity&amp;rdquo; in the North Atlantic</summary>
+      <pubDate>Thu, 09 Apr 2026 06:56:32 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_7aa163bc29266504dd1d4c9949aeafde_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
