@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-10T12:01:04.948580</generated>
+  <generated>2026-04-10T13:00:58.672201</generated>
   <items>
+    <item>
+      <title>Trump started the Iran war with 5 goals. How far has he really gotten?</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/10/trump-goals-iran-achieved/</link>
+      <summary>The president claimed he achieved them all. The reality is more complicated.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:00:30 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>White House struggles to prop up truce marked by confusion, contradictions</title>
       <link>https://www.washingtonpost.com/politics/2026/04/09/trump-iran-war-ceasefire-terms-conflict/</link>
@@ -33,11 +40,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump’s Iran brinkmanship reaches truce, escalates backlash at home</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/08/trump-iran-threats-deal/</link>
-      <summary>The president’s ultimatum drew condemnation across the political spectrum and intensified open debate about his credibility, morality and sanity.</summary>
-      <pubDate>Wed, 08 Apr 2026 09:00:42 +0000</pubDate>
-      <priority>90</priority>
+      <title>Democrats worry Schumer’s pick in Maine could imperil hopes of Senate control</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/10/democrats-denate-maine-schumer-mills-platner/</link>
+      <summary>Maine’s Democratic governor, Janet Mills, has gone negative against Graham Platner. The attacks have not worked, and Minority Leader Charles Schumer so far has declined to bail her out.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:00:54 +0000</pubDate>
+      <priority>85</priority>
     </item>
     <item>
       <title>Melania Trump denies close ties to Jeffrey Epstein in rare public statement</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/09/supreme-court-conservative-trump-rulings/</link>
       <summary>The court is the first since at least the ’50s to reject claims in a majority of cases involving women and minorities, an analysis conducted for The Post shows.</summary>
       <pubDate>Thu, 09 Apr 2026 09:00:44 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>California’s top court halts sheriff’s seizure of half a million ballots</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/07/chad-bianco-riverside-ballot-seizure/</link>
-      <summary>The court accepted a case challenging an unusual investigation by Riverside County Sheriff Chad Bianco, who is running for California governor as a Republican.</summary>
-      <pubDate>Wed, 08 Apr 2026 18:24:36 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

@@ -2,8 +2,30 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-10T12:01:06.205082</generated>
+  <generated>2026-04-10T13:00:59.852077</generated>
   <items>
+    <item>
+      <title>Lebanon: A Nation Uprooted by War</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</link>
+      <summary>A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:05:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00Int-Lebanon-IDP-Photos-01-wcvk/00Int-Lebanon-IDP-Photos-01-wcvk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Vance Faces Test of His Negotiating Skills With Iran Talks</title>
+      <link>https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html</link>
+      <summary>Vice President JD Vance is leading negotiations this weekend toward an end to a war that he had opposed starting.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:03:38 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09dc-vance-klcj/09dc-vance-klcj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Here’s What Happened in the War in the Middle East on Thursday</title>
       <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
@@ -89,28 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-europe-lebanon-cqmk/09israel-iran-europe-lebanon-cqmk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What to Know About Israel’s Strikes on Lebanon</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/what-to-know-israel-strikes-lebanon.html</link>
-      <summary>Israel says the truce with Iran does not cover Lebanon. But Tehran says it does and has threatened retaliation unless the bombing stops.</summary>
-      <pubDate>Thu, 09 Apr 2026 22:04:26 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-lebanon-wtk-hjqv/09int-lebanon-wtk-hjqv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Again Hits Out at NATO Over Iran War</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/trump-nato-rutte-iran-war.html</link>
-      <summary>President Trump lashed out after hosting Mark Rutte, NATO’s secretary general, at the White House on Wednesday.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:04:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09vid-pic-rutte-vcjg/09vid-pic-rutte-vcjg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

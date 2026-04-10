@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-10T12:00:59.527728</generated>
+  <generated>2026-04-10T13:00:54.187131</generated>
   <items>
     <item>
       <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Watch: Melania Trump's surprise Epstein statement in full</title>
-      <link>https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>She tells reporters at the White House that any claims linking the two "need to end today".</summary>
-      <pubDate>Thu, 09 Apr 2026 19:00:43 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1951/live/09d03dd0-34a0-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>How the cost of holidays, food and clothes is rising - despite the Iran ceasefire</title>
       <link>https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.</summary>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>The Papers: 'I'm not Epstein's victim' and 'We see you, Vlad'</title>
-      <link>https://www.bbc.com/news/articles/c0j6een0l62o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US First Lady Melania Trump is splashed across several of the papers, after she made a surprise White House address on Thursday.</summary>
-      <pubDate>Fri, 10 Apr 2026 04:06:08 GMT</pubDate>
-      <priority>75</priority>
+      <title>Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</title>
+      <link>https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>She called rumours that Epstein introduced her to Donald Trump "mean-spirited attempts to defame my reputation".</summary>
+      <pubDate>Fri, 10 Apr 2026 08:37:05 GMT</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/cb965c90-346b-11f1-9d5c-8ba507d7dbde.png</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>EU fingerprint and photo travel rules come into force</title>
+      <link>https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:04:32 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
