@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-10T15:01:11.240601</generated>
+  <generated>2026-04-10T16:01:00.905717</generated>
   <items>
     <item>
       <title>Pro-Iran groups have used AI to troll Trump and try to control the war narrative</title>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/Weird/wirestory_e58af9e80114e4d9089a8238948612c7_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Myanmar's parliament approves cabinet mostly of former generals and holdovers</title>
-      <link>https://abcnews.com/International/wireStory/myanmars-parliament-approves-cabinet-former-generals-holdovers-131868950</link>
-      <summary>Myanmar&amp;rsquo;s parliament has approved a cabinet that largely includes former generals and holdovers from the past military-led government under Min Aung Hlaing</summary>
-      <pubDate>Thu, 09 Apr 2026 06:06:49 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_682ec3787ed50f7a07b5820e6ea7277a_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_980a5ee78d1fed794dc6c9b90f9a1ce4_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Scientists say the world's oldest octopus fossil isn't an octopus after all</title>
+      <link>https://abcnews.com/International/wireStory/scientists-worlds-oldest-octopus-fossil-octopus-after-131868859</link>
+      <summary>Scientists have found evidence that a 300-million-year-old sea creature previously thought to be the world's oldest octopus is actually a nautilus relative</summary>
+      <pubDate>Thu, 09 Apr 2026 23:38:16 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Weird/wirestory_04d88f5cc171b1e93f24538e574838f9_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

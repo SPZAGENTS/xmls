@@ -2,27 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-10T15:01:06.903639</generated>
+  <generated>2026-04-10T16:00:56.349991</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Strikes Hezbollah as Lebanon Impasse Threatens Cease-Fire</title>
+      <title>Iran War Live Updates: Vance Departs for Talks With Iran as Lebanon Impasse Threatens Cease-Fire</title>
       <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</link>
-      <summary>Israel said it would continue striking the Iran-backed militia. Iran said it would not attend peace talks with the United States in Pakistan if the truce was not extended to Lebanon.</summary>
-      <pubDate>Fri, 10 Apr 2026 11:19:45 +0000</pubDate>
+      <summary>Vice President JD Vance expressed optimism before traveling to Pakistan to meet with Iranian officials. Israel said it would continue striking Hezbollah, the Iran-backed Lebanese militia, despite Iranian demands to extend the truce to Lebanon.</summary>
+      <pubDate>Fri, 10 Apr 2026 12:56:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-promo-0715EST-gplv/10israel-iran-promo-0715EST-gplv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
-      <summary>For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.</summary>
-      <pubDate>Fri, 10 Apr 2026 00:20:57 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-triumphant-cbhg/09int-iran-triumphant-cbhg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/00Int-Lebanon-IDP-Photos-01-wcvk/00Int-Lebanon-IDP-Photos-01-wcvk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
+      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
+      <summary>For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.</summary>
+      <pubDate>Fri, 10 Apr 2026 00:20:57 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-triumphant-cbhg/09int-iran-triumphant-cbhg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,6 +56,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/business/10Biz-China-Deflation/10Biz-China-Deflation-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Here’s What Happened in the War in the Middle East on Thursday</title>
+      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-middle-east-recap-thursday.html</link>
+      <summary>Israeli strikes against Hezbollah in Lebanon threatened the cease-fire between the United States and Iran ahead of scheduled peace talks.</summary>
+      <pubDate>Fri, 10 Apr 2026 00:15:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-front-by-front-01-jfmq/09israel-iran-front-by-front-01-jfmq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,24 +100,13 @@
       </media>
     </item>
     <item>
-      <title>What to Know About the U.S.-Iran Cease-Fire</title>
-      <link>https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html</link>
-      <summary>The truce is under strain because of two issues, Lebanon and the Strait of Hormuz. U.S. and Iranian negotiators are scheduled to meet in Pakistan this weekend.</summary>
-      <pubDate>Fri, 10 Apr 2026 09:56:55 +0000</pubDate>
-      <priority>90</priority>
+      <title>A Cease-Fire for Now in Iran, but a Blow to American Credibility</title>
+      <link>https://www.nytimes.com/2026/04/09/world/europe/iran-war-suez.html</link>
+      <summary>Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.</summary>
+      <pubDate>Thu, 09 Apr 2026 04:27:57 +0000</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-iran-ceasefire-wtk-mpwf/10int-iran-ceasefire-wtk-mpwf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>3 Russian Submarines Detected Near Britain Were Spying, U.K. Says</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/uk-russia-submarines-cables.html</link>
-      <summary>John Healey, the defense secretary, said the vessels were gathering information about undersea pipelines, and said he believed President Vladimir V. Putin “would want us to be distracted by the Middle East.”</summary>
-      <pubDate>Thu, 09 Apr 2026 22:57:33 +0000</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-uk-russia-fklc/09int-uk-russia-fklc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-suez-assess-0001-kfjm/09int-iran-suez-assess-0001-kfjm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
