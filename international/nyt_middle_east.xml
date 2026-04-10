@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-11T01:00:59.111975</generated>
+  <generated>2026-04-11T02:00:57.398396</generated>
   <items>
+    <item>
+      <title>New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/iran-us-missle-strike-civilians-lamerd.html</link>
+      <summary>Additional images and video build on an earlier analysis, which the Pentagon has disputed, showing Precision Strike Missiles, or PrSMs, hit a sports hall and residential areas in the Iranian city of Lamerd.</summary>
+      <pubDate>Fri, 10 Apr 2026 22:40:09 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Facing Many Crises, Pakistan Tries to End a Big One — in Iran</title>
       <link>https://www.nytimes.com/2026/04/10/world/middleeast/pakistan-iran-talks-islamabad.html</link>
@@ -41,7 +48,7 @@
       <title>Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire</title>
       <link>https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html</link>
       <summary>Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.</summary>
-      <pubDate>Fri, 10 Apr 2026 13:53:09 +0000</pubDate>
+      <pubDate>Fri, 10 Apr 2026 22:33:25 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-iran-embassies-fhqc/00int-iran-embassies-fhqc-mediumSquareAt3X.jpg</image>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09dc-TRUMP-NATO-top-hpqf/09dc-TRUMP-NATO-top-hpqf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Netanyahu Says He Ordered Israel to Hold Talks With Lebanon About Disarming Hezbollah</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/israel-lebanon-talks-hezbollah-disarm.html</link>
-      <summary>But the Israeli prime minister said his country would continue its attacks against the Iran-backed armed group.</summary>
-      <pubDate>Thu, 09 Apr 2026 19:34:32 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-netanyahu-lebanon-wpkf/09israel-iran-netanyahu-lebanon-wpkf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
