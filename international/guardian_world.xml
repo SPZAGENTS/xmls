@@ -2,19 +2,8 @@
 <content-feed>
   <title>Guardian World - Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-10T13:01:00.602571</generated>
+  <generated>2026-04-10T14:01:15.281558</generated>
   <items>
-    <item>
-      <title>Stork warning: woman gives birth midair on Jamaica-to-New York flight</title>
-      <link>https://www.theguardian.com/us-news/2026/apr/07/plane-birth-jamaica-new-york</link>
-      <summary>Baby was delivered during Caribbean Airlines flight from Kingston to the US; nationality of child to be determinedSign up for the Breaking News US email to get newsletter alerts in your inboxA routine passenger flight from Jamaica landed at New York’s John F Kennedy internatio...</summary>
-      <pubDate>Tue, 07 Apr 2026 18:16:28 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/9eef71a61a01ad36bb5a0c16ce5531865df65d62/202_0_4415_3533/master/4415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08d810769da5718cebde908ac33de984</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Strait of Hormuz not open, Abu Dhabi’s oil chief says as crude prices rise</title>
       <link>https://www.theguardian.com/business/2026/apr/09/oil-price-rises-as-markets-question-durability-of-middle-east-ceasefire-iran</link>
@@ -100,6 +89,17 @@
       <priority>90</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/83e8cbc8061794a16b40c5b4dd2338beefae685e/590_0_3767_3014/master/3767.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=970c9ae2bdd33bd669be90c82a5b1768</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump ‘reaping bitter fruit’ of thinking Iran intervention as easy as Venezuela, says former diplomat</title>
+      <link>https://www.theguardian.com/world/2026/apr/10/trump-iran-intervention-easy-as-venezuela-maduro-capture-john-feeley</link>
+      <summary>John Feeley says US president was ‘flush with victory’ of Maduro capture and could make same mistake in CubaDonald Trump is “reaping the bitter fruit” of erroneously thinking that the capture of Venezuela’s president, Nicolás Maduro, offered a blueprint for toppling the Irania...</summary>
+      <pubDate>Fri, 10 Apr 2026 10:00:16 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/b633d8b61a8d77a2d91f465158b7658062c9f359/417_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ef4ef9d24500d4e96e42b4119d1c35a</image>
         <type>image/jpeg</type>
       </media>
     </item>
