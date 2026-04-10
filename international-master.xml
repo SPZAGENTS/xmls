@@ -2,20 +2,9 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-10T05:01:03.638970</generated>
-  <total_articles>322</total_articles>
+  <generated>2026-04-10T06:01:04.795254</generated>
+  <total_articles>342</total_articles>
   <items>
-    <item>
-      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
-      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Both sides have reason to end the war but share no common ground.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
     <item>
       <title>'We should not be at the mercy of events abroad' - Starmer</title>
       <link>https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -25,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
+      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Both sides have reason to end the war but share no common ground.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
     <item>
@@ -39,17 +39,6 @@
       </media>
     </item>
     <item>
-      <title>Has US achieved its war objectives in Iran?</title>
-      <link>https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.</summary>
-      <pubDate>Thu, 09 Apr 2026 13:11:03 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e2/live/ece59190-33f8-11f1-a4ee-f9cebb92412a.jpg</image>
-      </media>
-    </item>
-    <item>
       <title>Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz</title>
       <link>https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.</summary>
@@ -58,17 +47,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png</image>
-      </media>
-    </item>
-    <item>
-      <title>'I want my heart attack story to inspire people to live life'</title>
-      <link>https://www.bbc.com/news/articles/cgmej4yz0gzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Faith Harrison survived a seven-hour heart attack at the age of 22.</summary>
-      <pubDate>Thu, 09 Apr 2026 05:35:16 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/e73c1e30-2dea-11f1-bdc6-c5114fc788c9.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +91,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e2/live/ece59190-33f8-11f1-a4ee-f9cebb92412a.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC</title>
+      <link>https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.</summary>
+      <pubDate>Thu, 09 Apr 2026 17:11:59 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/d3282f30-33fb-11f1-9d5c-8ba507d7dbde.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Bowen: Ceasefire means respite for civilians, but it might not last long</title>
+      <link>https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Whether or not a lasting peace deal can be reached, the war and its consequences are reshaping the Middle East, writes international editor Jeremy Bowen.</summary>
+      <pubDate>Wed, 08 Apr 2026 17:05:54 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6422/live/859c45c0-33e3-11f1-879d-1b2f5c3919b8.jpg</image>
       </media>
     </item>
   </items>

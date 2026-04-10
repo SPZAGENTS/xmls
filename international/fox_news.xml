@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-10T05:00:52.099970</generated>
+  <generated>2026-04-10T06:00:53.405611</generated>
   <items>
     <item>
       <title>Inside Tehran after strikes: Iranian woman describes fear, checkpoints and people used as ‘human shields’</title>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Coast Guard seizes over 4,500 pounds of cocaine worth $34M from suspected narco-terrorist vessel on Easter</title>
+      <link>https://www.foxnews.com/us/coast-guard-seizes-4500-pounds-cocaine-worth-34m-suspected-narco-terrorist-vessel-easter</link>
+      <summary>DHS says the Coast Guard recovered more than 4,500 pounds of cocaine off the coast of Ecuador as part of Operation Pacific Viper counter-drug efforts.</summary>
+      <pubDate>Thu, 09 Apr 2026 22:31:38 -0400</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Coast-Guard-Cutter-Escanaba.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>MAN VS MACHINE: Philadelphians aren't taking kindly to sharing sidewalks with delivery robots</title>
       <link>https://www.foxnews.com/media/man-vs-machine-philadelphians-arent-taking-kindly-sharing-sidewalks-delivery-robots</link>
       <summary>Philadelphia residents are clashing with Uber Eats delivery robots, with incidents of kicking and sitting on the autonomous sidewalk couriers reported.</summary>
@@ -34,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/uber-eats-delivery-robot-1.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Suspect who killed California deputy run over by armored vehicle after hours-long firefight standoff: sheriff</title>
+      <link>https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff</link>
+      <summary>A California detective was killed in a Porterville shooting while serving an eviction notice, with the suspect allegedly lying in wait, the sheriff says.</summary>
+      <pubDate>Thu, 09 Apr 2026 19:16:01 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/california-detective-killed-eviction-ambush-porterville-001.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Neighbor-fatally-shoots-suspect-after-domestic-dispute-erupts-in-Washington1.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Bruce Springsteen blasts rich men in America as critics call out his billions</title>
-      <link>https://www.foxnews.com/entertainment/bruce-springsteen-blasts-rich-men-america-critics-call-out-his-billions</link>
-      <summary>Bruce Springsteen sparked controversy with a fiery anti-Trump speech, but critics point out his reported $1.2 billion net worth undercuts his message.</summary>
-      <pubDate>Thu, 09 Apr 2026 19:29:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/bruce-springsteen-e-street-band-inglewood-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>California detective killed in ambush while serving eviction suspect barricaded in standoff</title>
-      <link>https://www.foxnews.com/us/california-detective-killed-ambush-serving-eviction-suspect-barricaded-standoff</link>
-      <summary>A California detective was killed in a Porterville shooting while serving an eviction notice, with the suspect allegedly lying in wait, the sheriff says.</summary>
-      <pubDate>Thu, 09 Apr 2026 19:16:01 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/GettyImages-1246315223.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
