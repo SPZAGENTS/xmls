@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-10T11:00:59.314662</generated>
+  <generated>2026-04-10T12:01:02.220865</generated>
   <items>
     <item>
       <title>'What the hell did he just say?' GOP Iran worries build after Trump speech.</title>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Why Trump’s endorsement hasn’t been a ‘close out move’ for Louisiana Senate</title>
+      <link>https://www.politico.com/news/2026/04/10/louisiana-senate-letlow-cassidy-fleming-trump-00866362</link>
+      <summary>GOP Sen. Bill Cassidy still has a chance at making the runoff despite Trump-backed Julia Letlow's lead in the race.</summary>
+      <pubDate>Fri, 10 Apr 2026 03:45:00 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/8f/cd/ea26a4ee489d8eb8323aaa4f35dd/https-delivery-gettyimages.com/downloads/2204620967</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>DNC avoids taking a stance on Israel, AIPAC</title>
       <link>https://www.politico.com/news/2026/04/09/democrats-punt-israel-aipac-resolutions-00865426</link>
       <summary>The members’ latest vote reflects a party establishment still grappling with how to respond to an increasingly thorny political issue.</summary>
@@ -90,17 +101,6 @@
       <summary>The biggest names in politics are flying in from around the country to meet the Rev. Al Sharpton.</summary>
       <pubDate>Thu, 09 Apr 2026 16:18:06 EST</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>‘Vile on every level’: Tucker Carlson rips Donald Trump over Easter Sunday ‘f-word’ post</title>
-      <link>https://www.politico.com/news/2026/04/07/tucker-carlson-rips-donald-trump-easter-iran-truth-social-post-00861281</link>
-      <summary>The former Fox News host also slammed the U.S. president for “mocking” Islam during a scathing critique.</summary>
-      <pubDate>Tue, 07 Apr 2026 04:31:52 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/93/ae/bed38aee43e3bc8f3508f1f6378d/us-iran-maga-media-26684.jpg</image>
-        <type>image/jpeg</type>
-      </media>
     </item>
   </items>
 </content-feed>
