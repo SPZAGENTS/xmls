@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-10T10:00:54.064648</generated>
+  <generated>2026-04-10T11:00:58.062697</generated>
   <items>
+    <item>
+      <title>Why Melania Trump is denying alleged smears related to Jeffrey Epstein–and wants victims to testify</title>
+      <link>https://www.foxnews.com/opinion/why-melania-trump-denying-alleged-smears-related-jeffrey-epstein-and-wants-victims-testify</link>
+      <summary>Melania Trump shocked reporters with a live White House speech denying ties to Jeffrey Epstein, calling fake images and smears politically motivated.</summary>
+      <pubDate>Fri, 10 Apr 2026 03:00:15 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/melania-trump-address-to-the-nation.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump blasts Biden admin for releasing illegal immigrant now charged in fatal hammer attack on Florida mother</title>
       <link>https://www.foxnews.com/politics/trump-blasts-biden-admin-releasing-haitian-immigrant-charged-fatal-hammer-attack-florida-mother</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/deadly-arson-attack-nyc.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Neighbor fatally shoots alleged gunman after 2 women shot in domestic dispute</title>
-      <link>https://www.foxnews.com/us/neighbor-fatally-shoots-alleged-gunman-two-women-shot-domestic-dispute</link>
-      <summary>A Washington state man allegedly shot two female relatives in a domestic dispute before a neighbor intervened and fatally shot him, police said.</summary>
-      <pubDate>Thu, 09 Apr 2026 21:01:26 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Neighbor-fatally-shoots-suspect-after-domestic-dispute-erupts-in-Washington1.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

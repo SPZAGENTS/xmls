@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-10T10:01:04.374403</generated>
+  <generated>2026-04-10T11:01:07.764213</generated>
   <items>
     <item>
       <title>Pro-Iran groups have used AI to troll Trump and try to control the war narrative</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_04e7aa974513232d01a42f3d8279b4ce_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ceasefire deal brings relief to some in Iran, but Trump's threat still echoes</title>
+      <link>https://abcnews.com/International/wireStory/ceasefire-deal-brings-relief-iran-trumps-threat-end-131907762</link>
+      <summary>Iranians have welcomed a ceasefire deal after weeks of Israeli and American bombardment, but many fear the war is far from over</summary>
+      <pubDate>Fri, 10 Apr 2026 03:49:36 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_3fae8cb8c07f92184d7485da663f75b0_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_5cab4db6f195675268e4d50d5104ae8a_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope's Africa trip takes him to a source of growth for the church, and critical challenges</title>
-      <link>https://abcnews.com/International/wireStory/popes-africa-trip-takes-source-growth-church-critical-131906197</link>
-      <summary>Pope Leo XIV is making a long and ambitious odyssey across four African countries -- Algeria, Angola, Cameroon and Equatorial Guinea</summary>
-      <pubDate>Fri, 10 Apr 2026 01:36:37 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_e6330b8fe4fad2516f8cd8c1e257b446_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-10T10:00:52.781689</generated>
+  <generated>2026-04-10T11:00:56.582292</generated>
   <items>
-    <item>
-      <title>Iran conflict must be 'line in sand' to build more resilient UK, Starmer says</title>
-      <link>https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The prime minister says "shocks" like the conflict in Iran are becoming more frequent.</summary>
-      <pubDate>Fri, 10 Apr 2026 06:11:34 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/0016f6c0-34a1-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
       <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran conflict must be 'line in sand' to build more resilient UK, Starmer says</title>
+      <link>https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The prime minister says "shocks" like the conflict in Iran are becoming more frequent.</summary>
+      <pubDate>Fri, 10 Apr 2026 06:11:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/0016f6c0-34a1-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>White House staff told not to place bets on prediction markets</title>
-      <link>https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The gambling platforms have grown in popularity, with some users making wagers on conflicts.</summary>
-      <pubDate>Fri, 10 Apr 2026 02:32:27 GMT</pubDate>
-      <priority>85</priority>
+      <title>Has US achieved its war objectives in Iran?</title>
+      <link>https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.</summary>
+      <pubDate>Thu, 09 Apr 2026 13:11:03 GMT</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e2/live/ece59190-33f8-11f1-a4ee-f9cebb92412a.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>US plans to automatically register men for military draft eligibility</title>
-      <link>https://www.bbc.com/news/articles/cd6lx2lpl9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The proposed new rule would end decades of mandatory self-registration for Selective Service in the US.</summary>
-      <pubDate>Thu, 09 Apr 2026 14:22:30 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85cf/live/e998f110-3418-11f1-9fad-db21ae1095d5.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Ships remain cautious approaching Strait of Hormuz amid fragile ceasefire</title>
       <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.</summary>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10f/live/cb965c90-346b-11f1-9d5c-8ba507d7dbde.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors</title>
+      <link>https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>She called rumours that Epstein introduced her to Donald Trump "mean-spirited attempts to defame my reputation".</summary>
+      <pubDate>Fri, 10 Apr 2026 07:57:23 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e750/live/ec957be0-349f-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

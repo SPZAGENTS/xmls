@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-10T10:00:58.914919</generated>
+  <generated>2026-04-10T11:01:02.053396</generated>
   <items>
+    <item>
+      <title>Iran War Live Updates: Israel Strikes Hezbollah as Lebanon Impasse Threatens Cease-Fire</title>
+      <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</link>
+      <summary>Israel said it would continue striking the Iran-backed militia. Iran said it would not attend peace talks with the United States in Pakistan if the truce was not extended to Lebanon.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:55:03 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-promo-wjpf/10israel-iran-promo-wjpf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
       <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
@@ -38,13 +49,13 @@
       </media>
     </item>
     <item>
-      <title>A Maker of Pet Toys in Ukraine Turns to Killer Drones</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/ukraine-defense-technology-companies.html</link>
-      <summary>An entrepreneur behind drones that make the final strike themselves epitomizes the transformation of Ukraine’s civilian technology industry into a defense powerhouse.</summary>
-      <pubDate>Thu, 09 Apr 2026 20:09:35 +0000</pubDate>
+      <title>Middle East War Triggers Higher Prices in China</title>
+      <link>https://www.nytimes.com/2026/04/10/business/china-deflation-iran-war.html</link>
+      <summary>Three and a half years of deflationary pressure on Chinese factories reversed course last month as higher energy prices cycled into the economy.</summary>
+      <pubDate>Fri, 10 Apr 2026 07:01:35 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/02/multimedia/00int-ukraine-pet-toy-03-mfwj/00int-ukraine-pet-toy-03-mfwj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/10/business/10Biz-China-Deflation/10Biz-China-Deflation-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +71,24 @@
       </media>
     </item>
     <item>
-      <title>Israel Agrees to Talks With Lebanon but Keeps Striking Hezbollah</title>
-      <link>https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon</link>
-      <summary>Iran has insisted that Lebanon is covered by the cease-fire, while the United States and Israel have said it is not, threatening the truce.</summary>
-      <pubDate>Fri, 10 Apr 2026 06:01:46 +0000</pubDate>
+      <title>Amid Trump’s Threats, NATO Labors to Survive the Iran War</title>
+      <link>https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html</link>
+      <summary>President Trump is citing the unwillingness of European nations to back the United States in the conflict as another reason to scale back or abandon the alliance. And he still wants Greenland.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:11:02 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09dc-TRUMP-NATO-top-hpqf/09dc-TRUMP-NATO-top-hpqf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>No Longer Off Limits, the Strait of Hormuz Remains Thorny Politically</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html</link>
+      <summary>Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S.</summary>
+      <pubDate>Fri, 10 Apr 2026 04:00:21 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-promo8p-qgwb/09israel-iran-promo8p-qgwb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-iran-hormuz-01-kqlz/10int-iran-hormuz-01-kqlz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-ceasefire-wtk-qmbk/08int-iran-ceasefire-wtk-qmbk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>No Longer Off Limits, the Strait of Hormuz Remains Thorny Politically</title>
-      <link>https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html</link>
-      <summary>Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S.</summary>
-      <pubDate>Fri, 10 Apr 2026 04:00:21 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-iran-hormuz-01-kqlz/10int-iran-hormuz-01-kqlz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-us-ceasefire-talks-negotiations.html</link>
-      <summary>Vice President JD Vance will lead the United States delegation which is set to meet with Iranian officials in Pakistan on Saturday.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:29:56 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-what-we-know-talks1-fcwz/09israel-iran-what-we-know-talks1-fcwz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
