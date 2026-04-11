@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-11T15:01:11.941408</generated>
+  <generated>2026-04-11T16:01:17.273555</generated>
   <items>
     <item>
       <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
@@ -16,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Trump has handed JD Vance his most difficult mission yet</title>
-      <link>https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.</summary>
-      <pubDate>Sat, 11 Apr 2026 00:54:23 GMT</pubDate>
-      <priority>100</priority>
+      <title>Concerns after satellite provider restricts Iran images following US pressure</title>
+      <link>https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.</summary>
+      <pubDate>Sat, 11 Apr 2026 05:40:51 GMT</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab0/live/319b5a60-34f6-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
-      <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
-      <pubDate>Fri, 10 Apr 2026 23:46:49 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b52/live/d4c88b80-3529-11f1-91d5-4fd7f4e80b2c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Final push for votes as challenger to Hungary's Orbán senses victory</title>
       <link>https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0566/live/a4940140-34a4-11f1-b260-d5e483232ace.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump administration unveils 250-foot 'Triumphal Arch' design</title>
+      <link>https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial.</summary>
+      <pubDate>Sat, 11 Apr 2026 01:49:47 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ec/live/6f2f3c30-356d-11f1-a6a2-19218019c16f.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

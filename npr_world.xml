@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-11T15:01:21.632493</generated>
+  <generated>2026-04-11T16:01:27.169478</generated>
   <items>
     <item>
       <title>In Syria, instability allowed ISIS fighters to flee camps, but many of their families still detained</title>
@@ -31,6 +31,13 @@
       <summary>Anthropic announced this week that its new model found security flaws in "every major operating system and web browser." Even before the news, AI models had gotten dramatically better at finding bugs.</summary>
       <pubDate>Sat, 11 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Opinion: A well-deserved statue for a hero rat</title>
+      <link>https://www.npr.org/2026/04/11/nx-s1-5773903/opinion-a-well-deserved-statue-for-a-hero-rat</link>
+      <summary>Cambodia is recognizing the life-saving contributions of a rat named Magawa with a statue. The late rat sniffed out landmines for a non-profit group, and in a short career helped find more than 100.</summary>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>The Great Green Wall's one of the world's most ambitious eco-projects. Is it working?</title>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon</link>
       <summary>The four astronauts aboard NASA's Artemis II mission splashed down on Earth, after a successful visit to the moon.</summary>
       <pubDate>Fri, 10 Apr 2026 18:48:55 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>How the newest attending physician in 'The Pitt' crafted her character</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5510078/how-the-newest-attending-physician-in-the-pitt-crafted-her-character</link>
-      <summary>NPR's Juana Summers speaks with actor Sepideh Moafi and Dr. Seema Jilani about the second season of The Pitt.</summary>
-      <pubDate>Fri, 10 Apr 2026 16:51:14 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

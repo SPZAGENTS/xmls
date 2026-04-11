@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-11T15:01:15.174859</generated>
+  <generated>2026-04-11T16:01:21.179091</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. and Iranian Officials Meet Separately With Pakistani Mediators Ahead of Talks</title>
       <link>https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan</link>
       <summary>There was uncertainty about whether a cease-fire would hold and the two sides could reach a long-term deal.</summary>
-      <pubDate>Sat, 11 Apr 2026 11:53:19 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:53:22 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11mideast-blog-promo-8am-ET-plvj/11mideast-blog-promo-8am-ET-plvj-mediumSquareAt3X.jpg</image>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire</title>
-      <link>https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html</link>
-      <summary>Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.</summary>
-      <pubDate>Sat, 11 Apr 2026 01:21:00 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-iran-embassies-fhqc/00int-iran-embassies-fhqc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Many Iranians Are Glad the Fighting Has Paused. Some Hard-liners Aren’t.</title>
       <link>https://www.nytimes.com/2026/04/11/world/middleeast/iranians-hardliners-ceasefire.html</link>
       <summary>The most fervent backers of the Islamic republic believe pausing the war for negotiations risks squandering what they see as a hard-won upper hand.</summary>
@@ -89,6 +78,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/11/04/multimedia/11vid-iran-hardliners-clips-image/11vid-iran-hardliners-clips-image-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.K. Puts Chagos Islands Deal on Hold Following Criticism From Trump</title>
+      <link>https://www.nytimes.com/2026/04/11/world/europe/britain-chagos-islands-uk.html</link>
+      <summary>The plan to give Mauritius formal control of the islands, home to a U.S.-British military base, was called “an act of great stupidity” by President Trump.</summary>
+      <pubDate>Sat, 11 Apr 2026 12:01:55 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-uk-chagos-01-wzgf/11int-uk-chagos-01-wzgf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
