@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-11T03:01:06.716076</generated>
+  <generated>2026-04-11T04:01:09.351771</generated>
   <items>
     <item>
       <title>What will it take for U.S. and Iran to end war? Here’s what we know.</title>
@@ -40,13 +40,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Trump vents at NATO but avoids rupture after meeting with alliance’s leader</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/08/trump-nato-withdrawal-rutte/</link>
-      <summary>The president, long a NATO skeptic, has been especially angry at alliance members in recent weeks for declining to take part in the U.S.-Israeli war on Iran.</summary>
-      <pubDate>Thu, 09 Apr 2026 00:58:51 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>U.S. negotiators to ask Iran to release detained Americans</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/10/trump-iran-detained-americans/</link>
       <summary>The request for the Americans’ release may be delayed if the talks between President Donald Trump’s team and Iran prove difficult, according to people briefed on the plans.</summary>
@@ -73,6 +66,13 @@
       <summary>A Washington Post reporter’s doctor in Seoul had a question — how to translate “chicken out,” as in “Trump always chickens out,” into Korean?</summary>
       <pubDate>Thu, 09 Apr 2026 14:07:25 +0000</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>First major Atlantic hurricane season outlook calls for below-average activity</title>
+      <link>https://www.washingtonpost.com/weather/2026/04/09/hurricane-season-forecast-el-nino-2026/</link>
+      <summary>A developing “super El Niño” may reduce the number of storms in the Atlantic.</summary>
+      <pubDate>Thu, 09 Apr 2026 16:00:45 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>
