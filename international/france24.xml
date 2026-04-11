@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-11T22:01:03.913125</generated>
+  <generated>2026-04-11T23:01:00.477450</generated>
   <items>
     <item>
       <title>Iran: a mediator on the mediations</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/4fdf80e4-34ee-11f1-8872-005056bfb2b6/w:1024/p:16x9/Anglais-2026-04-10T10-16-26-747Z.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Planes fly from Beirut airport despite Israeli bombing</title>
+      <link>https://www.france24.com/en/live-news/20260411-planes-fly-from-beirut-airport-despite-israeli-bombing-1</link>
+      <summary>Smoke from an Israeli strike still lingered in the air as a plane from Lebanon's national carrier took off from Beirut airport, which has stayed open despite the latest war between Israel and Hezbollah.</summary>
+      <pubDate>Sat, 11 Apr 2026 15:47:16 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/b7e3a894-35bd-11f1-a9f4-005056bf30b7/w:1024/p:16x9/bb35fd2077660ebbb6c859ddfd0001805c4ed85a.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/0fc6d206-3592-11f1-b996-005056bf30b7/w:1024/p:16x9/EN-20260411-120134-120628-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russia, Ukraine to begin Orthodox Easter truce</title>
-      <link>https://www.france24.com/en/russia-ukraine-to-begin-orthodox-easter-truce</link>
-      <summary>A pause in fighting in the Ukraine war was set for Sunday, but it does not appear to be taking hold. Russian drone strikes killed at least two people in the Ukrainian port city of Odesa overnight, just hours before a proposed Easter ceasefire was due to come into effect. Russi...</summary>
-      <pubDate>Sat, 11 Apr 2026 09:49:22 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/8f93c73c-3588-11f1-a5dd-005056bfb2b6/w:1024/p:16x9/EN-20260411-105020-105214-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

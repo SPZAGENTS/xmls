@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-11T22:00:56.966691</generated>
+  <generated>2026-04-11T23:00:52.442167</generated>
   <items>
     <item>
       <title>JD Vance takes on a perilous mission - could it backfire?</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Fuel tankers regain access to Irish oil refinery</title>
+      <link>https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Demonstrations due to high prices caused by the US-Israeli war against Iran are affecting traffic on several roads.</summary>
+      <pubDate>Sat, 11 Apr 2026 17:09:13 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a4/live/0e536e60-3584-11f1-900c-813a3bf20f2c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -52,7 +63,7 @@
       <title>More than 200 arrests at Palestine Action protest</title>
       <link>https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Event organisers said it would show the "resistance" to the ban on the group was "stronger than ever".</summary>
-      <pubDate>Sat, 11 Apr 2026 18:58:28 GMT</pubDate>
+      <pubDate>Sat, 11 Apr 2026 19:07:56 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80e/live/312fbcb0-35b9-11f1-879d-1b2f5c3919b8.jpg</image>
@@ -62,7 +73,7 @@
     <item>
       <title>The five big sticking points in US-Iran talks</title>
       <link>https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Peace talks between the US and Iran are due to begin in Pakistan on Saturday.</summary>
+      <summary>Peace talks between the US and Iran are taking place in Pakistan.</summary>
       <pubDate>Fri, 10 Apr 2026 18:13:25 GMT</pubDate>
       <priority>75</priority>
       <media>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d547/live/f5a971b0-34df-11f1-879d-1b2f5c3919b8.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The parents using play to stop children getting 'trapped' by screens</title>
-      <link>https://www.bbc.com/news/articles/clyjdzkmr72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Researchers say more speech and interaction around children can aid the development of young brains.</summary>
-      <pubDate>Fri, 10 Apr 2026 23:41:36 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21b/live/99b44840-3579-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
