@@ -2,15 +2,8 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-11T12:01:12.659407</generated>
+  <generated>2026-04-11T13:01:16.223479</generated>
   <items>
-    <item>
-      <title>WATCH LIVE: Artemis II astronauts have splashed down on Earth</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon</link>
-      <summary>The four astronauts aboard NASA's Artemis II mission are about to plunge through the atmosphere toward Earth, after a successful visit to the moon.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:48:55 -0400</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Inflation surges to highest level in nearly 2 years as energy costs spike</title>
       <link>https://www.npr.org/2026/04/10/nx-s1-5780604/inflation-consumer-prices-economy</link>
@@ -59,6 +52,13 @@
       <summary>Hungary votes Sunday in a pivotal test of Viktor Orbán's "illiberal democracy," as challenger Péter Magyar taps voter frustration, with stakes for Europe, NATO and the U.S.</summary>
       <pubDate>Fri, 10 Apr 2026 10:10:11 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>WATCH: Artemis II astronauts splash down on Earth</title>
+      <link>https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon</link>
+      <summary>The four astronauts aboard NASA's Artemis II mission splashed down on Earth, after a successful visit to the moon.</summary>
+      <pubDate>Fri, 10 Apr 2026 18:48:55 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>How the newest attending physician in 'The Pitt' crafted her character</title>

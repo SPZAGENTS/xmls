@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-11T12:01:03.307003</generated>
+  <generated>2026-04-11T13:01:06.316637</generated>
   <items>
     <item>
       <title>Los Angeles schools may close as nearly 85% of district’s workers plan to strike</title>
@@ -38,13 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Wes Moore preemptively unloads on Baltimore Sun ahead of expose, as spox beefs with 'right wing' ownership</title>
-      <link>https://www.foxnews.com/politics/wes-moore-preemptively-unloads-baltimore-sun-ahead-expose-spox-beefs-right-wing-ownership</link>
-      <summary>Gov. Wes Moore attacks the Baltimore Sun&amp;apos;s new ownership as right-wing as journalists prepare an investigation into his personal and military record.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:00:33 -0400</pubDate>
-      <priority>90</priority>
+      <title>Watchdog, GOP lawmaker warn NY voter registration systems lacks key safeguards</title>
+      <link>https://www.foxnews.com/politics/watchdog-gop-lawmaker-warn-ny-voter-registration-systems-lacks-key-safeguards</link>
+      <summary>Election integrity group RITE and Rep. Claudia Tenney threatened federal court action over alleged New York voter registration violations.</summary>
+      <pubDate>Sat, 11 Apr 2026 05:00:04 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/wes-moore-cbs-free-beacon-reporting.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/tenney-voting.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/eric-swalwell.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump backs Hilton ahead of California GOP vote, testing Bianco’s grip on party endorsement</title>
+      <link>https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement</link>
+      <summary>California Republicans vote this Sunday to endorse a candidate for governor after Trump backed Steve Hilton over rival Sheriff Chad Bianco last week.</summary>
+      <pubDate>Sat, 11 Apr 2026 05:00:34 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-steve-hilton-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/artemis-crew-moon-mission.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Former Jets, Falcons QB Browning Nagle dead at 57 after cancer diagnosis</title>
-      <link>https://www.foxnews.com/sports/former-jets-falcons-qb-browning-nagle-dead-57-cancer-diagnosis</link>
-      <summary>Ex-New York Jets quarterback Browning Nagle, best known for his epic 1991 Fiesta Bowl performance for Louisville, has died at the age of 57 of colon cancer.</summary>
-      <pubDate>Fri, 10 Apr 2026 20:36:21 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Browning-Nagle-Atlanta-Falcons.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
