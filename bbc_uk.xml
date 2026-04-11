@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-11T19:00:51.364437</generated>
+  <generated>2026-04-11T20:03:52.807903</generated>
   <items>
     <item>
       <title>JD Vance takes on a perilous mission - could it backfire?</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>Woman, 19, killed in dog attack at house</title>
-      <link>https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A man, 37, is arrested in relation to the incident and remains in custody, police say.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:14:53 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c623/live/2bef22f0-35ae-11f1-bfb7-dfacb91b9fa4.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>EU airline industry warns of fuel shortages if Strait of Hormuz stays closed</title>
       <link>https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Airports Council International (ACI) Europe said its members had "increasing concerns" about the availability of jet fuel.</summary>
@@ -56,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff5e/live/06b8a020-34f9-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Woman, 19, killed in dog attack at house</title>
+      <link>https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A man, 37, is arrested in relation to the incident and remains in custody, police say.</summary>
+      <pubDate>Sat, 11 Apr 2026 14:14:53 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c623/live/2bef22f0-35ae-11f1-bfb7-dfacb91b9fa4.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
