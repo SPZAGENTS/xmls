@@ -2,41 +2,8 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-11T09:00:54.559910</generated>
+  <generated>2026-04-11T10:00:54.923832</generated>
   <items>
-    <item>
-      <title>Lebanon: Images of a Nation Uprooted by War</title>
-      <link>https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</link>
-      <summary>A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now.</summary>
-      <pubDate>Fri, 10 Apr 2026 09:05:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00Int-Lebanon-IDP-Photos-01-wcvk/00Int-Lebanon-IDP-Photos-01-wcvk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire</title>
-      <link>https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html</link>
-      <summary>Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.</summary>
-      <pubDate>Sat, 11 Apr 2026 01:21:00 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-iran-embassies-fhqc/00int-iran-embassies-fhqc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran’s Battered Leaders Emerge From War Confident — and With New Cards</title>
-      <link>https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html</link>
-      <summary>For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.</summary>
-      <pubDate>Fri, 10 Apr 2026 00:20:57 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-triumphant-cbhg/09int-iran-triumphant-cbhg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?</title>
       <link>https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html</link>
@@ -60,10 +27,43 @@
       </media>
     </item>
     <item>
+      <title>Lebanon: Images of a Nation Uprooted by War</title>
+      <link>https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</link>
+      <summary>A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now.</summary>
+      <pubDate>Fri, 10 Apr 2026 09:05:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00Int-Lebanon-IDP-Photos-01-wcvk/00Int-Lebanon-IDP-Photos-01-wcvk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire</title>
+      <link>https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html</link>
+      <summary>Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.</summary>
+      <pubDate>Sat, 11 Apr 2026 01:21:00 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-iran-embassies-fhqc/00int-iran-embassies-fhqc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon</title>
+      <link>https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html</link>
+      <summary>President Trump’s cease-fire with Iran appears at risk as Vice President JD Vance heads to Pakistan for discussions with Iranian officials.</summary>
+      <pubDate>Sat, 11 Apr 2026 05:11:37 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10dc-diplo-iran-hflz/10dc-diplo-iran-hflz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iranian Delegation Arrives at Peace Talks, With Vance en Route</title>
       <link>https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon</link>
       <summary>There was much uncertainty about the durability of the cease-fire and whether the two sides could reach a long-term deal, as Vice President JD Vance traveled to Pakistan for the talks.</summary>
-      <pubDate>Sat, 11 Apr 2026 05:57:54 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 06:53:48 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-promo-7pm-tkcv/10israel-iran-promo-7pm-tkcv-mediumSquareAt3X.jpg</image>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Fallout of War Piles Economic Pain Onto Europe’s Political Stress</title>
+      <link>https://www.nytimes.com/2026/04/11/business/europe-economy-trump-trade-iran.html</link>
+      <summary>Europe is finding itself on the outs with Russia, China and the U.S., in what’s amounting to its very own “Mean Girls” moment.</summary>
+      <pubDate>Sat, 11 Apr 2026 04:00:07 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/10/multimedia/00biz-europe-econ-01-jzkt/00biz-europe-econ-01-jzkt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.</title>
       <link>https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html</link>
       <summary>Prime Minister Keir Starmer of Britain is strengthening ties in Europe and the Middle East as the once-special relationship with America sours.</summary>
@@ -100,17 +111,6 @@
       <priority>85</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-starmer-trump-assess-qhjz/10int-starmer-trump-assess-qhjz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Cease-Fire for Now in Iran, but a Blow to American Credibility</title>
-      <link>https://www.nytimes.com/2026/04/09/world/europe/iran-war-suez.html</link>
-      <summary>Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.</summary>
-      <pubDate>Thu, 09 Apr 2026 04:27:57 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-suez-assess-0001-kfjm/09int-iran-suez-assess-0001-kfjm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
