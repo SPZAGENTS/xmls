@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-11T05:01:01.278033</generated>
+  <generated>2026-04-11T06:01:01.740833</generated>
   <items>
-    <item>
-      <title>Iran live updates: Vance heads to Islamabad for Iran talks</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Fri, 10 Apr 2026 19:16:53 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/vance-2-gty-gmh-260410_1775825958713_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Prices surged in March after oil shock set off by Iran war</title>
       <link>https://abcnews.com/video/131924496/</link>
@@ -27,24 +16,13 @@
       </media>
     </item>
     <item>
-      <title>Artemis II live updates: Crew exits spacecraft after successful splashdown</title>
+      <title>Artemis II live updates: Crew successfully completes 10-day mission around the moon</title>
       <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
       <summary>Artemis II is carrying a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Fri, 10 Apr 2026 21:57:30 -0400</pubDate>
+      <pubDate>Fri, 10 Apr 2026 22:59:25 -0400</pubDate>
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/US/artemis-40-ht-gmh-260417_1775871821747_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Melania Trump adviser speaks on what led to her surprise Epstein statement</title>
-      <link>https://abcnews.com/Politics/melania-trump-adviser-speaks-led-surprise-epstein-statement/story?id=131918888</link>
-      <summary>A senior adviser to first lady Melania Trump said she wanted to "set the record straight" when she delivered a surprise statement denying any ties to Jeffrey Epstein.</summary>
-      <pubDate>Fri, 10 Apr 2026 14:01:10 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/melania-trump-1-rt-gmh-260409_1775759877890_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,6 +45,28 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260410_abc_social_draft_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Fri, 10 Apr 2026 22:44:47 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Melania Trump declares ‘I am not Epstein’s victim’</title>
+      <link>https://abcnews.com/video/131912392/</link>
+      <summary>Melania Trump forcefully denied she had any relationship with Jeffrey Epstein, saying in a White House speech, she is speaking out to defend herself against people who are smearing her "good name."</summary>
+      <pubDate>Fri, 10 Apr 2026 08:05:15 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260410_abc_social_melania_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
