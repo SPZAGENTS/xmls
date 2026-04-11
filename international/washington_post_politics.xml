@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-11T04:01:10.523973</generated>
+  <generated>2026-04-11T05:00:56.230066</generated>
   <items>
     <item>
       <title>Trump started the Iran war with 5 goals. How far has he gotten?</title>
@@ -40,6 +40,13 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/</link>
+      <summary>Supporters of Rep. Eric Swalwell’s campaign withdrew support, including two congressmen who chaired his campaign and two senators who endorsed his bid.</summary>
+      <pubDate>Sat, 11 Apr 2026 01:53:20 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Mapping where the redistricting fight stands and where it’s headed</title>
       <link>https://www.washingtonpost.com/politics/2025/08/20/congressional-redistricting-states-midterms/</link>
       <summary>As Trump pushes for a more Republican-friendly House map, more than half a dozen states are potential targets for mid-decade tweaks to congressional boundaries.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/10/democrats-denate-maine-schumer-mills-platner/</link>
       <summary>Maine’s Democratic governor, Janet Mills, has gone negative against Graham Platner. The attacks have not worked, and Minority Leader Charles Schumer so far has declined to bail her out.</summary>
       <pubDate>Fri, 10 Apr 2026 09:00:54 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Melania Trump denies close ties to Jeffrey Epstein in rare public statement</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/09/melania-trump-epstein/</link>
-      <summary>The White House declined to comment on the timing of a statement that seems likely to once more focus attention on the Epstein case.</summary>
-      <pubDate>Thu, 09 Apr 2026 22:18:37 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
