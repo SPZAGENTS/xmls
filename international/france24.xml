@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-11T21:03:00.347910</generated>
+  <generated>2026-04-11T22:01:03.913125</generated>
   <items>
+    <item>
+      <title>Iran: a mediator on the mediations</title>
+      <link>https://www.france24.com/en/tv-shows/spotlight/20260411-iran-a-mediator-on-the-mediations</link>
+      <summary>Gavin Lee speaks with Oliver McTernan, Director of Forward Thinking, about the current situation in Iran, the Straight of Hormuz and Pakistan.</summary>
+      <pubDate>Sat, 11 Apr 2026 18:02:08 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/487c323e-35cf-11f1-b774-005056a90284/w:1024/p:16x9/Anglais-2026-04-11T16-15-07-729Z.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>'The Last Cedar of Lebanon': A play exploring war’s lasting scars</title>
       <link>https://www.france24.com/en/tv-shows/arts24/20260411-the-last-cedar-of-lebanon-a-play-exploring-war-s-lasting-scars</link>
@@ -78,17 +89,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/8f93c73c-3588-11f1-a5dd-005056bfb2b6/w:1024/p:16x9/EN-20260411-105020-105214-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran, US delegations to start negotiations in Pakistan</title>
-      <link>https://www.france24.com/en/iran-us-delegations-to-start-negotiations-in-pakistan</link>
-      <summary>A US ​government plane carrying ​top US officials landed in the ​Pakistani ‌capital Islamabad ⁠on Saturday for ‌peace talks with Iran. Washington and ​Tehran are ‌set to begin negotiations to permanently end the six-week-old Iran ​war that has killed thousands of people across...</summary>
-      <pubDate>Sat, 11 Apr 2026 08:36:28 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/0eac5294-357c-11f1-aa24-005056bfb2b6/w:1024/p:16x9/EN-20260411-091358-091538-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
