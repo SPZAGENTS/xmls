@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-12T00:00:51.927538</generated>
+  <generated>2026-04-12T01:00:51.408880</generated>
   <items>
     <item>
       <title>JD Vance takes on a perilous mission - could it backfire?</title>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston</title>
+      <link>https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.</summary>
+      <pubDate>Sat, 11 Apr 2026 21:23:07 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b8/live/bc22ec90-35ee-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Back to Earth: What happens to the Artemis II astronauts now?</title>
       <link>https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The astronauts will have medical checks and will be reunited with their families.</summary>
@@ -82,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>NHS to offer second dose of MenB vaccine after Kent outbreak</title>
-      <link>https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.</summary>
-      <pubDate>Sat, 11 Apr 2026 08:35:32 GMT</pubDate>
+      <title>Irish cabinet meeting to be held to discuss ongoing fuel protests</title>
+      <link>https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.</summary>
+      <pubDate>Sat, 11 Apr 2026 20:12:22 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/4b264760-357d-11f1-8c7e-43c32073e8a3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0566/live/a4940140-34a4-11f1-b260-d5e483232ace.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Irish cabinet meeting to be held to discuss ongoing fuel protests</title>
-      <link>https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.</summary>
-      <pubDate>Sat, 11 Apr 2026 20:12:22 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/4b264760-357d-11f1-8c7e-43c32073e8a3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
