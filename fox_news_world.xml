@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-11T20:03:54.787188</generated>
+  <generated>2026-04-11T21:02:54.789847</generated>
   <items>
+    <item>
+      <title>Iran's supreme leader severely disfigured by US strikes: report</title>
+      <link>https://www.foxnews.com/world/irans-supreme-leader-severely-disfigured-us-strikes-report</link>
+      <summary>Iranian supreme leader Mojtaba Khamenei is severely disfigured after U.S.-Israel airstrikes on Tehran killed his father, according to a Reuters report citing anonymous sources.</summary>
+      <pubDate>Sat, 11 Apr 2026 13:30:02 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/tehran-explosions-israeli-attacks-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran regime uses former Soviet republic to dodge sanctions, fund war machine: report</title>
       <link>https://www.foxnews.com/world/iran-regime-uses-former-soviet-republic-dodge-sanctions-fund-war-machine-report</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/israel-usa-iran-lebanon-missile-drone-strikes-fox-news-036.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran's UN ambassador takes swipe at Trump in final hours before Strait of Hormuz deadline</title>
-      <link>https://www.foxnews.com/world/irans-un-ambassador-takes-swipe-trump-final-hours-strait-hormuz-deadline</link>
-      <summary>Iran&amp;apos;s UN ambassador is calling one of President Donald Trump&amp;apos;s posts on Truth Social on Tuesday “deeply irresponsible&amp;quot; and “profoundly alarming.&amp;quot;</summary>
-      <pubDate>Tue, 07 Apr 2026 14:28:19 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Iran-UN-ambassador-Trump.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
