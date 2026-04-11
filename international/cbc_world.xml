@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-11T19:01:01.802996</generated>
+  <generated>2026-04-11T20:04:04.280951</generated>
   <items>
     <item>
       <title>Face-to-face talks between U.S. and Iran underway in Pakistan as war’s fragile ceasefire holds</title>
@@ -40,6 +40,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Orthodox Easter ceasefire in Russia-Ukraine war falters following drone strikes</title>
+      <link>https://www.cbc.ca/news/world/ukraine-russia-orthodox-easter-ceasefire-drone-strikes-9.7160429?cmp=rss</link>
+      <summary>Russia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took effect Saturday, a Ukrainian military officer told The Associated Press, casting immediate doubt over the truce.</summary>
+      <pubDate>Sat, 11 Apr 2026 12:08:23 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Study finds hidden lake network beneath Arctic glaciers as climate change accelerates</title>
       <link>https://www.cbc.ca/news/science/glaciers-climate-change-arctic-9.7159584?cmp=rss</link>
       <summary>Researchers have uncovered the locations of 37 subglacial lakes in Canada’s Arctic, 35 of them discovered for the very first time — what could be a major scientific breakthrough in understanding the quickly-warming region.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.cbc.ca/news/politics/nato-trump-iran-war-russia-9.7158165?cmp=rss</link>
       <summary>Despite threats from U.S. President Donald Trump, an American break with NATO remains unlikely. Political constraints, military dependence and mutual interests bind both sides. The real danger involves eroding trust, emboldening Russia and a slow-motion fracture that weakens d...</summary>
       <pubDate>Thu, 09 Apr 2026 17:45:04 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Putin claims Russia will enact 32-hour ceasefire over Orthodox Easter weekend</title>
-      <link>https://www.cbc.ca/news/world/ukraine-conflict-easter-ceasefire-9.7158307?cmp=rss</link>
-      <summary>Russian President Vladimir Putin on Thursday declared a 32-hour ceasefire in Ukraine over the Orthodox Easter weekend, following an earlier call from Ukrainian President Volodymyr Zelenskyy for a pause in some of the hostilities to observe the holiday.</summary>
-      <pubDate>Thu, 09 Apr 2026 17:53:20 EDT</pubDate>
       <priority>90</priority>
     </item>
   </items>
