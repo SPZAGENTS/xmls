@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-11T13:01:05.650972</generated>
+  <generated>2026-04-11T15:01:11.941408</generated>
   <items>
     <item>
       <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
-      <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
-      <pubDate>Fri, 10 Apr 2026 23:46:49 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b52/live/d4c88b80-3529-11f1-91d5-4fd7f4e80b2c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Frontrunner for California governor denies sexual assault allegations</title>
       <link>https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
+      <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:46:49 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b52/live/d4c88b80-3529-11f1-91d5-4fd7f4e80b2c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

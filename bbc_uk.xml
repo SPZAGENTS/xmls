@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-11T13:01:04.806853</generated>
+  <generated>2026-04-11T15:01:11.078320</generated>
   <items>
     <item>
       <title>Trump has handed JD Vance his most difficult mission yet</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Beirut residents deal with aftermath of deadly Israeli attacks</title>
+      <link>https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:10:05 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>The five big sticking points in US-Iran talks</title>
+      <link>https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Peace talks between the US and Iran are due to begin in Pakistan on Saturday.</summary>
+      <pubDate>Fri, 10 Apr 2026 18:13:25 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7d/live/c17b4090-3597-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
       <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
@@ -45,28 +67,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31c/live/ce329920-3559-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The five big sticking points in US-Iran talks</title>
-      <link>https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Peace talks between the US and Iran are due to begin in Pakistan on Saturday.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:13:25 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/fd4ff070-3501-11f1-b057-1d9fee7490d8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>UK shelves Chagos deal after Trump opposition</title>
-      <link>https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>UK government officials say they are not entirely abandoning the agreement but have run out of time.</summary>
-      <pubDate>Fri, 10 Apr 2026 22:17:49 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,28 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Final push for votes as challenger to Hungary's Orbán senses victory</title>
-      <link>https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.</summary>
-      <pubDate>Sat, 11 Apr 2026 00:17:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0566/live/a4940140-34a4-11f1-b260-d5e483232ace.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Grand National pinstickers' guide to runners</title>
-      <link>https://www.bbc.com/sport/horse-racing/articles/cx2v5v04d4wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Runners, riders, trainers and form - all the key details you need to know for Saturday's big race at Aintree.</summary>
-      <pubDate>Fri, 10 Apr 2026 23:00:40 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8979/live/86647190-3400-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Back to Earth: What happens to the Artemis II astronauts now?</title>
       <link>https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The astronauts will have medical checks and will be reunited with their families.</summary>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4a/live/ae932730-3430-11f1-a207-8b959fccb503.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The parents using play to stop children getting 'trapped' by screens</title>
+      <link>https://www.bbc.com/news/articles/clyjdzkmr72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Researchers say more speech and interaction around children can aid the development of young brains.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:41:36 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21b/live/99b44840-3579-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hundreds contact BBC about mystery skin condition 'hell' - but doctors can't agree it exists</title>
+      <link>https://www.bbc.com/news/articles/cly6xjpx6gjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Some think it's a severe case of eczema. Others say it's a condition called TSW. But doctors are stuck in a dilemma.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:41:47 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d547/live/f5a971b0-34df-11f1-879d-1b2f5c3919b8.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
