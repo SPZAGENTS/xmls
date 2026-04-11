@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-11T08:01:01.219523</generated>
+  <generated>2026-04-11T09:00:59.436841</generated>
   <items>
     <item>
       <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_3fae8cb8c07f92184d7485da663f75b0_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China's car exports surge as expectations grow for EV pivot on Iran war energy shock</title>
-      <link>https://abcnews.com/International/wireStory/chinas-car-exports-surge-expectations-grow-ev-pivot-131908368</link>
-      <summary>The China Association of Automobile Manufacturers says Chinese exports of passenger cars have accelerated in March</summary>
-      <pubDate>Fri, 10 Apr 2026 05:46:33 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_925c8ee6769927f598ce77821ca56a78_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9a155fdf3addb04ec7349834992c572f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research</title>
+      <link>https://abcnews.com/International/wireStory/picture-raffle-offers-picasso-100-euros-fund-alzheimers-131915314</link>
+      <summary>A raffle in France offers the chance to win a Picasso portrait for a 100-euro ticket</summary>
+      <pubDate>Fri, 10 Apr 2026 10:11:44 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_f32c1c86c6b2e367272f50ea1b7a891c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
