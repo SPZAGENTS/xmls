@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-11T07:00:54.901846</generated>
+  <generated>2026-04-11T08:00:53.067548</generated>
   <items>
     <item>
       <title>Los Angeles schools may close as nearly 85% of district’s workers plan to strike</title>
@@ -45,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/wes-moore-cbs-free-beacon-reporting.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Vance en route to Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters</title>
+      <link>https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters</link>
+      <summary>JD Vance, Steve Witkoff and Jared Kushner lead a senior U.S. delegation in Pakistan for critical ceasefire negotiations with Iranian officials.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:59:42 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/vance-departs-pakistan.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Browning-Nagle-Atlanta-Falcons.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Artemis II astronauts splash down after first moon mission in more than 50 years</title>
-      <link>https://www.foxnews.com/science/artemis-ii-astronauts-splashdown-first-moon-mission-50-years</link>
-      <summary>Four Artemis II astronauts completed a historic 10-day mission around the moon, splashing down off the coast of San Diego Friday evening.</summary>
-      <pubDate>Fri, 10 Apr 2026 20:10:04 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jared-isaacman-uss-john-p-murtha-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
