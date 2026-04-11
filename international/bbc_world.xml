@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-11T11:01:16.478985</generated>
+  <generated>2026-04-11T12:01:02.704888</generated>
   <items>
     <item>
       <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Concerns after satellite provider restricts Iran images following US pressure</title>
-      <link>https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.</summary>
-      <pubDate>Sat, 11 Apr 2026 05:40:51 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab0/live/319b5a60-34f6-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Final push for votes as challenger to Hungary's Orbán senses victory</title>
+      <link>https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.</summary>
+      <pubDate>Sat, 11 Apr 2026 00:17:18 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0566/live/a4940140-34a4-11f1-b260-d5e483232ace.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
