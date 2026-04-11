@@ -2,14 +2,21 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-12T01:01:02.224136</generated>
+  <generated>2026-04-12T02:01:11.350722</generated>
   <items>
     <item>
-      <title>U.S.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy</title>
-      <link>https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-hosts-peace-talks-us-iran</link>
-      <summary>A senior White House official said that an American delegation, led by Vice President JD Vance, was meeting with senior Iranian negotiators in Islamabad to discuss an end to the six-week long war.</summary>
-      <pubDate>Sat, 11 Apr 2026 03:04:41 -0400</pubDate>
+      <title>Pope Leo says 'delusion of omnipotence' is fueling U.S.-Israeli war in Iran</title>
+      <link>https://www.npr.org/2026/04/11/g-s1-117150/pope-leo-us-iran-war-israel-denounce</link>
+      <summary>In the first weeks of the war, the Chicago-born Leo was initially reluctant to publicly condemn the violence and limited his comments to muted appeals for peace and dialogue. But Leo stepped up his criticism starting on Palm Sunday.</summary>
+      <pubDate>Sat, 11 Apr 2026 14:16:11 -0400</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>How Hungarian Prime Minister Viktor Orbán's hometown became a symbol of excesses</title>
+      <link>https://www.npr.org/2026/04/11/nx-s1-5773321/viktor-orban-hungary-hometown</link>
+      <summary>Hungarian Prime Minister Viktor Orbán has long been accused of corruption. Sightseers now flock to his hometown as groups aim to raise awareness of what they say are the leader's excesses.</summary>
+      <pubDate>Sat, 11 Apr 2026 17:04:45 -0400</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Wives and children of foreign ISIS fighters stranded in Syria with no way home</title>
@@ -17,6 +24,13 @@
       <summary>NPR visits the last detention camp for ISIS wives and children in an increasingly precarious northeastern Syria.</summary>
       <pubDate>Sat, 11 Apr 2026 06:00:00 -0400</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>Trump touts newly released plans for D.C. triumphal arch</title>
+      <link>https://www.npr.org/2026/04/11/nx-s1-5782027/trump-triumphal-arch-plans-architecture</link>
+      <summary>The proposed 250-feet-tall, white-and-gilded monument would stand on the National Mall in Washington, D.C., by the Potomac River.</summary>
+      <pubDate>Sat, 11 Apr 2026 18:24:00 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>India cracks down on satirists for turning its prime minister into a punch line</title>
@@ -58,20 +72,6 @@
       <link>https://www.npr.org/2026/04/11/nx-s1-5776712/after-a-whirlwind-mission-to-the-moon-astronauts-are-back-home-heres-whats-next</link>
       <summary>The Orion crew module containing the four Artemis II astronauts splashed down in the Pacific Ocean Friday evening.</summary>
       <pubDate>Sat, 11 Apr 2026 06:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Peru's election: A battle for the Presidency amid political chaos and crime</title>
-      <link>https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption</link>
-      <summary>With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade. Amid rising corruption and crime, voters are left asking: Can this election finally break the cycle?</summary>
-      <pubDate>Sat, 11 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>WATCH: Artemis II astronauts splash down on Earth</title>
-      <link>https://www.npr.org/2026/04/10/nx-s1-5781327/nasa-artemis-ii-return-earth-splashdown-moon</link>
-      <summary>The four astronauts aboard NASA's Artemis II mission splashed down on Earth, after a successful visit to the moon.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:48:55 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

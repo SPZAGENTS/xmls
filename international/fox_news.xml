@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-12T01:00:52.718995</generated>
+  <generated>2026-04-12T02:01:00.824794</generated>
   <items>
     <item>
       <title>Swalwell faces expulsion effort following bombshell assault allegations</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eric-swalwell-misconduct-allegations-fox-news.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As missiles light the sky, she boards a one-way flight to Dubai</title>
-      <link>https://www.foxnews.com/media/missiles-light-sky-she-boards-one-way-flight-dubai</link>
-      <summary>American hairstylist Rikki Dimitriadis moved from Miami to Dubai during the Iran-UAE conflict and says she has no regrets, calling the decision a no-brainer.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:00:54 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/v1-rikki-dubai.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +34,17 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/swalwell-luna-misconduct-allegations-congress-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Caitlin Clark's Fever make several key offseason signings in championship pursuit</title>
+      <link>https://www.foxnews.com/sports/caitlin-clarks-fever-makes-several-key-offseason-signings-amid-championship-pursuit</link>
+      <summary>The Indiana Fever made key offseason signings to surround Caitlin Clark with talent as the team eyes a WNBA championship run in the 2026 season.</summary>
+      <pubDate>Sat, 11 Apr 2026 18:02:02 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/caitlin-clark9.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
