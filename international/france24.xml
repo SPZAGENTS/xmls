@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-11T15:01:17.259629</generated>
+  <generated>2026-04-11T16:01:23.107841</generated>
   <items>
+    <item>
+      <title>Russia and Ukraine exchange 175 prisoners of war each</title>
+      <link>https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce</link>
+      <summary>Russia and Ukraine exchanged 175 prisoners of war and seven civilians each on Saturday, in a rare moment of cooperation facilitated by the UAE.</summary>
+      <pubDate>Sat, 11 Apr 2026 11:55:28 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/4f742018-359a-11f1-abc0-005056a90284/w:1024/p:16x9/AP26101409048300.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US, Iran sit down for talks in Islamabad</title>
       <link>https://www.france24.com/en/us-iran-sit-down-for-talks-in-islamabad</link>
@@ -78,17 +89,6 @@
       <priority>95</priority>
       <media>
         <image>https://s.france24.com/media/display/ef1d5fa2-354b-11f1-8eeb-005056a97e36/w:1024/p:16x9/AP26101012725961.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russia, Ukraine swap hundreds of prisoners of war ahead of truce</title>
-      <link>https://www.france24.com/en/europe/20260411-russia-ukraine-swap-hundreds-of-prisoners-of-war-ahead-of-easter-truce</link>
-      <summary>Russia and Ukraine on Saturday exchanged 175 prisoners of war each, Moscow said, in a rare moment of cooperation between the two warring sides. The United Arab Emirates facilitated the exchange that came ahead of a temporary ceasefire set to take effect for Orthodox Easter.</summary>
-      <pubDate>Sat, 11 Apr 2026 11:55:28 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.france24.com/media/display/4f742018-359a-11f1-abc0-005056a90284/w:1024/p:16x9/AP26101409048300.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
