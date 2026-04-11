@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-11T14:00:56.553543</generated>
+  <generated>2026-04-11T15:01:13.745288</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -71,13 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Nuclear rockets, moon bases and NASA’s Mars plan</title>
-      <link>https://www.politico.com/video/2026/04/02/nuclear-rockets-moon-bases-and-nasas-mars-plan-1994266</link>
-      <summary />
-      <pubDate>Thu, 02 Apr 2026 22:59:00 EST</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>Inside the DNC’s Middle East (not) working group</title>
       <link>https://www.politico.com/news/2026/04/10/dnc-middle-east-resolution-00867186</link>
       <summary>The Democratic National Committee set up a task force to tackle the Middle East. Seven months later, the working group still has work to do.</summary>
@@ -104,6 +97,13 @@
       <link>https://www.politico.com/gallery/2026/04/10/the-nations-cartoonists-on-the-week-in-politics-00866253</link>
       <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
       <pubDate>Fri, 10 Apr 2026 04:00:00 EST</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Marjorie Taylor Greene unloads on Trump, Netanyahu and the future of MAGA</title>
+      <link>https://www.politico.com/video/2026/04/10/marjorie-taylor-greene-unloads-on-trump-netanyahu-and-the-future-of-maga-2005052</link>
+      <summary />
+      <pubDate>Thu, 09 Apr 2026 23:40:56 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>
