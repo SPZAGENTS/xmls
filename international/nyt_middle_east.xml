@@ -2,8 +2,15 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-11T02:00:57.398396</generated>
+  <generated>2026-04-11T03:01:08.116885</generated>
   <items>
+    <item>
+      <title>What the Cease-Fire Means for Iran</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000010831941/what-the-cease-fire-means-for-iran.html</link>
+      <summary>Emerging from weeks of U.S. and Israeli airstrikes, an emboldened Iran has 10 demands for talks during the tenuous cease-fire, according to Iranian state media. Our reporter Erika Solomon assesses Iran’s position.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:15:05 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>New Evidence Further Implicates U.S. Missiles in Strikes That Killed 21 Civilians in Iran</title>
       <link>https://www.nytimes.com/2026/04/10/world/middleeast/iran-us-missle-strike-civilians-lamerd.html</link>
@@ -96,17 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/09israel-iran-front-by-front-01-jfmq/09israel-iran-front-by-front-01-jfmq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Amid Trump’s Threats, NATO Labors to Survive the Iran War</title>
-      <link>https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html</link>
-      <summary>President Trump is citing the unwillingness of European nations to back the United States in the conflict as another reason to scale back or abandon the alliance. And he still wants Greenland.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:11:02 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/09dc-TRUMP-NATO-top-hpqf/09dc-TRUMP-NATO-top-hpqf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

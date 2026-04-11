@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian Middle East - Top 10 Articles</title>
   <source>Guardian Middle East</source>
-  <generated>2026-04-11T02:00:58.477058</generated>
+  <generated>2026-04-11T03:01:09.277266</generated>
   <items>
     <item>
       <title>Gulf states rethink security in light of US-Israel war on Iran</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/fe0aa4e5854bc3ceb933b1544510e4d62ecf3904/250_0_3978_3182/master/3978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba3e71a31ede24f071125e39785bb1ff</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>JD Vance dispatched to negotiate Iran peace with few cards to play</title>
+      <link>https://www.theguardian.com/world/2026/apr/11/jd-vance-dispatched-to-negotiate-iran-peace-with-few-cards-to-play</link>
+      <summary>Vice-president’s war doubts and his boss’s desperation to reopen Red Sea look like a weak deck against bolstered opponentsAs JD Vance arrives in Islamabad to negotiate a peace deal with Iran, his first high-profile assignment of the war looks to be a poisoned chalice.Vance, a ...</summary>
+      <pubDate>Fri, 10 Apr 2026 23:05:31 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/ae6a0ade74ae1beae0a6167d9778441cb761f3a1/213_0_4633_3709/master/4633.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8758a3e849e49345a2dcdfe0f28ce98d</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/be15d9b76efb7fedca7da2e60b178b736dec02e5/895_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99e84df3676ccef73b47265503578e44</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Deadly Israeli strikes hit Beirut – video</title>
-      <link>https://www.theguardian.com/world/video/2026/apr/10/deadly-israeli-strikes-hit-beirut-lebanon-video</link>
-      <summary>Footage shows bulldozers and diggers clearing rubble from central Beirut as Israeli strikes continued in Lebanon. More than 300 people were killed after the announcement of a ceasefire in the Iran war on Tuesday night. The bombardment, ostensibly aimed at Hezbollah targets, in...</summary>
-      <pubDate>Fri, 10 Apr 2026 09:38:05 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/303f09d83face881e45ad8f73382672c80397e16/951_0_6321_5058/master/6321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c81aebdcbf590e8bbc7baf2cd31f668d</image>
         <type>image/jpeg</type>
       </media>
     </item>
