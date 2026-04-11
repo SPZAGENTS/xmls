@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-11T17:01:05.204244</generated>
+  <generated>2026-04-11T18:01:05.304832</generated>
   <items>
     <item>
       <title>WATCH: Eviction standoff turns war zone as gunman kills deputy in ambush, gets run over by armored vehicle</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/gunfire-erupts-in-ca-neighborhood.gif</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>ICE detains relatives of 1979 Iran hostage crisis figure after Rubio revokes their legal status</title>
+      <link>https://www.foxnews.com/politics/ice-detains-relatives-1979-iran-hostage-crisis-figure-rubio-revokes-legal-status</link>
+      <summary>Secretary of State Marco Rubio said he revoked the lawful permanent resident status of family members linked to Masoumeh Ebtekar</summary>
+      <pubDate>Sat, 11 Apr 2026 10:42:36 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/marco-rubio-g7-foreign-ministers-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,24 +49,13 @@
       </media>
     </item>
     <item>
-      <title>BROADCAST BIAS: From space to ceasefires, networks still paint Trump as the problem</title>
-      <link>https://www.foxnews.com/opinion/broadcast-bias-space-ceasefires-networks-still-paint-trump-problem</link>
-      <summary>From the Artemis moon mission to the Iran ceasefire, broadcast networks find negative angles on President Trump no matter the direction, media analyst argues.</summary>
-      <pubDate>Sat, 11 Apr 2026 07:00:56 -0400</pubDate>
-      <priority>90</priority>
+      <title>Swalwell calls sexual misconduct allegations 'flat out false,' says he will fight them 'with everything'</title>
+      <link>https://www.foxnews.com/politics/swalwell-calls-sexual-misconduct-allegations-flat-out-false-says-he-fight-them-with-everything</link>
+      <summary>U.S. Rep. Eric Swalwell, D-Calif., said the recent sexual assault accusations toward him are &amp;quot;absolutely false&amp;quot; amid his bid for governor of California.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:30:08 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/1200/675/broadcast-bias-image.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As socialist mayor battles ICE, Seattle police and crime victims say repeat offenders are terrorizing the city</title>
-      <link>https://www.foxnews.com/media/socialist-mayor-battles-ice-seattle-police-crime-victims-say-repeat-offenders-terrorizing-city</link>
-      <summary>Seattle police and crime victims say Mayor Katie Wilson&amp;apos;s feud with ICE distracts from rising crime driven by repeat offenders across the city.</summary>
-      <pubDate>Sat, 11 Apr 2026 07:00:41 -0400</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/katie-wilson-ice-seattle.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/eric-swalwell-2022.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Trump adversary running for Senate borrows his filibuster playbook</title>
-      <link>https://www.foxnews.com/politics/trump-adversary-running-senate-borrows-his-filibuster-playbook</link>
-      <summary>Maine Gov. Janet Mills&amp;apos; Senate platform includes filibuster reform that mirrors President Donald Trump and conservatives&amp;apos; own push for a talking filibuster in the Republican-led Senate.</summary>
-      <pubDate>Sat, 11 Apr 2026 06:00:40 -0400</pubDate>
-      <priority>75</priority>
+      <title>Ichiro Suzuki's bronze statue loses its bat in an unveiling gone wrong at Mariners home ballpark</title>
+      <link>https://www.foxnews.com/sports/ichiro-suzukis-bronze-statue-loses-bat-unveiling-gone-wrong-mariners-home-ballpark</link>
+      <summary>Fans cried foul after the Seattle Mariners&amp;apos; Ichiro Suzuki statue unveiling went wrong when the bronze figure&amp;apos;s bat snapped during the tarp reveal.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:51:54 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/janet-mills-punches-back-at-question-about-her-age-in-senate-race.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Ichiro-Suzuki-statue-Seattle-Mariners.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Missing American’s husband had 'spotty' cell service during 8-hour trek to report disappearance: telecom boss</title>
-      <link>https://www.foxnews.com/us/missing-americans-husband-spotty-cell-service-8-hour-trek-report-disappearance-telecom-boss</link>
-      <summary>Brian Hooker spent 8 hours paddling a dinghy across a Bahamas channel after his wife Lynette reportedly fell overboard before he notified authorities.</summary>
-      <pubDate>Sat, 11 Apr 2026 06:00:32 -0400</pubDate>
-      <priority>70</priority>
+      <title>Food that never expires? Nut-free pesto founder with severe allergy says that's the real problem</title>
+      <link>https://www.foxnews.com/food-drink/food-never-expires-nut-free-pesto-founder-severe-allergy-says-thats-real-problem</link>
+      <summary>Besto founder Kaureen Randhawa says her nut-free pesto brand reflects a growing consumer preference for fresh, clean-ingredient food products. Fox News Digital spoke with her.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:00:20 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Lynette-Brian-Hooker-12.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Kaureen-Randhawa-split-making-nut-free-pesto.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
