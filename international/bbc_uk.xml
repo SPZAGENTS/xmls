@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-11T13:01:04.806853</generated>
+  <generated>2026-04-11T14:00:53.677442</generated>
   <items>
     <item>
       <title>Trump has handed JD Vance his most difficult mission yet</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Beirut residents deal with aftermath of deadly Israeli attacks</title>
+      <link>https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:10:05 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
-      <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
-      <pubDate>Fri, 10 Apr 2026 23:46:49 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31c/live/ce329920-3559-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>The five big sticking points in US-Iran talks</title>
       <link>https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Peace talks between the US and Iran are due to begin in Pakistan on Saturday.</summary>
@@ -60,10 +60,21 @@
       </media>
     </item>
     <item>
+      <title>Lyse Doucet: Historic US-Iran talks must bridge deep distrust</title>
+      <link>https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.</summary>
+      <pubDate>Fri, 10 Apr 2026 23:46:49 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31c/live/ce329920-3559-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>UK shelves Chagos deal after Trump opposition</title>
       <link>https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>UK government officials say they are not entirely abandoning the agreement but have run out of time.</summary>
-      <pubDate>Fri, 10 Apr 2026 22:17:49 GMT</pubDate>
+      <pubDate>Sat, 11 Apr 2026 10:57:31 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg</image>
@@ -78,17 +89,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Final push for votes as challenger to Hungary's Orbán senses victory</title>
-      <link>https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.</summary>
-      <pubDate>Sat, 11 Apr 2026 00:17:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0566/live/a4940140-34a4-11f1-b260-d5e483232ace.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

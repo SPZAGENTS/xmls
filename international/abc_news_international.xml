@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-11T13:01:14.594553</generated>
+  <generated>2026-04-11T14:01:04.127030</generated>
   <items>
     <item>
       <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_fca4366fed164acd0fb86d7f13891bc9_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ceasefire deal brings relief to some in Iran, but Trump's threat still echoes</title>
-      <link>https://abcnews.com/International/wireStory/ceasefire-deal-brings-relief-iran-trumps-threat-end-131907762</link>
-      <summary>Iranians have welcomed a ceasefire deal after weeks of Israeli and American bombardment, but many fear the war is far from over</summary>
-      <pubDate>Fri, 10 Apr 2026 03:49:36 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_3fae8cb8c07f92184d7485da663f75b0_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9a155fdf3addb04ec7349834992c572f_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research</title>
+      <link>https://abcnews.com/International/wireStory/picture-raffle-offers-picasso-100-euros-fund-alzheimers-131915314</link>
+      <summary>A raffle in France offers the chance to win a Picasso portrait for a 100-euro ticket</summary>
+      <pubDate>Fri, 10 Apr 2026 10:11:44 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_f32c1c86c6b2e367272f50ea1b7a891c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

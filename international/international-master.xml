@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-11T13:01:16.227762</generated>
-  <total_articles>339</total_articles>
+  <generated>2026-04-11T14:01:05.860623</generated>
+  <total_articles>340</total_articles>
   <items>
     <item>
       <title>Trump has handed JD Vance his most difficult mission yet</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Beirut residents deal with aftermath of deadly Israeli attacks</title>
+      <link>https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.</summary>
+      <pubDate>Sat, 11 Apr 2026 10:10:05 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6422/live/859c45c0-33e3-11f1-879d-1b2f5c3919b8.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Negotiators face huge task to close gaps in rival Iran peace proposals</title>
-      <link>https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US has a 15-point plan to end the war, with Iran offering 10 proposals of its own. Can they be reconciled?</summary>
-      <pubDate>Wed, 08 Apr 2026 20:26:48 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c5/live/64445c10-3383-11f1-9d5c-8ba507d7dbde.jpg</image>
       </media>
     </item>
   </items>
