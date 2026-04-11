@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-11T12:01:11.016928</generated>
+  <generated>2026-04-11T13:01:14.594553</generated>
   <items>
     <item>
       <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_04e7aa974513232d01a42f3d8279b4ce_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
+      <link>https://abcnews.com/International/wireStory/russian-strikes-odesa-kill-2-ahead-orthodox-easter-131946305</link>
+      <summary>Russian drone strikes killed at least two people and wounded two others in the Ukrainian city of Odesa overnight Saturday, hitting a residential area</summary>
+      <pubDate>Sat, 11 Apr 2026 05:35:56 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0f6548cf06dde9a2c261b22af17aa9ef_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_9a155fdf3addb04ec7349834992c572f_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research</title>
-      <link>https://abcnews.com/International/wireStory/picture-raffle-offers-picasso-100-euros-fund-alzheimers-131915314</link>
-      <summary>A raffle in France offers the chance to win a Picasso portrait for a 100-euro ticket</summary>
-      <pubDate>Fri, 10 Apr 2026 10:11:44 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_f32c1c86c6b2e367272f50ea1b7a891c_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

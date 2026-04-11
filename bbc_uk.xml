@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-11T12:01:01.953188</generated>
+  <generated>2026-04-11T13:01:04.806853</generated>
   <items>
     <item>
       <title>Trump has handed JD Vance his most difficult mission yet</title>
@@ -27,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>NHS to offer second MenB vaccine after deadly Kent outbreak</title>
-      <link>https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.</summary>
-      <pubDate>Sat, 11 Apr 2026 08:35:32 GMT</pubDate>
-      <priority>80</priority>
+      <title>EU airline industry warns of fuel shortages if Strait of Hormuz stays closed</title>
+      <link>https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Airports Council International (ACI) Europe said its members had "increasing concerns" about the availability of jet fuel.</summary>
+      <pubDate>Sat, 11 Apr 2026 09:21:28 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff5e/live/06b8a020-34f9-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Tankers urged not to pay toll to Iran for use of strait</title>
-      <link>https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Tanker firms are being advised not to pay Iran any levies in return for safe passage through the Strait of Hormuz.</summary>
-      <pubDate>Fri, 10 Apr 2026 18:45:33 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37c6/live/94da2e60-34f3-11f1-955f-add91a6f90f4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>UK shelves Chagos deal after Trump opposition</title>
       <link>https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>UK government officials say they are not entirely abandoning the agreement but have run out of time.</summary>
@@ -78,6 +67,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ef/live/533a9e50-0c7a-11f1-bbff-03527479c958.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>NHS to offer second dose of MenB vaccine after Kent outbreak</title>
+      <link>https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.</summary>
+      <pubDate>Sat, 11 Apr 2026 08:35:32 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
