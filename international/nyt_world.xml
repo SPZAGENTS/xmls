@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-12T20:04:58.116607</generated>
+  <generated>2026-04-12T21:05:25.888038</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After No Peace Deal Reached</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
       <summary>Vice President JD Vance said that marathon talks between the United States and Iran had failed to produce a deal to fully reopen the strait and end the war. Iran’s top negotiator suggested further talks were possible.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:53:41 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 18:02:26 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12live-mideast-top-bmtk-promo/12live-mideast-top-bmtk-mediumSquareAt3X.jpg</image>
@@ -41,7 +41,7 @@
       <title>Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html</link>
       <summary>Israel’s campaign targeting Hezbollah in Lebanon has been a source of tension in the U.S.-Iran cease-fire. Israeli and Lebanese officials plan to meet for rare talks in Washington this week.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:43:33 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 17:39:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-lebanon-tqwk/12israel-iran-lebanon-tqwk-mediumSquareAt3X.jpg</image>
@@ -67,17 +67,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.K. Puts Chagos Islands Deal on Hold Following Criticism From Trump</title>
-      <link>https://www.nytimes.com/2026/04/11/world/europe/britain-chagos-islands-uk.html</link>
-      <summary>The plan to give Mauritius formal control of the islands, home to a U.S.-British military base, was called “an act of great stupidity” by President Trump.</summary>
-      <pubDate>Sat, 11 Apr 2026 12:01:56 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-uk-chagos-01-wzgf/11int-uk-chagos-01-wzgf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Jailed for Love Songs? Yes, and Still Singing.</title>
+      <link>https://www.nytimes.com/2026/04/12/world/asia/vietnam-singer-prisoner.html</link>
+      <summary>Nguyen Van Loc was persecuted for performing Hanoi’s old romantic music during (and after) the Vietnam War. He can’t stop. He won’t stop.</summary>
+      <pubDate>Sun, 12 Apr 2026 17:38:38 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/01/multimedia/00vietnam-singer-profile-fbjg/00vietnam-singer-profile-fbjg-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
