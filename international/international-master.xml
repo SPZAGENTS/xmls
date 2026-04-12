@@ -2,20 +2,9 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-12T02:01:11.354290</generated>
-  <total_articles>337</total_articles>
+  <generated>2026-04-12T03:02:49.487761</generated>
+  <total_articles>336</total_articles>
   <items>
-    <item>
-      <title>JD Vance takes on a perilous mission - could it backfire?</title>
-      <link>https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.</summary>
-      <pubDate>Sat, 11 Apr 2026 00:54:23 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c19/live/ef4d3250-3522-11f1-879d-1b2f5c3919b8.jpg</image>
-      </media>
-    </item>
     <item>
       <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
       <link>https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c5/live/64445c10-3383-11f1-9d5c-8ba507d7dbde.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Al Jazeera condemns killing of journalist in Israeli strike in Gaza</title>
+      <link>https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Israeli military claims Mohammed Wishah was a "Hamas terrorist" - which the Qatar-based network has previously denied.</summary>
+      <pubDate>Thu, 09 Apr 2026 11:39:56 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be05/live/f8e4f3e0-33fe-11f1-879d-1b2f5c3919b8.jpg</image>
       </media>
     </item>
   </items>
