@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-12T06:03:15.758262</generated>
+  <generated>2026-04-12T07:00:58.874971</generated>
   <items>
     <item>
       <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Citizen 'Frog Patrol' helps amphibians survive a dangerous road journey in Poland</title>
-      <link>https://abcnews.com/International/wireStory/citizen-frog-patrol-helps-amphibians-survive-dangerous-road-131906153</link>
-      <summary>Hundreds of volunteers have joined a &amp;quot;Frog Patrol&amp;quot; initiative in a forest near the Polish capital of Warsaw to help amphibians survive road crossings during their spring mating rituals</summary>
-      <pubDate>Fri, 10 Apr 2026 07:40:15 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Weird/wirestory_e58af9e80114e4d9089a8238948612c7_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Nigerian army general and several soldiers killed during an assault on a base in the northeast</title>
       <link>https://abcnews.com/International/wireStory/nigerian-army-general-soldiers-killed-assault-base-northeast-131885966</link>
       <summary>Nigeria's officials say that an army general and several soldiers have been killed during an attempt to raid a military base in the northeast</summary>
@@ -89,6 +78,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_aee50fdefb5fe82dc14d3aa93b9bdd49_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Citizen 'Frog Patrol' helps amphibians survive a dangerous road journey in Poland</title>
+      <link>https://abcnews.com/International/wireStory/citizen-frog-patrol-helps-amphibians-survive-dangerous-road-131906153</link>
+      <summary>Hundreds of volunteers have joined a &amp;quot;Frog Patrol&amp;quot; initiative in a forest near the Polish capital of Warsaw to help amphibians survive road crossings during their spring mating rituals</summary>
+      <pubDate>Fri, 10 Apr 2026 07:40:15 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Weird/wirestory_e58af9e80114e4d9089a8238948612c7_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
