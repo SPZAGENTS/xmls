@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-13T01:01:06.100885</generated>
+  <generated>2026-04-13T02:01:01.688513</generated>
   <items>
     <item>
       <title>Trump's incendiary rhetoric fuels 'chaos and confusion', driving NATO allies toward self-reliance</title>
@@ -78,6 +78,17 @@
       </media>
     </item>
     <item>
+      <title>Trump orders naval blockade of Strait of Hormuz after failed US-Iran talks</title>
+      <link>https://www.france24.com/en/middle-east/20260412-trump-orders-naval-blockade-of-strait-of-hormuz</link>
+      <summary>President Donald Trump said the US Navy will begin a blockade of the Strait of Hormuz Monday morning after US-Iran ceasefire talks in Pakistan collapsed without agreement. This announcement fuelled fears of further disruption to global energy supplies and shipping routes.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:57:39 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.france24.com/media/display/26472304-35f7-11f1-88b3-005056bf30b7/w:1024/p:16x9/2026-04-10T125026Z-1635629188-RC2B2KAEKNYV-RTRMADP-3-IRAN-CRISIS-ENERGY.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Why Anthropic’s new AI model is too powerful to release</title>
       <link>https://www.france24.com/en/why-anthropic-s-new-ai-model-is-too-powerful-to-release-1</link>
       <summary>One of the world's leading AI companies has built a model so powerful that it refuses to fully release it publicly just yet, prompting urgent talks from Wall Street to financial regulators in the UK.</summary>
@@ -89,22 +100,15 @@
       </media>
     </item>
     <item>
-      <title>Finance minister favoured to succeed Talon as Benin votes in presidential election</title>
-      <link>https://www.france24.com/en/africa/20260412-finance-minister-wadagni-favoured-to-succeed-talon-as-benin-votes-in-presidential-election</link>
-      <summary>Benin voters cast their ballots for the country's next president Sunday, with current Finance Minister Romuald Wadagni expected to win handily over the sole opposition candidate Paul Hounkpè. Results are expected earlier in the week.</summary>
-      <pubDate>Sun, 12 Apr 2026 20:00:39 GMT</pubDate>
+      <title>Hungary's 'return to Europe: Peaceful revolution' embraces new path away from Russia and autocracy</title>
+      <link>https://www.france24.com/en/video/20260412-hungary-s-return-to-europe-peaceful-revolution-embraces-new-path-away-from-russia-and-autocracy</link>
+      <summary>As Péter Magyar is set to become Hungary's new prime minister, with an astounding supermajority, FRANCE 24's Senior European Editor Armen Georgian is pleased to welcome Tamás Harangozó, Hungarian jurist, politician, and Deputy Leader of the MSZP Socialists in parliament. Accor...</summary>
+      <pubDate>Sun, 12 Apr 2026 22:21:29 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://s.france24.com/media/display/11dbdafc-36a8-11f1-8131-005056bfb2b6/w:1024/p:16x9/000-A7HP6RE.jpg</image>
+        <image>https://s.france24.com/media/display/054afc7a-36ba-11f1-ad77-005056a97e36/w:1024/p:16x9/EN-20260412-223115-223910-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Prime Minister Viktor Orban concedes defeat in Hungary election</title>
-      <link>https://www.france24.com/en/europe/20260412-live-hungary-parliamentary-elections-orb%C3%A1n</link>
-      <summary />
-      <pubDate>Sun, 12 Apr 2026 19:25:45 GMT</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
