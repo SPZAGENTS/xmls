@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-12T05:01:07.623149</generated>
+  <generated>2026-04-12T06:03:06.558036</generated>
   <items>
     <item>
       <title>Messy and unpredictable: What I learned from election tour of the UK</title>
@@ -12,6 +12,17 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6272/live/2bcc4af0-3338-11f1-bf11-9546df991775.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran chose 'not to accept our terms', Vance says after negotiations</title>
+      <link>https://www.bbc.com/news/videos/cqj82xn9n8eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US vice-president made the announcement after 21 hours of negotiations in Islamabad, Pakistan.</summary>
+      <pubDate>Sun, 12 Apr 2026 02:33:35 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06da/live/2fcf9630-3616-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston</title>
-      <link>https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.</summary>
-      <pubDate>Sat, 11 Apr 2026 21:23:07 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c463/live/31af4090-35f3-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Faisal Islam: Why the government is relaxed about Chinese car imports</title>
       <link>https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The UK government believes the rise of China's car industry could be good for UK consumers and industry.</summary>
@@ -78,6 +78,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2801/live/f5b10fd0-3500-11f1-b057-1d9fee7490d8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston</title>
+      <link>https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.</summary>
+      <pubDate>Sat, 11 Apr 2026 21:23:07 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c463/live/31af4090-35f3-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/4b264760-357d-11f1-8c7e-43c32073e8a3.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The prophet and the mysterious death of Charmain Speirs</title>
-      <link>https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.</summary>
-      <pubDate>Sat, 11 Apr 2026 23:14:11 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8c/live/aa743190-329a-11f1-8cba-9df81803c83c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
