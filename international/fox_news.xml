@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-12T13:00:53.577641</generated>
+  <generated>2026-04-12T14:01:23.274334</generated>
   <items>
     <item>
       <title>Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-miami-air-force-one-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Swalwell faces expulsion effort following bombshell assault allegations</title>
-      <link>https://www.foxnews.com/media/swalwell-faces-expulsion-effort-following-bombshell-assault-allegations</link>
-      <summary>Rep. Luna plans to bring a motion to expel Rep. Swalwell from Congress over alleged sexual misconduct claims, though Swalwell has denied the allegations.</summary>
-      <pubDate>Sat, 11 Apr 2026 16:00:16 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eric-swalwell-misconduct-allegations-fox-news.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,13 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Christmas Vacation and Congress: 'We're all in misery' amid the ongoing DHS shutdown</title>
+      <title>'Christmas Vacation' and Congress: 'We're all in misery' amid the ongoing DHS shutdown</title>
       <link>https://www.foxnews.com/politics/christmas-vacation-congress-were-all-misery-amid-ongoing-dhs-shutdown</link>
       <summary>Fox News&amp;apos; Chad Pergram discusses Congress&amp;apos; prolonged DHS shutdown and the risky tactics associated with it as political divisions threaten deeper government funding crises.</summary>
       <pubDate>Sun, 12 Apr 2026 03:41:14 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/capitol-building-and-ice-officer.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Rory McIlroy's monstrous lead disappears, surprise contender surges as Masters comes down to final day</title>
+      <link>https://www.foxnews.com/sports/rory-mcilroys-monstrous-lead-disappears-surprise-contender-surges-masters-comes-final-day</link>
+      <summary>The Masters heads into a thrilling Sunday with Rory McIlroy and Cameron Young tied at 11 under after McIlroy&amp;apos;s record six-shot lead completely vanished.</summary>
+      <pubDate>Sun, 12 Apr 2026 06:49:23 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/rory-cam-masters-split-41226.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
