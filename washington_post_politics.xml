@@ -2,10 +2,10 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-12T21:05:25.200776</generated>
+  <generated>2026-04-12T23:03:10.052237</generated>
   <items>
     <item>
-      <title>Democrats see gas prices as a potent political tool. Here’s the catch.</title>
+      <title>Democrats say GOP broke promise on prices, but some swing voters lost faith in change</title>
       <link>https://www.washingtonpost.com/politics/2026/04/12/nevada-gas-prices-governors-race/</link>
       <summary>President Donald Trump’s attack on Iran sent gas prices surging, giving Democrats’ focus on affordability more traction if they can get voters to trust them.</summary>
       <pubDate>Sun, 12 Apr 2026 09:00:48 +0000</pubDate>
@@ -16,13 +16,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/12/iowa-midterm-voters-women/</link>
       <summary>Women courted in key races weigh their choices — and whether the president’s policies have delivered for a working-class town hit by tariffs, war and rising costs.</summary>
       <pubDate>Sun, 12 Apr 2026 09:00:25 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>How college students who study war view Trump’s Iran taunts</title>
-      <link>https://www.washingtonpost.com/nation/2026/04/11/trump-iran-morality-war-class/</link>
-      <summary>On campuses around the country, thoughtful debates about “just war” theory and morality collided with President Trump’s erratic approach to combat.</summary>
-      <pubDate>Sat, 11 Apr 2026 13:00:59 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/11/trump-biden-economy-approval/</link>
       <summary>America’s last two presidents have spent years as political foils. Both feel the American public does not give them enough credit.</summary>
       <pubDate>Sat, 11 Apr 2026 09:00:11 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/</link>
+      <summary>Supporters of Rep. Eric Swalwell’s campaign withdrew support, including two congressmen who chaired his campaign and two senators who endorsed his bid. Swalwell denied the allegations.</summary>
+      <pubDate>Sat, 11 Apr 2026 03:51:20 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
