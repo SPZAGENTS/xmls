@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-12T12:00:56.006075</generated>
+  <generated>2026-04-12T13:00:56.335554</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: U.S. and Iran Fail to Agree on Peace Deal, Vance Says, Leaving Cease-Fire’s Fate Uncertain</title>
+      <title>Iran War Live Updates: Top Iranian Negotiator Suggests Iran Is Open to Further Peace Talks</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
-      <summary>Vice President JD Vance said the Iranian delegation had not accepted American terms for ending the war after a marathon session in Pakistan.</summary>
-      <pubDate>Sun, 12 Apr 2026 08:31:17 +0000</pubDate>
+      <summary>Vice President JD Vance said Sunday that a marathon session of negotiations between the United States and Iran had failed to immediately produce an agreement to end the war.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:55:33 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/11/multimedia/12iran-live-promo-1amET-qpmf/12iran-live-promo-1amET-qpmf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Inside Tyre, a Lebanese City Bombarded by Israel</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html</link>
+      <summary>In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:02:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,28 +49,6 @@
       </media>
     </item>
     <item>
-      <title>In New War With Israel, Hezbollah Defies Notion That It Was Crippled</title>
-      <link>https://www.nytimes.com/2026/04/11/world/middleeast/hezbollah-israel.html</link>
-      <summary>The Iran-backed Lebanese militant group surprised many with the intensity of its attacks on Israel in the current conflict.</summary>
-      <pubDate>Sat, 11 Apr 2026 09:45:14 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00int-hezbollah-capabilities-fhbg/00int-hezbollah-capabilities-fhbg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Killing of Masood Masjoody Exposes Deep Rifts in Canada’s Iranian Diaspora</title>
-      <link>https://www.nytimes.com/2026/04/11/world/canada/iran-murder-masjoody-vancouver-canada.html</link>
-      <summary>An Iranian activist in Vancouver disappeared after accusing two compatriots of wanting him dead. Then his body was found.</summary>
-      <pubDate>Sat, 11 Apr 2026 17:34:27 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/03/multimedia/00int-canada-iran-murder-kfvg/00int-canada-iran-murder-kfvg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
       <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
       <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
@@ -82,6 +71,17 @@
       </media>
     </item>
     <item>
+      <title>The Escalating Global A.I. Arms Race</title>
+      <link>https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html</link>
+      <summary>China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:00:32 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/30/multimedia/00biz-Ai-Arms-Race-03-qzcb/00biz-Ai-Arms-Race-03-qzcb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>What Now? Vance Leaves Iran Talks Without a Deal.</title>
       <link>https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html</link>
       <summary>The lack of a breakthrough after 21 hours of negotiations leaves the Trump administration facing several unpalatable options.</summary>
@@ -93,17 +93,21 @@
       </media>
     </item>
     <item>
-      <title>Overlooked No More: Margaret Gipsy Moth, Fearless CNN Camera Operator</title>
-      <link>https://www.nytimes.com/2026/04/11/obituaries/margaret-gipsy-moth-overlooked.html</link>
-      <summary>She covered conflicts across the globe, joking after she was injured in Sarajevo that she would be returning to find her missing teeth.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:48:51 +0000</pubDate>
-      <priority>90</priority>
+      <title>Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis</title>
+      <link>https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html</link>
+      <summary>Hundreds of patients every year have trouble finding emergency care, even though the country has a world-class medical system. For some, the delays have been fatal.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:00:18 +0000</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Mass Stampede at Haitian Tourist Site Leaves Dozens Dead</title>
       <link>https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html</link>
       <summary>The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols.</summary>
-      <pubDate>Sun, 12 Apr 2026 04:21:44 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 09:01:59 +0000</pubDate>
       <priority>80</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg</image>
