@@ -2,16 +2,27 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-12T14:01:26.706357</generated>
+  <generated>2026-04-12T15:00:55.653585</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
       <summary>Vice President JD Vance said Sunday that a marathon session of negotiations between the United States and Iran had failed to immediately produce an agreement to end the war.</summary>
-      <pubDate>Sun, 12 Apr 2026 10:46:03 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 11:51:00 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/05/11/multimedia/12iran-live-promo-1amET-qpmf/12iran-live-promo-1amET-qpmf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12live-mideast-top-bmtk-promo/12live-mideast-top-bmtk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html</link>
+      <summary>Iran sees American demands as reaching far beyond what it achieved in war. Tehran is gambling that it can withstand further bombardment more than Washington is willing to sustain economic chaos, experts say.</summary>
+      <pubDate>Sun, 12 Apr 2026 11:24:22 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-iran-assess-tczv/12int-iran-assess-tczv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,24 +38,13 @@
       </media>
     </item>
     <item>
-      <title>Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?</title>
-      <link>https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html</link>
-      <summary>While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands. The question is whether it will compromise in peace negotiations.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:22:31 +0000</pubDate>
+      <title>Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html</link>
+      <summary>Israel’s campaign targeting Hezbollah in Lebanon has been a source of tension in the U.S.-Iran cease-fire. Israeli and Lebanese officials plan to meet for rare talks in Washington this week.</summary>
+      <pubDate>Sun, 12 Apr 2026 11:47:10 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-iran-consistency-assess-tjpm/11int-iran-consistency-assess-tjpm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It</title>
-      <link>https://www.nytimes.com/2026/04/11/world/middleeast/iran-economy-war.html</link>
-      <summary>The vast scale of destruction wrought by U.S. and Israeli bombardment will make sanctions relief all the more vital to Iran’s government as it tries to negotiate a peace agreement.</summary>
-      <pubDate>Sat, 11 Apr 2026 09:02:25 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-iran-economy-gqht/11int-iran-economy-gqht-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-lebanon-tqwk/12israel-iran-lebanon-tqwk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -52,7 +52,7 @@
       <title>Netanyahu Says War With Iran is ‘Not Yet Over’</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html</link>
       <summary>In a televised address, Prime Minister Benjamin Netanyahu of Israel sought to placate critics at home who say the war failed to achieve its goals.</summary>
-      <pubDate>Sun, 12 Apr 2026 10:15:25 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 10:15:26 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-netanyahu-pfmt/12israel-iran-netanyahu-pfmt-mediumSquareAt3X.jpg</image>
@@ -60,13 +60,13 @@
       </media>
     </item>
     <item>
-      <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
-      <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
-      <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
-      <pubDate>Sat, 11 Apr 2026 19:22:27 +0000</pubDate>
-      <priority>95</priority>
+      <title>The ‘Islamabad Peace Talks’ Are Over. What Now for Pakistan?</title>
+      <link>https://www.nytimes.com/2026/04/12/world/asia/iran-peace-talks-pakistan.html</link>
+      <summary>With the U.S. and Iranian delegations gone from Islamabad and the cease-fire uncertain, Pakistan faces its own economic and diplomatic challenges.</summary>
+      <pubDate>Sun, 12 Apr 2026 11:50:40 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
