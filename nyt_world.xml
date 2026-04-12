@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-12T07:00:54.825929</generated>
+  <generated>2026-04-12T08:04:00.322792</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. And Iran Fail to Agree on Peace Deal After 21 Hours of Talks, Vance Says</title>
       <link>https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan</link>
       <summary>Vice President JD Vance said the Iranian delegation had not accepted American terms for ending the war after a marathon, face-to-face session in Pakistan.</summary>
-      <pubDate>Sun, 12 Apr 2026 02:57:54 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 04:46:20 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/11/multimedia/11iran-live-vance-promo/11iran-live-vance-promo-mediumSquareAt3X-v2.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Lebanon: Images of a Nation Uprooted by War</title>
-      <link>https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html</link>
-      <summary>A million people in Lebanon have fled their homes as Israel clashes anew with Hezbollah. This is what their lives look now.</summary>
-      <pubDate>Fri, 10 Apr 2026 09:05:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00Int-Lebanon-IDP-Photos-01-wcvk/00Int-Lebanon-IDP-Photos-01-wcvk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
       <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
       <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
@@ -93,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>What Now? Vance Leaves Iran Talks Without a Deal.</title>
+      <link>https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html</link>
+      <summary>The lack of a breakthrough after 21 hours of negotiations leaves the Trump administration facing several unpalatable options.</summary>
+      <pubDate>Sun, 12 Apr 2026 04:26:12 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/05/11/multimedia/11dc-prexy-zghw/11dc-prexy-zghw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Overlooked No More: Margaret Gipsy Moth, Fearless CNN Camera Operator</title>
       <link>https://www.nytimes.com/2026/04/11/obituaries/margaret-gipsy-moth-overlooked.html</link>
       <summary>She covered conflicts across the globe, joking after she was injured in Sarajevo that she would be returning to find her missing teeth.</summary>
@@ -100,13 +100,13 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.</title>
-      <link>https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html</link>
-      <summary>Prime Minister Keir Starmer of Britain is strengthening ties in Europe and the Middle East as the once-special relationship with America sours.</summary>
-      <pubDate>Fri, 10 Apr 2026 16:32:01 +0000</pubDate>
-      <priority>85</priority>
+      <title>Mass Stampede at Haitian Tourist Site Leaves Dozens Dead</title>
+      <link>https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html</link>
+      <summary>The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols.</summary>
+      <pubDate>Sun, 12 Apr 2026 04:21:44 +0000</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-starmer-trump-assess-qhjz/10int-starmer-trump-assess-qhjz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
