@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-12T20:05:07.265378</generated>
+  <generated>2026-04-12T21:05:32.738080</generated>
   <items>
     <item>
       <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Pro-Iran groups have used AI to troll Trump and try to control the war narrative</title>
-      <link>https://abcnews.com/International/wireStory/pro-iran-groups-ai-troll-trump-control-war-131867909</link>
-      <summary>Pro-Iran groups have used artificial intelligence to create slick internet memes in English to try to shape the narrative during the war against the U.S. and Israel, and foster opposition to it</summary>
-      <pubDate>Thu, 09 Apr 2026 04:52:07 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_6622aa77b833cbd470b53ed7d43be9bd_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iraq elects Kurdish politician Nizar Amidi as president amid war fallout</title>
       <link>https://abcnews.com/International/wireStory/iraq-elects-kurdish-politician-nizar-amidi-president-amid-131951211</link>
       <summary>Iraq&amp;rsquo;s parliament has elected Nizar Amidi as president, five months after elections failed to produce a decisive majority</summary>
@@ -67,6 +56,17 @@
       <priority>95</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_d4279d9afb91ad10bcb761c1ea71a993_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] At least 100 dead in Nigeria after air force 'misfire' on market, sources say</title>
+      <link>https://abcnews.com/International/wireStory/100-dead-nigeria-after-air-force-misfire-market-131972032</link>
+      <summary>A Nigerian Air Force strike targeting jihadi rebels hit a local market in northeastern Nigeria, killing over 100 civilians including children and injuring many others, a rights group and local media reported</summary>
+      <pubDate>Sun, 12 Apr 2026 13:59:04 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>British authorities charge alleged boat pilot in deaths of 4 migrants in the English Channel</title>
-      <link>https://abcnews.com/International/wireStory/british-authorities-charge-alleged-boat-pilot-deaths-4-131946573</link>
-      <summary>Authorities have charged a Sudanese man under a new British immigration law for allegedly piloting a boat linked to the deaths of four migrants in the English Channel</summary>
-      <pubDate>Sat, 11 Apr 2026 06:12:58 -0400</pubDate>
-      <priority>65</priority>
+      <title>[PENDING_TRANSLATION] Cuba's president warns US against attacking island or trying to depose him</title>
+      <link>https://abcnews.com/International/wireStory/cubas-president-warns-us-attacking-island-depose-131972029</link>
+      <summary>President D&amp;iacute;az-Canel says the U.S. has no valid reason to try to depose him.</summary>
+      <pubDate>Sun, 12 Apr 2026 14:00:53 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_49417e3668fb75ae75e8eb2a58a0ce2c_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
