@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-12T23:03:06.863290</generated>
+  <generated>2026-04-13T00:00:57.643992</generated>
   <items>
     <item>
       <title>Ex-Obama advisor says Iran could target Gulf oil facilities as Trump blockade squeezes regime</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/virginia-redistricting-refendum-signs.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>5 Tax Day food deals to score, from free treats to BOGO subs and more</title>
+      <link>https://www.foxnews.com/food-drink/5-tax-day-food-deals-score-from-free-treats-bogo-subs-more</link>
+      <summary>As Tax Day approaches, restaurant chains like Subway, Olive Garden and Qdoba are offering deals and discounts to help diners save on meals this April.</summary>
+      <pubDate>Sun, 12 Apr 2026 16:14:15 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/woman-eating-takeout-sofa-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Sergio Garcia destroys his driver in frustration at the Masters, receives code of conduct warning</title>
-      <link>https://www.foxnews.com/sports/sergio-garcia-destroys-driver-frustration-masters-receives-code-conduct-warning</link>
-      <summary>Sergio Garcia shattered his driver and received a code of conduct warning at Augusta after hitting into a bunker during the Masters final round.</summary>
-      <pubDate>Sun, 12 Apr 2026 12:18:03 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/sergio-garcia-putt-masters-augusta-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran talks done in by Tehran's delusions over leverage they don't have, US official says</title>
       <link>https://www.foxnews.com/politics/iran-talks-done-tehrans-delusions-leverage-dont-us-official-says</link>
       <summary>Iran-U.S. negotiations fell apart after Tehran misjudged its leverage, a U.S. official says, as Vice President JD Vance departed Pakistan without a deal.</summary>
@@ -82,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Conservative group launches $5M ad blitz pressuring Senate on voter ID as GOP eyes SAVE America Act push</title>
-      <link>https://www.foxnews.com/politics/conservative-group-launches-5m-ad-blitz-pressuring-senate-voter-id-gop-eyes-save-america-act-push</link>
-      <summary>Conservative nonprofit Restoration of America launches a $5 million nationwide ad campaign urging senators to pass the SAVE America Act on voter ID rules.</summary>
-      <pubDate>Sun, 12 Apr 2026 12:01:59 -0400</pubDate>
-      <priority>75</priority>
+      <title>Elizabeth Hurley shows off her figure in a daring string bikini while promoting her swimwear brand at 60</title>
+      <link>https://www.foxnews.com/entertainment/elizabeth-hurley-shows-off-figure-daring-string-bikini-while-promoting-swimwear-brand-60</link>
+      <summary>Elizabeth Hurley, 60, wows in a tiny striped string bikini from her swimwear line while lounging by the beach in a stunning makeup-free Instagram post.</summary>
+      <pubDate>Sun, 12 Apr 2026 16:26:17 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/save-act-capitol-hill.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/elizabeth-hurley-plunging-purple.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
