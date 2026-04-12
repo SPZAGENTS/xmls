@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-12T02:01:09.057603</generated>
+  <generated>2026-04-12T04:02:28.917153</generated>
   <items>
     <item>
       <title>Iran live updates: High-stakes US-Iran-Pakistan talks continue</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Business/260410_abc_social_inflation_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Artemis II live updates: Crew makes 1st appearance since return from moon mission</title>
-      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
-      <summary>Artemis II is carrying a four-person crew on a 10-day journey around the moon.</summary>
-      <pubDate>Sat, 11 Apr 2026 18:49:51 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/artemis-crew-gty-jt-260411_1775943508968_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260410_abc_social_melania_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>'Welcome home, Artemis': Crew celebrates historic 10-day moon mission</title>
+      <link>https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306</link>
+      <summary>Artemis II carried a four-person crew on a 10-day journey around the moon.</summary>
+      <pubDate>Sat, 11 Apr 2026 19:03:37 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/artemis-crew-gty-jt-260411_1775943508968_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
