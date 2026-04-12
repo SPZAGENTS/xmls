@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-12T16:06:30.670560</generated>
+  <generated>2026-04-12T17:05:36.916348</generated>
   <items>
+    <item>
+      <title>IDF uncovers Hezbollah weapons stash inside hospital in Lebanon</title>
+      <link>https://www.foxnews.com/world/idf-uncovers-hezbollah-weapons-stash-inside-hospital-lebanon</link>
+      <summary>Israel Defense Forces uncovered a weapons stash used by Hezbollah terrorists inside a hospital in Lebanon this weekend.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:12:16 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/guns-israel.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Pope Leo calls out 'delusion of omnipotence' fueling Iran war in vigil for peace at St. Peter's Basilica</title>
       <link>https://www.foxnews.com/world/pope-leo-calls-delusion-omnipotence-fueling-iran-war-vigil-peace-st-peters-basilica</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hezbollah-iran.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>UK's NATO show of force ends with docked destroyer in Mediterranean after 'technical' issue</title>
-      <link>https://www.foxnews.com/world/uks-nato-show-force-ends-docked-destroyer-mediterranean-after-technical-issue</link>
-      <summary>The U.K. docked its sole naval warship in the Mediterranean due to technical issues amid growing criticism of PM Starmer&amp;apos;s response to the Iran war.</summary>
-      <pubDate>Wed, 08 Apr 2026 16:11:27 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Starmer-HMS-Destroyer.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
