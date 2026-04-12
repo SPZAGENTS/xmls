@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-13T00:00:56.291923</generated>
+  <generated>2026-04-13T01:00:57.158114</generated>
   <items>
     <item>
       <title>Civilians feared killed after reports of air strike on Nigerian market</title>
@@ -45,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/302ae3b0-3665-11f1-ac54-83d2c42adad4.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Paddington musical dominates Olivier Awards</title>
+      <link>https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The beloved bear's stage show won seven prizes including best new musical and three acting prizes.</summary>
+      <pubDate>Sun, 12 Apr 2026 21:07:35 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef4/live/1134e920-36a5-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69f/live/cf9bd120-368d-11f1-8c7c-3d26c824719f.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Row over Reform UK deputy leader's £91,000 tax is 'minor admin error', party says</title>
-      <link>https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>A property company owned by the Reform UK deputy leader failed to pay £91,000 in tax on dividends, according to the Sunday Times.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:34:31 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bddc/live/34f595e0-368b-11f1-abe5-5d7d921c70a4.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
