@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-12T13:00:56.335554</generated>
+  <generated>2026-04-12T14:01:26.706357</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Top Iranian Negotiator Suggests Iran Is Open to Further Peace Talks</title>
+      <title>Iran War Live Updates: Top Iranian Negotiator Suggests Further Peace Talks Are Possible</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
       <summary>Vice President JD Vance said Sunday that a marathon session of negotiations between the United States and Iran had failed to immediately produce an agreement to end the war.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:55:33 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 10:46:03 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/11/multimedia/12iran-live-promo-1amET-qpmf/12iran-live-promo-1amET-qpmf-mediumSquareAt3X.jpg</image>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-iran-economy-gqht/11int-iran-economy-gqht-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Netanyahu Says War With Iran is ‘Not Yet Over’</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html</link>
+      <summary>In a televised address, Prime Minister Benjamin Netanyahu of Israel sought to placate critics at home who say the war failed to achieve its goals.</summary>
+      <pubDate>Sun, 12 Apr 2026 10:15:25 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-netanyahu-pfmt/12israel-iran-netanyahu-pfmt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>85</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mass Stampede at Haitian Tourist Site Leaves Dozens Dead</title>
-      <link>https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html</link>
-      <summary>The tragedy took place at the Citadelle Laferrière, a historic fortress in northern Haiti and one of the country’s defining symbols.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:01:59 +0000</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-12T13:00:56.812422</generated>
+  <generated>2026-04-12T14:01:27.262056</generated>
   <items>
+    <item>
+      <title>Netanyahu Says War With Iran is ‘Not Yet Over’</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html</link>
+      <summary>In a televised address, Prime Minister Benjamin Netanyahu of Israel sought to placate critics at home who say the war failed to achieve its goals.</summary>
+      <pubDate>Sun, 12 Apr 2026 10:15:26 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-netanyahu-pfmt/12israel-iran-netanyahu-pfmt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Inside Tyre, a Lebanese City Bombarded by Israel</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html</link>
@@ -92,17 +103,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-islamabad-scene-01-mpkw/10int-islamabad-scene-01-mpkw-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
-      <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
-      <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
-      <pubDate>Sat, 11 Apr 2026 19:22:27 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
