@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-12T12:00:56.491349</generated>
+  <generated>2026-04-12T13:00:56.812422</generated>
   <items>
+    <item>
+      <title>Inside Tyre, a Lebanese City Bombarded by Israel</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html</link>
+      <summary>In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.</summary>
+      <pubDate>Sun, 12 Apr 2026 09:02:10 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Many Iranians Are Glad the Fighting Has Paused. Some Hard-liners Aren’t.</title>
       <link>https://www.nytimes.com/2026/04/11/world/middleeast/iranians-hardliners-ceasefire.html</link>
@@ -81,17 +92,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-islamabad-scene-01-mpkw/10int-islamabad-scene-01-mpkw-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel and Lebanon Plan Talks in D.C. as War Threatens U.S.-Iran Cease-Fire Deal</title>
-      <link>https://www.nytimes.com/2026/04/10/world/middleeast/israel-lebanon-ceasefire-talks-iran-war.html</link>
-      <summary>Whether Israel’s conflict with Hezbollah, the Iran-backed militant group in Lebanon, is included in the Iran cease-fire is one of the major disputes rattling the truce.</summary>
-      <pubDate>Sat, 11 Apr 2026 01:21:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-lebanon-talks-topart-vfwj/10israel-iran-lebanon-talks-topart-vfwj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
