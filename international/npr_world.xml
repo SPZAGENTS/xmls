@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-12T07:01:00.272857</generated>
+  <generated>2026-04-12T08:04:06.478098</generated>
   <items>
     <item>
       <title>Pope Leo says 'delusion of omnipotence' is fueling U.S.-Israeli war in Iran</title>
@@ -26,6 +26,13 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>White House ballroom construction can continue for now, appeals court says</title>
+      <link>https://www.npr.org/2026/04/11/nx-s1-5782084/dc-appeals-court-trump-ballroom-bunker</link>
+      <summary>The order comes as the Trump administration challenges a lower court ruling that the estimated $300-million project requires congressional approval.</summary>
+      <pubDate>Sat, 11 Apr 2026 22:56:07 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Trump touts newly released plans for D.C. triumphal arch</title>
       <link>https://www.npr.org/2026/04/11/nx-s1-5782027/trump-triumphal-arch-plans-architecture</link>
       <summary>The proposed 250-feet-tall, white-and-gilded monument would stand on the National Mall in Washington, D.C., by the Potomac River.</summary>
@@ -37,13 +44,6 @@
       <link>https://www.npr.org/2026/04/11/g-s1-116582/india-cracks-down-satirists-turning-prime-minister-punch-line-modi</link>
       <summary>India's satirists are turning Prime Minister Narendra Modi into a punch line — and the government is hitting back.</summary>
       <pubDate>Sat, 11 Apr 2026 07:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>How AI is getting better at finding security holes</title>
-      <link>https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview</link>
-      <summary>Anthropic announced this week that its new model found security flaws in "every major operating system and web browser." Even before the news, AI models had gotten dramatically better at finding bugs.</summary>
-      <pubDate>Sat, 11 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>

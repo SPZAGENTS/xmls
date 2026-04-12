@@ -2,8 +2,15 @@
 <content-feed>
   <title>Guardian Middle East - Top 10 Articles</title>
   <source>Guardian Middle East</source>
-  <generated>2026-04-12T07:00:56.277614</generated>
+  <generated>2026-04-12T08:04:02.220939</generated>
   <items>
+    <item>
+      <title>‘Everything is gone’: Israel destroys entire villages in Lebanon</title>
+      <link>https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon</link>
+      <summary>Rights groups fear tactic of ‘domicide’ trialled in Gaza, where entire areas are made uninhabitable, is being used again The Israeli military has demolished entire villages as part of its invasion of south Lebanon, rigging homes with explosives and razing them to the ground in...</summary>
+      <pubDate>Sun, 12 Apr 2026 04:00:07 GMT</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>US state department revokes green cards of three Iranian nationals it links to regime</title>
       <link>https://www.theguardian.com/us-news/2026/apr/11/state-department-revokes-green-cards-iran-arrests</link>
@@ -100,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/716bbb67a406b1df0bbd310f5489a791d9bd68ad/469_0_4691_3753/master/4691.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89fd50af2da183120b32a77eec4d1acc</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Pakistan emerged as a mediator in the Iran conflict – video explainer</title>
-      <link>https://www.theguardian.com/world/video/2026/apr/10/how-pakistan-emerged-mediator-us-iran-conflict-video-explainer</link>
-      <summary>Mediating a deal at the 11th hour between Iran and the US, Pakistan has emerged as an unexpected negotiator between the two countries and is now preparing to host their delegations for peace talks. Even as the US-Iran ceasefire looked increasingly precarious amid Israel’s cont...</summary>
-      <pubDate>Fri, 10 Apr 2026 10:52:45 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/b3e23a1a97057f8e6466f1847a74d81791079c0d/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=015b636a0da785681154eb92724e2774</image>
         <type>image/jpeg</type>
       </media>
     </item>
