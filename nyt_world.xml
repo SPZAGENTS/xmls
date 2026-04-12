@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-13T01:01:03.609334</generated>
+  <generated>2026-04-13T02:00:58.673862</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Plans to ‘Blockade’ Strait He Insisted Must Open</title>
+      <title>Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
-      <summary>The president’s threat came after Saturday’s talks failed to produce a deal for peace or the full reopening of the Strait of Hormuz. Both sides suggested further negotiations were possible.</summary>
-      <pubDate>Sun, 12 Apr 2026 21:35:07 +0000</pubDate>
+      <summary>The blockade on all ships “entering or departing Iranian ports and coastal areas” would begin on Monday morning, U.S. Central Command said in a statement. But U.S. forces would not impede vessels transiting the Strait of Hormuz.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:55:24 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-400/12israel-iran-mpfq-mediumSquareAt3X.jpg</image>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Cuba’s President Projects Defiance in Standoff With the U.S.</title>
+      <link>https://www.nytimes.com/2026/04/12/world/americas/cuba-president-meet-the-press.html</link>
+      <summary>Miguel Díaz-Canel’s stance on “Meet the Press” reflected how Cuba is digging in against pressure from a Trump administration distracted by the war in Iran.</summary>
+      <pubDate>Sun, 12 Apr 2026 19:06:37 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-cuba-president-pmkt/12int-cuba-president-pmkt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Inside Tyre, a Lebanese City Bombarded by Israel</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html</link>
       <summary>In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.</summary>
@@ -34,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify</title>
+      <link>https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html</link>
+      <summary>Nigerian officials said they attacked a terrorist enclave, but locals and rights groups said the airstrikes hit a popular market, killing many civilians.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:18:56 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/world/12-int-nigeria-attack-promo/12-int-nigeria-attack-promo-mediumSquareAt3X.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -56,26 +78,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Cuba’s President Projects Defiance in Standoff With the U.S.</title>
-      <link>https://www.nytimes.com/2026/04/12/world/americas/cuba-president-meet-the-press.html</link>
-      <summary>Miguel Díaz-Canel’s stance on “Meet the Press” reflected how Cuba is digging in against pressure from a Trump administration distracted by the war in Iran.</summary>
-      <pubDate>Sun, 12 Apr 2026 19:06:37 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-cuba-president-pmkt/12int-cuba-president-pmkt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks</title>
-      <link>https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html</link>
-      <summary>Israel’s campaign targeting Hezbollah in Lebanon has been a source of tension in the U.S.-Iran cease-fire. Israeli and Lebanese officials plan to meet for rare talks in Washington this week.</summary>
-      <pubDate>Sun, 12 Apr 2026 19:43:08 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-lebanon-tqwk/12israel-iran-lebanon-tqwk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
+      <title>An Underwater Phantom Is Killing Fish and Breaking Hearts</title>
+      <link>https://www.nytimes.com/2026/04/12/world/australia/south-australia-algal-bloom.html</link>
+      <summary>A mysterious algal bloom has haunted South Australia’s coast for more than a year, killing marine life and unsettling communities that cherish the ocean.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:11:20 +0000</pubDate>
+      <priority>95</priority>
     </item>
     <item>
       <title>The ‘Islamabad Peace Talks’ Are Over. What Now for Pakistan?</title>
@@ -96,17 +103,6 @@
       <priority>85</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Mass Stampede at Haitian Tourist Site Leaves Dozens Dead</title>
-      <link>https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html</link>
-      <summary>The tragedy unfolded around the appearance of a social media personality at the Citadelle Laferrière, a fortress that is a symbol of Haitian sovereignty.</summary>
-      <pubDate>Sun, 12 Apr 2026 18:25:29 +0000</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/05/11/multimedia/11int-haiti-stampede-hqwj/11int-haiti-stampede-hqwj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
