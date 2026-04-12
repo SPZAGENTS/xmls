@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-13T00:01:04.301918</generated>
+  <generated>2026-04-13T01:01:06.100885</generated>
   <items>
+    <item>
+      <title>Trump's incendiary rhetoric fuels 'chaos and confusion', driving NATO allies toward self-reliance</title>
+      <link>https://www.france24.com/en/video/20260412-trump-s-incendiary-rhetoric-fuels-chaos-and-confusion-driving-nato-allies-toward-self-reliance-1</link>
+      <summary>Oliver Farry is pleased to welcome Alexandre Vautravers, Associate Fellow in Leadership in Conflict Management at the Geneva Centre for Security Policy (GCSP). According to Vautravers, amid Trump's fiery rhetoric, the real challenges lie in the technical, logistical, and strat...</summary>
+      <pubDate>Sun, 12 Apr 2026 21:53:18 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/24162e1e-36aa-11f1-b7f5-005056a97e36/w:1024/p:16x9/EN-20260409-080918-081640-CS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Military air strikes kill dozens of people in northeast Nigeria, Amnesty International says</title>
       <link>https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says</link>
@@ -67,28 +78,6 @@
       </media>
     </item>
     <item>
-      <title>US and Iran fail to reach a deal after peace talks in Islamabad</title>
-      <link>https://www.france24.com/en/middle-east/20260412-us-and-iran-fail-to-reach-a-deal-after-peace-talks-in-islamabad</link>
-      <summary>The United States and Iran ended peace talks on Sunday without reaching a deal to end the war, leaving a fragile two-week ceasefire in doubt as both sides blamed each other for the breakdown and signaled little progress on core disputes.</summary>
-      <pubDate>Sun, 12 Apr 2026 10:57:35 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/72c0559c-3657-11f1-95fa-005056bf30b7/w:1024/p:16x9/000-A7HG2RH.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Live: Hungarian PM Viktor Orban concedes election defeat, ending 16 years in power</title>
-      <link>https://www.france24.com/en/europe/20260412-live-hungary-parliamentary-elections-orb%C3%A1n</link>
-      <summary>Hungarian ​Prime Minister Viktor ​Orban has congratulated centre-right challenger Peter Magyar ​on ‌his ⁠election victory, Magyar said on Sunday after ​partial results ‌put his Tisza party ‌on course for ​a parliamentary majority. The election saw a record turnout. Follow our ...</summary>
-      <pubDate>Sun, 12 Apr 2026 14:57:37 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.france24.com/media/display/48d1744e-36a9-11f1-a3ac-005056a97e36/w:1024/p:16x9/000-A7JX9JU.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Why Anthropic’s new AI model is too powerful to release</title>
       <link>https://www.france24.com/en/why-anthropic-s-new-ai-model-is-too-powerful-to-release-1</link>
       <summary>One of the world's leading AI companies has built a model so powerful that it refuses to fully release it publicly just yet, prompting urgent talks from Wall Street to financial regulators in the UK.</summary>
@@ -109,6 +98,13 @@
         <image>https://s.france24.com/media/display/11dbdafc-36a8-11f1-8131-005056bfb2b6/w:1024/p:16x9/000-A7HP6RE.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>Prime Minister Viktor Orban concedes defeat in Hungary election</title>
+      <link>https://www.france24.com/en/europe/20260412-live-hungary-parliamentary-elections-orb%C3%A1n</link>
+      <summary />
+      <pubDate>Sun, 12 Apr 2026 19:25:45 GMT</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>

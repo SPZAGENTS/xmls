@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-13T00:01:01.750922</generated>
+  <generated>2026-04-13T01:01:03.609334</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Plans to ‘Blockade’ Strait He Insisted Must Open</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
       <summary>The president’s threat came after Saturday’s talks failed to produce a deal for peace or the full reopening of the Strait of Hormuz. Both sides suggested further negotiations were possible.</summary>
-      <pubDate>Sun, 12 Apr 2026 20:41:08 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 21:35:07 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-400/12israel-iran-mpfq-mediumSquareAt3X.jpg</image>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>Israel’s War</title>
+      <link>https://www.nytimes.com/2026/04/12/world/israel-lebanon-iran-hungary-orban.html</link>
+      <summary>Prime Minister Benjamin Netanyahu was instrumental in taking the U.S. to war with Iran. Now, he is trying to prolong the fighting.</summary>
+      <pubDate>Sun, 12 Apr 2026 21:03:43 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-theworld-israel-netanyahu-top-bjzw-promo/13int-theworld-israel-netanyahu-top-bjzw-promo-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran’s Underground Air Force Base Was Hit Earlier in the War</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/iran-underground-air-force-base.html</link>
       <summary>Satellite imagery shows impact craters at and near the tunnel entrances to aircraft shelters at Iran’s remote “Eagle 44” base.</summary>
@@ -63,17 +74,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-lebanon-tqwk/12israel-iran-lebanon-tqwk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Netanyahu Says War With Iran Is ‘Not Yet Over’</title>
-      <link>https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html</link>
-      <summary>In a televised address, Prime Minister Benjamin Netanyahu of Israel sought to placate critics at home who say the war failed to achieve its goals.</summary>
-      <pubDate>Sun, 12 Apr 2026 12:01:45 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-netanyahu-pfmt/12israel-iran-netanyahu-pfmt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
