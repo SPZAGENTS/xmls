@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-13T20:13:04.319726</generated>
+  <generated>2026-04-13T22:01:06.693915</generated>
   <items>
     <item>
       <title>How would a U.S. military blockade of Iran's ports work?</title>
@@ -12,7 +12,14 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] At least 3 killed in Israeli strike on Gaza as talks to advance ceasefire back on</title>
+      <title>Iran port blockade has started, Trump says, after pledging approaching attack ships will be 'eliminated'</title>
+      <link>https://www.cbc.ca/news/world/livestory/us-israel-iran-war-blockade-strait-hormuz-9.7161372?cmp=rss</link>
+      <summary />
+      <pubDate>Mon, 13 Apr 2026 08:13:38 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>At least 3 killed in Israeli strike on Gaza as talks to advance ceasefire back on</title>
       <link>https://www.cbc.ca/news/world/gaza-palestinians-killed-ceasefire-deal-israel-9.7161562?cmp=rss</link>
       <summary>An Israeli airstrike killed at least three Palestinians in the Gaza Strip on Monday, health officials said, as mediators met leaders from Hamas in an effort to shore up a U.S.-brokered ceasefire deal.</summary>
       <pubDate>Mon, 13 Apr 2026 12:05:00 EDT</pubDate>
@@ -47,20 +54,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>How Iran is using executions to crush dissent</title>
-      <link>https://www.cbc.ca/player/play/9.7161051?cmp=rss</link>
-      <summary>Human rights groups say Iran is speeding up executions of political dissidents and anti-regime protesters who took to the streets in January. Families and activists say any negotiations to end the war must be conditioned on ending the killings.</summary>
-      <pubDate>Sun, 12 Apr 2026 15:27:34 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Deadline passes for U.S. to begin blockade of Strait of Hormuz for ships that use Iranian ports</title>
-      <link>https://www.cbc.ca/news/world/livestory/us-israel-iran-war-blockade-strait-hormuz-9.7161372?cmp=rss</link>
-      <summary />
-      <pubDate>Mon, 13 Apr 2026 08:13:38 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>Trump attacks Pope Leo, then draws backlash for Christ-like AI post</title>
       <link>https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss</link>
       <summary>Pope Leo told Reuters on Monday that he plans to continue speaking out against war after U.S. ‌President Donald Trump's direct attack the previous day on the leader of the 1.4-billion-member church.</summary>
@@ -73,6 +66,13 @@
       <summary>The U.S. military said Sunday that it blew up two boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of five people and leaving one survivor, as the Trump administration pursues its campaign against alleged traffickers in Latin America while prepari...</summary>
       <pubDate>Mon, 13 Apr 2026 05:43:02 EDT</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Judge throws out Trump's $10B US lawsuit against Wall Street Journal over Epstein birthday card</title>
+      <link>https://www.cbc.ca/news/world/trump-lawsuit-dismissed-epstein-wall-street-journal-9.7162012?cmp=rss</link>
+      <summary>A federal judge on Monday dismissed U.S. President Donald Trump’s defamation lawsuit against the Wall Street Journal, a setback for Trump in his legal campaign against media companies he accuses of treating him unfairly.</summary>
+      <pubDate>Mon, 13 Apr 2026 14:55:29 EDT</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
