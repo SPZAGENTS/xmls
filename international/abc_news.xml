@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-13T12:03:27.321656</generated>
+  <generated>2026-04-13T13:03:28.772669</generated>
   <items>
     <item>
       <title>Iran live updates: US blockade of Iran's Strait of Hormuz ports to begin Monday</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 13 Apr 2026 04:28:50 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 05:48:21 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Congress returning from 2-week recess as Iran debate rages and members face expulsion</title>
+      <link>https://abcnews.com/Politics/congress-returning-2-week-recess-iran-war-debate/story?id=131929820</link>
+      <summary>House and Senate Dems plan to force votes on Iran war powers resolutions.</summary>
+      <pubDate>Mon, 13 Apr 2026 05:49:31 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/mike-johnson-gty-jef-260410_1775854959444_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,17 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rep. Eric Swalwell suspends campaign for governor amid sexual assault allegations</title>
-      <link>https://abcnews.com/Politics/california-rep-eric-swalwell-denies-former-staffers-accusation/story?id=131933526</link>
-      <summary>Democratic Rep. Eric Swalwell, who is currently running for California governor, is denying accusations made by a former staffer.</summary>
-      <pubDate>Sun, 12 Apr 2026 23:37:42 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/swalwell-02-ap-jt-260410_1775858196090_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

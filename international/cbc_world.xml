@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-13T12:03:28.991927</generated>
+  <generated>2026-04-13T13:03:30.695377</generated>
   <items>
     <item>
       <title>Trump slams 'very liberal' Pope Leo following American pontiff's comments on Iran war</title>
@@ -40,6 +40,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Strikes on alleged drug boats kill 5, leave 1 survivor in eastern Pacific, U.S. military says</title>
+      <link>https://www.cbc.ca/news/world/strikes-boats-u-s-military-pacific-9.7161307?cmp=rss</link>
+      <summary>The U.S. military said Sunday that it blew up two boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of five people and leaving one survivor, as the Trump administration pursues its campaign against alleged traffickers in Latin America while prepari...</summary>
+      <pubDate>Mon, 13 Apr 2026 05:43:02 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Ukraine, Russia accuse each other of violating Orthodox Easter ceasefire</title>
       <link>https://www.cbc.ca/news/world/ukraine-russia-easter-ceasefire-violation-9.7160792?cmp=rss</link>
       <summary>Russia and Ukraine accused each other on Sunday of breaching the 32-hour ceasefire in their four-year war, each reporting close to 2,000 drone and shelling attacks just hours after the truce began on Saturday to mark Orthodox Easter.</summary>
@@ -66,13 +73,6 @@
       <summary />
       <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>After 16 years in power, Hungary's Orbán concedes 'painful' election loss to rival Magyar</title>
-      <link>https://www.cbc.ca/news/world/hungary-election-viktor-orban-9.7160781?cmp=rss</link>
-      <summary>Hungarian Prime Minister Viktor Orbán conceded defeat in Sunday's Hungarian election, ending his 16 years in power.</summary>
-      <pubDate>Sun, 12 Apr 2026 06:43:12 EDT</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
