@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-13T17:17:31.713769</generated>
+  <generated>2026-04-13T19:04:38.458708</generated>
   <items>
-    <item>
-      <title>Iran live updates: US blockade of Iran's Strait of Hormuz ports to begin Monday</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 13 Apr 2026 09:28:22 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Pope Leo issues plea for peace amid US-Iran war</title>
       <link>https://abcnews.com/video/131974634/</link>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] WATCH: Countdown to the WNBA Draft</title>
+      <link>https://abcnews.com/video/131987015/</link>
+      <summary>Three of the biggest prospects, Lauren Betts, Kiki Rice and Gabriela Jaquez, are fresh off their historic national championship with UCLA and join “GMA” live to talk about the big night.</summary>
+      <pubDate>Mon, 13 Apr 2026 11:31:55 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/240613_gma_wnba2_0740_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -49,13 +49,35 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Pope Leo responds to Trump’s criticism, saying he has 'no fear' of US administration</title>
+      <title>[PENDING_TRANSLATION] WATCH: Police shoot and kill machete-wielding man in New York City</title>
+      <link>https://abcnews.com/video/131987997/</link>
+      <summary>The man allegedly attacked three people waiting for the subway in Grand Central Station, police said.</summary>
+      <pubDate>Mon, 13 Apr 2026 11:30:50 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260413_gma_katersky_machete_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pope Leo responds to Trump’s criticism, saying he has 'no fear' of US administration</title>
       <link>https://abcnews.com/Politics/pope-leo-responds-trumps-criticism-fear-us-administration/story?id=131985372</link>
       <summary>President Donald Trump had called Pope Leo XIV "WEAK on Crime, and terrible for Foreign Policy."</summary>
-      <pubDate>Mon, 13 Apr 2026 09:57:09 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 11:02:49 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/pope-main_1776080394631_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Judge throws out Trump's $10B lawsuit against WSJ over Epstein reporting</title>
+      <link>https://abcnews.com/US/judge-throws-trumps-10b-lawsuit-wsj-epstein-reporting/story?id=131992797</link>
+      <summary>A judge has thrown out President Trump's $10 billion defamation suit against the Wall Street Journal over the paper's reporting on Jeffrey Epstein's 50th birthday book.</summary>
+      <pubDate>Mon, 13 Apr 2026 10:35:14 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/donald-trump-6-rt-gmh-260413_1776082690280_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260412_wn_lee_artemis_crew1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Cherry blossoms take over the nation's capital</title>
-      <link>https://abcnews.com/video/131960202/</link>
-      <summary>The sights and sounds of spring were on full display at the National Cherry Blossom Festival parade in Washington, D.C., drawing more than one and half million visitors.</summary>
-      <pubDate>Sat, 11 Apr 2026 21:52:48 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260411_wn_ender_cherry_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Last minute tips ahead of Tax Deadline Day</title>
-      <link>https://abcnews.com/video/131953099/</link>
-      <summary>Michelle Franzen shares essential tips and suggestions for filing your taxes before the April 15 deadline.</summary>
-      <pubDate>Sat, 11 Apr 2026 13:44:18 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Lifestyle/260411_abcnl_11a_franzen_taxes1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

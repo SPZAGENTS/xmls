@@ -2,13 +2,20 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-13T17:17:33.900224</generated>
+  <generated>2026-04-13T19:04:41.070169</generated>
   <items>
     <item>
       <title>The U.S. military is about to block ships from Iran's ports after talks failed</title>
       <link>https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates</link>
       <summary>The U.S. Central Command said the blockade would be "enforced impartially against vessels of all nations" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.</summary>
       <pubDate>Mon, 13 Apr 2026 07:03:13 -0400</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Pope Leo stands firm with Trump as Vatican–Washington rift deepens over Iran war</title>
+      <link>https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-as-row-with-trump-over-iran-war-intensifies</link>
+      <summary>Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.</summary>
+      <pubDate>Mon, 13 Apr 2026 06:43:31 -0400</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -47,18 +54,11 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Trump administration threatens to take over 3 public golf courses in D.C.</title>
+      <title>Trump administration threatens to take over 3 public golf courses in D.C.</title>
       <link>https://www.npr.org/2026/04/13/nx-s1-5759661/trump-administration-threatens-to-take-over-3-public-golf-courses-in-dc</link>
       <summary>Three public golf courses in Washington, D.C., face an uncertain future as the Trump administration fights to take control of the historic courses from the National Links Trust.</summary>
       <pubDate>Mon, 13 Apr 2026 04:44:28 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>2025 was one of most volatile years ever for U.S. naturalizations</title>
-      <link>https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop</link>
-      <summary>The year began with many people becoming U.S. citizens, but by December, fewer people were doing so, driven by ramped-up scrutiny of applications and eroding trust in the system.</summary>
-      <pubDate>Mon, 13 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
     </item>
     <item>
       <title>More than a quarter of private colleges are at risk of closing, a new projection shows</title>
@@ -68,10 +68,10 @@
       <priority>50</priority>
     </item>
     <item>
-      <title>Rory McIlroy wins the Masters for second year in a row</title>
-      <link>https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters</link>
-      <summary>Rory McIlroy goes back-to-back at the Masters to join Jack Nicklaus, Nick Faldo and Tiger Woods.</summary>
-      <pubDate>Mon, 13 Apr 2026 01:44:11 -0400</pubDate>
+      <title>2025 was one of most volatile years ever for U.S. naturalizations</title>
+      <link>https://www.npr.org/2026/04/13/g-s1-117050/us-trump-immigration-2025-naturalizations-citizenship-drop</link>
+      <summary>The year began with many people becoming U.S. citizens, but by December, fewer people were doing so, driven by ramped-up scrutiny of applications and eroding trust in the system.</summary>
+      <pubDate>Mon, 13 Apr 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>

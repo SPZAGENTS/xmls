@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-13T17:17:26.198287</generated>
+  <generated>2026-04-13T19:04:30.749371</generated>
   <items>
     <item>
       <title>Pope responds to president’s insults: ‘I have no fear of the Trump administration’</title>
@@ -23,6 +23,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/13/chip-roy-muslims-texas/</link>
       <summary>Muslims in Rep. Chip Roy’s Texas district react to their Republican congressman’s campaign against Islam with concern — and eye-rolls.</summary>
       <pubDate>Mon, 13 Apr 2026 09:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Voters grill Republican lawmaker in crucial swing district on Iran war</title>
+      <link>https://www.washingtonpost.com/business/2026/04/13/iran-war-elections-republicans-mike-lawler/</link>
+      <summary>The conflict has animated voters in the suburban swing district of Republican Rep. Mike Lawler ahead of the midterm elections.</summary>
+      <pubDate>Mon, 13 Apr 2026 04:28:56 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -47,6 +54,13 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Lambasting Pope Leo, Trump risks alienating conservative Catholics</title>
+      <link>https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/</link>
+      <summary>Veteran church observers say an open war of words between a pope and a U.S. president is unprecedented.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:12:42 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Trump announces naval blockade of Iran after Islamabad talks yield no deal</title>
       <link>https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/</link>
       <summary>The blockade could derail a tenuous ceasefire after just five days. Vice President JD Vance said the U.S. remains open to diplomacy if Iran takes “our final and best offer.”</summary>
@@ -54,25 +68,11 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Bust of multi-state drug ring highlights increasing use of police drones</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/12/maryland-drug-ring-bust-cocaine/</link>
-      <summary>Once a novelty, drones are now being flown by more than 5,000 large and small law enforcement agencies across the nation.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:00:53 +0000</pubDate>
+      <title>[PENDING_TRANSLATION] White House says it’s boosting affordability through physician reforms</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-administration-healthcare-changes/</link>
+      <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>Federal judges say White House ballroom construction can continue, for now</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/11/judges-trump-ballroom-appeal/</link>
-      <summary>President Donald Trump has claimed that halting the project poses a risk to national security and threatens him.</summary>
-      <pubDate>Sat, 11 Apr 2026 19:44:30 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Trump post appearing to depict himself as Jesus sparks backlash from religious right</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-jesus-religious-conservatives/</link>
-      <summary>Evangelical and Catholic allies call the post “blasphemous” and urge its removal in a rare public break from a base that has largely stood by Trump.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:40:12 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
