@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-13T07:02:49.095788</generated>
+  <generated>2026-04-13T08:04:00.022629</generated>
   <items>
     <item>
       <title>How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.</title>
@@ -21,6 +21,17 @@
       <summary>Satellite imagery shows impact craters at and near the tunnel entrances to aircraft shelters at Iran’s remote “Eagle 44” base.</summary>
       <pubDate>Sun, 12 Apr 2026 19:52:14 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>How JD Vance Tried and Failed to End the War in Iran That He Opposed</title>
+      <link>https://www.nytimes.com/2026/04/12/us/politics/jd-vance-pakistan-iran-war-talks.html</link>
+      <summary>Vice President JD Vance led the highest-level talks between the United States and Iran in nearly 50 years.</summary>
+      <pubDate>Mon, 13 Apr 2026 04:44:22 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12dc-vance-pakistan1/11dc-vance-pakistan1-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
       <title>Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks</title>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-iran-economy-gqht/11int-iran-economy-gqht-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?</title>
-      <link>https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html</link>
-      <summary>While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands. The question is whether it will compromise in peace negotiations.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:22:31 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11int-iran-consistency-assess-tjpm/11int-iran-consistency-assess-tjpm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
