@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-13T20:12:38.000456</generated>
+  <generated>2026-04-13T21:03:56.837123</generated>
   <items>
+    <item>
+      <title>As Internet Blackout Hits Day 45, Iranians Bemoan State Hypocrisy and Economic Risks</title>
+      <link>https://www.nytimes.com/2026/04/13/world/middleeast/iran-internet-blackout.html</link>
+      <summary>Iranians enduring the latest communications shutdown warn that it’s crippling businesses. Critics say officials flagrantly use the internet they block citizens from.</summary>
+      <pubDate>Mon, 13 Apr 2026 17:56:42 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-internet-vzkw/13israel-iran-internet-vzkw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israelis Don’t Feel Much Like Victors in War With Iran</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html</link>
@@ -96,17 +107,6 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Blockade Sets Up a Test of Which Side Can Endure More Pain</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html</link>
-      <summary>President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:56:01 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13DC-TRUMP-BLOCKADE-bjcz/13DC-TRUMP-BLOCKADE-bjcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
