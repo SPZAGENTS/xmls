@@ -2,16 +2,16 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-13T10:03:28.642028</generated>
+  <generated>2026-04-13T11:00:59.343032</generated>
   <items>
     <item>
-      <title>UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.</summary>
-      <pubDate>Mon, 13 Apr 2026 01:03:28 GMT</pubDate>
+      <title>Trump attacks Pope over criticism of Iran war</title>
+      <link>https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president accuses Leo of being "weak on crime and terrible for foreign policy".</summary>
+      <pubDate>Mon, 13 Apr 2026 07:40:14 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9857/live/c50f42d0-3702-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>UK will not join blockade of Iran's ports in the Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:03:28 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Iran talks were a major test for JD Vance. How did he do?</title>
       <link>https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>It was a difficult mission, negotiating on behalf of a president whose messaging on the war has been mixed from the start.</summary>
@@ -38,29 +49,7 @@
       </media>
     </item>
     <item>
-      <title>Oil back above $100 as US to blockade Iranian ports after peace talks fail</title>
-      <link>https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.</summary>
-      <pubDate>Mon, 13 Apr 2026 05:24:51 GMT</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The Papers: 'PM refuses to join blockade' and 'Hungary enters new era'</title>
-      <link>https://www.bbc.com/news/articles/cqxld498z9qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Starmer ruling out the UK's role in the US blockade of Iran's ports and Hungary electing a new leader lead Monday's papers.</summary>
-      <pubDate>Sun, 12 Apr 2026 23:13:13 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/55d2dcb0-36bc-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Olivier Awards 2026: Rachel Zegler's heroes, Bryan Cranston's nap schedule and more moments from the night</title>
+      <title>Rachel Zegler's heroes, prizes for Paddington and more moments from the Olivier Awards</title>
       <link>https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The 50th Oliviers at the Royal Albert Hall provided some memorable conversations away from the ceremony.</summary>
       <pubDate>Sun, 12 Apr 2026 22:13:28 GMT</pubDate>
@@ -71,13 +60,24 @@
       </media>
     </item>
     <item>
-      <title>Frostbite is least of worries for Canada forces grappling with new Arctic reality</title>
+      <title>On the road with Canadian forces training for a new Arctic reality</title>
       <link>https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Across 5,200 km of Canada's Arctic, some 1,300 members of Canada's military spent two winter months on a mission to meet the challenges of a changing north.</summary>
       <pubDate>Sun, 12 Apr 2026 23:07:23 GMT</pubDate>
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/822a/live/e81a1bb0-35f9-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Oil prices rise back above $100 after peace talks fail</title>
+      <link>https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.</summary>
+      <pubDate>Mon, 13 Apr 2026 05:24:51 GMT</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -110,7 +110,7 @@
       <pubDate>Mon, 13 Apr 2026 06:51:45 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7d/live/6ce58d70-36e5-11f1-9232-4b9563be44e7.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86d/live/a4898ce0-3708-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
