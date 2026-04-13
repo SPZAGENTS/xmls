@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-13T03:01:10.900688</generated>
+  <generated>2026-04-13T04:21:01.268168</generated>
   <items>
     <item>
       <title>Trump's blockade threat raises risks and leaves predicaments unchanged</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/97aefd80-3699-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Oil jumps above $100 as US to blockade Iranian ports after peace talks fail</title>
+      <link>https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.</summary>
+      <pubDate>Mon, 13 Apr 2026 00:35:08 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11dc/live/73a7ec60-36c8-11f1-a059-4bebfc9f6e61.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Congressman Eric Swalwell quits California governor race amid sexual misconduct claims</title>
+      <link>https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Top Democratic allies intensified pressure on him to exit the gubernatorial race.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:02:34 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a728/live/d8b51170-35f9-11f1-b318-7b5d3f2d5800.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>After Iran talks falter, the big question is what happens next?</title>
       <link>https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.</summary>
@@ -60,57 +82,35 @@
       </media>
     </item>
     <item>
-      <title>Nearly 400 sentenced in Nigeria for links to militant Islamists</title>
-      <link>https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Judges handed down sentences ranging from five years to life imprisonment following mass trials.</summary>
-      <pubDate>Sat, 11 Apr 2026 14:41:31 GMT</pubDate>
-      <priority>70</priority>
+      <title>Frostbite is least of worries for Canada forces grappling with new Arctic reality</title>
+      <link>https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Across 5,200 km of Canada's Arctic, some 1,300 members of Canada's military spent two winter months on a mission to meet the challenges of a changing north.</summary>
+      <pubDate>Sun, 12 Apr 2026 23:07:23 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ca/live/6a0959f0-35b0-11f1-bfb7-dfacb91b9fa4.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/822a/live/e81a1bb0-35f9-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Asha Bhosle: The sound of Bollywood dies aged 92</title>
-      <link>https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:56:08 GMT</pubDate>
-      <priority>65</priority>
+      <title>We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda</title>
+      <link>https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.</summary>
+      <pubDate>Sat, 11 Apr 2026 23:13:23 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>What is a naval blockade and how would it work in Strait of Hormuz?</title>
-      <link>https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?</summary>
-      <pubDate>Sun, 12 Apr 2026 21:31:29 GMT</pubDate>
+      <title>Orbán era swept away by Péter Magyar's Hungary election landslide</title>
+      <link>https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Viktor Orbán's 16 years in power is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.</summary>
+      <pubDate>Mon, 13 Apr 2026 00:32:46 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bb/live/05ad5410-368d-11f1-8c7c-3d26c824719f.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why this disillusioned Trump voter spends hours searching Epstein files</title>
-      <link>https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.</summary>
-      <pubDate>Sun, 12 Apr 2026 00:30:44 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fe/live/c8e4a650-33f8-11f1-a4ee-f9cebb92412a.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Irish cabinet meeting to be held to discuss ongoing fuel protests</title>
-      <link>https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.</summary>
-      <pubDate>Sat, 11 Apr 2026 20:12:22 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/4b264760-357d-11f1-8c7e-43c32073e8a3.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59d/live/801b0a00-36cc-11f1-828f-1966deb3b122.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
