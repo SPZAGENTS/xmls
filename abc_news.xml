@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T00:01:21.063954</generated>
+  <generated>2026-04-14T01:02:30.776255</generated>
   <items>
     <item>
       <title>WATCH: Pope Leo issues plea for peace amid US-Iran war</title>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Swalwell says he plans to resign from Congress amid sexual assault allegations</title>
+      <link>https://abcnews.com/Politics/swalwell-plans-resign-congress-amid-sexual-assault-allegations/story?id=132009300</link>
+      <summary>The California congressman suspended his gubernatorial campaign on Sunday.</summary>
+      <pubDate>Mon, 13 Apr 2026 17:57:24 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/swalwell-ap-jt-260410_1775858342260_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Police shoot and kill machete-wielding man in New York City</title>
       <link>https://abcnews.com/video/131987997/</link>
       <summary>The man allegedly attacked three people waiting for the subway in Grand Central Station, police said.</summary>
@@ -60,18 +71,7 @@
       </media>
     </item>
     <item>
-      <title>Trump takes down image from social media that depicted him as Jesus-like figure</title>
-      <link>https://abcnews.com/Politics/trump-takes-image-social-media-platform-depicted-jesus/story?id=131998889</link>
-      <summary>Trump later said the image depicted him as a doctor.</summary>
-      <pubDate>Mon, 13 Apr 2026 16:05:08 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/trump-jesus-2-ht-gmh-260413_1776101344049_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] WATCH: Rising fuel costs strain volunteer fire departments nationwide</title>
+      <title>WATCH: Rising fuel costs strain volunteer fire departments nationwide</title>
       <link>https://abcnews.com/video/132006932/</link>
       <summary>Fire chief James Pollock explains how higher prices are squeezing budgets, slowing recruitment and impacting emergency responses.</summary>
       <pubDate>Mon, 13 Apr 2026 16:09:26 -0400</pubDate>
