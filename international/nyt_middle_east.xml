@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-13T16:02:05.148202</generated>
+  <generated>2026-04-13T17:13:11.258556</generated>
   <items>
     <item>
       <title>How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.</title>
@@ -89,17 +89,6 @@
       </media>
     </item>
     <item>
-      <title>Many Iranians Are Glad the Fighting Has Paused. Some Hard-liners Aren’t.</title>
-      <link>https://www.nytimes.com/2026/04/11/world/middleeast/iranians-hardliners-ceasefire.html</link>
-      <summary>The most fervent backers of the Islamic republic believe pausing the war for negotiations risks squandering what they see as a hard-won upper hand.</summary>
-      <pubDate>Sat, 11 Apr 2026 09:20:27 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/11/04/multimedia/11vid-iran-hardliners-clips-image/11vid-iran-hardliners-clips-image-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
       <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
       <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
@@ -107,6 +96,17 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran Blockade Sets Up a Test of Which Side Can Endure More Pain</title>
+      <link>https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html</link>
+      <summary>President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.</summary>
+      <pubDate>Mon, 13 Apr 2026 13:56:01 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13DC-TRUMP-BLOCKADE-bjcz/13DC-TRUMP-BLOCKADE-bjcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

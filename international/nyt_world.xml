@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-13T16:02:04.546337</generated>
+  <generated>2026-04-13T17:13:10.762677</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade</title>
       <link>https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news</link>
       <summary>The U.S. military said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern. European leaders distanced themselves from the plan.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:01:58 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 14:02:55 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13iran-live-header-promo/13iran-live-header-whbp-mediumSquareAt3X.jpg</image>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>Which Four Countries Pope Leo Is Visiting in Africa, and Why</title>
-      <link>https://www.nytimes.com/2026/04/13/world/europe/what-to-know-pope-africa.html</link>
-      <summary>The pontiff’s journey to the world’s poorest continent will demonstrate his urgent focus on the most vulnerable members of the Church.</summary>
-      <pubDate>Mon, 13 Apr 2026 11:36:46 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-pope-africa-explainer-01-hjbz/13int-pope-africa-explainer-01-hjbz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>To Fill Drone Force Ranks, Russia Targets a New Demographic: Students</title>
       <link>https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html</link>
       <summary>Recruitment sessions have taken place at hundreds of universities and colleges across the country.</summary>
@@ -52,7 +41,7 @@
       <title>Pope Leo, Hours After Trump Criticism, Says He Has ‘No Fear’</title>
       <link>https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html</link>
       <summary>President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war.</summary>
-      <pubDate>Mon, 13 Apr 2026 11:32:01 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 13:41:13 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13trump-news-whzj/13trump-news-whzj-mediumSquareAt3X.jpg</image>
@@ -63,10 +52,21 @@
       <title>Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html</link>
       <summary>President Trump’s announcement of a complete U.S. blockade was his latest effort to pressure Iran to negotiate after direct talks over the weekend did not yield an agreement.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:01:57 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 13:53:35 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-iran-global-01-gbwh/13int-iran-global-01-gbwh-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-iran-global-pbkf/13int-iran-global-pbkf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran Blockade Sets Up a Test of Which Side Can Endure More Pain</title>
+      <link>https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html</link>
+      <summary>President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.</summary>
+      <pubDate>Mon, 13 Apr 2026 13:56:01 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13DC-TRUMP-BLOCKADE-bjcz/13DC-TRUMP-BLOCKADE-bjcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

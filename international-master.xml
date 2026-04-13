@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-13T16:02:12.953874</generated>
+  <generated>2026-04-13T17:13:20.200428</generated>
   <total_articles>333</total_articles>
   <items>
     <item>
@@ -36,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom</title>
+      <link>https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.</summary>
+      <pubDate>Mon, 13 Apr 2026 13:55:09 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3996/live/ead61e00-3723-11f1-879d-1b2f5c3919b8.jpg</image>
       </media>
     </item>
     <item>
@@ -80,17 +91,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/c65471d0-3435-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz</title>
-      <link>https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.</summary>
-      <pubDate>Thu, 09 Apr 2026 17:16:08 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png</image>
       </media>
     </item>
     <item>
