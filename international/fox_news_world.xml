@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-13T17:17:24.169294</generated>
+  <generated>2026-04-13T19:04:28.813647</generated>
   <items>
     <item>
       <title>‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Miner rescued alive after spending nearly 2 weeks trapped underground in flooded area</title>
-      <link>https://www.foxnews.com/world/miner-rescued-alive-spending-nearly-2-weeks-trapped-underground-flooded-area</link>
-      <summary>A Mexican miner was rescued after spending 13 days trapped underground, officials said, while one miner was found dead and another remains missing.</summary>
-      <pubDate>Thu, 09 Apr 2026 12:25:40 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/minerales-sinaloa-mine-rescue-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran in crisis as US talks collapse, Mojtaba’s ‘mafia’ regime blocks Khamenei burial: analyst</title>
       <link>https://www.foxnews.com/world/iran-crisis-us-talks-collapse-mojtabas-mafia-regime-blocks-khamenei-burial-analyst</link>
       <summary>Analyst says Iran&amp;apos;s delay in burying Supreme Leader Khamenei over 40 days after his killing reveals a deepening crisis inside the Islamic Republic.</summary>
@@ -111,6 +100,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Viktor Orbán concedes defeat as opposition leader heads for potential supermajority win</title>
+      <link>https://www.foxnews.com/world/viktor-orban-concedes-defeat-opposition-leader-heads-potential-supermajority-win</link>
+      <summary>Orbán conceded defeat Sunday as opposition leader Péter Magyar surged toward a landslide victory, signaling a major political shift in Hungary.</summary>
+      <pubDate>Sun, 12 Apr 2026 15:52:12 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/viktor-orban-march-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-13T17:17:27.377031</generated>
+  <generated>2026-04-13T19:04:31.820234</generated>
   <items>
+    <item>
+      <title>Israelis Don’t Feel Much Like Victors in War With Iran</title>
+      <link>https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html</link>
+      <summary>The regime in Iran has not changed and the nuclear and missile threats have not been eliminated, leaving many Israelis to wonder what this was all for.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:19:19 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-Israel-Assess-fvbg/13int-Israel-Assess-fvbg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/hormuz-us-blockade.html</link>
@@ -96,17 +107,6 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran Blockade Sets Up a Test of Which Side Can Endure More Pain</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html</link>
-      <summary>President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:56:01 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13DC-TRUMP-BLOCKADE-bjcz/13DC-TRUMP-BLOCKADE-bjcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

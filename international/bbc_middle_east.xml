@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Middle East - Top 10 Articles</title>
   <source>Bbc Middle East</source>
-  <generated>2026-04-13T17:17:22.462886</generated>
+  <generated>2026-04-13T19:04:27.027420</generated>
   <items>
     <item>
       <title>Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7928/live/7bca2800-3730-11f1-872e-dbe4122cf753.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>French cement giant guilty of financing IS and other militant groups in Syria</title>
+      <link>https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The French company paid $6.5m to jihadist groups to keep its plant running in war-torn Syria, a Paris court heard.</summary>
+      <pubDate>Mon, 13 Apr 2026 14:15:50 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/750b/live/6fd943a0-3735-11f1-ba17-d34f2bc9d6da.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>'Endless fears': Even if fighting stops, the damage to Iran's children will endure</title>
-      <link>https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.</summary>
-      <pubDate>Thu, 09 Apr 2026 16:06:39 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/c65471d0-3435-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>BBC at the site of Israeli air strikes in Beirut</title>
       <link>https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>At least 182 people were killed and 890 others wounded, according to the Lebanese health ministry.</summary>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>'Endless fears': Even if fighting stops, the damage to Iran's children will endure</title>
+      <link>https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.</summary>
+      <pubDate>Thu, 09 Apr 2026 16:06:39 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/c65471d0-3435-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz</title>
       <link>https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8037/live/2fd95010-332a-11f1-a02b-974260fa1e16.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran ceasefire deal gives Trump a way out of war - but at a high cost</title>
-      <link>https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.</summary>
-      <pubDate>Wed, 08 Apr 2026 03:30:55 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/9bbd8820-333c-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
