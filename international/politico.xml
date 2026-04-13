@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-14T00:01:14.415540</generated>
+  <generated>2026-04-14T01:02:24.798719</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -34,6 +34,17 @@
       <priority>80</priority>
       <media>
         <image>https://static.politico.com/83/69/89cd365d4f73826339d9e96588e0/election-2-26-hasan-piker-59453.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A dozen battleground Dems send Swalwell’s campaign donations to charity</title>
+      <link>https://www.politico.com/news/2026/04/13/swalwell-battleground-democrats-campaign-donations-00870080</link>
+      <summary>Candidates in key House and Senate races are distancing themselves from his money and endorsement as the fallout over the misconduct allegations against him continues.</summary>
+      <pubDate>Mon, 13 Apr 2026 17:00:48 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/03/08/c575226a48e5bcc4f0bac0f55d90/2026-0202-congress-francis-31-1-45762.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -97,13 +108,6 @@
       <link>https://www.politico.com/gallery/2026/04/10/the-nations-cartoonists-on-the-week-in-politics-00866253</link>
       <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
       <pubDate>Fri, 10 Apr 2026 04:00:00 EST</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Marjorie Taylor Greene unloads on Trump, Netanyahu and the future of MAGA</title>
-      <link>https://www.politico.com/video/2026/04/10/marjorie-taylor-greene-unloads-on-trump-netanyahu-and-the-future-of-maga-2005052</link>
-      <summary />
-      <pubDate>Thu, 09 Apr 2026 23:40:56 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>

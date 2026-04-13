@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-14T00:01:16.971605</generated>
+  <generated>2026-04-14T01:02:26.285614</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: U.S. Begins Blockade of Strait of Hormuz</title>
+      <title>Iran War Live Updates: Trump and Iran Trade Threats on First Day of Blockade</title>
       <link>https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news</link>
-      <summary>President Trump asserted that Iran asked for another round of negotiations, but Iran did not immediately respond. The U.S. military is blocking ships entering or leaving Iran in an effort to cut off its oil income.</summary>
-      <pubDate>Mon, 13 Apr 2026 20:14:57 +0000</pubDate>
+      <summary>President Trump said that any Iranian ships approaching the blockade would be eliminated, and Iran vowed it would retaliate. The U.S. military is blocking ships entering or leaving Iran in an effort to cut off its oil income.</summary>
+      <pubDate>Mon, 13 Apr 2026 21:58:09 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-promo-415pm-jqpv/13israel-iran-promo-415pm-jqpv-mediumSquareAt3X.jpg</image>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-Israel-Assess-fvbg/13int-Israel-Assess-fvbg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What the U.S. Blockade of Iran and the Strait of Hormuz Might Look Like</title>
+      <link>https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html</link>
+      <summary>The U.S. military has provided few details on how it might carry out President Trump’s orders as he seeks to pressure Tehran on a peace deal. But history and established practices offer some clues.</summary>
+      <pubDate>Mon, 13 Apr 2026 21:38:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13dc-blockade-explainer-qzkp/13dc-blockade-explainer-qzkp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Iran Blockade Sets Up a Test of Which Side Can Endure More Pain</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html</link>
-      <summary>President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.</summary>
-      <pubDate>Mon, 13 Apr 2026 19:01:32 +0000</pubDate>
+      <title>U.S. Begins a Blockade of the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/04/13/world/middleeast/blockade-hormuz-iran-united-states.html</link>
+      <summary>European countries declined to take part in the action, which is designed to pressure Iran into making concessions by cutting off its oil income.</summary>
+      <pubDate>Mon, 13 Apr 2026 21:10:00 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13DC-TRUMP-BLOCKADE-bjcz/13DC-TRUMP-BLOCKADE-bjcz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-iran-ledeall-1-tglz/14int-iran-ledeall-1-tglz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/arts/12int-dutch-royals/12int-dutch-royals-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Two Iran-linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade</title>
-      <link>https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html</link>
-      <summary>The vessels exited the Strait of Hormuz on Monday, hours before a U.S. naval blockade took effect.</summary>
-      <pubDate>Mon, 13 Apr 2026 17:27:37 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-ship-update-hcvf/13israel-iran-ship-update-hcvf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

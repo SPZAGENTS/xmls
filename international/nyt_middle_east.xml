@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-14T00:01:17.470506</generated>
+  <generated>2026-04-14T01:02:26.850485</generated>
   <items>
+    <item>
+      <title>What the U.S. Blockade of Iran and the Strait of Hormuz Might Look Like</title>
+      <link>https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html</link>
+      <summary>The U.S. military has provided few details on how it might carry out President Trump’s orders as he seeks to pressure Tehran on a peace deal. But history and established practices offer some clues.</summary>
+      <pubDate>Mon, 13 Apr 2026 21:38:13 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13dc-blockade-explainer-qzkp/13dc-blockade-explainer-qzkp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>As Internet Blackout Hits Day 45, Iranians Bemoan State Hypocrisy and Economic Risks</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/iran-internet-blackout.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution</title>
-      <link>https://www.nytimes.com/2026/04/11/us/politics/deportation-iranian-revolution.html</link>
-      <summary>Federal agents arrested a man whose mother served as a spokeswoman for the Islamist embassy captors during the hostage crisis that began in 1979.</summary>
-      <pubDate>Sat, 11 Apr 2026 19:22:27 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/11/multimedia/11dc-arrests-iran-wbpj/11dc-arrests-iran-wbpj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
