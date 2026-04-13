@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T01:02:30.776255</generated>
+  <generated>2026-04-14T02:01:18.434528</generated>
   <items>
     <item>
       <title>WATCH: Pope Leo issues plea for peace amid US-Iran war</title>
@@ -52,7 +52,7 @@
       <title>Swalwell says he plans to resign from Congress amid sexual assault allegations</title>
       <link>https://abcnews.com/Politics/swalwell-plans-resign-congress-amid-sexual-assault-allegations/story?id=132009300</link>
       <summary>The California congressman suspended his gubernatorial campaign on Sunday.</summary>
-      <pubDate>Mon, 13 Apr 2026 17:57:24 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 18:04:48 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/swalwell-ap-jt-260410_1775858342260_hpMain_4x3t_384.jpg</image>
@@ -67,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260413_gma_katersky_machete_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: The top internet searches surrounding Trump's now deleted AI post</title>
+      <link>https://abcnews.com/video/132009927/</link>
+      <summary>An AI-generated image that President Donald Trump posted Monday on his social media platform that depicted him as a Jesus-like figure is drawing criticism and interest online.</summary>
+      <pubDate>Mon, 13 Apr 2026 18:24:26 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260413_abcnl_searched_new_spiral_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260412_wn_lee_artemis_crew1_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Cherry blossoms take over the nation's capital</title>
-      <link>https://abcnews.com/video/131960202/</link>
-      <summary>The sights and sounds of spring were on full display at the National Cherry Blossom Festival parade in Washington, D.C., drawing more than one and half million visitors.</summary>
-      <pubDate>Sat, 11 Apr 2026 21:52:48 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260411_wn_ender_cherry_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

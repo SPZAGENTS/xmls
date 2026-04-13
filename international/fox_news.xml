@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-14T01:02:23.907507</generated>
+  <generated>2026-04-14T02:01:11.187583</generated>
   <items>
     <item>
       <title>Swalwell announces resignation from Congress after sexual misconduct allegations torpedoed gubernatorial bid</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/trump-tip.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
-      <link>https://www.foxnews.com/world/pakistani-general-says-iran-diplomacy-still-alive-despite-us-blockade-failed-talks</link>
-      <summary>The U.S. naval blockade on Iran may be leverage to resume diplomacy, says retired Pakistani general, as both sides were reportedly close to a deal.</summary>
-      <pubDate>Mon, 13 Apr 2026 14:44:11 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/islamabad-talks.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>San Diego taco chain targeted by boycott over CEO's alleged Trump support</title>
-      <link>https://www.foxnews.com/media/san-diego-taco-chain-80-plus-locations-targeted-boycott-ceos-alleged-trump-support</link>
-      <summary>Roberto&amp;apos;s Taco Shop, a popular San Diego taco chain, faces left-wing backlash after a TikTok user alleged its CEO is a Donald Trump supporter.</summary>
-      <pubDate>Mon, 13 Apr 2026 17:30:52 -0400</pubDate>
+      <title>Butler man’s online rants to kill Trump end in guilty plea after FBI probe</title>
+      <link>https://www.foxnews.com/us/butler-mans-online-rants-kill-trump-end-guilty-plea-after-fbi-probe</link>
+      <summary>Shawn Monper pleaded guilty to making threats to assassinate President Trump and kill ICE agents in posts on YouTube, according to the Justice Department.</summary>
+      <pubDate>Mon, 13 Apr 2026 18:42:47 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/taco-shop-making.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-april-2026.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Mike Breen says fans 'deserve to be thrown a bone' as NBA cuts all local broadcasts from the playoffs</title>
+      <link>https://www.foxnews.com/sports/mike-breen-says-fans-deserve-thrown-bone-nba-cuts-local-broadcasts-playoffs</link>
+      <summary>New York Knicks and ESPN announcer Mike Breen ripped the NBA for removing local broadcasters from the playoffs for the first time in league history as part of the new TV rights deal.</summary>
+      <pubDate>Mon, 13 Apr 2026 18:14:09 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mike-breen-lakers-mavericks-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
