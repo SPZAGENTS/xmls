@@ -2,13 +2,24 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-13T13:03:55.641794</generated>
+  <generated>2026-04-13T15:05:56.790960</generated>
   <items>
+    <item>
+      <title>How many ships are crossing the Strait of Hormuz?</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Four vessels have crossed the Strait of Hormuz ahead of a US military blockade of Iranian ports set to begin on Monday.</summary>
+      <pubDate>Mon, 13 Apr 2026 10:18:02 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>UK will not join blockade of Iran's ports in the Strait of Hormuz</title>
       <link>https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.</summary>
-      <pubDate>Mon, 13 Apr 2026 09:34:23 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:09:48 GMT</pubDate>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
@@ -16,35 +27,24 @@
       </media>
     </item>
     <item>
-      <title>Trump's blockade threat raises risks and leaves predicaments unchanged</title>
-      <link>https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:57:22 GMT</pubDate>
+      <title>How the Iran war affects your money and bills</title>
+      <link>https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.</summary>
+      <pubDate>Mon, 13 Apr 2026 11:59:19 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Twenty-one hours of back and forth leave US and Iran far apart</title>
-      <link>https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US Vice-President JD Vance was a difficult mission, negotiating on behalf of a president whose messaging on the war has been mixed.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:22:42 GMT</pubDate>
-      <priority>100</priority>
+      <title>UK could adopt EU single market rules under new legislation</title>
+      <link>https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.</summary>
+      <pubDate>Mon, 13 Apr 2026 11:18:33 GMT</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/070dfd10-36af-11f1-8589-db320d1899d1.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope says he will 'speak out loudly' against war after Trump criticism</title>
-      <link>https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US president accuses Leo of being "weak on crime and terrible for foreign policy".</summary>
-      <pubDate>Mon, 13 Apr 2026 09:50:38 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04ff/live/aed36410-371b-11f1-8606-05fe34b06e1b.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86d/live/a4898ce0-3708-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Four teens arrested over fatal stabbing of boy, 16</title>
+      <link>https://www.bbc.com/news/articles/c5y8qjdqrdwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A large police presence is in place near a city shopping centre following the attack.</summary>
+      <pubDate>Mon, 13 Apr 2026 11:54:10 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e073/live/c2faa5c0-3725-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>On the road with Canadian forces training for a new Arctic reality</title>
       <link>https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Across 5,200 km of Canada's Arctic, its military spent two months on a mission to meet the challenges of a changing north.</summary>
@@ -71,35 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Oil prices rise back above $100 after peace talks fail</title>
-      <link>https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.</summary>
-      <pubDate>Mon, 13 Apr 2026 09:00:54 GMT</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>UK could adopt EU single market rules under new legislation</title>
-      <link>https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.</summary>
-      <pubDate>Mon, 13 Apr 2026 06:51:45 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a86d/live/a4898ce0-3708-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Orbán era swept away by Péter Magyar's Hungary election landslide</title>
       <link>https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.</summary>
-      <pubDate>Mon, 13 Apr 2026 06:25:29 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 11:03:12 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eff/live/641c1fa0-371d-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cfa/live/98934e50-372e-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd5/live/c1ee9cb0-3714-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Britney Spears goes into rehab after driving under the influence arrest</title>
+      <link>https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The singer voluntarily checks herself into a treatment facility, three weeks before her court date.</summary>
+      <pubDate>Mon, 13 Apr 2026 08:14:14 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
