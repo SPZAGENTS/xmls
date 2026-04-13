@@ -2,10 +2,21 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-13T05:03:19.804169</generated>
+  <generated>2026-04-13T06:01:27.312643</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] Trump accuses Pope Leo of being 'terrible' on foreign policy over pontiff's anti-war comments</title>
+      <title>[PENDING_TRANSLATION] Trump voices frustration with NATO, says Iranian navy ‘destroyed’ as US preps for blockade</title>
+      <link>https://www.foxnews.com/politics/trump-voices-frustration-nato-says-iranian-navy-destroyed-us-preps-blockade</link>
+      <summary>President Trump said Iran’s navy has been destroyed and confirms a sweeping oil blockade, while sharply criticizing NATO allies and warning U.S. support for the alliance faces scrutiny.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:18:22 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-gaggle-fox-news-001.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump accuses Pope Leo of being 'terrible' on foreign policy over pontiff's anti-war comments</title>
       <link>https://www.foxnews.com/politics/trump-accuses-pope-leo-being-terrible-foreign-policy-over-pontiffs-anti-war-comments</link>
       <summary>President Donald Trump accused Pope Leo XIV of being &amp;quot;terrible&amp;quot; on foreign policy as the pontiff continues to criticize the U.S.-Israeli war on Iran and call for peace.</summary>
       <pubDate>Sun, 12 Apr 2026 21:55:35 -0400</pubDate>
@@ -82,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Viktor Orbán concedes defeat as opposition leader heads for potential supermajority win</title>
-      <link>https://www.foxnews.com/world/viktor-orban-concedes-defeat-opposition-leader-heads-potential-supermajority-win</link>
-      <summary>Orbán conceded defeat Sunday as opposition leader Péter Magyar surged toward a landslide victory, signaling a major political shift in Hungary.</summary>
-      <pubDate>Sun, 12 Apr 2026 15:52:12 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/viktor-orban-march-2026.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Manhunt underway after gunmen storm Chick-fil-A leaving 1 dead</title>
       <link>https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead</link>
       <summary>Authorities say a deadly shooting at a New Jersey Chick-fil-A was targeted as suspects remain at large. One person died and six others were injured.</summary>
@@ -104,7 +104,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Eric Swalwell exits California governor race apologizing for past judgment while denying claims</title>
+      <title>Eric Swalwell exits California governor race apologizing for past judgment while denying claims</title>
       <link>https://www.foxnews.com/politics/eric-swalwell-exits-california-governor-race-apologizing-past-judgment-while-denying-claims</link>
       <summary>Rep. Eric Swalwell dropped his bid for California governor after a growing number of Democrats called on him to step aside following a bombshell report.</summary>
       <pubDate>Sun, 12 Apr 2026 21:00:59 -0400</pubDate>
