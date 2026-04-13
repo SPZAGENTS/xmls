@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-13T08:04:01.594524</generated>
+  <generated>2026-04-13T09:01:57.033750</generated>
   <items>
     <item>
       <title>Middle East war live: Trump announces blockade of Strait of Hormuz on Monday</title>
@@ -11,7 +11,7 @@
       <pubDate>Mon, 13 Apr 2026 02:11:43 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.france24.com/media/display/af9d8cd4-33bc-11f1-96cf-005056bf30b7/w:1024/p:16x9/AP26078506843469.jpg</image>
+        <image>https://s.france24.com/media/display/439e5a3a-36fb-11f1-b47b-005056bfb2b6/w:1024/p:16x9/2026-04-03T140932Z-1553634500-RC2T6KAKHJA6-RTRMADP-3-IRAN-CRISIS-USA.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,16 +71,9 @@
       </media>
     </item>
     <item>
-      <title>🔴 Middle East war live: Trump says US will begin 'blockading' Strait of Hormuz</title>
-      <link>https://www.france24.com/en/live-news/20260412-%F0%9F%94%B4-middle-east-war-live-trump-says-us-will-begin-blockading-strait-of-hormuz</link>
-      <summary />
-      <pubDate>Sun, 12 Apr 2026 13:17:36 GMT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Hungary ousts Orbán as Magyar's party wins supermajority in parliament</title>
+      <title>Hungary ousts Orban as Magyar's party wins supermajority in parliament</title>
       <link>https://www.france24.com/en/europe/20260412-hungary-ousts-orb%C3%A1n-after-16-years-as-pro-eu-challenger-wins-shock-election</link>
-      <summary>Hungarian voters delivered a shock election result on Sunday, ending Viktor Orbán’s 16-year rule and handing victory to pro-European challenger Péter Magyar, in a vote set to reshape Hungary’s ties with the EU and reverberate across global far-right movements.</summary>
+      <summary>Hungarian voters delivered a shock election result on Sunday, ending Viktor Orban’s 16-year rule and handing victory to pro-European challenger Peter Magyar, in a vote set to reshape Hungary’s ties with the EU and reverberate across global far-right movements.</summary>
       <pubDate>Sun, 12 Apr 2026 23:16:31 GMT</pubDate>
       <priority>95</priority>
       <media>
@@ -107,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.france24.com/media/display/26472304-35f7-11f1-88b3-005056bf30b7/w:1024/p:16x9/2026-04-10T125026Z-1635629188-RC2B2KAEKNYV-RTRMADP-3-IRAN-CRISIS-ENERGY.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Why Anthropic’s new AI model is too powerful to release</title>
+      <link>https://www.france24.com/en/why-anthropic-s-new-ai-model-is-too-powerful-to-release-1</link>
+      <summary>One of the world's leading AI companies has built a model so powerful that it refuses to fully release it publicly just yet, prompting urgent talks from Wall Street to financial regulators in the UK.</summary>
+      <pubDate>Sun, 12 Apr 2026 14:25:06 GMT</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.france24.com/media/display/2b96e2d0-367a-11f1-ba49-005056bf30b7/w:1024/p:16x9/image-1-2.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
