@@ -2,16 +2,27 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-13T03:01:11.441722</generated>
+  <generated>2026-04-13T04:21:01.837295</generated>
   <items>
     <item>
-      <title>Ex-Obama advisor says Iran could target Gulf oil facilities as Trump blockade squeezes regime</title>
-      <link>https://www.foxnews.com/media/ex-obama-advisor-says-iran-could-target-gulf-oil-facilities-trump-blockade-squeezes-regime</link>
-      <summary>Amb. Dennis Ross warns Iran may strike Saudi Arabia, UAE and Kuwait oil facilities as Trump&amp;apos;s Strait of Hormuz blockade tightens pressure on the regime.</summary>
-      <pubDate>Sun, 12 Apr 2026 15:00:04 -0400</pubDate>
+      <title>[PENDING_TRANSLATION] Senate Democrat avoids answering whether Swalwell should resign from Congress</title>
+      <link>https://www.foxnews.com/media/senate-democrat-avoids-answering-whether-swalwell-should-resign-from-congress</link>
+      <summary>Sen. Mark Warner declined to say whether Rep. Eric Swalwell should resign from Congress amid sexual misconduct allegations from multiple women Sunday.</summary>
+      <pubDate>Sun, 12 Apr 2026 21:00:44 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/oil-pipelines-kharg-island-iran.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/eric-swalwell-democratic-convention.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] ‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz</title>
+      <link>https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz</link>
+      <summary>Senior Middle East advisor warns Iran could use Houthi proxies to blockade the Bab al-Mandeb strait if the U.S. blocks the Strait of Hormuz.</summary>
+      <pubDate>Sun, 12 Apr 2026 20:24:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/yemeni-soldiers-bab-el-mandeb-strait-yemen-middle-east-fox-news.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Bruce Springsteen's former drummer pushes back on the Boss's political attacks on Trump: 'Gotta have respect'</title>
+      <link>https://www.foxnews.com/entertainment/bruce-springsteens-former-drummer-pushes-back-bosss-political-attacks-trump-gotta-respect</link>
+      <summary>Bruce Springsteen&amp;apos;s former drummer Vini Lopez speaks out against the Boss&amp;apos;s anti-Trump rhetoric, saying everyone should respect the president.</summary>
+      <pubDate>Sun, 12 Apr 2026 19:59:24 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/bruce-springsteen-donald-trump.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>JD Vance returns to Washington after 16 hours of Iran peace talks collapse in Pakistan</title>
       <link>https://www.foxnews.com/politics/jd-vance-returns-washington-after-16-hours-iran-peace-talks-collapse-pakistan</link>
       <summary>Vice President JD Vance&amp;apos;s marathon negotiations with Iranian officials in Islamabad failed to produce a deal, prompting President Donald Trump to order a Strait of Hormuz blockade.</summary>
@@ -56,17 +78,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/viktor-orban-march-2026.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions</title>
-      <link>https://www.foxnews.com/health/doctors-expose-buffalo-hump-potential-sign-hidden-health-conditions</link>
-      <summary>A fatty bulge at the base of the neck, known as a buffalo hump, can sometimes signal an underlying health condition, experts warn. Here&amp;apos;s what to know.</summary>
-      <pubDate>Sun, 12 Apr 2026 14:57:22 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/overweight-woman-neck-pain-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/eric-swalwell-california-candidate.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Britney Spears enters rehab after DUI arrest</title>
-      <link>https://www.foxnews.com/entertainment/britney-spears-enters-rehab-after-dui-arrest</link>
-      <summary>Britney Spears voluntarily admitted herself into a treatment facility over the weekend, nearly one month after her arrest for allegedly driving under the influence.</summary>
-      <pubDate>Sun, 12 Apr 2026 19:43:48 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/britney-spears.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

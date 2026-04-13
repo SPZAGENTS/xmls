@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-13T03:01:12.025304</generated>
+  <generated>2026-04-13T04:21:02.417051</generated>
   <items>
+    <item>
+      <title>‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz</title>
+      <link>https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz</link>
+      <summary>Senior Middle East advisor warns Iran could use Houthi proxies to blockade the Bab al-Mandeb strait if the U.S. blocks the Strait of Hormuz.</summary>
+      <pubDate>Sun, 12 Apr 2026 20:24:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/yemeni-soldiers-bab-el-mandeb-strait-yemen-middle-east-fox-news.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>IDF uncovers Hezbollah weapons stash inside hospital in Lebanon</title>
       <link>https://www.foxnews.com/world/idf-uncovers-hezbollah-weapons-stash-inside-hospital-lebanon</link>
@@ -89,17 +100,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/minerales-sinaloa-mine-rescue-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Chief prosecutor behind Israel war crimes charges faces disciplinary action amid sexual misconduct allegations</title>
-      <link>https://www.foxnews.com/world/chief-prosecutor-behind-israel-war-crimes-charges-faces-disciplinary-action-amid-sexual-misconduct-allegations</link>
-      <summary>ICC Chief Prosecutor Karim Khan faces disciplinary proceedings over alleged sexual misconduct after the Bureau of the Assembly of States Parties voted to move forward with action.</summary>
-      <pubDate>Thu, 09 Apr 2026 08:16:46 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/icc-international-criminal-court-flag.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

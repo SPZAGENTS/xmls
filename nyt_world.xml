@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-13T03:01:16.207806</generated>
+  <generated>2026-04-13T04:21:07.550865</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports</title>
       <link>https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan</link>
       <summary>The blockade on ships “entering or departing Iranian ports and coastal areas” will begin on Monday, U.S. Central Command said. But U.S. forces will not impede vessels transiting the Strait of Hormuz, a step back from President Trump’s earlier vow.</summary>
-      <pubDate>Sun, 12 Apr 2026 23:59:39 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 01:19:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-400/12israel-iran-mpfq-mediumSquareAt3X.jpg</image>
@@ -41,10 +41,21 @@
       <title>Inside Tyre, a Lebanese City Bombarded by Israel</title>
       <link>https://www.nytimes.com/2026/04/12/world/middleeast/lebanon-hezbollah-israel-iran-war-tyre.html</link>
       <summary>In Tyre, a city on Lebanon’s coast, near-daily bombardments by Israel have killed and injured civilians, and left many searching for shelter.</summary>
-      <pubDate>Sun, 12 Apr 2026 20:30:13 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 20:30:14 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-lebanon-tyre-01-fpjb-01-fmlq-promo/12int-lebanon-tyre-01-fpjb-01-fmlq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.</title>
+      <link>https://www.nytimes.com/2026/04/12/world/middleeast/hormuz-us-blockade.html</link>
+      <summary>The goal of the naval operation ordered by ordered by President Trump is to deny Iran the revenues it needs to fund its military, but there are many unknowns.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:19:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-blockade-questions-bfqm/12israel-iran-blockade-questions-bfqm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -92,17 +103,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rejected by Dozens of Emergency Rooms: South Korea’s Medical Crisis</title>
-      <link>https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html</link>
-      <summary>Hundreds of patients every year have trouble finding emergency care, even though the country has a world-class medical system. For some, the delays have been fatal.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:00:18 +0000</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
