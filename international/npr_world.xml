@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-13T08:04:05.837506</generated>
+  <generated>2026-04-13T09:02:01.054108</generated>
   <items>
     <item>
       <title>Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff</title>
@@ -19,11 +19,18 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>The U.S. military says it will blockade Iranian ports as Iran peace talks collapse</title>
-      <link>https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse</link>
-      <summary>After talks between the U.S. and Iran collapsed, President Trump said the U.S. will "blockade" the Strait of Hormuz. The U.S. military said it would blockade ships entering or exiting Iranian ports.</summary>
-      <pubDate>Sun, 12 Apr 2026 05:40:24 -0400</pubDate>
-      <priority>100</priority>
+      <title>A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens</title>
+      <link>https://www.npr.org/2026/04/13/g-s1-117209/a-stampede-at-a-haitian-mountaintop-fortress-kills-at-least-25-people</link>
+      <summary>A stampede at a mountaintop fortress popular with tourists in northern Haiti has killed at least 25 people and injured dozens of others, authorities said.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:13:15 -0400</pubDate>
+      <priority>80</priority>
+    </item>
+    <item>
+      <title>Peru election results delayed after thousands get a one-day voting extension</title>
+      <link>https://www.npr.org/2026/04/13/g-s1-117208/peru-election-results-delayed</link>
+      <summary>Voters will have to wait until at least Monday to learn the outcome of Sunday's presidential election after the process was mired with logistical issues that left thousands unable to cast ballots.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:08:42 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>Hungary's Viktor Orbán concedes defeat, ending 16 years in power</title>
@@ -47,6 +54,13 @@
       <priority>65</priority>
     </item>
     <item>
+      <title>Rory McIlroy wins the Masters for second year in a row</title>
+      <link>https://www.npr.org/2026/04/13/g-s1-117215/rory-mcilroy-wins-the-masters</link>
+      <summary>Rory McIlroy goes back-to-back at the Masters to join Jack Nicklaus, Nick Faldo and Tiger Woods.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:44:11 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
       <title>Fighting assault allegations, Eric Swalwell suspends his bid for California governor</title>
       <link>https://www.npr.org/2026/04/12/nx-s1-5782055/swalwell-suspends-campaign-assault-allegations-governor-california</link>
       <summary>The San Francisco Chronicle and CNN reported multiple allegations of sexual assault and misconduct. Swalwell calls them false but apologized to his supporters and family.</summary>
@@ -58,20 +72,6 @@
       <link>https://www.npr.org/2026/04/12/834433236/asha-bhosle-voice-of-bollywood-has-died-92</link>
       <summary>The Bollywood legend was one of the world's most recorded artists — who, by her own reckoning, made more than 12,000 songs.</summary>
       <pubDate>Sun, 12 Apr 2026 10:31:49 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Why your favorite artists keep pairing up for co-headlining tours</title>
-      <link>https://www.npr.org/2026/04/12/nx-s1-5779269/music-bands-coheadlining-success-tours-sharing-expenses</link>
-      <summary>From SZA and Kendrick Lamar, to MJ Lenderman and Waxahatchee, there's been an uptick in recent years of prominent artists joining forces for a co-headlining tour.</summary>
-      <pubDate>Sun, 12 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>The real space science behind 'Project Hail Mary'</title>
-      <link>https://www.npr.org/2026/04/12/nx-s1-5782074/project-hail-mary-nasa-space-science</link>
-      <summary>The science fiction blockbuster wowed audiences with its depiction of space travel and more. Here's what NASA staff and other scientists say about the basis for the amazing events of the film.</summary>
-      <pubDate>Sun, 12 Apr 2026 05:00:00 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
