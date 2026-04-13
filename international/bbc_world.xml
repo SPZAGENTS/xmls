@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-13T19:04:27.366561</generated>
+  <generated>2026-04-13T20:12:33.635568</generated>
   <items>
     <item>
       <title>Ghanaian footballer killed after armed attackers open fire at team bus</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2233/live/67b4bd10-36d8-11f1-951e-7783ff0b6757.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The US blockade of Iran is a gamble. Will it work?</title>
+      <link>https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US military has the capability to mount a blockade of vessels moving in and out of the Gulf. The question is: to what end?</summary>
+      <pubDate>Mon, 13 Apr 2026 15:27:43 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849e/live/6ff30700-3752-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1110/live/9d712b70-3735-11f1-ba17-d34f2bc9d6da.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold</title>
-      <link>https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.</summary>
-      <pubDate>Mon, 13 Apr 2026 08:28:35 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd5/live/c1ee9cb0-3714-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
