@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-13T22:01:07.238051</generated>
-  <total_articles>338</total_articles>
+  <generated>2026-04-13T23:01:19.090084</generated>
+  <total_articles>337</total_articles>
   <items>
     <item>
       <title>This blockade is a gamble. Will it work?</title>
@@ -14,6 +14,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849e/live/6ff30700-3752-11f1-879d-1b2f5c3919b8.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Israelis war-weary but most oppose Iran ceasefire, poll suggests</title>
+      <link>https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.</summary>
+      <pubDate>Mon, 13 Apr 2026 19:20:08 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caec/live/d45e3b20-3751-11f1-a12e-891a94889568.png</image>
       </media>
     </item>
     <item>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894d/live/6f6e84b0-33e4-11f1-bcd5-f5e97411e751.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>How many ships are crossing the Strait of Hormuz?</title>
-      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.</summary>
-      <pubDate>Mon, 13 Apr 2026 16:37:57 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
       </media>
     </item>
   </items>
