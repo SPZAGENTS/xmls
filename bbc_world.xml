@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-13T10:03:29.421628</generated>
+  <generated>2026-04-13T11:00:59.986947</generated>
   <items>
     <item>
       <title>Trump's threat raises risks and leaves predicaments unchanged</title>
@@ -12,6 +12,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump attacks Pope over criticism of Iran war</title>
+      <link>https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president accuses Leo of being "weak on crime and terrible for foreign policy".</summary>
+      <pubDate>Mon, 13 Apr 2026 07:40:14 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9857/live/c50f42d0-3702-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Eight to be awarded for bravery in Bondi Junction stabbing</title>
+      <link>https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall.</summary>
+      <pubDate>Mon, 13 Apr 2026 01:35:54 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2233/live/67b4bd10-36d8-11f1-951e-7783ff0b6757.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>After Iran talks falter, the big question is what happens next?</title>
-      <link>https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet.</summary>
-      <pubDate>Sun, 12 Apr 2026 12:48:01 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ad6/live/d13b6fd0-366b-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda</title>
       <link>https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/1fd03d50-36fe-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Viktor Orbán's Hungarian experiment runs out of steam</title>
-      <link>https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule, Nick Thorpe reports from Budapest.</summary>
-      <pubDate>Mon, 13 Apr 2026 01:58:32 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa19/live/8b579f70-36fc-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
