@@ -3,7 +3,7 @@
   <title>Ynet Top 10 — Most Relevant Articles</title>
   <source>ynet-aggregated</source>
   <source-type>rss</source-type>
-  <last-updated>2026-04-13T13:06:35.292170</last-updated>
+  <last-updated>2026-04-13T14:06:51.505895</last-updated>
   <article-count>10</article-count>
   <items>
     <item>
@@ -15,20 +15,20 @@
       <priority-score>140</priority-score>
     </item>
     <item>
-      <title>IDF steps up West Bank ops to contain terror threat amid tension between extremist Jews and Palestinians</title>
-      <link>https://www.ynetnews.com/article/s132ebcnbg</link>
-      <description>As Israel maintains a ceasefire with Iran and continues operations in southern Lebanon, the IDF ramps up activity in the West Bank, carrying out more than 6,600 operations and arresting over 550 suspects to prevent escalation</description>
-      <pubDate>Mon, 13 Apr 2026 08:57:13 +03:00</pubDate>
-      <source>ynet-news-english</source>
-      <priority-score>130</priority-score>
-    </item>
-    <item>
       <title>Vance: 'We did not reach an agreement, are returning to US'; Israel preparing to attack energy facilities</title>
       <link>https://www.ynetnews.com/article/hkwvbk00hzx</link>
       <description>In the shadow of a 'deadlock' on the Strait of Hormuz issue, US vice president announced at end of three rounds of talks in Pakistan: 'We were quite flexible, Iran did not accept our conditions'; Tehran accuses: 'Excessive and illegal demands'</description>
       <pubDate>Sun, 12 Apr 2026 05:48:27 +03:00</pubDate>
       <source>ynet-news-english</source>
       <priority-score>130</priority-score>
+    </item>
+    <item>
+      <title>Survey: most Israelis oppose Iran ceasefire, divided on whether to respect it</title>
+      <link>https://www.ynetnews.com/article/ryam00rqhzl</link>
+      <description>Hebrew U poll finds support for Netanyahu has declined since the war began, with 34% backing him now compared to 40% at the start of the conflict</description>
+      <pubDate>Mon, 13 Apr 2026 13:48:19 +03:00</pubDate>
+      <source>ynet-news-english</source>
+      <priority-score>125</priority-score>
     </item>
     <item>
       <title>Trump’s ‘chess game’ and Israel’s preparations: ‘The goal is strong pressure on Iran’</title>
@@ -43,14 +43,6 @@
       <link>https://www.ynet.co.il/news/article/yokra14737080</link>
       <description>550 מעצרים, 6,600 פעילויות התקפיות: באוגדת איו"ש מסכמים את הפעילות מול הטרור הפלסטיני בתקופה שבה הקשב הופנה לאיראן ולחיזבאללה - ומוטרדים מאירועי הפשיעה הלאומנית. החשש: הסלמה וערעור המצב הביטחוני</description>
       <pubDate>Mon, 13 Apr 2026 07:06:37 +0300</pubDate>
-      <source>ynet-main-news</source>
-      <priority-score>115</priority-score>
-    </item>
-    <item>
-      <title>האם חמאס יסכים להתפרק מנשקו - או שאנחנו בדרך לסבב נוסף בעזה?</title>
-      <link>https://www.ynet.co.il/news/theheadline/article/8wfmc64wt</link>
-      <description>חצי שנה אחרי הפסקת האש, ובזמן שמתנהלות שיחות מול איראן ולבנון, חמאס נדרש להשיב למועצת השלום אם יסכים להתפרק מנשקו בתוך כמה חודשים. בקהיר דנים בפרטי התהליך, אך בישראל עדיין לא בטוחים שצה"ל ערוך למעבר מהיר מלבנון לעזה. הכתב המדיני של ynet איתמר אייכנר מסביר אילו אפשרויות עומדות ...</description>
-      <pubDate>Mon, 13 Apr 2026 05:00:00 +0300</pubDate>
       <source>ynet-main-news</source>
       <priority-score>115</priority-score>
     </item>
@@ -79,12 +71,20 @@
       <priority-score>115</priority-score>
     </item>
     <item>
-      <title>40 rockets fired at northern Israel; Watch: IDF troops clash with Hezbollah terrorists</title>
-      <link>https://www.ynetnews.com/article/rye11xe003zg</link>
-      <description>Two IDF soldiers were moderately wounded in a close-range clash in southern Lebanon, as repeated sirens sounded across the Galilee and a building was damaged in Shlomi</description>
-      <pubDate>Sat, 11 Apr 2026 19:20:05 +03:00</pubDate>
+      <title>קלוד תחת אש: טראמפ רוצה לזרוק, אבל הצבא חייב אותו</title>
+      <link>https://www.ynet.co.il/digital/technology/article/yokra14699282</link>
+      <description>אחרי שהקריס את המניות של ענקיות הטק והציב איום על פרנסתם של המתכנתים, מודל ה–AI "קלוד" מחולל מהפכה גם במלחמה עם איראן ועוזר לצבא האמריקאי לשפר את הביצועים. אנת'רופיק, המפתחת שלו, מתעקשת להגדיר קווים מוסריים לשימוש בו ומוציאה את טראמפ מהכלים</description>
+      <pubDate>Sun, 08 Mar 2026 15:56:40 +0200</pubDate>
+      <source>ynet-technology</source>
+      <priority-score>110</priority-score>
+    </item>
+    <item>
+      <title>'Voluntarily or by force': Hamas boxed in on disarmament as Gaza plan takes shape</title>
+      <link>https://www.ynetnews.com/article/hjnd6qk311x</link>
+      <description>Talks in Cairo continue as US officials await Hamas response within days, with phased disarmament plan tied to Gaza reconstruction and deployment of Palestinian and international forces still delayed by regional fighting</description>
+      <pubDate>Sun, 12 Apr 2026 17:38:07 +03:00</pubDate>
       <source>ynet-news-english</source>
-      <priority-score>115</priority-score>
+      <priority-score>110</priority-score>
     </item>
   </items>
 </content-feed>
