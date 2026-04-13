@@ -2,13 +2,20 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-13T19:04:40.426214</generated>
+  <generated>2026-04-13T20:13:04.319726</generated>
   <items>
     <item>
       <title>How would a U.S. military blockade of Iran's ports work?</title>
       <link>https://www.cbc.ca/player/play/9.7161445?cmp=rss</link>
       <summary>CBC's David Common explains what's expected around the Strait of Hormuz after the U.S. military said it would move to block ships travelling to or from Iran's ports.</summary>
       <pubDate>Mon, 13 Apr 2026 09:15:21 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] At least 3 killed in Israeli strike on Gaza as talks to advance ceasefire back on</title>
+      <link>https://www.cbc.ca/news/world/gaza-palestinians-killed-ceasefire-deal-israel-9.7161562?cmp=rss</link>
+      <summary>An Israeli airstrike killed at least three Palestinians in the Gaza Strip on Monday, health officials said, as mediators met leaders from Hamas in an effort to shore up a U.S.-brokered ceasefire deal.</summary>
+      <pubDate>Mon, 13 Apr 2026 12:05:00 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -19,17 +26,10 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Ghanaian Premier League player killed in suspected armed robbery attack on team bus</title>
+      <title>Ghanaian Premier League player killed in suspected armed robbery attack on team bus</title>
       <link>https://www.cbc.ca/sports/soccer/ghanaian-soccer-player-killed-premier-league-robbery-team-bus-9.7161559?cmp=rss</link>
       <summary>Dominic Frimpong of Ghanaian Premier League club Berekum Chelsea was killed after the team's bus was attacked by a group of suspected armed robbers, the country's soccer association said Monday.</summary>
       <pubDate>Mon, 13 Apr 2026 10:20:58 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Trump slams 'very liberal' Pope Leo following American pontiff's comments on Iran war</title>
-      <link>https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss</link>
-      <summary>Pope Leo told Reuters on Monday that he plans to continue speaking out against war after U.S. ‌President Donald Trump's direct attack the previous day on the leader of the 1.4-billion-member church.</summary>
-      <pubDate>Sun, 12 Apr 2026 21:54:14 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -61,17 +61,17 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>Trump attacks Pope Leo, then draws backlash for Christ-like AI post</title>
+      <link>https://www.cbc.ca/news/world/trump-pope-leo-comments-iran-9.7161252?cmp=rss</link>
+      <summary>Pope Leo told Reuters on Monday that he plans to continue speaking out against war after U.S. ‌President Donald Trump's direct attack the previous day on the leader of the 1.4-billion-member church.</summary>
+      <pubDate>Sun, 12 Apr 2026 21:54:14 EDT</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Strikes on alleged drug boats kill 5, leave 1 survivor in eastern Pacific, U.S. military says</title>
       <link>https://www.cbc.ca/news/world/strikes-boats-u-s-military-pacific-9.7161307?cmp=rss</link>
       <summary>The U.S. military said Sunday that it blew up two boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of five people and leaving one survivor, as the Trump administration pursues its campaign against alleged traffickers in Latin America while prepari...</summary>
       <pubDate>Mon, 13 Apr 2026 05:43:02 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Ukraine, Russia accuse each other of violating Orthodox Easter ceasefire</title>
-      <link>https://www.cbc.ca/news/world/ukraine-russia-easter-ceasefire-violation-9.7160792?cmp=rss</link>
-      <summary>Russia and Ukraine accused each other on Sunday of breaching the 32-hour ceasefire in their four-year war, each reporting close to 2,000 drone and shelling attacks just hours after the truce began on Saturday to mark Orthodox Easter.</summary>
-      <pubDate>Sun, 12 Apr 2026 08:55:17 EDT</pubDate>
       <priority>90</priority>
     </item>
   </items>
