@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-13T09:01:57.033750</generated>
+  <generated>2026-04-13T10:03:35.192812</generated>
   <items>
+    <item>
+      <title>Iran executed 'at least 1,639 people' in 2025, highest number since 1989</title>
+      <link>https://www.france24.com/en/middle-east/20260413-iran-executed-at-least-1-639-people-in-2025-highest-number-since-1989</link>
+      <summary>Iran executed at least 1,639 people last year, an average of more than four executions per day, Norway-based Iran Human Rights and Paris-based Together Against the Death Penalty said in their joint annual report, warning that the regime risked killing even more people this yea...</summary>
+      <pubDate>Mon, 13 Apr 2026 04:09:13 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/870e3766-36ee-11f1-8a30-005056a90284/w:1024/p:16x9/bfa9de74bc46292c917df12dd82beb2746557ce8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Middle East war live: Trump announces blockade of Strait of Hormuz on Monday</title>
       <link>https://www.france24.com/en/middle-east/20260413-middle-east-war-live-trump-announces-blockade-of-strait-of-hormuz-on-monday</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://s.france24.com/media/display/26472304-35f7-11f1-88b3-005056bf30b7/w:1024/p:16x9/2026-04-10T125026Z-1635629188-RC2B2KAEKNYV-RTRMADP-3-IRAN-CRISIS-ENERGY.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why Anthropic’s new AI model is too powerful to release</title>
-      <link>https://www.france24.com/en/why-anthropic-s-new-ai-model-is-too-powerful-to-release-1</link>
-      <summary>One of the world's leading AI companies has built a model so powerful that it refuses to fully release it publicly just yet, prompting urgent talks from Wall Street to financial regulators in the UK.</summary>
-      <pubDate>Sun, 12 Apr 2026 14:25:06 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.france24.com/media/display/2b96e2d0-367a-11f1-ba49-005056bf30b7/w:1024/p:16x9/image-1-2.png</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-13T09:01:59.742955</generated>
+  <generated>2026-04-13T10:03:38.034077</generated>
   <items>
+    <item>
+      <title>Iran war's global energy crisis sharpens China’s advantage in clean tech</title>
+      <link>https://abcnews.com/International/wireStory/iran-wars-global-energy-crisis-sharpens-chinas-advantage-131983371</link>
+      <summary>The war in Iran is sharpening China&amp;rsquo;s advantage in promoting a renewable energy future, as oil disruptions expose the fragility of fossil fuel systems</summary>
+      <pubDate>Mon, 13 Apr 2026 02:42:16 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_05d198d6e8dc99d0209dddfff26ae52a_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Haitians cut back on already scarce food and ask how they'll survive rising fuel prices</title>
       <link>https://abcnews.com/International/wireStory/haitians-cut-back-scarce-food-survive-rising-fuel-131965991</link>
@@ -12,28 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_6ec63f1dd3a2ed106555dfe73fe383a6_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
-      <link>https://abcnews.com/International/wireStory/russian-strikes-odesa-kill-2-ahead-orthodox-easter-131946305</link>
-      <summary>Russian drone strikes killed at least two people and wounded two others in the Ukrainian city of Odesa overnight Saturday, hitting a residential area</summary>
-      <pubDate>Sat, 11 Apr 2026 05:35:56 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0f6548cf06dde9a2c261b22af17aa9ef_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
-      <link>https://abcnews.com/International/wireStory/croatian-fishermen-feel-strain-after-iran-war-ramps-131906377</link>
-      <summary>Croatian fishermen are facing tough times as rising fuel prices, driven by the war in Iran, impact the industry</summary>
-      <pubDate>Fri, 10 Apr 2026 01:36:15 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_04e7aa974513232d01a42f3d8279b4ce_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,13 +60,13 @@
       </media>
     </item>
     <item>
-      <title>Citizen 'Frog Patrol' helps amphibians survive a dangerous road journey in Poland</title>
-      <link>https://abcnews.com/International/wireStory/citizen-frog-patrol-helps-amphibians-survive-dangerous-road-131906153</link>
-      <summary>Hundreds of volunteers have joined a &amp;quot;Frog Patrol&amp;quot; initiative in a forest near the Polish capital of Warsaw to help amphibians survive road crossings during their spring mating rituals</summary>
-      <pubDate>Fri, 10 Apr 2026 07:40:15 -0400</pubDate>
-      <priority>90</priority>
+      <title>An underwater bus in Havana becomes the ride that matters during Cuba's fuel crisis</title>
+      <link>https://abcnews.com/International/wireStory/underwater-bus-havana-ride-matters-cubas-fuel-crisis-131983466</link>
+      <summary>In Havana, a special underwater bus has become essential as Cuba faces its worst energy crisis in decades</summary>
+      <pubDate>Mon, 13 Apr 2026 02:36:37 -0400</pubDate>
+      <priority>85</priority>
       <media>
-        <image>https://s.abcnews.com/images/Weird/wirestory_e58af9e80114e4d9089a8238948612c7_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/Weird/wirestory_651702a70d12c3f54ee6018d532e9e54_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,6 +78,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_3e505492e9d43e8da7ccc3227cd85b77_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Failed US-Iran talks in Pakistan raise questions about fragile ceasefire</title>
+      <link>https://abcnews.com/International/wireStory/failed-us-iran-talks-pakistan-raise-questions-fragile-131969729</link>
+      <summary>Ceasefire talks in Pakistan between the U.S. and Iran ended without an agreement, raising questions about what happens when a current two-week truce expires on April 22</summary>
+      <pubDate>Mon, 13 Apr 2026 01:58:52 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_36cd009a0b238fcad4665a5a02cc895e_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
