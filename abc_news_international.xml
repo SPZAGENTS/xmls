@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-13T06:01:34.964566</generated>
+  <generated>2026-04-13T07:02:53.505532</generated>
   <items>
     <item>
       <title>Haitians cut back on already scarce food and ask how they'll survive rising fuel prices</title>
@@ -16,17 +16,6 @@
       </media>
     </item>
     <item>
-      <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
-      <link>https://abcnews.com/International/wireStory/russian-strikes-odesa-kill-2-ahead-orthodox-easter-131946305</link>
-      <summary>Russian drone strikes killed at least two people and wounded two others in the Ukrainian city of Odesa overnight Saturday, hitting a residential area</summary>
-      <pubDate>Sat, 11 Apr 2026 05:35:56 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_0f6548cf06dde9a2c261b22af17aa9ef_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Croatian fishermen feel the strain after Iran war ramps up fuel prices</title>
       <link>https://abcnews.com/International/wireStory/croatian-fishermen-feel-strain-after-iran-war-ramps-131906377</link>
       <summary>Croatian fishermen are facing tough times as rising fuel prices, driven by the war in Iran, impact the industry</summary>
@@ -34,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_04e7aa974513232d01a42f3d8279b4ce_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russian strikes on Odesa kill 2 ahead of Orthodox Easter ceasefire</title>
+      <link>https://abcnews.com/International/wireStory/russian-strikes-odesa-kill-2-ahead-orthodox-easter-131946305</link>
+      <summary>Russian drone strikes killed at least two people and wounded two others in the Ukrainian city of Odesa overnight Saturday, hitting a residential area</summary>
+      <pubDate>Sat, 11 Apr 2026 05:35:56 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_0f6548cf06dde9a2c261b22af17aa9ef_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>London police arrest more than 200 at protest backing banned group Palestine Action</title>
-      <link>https://abcnews.com/International/wireStory/london-police-arrest-200-protest-backing-banned-group-131953878</link>
-      <summary>London police have arrested more than 200 people during a protest against the ban on the group Palestine Action</summary>
-      <pubDate>Sat, 11 Apr 2026 14:06:07 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_e07941773b6b7f2be75e27c21853ad2c_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Hungarian Prime Minister Orbán is ejected after 16 years in a European electoral earthquake</title>
       <link>https://abcnews.com/International/wireStory/hungarian-prime-minister-viktor-orbn-concedes-defeat-after-131965262</link>
       <summary>It ends 16 years in power for a figure in far-right movement allied with Trump.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/Peter-Magyar-rt-gmh-260412_1776039768523_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Russia and Ukraine accuse each other of violating Orthodox Easter ceasefire</title>
+      <link>https://abcnews.com/International/wireStory/russia-ukraine-accuse-violating-orthodox-easter-ceasefire-131966392</link>
+      <summary>Russia and Ukraine are accusing each other of violating a Kremlin-declared Easter ceasefire</summary>
+      <pubDate>Sun, 12 Apr 2026 06:04:51 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_ee87ae1e85a285837c0a359380f37bb6_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
