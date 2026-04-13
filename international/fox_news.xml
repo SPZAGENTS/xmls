@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-13T02:00:54.287249</generated>
+  <generated>2026-04-13T03:01:11.441722</generated>
   <items>
     <item>
       <title>Ex-Obama advisor says Iran could target Gulf oil facilities as Trump blockade squeezes regime</title>
@@ -34,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/woman-eating-takeout-sofa-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>JD Vance returns to Washington after 16 hours of Iran peace talks collapse in Pakistan</title>
+      <link>https://www.foxnews.com/politics/jd-vance-returns-washington-after-16-hours-iran-peace-talks-collapse-pakistan</link>
+      <summary>Vice President JD Vance&amp;apos;s marathon negotiations with Iranian officials in Islamabad failed to produce a deal, prompting President Donald Trump to order a Strait of Hormuz blockade.</summary>
+      <pubDate>Sun, 12 Apr 2026 19:40:34 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jd-vance-pakistan-news-conference-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>California reporter claims Eric Swalwell’s conduct ‘was known,’ raises questions about local support</title>
+      <link>https://www.foxnews.com/media/california-reporter-claims-eric-swalwells-conduct-was-known-raises-questions-about-local-support</link>
+      <summary>East Bay journalist Steve Tavares claimed allegations about Eric Swalwell&amp;apos;s behavior toward women were known by local officials after his 2013 election.</summary>
+      <pubDate>Sun, 12 Apr 2026 19:00:13 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eric-swalwell-misconduct-allegations-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Two Democratic reps call for Swalwell to exit Congress as controversy swirls around his bid for CA governor</title>
       <link>https://www.foxnews.com/media/top-democrats-call-swalwell-exit-congress-controversy-swirls-around-his-bid-ca-governor</link>
       <summary>Rep. Vindman says Rep. Swalwell should resign and drop out of California&amp;apos;s gubernatorial race following sexual assault allegations against him.</summary>
@@ -82,35 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Elizabeth Hurley shows off her figure in a daring string bikini while promoting her swimwear brand at 60</title>
-      <link>https://www.foxnews.com/entertainment/elizabeth-hurley-shows-off-figure-daring-string-bikini-while-promoting-swimwear-brand-60</link>
-      <summary>Elizabeth Hurley, 60, wows in a tiny striped string bikini from her swimwear line while lounging by the beach in a stunning makeup-free Instagram post.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:26:17 -0400</pubDate>
+      <title>Britney Spears enters rehab after DUI arrest</title>
+      <link>https://www.foxnews.com/entertainment/britney-spears-enters-rehab-after-dui-arrest</link>
+      <summary>Britney Spears voluntarily admitted herself into a treatment facility over the weekend, nearly one month after her arrest for allegedly driving under the influence.</summary>
+      <pubDate>Sun, 12 Apr 2026 19:43:48 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/elizabeth-hurley-plunging-purple.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WNBA star Sophie Cunningham rejoins Fever after emerging as fan favorite</title>
-      <link>https://www.foxnews.com/sports/wnba-star-sophie-cunningham-rejoins-fever-emerging-fan-favorite</link>
-      <summary>Sophie Cunningham re-signed with the Indiana Fever on a one-year deal, calling the upcoming 2026 WNBA season another chance to make a championship run.</summary>
-      <pubDate>Sun, 12 Apr 2026 15:12:10 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/sophie-cunningham-wnba-phoenix-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>World Series champ Phil Garner dead at 76 after cancer battle</title>
-      <link>https://www.foxnews.com/sports/world-series-champ-phil-garner-dead-76-cancer-battle</link>
-      <summary>Former MLB All-Star Phil Garner, a World Series champion as a player and manager of three teams, died at 76 after a pancreatic cancer battle.</summary>
-      <pubDate>Sun, 12 Apr 2026 14:51:25 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/pittsburgh-pirates-1979-world-championship-fox-news-041226.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/britney-spears.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

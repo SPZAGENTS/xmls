@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-13T02:01:06.536411</generated>
+  <generated>2026-04-13T03:01:23.575283</generated>
   <items>
     <item>
       <title>Military blockade of Iran's ports to start on Monday at 10 a.m. ET, U.S. Central Command says</title>
@@ -54,13 +54,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Trump rages, NATO endures: Why the alliance is harder to kill than it looks</title>
-      <link>https://www.cbc.ca/news/politics/nato-trump-iran-war-russia-9.7158165?cmp=rss</link>
-      <summary>Despite threats from U.S. President Donald Trump, an American break with NATO remains unlikely. Political constraints, military dependence and mutual interests bind both sides. The real danger involves eroding trust, emboldening Russia and a slow-motion fracture that weakens d...</summary>
-      <pubDate>Thu, 09 Apr 2026 17:45:04 EDT</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>U.S. vice-president says 21 hours of talks with Iran have ended with no deal</title>
       <link>https://www.cbc.ca/news/world/us-delegation-pakistan-iran-ceasefire-9.7160338?cmp=rss</link>
       <summary />
@@ -73,6 +66,13 @@
       <summary>The Vatican and the Pentagon have pushed back on a report that suggested a meeting in January between a U.S.-based cardinal and a member of Donald Trump's administration grew heated.</summary>
       <pubDate>Fri, 10 Apr 2026 09:31:16 EDT</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>After 16 years in power, Hungary's Orbán concedes 'painful' election loss to rival Magyar</title>
+      <link>https://www.cbc.ca/news/world/hungary-election-viktor-orban-9.7160781?cmp=rss</link>
+      <summary>Hungarian Prime Minister Viktor Orbán conceded defeat in Sunday's Hungarian election, ending his 16 years in power.</summary>
+      <pubDate>Sun, 12 Apr 2026 06:43:12 EDT</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
