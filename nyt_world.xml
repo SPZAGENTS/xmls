@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-13T12:03:23.497739</generated>
+  <generated>2026-04-13T13:03:59.672840</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade</title>
       <link>https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news</link>
       <summary>The U.S. said it would block ships entering or exiting Iranian ports or coastal areas starting at 10 a.m. Eastern on Monday. It was unclear how that would affect the cease-fire.</summary>
-      <pubDate>Mon, 13 Apr 2026 08:48:57 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 09:40:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13iran-live-header-promo/13iran-live-header-whbp-mediumSquareAt3X.jpg</image>
@@ -38,50 +38,6 @@
       </media>
     </item>
     <item>
-      <title>China’s Electrostate Is Poised to Win From War in the Middle East</title>
-      <link>https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html</link>
-      <summary>A cluster of Chinese firms is poised to win big from the energy crisis set off by the war in the Middle East, building on booming investment in artificial intelligence.</summary>
-      <pubDate>Mon, 13 Apr 2026 08:46:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/10/multimedia/00biz-china-electrostate-01-vwgh/00biz-china-electrostate-01-vwgh-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.</title>
-      <link>https://www.nytimes.com/2026/04/12/world/middleeast/hormuz-us-blockade.html</link>
-      <summary>The goal of the naval operation ordered by President Trump is to deny Iran the revenues it needs to fund its military, but there are many unknowns.</summary>
-      <pubDate>Mon, 13 Apr 2026 05:27:59 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-blockade-questions-bfqm/12israel-iran-blockade-questions-bfqm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify</title>
-      <link>https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html</link>
-      <summary>Nigerian officials said they attacked a terrorist enclave, but locals and rights groups said the airstrikes hit a popular market, killing many civilians.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:18:56 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/world/12-int-nigeria-attack-promo/12-int-nigeria-attack-promo-mediumSquareAt3X.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What to Know About Pope Leo’s Voyage to Africa</title>
-      <link>https://www.nytimes.com/2026/04/13/world/europe/what-to-know-pope-africa.html</link>
-      <summary>The pontiff will visit four countries on the world’s poorest continent, demonstrating his urgent focus on the most vulnerable members of the Church.</summary>
-      <pubDate>Mon, 13 Apr 2026 04:01:16 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-pope-africa-explainer-01-hjbz/13int-pope-africa-explainer-01-hjbz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>The ‘Islamabad Peace Talks’ Are Over. What Now for Pakistan?</title>
       <link>https://www.nytimes.com/2026/04/12/world/asia/iran-peace-talks-pakistan.html</link>
       <summary>With the U.S. and Iranian delegations gone from Islamabad and the cease-fire uncertain, Pakistan faces its own economic and diplomatic challenges.</summary>
@@ -89,6 +45,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-pakistan-mediation-tgfp/12int-pakistan-mediation-tgfp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] To Fill Drone Force Ranks, Russia Targets a New Demographic: Students</title>
+      <link>https://www.nytimes.com/2026/04/13/world/europe/russia-.html</link>
+      <summary>Recruitment sessions have taken place at hundreds of universities and colleges across the country.</summary>
+      <pubDate>Mon, 13 Apr 2026 09:02:51 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-russia-drones-zhpq/00int-russia-drones-zhpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +78,39 @@
       <priority>75</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/arts/12int-dutch-royals/12int-dutch-royals-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Orban Loss May Ease Hungary’s Tensions with European Union</title>
+      <link>https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html</link>
+      <summary>Prime Minister Viktor Orban has stymied the European Union for years, and particularly in recent months. Peter Magyar’s election could change that, if only so much.</summary>
+      <pubDate>Mon, 13 Apr 2026 04:00:06 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-hungary-eu-assess-fqjm/13int-hungary-eu-assess-fqjm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] In Myanmar, Even Flowers Stoke Fear</title>
+      <link>https://www.nytimes.com/2026/04/13/world/asia/myanmar-war-military-fear.html</link>
+      <summary>Myanmar’s generals have brutalized the country for decades. But they have come to dread garlands as a sign of resistance.</summary>
+      <pubDate>Mon, 13 Apr 2026 04:31:36 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/02/08/multimedia/00int-myanmar-fear-01-hgvq/00int-myanmar-fear-01-hgvq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Pope Leo Heads to Africa to Meet the Future of Catholicism</title>
+      <link>https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html</link>
+      <summary>On a four-country tour of the continent, where the faith is growing faster than anywhere else, the pontiff will be greeted by enthusiastic crowds and authoritarian leaders.</summary>
+      <pubDate>Mon, 13 Apr 2026 04:01:13 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-pope-africa-01-tpvw/12int-pope-africa-01-tpvw-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

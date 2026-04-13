@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-13T12:03:27.321656</generated>
+  <generated>2026-04-13T13:04:03.838984</generated>
   <items>
     <item>
       <title>Iran live updates: US blockade of Iran's Strait of Hormuz ports to begin Monday</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Mon, 13 Apr 2026 04:28:50 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 05:48:21 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/iran-hormuz-20260412-rt-jh_1776004938982_hpMain_2_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Congress returning from 2-week recess as Iran debate rages and members face expulsion</title>
+      <link>https://abcnews.com/Politics/congress-returning-2-week-recess-iran-war-debate/story?id=131929820</link>
+      <summary>House and Senate Dems plan to force votes on Iran war powers resolutions.</summary>
+      <pubDate>Mon, 13 Apr 2026 05:49:31 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Politics/mike-johnson-gty-jef-260410_1775854959444_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Rep. Eric Swalwell suspends campaign for governor amid sexual assault allegations</title>
-      <link>https://abcnews.com/Politics/california-rep-eric-swalwell-denies-former-staffers-accusation/story?id=131933526</link>
-      <summary>Democratic Rep. Eric Swalwell, who is currently running for California governor, is denying accusations made by a former staffer.</summary>
-      <pubDate>Sun, 12 Apr 2026 23:37:42 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/swalwell-02-ap-jt-260410_1775858196090_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Election loss for Hungarian PM Orbán has ripple effects for Trump, US conservatives</title>
       <link>https://abcnews.com/US/wireStory/election-loss-hungarian-prime-minister-orbn-ripple-effects-131982673</link>
       <summary>The big election over the weekend was in a small European country nearly half a world away from Washington, but the defeat of Hungarian Prime Minister Viktor Orb&amp;aacute;n has significant reverberations in the United States</summary>
@@ -71,7 +71,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] WATCH: A dog’s remarkable reunion with its owner a decade in the making</title>
+      <title>WATCH: A dog’s remarkable reunion with its owner a decade in the making</title>
       <link>https://abcnews.com/video/131974758/</link>
       <summary>A woman reunites with beloved pitbull, Forty, 10 years after he was stolen from her Philadelphia backyard back in 2015.</summary>
       <pubDate>Mon, 13 Apr 2026 00:24:26 -0400</pubDate>
@@ -82,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] WATCH: Artemis II crew reunites with their families</title>
+      <title>WATCH: Artemis II crew reunites with their families</title>
       <link>https://abcnews.com/video/131974767/</link>
       <summary>ABC's Jaclyn Lee on NASA looking ahead to Artemis III, set to launch in 2027 as the Artemis II crew is welcomed back to Earth and reunited with their loved ones.</summary>
       <pubDate>Mon, 13 Apr 2026 00:20:11 -0400</pubDate>
