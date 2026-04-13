@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-13T15:06:10.481428</generated>
+  <generated>2026-04-13T16:02:12.953874</generated>
   <total_articles>333</total_articles>
   <items>
     <item>
@@ -36,6 +36,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Iran carried out highest number of executions in decades</title>
+      <link>https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.</summary>
+      <pubDate>Mon, 13 Apr 2026 12:53:00 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7928/live/7bca2800-3730-11f1-872e-dbe4122cf753.jpg</image>
       </media>
     </item>
     <item>
@@ -94,25 +105,14 @@
       </media>
     </item>
     <item>
-      <title>Has US achieved its war objectives in Iran?</title>
-      <link>https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.</summary>
-      <pubDate>Thu, 09 Apr 2026 13:11:03 GMT</pubDate>
+      <title>How many ships are crossing the Strait of Hormuz?</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Four vessels have crossed the Strait of Hormuz ahead of a US military blockade of Iranian ports set to begin on Monday.</summary>
+      <pubDate>Mon, 13 Apr 2026 10:18:02 GMT</pubDate>
       <source>bbc-middle-east</source>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e2/live/ece59190-33f8-11f1-a4ee-f9cebb92412a.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC</title>
-      <link>https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.</summary>
-      <pubDate>Thu, 09 Apr 2026 17:11:59 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2c/live/d3282f30-33fb-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
       </media>
     </item>
   </items>
