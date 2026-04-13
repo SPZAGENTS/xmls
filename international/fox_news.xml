@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-13T06:01:27.312643</generated>
+  <generated>2026-04-13T07:02:45.436093</generated>
   <items>
     <item>
       <title>Trump voices frustration with NATO, says Iranian navy ‘destroyed’ as US preps for blockade</title>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>5 Tax Day food deals to score, from free treats to BOGO subs and more</title>
-      <link>https://www.foxnews.com/food-drink/5-tax-day-food-deals-score-from-free-treats-bogo-subs-more</link>
-      <summary>As Tax Day approaches, restaurant chains like Subway, Olive Garden and Qdoba are offering deals and discounts to help diners save on meals this April.</summary>
-      <pubDate>Sun, 12 Apr 2026 16:14:15 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/woman-eating-takeout-sofa-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Bruce Springsteen's former drummer pushes back on the Boss's political attacks on Trump: 'Gotta have respect'</title>
       <link>https://www.foxnews.com/entertainment/bruce-springsteens-former-drummer-pushes-back-bosss-political-attacks-trump-gotta-respect</link>
       <summary>Bruce Springsteen&amp;apos;s former drummer Vini Lopez speaks out against the Boss&amp;apos;s anti-Trump rhetoric, saying everyone should respect the president.</summary>
@@ -89,6 +78,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jd-vance-pakistan-news-conference-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Starving toddler ate diapers and drywall before dying in filthy room while parents lived clean, police say</title>
+      <link>https://www.foxnews.com/us/starved-toddler-died-neglect-after-eating-diapers-drywall-filthy-room-parents-room-kept-clean</link>
+      <summary>An Indiana couple was arrested and hit with neglect and murder charges after their starving toddler died from eating diapers and drywall to survive.</summary>
+      <pubDate>Sun, 12 Apr 2026 21:40:44 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/indiana-couple-starving-toddler-arrested-cops.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
