@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-13T21:04:01.542483</generated>
+  <generated>2026-04-13T22:01:05.581391</generated>
   <items>
     <item>
       <title>Sánchez returns to China as Spain seeks deeper ties amid Iran war tensions</title>
@@ -52,7 +52,7 @@
       <title>An underwater bus in Havana becomes the ride that matters during Cuba's fuel crisis</title>
       <link>https://abcnews.com/International/wireStory/underwater-bus-havana-ride-matters-cubas-fuel-crisis-131983466</link>
       <summary>In Havana, a special underwater bus has become essential as Cuba faces its worst energy crisis in decades</summary>
-      <pubDate>Mon, 13 Apr 2026 03:14:33 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 13:14:16 -0400</pubDate>
       <priority>85</priority>
       <media>
         <image>https://s.abcnews.com/images/Weird/wirestory_651702a70d12c3f54ee6018d532e9e54_4x3_384.jpg</image>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>A Nigerian military strike targeting jihadi rebels hit a market, killing at least 100 people, rights group and media say</title>
-      <link>https://abcnews.com/International/wireStory/nigerian-military-strike-targeting-jihadi-rebels-hit-market-131972031</link>
-      <summary>A Nigerian military strike targeting jihadi rebels hit a market, killing at least 100 people, rights group and media say</summary>
-      <pubDate>Mon, 13 Apr 2026 08:03:53 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Hungarian Prime Minister Orbán is ejected after 16 years in a European electoral earthquake</title>
       <link>https://abcnews.com/International/wireStory/hungarian-prime-minister-viktor-orbn-concedes-defeat-after-131965262</link>
       <summary>It ends 16 years in power for a figure in far-right movement allied with Trump.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/Peter-Magyar-rt-gmh-260412_1776039768523_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Philippine President Marcos debunks health rumors with jumping jacks</title>
+      <link>https://abcnews.com/International/wireStory/philippine-president-marcos-debunks-health-rumors-jumping-jacks-131986532</link>
+      <summary>Philippine President Ferdinand Marcos Jr. has dismissed rumors about his health by doing jumping jacks and jogging outside his office</summary>
+      <pubDate>Mon, 13 Apr 2026 08:10:03 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Weird/wirestory_10041aaa1dca49fa2ba29e4da7fd9334_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

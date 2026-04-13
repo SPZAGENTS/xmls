@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-13T21:03:53.934193</generated>
+  <generated>2026-04-13T22:00:58.100482</generated>
   <items>
+    <item>
+      <title>Pakistani general says Iran diplomacy still 'alive,' despite US blockade, failed talks</title>
+      <link>https://www.foxnews.com/world/pakistani-general-says-iran-diplomacy-still-alive-despite-us-blockade-failed-talks</link>
+      <summary>The U.S. naval blockade on Iran may be leverage to resume diplomacy, says retired Pakistani general, as both sides were reportedly close to a deal.</summary>
+      <pubDate>Mon, 13 Apr 2026 14:44:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/islamabad-talks.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz</title>
       <link>https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz</link>
@@ -100,17 +111,6 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Viktor Orbán concedes defeat as opposition leader heads for potential supermajority win</title>
-      <link>https://www.foxnews.com/world/viktor-orban-concedes-defeat-opposition-leader-heads-potential-supermajority-win</link>
-      <summary>Orbán conceded defeat Sunday as opposition leader Péter Magyar surged toward a landslide victory, signaling a major political shift in Hungary.</summary>
-      <pubDate>Sun, 12 Apr 2026 15:52:12 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/viktor-orban-march-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

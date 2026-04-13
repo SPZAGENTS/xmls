@@ -2,11 +2,11 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-13T21:04:03.438422</generated>
+  <generated>2026-04-13T22:01:07.238051</generated>
   <total_articles>338</total_articles>
   <items>
     <item>
-      <title>The US blockade of Iran is a gamble. Will it work?</title>
+      <title>This blockade is a gamble. Will it work?</title>
       <link>https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.</summary>
       <pubDate>Mon, 13 Apr 2026 15:27:43 GMT</pubDate>
@@ -17,7 +17,7 @@
       </media>
     </item>
     <item>
-      <title>How many ships are crossing the Strait of Hormuz?</title>
+      <title>Tracking the ships crossing the Strait of Hormuz</title>
       <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.</summary>
       <pubDate>Mon, 13 Apr 2026 16:37:57 GMT</pubDate>
@@ -36,17 +36,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/2a47f820-375a-11f1-a6a0-913b15480fa1.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>How the Iran war affects your money and bills</title>
-      <link>https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.</summary>
-      <pubDate>Mon, 13 Apr 2026 11:59:19 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894d/live/6f6e84b0-33e4-11f1-bcd5-f5e97411e751.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>How many ships are crossing the Strait of Hormuz?</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The first vessel has crossed the Strait of Hormuz after the US imposed a military blockade of Iran's ports.</summary>
+      <pubDate>Mon, 13 Apr 2026 16:37:57 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
       </media>
     </item>
   </items>
