@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-14T19:01:36.095992</generated>
+  <generated>2026-04-14T20:03:37.251693</generated>
   <items>
     <item>
       <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Trump squeezed between Israel and Turkey as Netanyahu, Erdogan escalate feud</title>
+      <link>https://www.foxnews.com/world/trump-squeezed-between-israel-turkey-netanyahu-erdogan-escalate-feud</link>
+      <summary>Israel–Turkey tensions escalate sharply as Netanyahu and Erdogan clash over Gaza, Iran and regional influence, creating a diplomatic challenge for Trump.</summary>
+      <pubDate>Tue, 14 Apr 2026 12:03:10 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/netanyahu-trump-erdogan.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Zelenskyy announces 'the future is here' after war's first all-robot capture</title>
       <link>https://www.foxnews.com/world/zelenskyy-announces-the-future-here-after-wars-first-all-robot-capture</link>
       <summary>Ukraine captured a Russian position using only unmanned robots and drones, Zelenskyy says, calling it a first in the history of the war with Russia.</summary>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-macron-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran secures UN role with backing from UK, France, Canada, Australia as US stands alone</title>
-      <link>https://www.foxnews.com/world/iran-secures-un-role-backing-from-uk-france-canada-australia-us-stands-alone</link>
-      <summary>Western democracies face backlash for allowing Iran and other authoritarian regimes to secure influential U.N. seats as the U.S. stood alone in opposition.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:38:34 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mike-waltz-unsc-iran-meeting.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

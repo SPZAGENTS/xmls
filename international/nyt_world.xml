@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-14T19:01:38.406803</generated>
+  <generated>2026-04-14T20:03:39.217207</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Israel and Lebanon Begin Direct Talks as Strikes Go On</title>
       <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
       <summary>Israel launched new attacks in southern Lebanon in its campaign against Iran-backed Hezbollah. As Israeli and Lebanese officials prepared to meet in Washington, the fighting in Lebanon remained a sticking point in the fragile cease-fire with Iran.</summary>
-      <pubDate>Tue, 14 Apr 2026 15:55:21 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 16:58:51 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-promo-fltw/14israel-iran-promo-fltw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-talks-pwqf/14israel-iran-talks-pwqf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Israelis Don’t Feel Much Like Victors in War With Iran</title>
-      <link>https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html</link>
-      <summary>The regime in Iran has not changed and the nuclear and missile threats have not been eliminated, leaving many Israelis to wonder what this was all for.</summary>
-      <pubDate>Tue, 14 Apr 2026 06:56:17 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-Israel-Assess-fvbg/13int-Israel-Assess-fvbg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Italy Suspends Defense Pact With Israel, Further Straining Ties</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/italy-israel-defense-pact.html</link>
       <summary>The move by Italy, once considered a strong ally of Israel, reflected growing anger over Israeli aggression in the Middle East. President Trump criticized Italy’s stance on the war.</summary>
@@ -111,6 +100,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-ship-movements-vzkc/14israel-iran-ship-movements-vzkc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
+      <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
+      <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
+      <pubDate>Tue, 14 Apr 2026 16:49:36 +0000</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-orban-europe-legacy-jpfc/14int-orban-europe-legacy-jpfc-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
