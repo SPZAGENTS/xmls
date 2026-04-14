@@ -2,16 +2,27 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T16:03:56.892404</generated>
+  <generated>2026-04-14T18:01:33.805387</generated>
   <items>
     <item>
       <title>Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 14 Apr 2026 06:39:06 -0400</pubDate>
+      <pubDate>Tue, 14 Apr 2026 10:51:59 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tehran-DB-260414_1776151113310_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: President Trump and Pope Leo in disagreement over war in Iran</title>
+      <link>https://abcnews.com/video/132028834/</link>
+      <summary>Trump and Pope Leo's disagreement over the war in Iran was amplified after Trump attacked the pope on social media and posted a now-deleted AI-generated image that depicted him as a Jesus-like figure.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:37:09 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260414_abc_social_trump_pope1_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +60,24 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Pilot speaks out after crash landing</title>
-      <link>https://abcnews.com/video/132021984/</link>
-      <summary>A small plane landed on a busy Phoenix street, with officials calling it a miracle that no one was seriously injured in the plane or on the ground.</summary>
-      <pubDate>Tue, 14 Apr 2026 07:39:35 -0400</pubDate>
+      <title>WATCH: Doctor delivers 2 sets of twins on his 34th birthday</title>
+      <link>https://abcnews.com/video/132029544/</link>
+      <summary>A Pennsylvania doctor delivered two sets of twins on April 8, which happened to be his 34th birthday.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:45:33 -0400</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260414_gma_champion_plane_714_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/260414_gma_digital_twins_vert_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>WATCH: Police shoot and kill machete-wielding man in New York City</title>
-      <link>https://abcnews.com/video/131987997/</link>
-      <summary>The man allegedly attacked three people waiting for the subway in Grand Central Station, police said.</summary>
-      <pubDate>Mon, 13 Apr 2026 11:30:50 -0400</pubDate>
-      <priority>75</priority>
+      <title>WATCH: Pilot speaks out after crash landing</title>
+      <link>https://abcnews.com/video/132021984/</link>
+      <summary>A small plane landed on a busy Phoenix street, with officials calling it a miracle that no one was seriously injured in the plane or on the ground.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:50:28 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/260413_gma_katersky_machete_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/GMA/260414_gma_champion_plane_714_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] WATCH: Artemis II astronaut reunites with her dog</title>
+      <title>WATCH: 2026 Rock &amp; Roll Hall of Fame inductees revealed</title>
+      <link>https://abcnews.com/video/132024568/</link>
+      <summary>Phil Collins, Billy Idol, Iron Maiden and Oasis are among this year's inductees, announced on a Rock &amp; Roll Hall of Fame-themed episode of "American Idol."</summary>
+      <pubDate>Tue, 14 Apr 2026 10:39:31 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260414_gma_pop2_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Artemis II astronaut reunites with her dog</title>
       <link>https://abcnews.com/video/132023370/</link>
       <summary>Mission specialist Christina Koch posted her reunion with her pup after spending 10 days in space.</summary>
-      <pubDate>Tue, 14 Apr 2026 08:24:28 -0400</pubDate>
+      <pubDate>Tue, 14 Apr 2026 09:14:30 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260414_gma_playoftheday_747_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: The top internet searches surrounding Trump's now deleted AI post</title>
-      <link>https://abcnews.com/video/132009927/</link>
-      <summary>An AI-generated image that President Donald Trump posted Monday on his social media platform that depicted him as a Jesus-like figure is drawing criticism and interest online.</summary>
-      <pubDate>Mon, 13 Apr 2026 19:34:30 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260413_abcnl_searched_new_spiral_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Rising fuel costs strain volunteer fire departments nationwide</title>
-      <link>https://abcnews.com/video/132006932/</link>
-      <summary>Fire chief James Pollock explains how higher prices are squeezing budgets, slowing recruitment and impacting emergency responses.</summary>
-      <pubDate>Mon, 13 Apr 2026 19:25:06 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260413_abcnl_3p_pollock_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
