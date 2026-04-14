@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-14T16:03:51.513321</generated>
+  <generated>2026-04-14T17:15:10.387507</generated>
   <items>
     <item>
       <title>Pope responds to president’s insults: ‘I have no fear of the Trump administration’</title>
@@ -40,10 +40,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Peace with Iran hinges on one side bowing to the other’s nuclear demands</title>
+      <title>Peace with Iran hinges on nuclear compromise, and the two sides are miles apart</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/</link>
       <summary>The Trump administration has sought a moratorium on uranium enrichment of at least 20 years. Tehran’s offer would last up to five.</summary>
       <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>Orban’s defeat offers warning signs for Trump allies</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-orban-conservative-movement/</link>
+      <summary>Some factors that harmed Orban may also apply to Republicans in this year’s midterm elections, say American conservatives who backed the Hungarian leader.</summary>
+      <pubDate>Mon, 13 Apr 2026 22:56:26 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/14/olivia-troye-congress-democrat-virginia/</link>
       <summary>She joins other former Republicans and Trump administration officials running for office as critics of the president. The district would open up if voters approve a new map.</summary>
       <pubDate>Tue, 14 Apr 2026 11:00:24 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>White House says it’s boosting affordability through physician reforms</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-administration-healthcare-changes/</link>
-      <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>

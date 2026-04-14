@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-14T16:03:50.116405</generated>
+  <generated>2026-04-14T17:15:08.737730</generated>
   <items>
     <item>
       <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Inside Tehran after strikes: Iranian woman describes fear, checkpoints and people used as ‘human shields’</title>
-      <link>https://www.foxnews.com/world/inside-tehran-after-strikes-iranian-woman-describes-fear-checkpoints-people-human-shields</link>
-      <summary>An anonymous Iranian woman detailed to The Australian the nightly explosions, celebrations and fear in Tehran as Trump&amp;apos;s two-week ceasefire with Iran tentatively took hold.</summary>
-      <pubDate>Thu, 09 Apr 2026 19:48:17 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/iranians-enqelab-square-tehran-ceasefire-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran in crisis as US talks collapse, Mojtaba’s ‘mafia’ regime blocks Khamenei burial: analyst</title>
       <link>https://www.foxnews.com/world/iran-crisis-us-talks-collapse-mojtabas-mafia-regime-blocks-khamenei-burial-analyst</link>
       <summary>Analyst says Iran&amp;apos;s delay in burying Supreme Leader Khamenei over 40 days after his killing reveals a deepening crisis inside the Islamic Republic.</summary>
@@ -100,6 +89,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Kim Jong Un oversees cruise missile launches from prized new North Korean warship</title>
+      <link>https://www.foxnews.com/world/kim-jong-un-oversees-cruise-missile-launches-from-prized-new-north-korean-warship</link>
+      <summary>State media claims Kim Jong Un watched cruise and anti-ship missile launches from North Korea&amp;apos;s new warship Choe Hyon during Sunday&amp;apos;s weapons tests.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:03:24 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/north-korea-missile-test-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
