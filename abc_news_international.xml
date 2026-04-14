@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-14T03:04:27.180900</generated>
+  <generated>2026-04-14T04:05:02.138986</generated>
   <items>
     <item>
       <title>Sánchez returns to China as Spain seeks deeper ties amid Iran war tensions</title>
@@ -27,7 +27,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Pope making first papal visit to Algeria to launch Africa trip, honor St. Augustine</title>
+      <title>Pope making first papal visit to Algeria to launch Africa trip, honor St. Augustine</title>
       <link>https://abcnews.com/International/wireStory/pope-making-papal-visit-algeria-launch-africa-trip-131983253</link>
       <summary>Pope Leo XIV has arrived in Algeria for a first-ever papal visit, calling for peace amid the U.S.-Israeli war with Iran</summary>
       <pubDate>Mon, 13 Apr 2026 09:39:04 -0400</pubDate>
@@ -49,13 +49,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Antisemitic attacks in 2025 led to highest number of deaths in decades, study finds</title>
+      <title>Antisemitic attacks in 2025 led to highest number of deaths in decades, study finds</title>
       <link>https://abcnews.com/International/wireStory/antisemitic-attacks-2025-led-highest-number-fatalities-30-131985559</link>
       <summary>A new study says that 2025 saw the highest number of deaths from antisemitic attacks in over 30 years around the world</summary>
       <pubDate>Mon, 13 Apr 2026 07:38:57 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_6b50a82aee9c310418a29b5da5c96c28_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] North Korean leader supervises missile tests from his naval destroyer</title>
+      <link>https://abcnews.com/International/wireStory/north-korean-leader-supervises-missile-tests-naval-destroyer-132012140</link>
+      <summary>North Korean leader Kim Jong Un supervised more missile tests from his prized new warship over the weekend, state media said Tuesday, as he pledged to boost the navy&amp;rsquo;s operational capabilities with his growing collection of nuclear-capable weapons</summary>
+      <pubDate>Mon, 13 Apr 2026 20:51:59 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_1c5901b2aadc7b6a3ba2e9c603063f11_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,7 +93,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Haiti arrests 5 police officers and 2 other suspects over deadly fortress stampede</title>
+      <title>Haiti arrests 5 police officers and 2 other suspects over deadly fortress stampede</title>
       <link>https://abcnews.com/International/wireStory/haiti-arrests-5-police-officers-2-suspects-deadly-132011282</link>
       <summary>Authorities in Haiti have arrested seven suspects, including five police officers, after a fatal stampede killed at least 25 people at a historic mountaintop fortress over the weekend</summary>
       <pubDate>Mon, 13 Apr 2026 19:43:27 -0400</pubDate>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Winners of the 2026 Olivier Awards celebrating work on the London stage</title>
-      <link>https://abcnews.com/International/wireStory/winners-2026-olivier-awards-celebrating-work-london-stage-131974454</link>
-      <summary>The Olivier Awards have recognized top achievements in London theater, opera, and dance for 2026.&amp;quot;</summary>
-      <pubDate>Mon, 13 Apr 2026 08:03:13 -0400</pubDate>
-      <priority>75</priority>
+      <title>Philippine President Marcos debunks health rumors with jumping jacks</title>
+      <link>https://abcnews.com/International/wireStory/philippine-president-marcos-debunks-health-rumors-jumping-jacks-131986532</link>
+      <summary>Philippine President Ferdinand Marcos Jr. has dismissed rumors about his health by doing jumping jacks and jogging outside his office</summary>
+      <pubDate>Mon, 13 Apr 2026 08:10:03 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/wirestory_15d2a7aa8748e13a0f875b8da2e775fb_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>London police arrest more than 200 at protest backing banned group Palestine Action</title>
-      <link>https://abcnews.com/International/wireStory/london-police-arrest-200-protest-backing-banned-group-131953878</link>
-      <summary>London police have arrested more than 200 people during a protest against the ban on the group Palestine Action</summary>
-      <pubDate>Sat, 11 Apr 2026 14:06:07 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_e07941773b6b7f2be75e27c21853ad2c_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/Weird/wirestory_10041aaa1dca49fa2ba29e4da7fd9334_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
