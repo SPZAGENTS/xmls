@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-14T10:03:14.667460</generated>
+  <generated>2026-04-14T11:04:00.804996</generated>
   <items>
     <item>
       <title>BBC joins paramedics on duty in Lebanon after Israeli strikes</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Nigeria Air Force orders investigation after dozens killed in airstrike</title>
-      <link>https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>There are reports that more than 100 people were killed, although the authorities have not commented.</summary>
-      <pubDate>Mon, 13 Apr 2026 10:52:08 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4de/live/595144b0-3722-11f1-b46f-35375c141ae5.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lebanon seeks peace, but Hezbollah needs to be convinced first</title>
       <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
@@ -78,6 +67,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a9/live/d0bea210-3423-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>South Korea jails 90-year-old woman for laundering son's drug money</title>
+      <link>https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.</summary>
+      <pubDate>Tue, 14 Apr 2026 07:00:47 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1453/live/c4be3860-37cd-11f1-af91-3517da4ddb55.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
