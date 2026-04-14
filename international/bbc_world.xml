@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-14T03:04:19.054236</generated>
+  <generated>2026-04-14T04:04:53.651286</generated>
   <items>
     <item>
       <title>BBC joins paramedics on duty in Lebanon after Israeli strikes</title>
@@ -34,28 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2233/live/67b4bd10-36d8-11f1-951e-7783ff0b6757.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>The US blockade of Iran is a gamble. Will it work?</title>
-      <link>https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:27:43 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849e/live/6ff30700-3752-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump's threat raises risks and leaves predicaments unchanged</title>
-      <link>https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:57:22 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,13 +71,24 @@
       </media>
     </item>
     <item>
-      <title>At least 30 feared dead in crush at Haitian tourist site</title>
-      <link>https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The incident occurred at a "tourist event attended by many young people", Haiti's prime minister says.</summary>
-      <pubDate>Sun, 12 Apr 2026 07:22:28 GMT</pubDate>
-      <priority>80</priority>
+      <title>Lebanon enters talks with Israel but with no cards to play</title>
+      <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
+      <pubDate>Mon, 13 Apr 2026 23:26:46 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming</title>
+      <link>https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Footage shows staff injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.</summary>
+      <pubDate>Mon, 13 Apr 2026 23:27:45 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a9/live/d0bea210-3423-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5159/live/a4079590-375e-11f1-bc2b-eff7479d60c4.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Britney Spears goes into rehab after driving under the influence arrest</title>
+      <link>https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The singer voluntarily checks herself into a treatment facility, three weeks before her court date.</summary>
+      <pubDate>Mon, 13 Apr 2026 08:14:14 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
