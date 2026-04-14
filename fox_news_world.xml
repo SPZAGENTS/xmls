@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-14T18:01:25.023503</generated>
+  <generated>2026-04-14T19:01:36.095992</generated>
   <items>
     <item>
       <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
@@ -45,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/pope-leo-xiv-vigil-st-peters-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran's supreme leader severely disfigured by US strikes: report</title>
-      <link>https://www.foxnews.com/world/irans-supreme-leader-severely-disfigured-us-strikes-report</link>
-      <summary>Iranian Supreme Leader Mojtaba Khamenei is severely disfigured after U.S.-Israel airstrikes on Tehran killed his father, according to a Reuters report citing anonymous sources.</summary>
-      <pubDate>Sat, 11 Apr 2026 13:30:02 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/tehran-explosions-israeli-attacks-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-macron-2.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran secures UN role with backing from UK, France, Canada, Australia as US stands alone</title>
+      <link>https://www.foxnews.com/world/iran-secures-un-role-backing-from-uk-france-canada-australia-us-stands-alone</link>
+      <summary>Western democracies face backlash for allowing Iran and other authoritarian regimes to secure influential U.N. seats as the U.S. stood alone in opposition.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:38:34 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mike-waltz-unsc-iran-meeting.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
