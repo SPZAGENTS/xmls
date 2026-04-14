@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-14T23:09:33.023364</generated>
+  <generated>2026-04-15T01:01:24.594746</generated>
   <items>
     <item>
       <title>Sánchez returns to China as Spain seeks deeper ties amid Iran war tensions</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_05d198d6e8dc99d0209dddfff26ae52a_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Xi and Sánchez say China and Spain should help safeguard multilateralism</title>
+      <link>https://abcnews.com/International/wireStory/xi-snchez-china-spain-safeguard-multilateralism-132018367</link>
+      <summary>The leaders of China and Spain on Tuesday have pledged to strengthen their relations and work to safeguard multilateralism at a time when the world is being impacted by various conflicts, including the recent war in Iran</summary>
+      <pubDate>Tue, 14 Apr 2026 05:46:34 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e184d1a7f76029ee4d67880e2f241bf0_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Heavy rains in northwestern Haiti kill 12 people and damage hundreds of homes</title>
+      <title>Heavy rains in northwestern Haiti kill 12 people and damage hundreds of homes</title>
       <link>https://abcnews.com/International/wireStory/heavy-rains-northwestern-haiti-kill-12-people-damage-132038835</link>
       <summary>Authorities say heavy rains in northwestern Haiti killed at least 12 people, flooded farmland and damaged hundreds of homes</summary>
       <pubDate>Tue, 14 Apr 2026 15:56:17 -0400</pubDate>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_135201391d0247e5ab5a2392f30fe906_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Spain finalizes amnesty measure for up to hundreds of thousands of immigrants</title>
-      <link>https://abcnews.com/International/wireStory/spain-finalizes-amnesty-measure-hundreds-thousands-immigrants-132023041</link>
-      <summary>Spain's government has finalized a migrant amnesty measure that paves the way for potentially hundreds of thousands of undocumented immigrants to apply for legal status</summary>
-      <pubDate>Tue, 14 Apr 2026 11:38:22 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_255b9c28a05c496851864b60f0766008_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
