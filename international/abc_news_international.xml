@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-14T11:04:09.347786</generated>
+  <generated>2026-04-14T12:01:02.469793</generated>
   <items>
     <item>
       <title>Sánchez returns to China as Spain seeks deeper ties amid Iran war tensions</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Outcome of Peruvian presidential election unknown after voting stretches into a second day</title>
-      <link>https://abcnews.com/International/wireStory/peru-election-results-delayed-after-thousands-day-voting-131980729</link>
-      <summary>Peruvians still don't know the outcome of Sunday's presidential election after a ballot delivery issue forced authorities to extend voting by a day</summary>
-      <pubDate>Mon, 13 Apr 2026 23:06:03 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_ed0d37b1253b5acec4a6a14c2308e1f8_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Antisemitic attacks in 2025 led to highest number of deaths in decades, study finds</title>
       <link>https://abcnews.com/International/wireStory/antisemitic-attacks-2025-led-highest-number-fatalities-30-131985559</link>
       <summary>A new study says that 2025 saw the highest number of deaths from antisemitic attacks in over 30 years around the world</summary>
@@ -85,7 +74,7 @@
       <title>Afghanistan's capital is in the grip of a water crisis</title>
       <link>https://abcnews.com/International/wireStory/afghanistans-capital-grip-water-crisis-132018477</link>
       <summary>Nestled in a high-altitude valley in Afghanistan's Hindu Kush mountain range, Kabul is rapidly running out of water</summary>
-      <pubDate>Tue, 14 Apr 2026 03:47:50 -0400</pubDate>
+      <pubDate>Tue, 14 Apr 2026 04:02:36 -0400</pubDate>
       <priority>85</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_98a52f7afe770c37e2030bc7a884f5d3_4x3_384.jpg</image>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_63e33678756c168845864cc5dfbd5062_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Bahamas police release Michigan man questioned after his wife disappeared from the couple’s boat</title>
+      <link>https://abcnews.com/International/wireStory/bahamas-police-release-michigan-man-questioned-after-wife-132014618</link>
+      <summary>Police in the Bahamas have released a Michigan man who said his wife disappeared after falling overboard from a small boat in waters off the island nation</summary>
+      <pubDate>Tue, 14 Apr 2026 03:36:42 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

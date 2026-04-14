@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-14T11:04:02.834644</generated>
+  <generated>2026-04-14T12:00:56.162534</generated>
   <items>
     <item>
       <title>U.S. imposes naval blockade as Trump demands Iran end nuclear program</title>
@@ -10,6 +10,13 @@
       <summary>Peace talks broke down over Iran’s nuclear program, which has survived two decades of international diplomacy seeking to curtail it and more than five weeks of bombing.</summary>
       <pubDate>Mon, 13 Apr 2026 20:48:31 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Peace with Iran hinges on one side bowing to the other’s nuclear demands</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/</link>
+      <summary>The Trump administration has sought a moratorium on uranium enrichment of at least 20 years. Tehran’s offer would last up to five.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Hungary’s opposition cheers Orban’s fall but faces challenging transition</title>
@@ -61,18 +68,11 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>On Africa trip, Pope Leo will face debate over polygamy as Catholicism booms</title>
-      <link>https://www.washingtonpost.com/world/2026/04/12/pope-leo-africa-trip-polygamy/</link>
-      <summary>Leo’s early papacy has been defined largely by his response to President Donald Trump but a 10-day trip, starting Monday, will let the pope focus on spreading the faith.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:00:44 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>10 presidents in 10 years: Peru’s leaders don’t last. Voters will try again.</title>
-      <link>https://www.washingtonpost.com/world/2026/04/12/peru-election-keiko-fujimori/</link>
-      <summary>Elections on Sunday offer Peruvians another once-in-five-years chance to set the nation on a new path. All signs suggest they won’t.</summary>
-      <pubDate>Sun, 12 Apr 2026 08:59:07 +0000</pubDate>
-      <priority>65</priority>
+      <title>World’s oldest gorilla, known for her ‘dignified manner,’ turns 69</title>
+      <link>https://www.washingtonpost.com/lifestyle/2026/04/14/worlds-oldest-gorilla-fatou-berlin/</link>
+      <summary>Legend has it that Fatou was brought from Africa to France in the late 1950s by a sailor who then traded her to settle a bar bill.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:05 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>

@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-14T11:04:04.140008</generated>
+  <generated>2026-04-14T12:00:57.173532</generated>
   <items>
     <item>
       <title>Iran Proposes Suspending Nuclear Activity for Up to 5 Years</title>
       <link>https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news</link>
       <summary>Vice President JD Vance sought a 20-year suspension in weekend negotiations, which ended without an agreement a day before the U.S. military blockade of the Strait of Hormuz began. President Trump rejected the Iranian offer.</summary>
-      <pubDate>Tue, 14 Apr 2026 07:57:34 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 08:19:10 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-promo-915pm-jqlc/13israel-iran-promo-915pm-jqlc-mediumSquareAt3X.jpg</image>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>In Rare Direct Talks, Israeli and Lebanese Officials Look for Way Forward</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html</link>
+      <summary>The talks, set for Tuesday in Washington, were not expected to produce an immediate breakthrough in the war between Hezbollah and Israel.</summary>
+      <pubDate>Tue, 14 Apr 2026 08:50:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-israel-lebanon-talks-jlph/13israel-iran-israel-lebanon-talks-jlph-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Amid War, G.O.P. Puts Off Testimony From Senior Pentagon Commanders</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html</link>
       <summary>House lawmakers had been scheduled to hear testimony next week from the head of military operations in the Middle East, but the Republican majority postponed the hearing until late May.</summary>
@@ -34,17 +45,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-cong-fkzv/13israel-iran-cong-fkzv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What the U.S. Blockade of Iran and the Strait of Hormuz Might Look Like</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html</link>
-      <summary>The U.S. military has provided few details on how it might carry out President Trump’s orders as he seeks to pressure Tehran on a peace deal. But history and established practices offer some clues.</summary>
-      <pubDate>Mon, 13 Apr 2026 21:38:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13dc-blockade-explainer-qzkp/13dc-blockade-explainer-qzkp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -99,7 +99,7 @@
       <pubDate>Tue, 14 Apr 2026 07:39:21 +0000</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/cyclone-tracker-2025-four-wp042026-satellite_map/cyclone-tracker-2025-four-wp042026-satellite_map-mediumSquareAt3X-v24.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/cyclone-tracker-2025-four-wp042026-satellite_map/cyclone-tracker-2025-four-wp042026-satellite_map-mediumSquareAt3X-v25.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
