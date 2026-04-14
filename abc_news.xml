@@ -2,27 +2,16 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T23:09:32.398185</generated>
+  <generated>2026-04-15T00:04:13.297234</generated>
   <items>
     <item>
-      <title>Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment</title>
+      <title>Iran live updates: Nearly 400 US service members wounded in war, official says</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:08:39 -0400</pubDate>
+      <pubDate>Tue, 14 Apr 2026 17:01:00 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/Tehran-DB-260414_1776151113310_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: President Trump and Pope Leo in disagreement over war in Iran</title>
-      <link>https://abcnews.com/video/132028834/</link>
-      <summary>Trump and Pope Leo's disagreement over the war in Iran was amplified after Trump attacked the pope on social media and posted a now-deleted AI-generated image that depicted him as a Jesus-like figure.</summary>
-      <pubDate>Tue, 14 Apr 2026 13:27:04 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260414_abc_social_trump_pope1_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,13 +82,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] WATCH: Humanoid robot chasing wild boars in Poland goes viral</title>
+      <title>WATCH: Humanoid robot chasing wild boars in Poland goes viral</title>
       <link>https://abcnews.com/video/132039369/</link>
       <summary>Video of a humanoid robot chasing wild boars out of a Warsaw neighborhood and into the woods — and then waving goodbye — has gone viral in Poland.</summary>
       <pubDate>Tue, 14 Apr 2026 15:38:57 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/Entertainment/260414_abc_social_boar_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] WATCH: Parrot explores the ocean in DIY submarine</title>
+      <link>https://abcnews.com/video/132040969/</link>
+      <summary>An Iowa man invented a submarine for his parrot so that he didn't have to leave the bird alone during a trip to the Bahamas.</summary>
+      <pubDate>Tue, 14 Apr 2026 16:48:03 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Lifestyle/260414_abc_social_parrot_sub_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
