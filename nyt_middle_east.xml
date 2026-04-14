@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-14T14:04:43.543948</generated>
+  <generated>2026-04-14T15:06:36.918404</generated>
   <items>
+    <item>
+      <title>State of U.S. Blockade Is Unclear as Some Ships Transit Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/us-blockade-strait-hormuz-iran-ships-traffic.html</link>
+      <summary>Ship-tracking data showed that several vessels, including some that had been docked at Iranian ports, had moved through the strait as the U.S. military began its blockade.</summary>
+      <pubDate>Tue, 14 Apr 2026 11:48:45 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-ship-movements-vzkc/14israel-iran-ship-movements-vzkc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Ex-Student Wounds 16 in High School Shooting in Turkey</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/turkey-school-shooting-siverek.html</link>
@@ -102,13 +113,6 @@
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-blockade-questions-bfqm/12israel-iran-blockade-questions-bfqm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>Iran’s Underground Air Force Base Was Hit Earlier in the War</title>
-      <link>https://www.nytimes.com/2026/04/12/world/middleeast/iran-underground-air-force-base.html</link>
-      <summary>Satellite imagery shows impact craters at and near the tunnel entrances to aircraft shelters at Iran’s remote “Eagle 44” base.</summary>
-      <pubDate>Sun, 12 Apr 2026 19:52:14 +0000</pubDate>
-      <priority>100</priority>
     </item>
   </items>
 </content-feed>
