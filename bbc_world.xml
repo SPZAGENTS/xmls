@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-14T13:00:56.480390</generated>
+  <generated>2026-04-14T14:04:39.467130</generated>
   <items>
     <item>
       <title>'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e363/live/991a1670-376e-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Sixteen injured after ex-student opens fire at high school in Turkey</title>
+      <link>https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Students and teachers are among those who were injured in the attack in the country's south-east.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:38:55 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -45,6 +56,17 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/668181b0-372f-11f1-872e-dbe4122cf753.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Police officers among seven arrested over deadly Haiti stampede</title>
+      <link>https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:49:45 GMT</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a631/live/96b8ee20-37e0-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5159/live/a4079590-375e-11f1-bc2b-eff7479d60c4.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Britney Spears goes into rehab after driving under the influence arrest</title>
-      <link>https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The singer voluntarily checks herself into a treatment facility, three weeks before her court date.</summary>
-      <pubDate>Mon, 13 Apr 2026 08:14:14 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Philippines accuses Chinese fishermen of dumping cyanide in South China Sea</title>
-      <link>https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Beijing rejects the allegation as a "farce", while Manila claims the poison was used to kill fish and deprive troops stationed in the area of food.</summary>
-      <pubDate>Mon, 13 Apr 2026 19:17:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80d8/live/aa319d90-376c-11f1-a7e9-a1f2253df567.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,15 +2,8 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-14T13:01:06.800989</generated>
+  <generated>2026-04-14T14:04:49.903800</generated>
   <items>
-    <item>
-      <title>Pope Leo brushes off Trump criticism amid growing Vatican–U.S. tensions over Iran war</title>
-      <link>https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war</link>
-      <summary>Pope Leo XIV says he will not be deterred by criticism from President Trump, vowing to continue his calls for peace as tensions escalate between the Vatican and Washington over the Iran conflict.</summary>
-      <pubDate>Mon, 13 Apr 2026 06:43:31 -0400</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder</title>
       <link>https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail</link>
@@ -19,45 +12,52 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Trump vows to sink Iranian ships approaching a U.S. blockade of Strait of Hormuz</title>
-      <link>https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates</link>
-      <summary>President Trump said the U.S. would interdict vessels that had paid what he called an "illegal toll" to Iran to cross the Strait of Hormuz.</summary>
-      <pubDate>Mon, 13 Apr 2026 07:03:13 -0400</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>What a chimpanzee 'civil war' can teach us about how societies fall apart</title>
-      <link>https://www.npr.org/2026/04/13/nx-s1-5781149/chimpanzee-civil-war-primate-conflict-anthropology</link>
-      <summary>A long-term study of the world's largest known community of chimpanzees has documented a rare event: what the researchers describe as the primate equivalent of a "civil war."</summary>
-      <pubDate>Mon, 13 Apr 2026 06:00:00 -0400</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Why Congress is fighting over a central tool of American surveillance</title>
+      <title>Why Congress is fighting over a central tool of American surveillance</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance</link>
       <summary>Section 702 of the Foreign Intelligence Surveillance Act is responsible for a huge share of intel collected by the U.S. Lawmakers and civil liberties advocates are worried it enables warrantless spying on U.S. citizens.</summary>
       <pubDate>Tue, 14 Apr 2026 05:00:00 -0400</pubDate>
       <priority>85</priority>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Israel and Lebanon to hold first direct talks in decades</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5783943/israel-and-lebanon-to-hold-first-direct-talks-in-decades</link>
+      <summary>Diplomats from Israel and Lebanon will meet in Washington for rare direct talks.</summary>
+      <pubDate>Tue, 14 Apr 2026 04:42:46 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] The labor economics of Alien — and its lessons for inequality on Earth</title>
+      <link>https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth</link>
+      <summary>Behind the acid blood and jump scares of the Alien franchise is an even more insidious horror: a single employer with unchecked power. How Weyland-Yutani helps explain monopsony — and the rise of inequality on Earth.</summary>
+      <pubDate>Tue, 14 Apr 2026 06:30:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Two local TV giants merged. Then a court stepped in</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5782043/nexstar-tegna-local-tv-deal-lawsuit-antitrust</link>
+      <summary>Local TV giant Nexstar's $6.2 deal to acquire rival Tegna won speedy approval from Trump administration regulators. But it faces togh challenge from a pair of anti-trust lawsuits.</summary>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] In the brain, objects seen and imagined follow the same neural path</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5781219/brain-vision-neurons-imagine-new-things</link>
+      <summary>New evidence finds that sight and imagination rely on the same neurons and use the same neural code.</summary>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Jesuit priest shares how Catholics are reacting to Trump's criticism of Pope Leo</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5783880/jesuit-priest-shares-how-catholics-are-reacting-to-trumps-criticism-of-pope-leo</link>
+      <summary>NPR speaks with Father James Martin, a Jesuit priest and author, about how Catholics are reacting to President Trump's recent criticism of Pope Leo.</summary>
+      <pubDate>Tue, 14 Apr 2026 04:40:38 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class</title>
       <link>https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class</link>
       <summary>An inquiry found that a mass killing by a British teenager in 2024 at a Taylor Swift-themed dance class could have been prevented if his parents and state agencies had acted on his violence fixation.</summary>
       <pubDate>Tue, 14 Apr 2026 01:41:14 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>5 things to know about Péter Magyar, Hungary's new prime minister</title>
-      <link>https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election</link>
-      <summary>Magyar ended Hungarian Prime Minister Viktor Orbán's 16-year grip on power in a landslide victory on Sunday. The former Orbán loyalist burst onto the scene as an opposition leader in 2024.</summary>
-      <pubDate>Mon, 13 Apr 2026 13:56:07 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting</title>
-      <link>https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch</link>
-      <summary>In the order issued Monday, the judge wrote that President Trump had failed to make the argument that the article, which described a letter to Epstein that the newspaper said bore Trump's signature, was published with the intent to be malicious.</summary>
-      <pubDate>Mon, 13 Apr 2026 11:55:09 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
