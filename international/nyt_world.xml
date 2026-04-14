@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-14T15:06:36.368645</generated>
+  <generated>2026-04-14T16:03:52.138562</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Trade Proposals on Nuclear Restrictions</title>
       <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
       <summary>Iran said it could suspend uranium enrichment for up to five years but the Trump administration insisted on 20 years, officials from both countries said.</summary>
-      <pubDate>Tue, 14 Apr 2026 12:05:14 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 12:45:02 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-promo-fltw/14israel-iran-promo-fltw-mediumSquareAt3X.jpg</image>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>Ex-Student Wounds 16 in High School Shooting in Turkey</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/turkey-school-shooting-siverek.html</link>
+      <summary>Officials said the teenage attacker killed himself when cornered by the police. The authorities are investigating possible motives.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:17:03 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-turkey-shooting-ftgk/14int-turkey-shooting-ftgk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Israelis Don’t Feel Much Like Victors in War With Iran</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/israeli-iran-war-polls.html</link>
       <summary>The regime in Iran has not changed and the nuclear and missile threats have not been eliminated, leaving many Israelis to wonder what this was all for.</summary>
@@ -71,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Ex-Student Wounds 16 in High School Shooting in Turkey</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/turkey-school-shooting-siverek.html</link>
-      <summary>Officials said the teenage attacker killed himself when cornered by the police. The authorities are investigating possible motives.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:17:03 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-turkey-shooting-ftgk/14int-turkey-shooting-ftgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Israel and Lebanon Seek Way Forward in Rare Direct Talks</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html</link>
       <summary>The talks, set for Tuesday in Washington, were not expected to produce an immediate breakthrough in the war between Hezbollah and Israel.</summary>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
-      <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
-      <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
-      <pubDate>Tue, 14 Apr 2026 11:06:56 +0000</pubDate>
-      <priority>95</priority>
+      <title>Amid War, G.O.P. Puts Off Testimony From Senior Pentagon Commanders</title>
+      <link>https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html</link>
+      <summary>House lawmakers had been scheduled to hear testimony next week from the head of military operations in the Middle East, but the Republican majority postponed the hearing until late May.</summary>
+      <pubDate>Mon, 13 Apr 2026 22:53:09 +0000</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-orban-europe-legacy-jpfc/14int-orban-europe-legacy-jpfc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-cong-fkzv/13israel-iran-cong-fkzv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Adopted by Denmark, a Bombed-Out Ukrainian City Is Given New Life</title>
-      <link>https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html</link>
-      <summary>The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan.</summary>
-      <pubDate>Tue, 14 Apr 2026 09:02:10 +0000</pubDate>
-      <priority>90</priority>
+      <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
+      <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
+      <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
+      <pubDate>Tue, 14 Apr 2026 12:11:05 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-mykolaiv-dispatch-01-hblf-promo/14int-mykolaiv-dispatch-01-hblf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-orban-europe-legacy-jpfc/14int-orban-europe-legacy-jpfc-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

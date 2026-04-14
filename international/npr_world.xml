@@ -2,15 +2,8 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-14T15:06:44.664962</generated>
+  <generated>2026-04-14T16:03:59.476100</generated>
   <items>
-    <item>
-      <title>Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder</title>
-      <link>https://www.npr.org/2026/04/13/g-s1-117320/openai-sam-altman-molotov-cocktail</link>
-      <summary>No one was injured at Altman's home or the company offices, authorities said.</summary>
-      <pubDate>Mon, 13 Apr 2026 21:02:10 -0400</pubDate>
-      <priority>90</priority>
-    </item>
     <item>
       <title>Why Congress is fighting over a central tool of American surveillance</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance</link>
@@ -66,6 +59,13 @@
       <summary>An inquiry found that a mass killing by a British teenager in 2024 at a Taylor Swift-themed dance class could have been prevented if his parents and state agencies had acted on his violence fixation.</summary>
       <pubDate>Tue, 14 Apr 2026 01:41:14 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Virginia joins a national effort to ensure only popular vote winners become president</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact</link>
+      <summary>With Virginia on board, the National Popular Vote Compact is now enacted in states worth 222 electoral votes. Here's what that means.</summary>
+      <pubDate>Tue, 14 Apr 2026 08:34:57 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Rock &amp; Roll Hall of Fame's class of 2026 includes Phil Collins, Oasis and Sade</title>

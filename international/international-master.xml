@@ -2,9 +2,20 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-14T15:06:44.668913</generated>
+  <generated>2026-04-14T16:03:59.479954</generated>
   <total_articles>340</total_articles>
   <items>
+    <item>
+      <title>UK faces biggest hit to growth from Iran war of major economies, IMF says</title>
+      <link>https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy "off course".</summary>
+      <pubDate>Tue, 14 Apr 2026 13:00:43 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0112/live/146c3df0-3777-11f1-b2f4-33029861d617.jpg</image>
+      </media>
+    </item>
     <item>
       <title>Sixteen injured after ex-student opens fire at high school in Turkey</title>
       <link>https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Palestinian shot dead during Israeli settler attack on occupied West Bank village</title>
-      <link>https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The killing came as ex-security chiefs warned "government sponsored Jewish terrorism" was out of control.</summary>
-      <pubDate>Fri, 10 Apr 2026 17:08:27 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6768/live/109f3bf0-34fc-11f1-83d0-87d8f45acd6d.jpg</image>
       </media>
     </item>
   </items>
