@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T02:01:18.434528</generated>
+  <generated>2026-04-14T03:03:14.220663</generated>
   <items>
     <item>
       <title>WATCH: Pope Leo issues plea for peace amid US-Iran war</title>
@@ -71,10 +71,21 @@
       </media>
     </item>
     <item>
+      <title>Trump admin agrees to fly pride flag at Stonewall National Monument</title>
+      <link>https://abcnews.com/US/trump-admin-agrees-fly-pride-flag-stonewall-national/story?id=131999377</link>
+      <summary>The Trump administration agreed to fly the rainbow flag at the Stonewall National Monument in NYC as part a resolution to a lawsuit challenging NPS's removal of the flag.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:39:53 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/stonewall-monument-sign-gty-jt-260210_1770748051306_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: The top internet searches surrounding Trump's now deleted AI post</title>
       <link>https://abcnews.com/video/132009927/</link>
       <summary>An AI-generated image that President Donald Trump posted Monday on his social media platform that depicted him as a Jesus-like figure is drawing criticism and interest online.</summary>
-      <pubDate>Mon, 13 Apr 2026 18:24:26 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:34:30 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260413_abcnl_searched_new_spiral_hpMain_4x3_384.jpg</image>
@@ -85,7 +96,7 @@
       <title>WATCH: Rising fuel costs strain volunteer fire departments nationwide</title>
       <link>https://abcnews.com/video/132006932/</link>
       <summary>Fire chief James Pollock explains how higher prices are squeezing budgets, slowing recruitment and impacting emergency responses.</summary>
-      <pubDate>Mon, 13 Apr 2026 16:09:26 -0400</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:25:06 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260413_abcnl_3p_pollock_hpMain_4x3_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260412_wn_ender_reunion_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Artemis II crew reunites with their families</title>
-      <link>https://abcnews.com/video/131974767/</link>
-      <summary>ABC's Jaclyn Lee on NASA looking ahead to Artemis III, set to launch in 2027 as the Artemis II crew is welcomed back to Earth and reunited with their loved ones.</summary>
-      <pubDate>Mon, 13 Apr 2026 00:20:11 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/WNT/260412_wn_lee_artemis_crew1_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
