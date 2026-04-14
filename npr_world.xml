@@ -2,10 +2,10 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-14T22:01:22.385096</generated>
+  <generated>2026-04-14T23:09:34.854456</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] The Iran war created a global natural gas shortage — a windfall for U.S. companies</title>
+      <title>The Iran war created a global natural gas shortage — a windfall for U.S. companies</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar</link>
       <summary>With Qatar's liquefied natural gas still offline, U.S. companies see an opening and are bringing in new investments.</summary>
       <pubDate>Tue, 14 Apr 2026 13:50:57 -0400</pubDate>
@@ -54,13 +54,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>In the brain, objects seen and imagined follow the same neural path</title>
-      <link>https://www.npr.org/2026/04/14/nx-s1-5781219/brain-vision-neurons-imagine-new-things</link>
-      <summary>New evidence finds that sight and imagination rely on the same neurons and use the same neural code.</summary>
-      <pubDate>Tue, 14 Apr 2026 06:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>Historic decline in U.S. overdose deaths threatened by changing street drug supply</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine</link>
       <summary>Drug overdose deaths are plummeting in the U.S. in ways never seen before. Experts worry new, toxic "synthetic" street drugs could derail the recovery.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact</link>
       <summary>With Virginia on board, the National Popular Vote Compact is now enacted in states worth 222 electoral votes. Here's what that means.</summary>
       <pubDate>Tue, 14 Apr 2026 08:34:57 -0400</pubDate>
+      <priority>50</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Why Eric Swalwell and Tony Gonzales chose to resign</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5784096/suhas-subramanyam-richard-painter-controversy-congress-resignations</link>
+      <summary>House Ethics Committee member Rep. Suhas Subramanyam and law professor Richard Painter break down why controversy might have forced Representatives Eric Swalwell and Tony Gonzales to resign.</summary>
+      <pubDate>Tue, 14 Apr 2026 06:45:16 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
