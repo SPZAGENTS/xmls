@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-14T13:00:55.575795</generated>
+  <generated>2026-04-14T14:04:38.573638</generated>
   <items>
+    <item>
+      <title>Sixteen injured after ex-student opens fire at high school in Turkey</title>
+      <link>https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Students and teachers are among those who were injured in the attack in the country's south-east.</summary>
+      <pubDate>Tue, 14 Apr 2026 10:38:55 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israelis war-weary but most oppose Iran ceasefire, poll suggests</title>
       <link>https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -30,7 +41,7 @@
       <title>Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'</title>
       <link>https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Lord George Robertson, a former Labour defence secretary, will use a speech to accuse "non-military experts in the Treasury" of "vandalism".</summary>
-      <pubDate>Tue, 14 Apr 2026 09:49:58 GMT</pubDate>
+      <pubDate>Tue, 14 Apr 2026 10:42:01 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b904/live/45309e30-37d2-11f1-879d-1b2f5c3919b8.jpg</image>
@@ -60,28 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Why doctors' strikes can actually lead to shorter waiting times and what it costs</title>
-      <link>https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.</summary>
-      <pubDate>Mon, 13 Apr 2026 23:06:45 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Titanic rescue hero's gold watch could go for £100k</title>
-      <link>https://www.bbc.com/news/articles/cx234k8g1mko?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The item was awarded to John Richardson for his efforts in rescuing survivors of the 1912 disaster.</summary>
-      <pubDate>Tue, 14 Apr 2026 05:06:21 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1464/live/fd3db4b0-3735-11f1-ba17-d34f2bc9d6da.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lebanon seeks peace, but Hezbollah needs to be convinced first</title>
       <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/8bf48930-37a0-11f1-bdff-893e177acf0e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Why doctors' strikes can actually lead to shorter waiting times and what it costs</title>
+      <link>https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.</summary>
+      <pubDate>Mon, 13 Apr 2026 23:06:45 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

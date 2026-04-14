@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-14T13:00:57.652563</generated>
+  <generated>2026-04-14T14:04:40.667613</generated>
   <items>
     <item>
       <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Israeli man built bomb lab for Iranian plot targeting ex-PM Bennett, authorities say</title>
-      <link>https://www.foxnews.com/world/israeli-man-built-bomb-lab-iranian-plot-targeting-ex-pm-bennett-authorities-say</link>
-      <summary>A Haifa man was allegedly recruited by an Iranian handler to build bombs for an assassination plot believed to target ex-PM Naftali Bennett.</summary>
-      <pubDate>Thu, 09 Apr 2026 16:48:26 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Ami-Gaydarov-arrested.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran in crisis as US talks collapse, Mojtaba’s ‘mafia’ regime blocks Khamenei burial: analyst</title>
       <link>https://www.foxnews.com/world/iran-crisis-us-talks-collapse-mojtabas-mafia-regime-blocks-khamenei-burial-analyst</link>
       <summary>Analyst says Iran&amp;apos;s delay in burying Supreme Leader Khamenei over 40 days after his killing reveals a deepening crisis inside the Islamic Republic.</summary>
@@ -111,6 +100,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Macron under fire over Iran, Hezbollah policy as Trump admin hosts Israel-Lebanon talks</title>
+      <link>https://www.foxnews.com/world/macron-under-fire-over-iran-hezbollah-policy-trump-admin-hosts-israel-lebanon-talks</link>
+      <summary>Macron faces intense criticism for demanding Lebanon&amp;apos;s inclusion in the ceasefire while Israel accuses France of undermining its efforts against Iran and Hezbollah.</summary>
+      <pubDate>Tue, 14 Apr 2026 06:30:21 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-macron-2.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
