@@ -2,9 +2,20 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-14T21:08:37.758835</generated>
+  <generated>2026-04-14T22:01:22.388038</generated>
   <total_articles>341</total_articles>
   <items>
+    <item>
+      <title>US Treasury secretary says short-term economic pain worth long-term security</title>
+      <link>https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Scott Bessent said a "small bit of economic pain" was worth it to eliminate the threat of Iranian strikes on Western capitals.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:16:44 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d7/live/2c26e4b0-3833-11f1-b164-cbd9e6dd0bb7.jpg</image>
+      </media>
+    </item>
     <item>
       <title>UK faces biggest hit to growth from Iran war of major economies, IMF says</title>
       <link>https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump's blockade threat raises risks and leaves predicaments unchanged</title>
-      <link>https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:57:22 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
       </media>
     </item>
   </items>
