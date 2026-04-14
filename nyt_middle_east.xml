@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-14T22:01:12.644816</generated>
+  <generated>2026-04-14T23:09:28.696790</generated>
   <items>
+    <item>
+      <title>Israel’s Spy Chief Addresses Criticism About the War With Iran</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-barnea-mossad-iran.html</link>
+      <summary>The Mossad head said Israel’s mission would not be complete until the Iranian regime was replaced, after criticism that the war has left Iran’s theocratic government in place.</summary>
+      <pubDate>Tue, 14 Apr 2026 20:07:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-mossad-pzlq/14israel-iran-mossad-pzlq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Italy Suspends Defense Pact With Israel, Further Straining Ties</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/italy-israel-defense-pact.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-cong-fkzv/13israel-iran-cong-fkzv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What the U.S. Blockade of Iran and the Strait of Hormuz Might Look Like</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/strait-of-hormuz-blockade-iran-trump.html</link>
-      <summary>The U.S. military has provided few details on how it might carry out President Trump’s orders as he seeks to pressure Tehran on a peace deal. But history and established practices offer some clues.</summary>
-      <pubDate>Mon, 13 Apr 2026 21:38:13 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13dc-blockade-explainer-qzkp/13dc-blockade-explainer-qzkp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
