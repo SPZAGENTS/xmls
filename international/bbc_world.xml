@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-14T06:01:29.329748</generated>
+  <generated>2026-04-14T07:00:50.246492</generated>
   <items>
     <item>
       <title>BBC joins paramedics on duty in Lebanon after Israeli strikes</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7928/live/7bca2800-3730-11f1-872e-dbe4122cf753.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Eight to be awarded for bravery in Bondi Junction stabbing</title>
-      <link>https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall.</summary>
-      <pubDate>Mon, 13 Apr 2026 01:35:54 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2233/live/67b4bd10-36d8-11f1-951e-7783ff0b6757.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Philippines accuses Chinese fishermen of dumping cyanide in South China Sea</title>
+      <link>https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Beijing rejects the allegation as a "farce", while Manila claims the poison was used to kill fish and deprive troops stationed in the area of food.</summary>
+      <pubDate>Mon, 13 Apr 2026 19:17:18 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80d8/live/aa319d90-376c-11f1-a7e9-a1f2253df567.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
