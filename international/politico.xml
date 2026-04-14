@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-14T23:09:26.149658</generated>
+  <generated>2026-04-15T00:04:06.340034</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -25,6 +25,13 @@
         <image>https://static.politico.com/83/69/89cd365d4f73826339d9e96588e0/election-2-26-hasan-piker-59453.jpg</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>Albany’s influence wars</title>
+      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/04/14/albanys-influence-wars-00871745</link>
+      <summary />
+      <pubDate>Tue, 14 Apr 2026 15:59:53 EST</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>A dozen battleground Dems send Swalwell’s campaign donations to charity</title>
@@ -97,13 +104,6 @@
       <link>https://www.politico.com/gallery/2026/04/10/the-nations-cartoonists-on-the-week-in-politics-00866253</link>
       <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
       <pubDate>Fri, 10 Apr 2026 04:00:00 EST</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Marjorie Taylor Greene unloads on Trump, Netanyahu and the future of MAGA</title>
-      <link>https://www.politico.com/video/2026/04/10/marjorie-taylor-greene-unloads-on-trump-netanyahu-and-the-future-of-maga-2005052</link>
-      <summary />
-      <pubDate>Thu, 09 Apr 2026 23:40:56 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>
