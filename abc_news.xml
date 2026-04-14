@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-14T14:04:47.434477</generated>
+  <generated>2026-04-14T15:06:42.102752</generated>
   <items>
     <item>
       <title>Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment</title>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] WATCH: Pilot speaks out after crash landing</title>
+      <link>https://abcnews.com/video/132021984/</link>
+      <summary>A small plane landed on a busy Phoenix street, with officials calling it a miracle that no one was seriously injured in the plane or on the ground.</summary>
+      <pubDate>Tue, 14 Apr 2026 07:39:35 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260414_gma_champion_plane_714_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Police shoot and kill machete-wielding man in New York City</title>
       <link>https://abcnews.com/video/131987997/</link>
       <summary>The man allegedly attacked three people waiting for the subway in Grand Central Station, police said.</summary>
@@ -60,18 +71,7 @@
       </media>
     </item>
     <item>
-      <title>Police release husband of woman missing after going overboard in Bahamas</title>
-      <link>https://abcnews.com/International/husband-woman-reported-missing-after-overboard-bahamas-interviewed/story?id=131997097</link>
-      <summary>The couple was en route to their yacht, Soulmate, on April 4 when bad weather caused Lynette Hooker to fall overboard, her husband told authorities.</summary>
-      <pubDate>Tue, 14 Apr 2026 06:19:46 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/hookers-1-ht-er-260406_1775515425027_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Young hacker behind major breach speaks out for 1st time, before reporting to prison</title>
+      <title>Young hacker behind major breach speaks out for 1st time, before reporting to prison</title>
       <link>https://abcnews.com/US/addicted-hacking-young-hacker-historic-breach-speaks-1st/story?id=131855776</link>
       <summary>ABC News speaks with a young hacker about what experts call a wide-ranging menace: a new generation of tech-savvy teens who are uniquely dangerous and surprisingly young.</summary>
       <pubDate>Tue, 14 Apr 2026 06:16:03 -0400</pubDate>
