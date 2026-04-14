@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-14T17:15:10.387507</generated>
+  <generated>2026-04-14T18:01:26.862354</generated>
   <items>
     <item>
       <title>Pope responds to president’s insults: ‘I have no fear of the Trump administration’</title>
@@ -30,13 +30,6 @@
       <link>https://www.washingtonpost.com/business/2026/04/13/iran-war-elections-republicans-mike-lawler/</link>
       <summary>The conflict has animated voters in the suburban swing district of Republican Rep. Mike Lawler ahead of the midterm elections.</summary>
       <pubDate>Mon, 13 Apr 2026 04:28:56 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/12/jd-vance-inside-iran-negotiations/</link>
-      <summary>Vice President JD Vance’s negotiations in Pakistan with Iran failed to end the war, but progress was reported on building goodwill.</summary>
-      <pubDate>Sun, 12 Apr 2026 20:34:40 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/14/olivia-troye-congress-democrat-virginia/</link>
       <summary>She joins other former Republicans and Trump administration officials running for office as critics of the president. The district would open up if voters approve a new map.</summary>
       <pubDate>Tue, 14 Apr 2026 11:00:24 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>White House says it’s boosting affordability through physician reforms</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-administration-healthcare-changes/</link>
+      <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
+      <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
