@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-15T00:04:15.687974</generated>
+  <generated>2026-04-15T01:01:26.302192</generated>
   <items>
     <item>
       <title>The Iran war created a global natural gas shortage — a windfall for U.S. companies</title>
@@ -30,6 +30,13 @@
       <link>https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report</link>
       <summary>The Trump administration has said that enforcement of the FACE Act by the Biden DOJ represents "the prototypical example" of the weaponization of the law against conservatives.</summary>
       <pubDate>Tue, 14 Apr 2026 15:13:24 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Law enforcement is trying to combat abusive AI. Experts say easier said than done</title>
+      <link>https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse</link>
+      <summary>An Ohio man was convicted of cybercrimes involving obscene AI-generated images of women and children. But experts warn of the difficulties in going after such cases.</summary>
+      <pubDate>Tue, 14 Apr 2026 14:11:32 -0400</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact</link>
       <summary>With Virginia on board, the National Popular Vote Compact is now enacted in states worth 222 electoral votes. Here's what that means.</summary>
       <pubDate>Tue, 14 Apr 2026 08:34:57 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Why Eric Swalwell and Tony Gonzales chose to resign</title>
-      <link>https://www.npr.org/2026/04/14/nx-s1-5784096/suhas-subramanyam-richard-painter-controversy-congress-resignations</link>
-      <summary>House Ethics Committee member Rep. Suhas Subramanyam and law professor Richard Painter break down why controversy might have forced Representatives Eric Swalwell and Tony Gonzales to resign.</summary>
-      <pubDate>Tue, 14 Apr 2026 06:45:16 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
