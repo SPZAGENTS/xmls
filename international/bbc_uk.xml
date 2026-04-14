@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-14T04:04:52.833021</generated>
+  <generated>2026-04-14T05:01:16.117327</generated>
   <items>
     <item>
       <title>BBC joins paramedics on duty in Lebanon after Israeli strikes</title>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>EasyJet passengers describe EU border 'nightmare' after flight leaves without them</title>
-      <link>https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Airlines warn of further disruption due to the introduction of a new EU digital border control system.</summary>
-      <pubDate>Mon, 13 Apr 2026 12:56:34 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f6/live/509d4660-3728-11f1-872e-dbe4122cf753.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lebanon enters talks with Israel but with no cards to play</title>
       <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a2/live/420f4a20-3747-11f1-b669-c509fb2e8e1e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Man faces attempted murder charges in attack on home of OpenAI's Sam Altman</title>
+      <link>https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.</summary>
+      <pubDate>Tue, 14 Apr 2026 01:05:54 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f1c/live/e70fffc0-379b-11f1-837d-21d2841eb8ab.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
