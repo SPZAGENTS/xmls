@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-14T07:00:52.772660</generated>
+  <generated>2026-04-14T08:07:00.200375</generated>
   <items>
     <item>
       <title>U.S. imposes naval blockade as Trump demands Iran end nuclear program</title>
@@ -47,13 +47,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Direct U.S.-Iran talks fail to reach resolution after lengthy negotiation</title>
-      <link>https://www.washingtonpost.com/world/2026/04/11/us-iran-islamabad-hormuz-ceasefire/</link>
-      <summary>Vice President JD Vance was leading the highest level of face-to-face engagement between leaders of the United States and Iran in decades.</summary>
-      <pubDate>Sun, 12 Apr 2026 04:05:19 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>Fugitive Bolsonaro ally, convicted in 2022 coup attempt, is detained by ICE</title>
       <link>https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/</link>
       <summary>The arrest of Brazilian former intelligence chief and congressman Alexandre Ramagem ended a manhunt that stretched for six months across two continents.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/world/2026/04/12/pope-leo-africa-trip-polygamy/</link>
       <summary>Leo’s early papacy has been defined largely by his response to President Donald Trump but a 10-day trip, starting Monday, will let the pope focus on spreading the faith.</summary>
       <pubDate>Sun, 12 Apr 2026 09:00:44 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>10 presidents in 10 years: Peru’s leaders don’t last. Voters will try again.</title>
+      <link>https://www.washingtonpost.com/world/2026/04/12/peru-election-keiko-fujimori/</link>
+      <summary>Elections on Sunday offer Peruvians another once-in-five-years chance to set the nation on a new path. All signs suggest they won’t.</summary>
+      <pubDate>Sun, 12 Apr 2026 08:59:07 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
