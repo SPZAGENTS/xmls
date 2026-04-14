@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-14T22:01:10.686689</generated>
+  <generated>2026-04-14T23:09:27.125874</generated>
   <items>
     <item>
       <title>U.S. imposes naval blockade as Trump demands Iran end nuclear program</title>
@@ -10,6 +10,13 @@
       <summary>Peace talks broke down over Iran’s nuclear program, which has survived two decades of international diplomacy seeking to curtail it and more than five weeks of bombing.</summary>
       <pubDate>Mon, 13 Apr 2026 20:48:31 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>U.S. blockade has turned back six merchant ships leaving Strait of Hormuz</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/</link>
+      <summary>More than a dozen American warships positioned in the Gulf of Oman and Arabian Sea are acting as a “net,” officials said. None of the encounters has required escalation.</summary>
+      <pubDate>Tue, 14 Apr 2026 19:03:18 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Trump says Iran talks may resume this week, but opposes enrichment compromise</title>
@@ -47,17 +54,17 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Rubio hosts Israel-Lebanon talks in D.C. Here’s what to know.</title>
+      <title>Lebanese, Israeli diplomats hold rare face-to-face meeting in Washington</title>
       <link>https://www.washingtonpost.com/world/2026/04/14/iran-israel-lebanon-talks-washington/</link>
-      <summary>The talks are aimed at securing a ceasefire in Israel’s campaign against Hezbollah in Lebanon but are likely to be difficult.</summary>
-      <pubDate>Tue, 14 Apr 2026 15:49:33 +0000</pubDate>
+      <summary>Secretary of State Marco Rubio hosted ambassadors from the two neighboring states in what was described as a working group aimed at reaching a ceasefire.</summary>
+      <pubDate>Tue, 14 Apr 2026 19:51:21 +0000</pubDate>
       <priority>75</priority>
     </item>
     <item>
       <title>How geography powers Iran’s grip on the Strait of Hormuz, despite U.S. blockade</title>
       <link>https://www.washingtonpost.com/world/interactive/2026/hormuz-strait-control-blockade/</link>
       <summary>Even with a U.S. blockage, geography gives Iran an edge in the Strait of Hormuz, shaping control of a vital global chokepoint.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:00:28 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 19:00:54 +0000</pubDate>
       <priority>75</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>The arrest of Brazilian former intelligence chief and congressman Alexandre Ramagem ended a manhunt that stretched for six months across two continents.</summary>
       <pubDate>Mon, 13 Apr 2026 22:28:08 +0000</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat</title>
-      <link>https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/</link>
-      <summary>WIth record turnout, Hungarians chose to end the 16-year rule of the prime minister who was a self-proclaimed champion of illiberal Christian democracy.</summary>
-      <pubDate>Sun, 12 Apr 2026 21:39:53 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
