@@ -2,8 +2,15 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-14T16:03:59.476100</generated>
+  <generated>2026-04-14T17:15:17.724834</generated>
   <items>
+    <item>
+      <title>[PENDING_TRANSLATION] Fuel protests have Ireland's government facing possible no-confidence vote</title>
+      <link>https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote</link>
+      <summary>The prime minister announced new tax cuts to try to end the crisis that began after the U.S.-Israel war on Iran led to the closure of the Strait of Hormuz. The government could face a no-confidence vote over its response to the fuel protests.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:56:41 -0400</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Why Congress is fighting over a central tool of American surveillance</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance</link>
@@ -24,6 +31,13 @@
       <summary>Diplomats from Israel and Lebanon will meet in Washington for rare direct talks.</summary>
       <pubDate>Tue, 14 Apr 2026 04:42:46 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Millions of people are pretending to be AI chatbots — for fun</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt</link>
+      <summary>Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:30:19 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>The labor economics of 'Alien' — and its lessons for inequality on Earth</title>
@@ -54,24 +68,10 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class</title>
-      <link>https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class</link>
-      <summary>An inquiry found that a mass killing by a British teenager in 2024 at a Taylor Swift-themed dance class could have been prevented if his parents and state agencies had acted on his violence fixation.</summary>
-      <pubDate>Tue, 14 Apr 2026 01:41:14 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Virginia joins a national effort to ensure only popular vote winners become president</title>
+      <title>Virginia joins a national effort to ensure only popular vote winners become president</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact</link>
       <summary>With Virginia on board, the National Popular Vote Compact is now enacted in states worth 222 electoral votes. Here's what that means.</summary>
       <pubDate>Tue, 14 Apr 2026 08:34:57 -0400</pubDate>
-      <priority>50</priority>
-    </item>
-    <item>
-      <title>Rock &amp; Roll Hall of Fame's class of 2026 includes Phil Collins, Oasis and Sade</title>
-      <link>https://www.npr.org/2026/04/13/nx-s1-5783924/2026-rock-roll-hall-of-fame-inductees</link>
-      <summary>The Rock Hall's inductees will include eight acts who have all been eligible for at least a decade. In its "musical influence" category, the hall nods to Latin and African pop for the first time.</summary>
-      <pubDate>Mon, 13 Apr 2026 21:36:10 -0400</pubDate>
       <priority>50</priority>
     </item>
   </items>
