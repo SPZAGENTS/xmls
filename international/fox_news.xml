@@ -2,16 +2,27 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-15T01:01:15.454524</generated>
+  <generated>2026-04-15T02:02:02.973518</generated>
   <items>
     <item>
-      <title>Rep Luna warns of potential jail time for Eric Swalwell following serious criminal allegations</title>
-      <link>https://www.foxnews.com/media/rep-luna-warns-potential-jail-time-eric-swalwell-following-serious-criminal-allegations</link>
-      <summary>Rep. Luna said Eric Swalwell may face &amp;quot;serious criminal problems&amp;quot; after his resignation from Congress amid mounting sexual misconduct allegations.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:26:27 -0400</pubDate>
+      <title>Biden awkwardly pulls trustee into spotlight and calls him ‘Barack’ at portrait unveiling</title>
+      <link>https://www.foxnews.com/politics/biden-awkwardly-pulls-trustee-spotlight-calls-him-barack-portrait-unveiling</link>
+      <summary>Former President Joe Biden appeared to mistake a man for Barack Obama during a speech at Syracuse, where his portrait was unveiled at the law school.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:12:54 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eric-swalwell-misconduct-allegations-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/931/523/barack-obama-joe-biden-white-house.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Golf analyst Kevin Kisner says CBS showed Masters shots that 'happened ten minutes ago all day' at Augusta</title>
+      <link>https://www.foxnews.com/sports/golf-analyst-kevin-kisner-says-cbs-showed-masters-shots-happened-ten-minutes-ago-day-augusta-</link>
+      <summary>Kevin Kisner ripped CBS&amp;apos;s Masters Sunday broadcast on Barstool&amp;apos;s Fore Play podcast, saying the coverage was minutes behind live action at Augusta National.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:10:43 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Kevin-Kisner-Wyndham-Championship.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,57 +71,46 @@
       </media>
     </item>
     <item>
-      <title>Trump DOJ fires prosecutors tied to FACE Act cases after report alleges bias and misconduct</title>
-      <link>https://www.foxnews.com/politics/trump-doj-fires-prosecutors-tied-face-act-cases-after-report-alleges-bias-misconduct</link>
-      <summary>The Trump administration fired four DOJ prosecutors tied to FACE Act cases against pro-life activists, alleging the law was weaponized under Biden.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:25:53 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pro-life-march.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Swalwell accusers detail experiences with lawmaker after he announces his resignation from Congress</title>
-      <link>https://www.foxnews.com/media/swalwell-accusers-detail-experiences-lawmaker-after-he-announces-his-resignation-from-congress</link>
-      <summary>Two women accusing Rep. Eric Swalwell of sexual misconduct spoke out on &amp;quot;CBS Mornings&amp;quot; on Tuesday, detailing alleged explicit messages and hotel invitations from the lawmaker.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:00:35 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/eric-swalwell-democratic-convention.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Riley Gaines addresses spat with MAGA over AI Jesus post, says 'humility' would serve Trump</title>
-      <link>https://www.foxnews.com/media/riley-gaines-addresses-spat-maga-over-ai-jesus-post-says-humility-would-serve-trump</link>
-      <summary>Riley Gaines continues to support President Donald Trump and the “America First agenda&amp;quot; despite objecting to a now-deleted, AI-generated image that the president posted on Truth Social.</summary>
-      <pubDate>Tue, 14 Apr 2026 17:12:55 -0400</pubDate>
+      <title>Sergio Garcia apologizes for his Masters meltdown, says he regrets his actions</title>
+      <link>https://www.foxnews.com/sports/sergio-garcia-apologizes-masters-meltdown-says-regrets-actions</link>
+      <summary>Sergio Garcia apologized for smashing his driver and damaging the second tee box during the final round of the Masters, saying it has no place in golf.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:48:29 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/trump-gaines.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/sergio-garcia-augusta-masters-fox-news-101.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Ilona Maher rips Quinnipiac, her alma mater, after school cuts women's rugby to club status: 'Shame on you'</title>
-      <link>https://www.foxnews.com/sports/ilona-maher-rips-quinnipiac-alma-mater-school-cuts-womens-rugby-club-status-shame</link>
-      <summary>Team USA rugby star Ilona Maher posted &amp;quot;shame on you&amp;quot; on social media, directed at Quinnipiac, her alma mater, which announced it will move women&amp;apos;s rugby to a club program.</summary>
-      <pubDate>Tue, 14 Apr 2026 17:05:44 -0400</pubDate>
+      <title>Joy Behar immediately corrected after claiming Jesus didn't call himself the Messiah</title>
+      <link>https://www.foxnews.com/media/joy-behar-immediately-corrected-claiming-jesus-didnt-call-messiah</link>
+      <summary>Sara Haines corrected Joy Behar on &amp;quot;The View&amp;quot; after Behar claimed Jesus never called himself the Messiah during a discussion about President Donald Trump&amp;apos;s AI image.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:20:54 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/ilona-maher-ncaa-basketball-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Joy-Behar-on-stage.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Pittsburgh LGBTQ Pride parade in jeopardy after corporate sponsors pull funding</title>
-      <link>https://www.foxnews.com/media/pittsburgh-lgbtq-pride-parade-jeopardy-corporate-sponsors-pull-funding</link>
-      <summary>Corporate sponsors like Walmart and Tito&amp;apos;s pulled funding from Pittsburgh&amp;apos;s annual LGBTQ Pride parade, leaving organizers scrambling to raise $500,000.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:50:53 -0400</pubDate>
+      <title>Former Michigan coach Sherrone Moore receives punishment from stalking case stemming from firing</title>
+      <link>https://www.foxnews.com/sports/former-michigan-coach-sherrone-moore-receives-punishment-stalking-case-stemming-firing</link>
+      <summary>Former Michigan head coach Sherrone Moore has avoided jail time, receiving 18 months&amp;apos; probation after allegedly stalking a staffer following his December firing.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:20:50 -0400</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/931/523/Mini-Pride-Flag-iStock.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sherrone-moore.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Erika Kirk cancels University of Georgia TPUSA event appearance over 'serious threats'</title>
+      <link>https://www.foxnews.com/politics/erika-kirk-cancels-university-georgia-tpusa-event-appearance-over-serious-threats</link>
+      <summary>A Turning Point USA event at the University of Georgia proceeded despite heightened security concerns after Erika Kirk withdrew due serious threats against her.</summary>
+      <pubDate>Tue, 14 Apr 2026 18:19:13 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/erika-kirk-at-2026-sotu.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

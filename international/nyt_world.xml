@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T01:01:19.971583</generated>
+  <generated>2026-04-15T02:02:07.028747</generated>
   <items>
     <item>
       <title>Iran War Live Updates: U.S. Says Israel and Lebanon Agree to More Peace Talks</title>
       <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
-      <summary>Fighting continued in southern Lebanon between Israel and Iran-backed Hezbollah, even as Israeli and Lebanese diplomats met in Washington. The war in Lebanon has threatened to undermine the U.S.-Iran cease-fire.</summary>
-      <pubDate>Tue, 14 Apr 2026 21:53:45 +0000</pubDate>
+      <summary>Fighting continued in southern Lebanon between Israel and Iranian-backed Hezbollah militants, even as Israeli and Lebanese diplomats met in Washington. The war in Lebanon has threatened to undermine the U.S.-Iran cease-fire.</summary>
+      <pubDate>Tue, 14 Apr 2026 22:37:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-khbq/14israel-iran-khbq-mediumSquareAt3X.jpg</image>
@@ -60,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Israel’s Spy Chief Addresses Criticism About the War With Iran</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-barnea-mossad-iran.html</link>
-      <summary>The Mossad head said Israel’s mission would not be complete until the Iranian regime was replaced, after criticism that the war has left Iran’s theocratic government in place.</summary>
-      <pubDate>Tue, 14 Apr 2026 20:07:55 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-mossad-pzlq/14israel-iran-mossad-pzlq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
       <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
       <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
@@ -111,6 +100,17 @@
       <priority>80</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/cyclone-tracker-2025-four-wp042026-satellite_map/cyclone-tracker-2025-four-wp042026-satellite_map-mediumSquareAt3X-v28.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Carney Suspends Gas Tax in Canada as War Drives Up Fuel Costs</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/carney-suspends-fuel-tax.html</link>
+      <summary>The prime minister said that his government was also investing in ways to boost oil and gas production.</summary>
+      <pubDate>Tue, 14 Apr 2026 22:00:20 +0000</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-canada-gas-tax1-lpkm/14israel-iran-canada-gas-tax1-lpkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
