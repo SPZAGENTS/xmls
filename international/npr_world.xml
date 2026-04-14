@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-14T20:03:46.760555</generated>
+  <generated>2026-04-14T21:08:37.755681</generated>
   <items>
     <item>
       <title>After losing loved ones, an Israeli and a Palestinian work together for Middle East peace</title>
@@ -19,13 +19,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Why Congress is fighting over a central tool of American surveillance</title>
-      <link>https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance</link>
-      <summary>Section 702 of the Foreign Intelligence Surveillance Act is responsible for a huge share of intel collected by the U.S. Lawmakers and civil liberties advocates are worried it enables warrantless spying on U.S. citizens.</summary>
-      <pubDate>Tue, 14 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>85</priority>
-    </item>
-    <item>
       <title>Israel and Lebanon are holding rare diplomatic talks in D.C.</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks</link>
       <summary>An official briefed on Israel's strategy for the talks described Tuesday's meeting as "preparatory" and aimed at laying out a framework for future negotiations.</summary>
@@ -33,7 +26,7 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>You can order your own bloodwork now. Interpreting the results is another story</title>
+      <title>You can order your own blood work now. Interpreting the results is another story</title>
       <link>https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork</link>
       <summary>Firms like Function Health and Oura market regular blood tests to people wanting to take their health into their own hands. The process often raises more questions for patients than it can answer.</summary>
       <pubDate>Tue, 14 Apr 2026 10:58:24 -0400</pubDate>
@@ -66,6 +59,13 @@
       <summary>Local TV giant Nexstar's $6.2 billion deal to acquire rival Tegna won speedy approval from Trump administration regulators. But it faces a tough challenge from a pair of antitrust lawsuits.</summary>
       <pubDate>Tue, 14 Apr 2026 06:00:00 -0400</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>Historic decline in U.S. overdose deaths threatened by changing street drug supply</title>
+      <link>https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine</link>
+      <summary>Drug overdose deaths are plummeting in the U.S. in ways never seen before. Experts worry new, toxic "synthetic" street drugs could derail the recovery.</summary>
+      <pubDate>Tue, 14 Apr 2026 13:03:04 -0400</pubDate>
+      <priority>50</priority>
     </item>
     <item>
       <title>Virginia joins a national effort to ensure only popular vote winners become president</title>
