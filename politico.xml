@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-14T10:03:16.385744</generated>
+  <generated>2026-04-14T12:00:55.427099</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/bf/43/28550b534f1187badcf33b0089dc/vatican-pope-53951.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Wes Moore criticizes Trump for talking about Medicare cuts</title>
-      <link>https://www.politico.com/news/2026/04/05/wes-moore-trump-medicare-cuts-00859272</link>
-      <summary>"We don't want to be fighting foreign wars while you're taking away our health care," Maryland's governor said.</summary>
-      <pubDate>Sun, 05 Apr 2026 10:38:47 EST</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static.politico.com/08/1b/7d45dd77433ab0edcd643ebafa84/governors-summit-12540.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -108,6 +97,13 @@
       <link>https://www.politico.com/gallery/2026/04/10/the-nations-cartoonists-on-the-week-in-politics-00866253</link>
       <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
       <pubDate>Fri, 10 Apr 2026 04:00:00 EST</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Marjorie Taylor Greene unloads on Trump, Netanyahu and the future of MAGA</title>
+      <link>https://www.politico.com/video/2026/04/10/marjorie-taylor-greene-unloads-on-trump-netanyahu-and-the-future-of-maga-2005052</link>
+      <summary />
+      <pubDate>Thu, 09 Apr 2026 23:40:56 EST</pubDate>
       <priority>65</priority>
     </item>
   </items>

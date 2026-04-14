@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-14T10:03:18.910566</generated>
+  <generated>2026-04-14T12:00:57.663719</generated>
   <items>
+    <item>
+      <title>In Rare Direct Talks, Israeli and Lebanese Officials Look for Way Forward</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html</link>
+      <summary>The talks, set for Tuesday in Washington, were not expected to produce an immediate breakthrough in the war between Hezbollah and Israel.</summary>
+      <pubDate>Tue, 14 Apr 2026 08:50:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-israel-lebanon-talks-jlph/13israel-iran-israel-lebanon-talks-jlph-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Amid War, G.O.P. Puts Off Testimony From Senior Pentagon Commanders</title>
       <link>https://www.nytimes.com/2026/04/13/world/middleeast/iran-war-pentagon-officials-testimony-trump.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/12/multimedia/12int-iran-assess-tczv/12int-iran-assess-tczv-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Netanyahu Says War With Iran Is ‘Not Yet Over’</title>
-      <link>https://www.nytimes.com/2026/04/12/world/middleeast/netanyahu-israel-iran-war.html</link>
-      <summary>In a televised address, Prime Minister Benjamin Netanyahu of Israel sought to placate critics at home who say the war failed to achieve its goals.</summary>
-      <pubDate>Sun, 12 Apr 2026 12:01:45 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/multimedia/12israel-iran-netanyahu-pfmt/12israel-iran-netanyahu-pfmt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
