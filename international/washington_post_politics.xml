@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-14T12:00:56.655166</generated>
+  <generated>2026-04-14T13:00:59.395058</generated>
   <items>
     <item>
       <title>Pope responds to president’s insults: ‘I have no fear of the Trump administration’</title>
@@ -40,18 +40,11 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Democrats say GOP broke promise on prices, but some swing voters lost faith in change</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/12/nevada-gas-prices-governors-race/</link>
-      <summary>President Donald Trump’s attack on Iran sent gas prices surging, giving Democrats’ focus on affordability more traction if they can get voters to trust them.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:00:48 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>At a mahjong table in Iowa, a struggle over which party to trust</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/12/iowa-midterm-voters-women/</link>
-      <summary>Women courted in key races weigh their choices — and whether the president’s policies have delivered for a working-class town hit by tariffs, war and rising costs.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:00:25 +0000</pubDate>
-      <priority>100</priority>
+      <title>Peace with Iran hinges on one side bowing to the other’s nuclear demands</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/</link>
+      <summary>The Trump administration has sought a moratorium on uranium enrichment of at least 20 years. Tehran’s offer would last up to five.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Lambasting Pope Leo, Trump risks alienating conservative Catholics</title>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/13/trump-administration-healthcare-changes/</link>
       <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
       <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Bust of multi-state drug ring highlights increasing use of police drones</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/12/maryland-drug-ring-bust-cocaine/</link>
+      <summary>Once a novelty, drones are now being flown by more than 5,000 large and small law enforcement agencies across the nation.</summary>
+      <pubDate>Sun, 12 Apr 2026 16:00:53 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>

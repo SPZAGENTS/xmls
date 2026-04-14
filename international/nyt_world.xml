@@ -2,16 +2,49 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-14T12:00:57.173532</generated>
+  <generated>2026-04-14T13:00:59.973676</generated>
   <items>
     <item>
-      <title>Iran Proposes Suspending Nuclear Activity for Up to 5 Years</title>
-      <link>https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news</link>
-      <summary>Vice President JD Vance sought a 20-year suspension in weekend negotiations, which ended without an agreement a day before the U.S. military blockade of the Strait of Hormuz began. President Trump rejected the Iranian offer.</summary>
-      <pubDate>Tue, 14 Apr 2026 08:19:10 +0000</pubDate>
+      <title>Iran War Live Updates: U.S. and Iran Trade Proposals on Nuclear Restrictions</title>
+      <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
+      <summary>Iran said it could suspend uranium enrichment for up to five years but the Trump administration insisted on 20 years, officials from both countries said.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:49:51 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-promo-915pm-jqlc/13israel-iran-promo-915pm-jqlc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-promo-fltw/14israel-iran-promo-fltw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/dubai-migrant-workers-war.html</link>
+      <summary>Migrant workers in the United Arab Emirates, whose hospitality industry has been hit hard by the war with Iran, are facing furloughs, pay cuts and even repatriation.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:40 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-dubai-migrants-1-vbkm/14int-dubai-migrants-1-vbkm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>As Bahrain Cracked Down Amid War, a Death in Custody Sparked Outrage</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/bahrain-mohammed-al-mousawi.html</link>
+      <summary>The body of a man accused of spying for Iran, Mohammed al-Mousawi, showed signs of torture, witnesses said. The U.N. has called for an investigation.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:01:58 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00-int-Bahrain-Torture-mwbt/00-int-Bahrain-Torture-mwbt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Europe Is Desperate for More Energy. Can Norway Come to the Rescue?</title>
+      <link>https://www.nytimes.com/2026/04/14/world/europe/norway-oil-europe-war.html</link>
+      <summary>The war in Iran has once again exposed Europe’s energy vulnerability. A friendly source at home would seem to be ideal. But it’s not that easy.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:55 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/10/multimedia/10int-norway-oil-lptk/10int-norway-oil-lptk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,10 +60,21 @@
       </media>
     </item>
     <item>
-      <title>In Rare Direct Talks, Israeli and Lebanese Officials Look for Way Forward</title>
+      <title>Ex-Student Wounds 16 in High School Shooting in Turkey</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/turkey-school-shooting-siverek.html</link>
+      <summary>Officials said the teenage attacker killed himself when cornered by the police. The authorities are investigating possible motives.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:46:16 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-turkey-shooting-ftgk/14int-turkey-shooting-ftgk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>In Rare Direct Talks, Israeli and Lebanese Officials Seek Way Forward</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html</link>
       <summary>The talks, set for Tuesday in Washington, were not expected to produce an immediate breakthrough in the war between Hezbollah and Israel.</summary>
-      <pubDate>Tue, 14 Apr 2026 08:50:14 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 09:23:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/13/multimedia/13israel-iran-israel-lebanon-talks-jlph/13israel-iran-israel-lebanon-talks-jlph-mediumSquareAt3X.jpg</image>
@@ -49,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Adopted by Denmark, a Bombed-Out Ukrainian City Is Given New Life</title>
+      <link>https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html</link>
+      <summary>The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:02:10 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-mykolaiv-dispatch-01-hblf-promo/14int-mykolaiv-dispatch-01-hblf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>To Fill Drone Force Ranks, Russia Targets a New Demographic: Students</title>
       <link>https://www.nytimes.com/2026/04/13/world/europe/russia-ukraine-war-recruitment-students.html</link>
       <summary>Recruitment sessions have taken place at hundreds of universities and colleges across the country.</summary>
@@ -56,61 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/09/multimedia/00int-russia-drones-zhpq/00int-russia-drones-zhpq-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>For Months, Pope Avoided Clash With Trump. Now He’s Clapping Back.</title>
-      <link>https://www.nytimes.com/2026/04/13/us/politics/pope-leo-trump-response.html</link>
-      <summary>President Trump lashed out on Sunday night at Pope Leo XIV, who responded hours later by saying he would continue to oppose war.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:39:38 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13trump-news-pope/13pope-hp-vwtf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says</title>
-      <link>https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html</link>
-      <summary>An official inquiry said the perpetrator’s parents, as well as government agencies, had missed several chances to avert the deadly attack.</summary>
-      <pubDate>Mon, 13 Apr 2026 16:51:16 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13UK-SOUTHPORT-jlwg/13UK-SOUTHPORT-jlwg-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>To Open the Strait of Hormuz, Trump Wants to Blockade Iran. Experts Are Skeptical.</title>
-      <link>https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html</link>
-      <summary>President Trump’s announcement of a U.S. blockade was his latest effort to pressure Iran to negotiate after direct talks over the weekend did not yield an agreement.</summary>
-      <pubDate>Mon, 13 Apr 2026 17:15:47 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/13/multimedia/13int-iran-global-pbkf/13int-iran-global-pbkf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Northern Mariana Islands, Guam On Alert for ‘Extremely Dangerous’ Super Typhoon Sinlaku</title>
-      <link>https://www.nytimes.com/2026/04/14/world/asia/typhoon-sinlaku-guam-mariana.html</link>
-      <summary>The storm, named Sinlaku, was expected to make landfall on Tuesday evening in Tinian and Saipan, where tens of thousands of people were urged to shelter in place.</summary>
-      <pubDate>Tue, 14 Apr 2026 07:39:21 +0000</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/09/multimedia/cyclone-tracker-2025-four-wp042026-satellite_map/cyclone-tracker-2025-four-wp042026-satellite_map-mediumSquareAt3X-v25.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump</title>
-      <link>https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html</link>
-      <summary>The Dutch king and queen are set to stay at the White House on Monday night. At a time of trans-Atlantic tension, the Netherlands isn’t sure how it feels about that.</summary>
-      <pubDate>Mon, 13 Apr 2026 20:35:24 +0000</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/12/arts/12int-dutch-royals/12int-dutch-royals-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

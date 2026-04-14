@@ -2,30 +2,8 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-14T12:00:53.029594</generated>
+  <generated>2026-04-14T13:00:55.575795</generated>
   <items>
-    <item>
-      <title>BBC joins paramedics on duty in Lebanon after Israeli strikes</title>
-      <link>https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.</summary>
-      <pubDate>Mon, 13 Apr 2026 21:29:23 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e363/live/991a1670-376e-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>This blockade is a gamble. Will it work?</title>
-      <link>https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:27:43 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849e/live/6ff30700-3752-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Israelis war-weary but most oppose Iran ceasefire, poll suggests</title>
       <link>https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -52,7 +30,7 @@
       <title>Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'</title>
       <link>https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Lord George Robertson, a former Labour defence secretary, will use a speech to accuse "non-military experts in the Treasury" of "vandalism".</summary>
-      <pubDate>Tue, 14 Apr 2026 08:41:04 GMT</pubDate>
+      <pubDate>Tue, 14 Apr 2026 09:49:58 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b904/live/45309e30-37d2-11f1-879d-1b2f5c3919b8.jpg</image>
@@ -82,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Lebanon seeks peace, but Hezbollah needs to be convinced first</title>
-      <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
-      <pubDate>Mon, 13 Apr 2026 23:26:46 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Why doctors' strikes can actually lead to shorter waiting times and what it costs</title>
       <link>https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.</summary>
@@ -111,6 +78,39 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1464/live/fd3db4b0-3735-11f1-ba17-d34f2bc9d6da.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanon seeks peace, but Hezbollah needs to be convinced first</title>
+      <link>https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Lebanese government go into peace talks with limited influence over the group.</summary>
+      <pubDate>Mon, 13 Apr 2026 23:26:46 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e8/live/b19d8720-3748-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Oil prices ease on hopes of new US-Iran peace talks</title>
+      <link>https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Crude prices fall back below $100 a barrel as markets hope an agreement can be reached between the two sides.</summary>
+      <pubDate>Tue, 14 Apr 2026 08:23:11 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/8bf48930-37a0-11f1-bdff-893e177acf0e.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>We will name police and social workers unless action taken, Southport families lawyer says</title>
+      <link>https://www.bbc.com/news/articles/cr411lzn1qwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Chris Walker says he will name staff from five agencies unless suitable disciplinary action is taken.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:45:40 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
