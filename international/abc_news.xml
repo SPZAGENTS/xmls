@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-15T20:02:07.774126</generated>
+  <generated>2026-04-15T21:01:22.218230</generated>
   <items>
     <item>
       <title>Iran live updates: Tehran threatens Red Sea transits if US blockade continues</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Trump says in interview he views war with Iran as 'very close to over'</title>
+      <link>https://abcnews.com/video/132069550/</link>
+      <summary>President Trump said that he viewed the war with Iran as "very close to over" in an interview on Tuesday.</summary>
+      <pubDate>Wed, 15 Apr 2026 13:41:57 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260415_abc_social_trump_iran_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,17 +89,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/US/brian-hooker-ht-gmh-260414_1776173301811_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Parrot explores the ocean in DIY submarine</title>
-      <link>https://abcnews.com/video/132040969/</link>
-      <summary>An Iowa man invented a submarine for his parrot so that he didn't have to leave the bird alone during a trip to the Bahamas.</summary>
-      <pubDate>Tue, 14 Apr 2026 20:34:12 -0400</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Lifestyle/260414_abc_social_parrot_sub_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

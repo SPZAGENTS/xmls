@@ -2,8 +2,8 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-15T20:02:10.369364</generated>
-  <total_articles>321</total_articles>
+  <generated>2026-04-15T21:01:25.028315</generated>
+  <total_articles>342</total_articles>
   <items>
     <item>
       <title>Starmer says he is 'not going to yield' to pressure from Trump on Iran war</title>
@@ -36,17 +36,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/133c/live/318f4160-38a4-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack</title>
-      <link>https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home.</summary>
-      <pubDate>Wed, 15 Apr 2026 10:00:41 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b59c/live/f375bcf0-38bd-11f1-8606-05fe34b06e1b.png</image>
       </media>
     </item>
     <item>
@@ -113,6 +102,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3996/live/ead61e00-3723-11f1-879d-1b2f5c3919b8.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Starmer says UK will not join Trump's blockade of Iran's ports</title>
+      <link>https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.</summary>
+      <pubDate>Mon, 13 Apr 2026 10:09:48 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/33882a20-3702-11f1-9d5c-8ba507d7dbde.jpg</image>
       </media>
     </item>
   </items>

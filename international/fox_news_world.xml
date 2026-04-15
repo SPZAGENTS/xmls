@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-15T20:02:00.832476</generated>
+  <generated>2026-04-15T21:01:15.121163</generated>
   <items>
+    <item>
+      <title>Iran threatens to halt Red Sea traffic in response to US military blockade of ports</title>
+      <link>https://www.foxnews.com/world/iran-threatens-halt-red-sea-traffic-response-us-military-blockade-ports</link>
+      <summary>Iran&amp;apos;s military warns it could block exports and imports in the Red Sea, Persian Gulf and Sea of Oman if the U.S. blockade of Iranian ports is not lifted.</summary>
+      <pubDate>Wed, 15 Apr 2026 13:05:34 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/strait-hormuz-vessels-oman-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Russia's Lavrov says Iran has 'inalienable' right to enrich uranium, openly defying Trump's demands</title>
       <link>https://www.foxnews.com/world/russias-lavrov-says-iran-inalienable-right-enrich-uranium-openly-defying-trumps-demands</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/931/523/AP22094541927629.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China slams US military blockade of Strait of Hormuz as a 'dangerous and irresponsible move'</title>
-      <link>https://www.foxnews.com/world/china-slams-us-military-blockade-strait-hormuz-dangerous-irresponsible-move</link>
-      <summary>China slammed the U.S. military blockade of the Strait of Hormuz as a &amp;quot;dangerous and irresponsible&amp;quot; move, urging all parties to honor a ceasefire agreement.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:38:15 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Donald-Trump-Guo-Jiakun.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-15T20:02:02.785290</generated>
+  <generated>2026-04-15T21:01:16.598718</generated>
   <items>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
@@ -19,10 +19,17 @@
       <priority>100</priority>
     </item>
     <item>
+      <title>Trump says China has agreed not to send weapons to Iran</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/</link>
+      <summary>The president made the claim, which Beijing has yet to confirm, amid anger in China that its vessels could be caught up in a U.S. blockade targeting Iranian ports.</summary>
+      <pubDate>Wed, 15 Apr 2026 17:49:36 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/</link>
       <summary>The deployment includes sailors and Marines due to arrive as the administration attempts to enforce a maritime blockade against the regime in Tehran.</summary>
-      <pubDate>Wed, 15 Apr 2026 16:12:41 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 17:37:31 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/world/interactive/2026/hormuz-strait-control-blockade/</link>
       <summary>Even with a U.S. blockage, geography gives Iran an edge in the Strait of Hormuz, shaping control of a vital global chokepoint.</summary>
       <pubDate>Tue, 14 Apr 2026 19:00:54 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Fugitive Bolsonaro ally, convicted in 2022 coup attempt, is detained by ICE</title>
-      <link>https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/</link>
-      <summary>The arrest of Brazilian former intelligence chief and congressman Alexandre Ramagem ended a manhunt that stretched for six months across two continents.</summary>
-      <pubDate>Mon, 13 Apr 2026 22:28:08 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
