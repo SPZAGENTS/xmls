@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-15T23:01:00.874328</generated>
+  <generated>2026-04-16T01:01:01.063597</generated>
   <items>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
@@ -12,24 +12,17 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>U.S. imposes naval blockade as Trump demands Iran end nuclear program</title>
-      <link>https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/</link>
-      <summary>Peace talks broke down over Iran’s nuclear program, which has survived two decades of international diplomacy seeking to curtail it and more than five weeks of bombing.</summary>
-      <pubDate>Mon, 13 Apr 2026 20:48:31 +0000</pubDate>
-      <priority>100</priority>
+      <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/</link>
+      <summary>The infusion of firepower coincides with the administration’s maritime blockade against the regime in Tehran and as mediators urge both sides to extend their ceasefire.</summary>
+      <pubDate>Wed, 15 Apr 2026 21:16:15 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Trump says China has agreed not to send weapons to Iran</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/</link>
       <summary>The president made the claim, which Beijing has yet to confirm, amid anger in China that its vessels could be caught up in a U.S. blockade targeting Iranian ports.</summary>
       <pubDate>Wed, 15 Apr 2026 19:27:09 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/</link>
-      <summary>The deployment includes sailors and Marines due to arrive as the administration attempts to enforce a maritime blockade against the regime in Tehran.</summary>
-      <pubDate>Wed, 15 Apr 2026 17:37:31 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -68,11 +61,18 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] House opposes Trump on immigration with move to help Haitians</title>
+      <title>House defies Trump on immigration with move to shield Haitians</title>
       <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
       <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
       <pubDate>Wed, 15 Apr 2026 18:15:10 +0000</pubDate>
       <priority>65</priority>
+    </item>
+    <item>
+      <title>World’s oldest gorilla, known for her dignified manner, turns 69</title>
+      <link>https://www.washingtonpost.com/lifestyle/2026/04/14/worlds-oldest-gorilla-fatou-berlin/</link>
+      <summary>Legend has it that Fatou was brought from Africa to France in the late 1950s by a sailor who then traded her to settle a bar bill.</summary>
+      <pubDate>Tue, 14 Apr 2026 09:00:05 +0000</pubDate>
+      <priority>50</priority>
     </item>
   </items>
 </content-feed>

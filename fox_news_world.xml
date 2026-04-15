@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-15T23:00:58.773255</generated>
+  <generated>2026-04-16T01:00:59.359589</generated>
   <items>
+    <item>
+      <title>Iran shifts 20M barrels through ‘dark’ offshore oil network bypassing US port blockade, firm says</title>
+      <link>https://www.foxnews.com/world/iran-shifts-20m-barrels-through-dark-offshore-oil-network-bypassing-us-port-blockade-firm-says</link>
+      <summary>Iran is moving roughly 20 million barrels of oil through covert offshore networks near Malaysia to bypass the U.S. blockade, Windward AI says.</summary>
+      <pubDate>Wed, 15 Apr 2026 16:12:04 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/strait-hormuz-maritime.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says</title>
       <link>https://www.foxnews.com/world/israeli-strike-hezbollah-more-devastating-than-2024-pager-attack-idf-says</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/netanyahu-trump-erdogan.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Zelenskyy announces 'the future is here' after war's first all-robot capture</title>
-      <link>https://www.foxnews.com/world/zelenskyy-announces-the-future-here-after-wars-first-all-robot-capture</link>
-      <summary>Ukraine captured a Russian position using only unmanned robots and drones, Zelenskyy says, calling it a first in the history of the war with Russia.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:49:14 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/931/523/AP22094541927629.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
