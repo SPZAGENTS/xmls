@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T23:01:02.778284</generated>
+  <generated>2026-04-16T00:02:55.245502</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive</title>
       <link>https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel</link>
       <summary>The diplomacy came as the White House dismissed reports that President Trump wanted to extend the cease-fire, while still expressing optimism that talks could yield an agreement.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:54:49 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 20:34:44 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-200-lgwk/15israel-iran-200-lgwk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15iiran-430-vjgt/15iiran-430-vjgt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,10 +38,10 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] With Iran War on Pause, Political Battle Resumes Over Israeli Democracy</title>
+      <title>With Iran War on Pause, Political Battle Resumes Over Israeli Democracy</title>
       <link>https://www.nytimes.com/2026/04/15/world/middleeast/israel-ben-gvir-hearing.html</link>
       <summary>A court fight over Itamar Ben-Gvir, an extremist who oversees the police, pits the attorney general against Benjamin Netanyahu and his right-wing government.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:50:03 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 20:39:54 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-israel-gvir-1-czhj/15int-israel-gvir-1-czhj-mediumSquareAt3X.jpg</image>
@@ -82,24 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Israel Considering Cease-Fire With Lebanon, Officials Say</title>
-      <link>https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html</link>
-      <summary>Talk of a truce that would pause the war between Israel and Iran-backed Hezbollah in Lebanon followed rare direct talks between Israel and Lebanon in Washington on Tuesday.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:16:01 +0000</pubDate>
+      <title>[PENDING_TRANSLATION] Pakistani Mediators Arrive in Tehran in Bid to Keep U.S.-Iran Peace Talks Alive</title>
+      <link>https://www.nytimes.com/2026/04/15/world/middleeast/pakistani-peace-talks-blockade.html</link>
+      <summary>The diplomacy came as the U.S. Navy locked down trade to Iranian ports, and Iran responded by threatening critical shipping routes across the region.</summary>
+      <pubDate>Wed, 15 Apr 2026 20:33:18 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-hfo-israel-lebanon-truce-topart-fczt/15int-hfo-israel-lebanon-truce-topart-fczt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran-Linked Ships Slow or Stop as U.S. Navy Enforces Strait of Hormuz Blockade</title>
-      <link>https://www.nytimes.com/2026/04/15/world/middleeast/iran-ships-strait-hormuz-blockade.html</link>
-      <summary>More than a dozen U.S. Navy warships are enforcing a blockade on all vessels from all nations entering or leaving coastal areas or ports in Iran.</summary>
-      <pubDate>Wed, 15 Apr 2026 18:13:23 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-shipwatchers-hpkw/15israel-iran-shipwatchers-hpkw-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-mideast-ledeall-1-hvkf/15int-mideast-ledeall-1-hvkf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Claudia Sheinbaum’s War on Crime in Mexico Faces a Grim Reckoning: 133,000 Missing People</title>
+      <link>https://www.nytimes.com/2026/04/15/world/americas/claudia-sheinbaum-mexico-crime-missing-people.html</link>
+      <summary>President Claudia Sheinbaum of Mexico is under pressure to end one of her country’s most painful tragedies: the disappearance of more than 133,000 people.</summary>
+      <pubDate>Wed, 15 Apr 2026 18:01:52 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/world/00int-mexico-disappearances/00int-mexico-disappearances-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
