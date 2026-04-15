@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-15T02:02:10.855571</generated>
+  <generated>2026-04-15T03:01:44.827754</generated>
   <items>
-    <item>
-      <title>Iran live updates: Nearly 400 US service members wounded in war, official says</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Tue, 14 Apr 2026 17:01:00 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Countdown to the WNBA Draft</title>
       <link>https://abcnews.com/video/131987015/</link>
@@ -45,6 +34,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Doctor faces manslaughter charge for allegedly removing wrong organ during surgery</title>
+      <link>https://abcnews.com/US/wireStory/florida-doctor-faces-manslaughter-charge-allegedly-removing-wrong-132036396</link>
+      <summary>A grand jury indicted a Florida doctor on manslaughter charges for allegedly removing a patient&amp;rsquo;s liver, instead of his spleen, during a 2024 surgery</summary>
+      <pubDate>Tue, 14 Apr 2026 14:02:31 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>DOJ moves to vacate convictions of Proud Boys, Oath Keepers from Jan. 6</title>
+      <link>https://abcnews.com/Politics/doj-moves-vacate-convictions-proud-boys-oath-keepers/story?id=132042992</link>
+      <summary>The request is for those who were previously not covered by President Donald Trump’s sweeping Day 1 clemency grants.</summary>
+      <pubDate>Tue, 14 Apr 2026 19:51:30 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/pb_1776206746900_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: BTS gets 8 Rolling Stone magazine covers</title>
       <link>https://abcnews.com/video/132035931/</link>
       <summary>The magazine featuring the recently reunited band will be available April 20.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260414_gma3_pop4_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: 2026 Rock &amp; Roll Hall of Fame inductees revealed</title>
-      <link>https://abcnews.com/video/132024568/</link>
-      <summary>Phil Collins, Billy Idol, Iron Maiden and Oasis are among this year's inductees, announced on a Rock &amp; Roll Hall of Fame-themed episode of "American Idol."</summary>
-      <pubDate>Tue, 14 Apr 2026 12:09:31 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260414_gma_pop2_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

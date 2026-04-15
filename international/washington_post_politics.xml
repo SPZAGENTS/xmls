@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-15T02:02:06.443129</generated>
+  <generated>2026-04-15T03:01:40.115679</generated>
   <items>
     <item>
       <title>Pope responds to president’s insults: ‘I have no fear of the Trump administration’</title>
       <link>https://www.washingtonpost.com/politics/2026/04/12/trump-criticizes-pope-leo/</link>
       <summary>The president wrote that the first U.S.-born pope, who has criticized the Iran war, was “weak” and “terrible” on crime and foreign policy.</summary>
       <pubDate>Mon, 13 Apr 2026 12:31:31 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>As Iran war drags on, midterm forecasts for Republicans get even worse</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/13/midterms-iran-trump-republicans-democrats/</link>
-      <summary>The GOP was already bracing for a tough election, but with the ceasefire in doubt, gas prices are likely to stay high, and voters’ economic outlook is dismal.</summary>
-      <pubDate>Mon, 13 Apr 2026 09:00:11 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -73,6 +66,13 @@
       <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
       <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>DOJ moves to undo Jan. 6 rioters’ convictions for seditious conspiracy</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/january-6-convictions-seditious-conspiracy/</link>
+      <summary>President Donald Trump last year commuted the prison sentences of 12 members of the Proud Boys and Oath Keepers.</summary>
+      <pubDate>Tue, 14 Apr 2026 23:38:20 +0000</pubDate>
+      <priority>65</priority>
     </item>
   </items>
 </content-feed>
