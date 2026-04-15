@@ -2,10 +2,10 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T14:03:20.181564</generated>
+  <generated>2026-04-15T15:03:37.715498</generated>
   <items>
     <item>
-      <title>Dodging Bombs and Drones, This Postman Still Delivers</title>
+      <title>Dodging Bombs and Drones, This Postman in Ukraine Still Delivers</title>
       <link>https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html</link>
       <summary>Oleksiy Klochkovsky has driven mail and parcels around the front line in Ukraine for four years. He keeps one ear tuned for danger from above.</summary>
       <pubDate>Wed, 15 Apr 2026 09:02:04 +0000</pubDate>
@@ -49,24 +49,13 @@
       </media>
     </item>
     <item>
-      <title>Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html</link>
-      <summary>The gathering ended with encouraging words, even as Israel continued to refuse to halt its military campaign against Iran-backed Hezbollah in Lebanon.</summary>
-      <pubDate>Wed, 15 Apr 2026 00:52:41 +0000</pubDate>
+      <title>As talks begin, U.S. applies little pressure to Israel to stop the fighting in Lebanon.</title>
+      <link>https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel/israel-lebanon-us-talks</link>
+      <summary>Despite hailing the negotiations as a “historic milestone,” Washington did not call for a halt to Israeli strikes or for a withdrawal from Lebanese territory.</summary>
+      <pubDate>Wed, 15 Apr 2026 11:15:18 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-diplo-sub-jkgf/14dc-diplo-sub-jkgf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Blockade Risks Upending an Emerging Détente With China</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html</link>
-      <summary>In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”</summary>
-      <pubDate>Wed, 15 Apr 2026 01:49:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-trump-china-qwcp/14dc-trump-china-qwcp-mediumSquareAt3X-v2.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-lebanon-assess-ztmh/15israel-iran-lebanon-assess-ztmh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html</link>
-      <summary>A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.</summary>
-      <pubDate>Wed, 15 Apr 2026 01:01:12 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-hormuz-spoofing1/14int-iran-ledeall-1-tglz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election</title>
       <link>https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html</link>
       <summary>For years, Peter Magyar was a loyal ally of Viktor Orban, the far-right Hungarian leader. Then he changed sides — and defeated his former boss in a landslide victory on Sunday. Does he represent real change?</summary>
@@ -111,6 +89,28 @@
       <priority>65</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-hungary-magyar-01-gzvb/14int-hungary-magyar-01-gzvb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>What Happened After Denmark Adopted a Ruined City in Ukraine</title>
+      <link>https://www.nytimes.com/2026/04/14/world/europe/mykolaiv-ukraine-denmark-rebuilding.html</link>
+      <summary>The Danish government has contributed more than $250 million to Mykolaiv, as the Trump administration pushes a more business-focused plan.</summary>
+      <pubDate>Tue, 14 Apr 2026 12:23:30 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-mykolaiv-dispatch-01-hblf-promo/14int-mykolaiv-dispatch-01-hblf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>With Algeria Visit, Pope Leo Returns to His Augustinian Roots</title>
+      <link>https://www.nytimes.com/2026/04/14/world/africa/pope-leo-algeria-africa-visit.html</link>
+      <summary>Some theologians say the pontiff’s understanding of Augustine’s teachings helped inform his response to President Trump’s negative comments about him.</summary>
+      <pubDate>Tue, 14 Apr 2026 17:08:44 +0000</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-africa-pope-augustine-top-zkjt/14int-africa-pope-augustine-top-zkjt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

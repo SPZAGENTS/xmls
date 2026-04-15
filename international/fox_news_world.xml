@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-15T14:03:17.376136</generated>
+  <generated>2026-04-15T15:03:34.580165</generated>
   <items>
     <item>
       <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
@@ -27,17 +27,6 @@
       </media>
     </item>
     <item>
-      <title>IDF uncovers Hezbollah weapons stash inside hospital in Lebanon</title>
-      <link>https://www.foxnews.com/world/idf-uncovers-hezbollah-weapons-stash-inside-hospital-lebanon</link>
-      <summary>Israel Defense Forces uncovered a weapons stash used by Hezbollah terrorists inside a hospital in Lebanon this weekend.</summary>
-      <pubDate>Sun, 12 Apr 2026 09:12:16 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/guns-israel.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Iran in crisis as US talks collapse, Mojtaba’s ‘mafia’ regime blocks Khamenei burial: analyst</title>
       <link>https://www.foxnews.com/world/iran-crisis-us-talks-collapse-mojtabas-mafia-regime-blocks-khamenei-burial-analyst</link>
       <summary>Analyst says Iran&amp;apos;s delay in burying Supreme Leader Khamenei over 40 days after his killing reveals a deepening crisis inside the Islamic Republic.</summary>
@@ -45,6 +34,17 @@
       <priority>95</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US destroyer interdicts two oil tankers trying to leave Iran during Trump's blockade</title>
+      <link>https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade</link>
+      <summary>A U.S. destroyer interdicted two oil tankers trying to leave Iran as part of the Trump administration&amp;apos;s ongoing blockade on Iranian ports, a report said.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:33:42 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/US-destroyer.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

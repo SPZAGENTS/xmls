@@ -2,8 +2,30 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-15T14:03:16.780314</generated>
+  <generated>2026-04-15T15:03:33.980262</generated>
   <items>
+    <item>
+      <title>President Trump says Iran war is 'very close to being over' and more top headlines</title>
+      <link>https://www.foxnews.com/us/president-trump-says-iran-war-very-close-being-over-more-top-headlines</link>
+      <summary>Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:06:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/president-donald-trump-april-10-2026.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution</title>
+      <link>https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution</link>
+      <summary>For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:00:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/iranian-jews-tehran-scaled.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Blockade 101: American sea power on display as Trump corners Iran and warns off China</title>
       <link>https://www.foxnews.com/opinion/blockade-101-american-sea-power-display-trump-corners-iran-warns-china</link>
@@ -12,6 +34,28 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/cargo-shi-gulf-near-strait-of-hormuz.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Where you live could shape your risk of cancer mortality, study suggests</title>
+      <link>https://www.foxnews.com/health/live-could-shape-risk-cancer-mortality-study-suggests</link>
+      <summary>New research reveals a widening gap in cancer mortality improvement between high-income urban areas and low-income rural U.S. counties.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:00:02 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/senior-woman-vienna-street-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US destroyer interdicts two oil tankers trying to leave Iran during Trump's blockade</title>
+      <link>https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade</link>
+      <summary>A U.S. destroyer interdicted two oil tankers trying to leave Iran as part of the Trump administration&amp;apos;s ongoing blockade on Iranian ports, a report said.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:33:42 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/US-destroyer.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,24 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Stop calling this brinkmanship. Trump's Hormuz move is the real pressure</title>
-      <link>https://www.foxnews.com/opinion/stop-calling-brinkmanship-trumps-hormuz-move-real-pressure</link>
-      <summary>President Trump&amp;apos;s naval blockade cutting off Iran&amp;apos;s oil shipments through the Strait of Hormuz is the only play left after failed Islamabad negotiations.</summary>
-      <pubDate>Wed, 15 Apr 2026 05:00:25 -0400</pubDate>
-      <priority>90</priority>
+      <title>Your favorite fast-food app is playing mind games and charging you for the privilege</title>
+      <link>https://www.foxnews.com/opinion/fast-food-app-playing-mind-games-charging-you-for-privilege</link>
+      <summary>Your $8 fast-food order may balloon to $22 thanks to fee stacking, including delivery fees, service fees and the sneaky new small order fee penalty.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:00:03 -0400</pubDate>
+      <priority>80</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/president-donald-trump-april-10-2026.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>From Iran to the fake Jesus image, Trump is facing a growing backlash for his inflammatory rhetoric</title>
-      <link>https://www.foxnews.com/opinion/iran-fake-jesus-image-trump-facing-growing-backlash-inflammatory-rhetoric</link>
-      <summary>Trump deleted an AI image of himself as Jesus after backlash from Catholic leaders and conservative allies, reigniting debate over his mental fitness.</summary>
-      <pubDate>Wed, 15 Apr 2026 03:00:06 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-reporters-air-force-one-miami-fox-news.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/BIG-ARCH-BURGER-WSJ-INTERVIEW.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,39 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/bottoms-georgia.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Egg coffee' drink going viral on social media as doctor warns of hidden health risk</title>
-      <link>https://www.foxnews.com/food-drink/egg-coffee-drink-going-viral-social-media-doctor-warns-hidden-health-risk</link>
-      <summary>The Vietnamese egg coffee is going viral on social media, but experts say the raw egg yolks in the trendy drink may pose serious salmonella health risks.</summary>
-      <pubDate>Wed, 15 Apr 2026 06:00:22 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/VIETNAMESE-EGG-COFFEE-GOES-VIRAL-IS-IT-HEALTHY-YOLKS-SALMONELLA-3.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Suspect in string of random attacks in Georgia is naturalized citizen from UK, DHS says</title>
-      <link>https://www.foxnews.com/us/georgia-attack-suspect-uk-naturalized-citizen-dhs</link>
-      <summary>The suspect in a string of random attacks in Georgia, including in the killing of a DHS employee, is a naturalized U.S. citizen from the U.K., according to the agency.</summary>
-      <pubDate>Wed, 15 Apr 2026 03:36:43 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Lauren-Bullis-Olaolukitan-Abel.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Blanche torches Trump foe Boasberg after appeals court blocks judge again in deportation fight</title>
-      <link>https://www.foxnews.com/politics/blanche-torches-trump-foe-boasberg-after-appeals-court-blocks-judge-again-deportation-fight</link>
-      <summary>Acting AG Todd Blanche accuses Judge Boasberg of targeting DOJ attorneys after an appeals court again rebuked his contempt probe in a deportation case.</summary>
-      <pubDate>Wed, 15 Apr 2026 06:00:20 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/blanche-boasberg.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
