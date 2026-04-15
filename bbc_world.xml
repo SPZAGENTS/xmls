@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-15T09:06:55.633534</generated>
+  <generated>2026-04-15T11:01:29.844301</generated>
   <items>
     <item>
       <title>'Bit of pain' worth long-term security from Iran, Bessent tells BBC</title>
@@ -34,17 +34,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e363/live/991a1670-376e-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sixteen injured after ex-student opens fire at high school in Turkey</title>
-      <link>https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Students and teachers are among those who were injured in the attack in the country's south-east.</summary>
-      <pubDate>Tue, 14 Apr 2026 13:23:50 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Police officers among seven arrested over deadly Haiti stampede</title>
-      <link>https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.</summary>
-      <pubDate>Tue, 14 Apr 2026 09:49:45 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a631/live/96b8ee20-37e0-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on</title>
       <link>https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.</summary>
@@ -104,10 +82,32 @@
       </media>
     </item>
     <item>
+      <title>South Korea jails American YouTuber for public nuisance</title>
+      <link>https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.</summary>
+      <pubDate>Wed, 15 Apr 2026 04:21:51 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4834/live/ebe6eb10-387e-11f1-9f4a-3581017c85eb.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Magyar to meet Hungarian president as Trump says next PM 'a good man'</title>
+      <link>https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.</summary>
+      <pubDate>Wed, 15 Apr 2026 07:37:09 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7347/live/2428a790-3896-11f1-a836-373ce269a87a.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>250 missing after migrant boat sinks in Indian Ocean</title>
       <link>https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The trawler "reportedly sank due to heavy winds, rough seas and overcrowding", the United Nations said.</summary>
-      <pubDate>Wed, 15 Apr 2026 01:28:08 GMT</pubDate>
+      <pubDate>Wed, 15 Apr 2026 07:52:40 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a78/live/41248c90-3866-11f1-88f7-8f678e5cb386.jpg</image>

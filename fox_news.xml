@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-15T09:06:56.256155</generated>
+  <generated>2026-04-15T11:01:30.424080</generated>
   <items>
     <item>
       <title>US military kills four alleged narco-terrorists in lethal strike on drug-trafficking vessel in Eastern Pacific</title>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>Dangerous water warnings hit trendy vacation spot after powerful storm pounds area</title>
-      <link>https://www.foxnews.com/travel/dangerous-water-warnings-hit-trendy-vacation-spot-after-powerful-storm-pounds-area</link>
-      <summary>Hawaii health officials issued brown water advisories across Kaua&amp;apos;i, O&amp;apos;ahu, Maui and the Big Island after a Kona Low storm brought heavy rainfall.</summary>
-      <pubDate>Tue, 14 Apr 2026 19:33:47 -0400</pubDate>
+      <title>From Iran to the fake Jesus image, Trump is facing a growing backlash for his inflammatory rhetoric</title>
+      <link>https://www.foxnews.com/opinion/iran-fake-jesus-image-trump-facing-growing-backlash-inflammatory-rhetoric</link>
+      <summary>Trump deleted an AI image of himself as Jesus after backlash from Catholic leaders and conservative allies, reigniting debate over his mental fitness.</summary>
+      <pubDate>Wed, 15 Apr 2026 03:00:06 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/waikiki-beach-honolulu-hawaii-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-reporters-air-force-one-miami-fox-news.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Suspect in string of random attacks in Georgia is naturalized citizen from UK, DHS says</title>
+      <link>https://www.foxnews.com/us/georgia-attack-suspect-uk-naturalized-citizen-dhs</link>
+      <summary>The suspect in a string of random attacks in Georgia, including in the killing of a DHS employee, is a naturalized U.S. citizen from the U.K., according to the agency.</summary>
+      <pubDate>Wed, 15 Apr 2026 03:36:43 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Lauren-Bullis-Olaolukitan-Abel.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/colorado-crash-thumb.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Former UCLA gynecologist sentenced after pleading guilty to sexually assaulting patients at school</title>
-      <link>https://www.foxnews.com/us/former-ucla-gynecologist-sentenced-pleading-guilty-sexually-assaulting-patients-school</link>
-      <summary>James Heaps, a former UCLA OB-GYN, pleaded guilty to 13 felony counts and was sentenced to 11 years in prison for sexually assaulting his patients.</summary>
-      <pubDate>Tue, 14 Apr 2026 21:50:29 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/james-heaps.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
