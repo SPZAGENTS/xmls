@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-15T21:01:16.598718</generated>
+  <generated>2026-04-15T22:01:12.675918</generated>
   <items>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
@@ -54,13 +54,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Lambasting Pope Leo, Trump risks alienating conservative Catholics</title>
-      <link>https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/</link>
-      <summary>Veteran church observers say an open war of words between a pope and a U.S. president is unprecedented.</summary>
-      <pubDate>Mon, 13 Apr 2026 18:10:42 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>Lebanese, Israeli diplomats hold rare face-to-face meeting in Washington</title>
       <link>https://www.washingtonpost.com/world/2026/04/14/iran-israel-lebanon-talks-washington/</link>
       <summary>Secretary of State Marco Rubio hosted ambassadors from the two neighboring states in what was described as a working group aimed at reaching a ceasefire.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/world/interactive/2026/hormuz-strait-control-blockade/</link>
       <summary>Even with a U.S. blockage, geography gives Iran an edge in the Strait of Hormuz, shaping control of a vital global chokepoint.</summary>
       <pubDate>Tue, 14 Apr 2026 19:00:54 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Fugitive Bolsonaro ally, convicted in 2022 coup attempt, is detained by ICE</title>
+      <link>https://www.washingtonpost.com/world/2026/04/13/brazil-fugitive-congressman-arrested-alexandre-ramagem/</link>
+      <summary>The arrest of Brazilian former intelligence chief and congressman Alexandre Ramagem ended a manhunt that stretched for six months across two continents.</summary>
+      <pubDate>Mon, 13 Apr 2026 22:28:08 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>

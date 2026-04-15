@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-15T21:01:15.121163</generated>
+  <generated>2026-04-15T22:01:11.413053</generated>
   <items>
+    <item>
+      <title>From Auschwitz, Holocaust survivor issues urgent warning over rising antisemitism in Canada</title>
+      <link>https://www.foxnews.com/world/from-auschwitz-holocaust-survivor-issues-urgent-warning-over-rising-antisemitism-canada</link>
+      <summary>Holocaust survivor Nate Leipciger, 98, warns from Auschwitz about growing antisemitism in Canada, calling on the nation to stand up and take action now.</summary>
+      <pubDate>Wed, 15 Apr 2026 14:45:40 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/carney-toronto-shooting.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran threatens to halt Red Sea traffic in response to US military blockade of ports</title>
       <link>https://www.foxnews.com/world/iran-threatens-halt-red-sea-traffic-response-us-military-blockade-ports</link>
@@ -45,17 +56,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/yemeni-soldiers-bab-el-mandeb-strait-yemen-middle-east-fox-news.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran in crisis as US talks collapse, Mojtaba’s ‘mafia’ regime blocks Khamenei burial: analyst</title>
-      <link>https://www.foxnews.com/world/iran-crisis-us-talks-collapse-mojtabas-mafia-regime-blocks-khamenei-burial-analyst</link>
-      <summary>Analyst says Iran&amp;apos;s delay in burying Supreme Leader Khamenei over 40 days after his killing reveals a deepening crisis inside the Islamic Republic.</summary>
-      <pubDate>Sun, 12 Apr 2026 18:22:36 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mojtaba-khamenei-tehran-iran-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

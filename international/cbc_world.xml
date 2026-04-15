@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-15T21:01:24.388849</generated>
+  <generated>2026-04-15T22:01:20.064647</generated>
   <items>
     <item>
       <title>'We were a normal family … but then everything changed': Refugees recount brutal toll of Sudan's civil war</title>
@@ -16,6 +16,13 @@
       <link>https://www.cbc.ca/news/world/us-uk-tensions-charles-visit-9.7164234?cmp=rss</link>
       <summary>British Finance Minister Rachel Reeves was not backing away from her criticism of the Iran war as "folly," even as she prepared to meet Treasury Secretary Scott Bessent and other U.S. officials in Washington on Wednesday.</summary>
       <pubDate>Wed, 15 Apr 2026 10:23:08 EDT</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Why the U.S. and Iran can't reach a peace deal | About That</title>
+      <link>https://www.cbc.ca/player/play/9.7164912?cmp=rss</link>
+      <summary>Andrew Chang explains what's keeping the U.S. and Iran from reaching a peace agreement following six weeks of ongoing war and a recent marathon negotiating session in Pakistan. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images</summary>
+      <pubDate>Wed, 15 Apr 2026 14:44:38 EDT</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -66,13 +73,6 @@
       <summary>A student opened fire on two classrooms at a middle school in Turkey on Wednesday, killing nine people and wounding 13 others, the interior minister said, in the country's second such shooting in two days.</summary>
       <pubDate>Wed, 15 Apr 2026 09:56:12 EDT</pubDate>
       <priority>80</priority>
-    </item>
-    <item>
-      <title>Armed with paintbrushes, volunteers try to preserve rare books at Gaza City's Omari library</title>
-      <link>https://www.cbc.ca/news/world/gaza-library-war-9.7163599?cmp=rss</link>
-      <summary>A group of volunteers had begun sifting through the damage at the Omari library in Gaza City and trying to save whatever books they can find. They say the work is not just about the books, it's about protecting the culture and heritage of the Gaza Strip.</summary>
-      <pubDate>Wed, 15 Apr 2026 04:00:00 EDT</pubDate>
-      <priority>75</priority>
     </item>
   </items>
 </content-feed>
