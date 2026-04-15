@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-15T13:01:20.589212</generated>
+  <generated>2026-04-15T14:03:16.155314</generated>
   <items>
     <item>
       <title>'Bit of pain' worth long-term security from Iran, Bessent tells BBC</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d7/live/2c26e4b0-3833-11f1-b164-cbd9e6dd0bb7.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>More than 200 Iranian sailors stranded after US torpedo attack return home</title>
+      <link>https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those repatriated.</summary>
+      <pubDate>Wed, 15 Apr 2026 10:00:41 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2971/live/94d6cb20-38a5-11f1-a963-91d9e730d487.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,10 +93,10 @@
       </media>
     </item>
     <item>
-      <title>Magyar meets Hungarian president as Trump says next PM 'a good man'</title>
+      <title>Magyar calls for fast handover of power in talks with Hungary's president</title>
       <link>https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:05:57 GMT</pubDate>
+      <summary>Péter Magyar, the man who ended Viktor Orbán's 16 years of continuous rule, wants the new parliament to convene in early May.</summary>
+      <pubDate>Wed, 15 Apr 2026 10:50:14 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f901/live/f93e6380-38a9-11f1-aa75-d72ec285eda5.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5079/live/5bbcb460-38ac-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Kanye West postpones France gig following UK ban</title>
-      <link>https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It comes a week after the UK government announced it would block the rapper from entering the country.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:29:43 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68cd/live/19cf70a0-388f-11f1-866e-6700ddf80eed.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
