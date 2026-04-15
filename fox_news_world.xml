@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-15T22:01:11.413053</generated>
+  <generated>2026-04-15T23:00:58.773255</generated>
   <items>
+    <item>
+      <title>Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says</title>
+      <link>https://www.foxnews.com/world/israeli-strike-hezbollah-more-devastating-than-2024-pager-attack-idf-says</link>
+      <summary>Israel says roughly 50 aircraft struck more than 100 Hezbollah targets across Lebanon in a devastating 60-second operation that killed 250 operatives.</summary>
+      <pubDate>Wed, 15 Apr 2026 15:00:59 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/lebanon-israel-strike.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>From Auschwitz, Holocaust survivor issues urgent warning over rising antisemitism in Canada</title>
       <link>https://www.foxnews.com/world/from-auschwitz-holocaust-survivor-issues-urgent-warning-over-rising-antisemitism-canada</link>
@@ -45,17 +56,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/islamabad-talks.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>‘Gate of Tears’ at risk: Iran threatens major new global chokepoint if US moves on Hormuz</title>
-      <link>https://www.foxnews.com/world/gate-tears-risk-iran-threatens-major-new-global-chokepoint-us-moves-hormuz</link>
-      <summary>Senior Middle East advisor warns Iran could use Houthi proxies to blockade the Bab al-Mandeb strait if the U.S. blocks the Strait of Hormuz.</summary>
-      <pubDate>Sun, 12 Apr 2026 20:24:11 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/yemeni-soldiers-bab-el-mandeb-strait-yemen-middle-east-fox-news.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

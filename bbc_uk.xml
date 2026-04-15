@@ -2,10 +2,21 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-15T22:01:06.751790</generated>
+  <generated>2026-04-15T23:00:56.556026</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] US war on Iran was a 'mistake', says Reeves</title>
+      <title>Israeli triple-tap strike kills three paramedics in Lebanon, officials say</title>
+      <link>https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Lebanon's government condemns as a "flagrant crime" the killing of the paramedics, one of whom featured in a BBC report.</summary>
+      <pubDate>Wed, 15 Apr 2026 18:48:34 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/41ccc2f0-38f4-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US war on Iran was a 'mistake', says Reeves</title>
       <link>https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The chancellor's criticism follows a report that the conflict will hit the UK harder than other big economies.</summary>
       <pubDate>Wed, 15 Apr 2026 18:58:18 GMT</pubDate>
@@ -16,13 +27,13 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Three paramedics killed in successive Israeli strikes in Lebanon, officials say</title>
-      <link>https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Lebanon's governments condemns as a "flagrant crime" the killing of the paramedics, one of whom featured in a BBC report.</summary>
-      <pubDate>Wed, 15 Apr 2026 18:48:34 GMT</pubDate>
+      <title>Frank Gardner: What is China's role in the Iran war?</title>
+      <link>https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.</summary>
+      <pubDate>Wed, 15 Apr 2026 18:54:06 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/41ccc2f0-38f4-11f1-8606-05fe34b06e1b.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726b/live/1d1f9880-38fc-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,28 +49,6 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Frank Gardner: What is China's role in the Iran war?</title>
-      <link>https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.</summary>
-      <pubDate>Wed, 15 Apr 2026 18:54:06 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726b/live/1d1f9880-38fc-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israel and Hezbollah continue attacks after Israel-Lebanon talks in US</title>
-      <link>https://www.bbc.com/news/articles/c87ww2z0z3zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Israel strikes hit southern Lebanon and Hezbollah fires rockets at Israel, a day after rare direct negotiations.</summary>
-      <pubDate>Wed, 15 Apr 2026 14:15:50 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d40e/live/a9433d10-38b8-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Man arrested climbing into Israeli embassy had arrived on small boat twice, court hears</title>
       <link>https://www.bbc.com/news/articles/c1mkk4plgd4o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Abdullah Albadri denies charges preparing terrorist acts and being in possession of two knives.</summary>
@@ -67,17 +56,6 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba0/live/838fc000-38dd-11f1-873f-c76196ac5460.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Manhunt after attempted arson attack on synagogue</title>
-      <link>https://www.bbc.com/news/articles/cew77rwrevdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Police say two suspects threw petrol-filled bottles at Finchley Reform Synagogue but they did not ignite.</summary>
-      <pubDate>Wed, 15 Apr 2026 16:03:30 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dea/live/953bf7f0-38d9-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>Arrests after attempted arson attack on synagogue</title>
+      <link>https://www.bbc.com/news/articles/cew77rwrevdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Police arrest a man, 46, and a woman, 47, on suspicion of arson at Finchley Reform Synagogue.</summary>
+      <pubDate>Wed, 15 Apr 2026 19:58:49 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dea/live/953bf7f0-38d9-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Tracking the ships crossing the Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Since the start of the US blockade on Monday, 15 vessels have crossed the Strait of Hormuz, nine of which have links to Iran, BBC Verify analysis of ship-tracking data suggests.</summary>
+      <pubDate>Wed, 15 Apr 2026 13:12:52 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Is the US blockade of Iran working?</title>
       <link>https://www.bbc.com/news/videos/cx2449xklnko?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>BBC Verify has been looking into whether the US blockade of Iran near the Strait of Hormuz is working.</summary>
@@ -104,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>How many ships are crossing the Strait of Hormuz?</title>
-      <link>https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Since the start of the US blockade on Monday, 15 vessels have crossed the Strait of Hormuz, nine of which have links to Iran, BBC Verify analysis of ship-tracking data suggests.</summary>
-      <pubDate>Wed, 15 Apr 2026 13:12:52 GMT</pubDate>
+      <title>Jessie Ware on the 'hyper-surreal' high of her first arena tour</title>
+      <link>https://www.bbc.com/news/articles/c4g5x413205o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The singer will play three UK arenas later this year, 14 years after her first album came out.</summary>
+      <pubDate>Wed, 15 Apr 2026 14:30:17 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6706/live/cd50e6c0-1c62-11f1-b8c2-59d98cecc063.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
