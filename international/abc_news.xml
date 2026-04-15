@@ -2,16 +2,38 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-15T03:01:44.827754</generated>
+  <generated>2026-04-15T04:01:25.251893</generated>
   <items>
     <item>
-      <title>WATCH: Countdown to the WNBA Draft</title>
-      <link>https://abcnews.com/video/131987015/</link>
-      <summary>Three of the biggest prospects, Lauren Betts, Kiki Rice and Gabriela Jaquez, are fresh off their historic national championship with UCLA and join “GMA” live to talk about the big night.</summary>
-      <pubDate>Mon, 13 Apr 2026 12:36:47 -0400</pubDate>
-      <priority>95</priority>
+      <title>Iran live updates: Nearly 400 US service members wounded in war, official says</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Tue, 14 Apr 2026 19:52:21 -0400</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/GMA/240613_gma_wnba2_0740_hpMain_4x3_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/iran-1-ht-gmh-260414_1776167361553_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>4 killed after US strikes suspected drug boat in eastern Pacific</title>
+      <link>https://abcnews.com/US/wireStory/us-strike-suspected-drug-boat-eastern-pacific-kills-132045134</link>
+      <summary>The U.S. military has launched a strike on another boat accused of carrying drugs in the eastern Pacific Ocean, killing four people</summary>
+      <pubDate>Tue, 14 Apr 2026 20:24:51 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_2d340b73b2649c9b5287da3d4b5d8a8e_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: President Trump and Pope Leo in disagreement over war in Iran</title>
+      <link>https://abcnews.com/video/132028834/</link>
+      <summary>Trump and Pope Leo's disagreement over the war in Iran was amplified after Trump attacked the pope on social media and posted a now-deleted AI-generated image that depicted him as a Jesus-like figure.</summary>
+      <pubDate>Tue, 14 Apr 2026 13:27:04 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260414_abc_social_trump_pope1_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,17 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Doctor faces manslaughter charge for allegedly removing wrong organ during surgery</title>
-      <link>https://abcnews.com/US/wireStory/florida-doctor-faces-manslaughter-charge-allegedly-removing-wrong-132036396</link>
-      <summary>A grand jury indicted a Florida doctor on manslaughter charges for allegedly removing a patient&amp;rsquo;s liver, instead of his spleen, during a 2024 surgery</summary>
-      <pubDate>Tue, 14 Apr 2026 14:02:31 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -85,7 +96,7 @@
       <title>WATCH: Parrot explores the ocean in DIY submarine</title>
       <link>https://abcnews.com/video/132040969/</link>
       <summary>An Iowa man invented a submarine for his parrot so that he didn't have to leave the bird alone during a trip to the Bahamas.</summary>
-      <pubDate>Tue, 14 Apr 2026 17:41:01 -0400</pubDate>
+      <pubDate>Tue, 14 Apr 2026 20:34:12 -0400</pubDate>
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Lifestyle/260414_abc_social_parrot_sub_hpMain_1x1_384.jpg</image>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/pb_1776206746900_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: BTS gets 8 Rolling Stone magazine covers</title>
-      <link>https://abcnews.com/video/132035931/</link>
-      <summary>The magazine featuring the recently reunited band will be available April 20.</summary>
-      <pubDate>Tue, 14 Apr 2026 17:32:24 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260414_gma3_pop4_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
