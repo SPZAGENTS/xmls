@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-16T01:00:59.359589</generated>
+  <generated>2026-04-16T02:01:06.495967</generated>
   <items>
+    <item>
+      <title>Allies rush thousands of drones to Ukraine as Russia unleashes deadly missile barrages</title>
+      <link>https://www.foxnews.com/world/allies-rush-thousands-drones-ukraine-russia-unleashes-deadly-missile-barrages</link>
+      <summary>Ukraine&amp;apos;s allies pledge massive military aid, including 120,000 U.K. drones, as Russia launches 324 drones and ballistic missiles, officials report.</summary>
+      <pubDate>Wed, 15 Apr 2026 18:13:25 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/kharkiv-jan-2026.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran shifts 20M barrels through ‘dark’ offshore oil network bypassing US port blockade, firm says</title>
       <link>https://www.foxnews.com/world/iran-shifts-20m-barrels-through-dark-offshore-oil-network-bypassing-us-port-blockade-firm-says</link>
@@ -56,17 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Sergey_Lavrov.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistani general says Iran diplomacy still alive, despite US blockade, failed talks</title>
-      <link>https://www.foxnews.com/world/pakistani-general-says-iran-diplomacy-still-alive-despite-us-blockade-failed-talks</link>
-      <summary>The U.S. naval blockade on Iran may be leverage to resume diplomacy, says retired Pakistani general, as both sides were reportedly close to a deal.</summary>
-      <pubDate>Mon, 13 Apr 2026 14:44:11 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/islamabad-talks.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
