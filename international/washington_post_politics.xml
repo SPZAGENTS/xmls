@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-15T11:01:33.153986</generated>
+  <generated>2026-04-15T12:03:59.925229</generated>
   <items>
+    <item>
+      <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/</link>
+      <summary>A U.S. blockade in effect since Monday has completely cut off Iran’s sea trade, the U.S. military said after six merchant ships were prevented from leaving Iranian ports.</summary>
+      <pubDate>Wed, 15 Apr 2026 08:24:02 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>White House favors Erica Schwartz, former deputy surgeon general, to lead CDC</title>
       <link>https://www.washingtonpost.com/health/2026/04/14/cdc-director-erica-schwartz/</link>
@@ -12,10 +19,10 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>U.S. blockade has turned back six merchant ships leaving Strait of Hormuz</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/</link>
-      <summary>More than a dozen American warships positioned in the Gulf of Oman and Arabian Sea are acting as a “net,” officials said. None of the encounters has required escalation.</summary>
-      <pubDate>Tue, 14 Apr 2026 19:03:18 +0000</pubDate>
+      <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/</link>
+      <summary>The deployment includes sailors and Marines due to arrive as the administration attempts to enforce a maritime blockade against the regime in Tehran.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -61,17 +68,10 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>White House says it’s boosting affordability through physician reforms</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-administration-healthcare-changes/</link>
-      <summary>A new report distills the Trump administration’s strategy as officials jockey to shape health care messages ahead of this year’s midterm elections.</summary>
-      <pubDate>Mon, 13 Apr 2026 15:50:00 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Vance praises Trump, while subtly differentiating himself at Georgia event</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/14/vance-georgia-trump-pope-leo/</link>
-      <summary>At a gathering of conservative college students, the vice president expressed respect for Pope Leo XIV and empathized with concerns about high costs of living</summary>
-      <pubDate>Wed, 15 Apr 2026 01:22:11 +0000</pubDate>
+      <title>In this U.S. hot spot for data centers, voters have turned against them</title>
+      <link>https://www.washingtonpost.com/business/2026/04/15/data-centers-poll-virginia/</link>
+      <summary>Virginians previously embraced the facilities, but a Post-Schar School poll finds they are now almost as undesirable as nuclear power plants.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
