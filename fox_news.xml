@@ -2,10 +2,21 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-15T16:01:19.329182</generated>
+  <generated>2026-04-15T17:01:11.181592</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] Russia's Lavrov says Iran has 'inalienable' right to enrich uranium, openly defying Trump's demands</title>
+      <title>From White House hopeful to scandal: Swalwell’s short-lived 2020 bid resurfaces after resignation</title>
+      <link>https://www.foxnews.com/politics/from-white-house-hopeful-scandal-swalwells-short-lived-2020-bid-resurfaces-after-resignation</link>
+      <summary>Swalwell&amp;apos;s political collapse came seven years after his unsuccessful 2020 presidential bid, ending with his resignation from Congress amid allegations.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:23:11 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/eric-swalwell-democratic-convention.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Russia's Lavrov says Iran has 'inalienable' right to enrich uranium, openly defying Trump's demands</title>
       <link>https://www.foxnews.com/world/russias-lavrov-says-iran-inalienable-right-enrich-uranium-openly-defying-trumps-demands</link>
       <summary>Russia&amp;apos;s Sergey Lavrov says Iran has an inalienable right to enrich uranium for civilian purposes, pushing back against Trump&amp;apos;s nuclear demands.</summary>
       <pubDate>Wed, 15 Apr 2026 08:51:39 -0400</pubDate>
@@ -27,28 +38,6 @@
       </media>
     </item>
     <item>
-      <title>The Iranian regime was built on ‘vicious antisemitism’ following the 1979 Islamic Revolution</title>
-      <link>https://www.foxnews.com/opinion/iranian-regime-built-vicious-antisemitism-following-1979-islamic-revolution</link>
-      <summary>For over 2,500 years, Jews lived in Persia. After the 1979 Islamic Revolution, their community was decimated by persecution and forced emigration.</summary>
-      <pubDate>Wed, 15 Apr 2026 07:00:27 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/iranian-jews-tehran-scaled.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Where you live could shape your risk of cancer mortality, study suggests</title>
-      <link>https://www.foxnews.com/health/live-could-shape-risk-cancer-mortality-study-suggests</link>
-      <summary>New research reveals a widening gap in cancer mortality improvement between high-income urban areas and low-income rural U.S. counties.</summary>
-      <pubDate>Wed, 15 Apr 2026 07:00:02 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/senior-woman-vienna-street-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>US destroyer interdicts two oil tankers trying to leave Iran during Trump's blockade</title>
       <link>https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade</link>
       <summary>A U.S. destroyer interdicted two oil tankers trying to leave Iran as part of the Trump administration&amp;apos;s ongoing blockade on Iranian ports, a report said.</summary>
@@ -60,7 +49,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Federal judge hands Biden's home state a loss in battle of ICE access to labor data</title>
+      <title>Federal judge hands Biden's home state a loss in battle of ICE access to labor data</title>
       <link>https://www.foxnews.com/politics/federal-judge-hands-bidens-home-state-loss-battle-ice-access-labor-data</link>
       <summary>A federal judge ordered Delaware officials to turn over confidential employer and employee records to ICE in an immigration enforcement legal dispute.</summary>
       <pubDate>Wed, 15 Apr 2026 08:31:43 -0400</pubDate>
@@ -71,18 +60,29 @@
       </media>
     </item>
     <item>
-      <title>Your favorite fast-food app is playing mind games and charging you for the privilege</title>
-      <link>https://www.foxnews.com/opinion/fast-food-app-playing-mind-games-charging-you-for-privilege</link>
-      <summary>Your $8 fast-food order may balloon to $22 thanks to fee stacking, including delivery fees, service fees and the sneaky new small order fee penalty.</summary>
-      <pubDate>Wed, 15 Apr 2026 07:00:03 -0400</pubDate>
-      <priority>80</priority>
+      <title>Doctor warns wearable fitness trackers can backfire, despite Rory McIlroy's success</title>
+      <link>https://www.foxnews.com/health/doctor-warns-wearable-fitness-trackers-backfire-despite-rory-mcilroys-success</link>
+      <summary>Rory McIlroy tracked his heart rate during his Masters victory using a wearable device, sparking debate over whether health trackers help or harm users.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:50:22 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/BIG-ARCH-BURGER-WSJ-INTERVIEW.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Rory-McIllroy-Masters-Augusta-041226.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] FLASHBACK: Swalwell was dubbed Hunter Biden's 'biggest cheerleader'</title>
+      <title>Johnson faces GOP revolt over warrantless surveillance powers ahead of key vote</title>
+      <link>https://www.foxnews.com/politics/johnson-faces-gop-revolt-over-warrantless-surveillance-powers-ahead-key-vote</link>
+      <summary>Speaker Mike Johnson faces GOP pushback on renewing FISA Section 702 warrantless surveillance powers as conservatives demand additional reform guardrails.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:31:56 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/mike-johnson-2026-spending-bill-partial-shutdown-002.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>FLASHBACK: Swalwell was dubbed Hunter Biden's 'biggest cheerleader'</title>
       <link>https://www.foxnews.com/politics/flashback-swalwell-dubbed-hunter-bidens-biggest-cheerleader</link>
       <summary>Eric Swalwell was once dubbed Hunter Biden’s “biggest cheerleader,&amp;quot; amid scrutiny about the same attorney bankrolling Hunter Biden&amp;apos;s recent legal bills also bankrolling Swalwell&amp;apos;s gubernatorial run.</summary>
       <pubDate>Wed, 15 Apr 2026 08:00:00 -0400</pubDate>
@@ -93,24 +93,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Roblox adds age-based accounts for kids and teens</title>
+      <title>Chinese researcher on US visa pleads guilty to smuggling E. coli into the country</title>
+      <link>https://www.foxnews.com/us/chinese-researcher-us-visa-pleads-guilty-smuggling-e-coli-country</link>
+      <summary>A Chinese researcher was sentenced to over four months in prison after pleading guilty to smuggling concealed E. coli DNA into the United States.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:06:22 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/e.coli-petri-dish-lab-scientist-foodborne-illness.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Roblox adds age-based accounts for kids and teens</title>
       <link>https://www.foxnews.com/tech/roblox-adds-age-based-accounts-kids-teens</link>
       <summary>Roblox is rolling out Kids and Select account types in early June, building separate environments for different age groups with built-in safety controls.</summary>
       <pubDate>Wed, 15 Apr 2026 08:02:29 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/roblox-online-safety-ai.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] EXCLUSIVE: Indiana school counselor fired for speaking out on gender identity policy settles lawsuit for $200K</title>
-      <link>https://www.foxnews.com/media/exclusive-indiana-school-counselor-fired-speaking-out-gender-identity-policy-settles-lawsuit-200k</link>
-      <summary>School counselor fired over gender identity policy concerns at South Madison Community School Corporation settles lawsuit for $200,000, says ADF attorneys.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:00:22 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Kathy-McCord.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
