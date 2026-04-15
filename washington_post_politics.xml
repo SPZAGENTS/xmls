@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-15T12:03:59.925229</generated>
+  <generated>2026-04-15T13:01:24.738183</generated>
   <items>
+    <item>
+      <title>War powers vote will test Senate’s support for Trump’s war with Iran</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/15/iran-war-powers-trump/</link>
+      <summary>Some Republicans have expressed concerns about the war as it approaches the two-month mark, saying the administration must make the case for continuing it.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:00:52 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/</link>
@@ -33,18 +40,11 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Orban’s defeat offers warning signs for Trump allies</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/13/trump-orban-conservative-movement/</link>
-      <summary>Some factors that harmed Orban may also apply to Republicans in this year’s midterm elections, say American conservatives who backed the Hungarian leader.</summary>
-      <pubDate>Mon, 13 Apr 2026 22:56:26 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Lambasting Pope Leo, Trump risks alienating conservative Catholics</title>
-      <link>https://www.washingtonpost.com/world/2026/04/13/pope-leo-president-trump-feud/</link>
-      <summary>Veteran church observers say an open war of words between a pope and a U.S. president is unprecedented.</summary>
-      <pubDate>Mon, 13 Apr 2026 18:10:42 +0000</pubDate>
-      <priority>90</priority>
+      <title>White House touts refunds, as most Americans say taxes are too high</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/15/trump-tax-refunds-economic-malaise/</link>
+      <summary>The president hopes voters will focus on the benefit of “No Tax on Tips” and other breaks, but economists say higher gas prices will negate most of those benefits.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:00:48 +0000</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>What Swalwell’s exit means for Democrats in California’s governor race</title>
@@ -68,10 +68,10 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] In this U.S. hot spot for data centers, voters have turned against them</title>
-      <link>https://www.washingtonpost.com/business/2026/04/15/data-centers-poll-virginia/</link>
-      <summary>Virginians previously embraced the facilities, but a Post-Schar School poll finds they are now almost as undesirable as nuclear power plants.</summary>
-      <pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
+      <title>Spanberger counters false GOP claims of tax hikes: ‘A desperate tactic’</title>
+      <link>https://www.washingtonpost.com/politics/2026/04/15/abigail-spanberger-tax-increases-fact-check/</link>
+      <summary>Republicans keep criticizing Virginia Gov. Abigail Spanberger over proposed tax increases by Democratic legislators that never passed and that she never endorsed.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:00:52 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

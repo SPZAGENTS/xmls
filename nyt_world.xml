@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T11:01:33.696767</generated>
+  <generated>2026-04-15T13:01:25.304094</generated>
   <items>
     <item>
       <title>U.S. Says Israel and Lebanon Agree to More Peace Talks</title>
       <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
       <summary>Fighting continued in southern Lebanon between Israel and Iranian-backed Hezbollah militants, even as Israeli and Lebanese diplomats met in Washington. The war in Lebanon has threatened to undermine the U.S.-Iran cease-fire.</summary>
-      <pubDate>Wed, 15 Apr 2026 07:32:21 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 09:13:48 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-promo830p-gmcj/14israel-iran-promo830p-gmcj-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Dodging Bombs and Drones, This Postman Still Delivers</title>
+      <link>https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html</link>
+      <summary>Oleksiy Klochkovsky has driven mail and parcels around the front line in Ukraine for four years. He keeps one ear tuned for danger from above.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:02:04 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-ukraine-postman-01-kmzw/15int-ukraine-postman-01-kmzw-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
       <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
       <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
@@ -89,17 +100,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html</link>
-      <summary>A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.</summary>
-      <pubDate>Wed, 15 Apr 2026 01:01:12 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-hormuz-spoofing1/14int-iran-ledeall-1-tglz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
