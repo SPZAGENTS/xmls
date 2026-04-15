@@ -2,13 +2,13 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-15T15:03:42.367562</generated>
+  <generated>2026-04-15T16:01:27.132756</generated>
   <items>
     <item>
-      <title>Iran live updates: Trump says war 'very close to over'</title>
+      <title>Iran live updates: Tehran threatens Red Sea transits if US blockade continues</title>
       <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
       <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Wed, 15 Apr 2026 07:48:58 -0400</pubDate>
+      <pubDate>Wed, 15 Apr 2026 08:47:21 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/Tehran-hormuz-DB-260415_1776249255543_hpMain_4x3t_384.jpg</image>
@@ -16,13 +16,13 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Lawmakers deliver remarks at Holocaust remembrance ceremony</title>
-      <link>https://abcnews.com/video/132037528/</link>
-      <summary>House Speaker Mike Johnson and Senate Minority Leader Chuck Schumer were among the lawmakers who delivered remarks at a Holocaust remembrance ceremony on Capitol Hill on Tuesday.</summary>
-      <pubDate>Tue, 14 Apr 2026 14:48:55 -0400</pubDate>
-      <priority>90</priority>
+      <title>WATCH: Over 1 million people displaced by conflict in Lebanon</title>
+      <link>https://abcnews.com/video/132056733/</link>
+      <summary>More than 1 million Lebanese people have been displaced during the ongoing war between Israel and Hezbollah.</summary>
+      <pubDate>Wed, 15 Apr 2026 08:19:13 -0400</pubDate>
+      <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/260414_abc_social_holocaust_hpMain_1x1_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/260415_abc_social_lebanon_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -34,6 +34,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Student opens fire at a school in Turkey, killing 4 people</title>
+      <link>https://abcnews.com/International/wireStory/reports-police-responding-gunfire-school-turkey-132054801</link>
+      <summary>An official in Turkey says that four people have been killed and 20 others wounded after a student opened fire at two classrooms</summary>
+      <pubDate>Wed, 15 Apr 2026 08:50:34 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>WATCH: Humanoid robot chasing wild boars in Poland goes viral</title>
-      <link>https://abcnews.com/video/132039369/</link>
-      <summary>Video of a humanoid robot chasing wild boars out of a Warsaw neighborhood and into the woods — and then waving goodbye — has gone viral in Poland.</summary>
-      <pubDate>Tue, 14 Apr 2026 15:38:57 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Entertainment/260414_abc_social_boar_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Parrot explores the ocean in DIY submarine</title>
       <link>https://abcnews.com/video/132040969/</link>
       <summary>An Iowa man invented a submarine for his parrot so that he didn't have to leave the bird alone during a trip to the Bahamas.</summary>
@@ -78,17 +78,6 @@
       <priority>70</priority>
       <media>
         <image>https://s.abcnews.com/images/Lifestyle/260414_abc_social_parrot_sub_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Student opens fire at a school in Turkey, killing 4 people</title>
-      <link>https://abcnews.com/International/wireStory/reports-police-responding-gunfire-school-turkey-132054801</link>
-      <summary>A student has opened fire at two classrooms at a school in southeast Turkey on Wednesday, killing four people and wounding 20 others</summary>
-      <pubDate>Wed, 15 Apr 2026 07:54:40 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260414_wn_rivers_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: BTS gets 8 Rolling Stone magazine covers</title>
+      <link>https://abcnews.com/video/132035931/</link>
+      <summary>The magazine featuring the recently reunited band will be available April 20.</summary>
+      <pubDate>Tue, 14 Apr 2026 17:32:24 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260414_gma3_pop4_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
