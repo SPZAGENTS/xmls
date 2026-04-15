@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T19:01:43.163339</generated>
+  <generated>2026-04-15T20:02:03.816883</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Iran Threatens Retaliation Over U.S. Blockade</title>
       <link>https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel</link>
       <summary>Iran’s armed forces said they would attempt to expand their influence over sea lanes beyond the Strait of Hormuz if the U.S. military continued to block Iranian shipping.</summary>
-      <pubDate>Wed, 15 Apr 2026 16:00:38 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 16:53:31 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-promo-1130am-bjhv/15israel-iran-promo-1130am-bjhv-mediumSquareAt3X.jpg</image>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Kuwait Detained Journalist After Comments on Iran War Images, Watchdog Says</title>
+      <link>https://www.nytimes.com/2026/04/15/world/middleeast/kuwait-shihab-eldin-journalist-detained.html</link>
+      <summary>The country has not commented publicly about Ahmed Shihab-Eldin, who the Committee to Protect Journalists said had been charged with spreading false information.</summary>
+      <pubDate>Wed, 15 Apr 2026 15:47:32 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/world/15kuwait-journalist/15kuwait-journalist-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/dubai-migrant-workers-war.html</link>
       <summary>Migrant workers in the United Arab Emirates, whose hospitality industry has been hit hard by the war with Iran, are facing furloughs, pay cuts and even repatriation.</summary>
@@ -38,32 +49,21 @@
       </media>
     </item>
     <item>
-      <title>As Bahrain Cracked Down Amid War, a Death in Custody Sparked Outrage</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/bahrain-mohammed-al-mousawi.html</link>
-      <summary>The body of a man accused of spying for Iran, Mohammed al-Mousawi, showed signs of torture, witnesses said. The U.N. has called for an investigation.</summary>
-      <pubDate>Tue, 14 Apr 2026 09:01:58 +0000</pubDate>
+      <title>Israel Considering Cease-fire With Lebanon, Officials Say</title>
+      <link>https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html</link>
+      <summary>Talk of a truce that would pause the war between Israel and Iran-backed Hezbollah in Lebanon followed rare direct talks between Israel and Lebanon in Washington on Tuesday.</summary>
+      <pubDate>Wed, 15 Apr 2026 16:51:37 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/07/multimedia/00-int-Bahrain-Torture-mwbt/00-int-Bahrain-Torture-mwbt-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-hfo-israel-lebanon-truce-topart-fczt/15int-hfo-israel-lebanon-truce-topart-fczt-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Kuwait Detained Journalist After Comments on Iran War Images, Watchdog Says</title>
-      <link>https://www.nytimes.com/2026/04/15/world/middleeast/kuwait-shihab-eldin-journalist-detained.html</link>
-      <summary>The country has not commented publicly about Ahmed Shihab-Eldin, who the Committee to Protect Journalists said had been charged with spreading false information.</summary>
-      <pubDate>Wed, 15 Apr 2026 15:47:31 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/world/15kuwait-journalist/15kuwait-journalist-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Iran-Linked Ships Slow or Stop as U.S. Navy Enforces Strait of Hormuz Blockade</title>
+      <title>Iran-Linked Ships Slow or Stop as U.S. Navy Enforces Strait of Hormuz Blockade</title>
       <link>https://www.nytimes.com/2026/04/15/world/middleeast/iran-ships-strait-hormuz-blockade.html</link>
       <summary>More than a dozen U.S. Navy warships are enforcing a blockade on all vessels from all nations entering or leaving coastal areas or ports in Iran.</summary>
-      <pubDate>Wed, 15 Apr 2026 15:32:50 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 16:14:57 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-shipwatchers-hpkw/15israel-iran-shipwatchers-hpkw-mediumSquareAt3X.jpg</image>
@@ -78,17 +78,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-ports-kpzt/15israel-iran-ports-kpzt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Applies Little Pressure to Israel to Stop the Fighting in Lebanon</title>
-      <link>https://www.nytimes.com/2026/04/15/world/asia/israel-lebanon-us-talks-trump.html</link>
-      <summary>Despite hailing negotiations between the two sides as a “historic milestone,” Washington did not call for a halt to Israeli strikes or for a withdrawal from Lebanese territory.</summary>
-      <pubDate>Wed, 15 Apr 2026 14:40:58 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-lebanon-assess-ztmh/15israel-iran-lebanon-assess-ztmh-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-italy-meloni-01-jzbm/15int-italy-meloni-01-jzbm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html</link>
+      <summary>A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.</summary>
+      <pubDate>Wed, 15 Apr 2026 14:03:06 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-hormuz-spoofing1/14int-iran-ledeall-1-tglz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

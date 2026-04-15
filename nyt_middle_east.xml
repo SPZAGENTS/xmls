@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-15T19:01:43.665939</generated>
+  <generated>2026-04-15T20:02:04.316854</generated>
   <items>
+    <item>
+      <title>Israel Considering Cease-fire With Lebanon, Officials Say</title>
+      <link>https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html</link>
+      <summary>Talk of a truce that would pause the war between Israel and Iran-backed Hezbollah in Lebanon followed rare direct talks between Israel and Lebanon in Washington on Tuesday.</summary>
+      <pubDate>Wed, 15 Apr 2026 16:51:37 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-hfo-israel-lebanon-truce-topart-fczt/15int-hfo-israel-lebanon-truce-topart-fczt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Kuwait Detained Journalist After Comments on Iran War Images, Watchdog Says</title>
       <link>https://www.nytimes.com/2026/04/15/world/middleeast/kuwait-shihab-eldin-journalist-detained.html</link>
       <summary>The country has not commented publicly about Ahmed Shihab-Eldin, who the Committee to Protect Journalists said had been charged with spreading false information.</summary>
-      <pubDate>Wed, 15 Apr 2026 15:47:31 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 15:47:32 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/world/15kuwait-journalist/15kuwait-journalist-mediumSquareAt3X.jpg</image>
@@ -19,7 +30,7 @@
       <title>Iran-Linked Ships Slow or Stop as U.S. Navy Enforces Strait of Hormuz Blockade</title>
       <link>https://www.nytimes.com/2026/04/15/world/middleeast/iran-ships-strait-hormuz-blockade.html</link>
       <summary>More than a dozen U.S. Navy warships are enforcing a blockade on all vessels from all nations entering or leaving coastal areas or ports in Iran.</summary>
-      <pubDate>Wed, 15 Apr 2026 15:32:50 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 16:14:57 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-shipwatchers-hpkw/15israel-iran-shipwatchers-hpkw-mediumSquareAt3X.jpg</image>
@@ -52,7 +63,7 @@
       <title>Trump’s Blockade Risks Upending an Emerging Détente With China</title>
       <link>https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html</link>
       <summary>In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”</summary>
-      <pubDate>Wed, 15 Apr 2026 14:14:03 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 14:14:04 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-trump-china-qwcp/14dc-trump-china-qwcp-mediumSquareAt3X-v2.jpg</image>
@@ -74,7 +85,7 @@
       <title>Italy Suspends Defense Pact With Israel, Further Straining Ties</title>
       <link>https://www.nytimes.com/2026/04/14/world/middleeast/italy-israel-defense-pact.html</link>
       <summary>The move by Italy, once considered a strong ally of Israel, reflected growing anger over Israeli aggression in the Middle East. President Trump criticized Italy’s stance on the war.</summary>
-      <pubDate>Wed, 15 Apr 2026 02:57:55 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 16:32:58 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-italy-lbkw/14israel-iran-italy-lbkw-mediumSquareAt3X.jpg</image>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-globalecon-01-kpjz/14dc-globalecon-01-kpjz-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>State of U.S. Blockade Is Unclear as Some Ships Transit Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/us-blockade-strait-hormuz-iran-ships-traffic.html</link>
-      <summary>Ship-tracking data showed that several vessels, including some that had been docked at Iranian ports, had moved through the strait as the U.S. military began its blockade.</summary>
-      <pubDate>Tue, 14 Apr 2026 18:03:38 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-ship-movements-vzkc/14israel-iran-ship-movements-vzkc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
