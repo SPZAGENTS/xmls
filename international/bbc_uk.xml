@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-15T12:03:54.859564</generated>
+  <generated>2026-04-15T13:01:19.776807</generated>
   <items>
     <item>
       <title>Chris Mason: Iran war has trapped Labour in a vicious circle</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d7/live/2c26e4b0-3833-11f1-b164-cbd9e6dd0bb7.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Watch: Moment gunman tackled by school principal in Oklahoma</title>
+      <link>https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>CCTV footage shows a high school principal charging towards a former student who was armed in Oklahoma.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:03:51 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0c/live/ac9d3b50-38a9-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -74,7 +85,7 @@
       <title>Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds</title>
       <link>https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The BBC exposes a shadow industry charging migrants thousands of pounds to help them cheat the asylum system.</summary>
-      <pubDate>Wed, 15 Apr 2026 09:00:05 GMT</pubDate>
+      <pubDate>Wed, 15 Apr 2026 09:35:24 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d071/live/bf2ed390-388c-11f1-9d5c-8ba507d7dbde.jpg</image>
@@ -88,7 +99,7 @@
       <pubDate>Wed, 15 Apr 2026 05:00:15 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0305/live/f133f0d0-389d-11f1-8606-05fe34b06e1b.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f9/live/654260f0-38ae-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -96,21 +107,10 @@
       <title>AA and BSM ordered to refund learner drivers for hidden fees</title>
       <link>https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The owner of the driving schools has been fined for failing to disclose fees upfront online.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:18:35 GMT</pubDate>
+      <pubDate>Wed, 15 Apr 2026 09:34:15 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c1/live/f4293c00-389d-11f1-a836-373ce269a87a.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'I'm not being listened to' - new health plan launched as women say they are still ignored</title>
-      <link>https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>New plans to improve healthcare for women and girls have been set out, but will they change anything?</summary>
-      <pubDate>Wed, 15 Apr 2026 08:46:04 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d27b/live/1d9e7ca0-3824-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01fb/live/ad956180-38aa-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

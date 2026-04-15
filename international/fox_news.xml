@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-15T12:03:56.662898</generated>
+  <generated>2026-04-15T13:01:21.181879</generated>
   <items>
+    <item>
+      <title>Blockade 101: American sea power on display as Trump corners Iran and warns off China</title>
+      <link>https://www.foxnews.com/opinion/blockade-101-american-sea-power-display-trump-corners-iran-warns-china</link>
+      <summary>Trump&amp;apos;s naval blockade of the Strait of Hormuz pressures Iran on nuclear ambitions while sending a stark message to China about U.S. maritime dominance.</summary>
+      <pubDate>Wed, 15 Apr 2026 05:00:55 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/cargo-shi-gulf-near-strait-of-hormuz.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US military kills four alleged narco-terrorists in lethal strike on drug-trafficking vessel in Eastern Pacific</title>
       <link>https://www.foxnews.com/us/us-military-kills-four-alleged-narco-terrorists-lethal-strike-drug-trafficking-vessel-eastern-pacific</link>
@@ -12,6 +23,28 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/us-military-strike-drug-vessel-eastern-pacific.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Republican seeks blue-state breakthrough, distances from Trump while taking aim at 'socialist'</title>
+      <link>https://www.foxnews.com/politics/republican-seeks-blue-state-breakthrough-distances-trump-taking-aim-socialist</link>
+      <summary>Joe Hathaway and Analilia Mejia clash over ideology, Israel and Trump in Thursday&amp;apos;s NJ-11 special election to fill Gov. Mikie Sherrill&amp;apos;s House seat.</summary>
+      <pubDate>Wed, 15 Apr 2026 05:00:46 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Joe-Hathaway-Randolph-New-Jersey-April-13-2026.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Stop calling this brinkmanship. Trump's Hormuz move is the real pressure</title>
+      <link>https://www.foxnews.com/opinion/stop-calling-brinkmanship-trumps-hormuz-move-real-pressure</link>
+      <summary>President Trump&amp;apos;s naval blockade cutting off Iran&amp;apos;s oil shipments through the Strait of Hormuz is the only play left after failed Islamabad negotiations.</summary>
+      <pubDate>Wed, 15 Apr 2026 05:00:25 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/president-donald-trump-april-10-2026.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,28 +82,6 @@
       </media>
     </item>
     <item>
-      <title>TPUSA reporter attacked at ICE protest warns a dark new line has been crossed in America’s political wars</title>
-      <link>https://www.foxnews.com/media/tpusa-reporter-attacked-ice-protest-warns-dark-new-line-crossed-americas-political-wars</link>
-      <summary>Reporter Savanah Hernandez says she was attacked multiple times at a Minneapolis anti-ICE protest and is pushing for full charges against suspects.</summary>
-      <pubDate>Tue, 14 Apr 2026 20:00:27 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/savanah-clip.gif</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Suspect in Sam Altman Molotov cocktail plot cries meltdown, not attempted murder, as judge keeps him locked up</title>
-      <link>https://www.foxnews.com/us/suspect-sam-altman-molotov-cocktail-plot-cries-meltdown-attempted-murder-judge-keeps-locked</link>
-      <summary>Daniel Moreno-Gama is held without bail on attempted murder charges after allegedly firebombing OpenAI CEO Sam Altman&amp;apos;s San Francisco residence.</summary>
-      <pubDate>Tue, 14 Apr 2026 19:58:55 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/sam-altman-firebomb-suspect.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>House avoids unprecedented four-member expulsion week as Swalwell and Gonzales resign instead</title>
       <link>https://www.foxnews.com/politics/house-avoids-unprecedented-four-member-expulsion-week-swalwell-gonzales-resign-instead</link>
       <summary>Two House members resigned amid scandals, but potential expulsions of Reps. Cherfilus-McCormick and Mills raise parity and political math concerns.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/taylor-frankie-paul-.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Colorado highway descends into chaos after massive 75-vehicle pileup, amid hazardous winter weather</title>
-      <link>https://www.foxnews.com/us/colorado-highway-descends-chaos-massive-75-vehicle-pileup-hazardous-winter-weather</link>
-      <summary>Authorities say dozens of vehicles were caught in a pileup on a snow-covered stretch of I-70, forcing a major shutdown near the Eisenhower Tunnel.</summary>
-      <pubDate>Tue, 14 Apr 2026 21:55:36 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/colorado-crash-thumb.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
