@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-15T08:07:30.024168</generated>
+  <generated>2026-04-15T09:07:04.996919</generated>
   <items>
+    <item>
+      <title>Hopes rise for renewed talks as US military says Iran blockade is in force</title>
+      <link>https://abcnews.com/International/wireStory/hopes-rise-renewed-talks-us-military-iran-blockade-132050525</link>
+      <summary>Hopes rose for renewed talks between the United States and Iran as the U.S. military said its blockade of Iranian ports was in full effect and Tehran threatened to retaliate by strike targets across the war-weary region</summary>
+      <pubDate>Wed, 15 Apr 2026 01:06:15 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_f1b02d16f81d6fdcf68c0ed16d7a719d_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>US forces to join combat drills in Philippines to show commitment to Asia while fighting Iran</title>
       <link>https://abcnews.com/International/wireStory/us-forces-join-combat-drills-philippines-show-commitment-132021614</link>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_255b9c28a05c496851864b60f0766008_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Gunman opens fire at Turkey high school, wounding at least 16 before killing himself</title>
-      <link>https://abcnews.com/International/wireStory/gunman-opens-fire-high-school-turkey-wounding-16-132020196</link>
-      <summary>An assailant has opened fire at a high school in southeastern Turkey before killing himself</summary>
-      <pubDate>Tue, 14 Apr 2026 12:18:20 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_1605b76ff905e5f206f1550b63beb141_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
