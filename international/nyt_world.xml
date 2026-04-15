@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-15T10:03:04.591155</generated>
+  <generated>2026-04-15T11:01:33.696767</generated>
   <items>
     <item>
       <title>U.S. Says Israel and Lebanon Agree to More Peace Talks</title>
       <link>https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz</link>
       <summary>Fighting continued in southern Lebanon between Israel and Iranian-backed Hezbollah militants, even as Israeli and Lebanese diplomats met in Washington. The war in Lebanon has threatened to undermine the U.S.-Iran cease-fire.</summary>
-      <pubDate>Wed, 15 Apr 2026 06:18:06 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 07:32:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-promo830p-gmcj/14israel-iran-promo830p-gmcj-mediumSquareAt3X.jpg</image>
@@ -60,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html</link>
-      <summary>The gathering ended with encouraging words, even as Israel continued to refuse to halt its military campaign against Iran-backed Hezbollah in Lebanon.</summary>
-      <pubDate>Wed, 15 Apr 2026 00:52:41 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-diplo-sub-jkgf/14dc-diplo-sub-jkgf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Blockade Risks Upending an Emerging Détente With China</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html</link>
-      <summary>In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”</summary>
-      <pubDate>Wed, 15 Apr 2026 01:49:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-trump-china-qwcp/14dc-trump-china-qwcp-mediumSquareAt3X-v2.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Will Viktor Orban’s Legacy Live On in Brussels, Even Without Him?</title>
       <link>https://www.nytimes.com/2026/04/14/world/europe/orban-brussels-hungary.html</link>
       <summary>Viktor Orban, Hungary’s newly ousted prime minister, helped to finance a Brussels think tank that pushes his populist vision. It will outlast him, at least for a while.</summary>
@@ -111,6 +89,28 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion</title>
+      <link>https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html</link>
+      <summary>A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.</summary>
+      <pubDate>Wed, 15 Apr 2026 01:01:12 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-hormuz-spoofing1/14int-iran-ledeall-1-tglz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Northern Mariana Islands, Guam On Alert for ‘Extremely Dangerous’ Super Typhoon Sinlaku</title>
+      <link>https://www.nytimes.com/2026/04/14/world/asia/typhoon-sinlaku-guam-mariana.html</link>
+      <summary>The storm, named Sinlaku, was expected to make landfall on Tuesday evening in Tinian and Saipan, where tens of thousands of people were urged to shelter in place.</summary>
+      <pubDate>Tue, 14 Apr 2026 07:39:21 +0000</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/09/multimedia/cyclone-tracker-2025-four-wp042026-satellite_map/cyclone-tracker-2025-four-wp042026-satellite_map-mediumSquareAt3X-v30.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
