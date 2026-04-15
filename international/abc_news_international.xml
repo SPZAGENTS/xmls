@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-15T19:01:49.686593</generated>
+  <generated>2026-04-15T20:02:08.536845</generated>
   <items>
     <item>
       <title>Carney suspends Canada's fuel tax in first act after securing a majority government</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_68894d30572389809694853088695334_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sudan enters a fourth year of war as officials lament an 'abandoned crisis'</title>
-      <link>https://abcnews.com/International/wireStory/sudan-enters-fourth-year-war-officials-lament-abandoned-132051316</link>
-      <summary>Sudan is entering a fourth year of war marked by famine and massacres in what the United Nations calls an &amp;ldquo;abandoned crisis.&amp;rdquo;</summary>
-      <pubDate>Wed, 15 Apr 2026 10:59:54 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/sudan-malnourish-child-ap-jef-260415_1776265070680_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,6 +89,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_5e4acba628fbb827e76ca1d46f3ac4b9_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>US faces demand to restore $350M in federal funding to help power Puerto Rico</title>
+      <link>https://abcnews.com/International/wireStory/us-faces-demand-restore-350m-federal-funding-power-132066618</link>
+      <summary>Nearly 200 organizations are urging the Trump administration and Puerto Rico&amp;rsquo;s governor to restore $350 million in federal funding that was meant to finance the installation of rooftop solar and battery systems for 12,000 low-income families across the...</summary>
+      <pubDate>Wed, 15 Apr 2026 12:17:07 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_d506c8b7584054fc836cf90847bd1f4d_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
