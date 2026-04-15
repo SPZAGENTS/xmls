@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-15T14:03:20.710647</generated>
+  <generated>2026-04-15T16:01:22.808772</generated>
   <items>
+    <item>
+      <title>At Least 4 Dead in Second School Shooting in Turkey in 2 Days</title>
+      <link>https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html</link>
+      <summary>The attack, in the southern province of Kahramanmaras, left 20 others wounded.</summary>
+      <pubDate>Wed, 15 Apr 2026 12:45:32 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-turkey-shooting-lkth/15int-turkey-shooting-lkth-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War</title>
       <link>https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/07/multimedia/00-int-Bahrain-Torture-mwbt/00-int-Bahrain-Torture-mwbt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost</title>
-      <link>https://www.nytimes.com/2026/04/14/world/middleeast/dubai-migrant-workers-war.html</link>
-      <summary>Migrant workers in the United Arab Emirates, whose hospitality industry has been hit hard by the war with Iran, are facing furloughs, pay cuts and even repatriation.</summary>
-      <pubDate>Tue, 14 Apr 2026 09:00:41 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14int-dubai-migrants-1-vbkm/14int-dubai-migrants-1-vbkm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
