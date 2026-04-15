@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-15T13:01:24.738183</generated>
+  <generated>2026-04-15T14:03:19.620378</generated>
   <items>
+    <item>
+      <title>Trump adviser Sebastian Gorka seeks top counterterrorism job</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/15/sebastian-gorka-counterterrorism-center/</link>
+      <summary>The maneuvering comes a month after Joe Kent, the National Counterterrorism Center’s previous director, resigned in protest over the Iran war.</summary>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>War powers vote will test Senate’s support for Trump’s war with Iran</title>
       <link>https://www.washingtonpost.com/politics/2026/04/15/iran-war-powers-trump/</link>
@@ -66,13 +73,6 @@
       <summary>She joins other former Republicans and Trump administration officials running for office as critics of the president. The district would open up if voters approve a new map.</summary>
       <pubDate>Tue, 14 Apr 2026 11:00:24 +0000</pubDate>
       <priority>75</priority>
-    </item>
-    <item>
-      <title>Spanberger counters false GOP claims of tax hikes: ‘A desperate tactic’</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/15/abigail-spanberger-tax-increases-fact-check/</link>
-      <summary>Republicans keep criticizing Virginia Gov. Abigail Spanberger over proposed tax increases by Democratic legislators that never passed and that she never endorsed.</summary>
-      <pubDate>Wed, 15 Apr 2026 09:00:52 +0000</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
