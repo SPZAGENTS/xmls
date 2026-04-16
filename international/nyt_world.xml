@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T20:07:17.903055</generated>
+  <generated>2026-04-16T21:02:51.121429</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Trump Announces Lebanon-Israel Cease-Fire</title>
+      <title>Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
-      <summary>Lebanon’s prime minister said he welcomed the pause in Israel’s hostilities against Hezbollah, expected to start at 5 p.m. Eastern time, though Israel and Hezbollah did not immediately respond.</summary>
-      <pubDate>Thu, 16 Apr 2026 17:05:08 +0000</pubDate>
+      <summary>Prime Minister Benjamin Netanyahu said he had agreed to pause attacks targeting Hezbollah but said Israeli troops would not withdraw. Lebanon’s prime minister welcomed the truce, expected to start at 5 p.m. Eastern time.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:00:55 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16iran-update-jcfv/16iran-update-jcfv-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-header-qcwm/16israel-iran-header-qcwm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,10 +41,21 @@
       <title>Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’</title>
       <link>https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html</link>
       <summary>For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace.</summary>
-      <pubDate>Thu, 16 Apr 2026 15:36:08 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 17:39:15 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pope-cameroon-plgm/16int-pope-cameroon-plgm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure</title>
+      <link>https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html</link>
+      <summary>The U.S. blockade of shipments through the Strait of Hormuz would last “for as long as it takes,” the defense secretary said.</summary>
+      <pubDate>Thu, 16 Apr 2026 17:15:50 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-military-iran-hfgk/16dc-military-iran-hfgk-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/world/16ukraine-privatization-02/16ukraine-privatization-02-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again</title>
-      <link>https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html</link>
-      <summary>After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain ongoing peace efforts.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:34:59 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pakistan-iran-bvcz/16int-pakistan-iran-bvcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

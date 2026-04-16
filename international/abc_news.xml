@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T20:07:21.979911</generated>
+  <generated>2026-04-16T21:02:55.090484</generated>
   <items>
     <item>
       <title>Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says</title>
@@ -93,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>Minibus taxi catches fire in Zimbabwe, killing several people</title>
+      <link>https://abcnews.com/International/wireStory/minibus-taxi-catches-fire-zimbabwe-killing-people-132109751</link>
+      <summary>Police in Zimbabwe say that several people were killed when a minibus taxi they were traveling in caught fire</summary>
+      <pubDate>Thu, 16 Apr 2026 13:35:36 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: David Muir shares San Francisco Giants' surprise for fan who dropped phone at game</title>
       <link>https://abcnews.com/video/132080657/</link>
       <summary>While taking photos of her son during a San Francisco Giants game, a woman’s phone fell onto the field. It was recovered by the grounds crew – along with a cool surprise from the team.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260415_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: 7 twisters reported across Heartland as East Coast heats up</title>
-      <link>https://abcnews.com/video/132054251/</link>
-      <summary>Chief Meteorologist Ginger Zee is tracking a new round of heavy rain, hail and tornadoes in the middle of the country.</summary>
-      <pubDate>Wed, 15 Apr 2026 11:52:46 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
