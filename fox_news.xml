@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-16T09:00:20.552479</generated>
+  <generated>2026-04-16T10:00:22.543193</generated>
   <items>
     <item>
       <title>Iran to execute first female protester tied to anti-regime unrest</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-protests.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump to be honored by CNN's potential new owner ahead of White House Correspondents' Dinner</title>
-      <link>https://www.foxnews.com/media/trump-honored-cnns-potential-new-owner-ahead-white-house-correspondents-dinner</link>
-      <summary>President Donald Trump is reportedly being honored at a dinner hosted by Paramount CEO David Ellison, who may be the next owner of CNN as he pursues a Warner Bros. Discovery takeover.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:30:38 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-david-ellison.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] 2 detained after shooting in New York leaves 15-year-old killed, two others wounded: police</title>
+      <link>https://www.foxnews.com/us/2-detained-after-shooting-new-york-leaves-15-year-old-killed-two-others-wounded-police</link>
+      <summary>A gang-related shooting on Long Island in New York killed a 15-year-old boy and wounded two others after an argument at a barbeque, police said Wednesday.</summary>
+      <pubDate>Thu, 16 Apr 2026 02:12:46 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nassau-police-helicopter-shooting-bbq.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Starbucks uses ChatGPT to suggest drinks based on mood as expert warns of hidden downsides</title>
       <link>https://www.foxnews.com/food-drink/starbucks-uses-chatgpt-suggest-drinks-based-mood-expert-warns-hidden-downsides</link>
       <summary>Starbucks is testing a ChatGPT beta app that helps customers choose beverages based on mood, taste and goals before ordering through the Starbucks app.</summary>
@@ -49,7 +49,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Markwayne Mullin decries CA governor front-runner Tom Steyer, claims he ‘doesn’t understand’ ICE</title>
+      <title>Markwayne Mullin decries CA governor front-runner Tom Steyer, claims he ‘doesn’t understand’ ICE</title>
       <link>https://www.foxnews.com/media/markwayne-mullin-decries-ca-governor-front-runner-tom-steyer-claims-he-doesnt-understand-ice</link>
       <summary>DHS Secretary Mullin accuses California gubernatorial candidate Tom Steyer of not understanding ICE after Steyer called the agency criminal.</summary>
       <pubDate>Wed, 15 Apr 2026 23:00:07 -0400</pubDate>
