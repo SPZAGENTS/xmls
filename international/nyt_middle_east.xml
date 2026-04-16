@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-16T10:00:26.644458</generated>
+  <generated>2026-04-16T12:47:52.918504</generated>
   <items>
+    <item>
+      <title>Trump Says Leaders From Israel and Lebanon Will Speak Thursday</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html</link>
+      <summary>Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:20:11 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-vflp/16israel-iran-israel-lebanon-vflp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Senate Blocks Bid to Cancel Arms Sales to Israel as Iran War Deepens Democratic Divide</title>
       <link>https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-ports-kpzt/15israel-iran-ports-kpzt-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html</link>
-      <summary>The gathering ended with encouraging words, even as Israel continued to refuse to halt its military campaign against Iran-backed Hezbollah in Lebanon.</summary>
-      <pubDate>Wed, 15 Apr 2026 00:52:41 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-diplo-sub-jkgf/14dc-diplo-sub-jkgf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
