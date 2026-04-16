@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T06:01:22.451361</generated>
+  <generated>2026-04-16T09:00:24.529593</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive</title>
       <link>https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel</link>
       <summary>The diplomacy came as the White House dismissed reports that President Trump wanted to extend the cease-fire, while still expressing optimism that talks could yield an agreement.</summary>
-      <pubDate>Thu, 16 Apr 2026 02:15:24 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 04:59:53 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15iiran-promo9p/15iiran-430-vjgt-mediumSquareAt3X.jpg</image>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] 3 Killed in Boat Strike in the Pacific, Pentagon Says</title>
+      <link>https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html</link>
+      <summary>It was the third such attack by the U.S. military in three days, and the 51st attack in a campaign against people who the United States has accused of smuggling drugs.</summary>
+      <pubDate>Thu, 16 Apr 2026 04:15:06 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16xp-boatstrike-fbpq/16xp-boatstrike-fbpq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis</title>
       <link>https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html</link>
       <summary>Fighting that erupted in 2023 has forced millions from their homes and left widespread hunger that is now being compounded by strife in the Middle East.</summary>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15DC-PREXY-mftq/15DC-PREXY-mftq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>How China’s Weapons Transfers to Iran Have Evolved Over Decades</title>
-      <link>https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html</link>
-      <summary>China has denied claims this month by U.S. intelligence that it might have shipped arms to Iran. In recent years, China has supported Iran with dual-use parts.</summary>
-      <pubDate>Wed, 15 Apr 2026 14:13:34 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

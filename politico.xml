@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-16T06:01:20.470649</generated>
+  <generated>2026-04-16T09:00:21.735554</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://static.politico.com/bf/43/28550b534f1187badcf33b0089dc/vatican-pope-53951.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Ossoff builds massive cash edge as Georgia GOP field remains unsettled</title>
+      <link>https://www.politico.com/live-updates/2026/04/15/congress/ossoff-fundraising-georgia-senate-00875566</link>
+      <summary>His fundraising and cash on hand numbers dwarf all of the Republican contenders’ postings combined.</summary>
+      <pubDate>Wed, 15 Apr 2026 22:50:49 EST</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static.politico.com/83/f8/623ec2d743d09b8a77635026964d/https-delivery-gettyimages.com/downloads/2224347908</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,7 +38,18 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Angie Craig builds fundraising lead in Minnesota Senate primary</title>
+      <title>[PENDING_TRANSLATION] Barr keeps his cash lead in Kentucky Senate GOP primary</title>
+      <link>https://www.politico.com/live-updates/2026/04/15/congress/andy-barr-kentucky-senate-fundraising-lead-00875604</link>
+      <summary>The GOP representative has a nearly $4.2 million war chest.</summary>
+      <pubDate>Wed, 15 Apr 2026 22:56:52 EST</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://static.politico.com/95/a2/5af4212547939c20c4e96905cb3e/us-election-2026-senate-kentucky-89009.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Angie Craig builds fundraising lead in Minnesota Senate primary</title>
       <link>https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578</link>
       <summary>The Democratic representative raised $2.5 million in the first quarter.</summary>
       <pubDate>Wed, 15 Apr 2026 21:21:28 EST</pubDate>
@@ -78,17 +100,6 @@
       </media>
     </item>
     <item>
-      <title>Why Trump’s endorsement hasn’t been a ‘close out move’ for Louisiana Senate</title>
-      <link>https://www.politico.com/news/2026/04/10/louisiana-senate-letlow-cassidy-fleming-trump-00866362</link>
-      <summary>GOP Sen. Bill Cassidy still has a chance at making the runoff despite Trump-backed Julia Letlow's lead in the race.</summary>
-      <pubDate>Fri, 10 Apr 2026 03:45:00 EST</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://static.politico.com/8f/cd/ea26a4ee489d8eb8323aaa4f35dd/https-delivery-gettyimages.com/downloads/2204620967</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Inside the DNC’s Middle East (not) working group</title>
       <link>https://www.politico.com/news/2026/04/10/dnc-middle-east-resolution-00867186</link>
       <summary>The Democratic National Committee set up a task force to tackle the Middle East. Seven months later, the working group still has work to do.</summary>
@@ -96,17 +107,6 @@
       <priority>70</priority>
       <media>
         <image>https://static.politico.com/c8/1e/23f76b774826bf47ea113e831a76/us-israel-85101.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Harris gives her clearest signal she is mounting a 2028 presidential bid</title>
-      <link>https://www.politico.com/news/2026/04/10/kamala-harris-signals-2028-bid-00867069</link>
-      <summary>She has toyed with the idea before, but her comments Friday took on a new meaning in front of an audience full of Black power brokers.</summary>
-      <pubDate>Fri, 10 Apr 2026 11:19:55 EST</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://static.politico.com/2e/74/3a7f6f104b3d81bd5b829f823159/national-action-network-convention-87326.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

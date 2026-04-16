@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-16T06:01:19.331658</generated>
+  <generated>2026-04-16T09:00:20.552479</generated>
   <items>
     <item>
       <title>Iran to execute first female protester tied to anti-regime unrest</title>
@@ -38,17 +38,6 @@
       </media>
     </item>
     <item>
-      <title>'Happy Days' star Henry Winkler filmed his first-ever nude scene at 79</title>
-      <link>https://www.foxnews.com/entertainment/happy-days-star-henry-winkler-filmed-his-first-ever-nude-scene-79</link>
-      <summary>Henry Winkler revealed on &amp;quot;Jimmy Kimmel Live&amp;quot; that he shot his first career nude scene at 79 for the hit Maya Rudolph comedy series &amp;quot;Loot.&amp;quot;</summary>
-      <pubDate>Wed, 15 Apr 2026 19:30:19 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/henry-winkler-smiling-blue-tie.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Starbucks uses ChatGPT to suggest drinks based on mood as expert warns of hidden downsides</title>
       <link>https://www.foxnews.com/food-drink/starbucks-uses-chatgpt-suggest-drinks-based-mood-expert-warns-hidden-downsides</link>
       <summary>Starbucks is testing a ChatGPT beta app that helps customers choose beverages based on mood, taste and goals before ordering through the Starbucks app.</summary>
@@ -58,6 +47,13 @@
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/young-woman-listens-to-music.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Markwayne Mullin decries CA governor front-runner Tom Steyer, claims he ‘doesn’t understand’ ICE</title>
+      <link>https://www.foxnews.com/media/markwayne-mullin-decries-ca-governor-front-runner-tom-steyer-claims-he-doesnt-understand-ice</link>
+      <summary>DHS Secretary Mullin accuses California gubernatorial candidate Tom Steyer of not understanding ICE after Steyer called the agency criminal.</summary>
+      <pubDate>Wed, 15 Apr 2026 23:00:07 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>LIV Golf CEO sends rallying memo to staff after reports Saudi funding could end after this season</title>
