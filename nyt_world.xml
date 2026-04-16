@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T19:26:29.878049</generated>
+  <generated>2026-04-16T20:07:17.903055</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Trump Announces Lebanon-Israel Cease-Fire</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
       <summary>Lebanon’s prime minister said he welcomed the pause in Israel’s hostilities against Hezbollah, expected to start at 5 p.m. Eastern time, though Israel and Hezbollah did not immediately respond.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:20:31 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 17:05:08 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16iran-update-jcfv/16iran-update-jcfv-mediumSquareAt3X.jpg</image>
@@ -45,6 +45,28 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pope-cameroon-plgm/16int-pope-cameroon-plgm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] White House Declines to Offer Congress an Estimate of Iran War Cost</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html</link>
+      <summary>Russell T. Vought, the White House budget director, said the fluctuating nature of the U.S.-Israeli war made it difficult to pinpoint expenses.</summary>
+      <pubDate>Thu, 16 Apr 2026 16:53:38 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-vought-cost-of-war-kvlf/16israel-iran-vought-cost-of-war-kvlf-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] A Timeline of the Lebanon-Israel Relationship</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/lebanon-israel-tensions-relations-timeline.html</link>
+      <summary>Israeli and Lebanese officials this week met in Washington for direct talks between two nations, which have technically been at war since 1948.</summary>
+      <pubDate>Thu, 16 Apr 2026 16:39:24 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-timeline-vgfp/16israel-iran-israel-lebanon-timeline-vgfp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -89,28 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pakistan-iran-bvcz/16int-pakistan-iran-bvcz-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>South African Politician Julius Malema Is Sentenced to 5 Years in Prison</title>
-      <link>https://www.nytimes.com/2026/04/16/world/africa/south-africa-malema-sentencing-prison.html</link>
-      <summary>The leftist lawmaker has been a prime target of President Trump’s attacks on South Africa. The ruling, handed down after a conviction on gun charges, leaves Mr. Malema’s political future in doubt.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:40:05 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-safrica-malema-01-jqhk/16int-safrica-malema-01-jqhk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Claudia Sheinbaum’s War on Crime in Mexico Faces a Grim Reckoning: 133,000 Missing People</title>
-      <link>https://www.nytimes.com/2026/04/15/world/americas/claudia-sheinbaum-mexico-crime-missing-people.html</link>
-      <summary>President Claudia Sheinbaum of Mexico is under pressure to end one of her country’s most painful tragedies: the disappearance of more than 133,000 people.</summary>
-      <pubDate>Wed, 15 Apr 2026 23:38:48 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/world/00int-mexico-disappearances/00int-mexico-disappearances-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
