@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-16T23:14:47.329848</generated>
+  <generated>2026-04-17T01:02:08.245663</generated>
   <items>
+    <item>
+      <title>Despite Cease-Fire, Iran’s Hackers Haven’t Logged Off</title>
+      <link>https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html</link>
+      <summary>Tehran’s digital warriors have continued to seek ways to gain an advantage in the conflict in a new phase of cyberspace operations.</summary>
+      <pubDate>Thu, 16 Apr 2026 20:20:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-iran-cyber-gcwm/16dc-iran-cyber-gcwm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Bahrain Charges Intelligence Officer in the Death of a Detainee</title>
       <link>https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html</link>
@@ -37,7 +48,7 @@
       <title>White House Declines to Offer Congress an Estimate of Iran War Cost</title>
       <link>https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html</link>
       <summary>Russell T. Vought, the White House budget director, said the fluctuating nature of the U.S.-Israeli war made it difficult to pinpoint expenses.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:53:38 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 21:37:43 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-vought-cost-of-war-kvlf/16israel-iran-vought-cost-of-war-kvlf-mediumSquareAt3X.jpg</image>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/15/multimedia/15DC-PREXY-mftq/15DC-PREXY-mftq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pakistani Mediators Arrive in Tehran in Bid to Keep U.S.-Iran Peace Talks Alive</title>
-      <link>https://www.nytimes.com/2026/04/15/world/middleeast/pakistani-peace-talks-blockade.html</link>
-      <summary>The diplomacy came as the U.S. Navy locked down trade to Iranian ports, and Iran responded by threatening critical shipping routes across the region.</summary>
-      <pubDate>Wed, 15 Apr 2026 22:11:53 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-mideast-ledeall-1-hvkf/15int-mideast-ledeall-1-hvkf-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
