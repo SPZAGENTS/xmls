@@ -2,14 +2,25 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-16T18:06:38.406037</generated>
+  <generated>2026-04-16T19:26:36.168766</generated>
   <total_articles>342</total_articles>
   <items>
+    <item>
+      <title>Islamist group claims arson attacks in London</title>
+      <link>https://www.bbc.com/news/articles/c4gx4zywjzwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>An Islamist group with links to Iran has claimed responsibility for three attacks in north London.</summary>
+      <pubDate>Thu, 16 Apr 2026 16:16:13 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3936/live/4d194ef0-3758-11f1-a6a0-913b15480fa1.jpg</image>
+      </media>
+    </item>
     <item>
       <title>UK prepares for food shortages in worst case scenario as Iran war continues</title>
       <link>https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The UK could face some food shortages by the summer under a worst case scenario drawn up by government officials.</summary>
-      <pubDate>Thu, 16 Apr 2026 13:43:40 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 16:04:42 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
@@ -102,17 +113,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>China's economy grows faster than expected despite Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.</summary>
-      <pubDate>Thu, 16 Apr 2026 07:08:52 GMT</pubDate>
-      <source>bbc-world</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c0/live/a8a89cf0-3706-11f1-b35c-83d779cf62f0.jpg</image>
       </media>
     </item>
   </items>

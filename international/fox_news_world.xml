@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-16T18:06:30.679865</generated>
+  <generated>2026-04-16T19:26:27.292023</generated>
   <items>
+    <item>
+      <title>Trump predicted Israel-Lebanon leaders would speak ‘tomorrow’ — Beirut shut it down as ceasefire emerges</title>
+      <link>https://www.foxnews.com/world/trump-predicted-israel-lebanon-leaders-would-speak-tomorrow-beirut-shut-down-ceasefire-emerges</link>
+      <summary>Lebanon&amp;apos;s President Aoun will not speak with Netanyahu for now, a senior Lebanese official told Fox News Digital, dealing a setback to Trump&amp;apos;s push for direct contact with Israel.</summary>
+      <pubDate>Thu, 16 Apr 2026 11:15:25 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/netanyahu-rubio-aoun.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran to execute first female protester tied to anti-regime unrest</title>
       <link>https://www.foxnews.com/world/iran-execute-first-female-protester-tied-anti-regime-unrest</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/US-destroyer.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>President Trump's negotiating team praised by nuclear experts for walking away from Pakistan talks</title>
-      <link>https://www.foxnews.com/world/president-trumps-negotiating-team-praised-nuclear-experts-walking-away-from-pakistan-talks</link>
-      <summary>Experts say the Trump administration was right to walk away from Iran nuclear talks after Tehran refused to agree to core demands on uranium enrichment.</summary>
-      <pubDate>Wed, 15 Apr 2026 06:00:43 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jd-vance-jared-kushner-islamabad-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>

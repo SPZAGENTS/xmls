@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-16T18:06:29.643121</generated>
+  <generated>2026-04-16T19:26:26.127703</generated>
   <items>
+    <item>
+      <title>Russia launches deadliest aerial attack in months, killing 18 in Ukraine</title>
+      <link>https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.</summary>
+      <pubDate>Thu, 16 Apr 2026 15:20:59 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d0/live/1a37f100-3940-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>China's economy grows faster than expected despite Iran war</title>
       <link>https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>Moment gunman tackled by school principal</title>
-      <link>https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>CCTV footage shows a high school principal charging towards a former student who was armed in Oklahoma.</summary>
-      <pubDate>Wed, 15 Apr 2026 09:03:51 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3151/live/36b44890-38ca-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Wanted activist arrested in South Africa over support for Benin coup plot</title>
       <link>https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.</summary>
@@ -82,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>The human cost of the war in Sudan, three years on</title>
-      <link>https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict, which erupted in 2023, has left behind a human toll which is "simply staggering", reports the BBC's Barbara Plett Usher.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:38:36 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ec/live/c39b85b0-384e-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Turkish police detain 162 people over online praise for school shootings</title>
+      <title>Turkish police detain 162 people over online posts about school shootings</title>
       <link>https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.</summary>
-      <pubDate>Thu, 16 Apr 2026 11:01:59 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 15:23:23 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg</image>
@@ -104,10 +93,21 @@
       </media>
     </item>
     <item>
+      <title>Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say</title>
+      <link>https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.</summary>
+      <pubDate>Thu, 16 Apr 2026 15:41:33 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee9/live/f4a95f40-399f-11f1-818c-6f173b5082f5.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>South African opposition figure Malema sentenced to five years in prison for firing a gun</title>
       <link>https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Malema is appealing against the decision, which means he is not going to prison immediately.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:35:30 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 15:39:12 GMT</pubDate>
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2880/live/3de1cfe0-3972-11f1-8606-05fe34b06e1b.jpg</image>
