@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T14:19:52.289681</generated>
+  <generated>2026-04-16T15:10:23.538802</generated>
   <items>
     <item>
-      <title>Iran live updates: Hegseth to offer remarks on Iran amid US blockade</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 16 Apr 2026 06:53:40 -0400</pubDate>
+      <title>LIVE: Secretary Hegseth holds news conference on Iran: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 16 Apr 2026 08:05:24 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/strait-main_1776328280500_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Mon, 13 Apr 2026 12:52:17 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: What happens if you miss the tax deadline and what is the penalty?</title>
       <link>https://abcnews.com/video/132039193/</link>
       <summary>It’s less than 24 hours until Tax Day. David Perez, CEO of Tax Maverick, enrolled agent and best-selling author, answers some of the most trending tax-related questions.</summary>
@@ -67,28 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/US/260415_abcnl_3p_perez_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Doctor delivers 2 sets of twins on his 34th birthday</title>
-      <link>https://abcnews.com/video/132029544/</link>
-      <summary>A Pennsylvania doctor delivered two sets of twins on April 8, which happened to be his 34th birthday.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:45:33 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260414_gma_digital_twins_vert_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Pilot speaks out after crash landing</title>
-      <link>https://abcnews.com/video/132021984/</link>
-      <summary>A small plane landed on a busy Phoenix street, with officials calling it a miracle that no one was seriously injured in the plane or on the ground.</summary>
-      <pubDate>Tue, 14 Apr 2026 10:50:28 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260414_gma_champion_plane_714_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -104,6 +71,28 @@
       </media>
     </item>
     <item>
+      <title>What to know about 'ship spoofing' by Iran-linked vessel to breach the US blockade</title>
+      <link>https://abcnews.com/International/ship-spoofing-iran-linked-vessel-breach-us-blockade/story?id=132056584</link>
+      <summary>Some ships linked to the Islamic Republic appear to be using deceptive methods known as "spoofing" to breach the Strait of Hormuz blockade.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:13:16 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/iran-3-rt-gmh-26t0413_1776083934903_hpMain_16x9t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: David Muir shares San Francisco Giants' surprise for fan who dropped phone at game</title>
+      <link>https://abcnews.com/video/132080657/</link>
+      <summary>While taking photos of her son during a San Francisco Giants game, a woman’s phone fell onto the field. It was recovered by the grounds crew – along with a cool surprise from the team.</summary>
+      <pubDate>Thu, 16 Apr 2026 06:54:37 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/WNT/260415_wn_ender_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: 7 twisters reported across Heartland as East Coast heats up</title>
       <link>https://abcnews.com/video/132054251/</link>
       <summary>Chief Meteorologist Ginger Zee is tracking a new round of heavy rain, hail and tornadoes in the middle of the country.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Principal stops alleged potential school shooter on surveillance video</title>
+      <link>https://abcnews.com/video/132055206/</link>
+      <summary>New video shows a principal taking down a gunman who officials say planned to carry out a Columbine-style mass shooting.</summary>
+      <pubDate>Wed, 15 Apr 2026 10:06:19 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260415_gma_rivers_principal1_713_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
