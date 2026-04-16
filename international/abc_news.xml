@@ -2,13 +2,24 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T06:01:26.213575</generated>
+  <generated>2026-04-16T09:00:27.579563</generated>
   <items>
+    <item>
+      <title>Iran live updates: Sanctioned ships cross the Strait of Hormuz toward Tehran</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Thu, 16 Apr 2026 00:06:56 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/iran-3-ht-gmh-260415_1776263854767_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: JD Vance heckled during Turning Point event</title>
       <link>https://abcnews.com/video/132084067/</link>
       <summary>Vice President JD Vance was heckled during a Turning Point USA college event in Georgia on Tuesday by people criticizing either the war in Iran or American support for Israel's ongoing war in Gaza.</summary>
-      <pubDate>Wed, 15 Apr 2026 21:08:57 -0400</pubDate>
+      <pubDate>Wed, 15 Apr 2026 23:27:10 -0400</pubDate>
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/Politics/260415_abc_social_vance_hpMain_1x1_384.jpg</image>
@@ -78,17 +89,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Technology/260415_abc_social_finland_bots_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>DHS employee killed while walking her dog in Atlanta shooting spree</title>
-      <link>https://abcnews.com/US/dhs-employee-killed-walking-dog-atlanta-shooting-spree/story?id=132057630</link>
-      <summary>A DHS employee was "brutally shot and stabbed to death" Monday, according to DHS Secretary Markwayne Mullin, in a shooting spree across the Atlanta.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:35:44 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/lauren-bullis-ht-jt-260415_1776288210313_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
