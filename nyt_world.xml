@@ -2,16 +2,16 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T16:11:03.414507</generated>
+  <generated>2026-04-16T17:06:39.882431</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
-      <summary>Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and said a U.S. blockade of Iranian ports would continue “as long as it takes.”</summary>
-      <pubDate>Thu, 16 Apr 2026 13:09:41 +0000</pubDate>
+      <summary>Defense Secretary Pete Hegseth urged Iran’s leaders to “choose wisely” and threatened more attacks, even as the war’s economic toll puts pressure on President Trump.</summary>
+      <pubDate>Thu, 16 Apr 2026 13:57:29 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-promo-mpql/16israel-iran-promo-mpql-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16iran-update-jcfv/16iran-update-jcfv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -19,7 +19,7 @@
       <title>Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months</title>
       <link>https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html</link>
       <summary>Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:37:55 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:00:44 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-ukraine-strikes-zmtq/16int-ukraine-strikes-zmtq-mediumSquareAt3X.jpg</image>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Why China Won’t Lean Hard on Iran</title>
+      <link>https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html</link>
+      <summary>Despite the economic risks from the war, Beijing will likely stick to a hands-off approach. It is wary of being entangled in a conflict it opposed and has little sway over.</summary>
+      <pubDate>Thu, 16 Apr 2026 13:58:14 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/00int-china-diplo-analysis-wqlg/00int-china-diplo-analysis-wqlg-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Sri Lanka Uses U.S.-Iran Cease-Fire to Repatriate Iranian Sailors</title>
       <link>https://www.nytimes.com/2026/04/16/world/asia/iran-sri-lanka-sailors.html</link>
       <summary>Sri Lanka had been refusing to send back the Iranian Navy personnel, including survivors from a warship that the United States torpedoed, during active hostilities.</summary>
@@ -56,28 +67,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-iran-srilanka-sailors-lwpk/16int-iran-srilanka-sailors-lwpk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump Says Leaders From Israel and Lebanon Will Speak Thursday</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html</link>
-      <summary>Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:11:58 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-vflp/16israel-iran-israel-lebanon-vflp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>3 Killed in Boat Strike in the Pacific, Pentagon Says</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html</link>
-      <summary>It was the third such attack by the U.S. military in three days, and the 51st attack in a campaign against people who the United States has accused of smuggling drugs.</summary>
-      <pubDate>Thu, 16 Apr 2026 04:15:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16xp-boatstrike-fbpq/16xp-boatstrike-fbpq-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again</title>
+      <title>Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again</title>
       <link>https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html</link>
       <summary>After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain ongoing peace efforts.</summary>
       <pubDate>Thu, 16 Apr 2026 10:26:04 +0000</pubDate>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] South African Politician Julius Malema Is Sentenced to 5 Years in Prison</title>
+      <title>South African Politician Julius Malema Is Sentenced to 5 Years in Prison</title>
       <link>https://www.nytimes.com/2026/04/16/world/africa/south-africa-malema-sentencing-prison.html</link>
       <summary>The leftist lawmaker has been a prime target of President Trump’s attacks on South Africa. The ruling, handed down after a conviction on gun charges, leaves Mr. Malema’s political future in doubt.</summary>
       <pubDate>Thu, 16 Apr 2026 10:57:00 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-safrica-malema-01-jqhk/16int-safrica-malema-01-jqhk-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How China’s Weapons Transfers to Iran Have Evolved Over Decades</title>
+      <link>https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html</link>
+      <summary>China has denied claims this month by U.S. intelligence that it might have shipped arms to Iran. In recent years, China has supported Iran with dual-use parts.</summary>
+      <pubDate>Wed, 15 Apr 2026 14:13:34 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
