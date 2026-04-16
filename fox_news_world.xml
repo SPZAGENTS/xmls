@@ -2,8 +2,19 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-16T04:01:40.936228</generated>
+  <generated>2026-04-16T05:01:12.747606</generated>
   <items>
+    <item>
+      <title>Iran to execute first female protester tied to anti-regime unrest</title>
+      <link>https://www.foxnews.com/world/iran-execute-first-female-protester-tied-anti-regime-unrest</link>
+      <summary>Iran prepares to execute its first female protester tied to the 2026 Tehran uprising as human rights groups warn of a deepening crackdown.</summary>
+      <pubDate>Wed, 15 Apr 2026 21:53:40 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-protests.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Allies rush thousands of drones to Ukraine as Russia unleashes deadly missile barrages</title>
       <link>https://www.foxnews.com/world/allies-rush-thousands-drones-ukraine-russia-unleashes-deadly-missile-barrages</link>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-italian-prime-minister-meloni.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump squeezed between Israel and Turkey as Netanyahu, Erdogan escalate feud</title>
-      <link>https://www.foxnews.com/world/trump-squeezed-between-israel-turkey-netanyahu-erdogan-escalate-feud</link>
-      <summary>Israel–Turkey tensions escalate sharply as Netanyahu and Erdogan clash over Gaza, Iran and regional influence, creating a diplomatic challenge for Trump.</summary>
-      <pubDate>Tue, 14 Apr 2026 12:03:10 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/netanyahu-trump-erdogan.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
