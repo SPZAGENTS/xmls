@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-16T12:47:49.496675</generated>
+  <generated>2026-04-16T13:02:49.659492</generated>
   <items>
     <item>
       <title>Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done</title>
@@ -16,7 +16,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] China's economy grows faster than expected despite Iran war</title>
+      <title>China's economy grows faster than expected despite Iran war</title>
       <link>https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.</summary>
       <pubDate>Thu, 16 Apr 2026 07:08:52 GMT</pubDate>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/41ccc2f0-38f4-11f1-8606-05fe34b06e1b.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Frank Gardner: What is China's role in the Iran war?</title>
+      <link>https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.</summary>
+      <pubDate>Wed, 15 Apr 2026 18:54:06 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726b/live/1d1f9880-38fc-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,7 +71,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Turkish police order 83 arrests over online praise for school shootings</title>
+      <title>Turkish police order 83 arrests over online praise for school shootings</title>
       <link>https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.</summary>
       <pubDate>Thu, 16 Apr 2026 09:20:20 GMT</pubDate>
@@ -82,6 +93,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Wanted activist arrested in South Africa over support for Benin coup plot</title>
+      <link>https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:58:14 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b55/live/c3e37130-396c-11f1-a650-6399b8700755.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Former US Marine pilot loses appeal against extradition from Australia</title>
       <link>https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.</summary>
@@ -89,28 +111,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d586/live/075ae5c0-393a-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says</title>
-      <link>https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are "false and baseless".</summary>
-      <pubDate>Wed, 15 Apr 2026 15:59:24 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a6/live/24566a80-38e7-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>South Korea jails American YouTuber for public nuisance</title>
-      <link>https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.</summary>
-      <pubDate>Wed, 15 Apr 2026 04:21:51 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4834/live/ebe6eb10-387e-11f1-9f4a-3581017c85eb.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
