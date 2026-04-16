@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T03:01:06.667943</generated>
+  <generated>2026-04-16T04:01:48.214796</generated>
   <items>
     <item>
       <title>WATCH: Trump says in interview he views war with Iran as 'very close to over'</title>
@@ -82,18 +82,7 @@
       </media>
     </item>
     <item>
-      <title>US aircraft carrier breaks record for longest deployment since the Vietnam War</title>
-      <link>https://abcnews.com/US/wireStory/us-aircraft-carrier-breaks-record-longest-deployment-vietnam-132079140</link>
-      <summary>The world&amp;rsquo;s largest aircraft carrier, the USS Gerald R</summary>
-      <pubDate>Wed, 15 Apr 2026 17:58:06 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_4144a52a981e5aa079326123686f2497_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] DHS employee killed while walking her dog in Atlanta shooting spree</title>
+      <title>DHS employee killed while walking her dog in Atlanta shooting spree</title>
       <link>https://abcnews.com/US/dhs-employee-killed-walking-dog-atlanta-shooting-spree/story?id=132057630</link>
       <summary>A DHS employee was "brutally shot and stabbed to death" Monday, according to DHS Secretary Markwayne Mullin, in a shooting spree across the Atlanta.</summary>
       <pubDate>Wed, 15 Apr 2026 19:35:44 -0400</pubDate>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Principal stops alleged potential school shooter on surveillance video</title>
+      <link>https://abcnews.com/video/132055206/</link>
+      <summary>New video shows a principal taking down a gunman who officials say planned to carry out a Columbine-style mass shooting.</summary>
+      <pubDate>Wed, 15 Apr 2026 10:06:19 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260415_gma_rivers_principal1_713_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
