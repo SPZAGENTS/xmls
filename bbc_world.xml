@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-16T16:10:59.944830</generated>
+  <generated>2026-04-16T18:06:29.643121</generated>
   <items>
     <item>
       <title>China's economy grows faster than expected despite Iran war</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c0/live/a8a89cf0-3706-11f1-b35c-83d779cf62f0.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Frank Gardner: What is China's role in the Iran war?</title>
-      <link>https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.</summary>
-      <pubDate>Wed, 15 Apr 2026 18:54:06 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726b/live/1d1f9880-38fc-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Pope criticises 'tyrants' who spend billions on wars after Trump spat</title>
+      <link>https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.</summary>
+      <pubDate>Thu, 16 Apr 2026 13:59:45 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed</title>
       <link>https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.</summary>
@@ -45,17 +45,6 @@
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/d7a90480-396e-11f1-8606-05fe34b06e1b.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Pope criticises 'tyrants' who spend billions on wars, days after Trump spat</title>
-      <link>https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:42:23 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] South African opposition figure Malema sentenced to five years in prison for firing a gun</title>
+      <link>https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Malema is appealing against the decision, which means he is not going to prison immediately.</summary>
+      <pubDate>Thu, 16 Apr 2026 14:35:30 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2880/live/3de1cfe0-3972-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

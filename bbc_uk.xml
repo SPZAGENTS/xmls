@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-16T17:06:36.040932</generated>
+  <generated>2026-04-16T18:06:28.649277</generated>
   <items>
     <item>
       <title>UK prepares for food shortages in worst case scenario as Iran war continues</title>
@@ -16,7 +16,18 @@
       </media>
     </item>
     <item>
-      <title>Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report</title>
+      <title>[PENDING_TRANSLATION] Rollout of Covid vaccines an extraordinary feat, inquiry report finds</title>
+      <link>https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Covid vaccines saved hundreds of thousands of lives, but a small minority harmed need better support, says report.</summary>
+      <pubDate>Thu, 16 Apr 2026 14:39:07 GMT</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6af/live/0b7ceb50-39a1-11f1-818c-6f173b5082f5.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Key findings from Covid inquiry report on vaccines</title>
       <link>https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue.</summary>
       <pubDate>Thu, 16 Apr 2026 13:02:12 GMT</pubDate>
@@ -38,10 +49,10 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Europe has 'maybe 6 weeks of jet fuel left', energy boss warns as Strait of Hormuz effectively closed</title>
+      <title>Europe has 'maybe 6 weeks of jet fuel left', energy boss warns as Strait of Hormuz effectively closed</title>
       <link>https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.</summary>
-      <pubDate>Thu, 16 Apr 2026 13:13:24 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:27:04 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/0300a830-398e-11f1-a2bb-f5510bc30f8a.jpg</image>
@@ -71,18 +82,18 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Three arrests after attempted arson attack at Persian media offices in London</title>
+      <title>Three arrests after attempted arson attack at Persian media offices in London</title>
       <link>https://www.bbc.com/news/articles/c4gx4zywjzwo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>An ignited container was thrown towards the building of a Persian language media organisation, police said.</summary>
-      <pubDate>Thu, 16 Apr 2026 13:48:04 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:35:17 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10fb/live/074f78d0-34c0-11f1-8606-05fe34b06e1b.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b87/live/014c1fc0-39a1-11f1-818c-6f173b5082f5.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Iranians tell BBC they don't know if ceasefire will hold</title>
+      <title>Iranians tell BBC they don't know if ceasefire will hold</title>
       <link>https://www.bbc.com/news/videos/cq8wp588yj5o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The BBC's chief international correspondent Lyse Doucet arrived in Tehran to what she described as 'life on pause'.</summary>
       <pubDate>Thu, 16 Apr 2026 12:00:48 GMT</pubDate>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5402/live/9fcf4810-3998-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Migrants making false domestic abuse claims to stay in UK, BBC investigation reveals</title>
-      <link>https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>In the third part of an undercover investigation, the BBC reveals how rules aimed at protecting abuse victims are being exploited.</summary>
-      <pubDate>Thu, 16 Apr 2026 04:58:15 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc15/live/6468de20-38e0-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
