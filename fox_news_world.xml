@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News World - Top 10 Articles</title>
   <source>Fox News World</source>
-  <generated>2026-04-16T13:02:50.837208</generated>
+  <generated>2026-04-16T14:19:46.956175</generated>
   <items>
     <item>
       <title>Iran to execute first female protester tied to anti-regime unrest</title>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16</title>
+      <link>https://www.foxnews.com/world/russian-missiles-drones-bombard-ukraine-hourslong-attack-death-toll</link>
+      <summary>Russia launched nearly 700 drones and dozens of missiles at Ukraine, killing at least 16 people and injuring over 80 in its biggest attack in weeks.</summary>
+      <pubDate>Thu, 16 Apr 2026 07:07:19 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/russia-ukraine-strikes-blaze-kyiv.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>US stops 9 oil tankers attempting to break Trump's blockade on Iranian ports</title>
       <link>https://www.foxnews.com/world/us-destroyer-interdicts-two-oil-tankers-trying-leave-iran-trumps-blockade</link>
       <summary>U.S. Central Command said Wednesday that nine ships have obeyed orders from American forces while attempting to break a blockade of Iranian ports.</summary>
@@ -100,17 +111,6 @@
       <priority>90</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/jd-vance-jared-kushner-islamabad-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump blasts close ally Meloni, says she’s failing US on Iran</title>
-      <link>https://www.foxnews.com/world/trump-blasts-close-ally-meloni-says-shes-failing-us-iran</link>
-      <summary>Trump publicly rebukes Italian PM Giorgia Meloni, accusing her of lacking courage on Iran, as Italy suspends its defense agreement with Israel.</summary>
-      <pubDate>Tue, 14 Apr 2026 16:39:16 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/trump-italian-prime-minister-meloni.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
