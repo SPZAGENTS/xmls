@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T13:02:52.685958</generated>
+  <generated>2026-04-16T14:19:48.784595</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Pakistan’s Shuttle Diplomacy Unfolds in Tehran</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
       <summary>Pakistan’s foreign ministry said it expected to host a second round of U.S.-Iran talks but did not say when, as a Pakistani delegation visited the Iranian capital.</summary>
-      <pubDate>Thu, 16 Apr 2026 09:59:05 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:28:47 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-promo-mpql/16israel-iran-promo-mpql-mediumSquareAt3X.jpg</image>
@@ -19,7 +19,7 @@
       <title>Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months</title>
       <link>https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html</link>
       <summary>Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.</summary>
-      <pubDate>Thu, 16 Apr 2026 08:55:07 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:55:01 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-ukraine-strikes-zmtq/16int-ukraine-strikes-zmtq-mediumSquareAt3X.jpg</image>
@@ -63,21 +63,10 @@
       <title>Trump Says Leaders From Israel and Lebanon Will Speak Thursday</title>
       <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html</link>
       <summary>Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.</summary>
-      <pubDate>Thu, 16 Apr 2026 09:52:13 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:09:13 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-vflp/16israel-iran-israel-lebanon-vflp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>3 Killed in Boat Strike in the Pacific, Pentagon Says</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html</link>
-      <summary>It was the third such attack by the U.S. military in three days, and the 51st attack in a campaign against people who the United States has accused of smuggling drugs.</summary>
-      <pubDate>Thu, 16 Apr 2026 04:15:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16xp-boatstrike-fbpq/16xp-boatstrike-fbpq-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/world/00int-mexico-disappearances/00int-mexico-disappearances-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump Breaks With Meloni, Italy’s Leader, Amid Dispute Over Pope and Iran</title>
+      <link>https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html</link>
+      <summary>Prime Minister Giorgia Meloni was once considered one of President Trump’s closest European allies. Their friendship now appears in danger.</summary>
+      <pubDate>Wed, 15 Apr 2026 14:47:49 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15int-italy-meloni-01-jzbm/15int-italy-meloni-01-jzbm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

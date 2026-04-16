@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-16T13:02:56.712226</generated>
+  <generated>2026-04-16T14:19:52.844317</generated>
   <items>
     <item>
       <title>Australia boosts military spending as Iran war makes global impact</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Sweden blames pro-Russian group for cyberattack on energy infrastructure</title>
-      <link>https://abcnews.com/International/wireStory/sweden-blames-pro-russian-group-cyberattack-energy-infrastructure-132066405</link>
-      <summary>The Swedish government says a pro-Russian actor was behind a cyberattack on a heating plant in western Sweden last year</summary>
-      <pubDate>Wed, 15 Apr 2026 12:00:46 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Seoul court sentences US YouTuber to 6 months in jail over offensive stunts</title>
       <link>https://abcnews.com/International/wireStory/seoul-court-sentences-us-youtuber-6-months-jail-132056136</link>
       <summary>An American YouTuber who sparked national outrage in South Korea for provocative stunts, including dancing on a statue honoring victims of wartime sexual slavery, was sentenced to six months in prison by a Seoul court on Wednesday</summary>
@@ -100,6 +89,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/2270895686_1776259611340_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>South African politician Julius Malema jailed for 5 years for firing rifle shots at rally</title>
+      <link>https://abcnews.com/International/wireStory/south-african-politician-julius-malema-jailed-5-years-132091312</link>
+      <summary>A South African opposition party leader, Julius Malema, has been sentenced to five years in prison for breaking firearm laws</summary>
+      <pubDate>Thu, 16 Apr 2026 06:20:17 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_da8b822071b227e3861e37af5fa072b4_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

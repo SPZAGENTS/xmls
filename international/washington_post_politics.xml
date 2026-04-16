@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-16T13:02:52.286706</generated>
+  <generated>2026-04-16T14:19:48.343459</generated>
   <items>
     <item>
       <title>Senate rejects resolution to block Trump from striking Iran</title>
@@ -54,13 +54,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Japan is a pacifist nation, and now a hint of change is drawing rare protests</title>
-      <link>https://www.washingtonpost.com/world/2026/04/16/japan-pacifist-constitution-change-protests/</link>
-      <summary>Prime Minister Sanae Takaichi has made revising the constitution’s “no-war” clause a priority amid rising threats in Asia, but any change is highly sensitive.</summary>
-      <pubDate>Thu, 16 Apr 2026 09:00:58 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
       <title>White House sidesteps vaccine skeptics in potential CDC leadership reset</title>
       <link>https://www.washingtonpost.com/health/2026/04/16/erica-schwartz-cdc-director-trump-vaccines/</link>
       <summary>A new team could mark a shift away from Health Secretary Robert F. Kennedy Jr.’s unpopular vaccine agenda ahead of the midterms.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/15/trump-tax-refunds-economic-malaise/</link>
       <summary>The president hopes voters will focus on the benefit of “No Tax on Tips” and other breaks, but economists say higher gas prices will negate most of those benefits.</summary>
       <pubDate>Wed, 15 Apr 2026 19:47:46 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Tracking who Trump is appointing to fill key administration roles</title>
+      <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
+      <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
+      <pubDate>Wed, 15 Apr 2026 19:06:33 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
