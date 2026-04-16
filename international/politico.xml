@@ -2,19 +2,8 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-16T12:47:50.972978</generated>
+  <generated>2026-04-16T13:02:51.239657</generated>
   <items>
-    <item>
-      <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
-      <link>https://www.politico.com/news/2026/04/10/pope-leo-condemns-war-divine-backing-00867250</link>
-      <summary>The Pope is pushing back against rhetoric used by U.S. leaders to frame the Iran war as divinely sanctioned.</summary>
-      <pubDate>Fri, 10 Apr 2026 12:57:37 EST</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static.politico.com/bf/43/28550b534f1187badcf33b0089dc/vatican-pope-53951.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Ossoff builds massive cash edge as Georgia GOP field remains unsettled</title>
       <link>https://www.politico.com/live-updates/2026/04/15/congress/ossoff-fundraising-georgia-senate-00875566</link>
@@ -107,6 +96,17 @@
       <priority>70</priority>
       <media>
         <image>https://static.politico.com/c8/1e/23f76b774826bf47ea113e831a76/us-israel-85101.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Roy Cooper far outraises Michael Whatley in North Carolina Senate race</title>
+      <link>https://www.politico.com/live-updates/2026/04/15/congress/cooper-whatley-north-carolina-senate-fundraising-00875140</link>
+      <summary>The former governor raised nearly $14 million last quarter.</summary>
+      <pubDate>Wed, 15 Apr 2026 17:34:37 EST</pubDate>
+      <priority>60</priority>
+      <media>
+        <image>https://static.politico.com/e8/55/9578f1694bf9be506d64f1c5128e/election-2024-biden-09350.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
