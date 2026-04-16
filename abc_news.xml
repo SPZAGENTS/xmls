@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T23:14:51.083260</generated>
+  <generated>2026-04-17T00:03:44.774998</generated>
   <items>
     <item>
       <title>WATCH: Sec. Hegseth warns Iranian leadership to ‘choose wisely’ as U.S. seeks deal</title>
@@ -12,17 +12,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260416_abc_social_hegseth_pentagon_vert_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Trump nominates Dr. Erica Schwartz as new CDC director</title>
-      <link>https://abcnews.com/Health/trump-nominates-dr-erica-schwartz-new-cdc-director/story?id=132114510</link>
-      <summary>President Donald Trump named Dr. Erica Schwartz, a former deputy surgeon general, on Thursday as the new director of the Centers for Disease Control and Prevention (CDC).</summary>
-      <pubDate>Thu, 16 Apr 2026 15:48:21 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/Erica-Schwartz-1-ht-gmh-260416_1776367846955_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] WATCH: Aly Raisman talks NCAA Gymnastics Championship</title>
+      <link>https://abcnews.com/video/132112215/</link>
+      <summary>Three-time Olympic gold medalist and ESPN analyst Aly Raisman joins ABC News Live from Texas, breaking down the must-watch routines at the gymnastics championship.</summary>
+      <pubDate>Thu, 16 Apr 2026 14:58:48 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Sports/260416_abcnl_1p_raisman_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: What happens if you miss the tax deadline and what is the penalty?</title>
       <link>https://abcnews.com/video/132039193/</link>
       <summary>It’s less than 24 hours until Tax Day. David Perez, CEO of Tax Maverick, enrolled agent and best-selling author, answers some of the most trending tax-related questions.</summary>
@@ -82,13 +82,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Pope Leo's brother's home targeted with false bomb threat</title>
+      <title>Pope Leo's brother's home targeted with false bomb threat</title>
       <link>https://abcnews.com/US/pope-leos-brothers-home-targeted-false-bomb-threat/story?id=132104698</link>
       <summary>One of Pope Leo's brothers was the victim of a false bomb threat on Wednesday night, according to the New Lenox, Illinois, police department.</summary>
       <pubDate>Thu, 16 Apr 2026 15:56:07 -0400</pubDate>
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/pope-7-ap-gmh-260416_1776353096247_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] WATCH: Pope Leo warns about people who 'manipulate religion'</title>
+      <link>https://abcnews.com/video/132105754/</link>
+      <summary>ABC News' Melissa Adan and Father Sam Sawyer, editor in chief at America Media, discuss the pontiff's latest remarks in favor of peace.</summary>
+      <pubDate>Thu, 16 Apr 2026 14:19:40 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260416_abcnl_11a_adan_pope_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260415_wn_ender_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: 7 twisters reported across Heartland as East Coast heats up</title>
-      <link>https://abcnews.com/video/132054251/</link>
-      <summary>Chief Meteorologist Ginger Zee is tracking a new round of heavy rain, hail and tornadoes in the middle of the country.</summary>
-      <pubDate>Wed, 15 Apr 2026 11:52:46 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

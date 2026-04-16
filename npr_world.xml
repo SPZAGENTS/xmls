@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-16T23:14:53.691854</generated>
+  <generated>2026-04-17T00:03:47.001495</generated>
   <items>
     <item>
       <title>Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka</title>
@@ -16,13 +16,6 @@
       <link>https://www.npr.org/2026/04/16/g-s1-117656/a-complex-set-of-negotiations-to-end-israels-overlapping-wars</link>
       <summary>Israel has agreed to a ceasefire in Lebanon, part of a complex web of Mideast negotiations, from Iran to Gaza.</summary>
       <pubDate>Thu, 16 Apr 2026 12:27:33 -0400</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Israel agrees to a ceasefire in its war with Hezbollah but will keep troops in Lebanon</title>
-      <link>https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates</link>
-      <summary>The leaders of Israel and Lebanon have agreed on a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah in Lebanon. But Hezbollah vows to resist a continued Israeli troop presence.</summary>
-      <pubDate>Thu, 16 Apr 2026 07:45:30 -0400</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -40,11 +33,18 @@
       <priority>80</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] The transformation of Terrace Martin</title>
+      <title>The transformation of Terrace Martin</title>
       <link>https://www.npr.org/2026/04/16/g-s1-117685/terrace-martin-love-is-louder-than-the-algorithm-interview</link>
       <summary>After years spent as the go-to guy for a cross-pollinating L.A. music scene, the multi-hyphenate follows his spiritual mission inward for the sprawling series Love Is Louder Than The Algorithms.</summary>
       <pubDate>Thu, 16 Apr 2026 15:00:00 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Minnesota has charged an ICE officer with assault for alleged actions during immigration surge</title>
+      <link>https://www.npr.org/2026/04/16/nx-s1-5787958/minnesota-charged-ice-officer-assault-immigration-surge</link>
+      <summary>Hennepin County officials say these are the first charges filed against a federal immigration agent related to the crackdown that brought thousands of federal officers to the state. The widespread operation led to the shooting deaths of two American citizens.</summary>
+      <pubDate>Thu, 16 Apr 2026 16:26:20 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing</title>
