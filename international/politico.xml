@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-16T05:01:13.221700</generated>
+  <generated>2026-04-16T06:01:20.470649</generated>
   <items>
     <item>
       <title>Pope Leo XIV condemns war, rejects claims of divine backing</title>
@@ -23,6 +23,17 @@
       <priority>90</priority>
       <media>
         <image>https://static.politico.com/72/df/a1e9ab3043649db6ca2ca3774a17/mark-kelly-13651.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Angie Craig builds fundraising lead in Minnesota Senate primary</title>
+      <link>https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578</link>
+      <summary>The Democratic representative raised $2.5 million in the first quarter.</summary>
+      <pubDate>Wed, 15 Apr 2026 21:21:28 EST</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://static.politico.com/f4/eb/a95c0573421f8a2bdaade1ac45fa/angie-craig-assault-48138.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -98,13 +109,6 @@
         <image>https://static.politico.com/2e/74/3a7f6f104b3d81bd5b829f823159/national-action-network-convention-87326.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>The nation’s cartoonists on the week in politics</title>
-      <link>https://www.politico.com/gallery/2026/04/10/the-nations-cartoonists-on-the-week-in-politics-00866253</link>
-      <summary>Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that...</summary>
-      <pubDate>Fri, 10 Apr 2026 04:00:00 EST</pubDate>
-      <priority>65</priority>
     </item>
   </items>
 </content-feed>
