@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T22:05:08.699950</generated>
+  <generated>2026-04-16T23:14:51.083260</generated>
   <items>
-    <item>
-      <title>Iran live updates: US is 'very close' to deal with Iran, Trump says</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
-      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:29:57 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-6-gty-gmh-260416_1776363627736_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: Sec. Hegseth warns Iranian leadership to ‘choose wisely’ as U.S. seeks deal</title>
       <link>https://abcnews.com/video/132101981/</link>
@@ -23,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260416_abc_social_hegseth_pentagon_vert_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump nominates Dr. Erica Schwartz as new CDC director</title>
+      <link>https://abcnews.com/Health/trump-nominates-dr-erica-schwartz-new-cdc-director/story?id=132114510</link>
+      <summary>President Donald Trump named Dr. Erica Schwartz, a former deputy surgeon general, on Thursday as the new director of the Centers for Disease Control and Prevention (CDC).</summary>
+      <pubDate>Thu, 16 Apr 2026 15:48:21 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/Erica-Schwartz-1-ht-gmh-260416_1776367846955_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,24 +82,13 @@
       </media>
     </item>
     <item>
-      <title>ICE agent charged with 2 counts of felony assault in Minneapolis</title>
-      <link>https://abcnews.com/Politics/ice-agent-charged-2-counts-felony-assault-minneapolis/story?id=132107046</link>
-      <summary>An ICE agent has been charged with two counts of second degree assault which occurred in February, according to the Hennepin County Attorney’s office in Minneapolis.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:34:20 -0400</pubDate>
-      <priority>65</priority>
+      <title>Pope Leo's brother's home targeted with false bomb threat</title>
+      <link>https://abcnews.com/US/pope-leos-brothers-home-targeted-false-bomb-threat/story?id=132104698</link>
+      <summary>One of Pope Leo's brothers was the victim of a false bomb threat on Wednesday night, according to the New Lenox, Illinois, police department.</summary>
+      <pubDate>Thu, 16 Apr 2026 15:56:07 -0400</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Minibus taxi catches fire in Zimbabwe, killing several people</title>
-      <link>https://abcnews.com/International/wireStory/minibus-taxi-catches-fire-zimbabwe-killing-people-132109751</link>
-      <summary>Police in Zimbabwe say that several people were killed when a minibus taxi they were traveling in caught fire</summary>
-      <pubDate>Thu, 16 Apr 2026 13:35:36 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/US/pope-7-ap-gmh-260416_1776353096247_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/WNT/260415_wn_ender_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: 7 twisters reported across Heartland as East Coast heats up</title>
+      <link>https://abcnews.com/video/132054251/</link>
+      <summary>Chief Meteorologist Ginger Zee is tracking a new round of heavy rain, hail and tornadoes in the middle of the country.</summary>
+      <pubDate>Wed, 15 Apr 2026 11:52:46 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

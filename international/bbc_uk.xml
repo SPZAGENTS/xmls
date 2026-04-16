@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-16T22:04:58.934727</generated>
+  <generated>2026-04-16T23:14:40.932051</generated>
   <items>
     <item>
       <title>UK prepares for food shortages in worst case scenario as Iran war continues</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131d/live/398fe9d0-3991-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lyse Doucet in Iran: Destruction shows huge civilian cost of the war</title>
+      <link>https://www.bbc.com/news/videos/c62j6d4n0wqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>While military targets have been struck in Iran, civilian areas have too, showing the stark reality of the war.</summary>
+      <pubDate>Thu, 16 Apr 2026 19:35:36 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1671/live/3b9de4a0-39c5-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -41,7 +52,7 @@
       <title>Starmer not aware Foreign Office overruled Mandelson vetting decision until this week, government says</title>
       <link>https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>A decision to go against the recommendation of the vetting agency was taken by officials in the Foreign Office, spokesperson says.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:51:37 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 19:22:19 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/038a/live/5bccbf70-39a8-11f1-ba5b-c578881f2eba.jpg</image>
@@ -78,17 +89,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fe3/live/a26b6850-187e-11f1-b048-c9424b2cf5fd.png</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iranians tell BBC they don't know if ceasefire with US will hold</title>
-      <link>https://www.bbc.com/news/videos/cq8wp588yj5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The BBC's chief international correspondent Lyse Doucet arrived in Tehran to what she described as 'life on pause'.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:00:48 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4f/live/f0ec61a0-397b-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
