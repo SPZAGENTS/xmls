@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-16T02:01:08.743580</generated>
+  <generated>2026-04-16T03:01:02.411604</generated>
   <items>
     <item>
       <title>Senate rejects resolution to block Trump from striking Iran</title>
@@ -47,13 +47,6 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Trump says Iran talks may resume this week, but opposes enrichment compromise</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/14/trump-iran-nuclear-demands/</link>
-      <summary>The lead U.S. negotiator, Vice President JD Vance, has sought a moratorium on uranium enrichment of at least 20 years. Tehran’s offer would last up to five.</summary>
-      <pubDate>Tue, 14 Apr 2026 18:35:38 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>White House touts refunds, as most Americans say taxes are too high</title>
       <link>https://www.washingtonpost.com/politics/2026/04/15/trump-tax-refunds-economic-malaise/</link>
       <summary>The president hopes voters will focus on the benefit of “No Tax on Tips” and other breaks, but economists say higher gas prices will negate most of those benefits.</summary>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/politics/2026/04/14/california-governor-race-swalwell-steyer-porter/</link>
       <summary>Billionaire Tom Steyer and ex-congresswoman Katie Porter stand to benefit the most in a Democratic field with no clear front-runner, several strategists said.</summary>
       <pubDate>Tue, 14 Apr 2026 20:10:24 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>DOJ accuses Biden administration of weaponizing abortion access law</title>
+      <link>https://www.washingtonpost.com/national-security/2026/04/14/doj-biden-face-act-abortion/</link>
+      <summary>A long-awaited report from the Justice Department’s “Weaponization Working Group” alleges misuse of the Face Act. But the evidence is limited, and the Trump administration has itself been criticized for misusing law enforcement.</summary>
+      <pubDate>Tue, 14 Apr 2026 19:49:44 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
