@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-17T00:03:40.820302</generated>
+  <generated>2026-04-17T01:02:07.804079</generated>
   <items>
     <item>
       <title>Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
       <summary>It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:01:34 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 21:37:45 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17iran-400-bqpj/17iran-400-bqpj-mediumSquareAt3X.jpg</image>
@@ -71,17 +71,10 @@
       </media>
     </item>
     <item>
-      <title>How Trump’s Blockade of the Strait of Hormuz Works</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html</link>
-      <summary>Our business reporter Peter Eavis breaks down how American military ships have blocked Iranian-linked vessels from using the Strait of Hormuz as the U.S. encourages other vessels to make the passage.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:49:49 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>U.S. Completes Handover of Military Bases in Syria</title>
       <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
       <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:53:21 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 21:41:48 +0000</pubDate>
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
@@ -89,13 +82,13 @@
       </media>
     </item>
     <item>
-      <title>Cease-fire in Lebanon Set to Take Effect</title>
-      <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/cease-fire-in-lebanon-set-to-take-effect</link>
-      <summary>The Lebanese and Israeli governments confirmed the truce. But Hezbollah, the Lebanese militant group Israel was fighting, only obliquely acknowledged the deal, without directly saying it would abide by it.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:01:02 +0000</pubDate>
+      <title>Israel and Lebanon Reach Deal on a 10-Day Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html</link>
+      <summary>A pause in the fighting between Israeli forces and Iranian-allied Hezbollah militants may help smooth the way to a peace deal between the U.S. and Iran.</summary>
+      <pubDate>Thu, 16 Apr 2026 21:23:58 +0000</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-ceasefire-begins1/16israel-iran-netanyahu-lebanon1-wbmj-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/world/16ukraine-privatization-02/16ukraine-privatization-02-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again</title>
+      <link>https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html</link>
+      <summary>After talks in Islamabad last weekend led to a two-week cease-fire, Pakistan is offering to host another round in an attempt to sustain continuing peace efforts.</summary>
+      <pubDate>Thu, 16 Apr 2026 19:53:46 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pakistan-iran-bvcz/16int-pakistan-iran-bvcz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
