@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-17T01:02:06.900030</generated>
+  <generated>2026-04-17T02:04:04.405952</generated>
   <items>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
@@ -54,6 +54,13 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] South African politician who drew Trump’s ire sentenced on gun charges</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/south-african-julius-malem-trump-prison-gun/</link>
+      <summary>Julius Malema, whose incendiary rhetoric about Afrikaners drew notice on the U.S. right, was handed a five-year prison term for firing a gun at a 2018 rally.</summary>
+      <pubDate>Thu, 16 Apr 2026 22:02:54 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
       <title>House votes to restore protections for Haitians, defying Trump</title>
       <link>https://www.washingtonpost.com/business/2026/04/16/haiti-tps-house/</link>
       <summary>Ten House Republicans joined Democrats to oppose President Donald Trump on his immigration policy Thursday, voting to restore temporary protections for Haitians living in the United States.</summary>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/</link>
       <summary>Secretary of State Marco Rubio called it an opportunity to use the U.N. system to “promote America First values,” according to a cable reviewed by The Post.</summary>
       <pubDate>Thu, 16 Apr 2026 16:45:32 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>House defies Trump on immigration with move to shield Haitians</title>
-      <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
-      <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
-      <pubDate>Wed, 15 Apr 2026 23:00:10 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

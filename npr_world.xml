@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-17T01:02:14.019480</generated>
+  <generated>2026-04-17T02:04:11.491908</generated>
   <items>
     <item>
       <title>Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka</title>
@@ -40,7 +40,14 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Trump nominates former Coast Guard doctor as CDC chief</title>
+      <title>[PENDING_TRANSLATION] These musicians are providing the soundtrack for anti-ICE protests in LA</title>
+      <link>https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la</link>
+      <summary>Los Jornaleros Del Norte play protest songs whose lyrics reflect the hopes and struggles of undocumented workers as they evade immigration agents patrolling the streets.</summary>
+      <pubDate>Thu, 16 Apr 2026 17:14:45 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Trump nominates former Coast Guard doctor as CDC chief</title>
       <link>https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination</link>
       <summary>The nomination comes after months of interim leadership at the Centers for Disease Control and Prevention.</summary>
       <pubDate>Thu, 16 Apr 2026 16:58:49 -0400</pubDate>
@@ -66,13 +73,6 @@
       <summary>The seven-member body, whose ranks are composed of Trump appointees, was expected to approve the arch. The proposed monument strongly resembles Paris' Arc de Triomphe, but almost 100 feet taller.</summary>
       <pubDate>Thu, 16 Apr 2026 11:32:52 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>NPR receives $113 million in charitable gifts</title>
-      <link>https://www.npr.org/2026/04/16/nx-s1-5787634/npr-113-million-charitable-gifts-connie-ballmer</link>
-      <summary>"My hope is that this commitment provides the stability and the spark NPR needs to innovate boldly and strengthen its national network," says Connie Ballmer, who gave $80 million of the $113 million.</summary>
-      <pubDate>Thu, 16 Apr 2026 10:18:37 -0400</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>
