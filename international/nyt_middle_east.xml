@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-16T04:01:45.022120</generated>
+  <generated>2026-04-16T05:01:16.350190</generated>
   <items>
+    <item>
+      <title>Senate Blocks Bid to Cancel Arms Sales to Israel as Iran War Deepens Democratic Divide</title>
+      <link>https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html</link>
+      <summary>Concerns over the Iran war led several Democratic senators who had rejected past bids to curb weapons transfers to Israel to vote to block the sale of bulldozers and bombs.</summary>
+      <pubDate>Thu, 16 Apr 2026 01:07:09 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-senate-vote-Israeli-arms1-mzvj/15israel-iran-senate-vote-Israeli-arms1-mzvj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump’s Portrayal of the War in Iran Collides With Reality</title>
       <link>https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-diplo-sub-jkgf/14dc-diplo-sub-jkgf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Blockade Risks Upending an Emerging Détente With China</title>
-      <link>https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html</link>
-      <summary>In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”</summary>
-      <pubDate>Wed, 15 Apr 2026 14:14:04 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/14/multimedia/14dc-trump-china-qwcp/14dc-trump-china-qwcp-mediumSquareAt3X-v2.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
