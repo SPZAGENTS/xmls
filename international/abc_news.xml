@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T19:26:33.903912</generated>
+  <generated>2026-04-16T20:07:21.979911</generated>
   <items>
     <item>
       <title>Iran live updates: Israel and Lebanon agree to 10-day ceasefire, Trump says</title>
@@ -38,6 +38,17 @@
       </media>
     </item>
     <item>
+      <title>WATCH: Israel and Lebanon agree to 10-day ceasefire, President Trump says</title>
+      <link>https://abcnews.com/video/132108066/</link>
+      <summary>Israel and Lebanon have agreed to a 10-day ceasefire beginning April 16, President Trump announced in a post on social media.</summary>
+      <pubDate>Thu, 16 Apr 2026 12:42:07 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/260416_abc_social_ceasefire_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>LIVE: ABC News Live</title>
       <link>https://abcnews.com/video/41463246/</link>
       <summary>24/7 coverage of breaking news and live events</summary>
@@ -45,17 +56,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Former Virginia Lt. Gov. Justin Fairfax killed wife, self in their home: Police</title>
-      <link>https://abcnews.com/US/former-virginia-lt-gov-justin-fairfax-killed-wife/story?id=132094906</link>
-      <summary>Justin Fairfax, the former Virginia lieutenant governor, killed his wife before taking his own life in their home, police said Thursday.</summary>
-      <pubDate>Thu, 16 Apr 2026 12:17:00 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Politics/justin-fairfax-ap-jef-260416_1776346383219_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,6 +82,17 @@
       </media>
     </item>
     <item>
+      <title>ICE agent charged with 2 counts of felony assault in Minneapolis</title>
+      <link>https://abcnews.com/Politics/ice-agent-charged-2-counts-felony-assault-minneapolis/story?id=132107046</link>
+      <summary>An ICE agent has been charged with two counts of second degree assault which occurred in February, according to the Hennepin County Attorney’s office in Minneapolis.</summary>
+      <pubDate>Thu, 16 Apr 2026 12:34:20 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/ice-agent-gty-jt-260204_1771533708132_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: David Muir shares San Francisco Giants' surprise for fan who dropped phone at game</title>
       <link>https://abcnews.com/video/132080657/</link>
       <summary>While taking photos of her son during a San Francisco Giants game, a woman’s phone fell onto the field. It was recovered by the grounds crew – along with a cool surprise from the team.</summary>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/GMA/260415_gma_zee_storms_702_hpMain_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Principal stops alleged potential school shooter on surveillance video</title>
-      <link>https://abcnews.com/video/132055206/</link>
-      <summary>New video shows a principal taking down a gunman who officials say planned to carry out a Columbine-style mass shooting.</summary>
-      <pubDate>Wed, 15 Apr 2026 10:06:19 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/GMA/260415_gma_rivers_principal1_713_hpMain_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

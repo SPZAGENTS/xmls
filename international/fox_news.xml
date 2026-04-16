@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-16T19:26:26.709189</generated>
+  <generated>2026-04-16T20:07:13.944195</generated>
   <items>
     <item>
       <title>House rejects Democrat attempt to limit Trump's Iran war powers</title>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/bernie-sanders-december-2025.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>NOT BLUFFING: Stephen Miller says Trump is directly involved, 'holds all of the cards' in Iran negotiations</title>
+      <link>https://www.foxnews.com/media/not-bluffing-stephen-miller-says-trump-directly-involved-holds-all-cards-iran-negotiations</link>
+      <summary>Stephen Miller says Trump is directly involved in Iran negotiations, calling the U.S. blockade a move &amp;quot;resetting the entire global order.&amp;quot;</summary>
+      <pubDate>Thu, 16 Apr 2026 12:34:27 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-joint-base-andrews-fox-news-002.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,24 +104,13 @@
       </media>
     </item>
     <item>
-      <title>Jasmine Crockett doesn't anticipate Trump 'canceling' the midterm elections</title>
-      <link>https://www.foxnews.com/media/jasmine-crockett-doesnt-anticipate-trump-canceling-midterm-elections</link>
-      <summary>Rep. Jasmine Crockett, D-Texas, said she does not believe President Donald Trump plans to cancel the midterm elections but expects election interference.</summary>
-      <pubDate>Thu, 16 Apr 2026 10:58:33 -0400</pubDate>
-      <priority>90</priority>
+      <title>Realtor's cold case murder suspect alleges major evidence blunder by investigators: report</title>
+      <link>https://www.foxnews.com/us/realtors-cold-case-murder-suspect-alleges-major-evidence-blunder-investigators-report</link>
+      <summary>Kristin Ramsey, charged in the 2011 murder of real estate agent Ashley Okland, faces allegations her defense says involve lost or destroyed evidence.</summary>
+      <pubDate>Thu, 16 Apr 2026 13:00:18 -0400</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/crockett-trump-maga-voters.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>GOP firebrand vows to strip Swalwell and Gonzales of lifetime taxpayer-funded benefits</title>
-      <link>https://www.foxnews.com/politics/gop-firebrand-vows-strip-swalwell-gonzales-lifetime-taxpayer-funded-benefits</link>
-      <summary>Rep. Boebert announces effort to cancel pensions for former Reps. Eric Swalwell and Tony Gonzales after both resigned from Congress.</summary>
-      <pubDate>Thu, 16 Apr 2026 10:58:07 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/gonzales-swalwel-split.jpg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/kristin-ramsey-ashley-okland-murder-fox-news-001.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
