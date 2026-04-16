@@ -2,16 +2,16 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-16T15:10:23.538802</generated>
+  <generated>2026-04-16T16:11:07.163914</generated>
   <items>
     <item>
-      <title>LIVE: Secretary Hegseth holds news conference on Iran: ABC News Live</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 16 Apr 2026 08:05:24 -0400</pubDate>
+      <title>Iran live updates: US 'locked and loaded' for infrastructure strikes, Hegseth says</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:05:06 -0400</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg</image>
+        <image>https://s.abcnews.com/images/International/hegseth-4-rt-gmh-260416_1776342403086_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Thu, 16 Apr 2026 08:42:01 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: What happens if you miss the tax deadline and what is the penalty?</title>
       <link>https://abcnews.com/video/132039193/</link>
       <summary>It’s less than 24 hours until Tax Day. David Perez, CEO of Tax Maverick, enrolled agent and best-selling author, answers some of the most trending tax-related questions.</summary>
@@ -67,17 +78,6 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Technology/260415_abc_social_finland_bots_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>What to know about 'ship spoofing' by Iran-linked vessel to breach the US blockade</title>
-      <link>https://abcnews.com/International/ship-spoofing-iran-linked-vessel-breach-us-blockade/story?id=132056584</link>
-      <summary>Some ships linked to the Islamic Republic appear to be using deceptive methods known as "spoofing" to breach the Strait of Hormuz blockade.</summary>
-      <pubDate>Thu, 16 Apr 2026 05:13:16 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/iran-3-rt-gmh-26t0413_1776083934903_hpMain_16x9t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

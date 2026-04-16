@@ -2,19 +2,8 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-16T15:10:16.500183</generated>
+  <generated>2026-04-16T16:10:59.944830</generated>
   <items>
-    <item>
-      <title>Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done</title>
-      <link>https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.</summary>
-      <pubDate>Wed, 15 Apr 2026 21:10:14 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2b/live/fba16310-3954-11f1-9d5c-8ba507d7dbde.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>China's economy grows faster than expected despite Iran war</title>
       <link>https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -38,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done</title>
+      <link>https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.</summary>
+      <pubDate>Wed, 15 Apr 2026 21:10:14 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2b/live/fba16310-3954-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed</title>
       <link>https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.</summary>
@@ -49,13 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds</title>
-      <link>https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.</summary>
-      <pubDate>Wed, 15 Apr 2026 22:56:29 GMT</pubDate>
-      <priority>80</priority>
+      <title>Pope criticises 'tyrants' who spend billions on wars, days after Trump spat</title>
+      <link>https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.</summary>
+      <pubDate>Thu, 16 Apr 2026 12:42:23 GMT</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/334cfbe0-3931-11f1-8606-05fe34b06e1b.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Moment gunman tackled by school principal</title>
+      <link>https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>CCTV footage shows a high school principal charging towards a former student who was armed in Oklahoma.</summary>
+      <pubDate>Wed, 15 Apr 2026 09:03:51 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3151/live/36b44890-38ca-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,13 +93,13 @@
       </media>
     </item>
     <item>
-      <title>Blunt-speaking Pope tells Cameroon to root out corruption to find peace</title>
-      <link>https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The pontiff was unusually forthright in his address at the presidential palace.</summary>
-      <pubDate>Thu, 16 Apr 2026 11:28:42 GMT</pubDate>
-      <priority>65</priority>
+      <title>The human cost of the war in Sudan, three years on</title>
+      <link>https://www.bbc.com/news/videos/czd77jgnnlno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The conflict, which erupted in 2023, has left behind a human toll which is "simply staggering", reports the BBC's Barbara Plett Usher.</summary>
+      <pubDate>Wed, 15 Apr 2026 08:38:36 GMT</pubDate>
+      <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60fe/live/54ae51e0-3985-11f1-879d-1b2f5c3919b8.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ec/live/c39b85b0-384e-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies</title>
-      <link>https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The fire has deepened fears over the nation's petrol supplies amid a global crunch.</summary>
-      <pubDate>Thu, 16 Apr 2026 03:45:29 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee9b/live/a3089ec0-3964-11f1-9d5c-8ba507d7dbde.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
