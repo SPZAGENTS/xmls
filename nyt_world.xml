@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T21:02:51.121429</generated>
+  <generated>2026-04-16T22:05:04.311609</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
-      <summary>Prime Minister Benjamin Netanyahu said he had agreed to pause attacks targeting Hezbollah but said Israeli troops would not withdraw. Lebanon’s prime minister welcomed the truce, expected to start at 5 p.m. Eastern time.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:00:55 +0000</pubDate>
+      <summary>Prime Minister Benjamin Netanyahu agreed to pause attacks targeting Hezbollah but said Israeli troops would not withdraw. The truce, set to start at 5 p.m. Eastern time, could ease efforts to end the U.S.-Israeli war with Iran.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:51:21 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-header-qcwm/16israel-iran-header-qcwm-mediumSquareAt3X.jpg</image>
@@ -30,7 +30,7 @@
       <title>Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months</title>
       <link>https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html</link>
       <summary>Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:00:44 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:00:45 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-ukraine-strikes-zmtq/16int-ukraine-strikes-zmtq-mediumSquareAt3X.jpg</image>
@@ -41,7 +41,7 @@
       <title>Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’</title>
       <link>https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html</link>
       <summary>For days, Pope Leo XIV has attracted criticism from President Trump and his allies for refusing to back the war in Iran. On Thursday, he reiterated his calls for peace.</summary>
-      <pubDate>Thu, 16 Apr 2026 17:39:15 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 18:27:51 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-pope-cameroon-plgm/16int-pope-cameroon-plgm-mediumSquareAt3X.jpg</image>
@@ -49,7 +49,25 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure</title>
+      <title>Bahrain Charges Intelligence Officer in the Death of a Detainee</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html</link>
+      <summary>The officer was charged with assault leading to death, in the case of a man who was accused by Bahraini authorities of espionage during a domestic crackdown tied to the war in Iran.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:56:52 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17bahrain-1-tpzm/17bahrain-1-tpzm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>How Trump’s Blockade of the Strait of Hormuz Works</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html</link>
+      <summary>Our business reporter Peter Eavis breaks down how American military ships have blocked Iranian-linked vessels from using the Strait of Hormuz as the U.S. encourages other vessels to make the passage.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:49:49 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure</title>
       <link>https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html</link>
       <summary>The U.S. blockade of shipments through the Strait of Hormuz would last “for as long as it takes,” the defense secretary said.</summary>
       <pubDate>Thu, 16 Apr 2026 17:15:50 +0000</pubDate>
@@ -82,35 +100,13 @@
       </media>
     </item>
     <item>
-      <title>White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html</link>
-      <summary>Stocks may be soaring again, but the war in Iran has started to pinch the finances of many Americans.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:19:24 +0000</pubDate>
-      <priority>100</priority>
+      <title>U.S. Completes Handover of Military Bases in Syria</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
+      <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:53:21 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-trump-econ-01-hfpb/16dc-trump-econ-01-hfpb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Sri Lanka Uses U.S.-Iran Cease-Fire to Repatriate Iranian Sailors</title>
-      <link>https://www.nytimes.com/2026/04/16/world/asia/iran-sri-lanka-sailors.html</link>
-      <summary>Sri Lanka had been refusing to send back the Iranian Navy personnel, including survivors from a warship that the United States torpedoed, during active hostilities.</summary>
-      <pubDate>Thu, 16 Apr 2026 11:51:33 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-iran-srilanka-sailors-lwpk/16int-iran-srilanka-sailors-lwpk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.</title>
-      <link>https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html</link>
-      <summary>An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.</summary>
-      <pubDate>Thu, 16 Apr 2026 13:03:43 +0000</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/world/16ukraine-privatization-02/16ukraine-privatization-02-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
