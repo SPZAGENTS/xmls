@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-16T23:14:46.213295</generated>
+  <generated>2026-04-17T00:03:40.338537</generated>
   <items>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
@@ -47,6 +47,20 @@
       <priority>95</priority>
     </item>
     <item>
+      <title>Israel agrees to 10-day Lebanon ceasefire</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/</link>
+      <summary>President Donald Trump said the deal would go into force Thursday evening, as Pakistani mediators worked to extend a U.S.-Iran ceasefire and arrange new talks.</summary>
+      <pubDate>Thu, 16 Apr 2026 20:49:41 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>Trump officially taps Erica Schwartz to lead CDC, avoiding vaccine skeptics</title>
+      <link>https://www.washingtonpost.com/health/2026/04/16/erica-schwartz-cdc-director-trump-vaccines/</link>
+      <summary>A new team could mark a shift away from Health Secretary Robert F. Kennedy Jr.’s unpopular vaccine agenda ahead of the midterms.</summary>
+      <pubDate>Thu, 16 Apr 2026 20:43:02 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
       <title>Federal judge sets new limits on Trump ballroom construction</title>
       <link>https://www.washingtonpost.com/politics/2026/04/16/judge-trump-ballroom-limits/</link>
       <summary>U.S. District Judge Richard Leon clarified that some national security work can continue while the overall project is halted. Trump attacked him on social media.</summary>
@@ -54,24 +68,10 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Israel agrees to 10-day Lebanon ceasefire</title>
-      <link>https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/</link>
-      <summary>President Donald Trump said the deal would go into force Thursday evening, as Pakistani mediators worked to extend a U.S.-Iran ceasefire and arrange new talks.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:35:31 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
       <link>https://www.washingtonpost.com/national-security/2026/04/15/us-troops-iran-blockade/</link>
       <summary>The infusion of firepower coincides with the administration’s maritime blockade against the regime in Tehran and as mediators urge both sides to extend their ceasefire.</summary>
       <pubDate>Wed, 15 Apr 2026 21:16:15 +0000</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
-      <title>Trump says China has agreed not to send weapons to Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/</link>
-      <summary>The president made the claim, which Beijing has yet to confirm, amid anger in China that its vessels could be caught up in a U.S. blockade targeting Iranian ports.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:27:09 +0000</pubDate>
       <priority>90</priority>
     </item>
   </items>

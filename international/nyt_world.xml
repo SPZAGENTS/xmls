@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-16T23:14:46.788160</generated>
+  <generated>2026-04-17T00:03:40.820302</generated>
   <items>
     <item>
-      <title>Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon</title>
+      <title>Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
-      <summary>Prime Minister Benjamin Netanyahu agreed to pause attacks targeting Hezbollah but said Israeli troops would not withdraw. The truce, set to start at 5 p.m. Eastern time, could ease efforts to end the U.S.-Israeli war with Iran.</summary>
-      <pubDate>Thu, 16 Apr 2026 20:08:19 +0000</pubDate>
+      <summary>It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.</summary>
+      <pubDate>Thu, 16 Apr 2026 21:01:34 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17iran-400-bqpj/17iran-400-bqpj-mediumSquareAt3X.jpg</image>
@@ -60,6 +60,17 @@
       </media>
     </item>
     <item>
+      <title>Despite Cease-Fire, Iran’s Hackers Haven’t Logged Off</title>
+      <link>https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html</link>
+      <summary>Tehran’s digital warriors have continued to seek ways to gain an advantage in the conflict in a new phase of cyberspace operations.</summary>
+      <pubDate>Thu, 16 Apr 2026 20:20:36 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-iran-cyber-gcwm/16dc-iran-cyber-gcwm-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>How Trump’s Blockade of the Strait of Hormuz Works</title>
       <link>https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html</link>
       <summary>Our business reporter Peter Eavis breaks down how American military ships have blocked Iranian-linked vessels from using the Strait of Hormuz as the U.S. encourages other vessels to make the passage.</summary>
@@ -67,46 +78,35 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html</link>
-      <summary>The U.S. blockade of shipments through the Strait of Hormuz would last “for as long as it takes,” the defense secretary said.</summary>
-      <pubDate>Thu, 16 Apr 2026 17:15:50 +0000</pubDate>
-      <priority>100</priority>
+      <title>U.S. Completes Handover of Military Bases in Syria</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
+      <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:53:21 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-military-iran-hfgk/16dc-military-iran-hfgk-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>White House Declines to Offer Congress an Estimate of Iran War Cost</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html</link>
-      <summary>Russell T. Vought, the White House budget director, said the fluctuating nature of the U.S.-Israeli war made it difficult to pinpoint expenses.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:53:38 +0000</pubDate>
-      <priority>100</priority>
+      <title>Cease-fire in Lebanon Set to Take Effect</title>
+      <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/cease-fire-in-lebanon-set-to-take-effect</link>
+      <summary>The Lebanese and Israeli governments confirmed the truce. But Hezbollah, the Lebanese militant group Israel was fighting, only obliquely acknowledged the deal, without directly saying it would abide by it.</summary>
+      <pubDate>Thu, 16 Apr 2026 21:01:02 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-vought-cost-of-war-kvlf/16israel-iran-vought-cost-of-war-kvlf-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-ceasefire-begins1/16israel-iran-netanyahu-lebanon1-wbmj-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>A Timeline of the Lebanon-Israel Relationship</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/lebanon-israel-tensions-relations-timeline.html</link>
-      <summary>Israeli and Lebanese officials this week met in Washington for direct talks between two nations, which have technically been at war since 1948.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:39:24 +0000</pubDate>
-      <priority>100</priority>
+      <title>Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.</title>
+      <link>https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html</link>
+      <summary>An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.</summary>
+      <pubDate>Thu, 16 Apr 2026 13:03:43 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-timeline-vgfp/16israel-iran-israel-lebanon-timeline-vgfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html</link>
-      <summary>Stocks may be soaring again, but the war in Iran has started to pinch the finances of many Americans.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:33:04 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-trump-econ-01-hfpb/16dc-trump-econ-01-hfpb-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/world/16ukraine-privatization-02/16ukraine-privatization-02-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

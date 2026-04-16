@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc World - Top 10 Articles</title>
   <source>Bbc World</source>
-  <generated>2026-04-16T23:14:41.744946</generated>
+  <generated>2026-04-17T00:03:36.660895</generated>
   <items>
     <item>
       <title>Russia launches deadliest aerial attack in months, killing 18 in Ukraine</title>
@@ -16,13 +16,24 @@
       </media>
     </item>
     <item>
-      <title>China's economy grows faster than expected despite Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.</summary>
-      <pubDate>Thu, 16 Apr 2026 07:08:52 GMT</pubDate>
+      <title>Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done</title>
+      <link>https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.</summary>
+      <pubDate>Wed, 15 Apr 2026 21:10:14 GMT</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c0/live/a8a89cf0-3706-11f1-b35c-83d779cf62f0.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b2b/live/fba16310-3954-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Israel and Lebanon agree 10-day ceasefire, Trump says</title>
+      <link>https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.</summary>
+      <pubDate>Thu, 16 Apr 2026 20:40:30 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c7/live/d118f600-39d4-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,17 +78,6 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b55/live/c3e37130-396c-11f1-a650-6399b8700755.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Former US Marine pilot loses appeal against extradition from Australia</title>
-      <link>https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.</summary>
-      <pubDate>Thu, 16 Apr 2026 02:17:38 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d586/live/075ae5c0-393a-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
