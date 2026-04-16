@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-16T06:01:21.400300</generated>
+  <generated>2026-04-16T12:47:51.630548</generated>
   <items>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
@@ -10,6 +10,20 @@
       <summary>A U.S. blockade in effect since Monday has completely cut off Iran’s sea trade, the U.S. military said after six merchant ships were prevented from leaving Iranian ports.</summary>
       <pubDate>Wed, 15 Apr 2026 08:24:02 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Airstrike by Nigeria, U.S. ally against Islamist militants, kills scores</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/nigeria-market-attack-boko-haram-iswap/</link>
+      <summary>Villagers, health workers and human rights monitors see a pattern of reckless attacks in the U.S.-backed fight against Boko Haram and its Islamic State-affiliated offshoot.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:43:56 +0000</pubDate>
+      <priority>95</priority>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Trumps says Israeli, Lebanese leaders will meet amid push to extend ceasefire</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/</link>
+      <summary>The president did not specify which leaders. Meanwhile, Pakistani officials were working to extend the U.S.-Iran ceasefire and arrange new negotiations.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:34:08 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran</title>
@@ -33,6 +47,13 @@
       <priority>90</priority>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] Japan is a pacifist nation, and now a hint of change is drawing rare protests</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/japan-pacifist-constitution-change-protests/</link>
+      <summary>Prime Minister Sanae Takaichi has made revising the constitution’s “no-war” clause a priority amid rising threats in Asia, but any change is highly sensitive.</summary>
+      <pubDate>Thu, 16 Apr 2026 09:00:58 +0000</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>Lebanese, Israeli diplomats hold rare face-to-face meeting in Washington</title>
       <link>https://www.washingtonpost.com/world/2026/04/14/iran-israel-lebanon-talks-washington/</link>
       <summary>Secretary of State Marco Rubio hosted ambassadors from the two neighboring states in what was described as a working group aimed at reaching a ceasefire.</summary>
@@ -52,20 +73,6 @@
       <summary>Secretary of State Marco Rubio called it an opportunity to use the U.N. system to “promote America First values,” according to a cable reviewed by The Post.</summary>
       <pubDate>Wed, 15 Apr 2026 23:39:26 +0000</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>House defies Trump on immigration with move to shield Haitians</title>
-      <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
-      <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
-      <pubDate>Wed, 15 Apr 2026 23:00:10 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>World’s oldest gorilla, known for her dignified manner, turns 69</title>
-      <link>https://www.washingtonpost.com/lifestyle/2026/04/14/worlds-oldest-gorilla-fatou-berlin/</link>
-      <summary>Legend has it that Fatou was brought from Africa to France in the late 1950s by a sailor who then traded her to settle a bar bill.</summary>
-      <pubDate>Tue, 14 Apr 2026 09:00:05 +0000</pubDate>
-      <priority>50</priority>
     </item>
   </items>
 </content-feed>

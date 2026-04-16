@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-16T10:00:22.543193</generated>
+  <generated>2026-04-16T12:47:50.059648</generated>
   <items>
     <item>
       <title>Iran to execute first female protester tied to anti-regime unrest</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-protests.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Europe’s chemical industry is in free fall — America's could be next</title>
+      <link>https://www.foxnews.com/opinion/europes-chemical-industry-free-fall-americas-could-next</link>
+      <summary>Europe&amp;apos;s chemical industry is unraveling due to overregulation and Chinese imports, serving as a critical warning for U.S. chemical manufacturing policy.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:00:30 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1200/675/louisiana-Chemical-Plant.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -27,7 +38,18 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] 2 detained after shooting in New York leaves 15-year-old killed, two others wounded: police</title>
+      <title>[PENDING_TRANSLATION] Virginia congressman says Spanberger wants to 'turn us into New England'</title>
+      <link>https://www.foxnews.com/media/virginia-congressman-spanberger-wants-turn-us-new-england</link>
+      <summary>Rep. Ben Cline pushed back on a Democrat-backed redistricting plan in Virginia, warning it could weaken rural voting power and reshape the state’s congressional delegation.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:00:57 -0400</pubDate>
+      <priority>85</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/abigail-spanberger-va.png?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>2 detained after shooting in New York leaves 15-year-old killed, two others wounded: police</title>
       <link>https://www.foxnews.com/us/2-detained-after-shooting-new-york-leaves-15-year-old-killed-two-others-wounded-police</link>
       <summary>A gang-related shooting on Long Island in New York killed a 15-year-old boy and wounded two others after an argument at a barbeque, police said Wednesday.</summary>
       <pubDate>Thu, 16 Apr 2026 02:12:46 -0400</pubDate>
@@ -36,6 +58,13 @@
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nassau-police-helicopter-shooting-bbq.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Trump hits key battlegrounds to sell tax cuts, boost GOP ahead of midterms</title>
+      <link>https://www.foxnews.com/politics/trump-hits-key-battlegrounds-sell-tax-cuts-boost-gop-ahead-midterms</link>
+      <summary>President Donald Trump travels to swing states Nevada and Arizona this week to promote tax cuts passed by congressional Republicans ahead of the midterms.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:00:42 -0400</pubDate>
+      <priority>75</priority>
     </item>
     <item>
       <title>Starbucks uses ChatGPT to suggest drinks based on mood as expert warns of hidden downsides</title>
@@ -49,64 +78,35 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] SEN BERNIE SANDERS: Artificial intelligence is coming for the working class. We must fight back</title>
+      <link>https://www.foxnews.com/opinion/sen-bernie-sanders-artificial-intelligence-coming-working-class-must-fight-back-</link>
+      <summary>Legislation sponsored by Sen. Bernie Sanders calls for a federal moratorium on new AI data centers until safeguards protect workers from mass job losses driven by Big Tech oligarchs.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:00:30 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/bernie-sanders-3.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] MORNING GLORY: If you care about the Constitution, read Sarah Isgur's new book</title>
+      <link>https://www.foxnews.com/opinion/morning-glory-care-constitution-read-sarah-isgurs-new-book</link>
+      <summary>Sarah Isgur&amp;apos;s book on the Supreme Court is funny, insightful and a must-read that also makes the case against unconstitutional court packing.</summary>
+      <pubDate>Thu, 16 Apr 2026 05:00:10 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/us-supreme-court-moon-night-dc-fox-news.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>Markwayne Mullin decries CA governor front-runner Tom Steyer, claims he ‘doesn’t understand’ ICE</title>
       <link>https://www.foxnews.com/media/markwayne-mullin-decries-ca-governor-front-runner-tom-steyer-claims-he-doesnt-understand-ice</link>
       <summary>DHS Secretary Mullin accuses California gubernatorial candidate Tom Steyer of not understanding ICE after Steyer called the agency criminal.</summary>
       <pubDate>Wed, 15 Apr 2026 23:00:07 -0400</pubDate>
       <priority>65</priority>
-    </item>
-    <item>
-      <title>LIV Golf CEO sends rallying memo to staff after reports Saudi funding could end after this season</title>
-      <link>https://www.foxnews.com/sports/liv-golf-ceo-sends-rallying-memo-staff-reports-saudi-funding-could-end-season</link>
-      <summary>In response to reports that Saudi Arabia will stop funding LIV Golf after 2026, CEO Scott O&amp;apos;Neil sent a memo rallying staff to embrace the moment and push on.</summary>
-      <pubDate>Wed, 15 Apr 2026 21:38:46 -0400</pubDate>
-      <priority>65</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/scott-oneil-og-molefe-liv-golf-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>NFL begins onboarding replacement officials as referee labor deal nears expiration: report</title>
-      <link>https://www.foxnews.com/sports/nfl-begins-onboarding-replacement-officials-referee-labor-deal-nears-expiration-report</link>
-      <summary>The NFL has reportedly started background checks on replacement officials as the current collective bargaining agreement with the NFLRA nears expiration.</summary>
-      <pubDate>Wed, 15 Apr 2026 20:33:14 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/group-of-nfl-referees.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Kevin Sorbo says he ‘escaped’ California, slams Democratic leadership in fiery remarks</title>
-      <link>https://www.foxnews.com/entertainment/kevin-sorbo-says-escaped-california-slams-democratic-leadership-fiery-remarks</link>
-      <summary>Kevin Sorbo slams Democratic leadership and says he escaped California for Florida, praising Gov. Ron DeSantis as the best governor in the country.</summary>
-      <pubDate>Wed, 15 Apr 2026 20:30:49 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/kevin-sorbo-after-party-new-york-fox-news-001.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Navy reservist accused of murdering wife and hiding her body in freezer arrested after international manhunt</title>
-      <link>https://www.foxnews.com/us/navy-reservist-accused-murdering-wife-hiding-her-body-freezer-arrested-after-international-manhunt</link>
-      <summary>The FBI announced the overseas arrest of Navy reservist David Varela, who is accused of murdering his wife, whose body was found in a freezer in Norfolk, Virginia.</summary>
-      <pubDate>Wed, 15 Apr 2026 20:27:57 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/navy-reservist-wife-hong-kong.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Elizabeth Banks admits she cannot understand White women who voted for Trump over Harris</title>
-      <link>https://www.foxnews.com/media/elizabeth-banks-admits-cannot-understand-white-women-voted-trump-harris</link>
-      <summary>Elizabeth Banks criticized White women who backed Trump, says she doesn’t understand them and urges women to be “revolutionaries&amp;quot; like her “Hunger Games&amp;quot; character.</summary>
-      <pubDate>Wed, 15 Apr 2026 20:00:38 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/elizabeth-banks-harris-trump-media-fox-news.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/fc5c12fa-mullin-steyer.png?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
