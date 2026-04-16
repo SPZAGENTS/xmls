@@ -2,13 +2,20 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-16T19:26:29.401200</generated>
+  <generated>2026-04-16T21:02:50.634991</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] House narrowly rejects resolution directing Trump to end ‘hostilities’ in Iran</title>
+      <title>House narrowly rejects resolution directing Trump to end ‘hostilities’ in Iran</title>
       <link>https://www.washingtonpost.com/politics/2026/04/16/house-iran-war-powers-vote/</link>
       <summary>The Senate turned back a similar measure Wednesday seeking to rein in the president as the unpopular war approaches the two-month mark.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:08:34 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 17:49:18 +0000</pubDate>
+      <priority>100</priority>
+    </item>
+    <item>
+      <title>How every House member voted to block Trump from striking Iran</title>
+      <link>https://www.washingtonpost.com/politics/interactive/2026/04/16/house-vote-war-powers-trump-iran/</link>
+      <summary>The House is voting on a measure to block President Trump from ordering more strikes on Iran. See how your lawmaker voted.</summary>
+      <pubDate>Thu, 16 Apr 2026 17:25:43 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
       <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
       <pubDate>Thu, 16 Apr 2026 14:34:27 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Largely secret donors pour millions into election that could tip Congress</title>
-      <link>https://www.washingtonpost.com/politics/2026/04/16/virginia-redistricting-election-finance/</link>
-      <summary>The vast majority of the nearly $100 million raised to sway Virginia’s redistricting battle, mostly on the Democratic side, consists of untraceable dark money.</summary>
-      <pubDate>Thu, 16 Apr 2026 09:00:41 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
