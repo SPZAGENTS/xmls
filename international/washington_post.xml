@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-16T17:06:38.926200</generated>
+  <generated>2026-04-16T18:06:31.750763</generated>
   <items>
     <item>
       <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
@@ -12,7 +12,7 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Airstrike by Nigeria, U.S. ally against Islamist militants, kills scores</title>
+      <title>Airstrike by Nigeria, a U.S. ally against Islamist militants, kills scores</title>
       <link>https://www.washingtonpost.com/world/2026/04/16/nigeria-market-attack-boko-haram-iswap/</link>
       <summary>Villagers, health workers and human rights monitors see a pattern of reckless attacks in the U.S.-backed fight against Boko Haram and its Islamic State-affiliated offshoot.</summary>
       <pubDate>Thu, 16 Apr 2026 09:43:56 +0000</pubDate>
@@ -22,7 +22,14 @@
       <title>Trump says Israeli, Lebanese leaders will speak amid push to extend ceasefire</title>
       <link>https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/</link>
       <summary>The president did not specify which leaders. Meanwhile, Pakistani officials were working to extend the U.S.-Iran ceasefire and arrange new negotiations.</summary>
-      <pubDate>Thu, 16 Apr 2026 09:34:08 +0000</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:21:35 +0000</pubDate>
+      <priority>90</priority>
+    </item>
+    <item>
+      <title>Pope Leo decries world ravaged by ‘tyrants’ following Trump’s insults</title>
+      <link>https://www.washingtonpost.com/world/2026/04/16/pope-leo-trump-cameroon/</link>
+      <summary>The pontiff did not specifically name the president during his speech in Cameroon. He sharply criticized those who manipulate religion “for their own military, economic or political gain.”</summary>
+      <pubDate>Thu, 16 Apr 2026 14:17:47 +0000</pubDate>
       <priority>90</priority>
     </item>
     <item>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/</link>
       <summary>Secretary of State Marco Rubio called it an opportunity to use the U.N. system to “promote America First values,” according to a cable reviewed by The Post.</summary>
       <pubDate>Wed, 15 Apr 2026 23:39:26 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>House defies Trump on immigration with move to shield Haitians</title>
-      <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
-      <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
-      <pubDate>Wed, 15 Apr 2026 23:00:10 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-16T17:06:44.261838</generated>
+  <generated>2026-04-16T18:06:36.843981</generated>
   <items>
     <item>
       <title>Australia boosts military spending as Iran war makes global impact</title>
@@ -41,7 +41,7 @@
       <title>What to know about Pakistan’s army chief and his role as mediator between Iran and the US</title>
       <link>https://abcnews.com/International/wireStory/pakistans-army-chief-role-mediator-iran-us-132093275</link>
       <summary>Field Marshal Asim Munir, Pakistan's army chief, is playing a crucial role in mediating between Iran and the U.S. A recent video shows him in Tehran, highlighting his involvement in easing tensions</summary>
-      <pubDate>Thu, 16 Apr 2026 07:53:25 -0400</pubDate>
+      <pubDate>Thu, 16 Apr 2026 10:11:21 -0400</pubDate>
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_497734c37c4304d3af958a0c63879d3c_4x3_384.jpg</image>
@@ -71,17 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Australian judge rejects US Marine pilot's appeal against extradition to U.S.</title>
-      <link>https://abcnews.com/International/wireStory/australian-judge-rejects-us-marine-pilots-appeal-extradition-132087159</link>
-      <summary>An Australian judge has rejected an appeal by former U.S. Marine Corps pilot Daniel Duggan to avoid extradition to the United States over allegations that he illegally trained Chinese military aviators more than a decade ago</summary>
-      <pubDate>Thu, 16 Apr 2026 00:50:22 -0400</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/wirestory_7c90c244a5c7a0c22968ff642f227a22_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>South African politician Julius Malema jailed for 5 years for firing rifle shots at rally</title>
       <link>https://abcnews.com/International/wireStory/south-african-politician-julius-malema-jailed-5-years-132091312</link>
       <summary>A South African opposition party leader, Julius Malema, has been sentenced to five years in prison for breaking firearm laws</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a799498738b6808194160f086f3318c6_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Archbishop of Canterbury expresses solidarity with Pope Leo XIV in calling for peace</title>
+      <link>https://abcnews.com/International/wireStory/archbishop-canterbury-expresses-solidarity-pope-leo-xiv-calling-132100022</link>
+      <summary>The Archbishop of Canterbury on Thursday expressed solidarity with Pope Leo XIV in calling for peace in the Middle East</summary>
+      <pubDate>Thu, 16 Apr 2026 10:21:13 -0400</pubDate>
+      <priority>70</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_4611a3c2a0dbf1cc44c8f52f516349c3_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
