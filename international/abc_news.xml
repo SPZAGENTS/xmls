@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-17T10:04:24.577523</generated>
+  <generated>2026-04-17T11:04:32.537152</generated>
   <items>
     <item>
       <title>WATCH: Sec. Hegseth warns Iranian leadership to ‘choose wisely’ as U.S. seeks deal</title>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>Singer D4vd arrested after teen found dead in his Tesla: Police</title>
-      <link>https://abcnews.com/US/singer-d4vd-arrested-after-teen-found-dead-tesla/story?id=127687961</link>
-      <summary>Officers responded to an impound lot in Hollywood on Sept. 8 "for a foul odor coming from a vehicle," Los Angeles police said.</summary>
-      <pubDate>Thu, 16 Apr 2026 23:14:52 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/singer_1776386765593_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Aly Raisman talks NCAA Gymnastics Championship</title>
       <link>https://abcnews.com/video/132112215/</link>
       <summary>Three-time Olympic gold medalist and ESPN analyst Aly Raisman joins ABC News Live from Texas, breaking down the must-watch routines at the gymnastics championship.</summary>
@@ -67,6 +56,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Sports/260416_abcnl_1p_raisman_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>House approves short-term FISA spy powers extension amid GOP infighting</title>
+      <link>https://abcnews.com/Politics/house-republicans-struggle-spy-powers-reauthorization/story?id=132073585</link>
+      <summary>House Republicans are fighting among themselves over a controversial warrantless surveillance law that is set to expire in the coming days.</summary>
+      <pubDate>Fri, 17 Apr 2026 02:47:27 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/mike-johnson-1-gty-gmh-260414_1776192917100_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
