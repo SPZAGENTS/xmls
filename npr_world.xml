@@ -2,14 +2,14 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-17T17:01:31.336880</generated>
+  <generated>2026-04-17T19:04:05.265327</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect</title>
+      <title>The U.S. blockade continues despite Iran's announcement the Strait of Hormuz is open</title>
       <link>https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates</link>
-      <summary>Hezbollah, the Iran-backed Lebanese militant group, acknowledged the ceasefire, but did not say whether it would abide by it and urged people displaced by war in Lebanon to refrain from heading home.</summary>
+      <summary>Iran's foreign minister declared the Strait of Hormuz is open, following the start of an Israel-Lebanon ceasefire. President Trump swiftly responded that the U.S. naval blockade on Iran will continue.</summary>
       <pubDate>Fri, 17 Apr 2026 08:36:18 -0400</pubDate>
-      <priority>100</priority>
+      <priority>90</priority>
     </item>
     <item>
       <title>Logjam of U.S. immigration applications puts millions at greater risk of deportation</title>
@@ -26,7 +26,14 @@
       <priority>75</priority>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Why scientists are nervous about fungi</title>
+      <title>Congress extends controversial surveillance powers for 10 days</title>
+      <link>https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days</link>
+      <summary>Earlier in the morning GOP leaders had pushed for either a five-year renewal or the 18-month renewal President Trump had demanded, but both votes tanked.</summary>
+      <pubDate>Fri, 17 Apr 2026 03:55:31 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Why scientists are nervous about fungi</title>
       <link>https://www.npr.org/2026/04/17/g-s1-117632/fungi-drug-resistant-yeast-infection</link>
       <summary>They can pose a threat to human health — yeast infections are but one example. Scientists say not enough attention is paid to their ability to develop resistance to medications that treat them.</summary>
       <pubDate>Fri, 17 Apr 2026 09:14:18 -0400</pubDate>
@@ -37,13 +44,6 @@
       <link>https://www.npr.org/2026/04/17/g-s1-117603/pope-trump-fela-swalwell-picasso-news-quiz</link>
       <summary>Also: If you know what Eric Swalwell looks like, you'll get at least one question correct.</summary>
       <pubDate>Fri, 17 Apr 2026 05:01:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>The Labor Department wants to teach you to use AI more. Here's what we found</title>
-      <link>https://www.npr.org/2026/04/17/nx-s1-5771629/labor-department-ai-course-ethics</link>
-      <summary>The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes</summary>
-      <pubDate>Fri, 17 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>
@@ -61,10 +61,10 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>House extends surveillance powers for 10 days</title>
-      <link>https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days</link>
-      <summary>Earlier in the morning GOP leaders had pushed for either a five-year renewal or the 18-month renewal President Trump had demanded, but both votes tanked.</summary>
-      <pubDate>Fri, 17 Apr 2026 03:55:31 -0400</pubDate>
+      <title>The Labor Department wants to teach you to use AI more. Here's what we found</title>
+      <link>https://www.npr.org/2026/04/17/nx-s1-5771629/labor-department-ai-course-ethics</link>
+      <summary>The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes</summary>
+      <pubDate>Fri, 17 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>
     <item>

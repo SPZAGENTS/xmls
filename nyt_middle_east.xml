@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T17:01:22.828801</generated>
+  <generated>2026-04-17T19:03:57.095892</generated>
   <items>
+    <item>
+      <title>U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London</title>
+      <link>https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html</link>
+      <summary>The Metropolitan Police said that the building had not been attacked but that they were assessing “discarded items” in Kensington Gardens, a nearby park, which was cordoned off.</summary>
+      <pubDate>Fri, 17 Apr 2026 15:07:01 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17int-uk-police-qgjh/17int-uk-police-qgjh-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>In northern Israel, relief at the cease-fire is overshadowed by unease.</title>
       <link>https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/israel-residents-ceasefire-lebanon-hezbollah</link>
@@ -19,7 +30,7 @@
       <title>Iran Resisted a Powerful Attacker. Taiwan Can Too.</title>
       <link>https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html</link>
       <summary>By holding off America’s more powerful military, Iran showed how Taiwan can deter or defeat China.</summary>
-      <pubDate>Fri, 17 Apr 2026 09:02:33 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 14:39:50 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17jones-lkvp/17jones-lkvp-mediumSquareAt3X.jpg</image>
@@ -56,46 +67,13 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html</link>
-      <summary>The U.S. blockade of shipments through the Strait of Hormuz would last “for as long as it takes,” the defense secretary said.</summary>
-      <pubDate>Thu, 16 Apr 2026 23:34:34 +0000</pubDate>
-      <priority>100</priority>
+      <title>Why Lebanon’s Government Has Struggled to Contain Hezbollah</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html</link>
+      <summary>Lebanon’s government has been caught between Western demands to disarm the Shiite Muslim militant group and fears of inflaming sectarian tensions.</summary>
+      <pubDate>Fri, 17 Apr 2026 15:45:16 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-military-iran-hfgk/16dc-military-iran-hfgk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>White House Declines to Offer Congress an Estimate of Iran War Cost</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/iran-war-cost-congress.html</link>
-      <summary>Russell T. Vought, the White House budget director, said the fluctuating nature of the U.S.-Israeli war made it difficult to pinpoint expenses.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:37:43 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-vought-cost-of-war-kvlf/16israel-iran-vought-cost-of-war-kvlf-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>A Timeline of the Lebanon-Israel Relationship</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/lebanon-israel-tensions-relations-timeline.html</link>
-      <summary>Israeli and Lebanese officials this week met in Washington for direct talks between two nations, which have technically been at war since 1948.</summary>
-      <pubDate>Thu, 16 Apr 2026 16:39:24 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-israel-lebanon-timeline-vgfp/16israel-iran-israel-lebanon-timeline-vgfp-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>House Again Thwarts Challenge to Trump’s Authority to Continue Iran War</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/house-war-powers-iran.html</link>
-      <summary>The G.O.P. narrowly blocked a Democratic war powers resolution, but a senior Republican suggested that backing for the conflict is not open-ended and could wane as a statutory deadline approaches in weeks.</summary>
-      <pubDate>Thu, 16 Apr 2026 19:34:42 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16DC-WARPOWERS-blpm/16DC-WARPOWERS-blpm-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-live-hezbollah-topart-mzjv/17lebanon-live-hezbollah-topart-mzjv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -107,6 +85,28 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>U.S. Completes Handover of Military Bases in Syria</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
+      <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
+      <pubDate>Thu, 16 Apr 2026 21:41:48 +0000</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html</link>
+      <summary>Stuck in standstill traffic, Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah.</summary>
+      <pubDate>Fri, 17 Apr 2026 12:24:12 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-scene-promo-fmzc/17lebanon-scene-promo-fmzc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
