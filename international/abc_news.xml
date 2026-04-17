@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-18T00:01:23.781390</generated>
+  <generated>2026-04-18T01:01:25.633181</generated>
   <items>
+    <item>
+      <title>LIVE: Trump delivers remarks at Turning Point USA event: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Fri, 17 Apr 2026 17:59:44 -0400</pubDate>
+      <priority>95</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: 1st class comfort coming to coach class</title>
       <link>https://abcnews.com/video/132131489/</link>
@@ -49,28 +60,6 @@
       </media>
     </item>
     <item>
-      <title>LIVE: ABC News Live</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Thu, 16 Apr 2026 08:42:01 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Alec Baldwin to face civil trial over alleged negligence in deadly 'Rust' shooting</title>
-      <link>https://abcnews.com/US/alec-baldwin-face-civil-trial-alleged-negligence-deadly/story?id=132145924</link>
-      <summary>A Los Angeles judge is allowing a civil case against Alec Baldwin to go to trial over whether he negligently fired a gun on the set of the film, "Rust."</summary>
-      <pubDate>Fri, 17 Apr 2026 15:07:58 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/alec-baldwin-ap-gmh-260417_1776451111691_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Aly Raisman talks NCAA Gymnastics Championship</title>
       <link>https://abcnews.com/video/132112215/</link>
       <summary>Three-time Olympic gold medalist and ESPN analyst Aly Raisman joins ABC News Live from Texas, breaking down the must-watch routines at the gymnastics championship.</summary>
@@ -100,6 +89,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/US/video-frame_hpMain_1x1_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Millions under severe weather threat following destructive storms</title>
+      <link>https://abcnews.com/US/millions-severe-weather-threat-destructive-storms/story?id=132144664</link>
+      <summary>As storms develop Friday afternoon, there is a chance for discrete supercells with very large hail, strong tornadoes and destructive, straight-line winds.</summary>
+      <pubDate>Fri, 17 Apr 2026 17:04:15 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/downed-tree-ap-jef-260417_1776450899774_hpMain_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
