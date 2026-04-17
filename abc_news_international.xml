@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-17T12:01:26.829745</generated>
+  <generated>2026-04-17T13:01:28.387468</generated>
   <items>
     <item>
       <title>Australia boosts military spending as Iran war makes global impact</title>
@@ -23,17 +23,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_297a8d2bb94add26e503a4ef3a5d1151_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>China's economy grows at 5% in first quarter, shrugging off initial impact of Iran war</title>
-      <link>https://abcnews.com/International/wireStory/chinas-economy-grows-5-quarter-shrugging-off-initial-132086607</link>
-      <summary>China&amp;rsquo;s economy accelerated in the first quarter of this year, expanding 5% from a year earlier as it largely shrugged off impacts from the Iran war so far</summary>
-      <pubDate>Wed, 15 Apr 2026 23:01:53 -0400</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_e1dbb6d542c6c1b17f99671f4dcc7d81_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -78,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_a799498738b6808194160f086f3318c6_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>UK police charge 3 in arson attack at Persian-language media organization</title>
+      <link>https://abcnews.com/International/wireStory/uk-police-charge-3-arson-attack-persian-language-132128970</link>
+      <summary>British police have charged three people in an arson attack at a Persian-language media organization in northwest London</summary>
+      <pubDate>Fri, 17 Apr 2026 05:05:48 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

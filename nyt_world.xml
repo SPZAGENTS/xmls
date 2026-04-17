@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-17T12:01:19.818704</generated>
+  <generated>2026-04-17T13:01:21.814499</generated>
   <items>
     <item>
       <title>Why China Isn’t Pushing Iran to Accept U.S. Demands to End War</title>
@@ -49,13 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Iran War Forces America’s Friends in Asia to Court Its Rivals</title>
-      <link>https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html</link>
-      <summary>The severe disruption of oil supplies from the Middle East as a result of the war has prompted South Korea and the Philippines to make deals with Russia and Iran.</summary>
-      <pubDate>Fri, 17 Apr 2026 06:59:03 +0000</pubDate>
+      <title>Myanmar Frees Ousted President, but Not Daw Aung San Suu Kyi</title>
+      <link>https://www.nytimes.com/2026/04/17/world/asia/myanmar-president-amnesty.html</link>
+      <summary>U Win Myint is a close ally of Ms. Aung San Suu Kyi, the country’s civilian leader. Both were forced from power by the military in a 2021 coup and imprisoned.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:04:48 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/00int-asia-iran-war-01-fbqt/00int-asia-iran-war-01-fbqt-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17int-myanmar-amnesty-01-kqtb/17int-myanmar-amnesty-01-kqtb-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran Resisted a Powerful Attacker. Taiwan Can Too.</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html</link>
+      <summary>By holding off America’s more powerful military, Iran showed how Taiwan can deter or defeat China.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:02:32 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17jones-lkvp/17jones-lkvp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,21 +82,10 @@
       </media>
     </item>
     <item>
-      <title>10-Day Cease-Fire Between Israel and Lebanon Goes Into Effect</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html</link>
-      <summary>The pause in the fighting between Israeli forces and Iranian-allied Hezbollah militants may help smooth the way to a peace deal between the U.S. and Iran.</summary>
-      <pubDate>Thu, 16 Apr 2026 22:40:18 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lebanon-Israel Cease-Fire Goes Into Effect</title>
       <link>https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news</link>
       <summary>It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.</summary>
-      <pubDate>Fri, 17 Apr 2026 08:17:48 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 09:46:25 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/05/16/multimedia/16israel-iran-promo-0130-wlcb/16israel-iran-promo-0130-wlcb-mediumSquareAt3X.jpg</image>

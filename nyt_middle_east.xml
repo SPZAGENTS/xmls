@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T12:01:20.510421</generated>
+  <generated>2026-04-17T13:01:22.449971</generated>
   <items>
+    <item>
+      <title>Iran Resisted a Powerful Attacker. Taiwan Can Too.</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html</link>
+      <summary>By holding off America’s more powerful military, Iran showed how Taiwan can deter or defeat China.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:02:32 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17jones-lkvp/17jones-lkvp-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Despite Cease-Fire, Iran’s Hackers Haven’t Logged Off</title>
       <link>https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html</link>
@@ -89,24 +100,13 @@
       </media>
     </item>
     <item>
-      <title>Senate Blocks Bid to Cancel Arms Sales to Israel as Iran War Deepens Democratic Divide</title>
-      <link>https://www.nytimes.com/2026/04/15/us/politics/senate-israel-arms-vote-iran-war.html</link>
-      <summary>Concerns over the Iran war led several Democratic senators who had rejected past bids to curb weapons transfers to Israel to vote to block the sale of bulldozers and bombs.</summary>
-      <pubDate>Thu, 16 Apr 2026 15:37:53 +0000</pubDate>
-      <priority>100</priority>
+      <title>10-Day Cease-Fire Between Israel and Lebanon Goes Into Effect</title>
+      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html</link>
+      <summary>The pause in the fighting between Israeli forces and Iranian-allied Hezbollah militants may help smooth the way to a peace deal between the U.S. and Iran.</summary>
+      <pubDate>Thu, 16 Apr 2026 22:40:18 +0000</pubDate>
+      <priority>95</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15israel-iran-senate-vote-Israeli-arms1-mzvj/15israel-iran-senate-vote-Israeli-arms1-mzvj-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Trump’s Portrayal of the War in Iran Collides With Reality</title>
-      <link>https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html</link>
-      <summary>President Trump is confronting a crisis that is not bending to his narrative of a “pretty reasonable” new regime in Iran and all-but-assured victory for the United States.</summary>
-      <pubDate>Wed, 15 Apr 2026 22:26:55 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/15/multimedia/15DC-PREXY-mftq/15DC-PREXY-mftq-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

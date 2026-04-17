@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-17T12:01:18.404235</generated>
+  <generated>2026-04-17T13:01:20.486649</generated>
   <items>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
@@ -10,6 +10,13 @@
       <summary>Iran has not confirmed Trump’s claim. Giving up its highly enriched uranium would be a major step toward an agreement.</summary>
       <pubDate>Thu, 16 Apr 2026 21:49:16 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Even for Europe’s populist firebrands, Trump might be going too far</title>
+      <link>https://www.washingtonpost.com/world/2026/04/17/trump-european-populists-breaking-point/</link>
+      <summary>The symbiosis between the president and European nationalists has reached a potential breaking point as he issues genocidal rhetoric and criticizes the pope.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:00:00 +0000</pubDate>
+      <priority>95</priority>
     </item>
     <item>
       <title>Airstrike by Nigeria, a U.S. ally against Islamist militants, kills scores</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/</link>
       <summary>Secretary of State Marco Rubio called it an opportunity to use the U.N. system to “promote America First values,” according to a cable reviewed by The Post.</summary>
       <pubDate>Thu, 16 Apr 2026 16:45:32 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>House defies Trump on immigration with move to shield Haitians</title>
-      <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
-      <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
-      <pubDate>Wed, 15 Apr 2026 23:00:10 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
