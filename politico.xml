@@ -2,7 +2,7 @@
 <content-feed>
   <title>Politico - Top 10 Articles</title>
   <source>Politico</source>
-  <generated>2026-04-17T05:03:37.530182</generated>
+  <generated>2026-04-17T07:03:44.246855</generated>
   <items>
     <item>
       <title>Ossoff builds massive cash edge as Georgia GOP field remains unsettled</title>
@@ -89,17 +89,6 @@
       </media>
     </item>
     <item>
-      <title>Inside the DNC’s Middle East (not) working group</title>
-      <link>https://www.politico.com/news/2026/04/10/dnc-middle-east-resolution-00867186</link>
-      <summary>The Democratic National Committee set up a task force to tackle the Middle East. Seven months later, the working group still has work to do.</summary>
-      <pubDate>Fri, 10 Apr 2026 13:00:00 EST</pubDate>
-      <priority>70</priority>
-      <media>
-        <image>https://static.politico.com/c8/1e/23f76b774826bf47ea113e831a76/us-israel-85101.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Roy Cooper far outraises Michael Whatley in North Carolina Senate race</title>
       <link>https://www.politico.com/live-updates/2026/04/15/congress/cooper-whatley-north-carolina-senate-fundraising-00875140</link>
       <summary>The former governor raised nearly $14 million last quarter.</summary>
@@ -107,6 +96,17 @@
       <priority>60</priority>
       <media>
         <image>https://static.politico.com/e8/55/9578f1694bf9be506d64f1c5128e/election-2024-biden-09350.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] ‘It would be catastrophic’: A Supreme Court decision could upend Alaska’s crucial Senate race</title>
+      <link>https://www.politico.com/news/2026/04/12/it-would-be-catastrophic-a-supreme-court-decision-could-upend-alaskas-crucial-senate-race-00867699</link>
+      <summary>A Supreme Court decision could bar late-arriving mail ballots and potentially disenfranchise thousands of Alaskan voters in a race that could determine Senate control.</summary>
+      <pubDate>Sun, 12 Apr 2026 11:00:00 EST</pubDate>
+      <priority>60</priority>
+      <media>
+        <image>https://static.politico.com/b9/4b/d776cdb845c398117ff43dfa0c08/https-delivery-gettyimages.com/downloads/1243316520</image>
         <type>image/jpeg</type>
       </media>
     </item>
