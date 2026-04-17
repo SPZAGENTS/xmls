@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-17T10:04:11.244742</generated>
+  <generated>2026-04-17T11:04:19.646560</generated>
   <items>
     <item>
       <title>Trump's Lebanon ceasefire takes Israel by surprise</title>
@@ -27,24 +27,13 @@
       </media>
     </item>
     <item>
-      <title>What we know about the ceasefire between Lebanon and Israel</title>
+      <title>What we know about the Israel-Lebanon ceasefire</title>
       <link>https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.</summary>
       <pubDate>Fri, 17 Apr 2026 05:34:48 GMT</pubDate>
       <priority>90</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21b/live/08e16200-3a27-11f1-ae6d-5b9ff237458e.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed</title>
-      <link>https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.</summary>
-      <pubDate>Thu, 16 Apr 2026 08:28:51 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f761/live/d7a90480-396e-11f1-8606-05fe34b06e1b.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -67,6 +56,17 @@
       <priority>80</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd5/live/6ac38040-39e4-11f1-879d-1b2f5c3919b8.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Three charged with arson on Persian media offices</title>
+      <link>https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Three people are charged over an attempted arson attack at the offices of a Persian language media.</summary>
+      <pubDate>Fri, 17 Apr 2026 07:59:22 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -99,7 +99,7 @@
       <pubDate>Fri, 17 Apr 2026 00:40:43 GMT</pubDate>
       <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/2b4e6140-39ef-11f1-a10f-5774d1029b81.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f683/live/db922250-3a2e-11f1-8606-05fe34b06e1b.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
