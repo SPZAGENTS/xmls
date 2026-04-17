@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T20:01:17.461481</generated>
+  <generated>2026-04-17T21:01:36.714260</generated>
   <items>
+    <item>
+      <title>Trump Is Urged to Act on Iranian Site Feared Impervious to Airstrikes</title>
+      <link>https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html</link>
+      <summary>Little is known about Pickaxe Mountain, but some experts say it illustrates the impossibility of relying on force alone to prevent Iran from acquiring a nuclear bomb.</summary>
+      <pubDate>Fri, 17 Apr 2026 17:51:52 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17dc-pickaxe-mcbj/17dc-pickaxe-mcbj-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>U.K. Police Investigate Claims Drones Targeted Israeli Embassy in London</title>
       <link>https://www.nytimes.com/2026/04/17/world/europe/london-israeli-embassy-drone-threat.html</link>
@@ -30,10 +41,10 @@
       <title>Iran Resisted a Powerful Attacker. Taiwan Can Too.</title>
       <link>https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html</link>
       <summary>By holding off America’s more powerful military, Iran showed how Taiwan can deter or defeat China.</summary>
-      <pubDate>Fri, 17 Apr 2026 16:29:42 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 17:16:06 +0000</pubDate>
       <priority>100</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17jones-lkvp/17jones-lkvp-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/19/multimedia/19ones-lkvp/17jones-lkvp-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -58,13 +69,6 @@
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17bahrain-1-tpzm/17bahrain-1-tpzm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
-    </item>
-    <item>
-      <title>How Trump’s Blockade of the Strait of Hormuz Works</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html</link>
-      <summary>Our business reporter Peter Eavis breaks down how American military ships have blocked Iranian-linked vessels from using the Strait of Hormuz as the U.S. encourages other vessels to make the passage.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:49:49 +0000</pubDate>
-      <priority>100</priority>
     </item>
     <item>
       <title>Why Lebanon’s Government Has Struggled to Contain Hezbollah</title>
@@ -100,13 +104,13 @@
       </media>
     </item>
     <item>
-      <title>‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire</title>
-      <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html</link>
-      <summary>Stuck in standstill traffic, Lebanese people who had been displaced by fighting expressed a mix of excitement and uncertainty about a pause in Israel’s campaign against Hezbollah.</summary>
-      <pubDate>Fri, 17 Apr 2026 12:24:12 +0000</pubDate>
+      <title>[PENDING_TRANSLATION] Europe Still Wants to Reopen the Strait of Hormuz. It Just Isn’t Sure How.</title>
+      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/european-leaders-discuss-an-international-mission-to-restore-shipping-in-strait-of-hormuz</link>
+      <summary>Amid conflicting reports about the situation in the strait, European leaders gathered on Friday to coordinate a plan to guard it.</summary>
+      <pubDate>Fri, 17 Apr 2026 17:54:30 +0000</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-scene-promo-fmzc/17lebanon-scene-promo-fmzc-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-strait-meeting-topart-tkwz/17israel-iran-strait-meeting-topart-tkwz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
