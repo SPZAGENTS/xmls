@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-18T01:01:15.112738</generated>
+  <generated>2026-04-18T02:01:35.892044</generated>
   <items>
     <item>
       <title>Kensington Gardens shut after claims of drones near Israeli embassy</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90dd/live/a9950e00-3a62-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iran says Strait of Hormuz is 'open' but tracking shows few ships moving</title>
+      <link>https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>US President Donald Trump welcomed Tehran's announcement but said the US naval blockade would continue until a peace deal was reached.</summary>
+      <pubDate>Fri, 17 Apr 2026 22:26:00 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ab/live/c7d2fb60-3a9f-11f1-92cb-7d6bf9d113a8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810c/live/db3a3a80-3a7f-11f1-850e-07c4418cf86c.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Key questions facing government over Mandelson checks</title>
-      <link>https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It's emerged that Lord Mandelson did not pass inital security vetting checks ahead of taking up the role of ambassador to the United States.</summary>
-      <pubDate>Fri, 17 Apr 2026 19:24:18 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0299/live/23df8cb0-3a6f-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

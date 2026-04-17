@@ -2,19 +2,8 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-18T01:01:25.633181</generated>
+  <generated>2026-04-18T02:01:46.020661</generated>
   <items>
-    <item>
-      <title>LIVE: Trump delivers remarks at Turning Point USA event: ABC News Live</title>
-      <link>https://abcnews.com/video/41463246/</link>
-      <summary>24/7 coverage of breaking news and live events</summary>
-      <pubDate>Fri, 17 Apr 2026 17:59:44 -0400</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>WATCH: 1st class comfort coming to coach class</title>
       <link>https://abcnews.com/video/132131489/</link>
@@ -60,6 +49,17 @@
       </media>
     </item>
     <item>
+      <title>LIVE: ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <summary>24/7 coverage of breaking news and live events</summary>
+      <pubDate>Fri, 17 Apr 2026 18:10:34 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>WATCH: Aly Raisman talks NCAA Gymnastics Championship</title>
       <link>https://abcnews.com/video/132112215/</link>
       <summary>Three-time Olympic gold medalist and ESPN analyst Aly Raisman joins ABC News Live from Texas, breaking down the must-watch routines at the gymnastics championship.</summary>
@@ -96,7 +96,7 @@
       <title>Millions under severe weather threat following destructive storms</title>
       <link>https://abcnews.com/US/millions-severe-weather-threat-destructive-storms/story?id=132144664</link>
       <summary>As storms develop Friday afternoon, there is a chance for discrete supercells with very large hail, strong tornadoes and destructive, straight-line winds.</summary>
-      <pubDate>Fri, 17 Apr 2026 17:04:15 -0400</pubDate>
+      <pubDate>Fri, 17 Apr 2026 18:57:52 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/downed-tree-ap-jef-260417_1776450899774_hpMain_4x3t_384.jpg</image>
