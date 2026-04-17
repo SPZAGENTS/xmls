@@ -2,8 +2,15 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-17T16:01:34.176740</generated>
+  <generated>2026-04-17T17:01:20.205098</generated>
   <items>
+    <item>
+      <title>Iran says Strait of Hormuz to reopen amid push to end war</title>
+      <link>https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/</link>
+      <summary>Iran expanded its control of the Strait of Hormuz over the course of the war with the United States.</summary>
+      <pubDate>Fri, 17 Apr 2026 13:37:41 +0000</pubDate>
+      <priority>100</priority>
+    </item>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
       <link>https://www.washingtonpost.com/politics/2026/04/16/trump-iran-nuclear/</link>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/world/2026/04/16/south-african-julius-malem-trump-prison-gun/</link>
       <summary>Julius Malema, whose incendiary rhetoric about Afrikaners drew notice on the U.S. right, was handed a five-year prison term for firing a gun at a 2018 rally.</summary>
       <pubDate>Thu, 16 Apr 2026 22:02:54 +0000</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>House votes to restore protections for Haitians, defying Trump</title>
-      <link>https://www.washingtonpost.com/business/2026/04/16/haiti-tps-house/</link>
-      <summary>Ten House Republicans joined Democrats to oppose President Donald Trump on his immigration policy Thursday, voting to restore temporary protections for Haitians living in the United States.</summary>
-      <pubDate>Thu, 16 Apr 2026 19:26:16 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>

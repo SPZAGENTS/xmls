@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-17T16:01:29.726081</generated>
+  <generated>2026-04-17T17:01:15.271245</generated>
   <items>
+    <item>
+      <title>Kensington Gardens shut after claims of drones near Israeli embassy</title>
+      <link>https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It comes after a group claimed to have targeted the Israeli Embassy in an online video post.</summary>
+      <pubDate>Fri, 17 Apr 2026 13:47:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aff/live/5a00fde0-3a5d-11f1-b0fd-19d0757b0008.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>UK petrol and diesel prices fall after weeks of rises</title>
       <link>https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -49,24 +60,13 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66</title>
+      <title>Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66</title>
       <link>https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>The broadcaster was known for his eclectic taste and for helping champion world music on BBC Radio 1.</summary>
       <pubDate>Fri, 17 Apr 2026 12:08:18 GMT</pubDate>
       <priority>80</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a688/live/ca315f60-3a3f-11f1-826b-272fcb9e69bd.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Kensington Gardens shut as police 'assess discarded items'</title>
-      <link>https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>It comes after a video is shared in which a group claims to have targeted the nearby Embassy of Israel.</summary>
-      <pubDate>Fri, 17 Apr 2026 12:46:03 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4451/live/52b6a2b0-3a58-11f1-a214-6193255d1a38.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3302/live/215f4fa0-3a5d-11f1-879d-1b2f5c3919b8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Chris Mason: Mandelson nightmare haunts Starmer again</title>
-      <link>https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The prime minister is believed to be absolutely furious over the handling of Lord Mandelson's vetting, Chris Mason writes.</summary>
-      <pubDate>Fri, 17 Apr 2026 00:40:43 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f683/live/db922250-3a2e-11f1-8606-05fe34b06e1b.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high</title>
       <link>https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Seizure numbers hit a 17-year high as an estimated 300,000 uninsured vehicles are driven each day.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/b179f610-38a7-11f1-bd3c-df67f5a99d2a.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Harry and Meghan meet Bondi shooting survivors</title>
+      <link>https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>On the fourth day of their Australian visit, the royal couple pay tribute to the 15 people killed in the Bondi shooting.</summary>
+      <pubDate>Fri, 17 Apr 2026 10:37:05 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ba/live/e3d08900-3a08-11f1-a062-898e9ee7c831.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
