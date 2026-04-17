@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 Middle East - Top 10 Articles</title>
   <source>France24 Middle East</source>
-  <generated>2026-04-17T20:01:20.326004</generated>
+  <generated>2026-04-17T21:01:39.434965</generated>
   <items>
     <item>
       <title>1.2 million people uprooted by war</title>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/7dffb832-3a60-11f1-a57b-005056bfb2b6/w:1024/p:16x9/israel-lebanon.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>‘We’ve lost a lot’: Lebanese residents return to bombed-out homes in south Beirut</title>
+      <link>https://www.france24.com/en/middle-east/20260417-we-ve-lost-a-lot-lebanese-residents-return-to-bombed-out-homes-in-south-beirut</link>
+      <summary>Residents on Friday began to return to their homes in Beirut's southern suburbs after a 10-day truce between Israel and Lebanon came into effect. For many, Israel's relentless bombing campaign has left little to go back to.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:11:18 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/4d3e6fe8-3a67-11f1-8a98-005056a97e36/w:1024/p:16x9/ccd2973b7b991815cc191428bd3c19a2454c2cad.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/9159cbfc-38f8-11f1-9fb0-005056a90284/w:1024/p:16x9/2026-04-15T104021Z-377773390-RC2LPKAXTRJX-RTRMADP-3-IRAN-CRISIS-ISRAEL-LEBANON.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Israeli military admits to posting AI photo of Lebanese journalist it killed</title>
-      <link>https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist</link>
-      <summary>The Foreign Press Association has accused the Israeli military of discrediting a Lebanese journalist it killed in March, by using an AI-generated photo to present him as a "Hezbollah terrorist". The Israel Defence Forces claimed responsibility for killing Ali Shoeib in a targe...</summary>
-      <pubDate>Thu, 16 Apr 2026 19:46:13 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/3d76ce3e-39c7-11f1-bcec-005056bf30b7/w:1024/p:16x9/capture-178752253669e132fb53c7d9-53162423.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
