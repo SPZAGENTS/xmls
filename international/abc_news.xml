@@ -2,8 +2,19 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-17T16:01:41.839996</generated>
+  <generated>2026-04-17T17:01:28.139802</generated>
   <items>
+    <item>
+      <title>Iran live updates: Iran fully opens the Strait of Hormuz, Trump says</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647</link>
+      <summary>President Donald Trump announced "major combat operations" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:56:07 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/hormuz-3-rt-gmh-260417_1776431745340_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>WATCH: 1st class comfort coming to coach class</title>
       <link>https://abcnews.com/video/132131489/</link>
@@ -49,17 +60,6 @@
       </media>
     </item>
     <item>
-      <title>House approves short-term FISA spy powers extension amid GOP infighting</title>
-      <link>https://abcnews.com/Politics/house-republicans-struggle-spy-powers-reauthorization/story?id=132073585</link>
-      <summary>House Republicans are fighting among themselves over a controversial warrantless surveillance law that is set to expire in the coming days.</summary>
-      <pubDate>Fri, 17 Apr 2026 05:15:33 -0400</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/mike-johnson-1-gty-gmh-260414_1776192917100_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>WATCH: Pope Leo warns about people who 'manipulate religion'</title>
       <link>https://abcnews.com/video/132105754/</link>
       <summary>ABC News' Melissa Adan and Father Sam Sawyer, editor in chief at America Media, discuss the pontiff's latest remarks in favor of peace.</summary>
@@ -67,6 +67,17 @@
       <priority>75</priority>
       <media>
         <image>https://s.abcnews.com/images/International/260416_abcnl_11a_adan_pope_hpMain_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>WATCH: Pole smashes through bus windshield at Atlanta airport</title>
+      <link>https://abcnews.com/video/132135280/</link>
+      <summary>A pole that warned drivers of a height requirement went smashing through the windshield of a bus after the vehicle crashed into it last week at Hartsfield-Jackson Atlanta International Airport.</summary>
+      <pubDate>Fri, 17 Apr 2026 09:25:40 -0400</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/260416_abc_social_pole_windshield_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/US/video-frame_hpMain_1x1_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>WATCH: Artemis II crew shares advice for aspiring young astronauts</title>
-      <link>https://abcnews.com/video/132117255/</link>
-      <summary>Each of the Artemis II astronauts shared advice for younger people who may someday want to go to space.</summary>
-      <pubDate>Thu, 16 Apr 2026 19:14:03 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/260416_abc_social_artemis_advice_vert_hpMain_1x1_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
