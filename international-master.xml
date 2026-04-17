@@ -2,29 +2,18 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-17T17:01:31.342627</generated>
+  <generated>2026-04-17T18:02:30.972353</generated>
   <total_articles>345</total_articles>
   <items>
     <item>
       <title>Kensington Gardens shut after claims of drones near Israeli embassy</title>
       <link>https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>It comes after a group claimed to have targeted the Israeli Embassy in an online video post.</summary>
-      <pubDate>Fri, 17 Apr 2026 13:47:33 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 14:59:00 GMT</pubDate>
       <source>bbc-uk</source>
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aff/live/5a00fde0-3a5d-11f1-b0fd-19d0757b0008.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>UK petrol and diesel prices fall after weeks of rises</title>
-      <link>https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Drivers have seen weeks of increases as the US-Israeli war with Iran pushed up wholesale oil prices.</summary>
-      <pubDate>Fri, 17 Apr 2026 11:42:41 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/05ae22a0-3a57-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
     <item>
@@ -36,17 +25,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/9d32f210-3a37-11f1-9d5c-8ba507d7dbde.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump's Lebanon ceasefire takes Israel by surprise</title>
-      <link>https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.</summary>
-      <pubDate>Thu, 16 Apr 2026 22:55:59 GMT</pubDate>
-      <source>bbc-uk</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58f/live/adaa6c70-39e4-11f1-9143-e9a58ec7f0cd.jpg</image>
       </media>
     </item>
     <item>
@@ -113,6 +91,28 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5828/live/31e5cb40-37f3-11f1-8606-05fe34b06e1b.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Trump's blockade threat raises risks and leaves predicaments unchanged</title>
+      <link>https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.</summary>
+      <pubDate>Sun, 12 Apr 2026 22:57:22 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
+      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Both sides have reason to end the war but share no common ground.</summary>
+      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
+      <source>bbc-middle-east</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
   </items>

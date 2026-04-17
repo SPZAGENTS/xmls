@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-17T17:01:25.362757</generated>
+  <generated>2026-04-17T18:02:25.136913</generated>
   <items>
+    <item>
+      <title>Press association denounces Israel’s use of altered image to depict slain journalist</title>
+      <link>https://www.france24.com/en/middle-east/20260417-press-association-israeli-army-use-ai-doctored-image-slain-journalist</link>
+      <summary>Lebanese journalist Ali Shoeib was killed during an Israeli strike on March 28. To justify this attack, the Israeli army published an image online of Shoeib wearing a uniform of militant group Hezbollah. The army later admitted that the image was photoshopped.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:38:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/7dffb832-3a60-11f1-a57b-005056bfb2b6/w:1024/p:16x9/israel-lebanon.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Where is US-Kuwaiti journalist Ahmed Shihab-Eldin?</title>
       <link>https://www.france24.com/en/tv-shows/scoop/20260417-where-is-us-kuwaiti-journalist-ahmed-shihab-eldin</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/0fcb74f2-3a36-11f1-8cf8-005056a97e36/w:1024/p:16x9/EN-20260417-100638-101048-CS.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Europe faces looming jet fuel shortage: 'Six weeks of fuel left', energy boss warns</title>
-      <link>https://www.france24.com/en/europe-faces-looming-jet-fuel-shortage-six-weeks-of-fuel-left-energy-boss-warns</link>
-      <summary>Rising fuel costs have already prompted many airlines worldwide to raise ticket prices, passing the burden on to passengers. But as the crisis drags on and the Strait of Hormuz remains blocked, both Europe and Asia are now facing a severe fuel shortage that could lead to wides...</summary>
-      <pubDate>Fri, 17 Apr 2026 07:52:37 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/2cd3e886-3a31-11f1-b5a5-005056bfb2b6/w:1024/p:16x9/EN-20260417-090747-090930-CS.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

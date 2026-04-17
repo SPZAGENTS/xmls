@@ -2,8 +2,19 @@
 <content-feed>
   <title>France24 Middle East - Top 10 Articles</title>
   <source>France24 Middle East</source>
-  <generated>2026-04-17T17:01:25.996786</generated>
+  <generated>2026-04-17T18:02:26.257939</generated>
   <items>
+    <item>
+      <title>Press association denounces Israel’s use of altered image to depict slain journalist</title>
+      <link>https://www.france24.com/en/middle-east/20260417-press-association-israeli-army-use-ai-doctored-image-slain-journalist</link>
+      <summary>Lebanese journalist Ali Shoeib was killed during an Israeli strike on March 28. To justify this attack, the Israeli army published an image online of Shoeib wearing a uniform of militant group Hezbollah. The army later admitted that the image was photoshopped.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:38:19 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.france24.com/media/display/7dffb832-3a60-11f1-a57b-005056bfb2b6/w:1024/p:16x9/israel-lebanon.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Where is US-Kuwaiti journalist Ahmed Shihab-Eldin?</title>
       <link>https://www.france24.com/en/tv-shows/scoop/20260417-where-is-us-kuwaiti-journalist-ahmed-shihab-eldin</link>
@@ -100,17 +111,6 @@
       <priority>100</priority>
       <media>
         <image>https://s.france24.com/media/display/24914e54-399e-11f1-a3ab-005056bfb2b6/w:1024/p:16x9/capture-6396046169e0ee082f97c1-15565373.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Jailed Iranian Nobel laureate Narges Mohammadi in critical condition, supporters say</title>
-      <link>https://www.france24.com/en/middle-east/20260415-jailed-iranian-nobel-laureate-narges-mohammadi-critical-condition-supporters-say</link>
-      <summary>The health of jailed Iranian Nobel Peace Prize laureate Narges Mohammadi is critical after she suffered a heart attack last month, supporters said on Wednesday. Her family and lawyers, allowed a second prison visit, reported a sharp deterioration in her condition, with her phy...</summary>
-      <pubDate>Wed, 15 Apr 2026 21:55:39 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/58065fc6-051f-11f1-8ae8-005056a90284/w:1024/p:16x9/Capture-217.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
