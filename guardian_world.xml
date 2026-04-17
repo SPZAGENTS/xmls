@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World - Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-17T20:01:18.422405</generated>
+  <generated>2026-04-18T00:01:15.561739</generated>
   <items>
     <item>
       <title>More than £1bn pledged for Sudan as humanitarian crisis deepens</title>
@@ -12,6 +12,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/7092b4b076ecde7a62439a3048e194c0b1eee2a8/690_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73d002208a11ad9e1cc41abdfb590440</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Air Canada temporarily suspending some flights to New York City and other locations</title>
+      <link>https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices</link>
+      <summary>Aviation fuel costs remain significantly elevated amid the US and Israel’s ongoing war with IranSign up for the Breaking News US email to get newsletter alerts in your inboxAir Canada has announced a temporary suspension of flights from Toronto and Montreal to New York’s John ...</summary>
+      <pubDate>Fri, 17 Apr 2026 20:19:43 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/f98d7587f17028f5fb2737a8709d6558ddc22029/882_0_4418_3534/master/4418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cdeb2ba1e666c1faa18bd0973e2ac7f</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/e35ee5f759e5ee098350e526a8d43eb8faad0d96/215_0_6083_4866/master/6083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9038d7cefac96ac2e4ff02838e59003</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Ben Roberts-Smith’s comrades say he ordered them to execute unarmed civilians, court documents show</title>
-      <link>https://www.theguardian.com/australia-news/2026/apr/17/ben-roberts-smiths-comrades-say-he-ordered-them-to-execute-unarmed-civilians-court-documents-show-ntwnfb</link>
-      <summary>Former SAS corporal allegedly placed man on his knees and ordered fellow soldier to shoot him, according to statement of factsAustralian soldiers have told prosecutors they executed unarmed civilians at the orders of Ben Roberts-Smith or in complicity with him, according to a ...</summary>
-      <pubDate>Fri, 17 Apr 2026 09:34:41 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/fdff016901f058c51e5517abb2ae6289538d19e2/674_0_4598_3679/master/4598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a1c67bfd64f0a077d650f06ff1d027c</image>
         <type>image/jpeg</type>
       </media>
     </item>

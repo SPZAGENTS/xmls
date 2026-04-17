@@ -2,7 +2,7 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-17T23:01:19.287179</generated>
+  <generated>2026-04-18T00:01:14.096952</generated>
   <items>
     <item>
       <title>Live Updates: Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce</title>
@@ -16,10 +16,10 @@
       </media>
     </item>
     <item>
-      <title>Iran War Live Updates: ‘Open’ Strait Renews Hopes for Peace Talks, but Hurdles Remain</title>
+      <title>Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open</title>
       <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump</link>
       <summary />
-      <pubDate>Fri, 17 Apr 2026 19:58:54 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 20:55:57 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-strait-open-tmlk/17israel-iran-strait-open-tmlk-mediumSquareAt3X.jpg</image>
@@ -34,6 +34,17 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/00int-asia-iran-war-01-fbqt/00int-asia-iran-war-01-fbqt-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] Amid Conflicting Messages From Trump and Iran, Hopes for Peace Deal Emerge</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-hormuz-peace-deal.html</link>
+      <summary>On a day when both Iran and the United States declared the Strait of Hormuz opened, hopes for an agreement rose. But statements from President Trump and Iranian leaders about negotiations were sometimes at odds.</summary>
+      <pubDate>Fri, 17 Apr 2026 20:43:46 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17int-mideast-ledeall-1-mgzl/17int-mideast-ledeall-1-mgzl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -60,24 +71,13 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] An Explosion Rattles a Toronto Neighborhood. Was a Drake Video to Blame?</title>
+      <title>An Explosion Rattles a Toronto Neighborhood. Was a Drake Video to Blame?</title>
       <link>https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html</link>
       <summary>A blast on Thursday night turned out to be for a film shoot, but it unnerved residents who had lived through a propane plant explosion in 2008.</summary>
-      <pubDate>Fri, 17 Apr 2026 19:24:18 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 20:49:26 +0000</pubDate>
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17xp-explosion-drake/17xp-explosion-drake-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Why Lebanon’s Government Has Struggled to Contain Hezbollah</title>
-      <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html</link>
-      <summary>Lebanon’s government has been caught between Western demands to disarm the Shiite Muslim militant group and fears of inflaming sectarian tensions.</summary>
-      <pubDate>Fri, 17 Apr 2026 15:45:16 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-live-hezbollah-topart-mzjv/17lebanon-live-hezbollah-topart-mzjv-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

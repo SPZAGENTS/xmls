@@ -2,13 +2,35 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T21:01:36.714260</generated>
+  <generated>2026-04-18T00:01:14.765816</generated>
   <items>
+    <item>
+      <title>Amid Conflicting Messages From Trump and Iran, Hopes for Peace Deal Emerge</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-hormuz-peace-deal.html</link>
+      <summary>On a day when both Iran and the United States declared the Strait of Hormuz opened, hopes for an agreement rose. But statements from President Trump and Iranian leaders about negotiations were sometimes at odds.</summary>
+      <pubDate>Fri, 17 Apr 2026 20:43:46 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17int-mideast-ledeall-1-mgzl/17int-mideast-ledeall-1-mgzl-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>The U.S. military blockade on ships entering or leaving Iran will continue until Trump ends it.</title>
+      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it</link>
+      <summary />
+      <pubDate>Fri, 17 Apr 2026 18:54:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-centcom-topart-fhzc/17israel-iran-centcom-topart-fhzc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Is Urged to Act on Iranian Site Feared Impervious to Airstrikes</title>
       <link>https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html</link>
       <summary>Little is known about Pickaxe Mountain, but some experts say it illustrates the impossibility of relying on force alone to prevent Iran from acquiring a nuclear bomb.</summary>
-      <pubDate>Fri, 17 Apr 2026 17:51:52 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 18:39:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17dc-pickaxe-mcbj/17dc-pickaxe-mcbj-mediumSquareAt3X.jpg</image>
@@ -49,28 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Despite Cease-Fire, Iran’s Hackers Haven’t Logged Off</title>
-      <link>https://www.nytimes.com/2026/04/16/us/politics/iran-war-hacking-cyberattacks.html</link>
-      <summary>Tehran’s digital warriors have continued to seek ways to gain an advantage in the conflict in a new phase of cyberspace operations.</summary>
-      <pubDate>Thu, 16 Apr 2026 20:20:36 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-iran-cyber-gcwm/16dc-iran-cyber-gcwm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Bahrain Charges Intelligence Officer in the Death of a Detainee</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html</link>
-      <summary>The officer was charged with assault leading to death, in the case of a man who was accused by Bahraini authorities of espionage during a domestic crackdown tied to the war in Iran.</summary>
-      <pubDate>Thu, 16 Apr 2026 18:56:52 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17bahrain-1-tpzm/17bahrain-1-tpzm-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Why Lebanon’s Government Has Struggled to Contain Hezbollah</title>
       <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-hezbollah-ceasefire.html</link>
       <summary>Lebanon’s government has been caught between Western demands to disarm the Shiite Muslim militant group and fears of inflaming sectarian tensions.</summary>
@@ -93,21 +93,21 @@
       </media>
     </item>
     <item>
-      <title>U.S. Completes Handover of Military Bases in Syria</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
-      <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:41:48 +0000</pubDate>
-      <priority>95</priority>
+      <title>[PENDING_TRANSLATION] Iran says the Strait of Hormuz is open, but adds that it is still under Tehran’s supervision.</title>
+      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/iran-says-the-strait-of-hormuz-is-open-but-adds-that-it-is-still-under-tehrans-supervision</link>
+      <summary>Ab</summary>
+      <pubDate>Fri, 17 Apr 2026 20:55:53 +0000</pubDate>
+      <priority>90</priority>
       <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-iran-comments-strait-topart-hzqm/17israel-iran-iran-comments-strait-topart-hzqm-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] Europe Still Wants to Reopen the Strait of Hormuz. It Just Isn’t Sure How.</title>
-      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/european-leaders-discuss-an-international-mission-to-restore-shipping-in-strait-of-hormuz</link>
-      <summary>Amid conflicting reports about the situation in the strait, European leaders gathered on Friday to coordinate a plan to guard it.</summary>
-      <pubDate>Fri, 17 Apr 2026 17:54:30 +0000</pubDate>
+      <title>[PENDING_TRANSLATION] Europe Wants to Help Restore Shipping in the Strait. It Just Isn’t Sure How.</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/european-leaders-discuss-an-international-mission-to-restore-shipping-in-strait-of-hormuz.html</link>
+      <summary>Amid conflicting reports about the situation in the Strait of Hormuz, European leaders gathered on Friday to coordinate a plan to guard it.</summary>
+      <pubDate>Fri, 17 Apr 2026 20:35:09 +0000</pubDate>
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-strait-meeting-topart-tkwz/17israel-iran-strait-meeting-topart-tkwz-mediumSquareAt3X.jpg</image>

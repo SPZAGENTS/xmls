@@ -2,15 +2,8 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-17T20:01:15.542379</generated>
+  <generated>2026-04-18T00:01:12.447471</generated>
   <items>
-    <item>
-      <title>Iran says Strait of Hormuz is now open amid push to end war</title>
-      <link>https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/</link>
-      <summary>President Trump welcomed the announcement, but U.S. officials said the naval blockade on vessels leaving from and going to Iranian ports remains in effect.</summary>
-      <pubDate>Fri, 17 Apr 2026 13:37:41 +0000</pubDate>
-      <priority>100</priority>
-    </item>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
       <link>https://www.washingtonpost.com/politics/2026/04/16/trump-iran-nuclear/</link>
@@ -31,6 +24,13 @@
       <summary>Villagers, health workers and human rights monitors see a pattern of reckless attacks in the U.S.-backed fight against Boko Haram and its Islamic State-affiliated offshoot.</summary>
       <pubDate>Thu, 16 Apr 2026 09:43:56 +0000</pubDate>
       <priority>95</priority>
+    </item>
+    <item>
+      <title>Trump says Iran has agreed to nearly all his demands</title>
+      <link>https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/</link>
+      <summary>Officials in Tehran said the Strait of Hormuz would reopen to commercial shipping, but they dismissed the president’s claims of a wider agreement with the U.S.</summary>
+      <pubDate>Fri, 17 Apr 2026 13:37:41 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Thousands of displaced Lebanese return as shaky ceasefire takes hold</title>
@@ -61,11 +61,11 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>Trump says China has agreed not to send weapons to Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-china-iran/</link>
-      <summary>The president made the claim, which Beijing has yet to confirm, amid anger in China that its vessels could be caught up in a U.S. blockade targeting Iranian ports.</summary>
-      <pubDate>Wed, 15 Apr 2026 19:27:09 +0000</pubDate>
-      <priority>90</priority>
+      <title>[PENDING_TRANSLATION] Irish boxing promoter accused of running guns and drugs is arrested in Dubai</title>
+      <link>https://www.washingtonpost.com/world/2026/04/17/daniel-kinahan-arrested-dubai-ireland-crime/</link>
+      <summary>Daniel Joseph Kinahan, a fugitive suspected of leading a powerful gang in Ireland, was arrested Wednesday in a secret operation by Irish and UAE police.</summary>
+      <pubDate>Fri, 17 Apr 2026 20:20:03 +0000</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>South African politician who drew Trump’s ire sentenced on gun charges</title>
