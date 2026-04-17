@@ -2,7 +2,7 @@
 <content-feed>
   <title>Washington Post Politics - Top 10 Articles</title>
   <source>Washington Post Politics</source>
-  <generated>2026-04-17T23:01:18.582886</generated>
+  <generated>2026-04-18T00:01:13.330536</generated>
   <items>
     <item>
       <title>Congress approves 10-day extension for warrantless surveillance law</title>
@@ -31,6 +31,13 @@
       <summary>The House is voting on a measure to block President Trump from ordering more strikes on Iran. See how your lawmaker voted.</summary>
       <pubDate>Thu, 16 Apr 2026 17:25:43 +0000</pubDate>
       <priority>100</priority>
+    </item>
+    <item>
+      <title>Trump says Iran has agreed to nearly all his demands</title>
+      <link>https://www.washingtonpost.com/world/2026/04/17/hormuz-strait-reopens-iran-us-war/</link>
+      <summary>Officials in Tehran said the Strait of Hormuz would reopen to commercial shipping, but they dismissed the president’s claims of a wider agreement with the U.S.</summary>
+      <pubDate>Fri, 17 Apr 2026 13:37:41 +0000</pubDate>
+      <priority>90</priority>
     </item>
     <item>
       <title>Trump administration deepens quest to stamp out the events of Jan. 6</title>
@@ -65,13 +72,6 @@
       <link>https://www.washingtonpost.com/politics/2026/04/17/supreme-court-chevron-louisiana/</link>
       <summary>The decision puts into question a $745 million judgment against Chevron to help restore coastal wetlands in Louisiana that were damaged as long ago as World War II.</summary>
       <pubDate>Fri, 17 Apr 2026 17:49:15 +0000</pubDate>
-      <priority>75</priority>
-    </item>
-    <item>
-      <title>Tracking who Trump is appointing to fill key administration roles</title>
-      <link>https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/</link>
-      <summary>Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.</summary>
-      <pubDate>Thu, 16 Apr 2026 14:34:27 +0000</pubDate>
       <priority>75</priority>
     </item>
   </items>
