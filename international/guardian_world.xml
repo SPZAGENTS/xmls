@@ -2,7 +2,7 @@
 <content-feed>
   <title>Guardian World - Top 10 Articles</title>
   <source>Guardian World</source>
-  <generated>2026-04-17T02:04:06.311761</generated>
+  <generated>2026-04-17T03:09:50.981642</generated>
   <items>
     <item>
       <title>More than £1bn pledged for Sudan as humanitarian crisis deepens</title>
@@ -45,6 +45,17 @@
       <priority>100</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/1d73a44814ffafa012246582c000248d32a70eef/82_0_1738_1390/master/1738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=445aba0a4528a3e10cc28fd1432f86c6</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Australia news live: bail hearing for accused war criminal Ben Roberts-Smith; refinery fire will not mean tougher fuel restrictions, PM says</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb</link>
+      <summary>Follow updates liveGet our breaking news email, free app or daily news podcastAustralia secures extra fertilizer and 100m extra litres of fuel, PM saysAlbanese has also provided an update on Australia’s talks with its allies in Asia to shore up imports of fuel and other goods ...</summary>
+      <pubDate>Thu, 16 Apr 2026 23:54:33 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://i.guim.co.uk/img/media/a0e0766bda499852fe38d61b644a8be1de07d70e/190_0_1895_1517/master/1895.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=915c586a325378bf0a7183c038e63f7f</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>80</priority>
       <media>
         <image>https://i.guim.co.uk/img/media/e19749482e73c70d0e694477ef52b7475747b810/0_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98c3c5ee2fd46332b4aa6dc1af339e52</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Australia news live: refinery fire will not lead to tougher fuel restrictions, PM says, though petrol production down by 40% at plant</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb</link>
-      <summary>Follow updates liveGet our breaking news email, free app or daily news podcastAustralia secures extra fertilizer and 100m extra litres of fuel, PM saysAlbanese has also provided an update on Australia’s talks with its allies in Asia to shore up imports of fuel and other goods ...</summary>
-      <pubDate>Thu, 16 Apr 2026 22:58:46 GMT</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://i.guim.co.uk/img/media/12886be03161f8da9e729ad755cdc3c9e485b9a4/537_0_7857_6286/master/7857.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d5502d88928af143e6fe6fb9d5cac3b9</image>
         <type>image/jpeg</type>
       </media>
     </item>

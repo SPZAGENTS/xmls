@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-17T02:04:11.491908</generated>
+  <generated>2026-04-17T03:09:56.810928</generated>
   <items>
     <item>
       <title>Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka</title>
@@ -33,11 +33,25 @@
       <priority>80</priority>
     </item>
     <item>
+      <title>House passes bill extending protections for Haitian migrants in the U.S.</title>
+      <link>https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s</link>
+      <summary>Ten Republicans voted alongside Democrats, in a rebuke to the Trump administration's immigration policies. Should it pass the Senate, the White House said President Trump would veto the measure.</summary>
+      <pubDate>Thu, 16 Apr 2026 19:37:15 -0400</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
       <title>The transformation of Terrace Martin</title>
       <link>https://www.npr.org/2026/04/16/g-s1-117685/terrace-martin-love-is-louder-than-the-algorithm-interview</link>
       <summary>After years spent as the go-to guy for a cross-pollinating L.A. music scene, the multi-hyphenate follows his spiritual mission inward for the sprawling series Love Is Louder Than The Algorithms.</summary>
       <pubDate>Thu, 16 Apr 2026 15:00:00 -0400</pubDate>
       <priority>75</priority>
+    </item>
+    <item>
+      <title>Top five takeaways from Homeland Security budget hearings</title>
+      <link>https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings</link>
+      <summary>Lawmakers have been in a stalemate for over 60 days about funding the entire department, which includes agencies that oversee immigration enforcement, disaster relief, cybersecurity and the U.S. Coast Guard.</summary>
+      <pubDate>Thu, 16 Apr 2026 18:07:55 -0400</pubDate>
+      <priority>65</priority>
     </item>
     <item>
       <title>These musicians are providing the soundtrack for anti-ICE protests in LA</title>
@@ -58,20 +72,6 @@
       <link>https://www.npr.org/2026/04/16/nx-s1-5787958/minnesota-charged-ice-officer-assault-immigration-surge</link>
       <summary>Hennepin County officials say these are the first charges filed against a federal immigration agent related to the crackdown that brought thousands of federal officers to the state. The widespread operation led to the shooting deaths of two American citizens.</summary>
       <pubDate>Thu, 16 Apr 2026 16:26:20 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing</title>
-      <link>https://www.npr.org/2026/04/16/nx-s1-5787749/rfk-jr-hearing-hhs-health-budget-cuts</link>
-      <summary>In his first appearance this year, the health secretary is taking questions on his record on health, including his controversial moves on vaccines.</summary>
-      <pubDate>Thu, 16 Apr 2026 11:46:40 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
-      <title>Commission of Fine Arts votes to move ahead with Trump's proposed victory arch</title>
-      <link>https://www.npr.org/2026/04/16/nx-s1-5787535/trump-victory-arch-dc</link>
-      <summary>The seven-member body, whose ranks are composed of Trump appointees, was expected to approve the arch. The proposed monument strongly resembles Paris' Arc de Triomphe, but almost 100 feet taller.</summary>
-      <pubDate>Thu, 16 Apr 2026 11:32:52 -0400</pubDate>
       <priority>65</priority>
     </item>
   </items>
