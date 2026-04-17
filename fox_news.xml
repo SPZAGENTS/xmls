@@ -2,10 +2,21 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-17T21:01:32.744647</generated>
+  <generated>2026-04-17T22:01:16.906065</generated>
   <items>
     <item>
-      <title>[PENDING_TRANSLATION] Harris blames Trump for rising gas prices — after once saying they're the 'price to pay for democracy'</title>
+      <title>[PENDING_TRANSLATION] Democratic lawmaker rages against Trump over war, yells 'f--- his a--!'</title>
+      <link>https://www.foxnews.com/media/democratic-lawmaker-rages-against-trump-over-war-yells-f-his-a</link>
+      <summary>Rep. Sydney Kamlager-Dove unleashes profane attack on Trump over Iran war costs, saying &amp;quot;f--- his a--&amp;quot; while criticizing daily war spending.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:23:10 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/rep-sydney-kamlager-dove-jack-smith-hearing-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Harris blames Trump for rising gas prices — after once saying they're the 'price to pay for democracy'</title>
       <link>https://www.foxnews.com/politics/harris-blames-trump-rising-gas-prices-after-once-saying-theyre-price-pay-democracy</link>
       <summary>Kamala Harris blasts Trump over surging gas prices tied to the Iran war, but her 2022 remarks on fuel costs and democracy highlight a stark contrast.</summary>
       <pubDate>Fri, 17 Apr 2026 12:58:34 -0400</pubDate>
@@ -16,42 +27,53 @@
       </media>
     </item>
     <item>
-      <title>Battleground Dem says terrorists act from 'pain and frustration,' accuses Americans of being 'high and mighty'</title>
-      <link>https://www.foxnews.com/politics/battleground-dem-says-terrorists-act-from-pain-frustration-accuses-americans-being-high-mighty</link>
-      <summary>Democratic Senate candidate Abdul El-Sayed says the U.S. should try to understand why terrorists commit &amp;quot;heinous acts,&amp;quot; citing pain and frustration.</summary>
-      <pubDate>Fri, 17 Apr 2026 11:57:10 -0400</pubDate>
+      <title>[PENDING_TRANSLATION] State of emergency declared as US warns travelers to reconsider visiting popular getaway</title>
+      <link>https://www.foxnews.com/travel/state-emergency-declared-us-warns-travelers-reconsider-visiting-popular-getaway</link>
+      <summary>The U.S. Embassy is warning Americans to reconsider travel to Trinidad and Tobago due to crime concerns and a heightened terrorism risk on the islands.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:05:32 -0400</pubDate>
       <priority>95</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/abdul-el-sayed.png?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/TRINIDAD-TOBAGO-TRAVEL-ADVISORY-CRIME-TERRORISM-WHAT-TO-KNOW-3.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>Minnesota prosecutor charges ICE agent in gun incident as Savanah Hernandez case remains uncharged</title>
-      <link>https://www.foxnews.com/us/minnesota-prosecutor-charges-ice-agent-gun-incident-savanah-hernandez-case-remains-uncharged</link>
-      <summary>ICE agent faces felony charges in Minnesota for allegedly pointing a gun at two people, while no charges filed in attack on Savanah Hernandez.</summary>
-      <pubDate>Fri, 17 Apr 2026 11:47:15 -0400</pubDate>
+      <title>[PENDING_TRANSLATION] WATCH: Illegal street racing 'takeover' explodes as hundreds swarm streets and suspects bolt</title>
+      <link>https://www.foxnews.com/us/watch-illegal-street-racing-takeover-explodes-hundreds-swarm-streets-suspects-bolt</link>
+      <summary>Police say 18 people were arrested and firearms recovered after an illegal street racing takeover drew 200 to an Atlanta intersection Sunday.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:46:56 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mary-moriarty-minneapolis-ice-agent-charges-press-conference.jpeg?ve=1&amp;tl=1</image>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/ga-street-racing-gif.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
-      <title>LIV Golf CEO confirms Saudi funding will end but says he has a plan that 'might surprise some people'</title>
-      <link>https://www.foxnews.com/sports/liv-golf-ceo-confirms-saudi-funding-end-says-plan-might-surprise-people</link>
-      <summary>LIV Golf CEO Scott O&amp;apos;Neil confirmed Saudi funding will end after this season but says he has a business plan that might surprise some people going forward.</summary>
-      <pubDate>Fri, 17 Apr 2026 11:03:56 -0400</pubDate>
+      <title>[PENDING_TRANSLATION] Judge warned of 'very concerning' Justin Fairfax behavior weeks before Dem gunned down wife</title>
+      <link>https://www.foxnews.com/politics/judge-warned-very-concerning-justin-fairfax-behavior-weeks-before-dem-gunned-down-wife</link>
+      <summary>A judge flagged Justin Fairfax&amp;apos;s mental health in a custody case weeks before the former Virginia lieutenant governor&amp;apos;s murder-suicide near Washington, D.C.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:03:30 -0400</pubDate>
       <priority>90</priority>
       <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/liv-golf-2027-return-johannesburg-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/lt-gov-justin-fairfax-cerina-inauguration-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] UPS plane aborts landing in near miss at same airport where November crash killed 15</title>
+      <link>https://www.foxnews.com/us/ups-plane-aborts-landing-near-miss-airport-november-crash-killed-15</link>
+      <summary>A UPS cargo jet aborted its landing at Louisville Muhammad Ali International Airport to avoid a smaller aircraft on the runway, reports say.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:40:29 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://static.foxnews.com/foxnews.com/content/uploads/2026/04/ups-kentucky-airport.gif</image>
         <type>image/jpeg</type>
       </media>
     </item>
     <item>
       <title>'Hunger Games' actor Ethan Jamieson arrested for alleged assault with intent to kill</title>
       <link>https://www.foxnews.com/entertainment/hunger-games-actor-ethan-jamieson-arrested-alleged-assault-intent-kill</link>
-      <summary>&amp;quot;Hunger Games&amp;quot; actor Ethan Jamieson was arrested in Raleigh, North Carolina, for allegedly assaulting three men with a deadly weapon.</summary>
+      <summary>&amp;quot;Hunger Games&amp;quot; actor Ethan Jamieson was arrested in Raleigh, North Carolina, recently for allegedly assaulting three men with a deadly weapon.</summary>
       <pubDate>Fri, 17 Apr 2026 12:36:55 -0400</pubDate>
       <priority>80</priority>
       <media>
@@ -60,18 +82,7 @@
       </media>
     </item>
     <item>
-      <title>11th scientist death emerges in string of missing, dead officials with access to US secrets</title>
-      <link>https://www.foxnews.com/politics/11th-scientist-death-emerges-string-missing-dead-officials-access-us-secrets</link>
-      <summary>Antigravity researcher Amy Eskridge, who reportedly died in 2022, draws renewed attention amid questions about scientists dying under odd circumstances.</summary>
-      <pubDate>Fri, 17 Apr 2026 11:37:20 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/missing-scientists-2.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Turkish grad student who co-authored anti-Israel op-ed at Tufts self-deports after legal battle with DHS</title>
+      <title>Turkish grad student who co-authored anti-Israel op-ed at Tufts self-deports after legal battle with DHS</title>
       <link>https://www.foxnews.com/politics/turkish-grad-student-co-authored-anti-israel-op-ed-tufts-self-deports-legal-battle-dhs</link>
       <summary>Rumeysa Ozturk, a Tufts grad student whose deportation case was terminated by an immigration judge, has self-deported to Istanbul, sources say.</summary>
       <pubDate>Fri, 17 Apr 2026 13:18:43 -0400</pubDate>
@@ -82,35 +93,24 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] NBA star hits back at NYC Mayor Zohran Mamdani for blaming him over expensive playoff tickets</title>
+      <title>[PENDING_TRANSLATION] WNBA team's public relations staff shuts down reporter's question about players' relationship</title>
+      <link>https://www.foxnews.com/sports/wnba-teams-public-relations-staff-shuts-reporters-question-players-relationship</link>
+      <summary>The Dallas Wings selected Azzi Fudd with the No. 1 pick, reuniting the UConn alum with Paige Bueckers, who confirmed they were a couple last summer.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:40:22 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/fe667ad2-paige-bueckers.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>NBA star hits back at NYC Mayor Zohran Mamdani for blaming him over expensive playoff tickets</title>
       <link>https://www.foxnews.com/sports/nba-star-hits-back-nyc-mayor-zohran-mamdani-blaming-expensive-playoff-tickets</link>
       <summary>Trae Young fired back at Zohran Mamdani after being blamed for expensive New York Knicks playoff tickets, despite no longer playing for the Atlanta Hawks.</summary>
       <pubDate>Fri, 17 Apr 2026 13:53:09 -0400</pubDate>
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Trae-Young-Zohran-Mamdani-split.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Rep Burlison demands FBI probe after top US scientists vanish or turn up dead</title>
-      <link>https://www.foxnews.com/media/rep-burlison-demands-fbi-probe-top-us-scientists-vanish-turn-dead</link>
-      <summary>House Oversight member Eric Burlison demands FBI probe after a string of disturbing disappearances and deaths involving top U.S. scientists.</summary>
-      <pubDate>Fri, 17 Apr 2026 13:40:36 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/eric-burlison-missing-scientists-investigation-fbi-fox-news.jpeg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] Anger swells as Swalwell's 'open secret' with women went unreported for years</title>
-      <link>https://www.foxnews.com/media/anger-swells-swalwells-open-secret-women-went-unreported-years</link>
-      <summary>Eric Swalwell&amp;apos;s sexual misconduct allegations were an open secret, critics say, as the media industry faces scrutiny for years of failing to report them.</summary>
-      <pubDate>Fri, 17 Apr 2026 13:13:38 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/eric-swalwell-democratic-convention.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
