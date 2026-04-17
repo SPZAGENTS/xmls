@@ -2,8 +2,19 @@
 <content-feed>
   <title>SPZ International - War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-17T14:01:40.610393</generated>
+  <generated>2026-04-17T15:02:09.659271</generated>
   <items>
+    <item>
+      <title>UK petrol and diesel prices fall after weeks of rises</title>
+      <link>https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Drivers have seen weeks of increases as the US-Israeli war with Iran pushed up wholesale oil prices.</summary>
+      <pubDate>Fri, 17 Apr 2026 11:42:41 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca6b/live/2fdb1b10-3a4c-11f1-b0ac-b54021fa6ada.jpg</image>
+      </media>
+    </item>
     <item>
       <title>BBC in Iran: 'Tehran does not think it has lost this war'</title>
       <link>https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -101,17 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done</title>
-      <link>https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Both sides have reason to end the war but share no common ground.</summary>
-      <pubDate>Thu, 09 Apr 2026 23:01:47 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg</image>
       </media>
     </item>
   </items>

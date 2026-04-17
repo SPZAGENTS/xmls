@@ -2,8 +2,19 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-17T14:01:23.234909</generated>
+  <generated>2026-04-17T15:01:54.531579</generated>
   <items>
+    <item>
+      <title>UK petrol and diesel prices fall after weeks of rises</title>
+      <link>https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Drivers have seen weeks of increases as the US-Israeli war with Iran pushed up wholesale oil prices.</summary>
+      <pubDate>Fri, 17 Apr 2026 11:42:41 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca6b/live/2fdb1b10-3a4c-11f1-b0ac-b54021fa6ada.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>BBC in Iran: 'Tehran does not think it has lost this war'</title>
       <link>https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -38,35 +49,24 @@
       </media>
     </item>
     <item>
-      <title>Is the UK finally waking up to the power of video games?</title>
-      <link>https://www.bbc.com/news/articles/c8x7wgerwpzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The UK's biggest video games awards cap off a week of big announcements, but will they change anything?</summary>
-      <pubDate>Thu, 16 Apr 2026 23:56:11 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cc8/live/e8e82db0-39b5-11f1-8897-e7b75af1cf66.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Peacock terrorises 92-year-old farmer's chickens</title>
-      <link>https://www.bbc.com/news/articles/cly6p86d4ljo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The peacock initially got along with the chickens before running riot on the farm, the farmer says.</summary>
-      <pubDate>Fri, 17 Apr 2026 04:51:41 GMT</pubDate>
-      <priority>85</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/630d/live/0e8cadd0-3a19-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Judge halts above-ground construction of Trump's White House ballroom</title>
-      <link>https://www.bbc.com/news/articles/c8r48mgnzmjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The judge allows the underground bunker portion of the project to proceed, while the US president says the ballroom "is needed now".</summary>
-      <pubDate>Thu, 16 Apr 2026 21:04:38 GMT</pubDate>
+      <title>Kensington Gardens shut as police 'assess items'</title>
+      <link>https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>It comes after a video is shared in which a group claims to have targeted the nearby Embassy of Israel.</summary>
+      <pubDate>Fri, 17 Apr 2026 11:45:50 GMT</pubDate>
       <priority>75</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/db7b91e0-39d2-11f1-a1b6-b76b3bf64711.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c47/live/ec031e80-3a53-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Iranian footballers say Australia has given them 'hope' for safe future</title>
+      <link>https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The duo had sought aslyum after their football team did not sing the national anthem during a match.</summary>
+      <pubDate>Fri, 17 Apr 2026 00:30:38 GMT</pubDate>
+      <priority>75</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7807/live/7e20fa90-39f4-11f1-b36c-918395f808bb.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,17 +93,6 @@
       </media>
     </item>
     <item>
-      <title>Finance ministers and top bankers raise serious concerns about Mythos AI model</title>
-      <link>https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.</summary>
-      <pubDate>Fri, 17 Apr 2026 10:22:46 GMT</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high</title>
       <link>https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Seizure numbers hit a 17-year high as an estimated 300,000 uninsured vehicles are driven each day.</summary>
@@ -111,6 +100,17 @@
       <priority>65</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/b179f610-38a7-11f1-bd3c-df67f5a99d2a.png</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Harry and Meghan meet Bondi shooting survivors</title>
+      <link>https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>On the fourth day of their Australian visit, the royal couple pay tribute to the 15 people killed in the Bondi shooting.</summary>
+      <pubDate>Fri, 17 Apr 2026 10:37:05 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ba/live/e3d08900-3a08-11f1-a062-898e9ee7c831.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
