@@ -2,7 +2,7 @@
 <content-feed>
   <title>Npr World - Top 10 Articles</title>
   <source>Npr World</source>
-  <generated>2026-04-17T21:01:44.278897</generated>
+  <generated>2026-04-17T22:01:30.057108</generated>
   <items>
     <item>
       <title>The U.S. blockade continues despite Iran's announcement the Strait of Hormuz is open</title>
@@ -33,13 +33,6 @@
       <priority>65</priority>
     </item>
     <item>
-      <title>Families left reeling after hospitals in blue states drop transgender care for youth</title>
-      <link>https://www.npr.org/2026/04/17/nx-s1-5780011/blue-state-hospitals-drop-transgender-affirming-care-minors</link>
-      <summary>Massachusetts passed laws and joined lawsuits to protect access to gender-affirming care for minors. But faced with the Trump administration's threats, some hospitals voluntarily stopped care.</summary>
-      <pubDate>Fri, 17 Apr 2026 05:00:00 -0400</pubDate>
-      <priority>65</priority>
-    </item>
-    <item>
       <title>The Labor Department wants to teach you to use AI more. Here's what we found</title>
       <link>https://www.npr.org/2026/04/17/nx-s1-5771629/labor-department-ai-course-ethics</link>
       <summary>The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes</summary>
@@ -50,6 +43,13 @@
       <title>Human rights groups raise alarm over fate of Salvadorans deported from U.S.</title>
       <link>https://www.npr.org/2026/04/17/nx-s1-5721174/rights-groups-raise-alarm-over-fate-of-salvadorans-deported-from-us-trump</link>
       <summary>Migrants deported from the U.S. routinely disappear into El Salvador's prisons the moment they land or in the weeks that follow. Many remain incommunicado from family and lawyers for years.</summary>
+      <pubDate>Fri, 17 Apr 2026 05:00:00 -0400</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>Families left reeling after hospitals in blue states drop transgender care for youth</title>
+      <link>https://www.npr.org/2026/04/17/nx-s1-5780011/blue-state-hospitals-drop-transgender-affirming-care-minors</link>
+      <summary>Massachusetts passed laws and joined lawsuits to protect access to gender-affirming care for minors. But faced with the Trump administration's threats, some hospitals voluntarily stopped care.</summary>
       <pubDate>Fri, 17 Apr 2026 05:00:00 -0400</pubDate>
       <priority>65</priority>
     </item>

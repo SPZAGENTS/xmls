@@ -2,13 +2,24 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T21:01:36.714260</generated>
+  <generated>2026-04-17T22:01:20.892097</generated>
   <items>
+    <item>
+      <title>The U.S. military blockade on ships entering or leaving Iran will continue until Trump ends it.</title>
+      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it</link>
+      <summary />
+      <pubDate>Fri, 17 Apr 2026 18:54:07 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-centcom-topart-fhzc/17israel-iran-centcom-topart-fhzc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Trump Is Urged to Act on Iranian Site Feared Impervious to Airstrikes</title>
       <link>https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html</link>
       <summary>Little is known about Pickaxe Mountain, but some experts say it illustrates the impossibility of relying on force alone to prevent Iran from acquiring a nuclear bomb.</summary>
-      <pubDate>Fri, 17 Apr 2026 17:51:52 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 18:39:40 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17dc-pickaxe-mcbj/17dc-pickaxe-mcbj-mediumSquareAt3X.jpg</image>
@@ -89,17 +100,6 @@
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>U.S. Completes Handover of Military Bases in Syria</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html</link>
-      <summary>The transition signals the end of a formal U.S. military presence in Syria for the first time in more than a decade.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:41:48 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-SYRIA-US-bmgz/16int-SYRIA-US-bmgz-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
