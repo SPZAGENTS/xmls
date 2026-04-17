@@ -2,7 +2,7 @@
 <content-feed>
   <title>France24 - Top 10 Articles</title>
   <source>France24</source>
-  <generated>2026-04-17T11:04:29.927733</generated>
+  <generated>2026-04-17T12:01:22.866781</generated>
   <items>
     <item>
       <title>Europe faces looming jet fuel shortage: 'Six weeks of fuel left', energy boss warns</title>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>Israeli military admit to posting AI photo of Lebanese journalist it killed</title>
-      <link>https://www.france24.com/en/israeli-military-admit-to-posting-ai-photo-of-killed-lebanese-journalist</link>
-      <summary>The Foreign Press Association has accused the Israeli military of discrediting a Lebanese journalist it killed in March, by using an AI-generated photo to present him as a “Hezbollah terrorist.” The Israel Defence Forces claimed responsibility for killing Ali Shoeib in a targe...</summary>
-      <pubDate>Thu, 16 Apr 2026 19:46:13 GMT</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://s.france24.com/media/display/3d76ce3e-39c7-11f1-bcec-005056bf30b7/w:1024/p:16x9/capture-178752253669e132fb53c7d9-53162423.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>France, UK host talks on securing Hormuz</title>
       <link>https://www.france24.com/en/france-uk-host-talks-on-securing-hormuz</link>
       <summary>French President Emmanuel Macron and British Prime Minister Keir Starmer are chairing a meeting of around 40 so-called “non-belligerent” countries this Friday to discuss securing the Strait of Hormuz. The closure of this vital route—now subject to both an Iranian blockade and ...</summary>
@@ -111,6 +100,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.france24.com/media/display/db887722-3a2f-11f1-99df-005056a90284/w:1024/p:16x9/EN-20260417-083144-083352-CS.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>European airlines could run out of jet fuel 'in six weeks'</title>
+      <link>https://www.france24.com/en/european-airlines-could-run-out-of-jet-fuel-in-six-weeks</link>
+      <summary>European airlines could run out of jet fuel in six weeks' time. That's the warning from the head of the International Energy Agency, Fatih Birol, who says passengers should expect fewer flights and higher prices. Carriers are already reducing their flight schedules ahead of th...</summary>
+      <pubDate>Thu, 16 Apr 2026 20:48:33 GMT</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.france24.com/media/display/c1ebcaa4-39d4-11f1-b3f6-005056bf30b7/w:1024/p:16x9/capture-89878390569e149a8ec7783-63505577.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

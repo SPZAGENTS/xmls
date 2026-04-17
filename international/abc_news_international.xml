@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-17T11:04:33.662610</generated>
+  <generated>2026-04-17T12:01:26.829745</generated>
   <items>
     <item>
       <title>Australia boosts military spending as Iran war makes global impact</title>
@@ -23,6 +23,17 @@
       <priority>100</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_297a8d2bb94add26e503a4ef3a5d1151_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>China's economy grows at 5% in first quarter, shrugging off initial impact of Iran war</title>
+      <link>https://abcnews.com/International/wireStory/chinas-economy-grows-5-quarter-shrugging-off-initial-132086607</link>
+      <summary>China&amp;rsquo;s economy accelerated in the first quarter of this year, expanding 5% from a year earlier as it largely shrugged off impacts from the Iran war so far</summary>
+      <pubDate>Wed, 15 Apr 2026 23:01:53 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e1dbb6d542c6c1b17f99671f4dcc7d81_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_7c1746c2beeb9d069452afc647d0e59a_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Death toll from Turkey's second school shooting in a week rises to 10</title>
-      <link>https://abcnews.com/International/wireStory/death-toll-turkeys-school-shooting-week-rises-10-132094904</link>
-      <summary>Authorities in Turkey said the toll from the country&amp;rsquo;s second school shooting in two days rose to 10 deaths on Thursday when another victim died while being treated</summary>
-      <pubDate>Thu, 16 Apr 2026 08:18:02 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_5f3332b3242a64e9d2e6a3ba58072c05_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

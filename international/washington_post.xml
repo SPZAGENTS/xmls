@@ -2,20 +2,13 @@
 <content-feed>
   <title>Washington Post - Top 10 Articles</title>
   <source>Washington Post</source>
-  <generated>2026-04-17T11:04:24.629721</generated>
+  <generated>2026-04-17T12:01:18.404235</generated>
   <items>
     <item>
       <title>Trump says Iran agrees to hand over ‘nuclear dust’</title>
       <link>https://www.washingtonpost.com/politics/2026/04/16/trump-iran-nuclear/</link>
       <summary>Iran has not confirmed Trump’s claim. Giving up its highly enriched uranium would be a major step toward an agreement.</summary>
       <pubDate>Thu, 16 Apr 2026 21:49:16 +0000</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
-      <title>Iranian sea trade blocked as six ships forced to turn back, U.S. military says</title>
-      <link>https://www.washingtonpost.com/national-security/2026/04/14/us-blockade-hormuz/</link>
-      <summary>A U.S. blockade in effect since Monday has completely cut off Iran’s sea trade, the U.S. military said after six merchant ships were prevented from leaving Iranian ports.</summary>
-      <pubDate>Wed, 15 Apr 2026 08:24:02 +0000</pubDate>
       <priority>100</priority>
     </item>
     <item>
@@ -72,6 +65,13 @@
       <link>https://www.washingtonpost.com/national-security/2026/04/15/trump-un-trade-over-aid/</link>
       <summary>Secretary of State Marco Rubio called it an opportunity to use the U.N. system to “promote America First values,” according to a cable reviewed by The Post.</summary>
       <pubDate>Thu, 16 Apr 2026 16:45:32 +0000</pubDate>
+      <priority>65</priority>
+    </item>
+    <item>
+      <title>House defies Trump on immigration with move to shield Haitians</title>
+      <link>https://www.washingtonpost.com/business/2026/04/15/haiti-tps-trump/</link>
+      <summary>The vote to advance a bill extending protections for Haitians marks the first time Republican lawmakers have voted this term to oppose Trump’s immigration policy.</summary>
+      <pubDate>Wed, 15 Apr 2026 23:00:10 +0000</pubDate>
       <priority>65</priority>
     </item>
   </items>
