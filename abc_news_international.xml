@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News International - Top 10 Articles</title>
   <source>Abc News International</source>
-  <generated>2026-04-17T13:01:28.387468</generated>
+  <generated>2026-04-17T14:01:38.487256</generated>
   <items>
     <item>
       <title>Australia boosts military spending as Iran war makes global impact</title>
@@ -34,6 +34,17 @@
       <priority>90</priority>
       <media>
         <image>https://s.abcnews.com/images/US/wirestory_98317390837f6aa8f560ea157b169c2b_4x3_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>A fragile calm in Lebanon as a US-brokered truce holds and families head home</title>
+      <link>https://abcnews.com/International/wireStory/fragile-calm-lebanon-us-brokered-truce-holds-families-132129259</link>
+      <summary>A fragile calm has settled over parts of Lebanon as a 10-day ceasefire brokered by the United States takes hold between Israel and Hezbollah</summary>
+      <pubDate>Fri, 17 Apr 2026 06:30:45 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://s.abcnews.com/images/International/wirestory_e0412bb734d09aef492051c1730b5821_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -71,7 +82,7 @@
       </media>
     </item>
     <item>
-      <title>[PENDING_TRANSLATION] UK police charge 3 in arson attack at Persian-language media organization</title>
+      <title>UK police charge 3 in arson attack at Persian-language media organization</title>
       <link>https://abcnews.com/International/wireStory/uk-police-charge-3-arson-attack-persian-language-132128970</link>
       <summary>British police have charged three people in an arson attack at a Persian-language media organization in northwest London</summary>
       <pubDate>Fri, 17 Apr 2026 05:05:48 -0400</pubDate>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://s.abcnews.com/images/International/wirestory_f50b3819e9bd1765b18246394cf07dbb_4x3_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Modi is pushing to get more women into India's Parliament. That could have other consequences</title>
-      <link>https://abcnews.com/International/wireStory/modi-pushing-women-indias-parliament-consequences-132089722</link>
-      <summary>India&amp;rsquo;s Parliament has opened debate on a landmark bill to reserve one-third of seats for women, a reform that could also trigger a sweeping redrawing of electoral boundaries and heighten political tensions</summary>
-      <pubDate>Thu, 16 Apr 2026 07:33:23 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/International/wirestory_7c1746c2beeb9d069452afc647d0e59a_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>

@@ -2,8 +2,19 @@
 <content-feed>
   <title>Nyt Middle East - Top 10 Articles</title>
   <source>Nyt Middle East</source>
-  <generated>2026-04-17T13:01:22.449971</generated>
+  <generated>2026-04-17T14:01:30.755691</generated>
   <items>
+    <item>
+      <title>In northern Israel, relief at cease-fire is overshadowed by unease</title>
+      <link>https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah/israel-residents-ceasefire-lebanon-hezbollah</link>
+      <summary>Residents are wary that the truce may offer only a temporary reprieve after weeks of rocket fire by Hezbollah.</summary>
+      <pubDate>Fri, 17 Apr 2026 10:38:54 +0000</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-live-israel-north-mtjv/17lebanon-live-israel-north-mtjv-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
     <item>
       <title>Iran Resisted a Powerful Attacker. Taiwan Can Too.</title>
       <link>https://www.nytimes.com/2026/04/17/world/middleeast/iran-america-taiwan-china.html</link>
@@ -96,17 +107,6 @@
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/16/multimedia/16dc-trump-econ-01-hfpb/16dc-trump-econ-01-hfpb-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>10-Day Cease-Fire Between Israel and Lebanon Goes Into Effect</title>
-      <link>https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html</link>
-      <summary>The pause in the fighting between Israeli forces and Iranian-allied Hezbollah militants may help smooth the way to a peace deal between the U.S. and Iran.</summary>
-      <pubDate>Thu, 16 Apr 2026 22:40:18 +0000</pubDate>
-      <priority>95</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/16/multimedia/16int-mideast-leadall-lhpq/16int-mideast-leadall-lhpq-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
