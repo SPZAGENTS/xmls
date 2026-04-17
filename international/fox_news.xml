@@ -2,7 +2,7 @@
 <content-feed>
   <title>Fox News - Top 10 Articles</title>
   <source>Fox News</source>
-  <generated>2026-04-17T13:01:17.738560</generated>
+  <generated>2026-04-17T14:01:24.616821</generated>
   <items>
     <item>
       <title>WILLIAM BENNETT, ROB NOEL: Two years after Columbia encampment, campuses still chilled by fear</title>
@@ -23,6 +23,28 @@
       <priority>100</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/1200/675/clarence-thomas.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Trump taps former deputy surgeon general to helm CDC</title>
+      <link>https://www.foxnews.com/politics/trump-taps-former-deputy-surgeon-general-helm-cdc</link>
+      <summary>President Trump announced former deputy surgeon general Dr. Erica Schwartz as his nominee for Centers for Disease Control and Prevention (CDC) director.</summary>
+      <pubDate>Fri, 17 Apr 2026 06:41:00 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-april-16-2026.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Starmer and Macron accused of ‘playing at being relevant’ with Strait of Hormuz plan</title>
+      <link>https://www.foxnews.com/world/starmer-macron-accused-playing-being-relevant-strait-hormuz-plan</link>
+      <summary>Britain and France push a European-led naval mission to safeguard shipping in the Strait of Hormuz, separate from U.S. military operations in the region.</summary>
+      <pubDate>Fri, 17 Apr 2026 06:00:49 -0400</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/macron-welcomes-starmer-france-uk-meeting.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -49,28 +71,6 @@
       </media>
     </item>
     <item>
-      <title>Rogan backs reality TV star Spencer Pratt’s bid for LA Mayor, says ‘I’d vote for you’</title>
-      <link>https://www.foxnews.com/media/rogan-backs-reality-tv-star-spencer-pratts-bid-la-mayor-says-id-vote</link>
-      <summary>Joe Rogan endorses Spencer Pratt for Los Angeles mayor, saying he would absolutely vote for the reality TV star if he still lived in California.</summary>
-      <pubDate>Thu, 16 Apr 2026 21:00:47 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Rogan-Pratt-Split-2.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Missing pregnant woman found dead after mysterious Texas disappearance</title>
-      <link>https://www.foxnews.com/us/missing-pregnant-woman-found-dead-mysterious-texas-disappearance-</link>
-      <summary>Ashanti Allen, a 23-year-old woman who disappeared while eight months pregnant, was found dead in Houston, her family confirmed. No arrests have been reported.</summary>
-      <pubDate>Thu, 16 Apr 2026 20:55:24 -0400</pubDate>
-      <priority>80</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/houston-scene.png?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Greenland talks on ‘good trajectory,’ White House says amid Trump takeover push</title>
       <link>https://www.foxnews.com/politics/greenland-talks-good-trajectory-white-house-says-amid-trump-takeover-push</link>
       <summary>U.S. officials say negotiations with Denmark and Greenland are moving in a positive direction, even as tensions remain over Trump’s push for greater U.S. control of the strategic Arctic island.</summary>
@@ -78,6 +78,17 @@
       <priority>75</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/greenland-trump-clap.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Airport lounge chaos goes viral as kids run wild and passengers ditch basic etiquette</title>
+      <link>https://www.foxnews.com/travel/airport-lounge-chaos-goes-viral-kids-run-wild-passengers-ditch-basic-etiquette</link>
+      <summary>Once-exclusive airport lounges are now packed with credit card holders, leading to reported food raids, chaos and heated etiquette debates online. Experts weighed in.</summary>
+      <pubDate>Fri, 17 Apr 2026 06:00:20 -0400</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/family-travel-airport.jpeg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -100,17 +111,6 @@
       <priority>65</priority>
       <media>
         <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/michele-tafoya-fox-news-interview-minneapolis-jan-20-2026.jpg?ve=1&amp;tl=1</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>House punts Trump spy powers extension after conservatives block deal, forcing end-of-month showdown</title>
-      <link>https://www.foxnews.com/politics/house-punts-trump-spy-powers-extension-conservatives-block-deal-forcing-end-month-showdown</link>
-      <summary>The FISA Section 702 surveillance program hit a temporary roadblock after House conservatives rejected a long-term extension early Friday morning.</summary>
-      <pubDate>Fri, 17 Apr 2026 03:20:33 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mike-johnson-capitol-press-conference-jan-2026.jpg?ve=1&amp;tl=1</image>
         <type>image/jpeg</type>
       </media>
     </item>
