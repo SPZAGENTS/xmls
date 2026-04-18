@@ -2,7 +2,7 @@
 <content-feed>
   <title>Abc News - Top 10 Articles</title>
   <source>Abc News</source>
-  <generated>2026-04-18T03:01:33.353746</generated>
+  <generated>2026-04-18T04:01:29.839734</generated>
   <items>
     <item>
       <title>WATCH: 1st class comfort coming to coach class</title>
@@ -45,6 +45,17 @@
       <priority>80</priority>
       <media>
         <image>https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] 2 Alaska-based soldiers injured in encounter with brown bear during training exercise</title>
+      <link>https://abcnews.com/US/wireStory/2-alaska-based-soldiers-injured-encounter-brown-bear-132151858</link>
+      <summary>Two U.S. Army soldiers have been injured after encountering a brown bear during training in Anchorage</summary>
+      <pubDate>Fri, 17 Apr 2026 19:24:51 -0400</pubDate>
+      <priority>80</priority>
+      <media>
+        <image>https://s.abcnews.com/images/US/wirestory_bcdf5b42cbfe427657c49d91f8031c2f_4x3_384.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -93,18 +104,7 @@
       </media>
     </item>
     <item>
-      <title>Trump's lawyers say they're 'in discussions' to resolve his $10B suit against the IRS</title>
-      <link>https://abcnews.com/US/trumps-lawyers-discussions-resolve-10b-suit-irs/story?id=132146636</link>
-      <summary>Attorneys for President Trump say they are "in discussions" with the DOJ to potentially resolve a $10 billion lawsuit that Trump and his company filed against the IRS.</summary>
-      <pubDate>Fri, 17 Apr 2026 15:18:57 -0400</pubDate>
-      <priority>65</priority>
-      <media>
-        <image>https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-260417._1776430359011_hpMain_4x3t_384.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>[PENDING_TRANSLATION] WATCH: ‘Bike bus’ movement gains traction, drawing kids and celebrities</title>
+      <title>WATCH: ‘Bike bus’ movement gains traction, drawing kids and celebrities</title>
       <link>https://abcnews.com/video/132149701/</link>
       <summary>Founder Sam Balto explains how group rides to school are spreading globally, building community and attracting stars like Benson Boone and Justin Timberlake.</summary>
       <pubDate>Fri, 17 Apr 2026 19:12:12 -0400</pubDate>
