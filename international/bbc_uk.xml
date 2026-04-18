@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-18T05:01:08.786435</generated>
+  <generated>2026-04-18T07:46:49.946102</generated>
   <items>
     <item>
       <title>Mortgage rates show signs of falling after Iran war peak</title>
@@ -34,17 +34,6 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/5cfbfc50-3a87-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran says Strait of Hormuz is 'open' but tracking shows few ships moving</title>
-      <link>https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US President Donald Trump welcomed Tehran's announcement but said the US naval blockade would continue until a peace deal was reached.</summary>
-      <pubDate>Fri, 17 Apr 2026 22:26:00 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ab/live/c7d2fb60-3a9f-11f1-92cb-7d6bf9d113a8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -111,6 +100,17 @@
       <priority>75</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5627/live/697f3bd0-3a65-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Orbán's era was over in a flash and Hungary's next PM is a man in a hurry</title>
+      <link>https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.</summary>
+      <pubDate>Fri, 17 Apr 2026 23:02:14 GMT</pubDate>
+      <priority>65</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bc/live/fd8f5c70-3a7d-11f1-850e-07c4418cf86c.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
