@@ -2,19 +2,8 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-18T08:13:40.116357</generated>
+  <generated>2026-04-18T09:19:36.078648</generated>
   <items>
-    <item>
-      <title>Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open</title>
-      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump</link>
-      <summary />
-      <pubDate>Sat, 18 Apr 2026 04:33:06 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-strait-open-tmlk/17israel-iran-strait-open-tmlk-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
     <item>
       <title>Iran War Forces America’s Friends in Asia to Court Its Rivals</title>
       <link>https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html</link>
@@ -103,6 +92,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/08/world/00int-botswana-dwarf-profile-coevrslide-2-3/00int-botswana-dwarf-profile-coevrslide-2-3-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks</title>
+      <link>https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html</link>
+      <summary>Howard Lutnick, President Trump’s commerce secretary, derided Canada’s trade strategy and said a North American deal needed to be reworked.</summary>
+      <pubDate>Fri, 17 Apr 2026 18:45:40 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/18/multimedia/18int-canada-lutnick-bftc/18int-canada-lutnick-bftc-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
