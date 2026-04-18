@@ -2,7 +2,7 @@
 <content-feed>
   <title>Bbc Uk - Top 10 Articles</title>
   <source>Bbc Uk</source>
-  <generated>2026-04-18T05:01:08.786435</generated>
+  <generated>2026-04-18T08:13:36.170635</generated>
   <items>
     <item>
       <title>Mortgage rates show signs of falling after Iran war peak</title>
@@ -27,6 +27,17 @@
       </media>
     </item>
     <item>
+      <title>[PENDING_TRANSLATION] What people in power think the impact of the Iran war will be</title>
+      <link>https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>I have been chatting with some of the world's most powerful people about the conflict and the economy. Here's what they said.</summary>
+      <pubDate>Sat, 18 Apr 2026 05:00:15 GMT</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f2/live/0268f3a0-3a60-11f1-bab3-e3881342f552.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
       <title>'I'm the lucky one' - more than one in three young men now live with their parents</title>
       <link>https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold.</summary>
@@ -34,17 +45,6 @@
       <priority>95</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/5cfbfc50-3a87-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
-      <title>Iran says Strait of Hormuz is 'open' but tracking shows few ships moving</title>
-      <link>https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>US President Donald Trump welcomed Tehran's announcement but said the US naval blockade would continue until a peace deal was reached.</summary>
-      <pubDate>Fri, 17 Apr 2026 22:26:00 GMT</pubDate>
-      <priority>90</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5ab/live/c7d2fb60-3a9f-11f1-92cb-7d6bf9d113a8.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
@@ -82,17 +82,6 @@
       </media>
     </item>
     <item>
-      <title>No evidence Epsom rape took place as reported, say police</title>
-      <link>https://www.bbc.com/news/articles/clyxp4q5k93o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The reported attack had caused concern and prompted protests calling for more details from police.</summary>
-      <pubDate>Fri, 17 Apr 2026 15:54:00 GMT</pubDate>
-      <priority>75</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a9/live/072c8670-3a71-11f1-879d-1b2f5c3919b8.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>Some Iran-linked ships have crossed US blockade, data suggests</title>
       <link>https://www.bbc.com/news/articles/ckge7138l2go?at_medium=RSS&amp;at_campaign=rss</link>
       <summary>At least four vessels tracked from Iranian ports appear to have crossed a US blockade line in the Gulf of Oman, analysis of ship-tracking data suggests.</summary>
@@ -104,13 +93,24 @@
       </media>
     </item>
     <item>
-      <title>Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain</title>
-      <link>https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.</summary>
-      <pubDate>Fri, 17 Apr 2026 14:31:51 GMT</pubDate>
-      <priority>75</priority>
+      <title>[PENDING_TRANSLATION] Orbán's era was over in a flash and Hungary's next PM is a man in a hurry</title>
+      <link>https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.</summary>
+      <pubDate>Sat, 18 Apr 2026 04:46:34 GMT</pubDate>
+      <priority>65</priority>
       <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5627/live/697f3bd0-3a65-11f1-9d5c-8ba507d7dbde.jpg</image>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bc/live/fd8f5c70-3a7d-11f1-850e-07c4418cf86c.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>[PENDING_TRANSLATION] 'Staggering' I was not told Mandelson failed vetting, says PM</title>
+      <link>https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The PM is facing calls to resign over the revelation that Lord Mandelson did not pass security checks.</summary>
+      <pubDate>Sat, 18 Apr 2026 00:00:19 GMT</pubDate>
+      <priority>50</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/25b6f680-3a48-11f1-b0ac-b54021fa6ada.png</image>
         <type>image/jpeg</type>
       </media>
     </item>
