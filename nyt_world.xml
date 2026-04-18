@@ -2,13 +2,13 @@
 <content-feed>
   <title>Nyt World - Top 10 Articles</title>
   <source>Nyt World</source>
-  <generated>2026-04-18T02:01:40.895951</generated>
+  <generated>2026-04-18T03:01:27.264640</generated>
   <items>
     <item>
       <title>Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open</title>
       <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump</link>
       <summary />
-      <pubDate>Fri, 17 Apr 2026 23:00:31 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 23:41:55 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-strait-open-tmlk/17israel-iran-strait-open-tmlk-mediumSquareAt3X.jpg</image>
@@ -30,7 +30,7 @@
       <title>Trump Frames Iran War as All but Over in Optimistic Social Media Flurry</title>
       <link>https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html</link>
       <summary>Iranian officials did not confirm most of Mr. Trump’s claims and disputed several of them.</summary>
-      <pubDate>Fri, 17 Apr 2026 21:52:11 +0000</pubDate>
+      <pubDate>Fri, 17 Apr 2026 23:11:04 +0000</pubDate>
       <priority>100</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-trump-posts-topart-vwlf/17israel-iran-trump-posts-topart-vwlf-mediumSquareAt3X.jpg</image>
@@ -49,17 +49,6 @@
       </media>
     </item>
     <item>
-      <title>The U.S. military blockade on ships entering or leaving Iran will continue until Trump ends it.</title>
-      <link>https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it</link>
-      <summary />
-      <pubDate>Fri, 17 Apr 2026 18:54:07 +0000</pubDate>
-      <priority>100</priority>
-      <media>
-        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17israel-iran-centcom-topart-fhzc/17israel-iran-centcom-topart-fhzc-mediumSquareAt3X.jpg</image>
-        <type>image/jpeg</type>
-      </media>
-    </item>
-    <item>
       <title>New PEPFAR Data Show Worrying Declines in Testing and Treatment for H.I.V.</title>
       <link>https://www.nytimes.com/2026/04/17/health/hiv-testing-treatment-data-pepfar.html</link>
       <summary>The numbers are the first to quantify the effect of the Trump administration’s shutdown and restarting of a program that has saved millions of lives worldwide.</summary>
@@ -71,10 +60,10 @@
       </media>
     </item>
     <item>
-      <title>An Explosion Rattles a Toronto Neighborhood. Was a Drake Video to Blame?</title>
+      <title>An Explosion Rattles a Toronto Neighborhood. A Drake Video Was to Blame.</title>
       <link>https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html</link>
-      <summary>A blast on Thursday night turned out to be for a film shoot, but it unnerved residents who had lived through a propane plant explosion in 2008.</summary>
-      <pubDate>Fri, 17 Apr 2026 21:05:43 +0000</pubDate>
+      <summary>A blast on Thursday night turned out to be for a video shoot, but it unnerved residents who had lived through a propane plant explosion in 2008.</summary>
+      <pubDate>Fri, 17 Apr 2026 23:36:40 +0000</pubDate>
       <priority>95</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17xp-explosion-drake/17xp-explosion-drake-mediumSquareAt3X.jpg</image>
@@ -103,6 +92,17 @@
       <priority>90</priority>
       <media>
         <image>https://static01.nyt.com/images/2026/04/17/multimedia/17lebanon-scene-promo-fmzc/17lebanon-scene-promo-fmzc-mediumSquareAt3X.jpg</image>
+        <type>image/jpeg</type>
+      </media>
+    </item>
+    <item>
+      <title>Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot</title>
+      <link>https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html</link>
+      <summary>Most Israelis wanted the fight against Hezbollah to continue. But Prime Minister Benjamin Netanyahu’s critics say he is showing that he cannot, or will not, stand up to President Trump.</summary>
+      <pubDate>Fri, 17 Apr 2026 14:56:48 +0000</pubDate>
+      <priority>90</priority>
+      <media>
+        <image>https://static01.nyt.com/images/2026/04/17/multimedia/17int-israel-netanyahu-01-tgfl/17int-israel-netanyahu-01-tgfl-mediumSquareAt3X.jpg</image>
         <type>image/jpeg</type>
       </media>
     </item>
