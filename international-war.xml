@@ -2,7 +2,7 @@
 <content-feed>
   <title>SPZ International - War &amp; Conflict</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-04-18T07:46:59.354277</generated>
+  <generated>2026-04-18T08:13:45.204279</generated>
   <items>
     <item>
       <title>Mortgage rates show signs of falling after Iran war peak</title>
@@ -24,6 +24,17 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90dd/live/a9950e00-3a62-11f1-9d5c-8ba507d7dbde.jpg</image>
+      </media>
+    </item>
+    <item>
+      <title>What people in power think the impact of the Iran war will be</title>
+      <link>https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>I have been chatting with some of the world's most powerful people about the conflict and the economy. Here's what they said.</summary>
+      <pubDate>Sat, 18 Apr 2026 05:00:15 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <media>
+        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f2/live/0268f3a0-3a60-11f1-bab3-e3881342f552.jpg</image>
       </media>
     </item>
     <item>
@@ -101,17 +112,6 @@
       <priority>100</priority>
       <media>
         <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5828/live/31e5cb40-37f3-11f1-8606-05fe34b06e1b.jpg</image>
-      </media>
-    </item>
-    <item>
-      <title>Trump's blockade threat raises risks and leaves predicaments unchanged</title>
-      <link>https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <summary>The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.</summary>
-      <pubDate>Sun, 12 Apr 2026 22:57:22 GMT</pubDate>
-      <source>bbc-middle-east</source>
-      <priority>100</priority>
-      <media>
-        <image>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg</image>
       </media>
     </item>
   </items>
