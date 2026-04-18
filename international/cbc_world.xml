@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-18T04:01:32.256765</generated>
+  <generated>2026-04-18T05:01:21.205310</generated>
   <items>
     <item>
       <title>1 killed in Israeli strike in southern Lebanon on 1st full day of ceasefire deal</title>
@@ -54,13 +54,6 @@
       <priority>95</priority>
     </item>
     <item>
-      <title>Trump says blockade on Iran will continue despite reopening of Strait of Hormuz</title>
-      <link>https://www.cbc.ca/news/world/iran-foreign-minister-strait-of-hormuz-opens-9.7167808?cmp=rss</link>
-      <summary />
-      <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
-      <priority>90</priority>
-    </item>
-    <item>
       <title>Trump claims victory as Lebanon braces for the unknown</title>
       <link>https://www.cbc.ca/news/world/israel-lebanon-ceasefire-anlaysis-9.7167212?cmp=rss</link>
       <summary />
@@ -68,10 +61,17 @@
       <priority>90</priority>
     </item>
     <item>
-      <title>U.S. Commerce Secretary Howard Lutnick takes a swipe at Canada's trade strategy ahead of renegotiations</title>
+      <title>U.S. Commerce Secretary Howard Lutnick takes a swipe at Canada's trade strategy ahead of review</title>
       <link>https://www.cbc.ca/news/world/howard-lutnick-canada-trade-strategy-they-suck-semafor-event-9.7168948?cmp=rss</link>
       <summary>U.S. Commerce Secretary Howard Lutnick on Friday criticized the current iteration of North America's free trade agreement as a bad deal, taking a swipe at Canada's trade strategy ahead of upcoming negotiations.</summary>
       <pubDate>Fri, 17 Apr 2026 20:25:00 EDT</pubDate>
+      <priority>75</priority>
+    </item>
+    <item>
+      <title>Trump rails against latest court decision on stalled White House ballroom project</title>
+      <link>https://www.cbc.ca/news/world/white-house-ballroom-decision-legal-project-trump-9.7167366?cmp=rss</link>
+      <summary>U.S. President Donald Trump railed against a federal judge's decision on Thursday that continues to block above-ground construction of a $400-million US White House ballroom, allowing only below-ground work on a bunker and other "national security facilities" at the site.</summary>
+      <pubDate>Thu, 16 Apr 2026 19:02:24 EDT</pubDate>
       <priority>75</priority>
     </item>
   </items>
