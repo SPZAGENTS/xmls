@@ -2,7 +2,7 @@
 <content-feed>
   <title>Cbc World - Top 10 Articles</title>
   <source>Cbc World</source>
-  <generated>2026-04-18T03:01:35.629851</generated>
+  <generated>2026-04-18T04:01:32.256765</generated>
   <items>
     <item>
       <title>1 killed in Israeli strike in southern Lebanon on 1st full day of ceasefire deal</title>
@@ -47,13 +47,6 @@
       <priority>100</priority>
     </item>
     <item>
-      <title>Why the U.S. and Iran can't reach a peace deal | About That</title>
-      <link>https://www.cbc.ca/player/play/9.7164912?cmp=rss</link>
-      <summary>Andrew Chang explains what's keeping the U.S. and Iran from reaching a peace agreement following six weeks of ongoing war and a recent marathon negotiating session in Pakistan. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images</summary>
-      <pubDate>Wed, 15 Apr 2026 14:44:38 EDT</pubDate>
-      <priority>100</priority>
-    </item>
-    <item>
       <title>Jury finds Live Nation, Ticketmaster had anti-competitive monopoly over big concert venues</title>
       <link>https://www.cbc.ca/news/entertainment/live-nation-ticketmaster-monopoly-ruling-9.7164989?cmp=rss</link>
       <summary>A jury has found that concert giant Live Nation and its Ticketmaster subsidiary had a harmful monopoly over big concert venues, dealing the company a loss in a lawsuit over claims brought by dozens of U.S. states.</summary>
@@ -61,7 +54,7 @@
       <priority>95</priority>
     </item>
     <item>
-      <title>Blockade on Iran will continue, Trump says, after Iran says it will reopen Strait of Hormuz</title>
+      <title>Trump says blockade on Iran will continue despite reopening of Strait of Hormuz</title>
       <link>https://www.cbc.ca/news/world/iran-foreign-minister-strait-of-hormuz-opens-9.7167808?cmp=rss</link>
       <summary />
       <pubDate>Fri, 09 Jan 2026 12:00:37 EST</pubDate>
@@ -73,6 +66,13 @@
       <summary />
       <pubDate>Tue, 14 Apr 2026 09:11:34 EDT</pubDate>
       <priority>90</priority>
+    </item>
+    <item>
+      <title>U.S. Commerce Secretary Howard Lutnick takes a swipe at Canada's trade strategy ahead of renegotiations</title>
+      <link>https://www.cbc.ca/news/world/howard-lutnick-canada-trade-strategy-they-suck-semafor-event-9.7168948?cmp=rss</link>
+      <summary>U.S. Commerce Secretary Howard Lutnick on Friday criticized the current iteration of North America's free trade agreement as a bad deal, taking a swipe at Canada's trade strategy ahead of upcoming negotiations.</summary>
+      <pubDate>Fri, 17 Apr 2026 20:25:00 EDT</pubDate>
+      <priority>75</priority>
     </item>
   </items>
 </content-feed>
