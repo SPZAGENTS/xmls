@@ -1,10 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <content-feed>
+  <title>BBC World — All Articles</title>
   <source>bbc-world</source>
-  <source-type>rss</source-type>
-  <feed-url>https://feeds.bbci.co.uk/news/world/rss.xml</feed-url>
-  <language>en</language>
-  <generated>2026-02-28T08:05:00+02:00</generated>
-  <count>0</count>
-  <status>ready-for-fetch</status>
+  <generated>2026-04-19T23:01:52.876592</generated>
+  <items>
+    <item>
+      <title>Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row</title>
+      <link>https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue. ...</summary>
+      <pubDate>2026-04-18T21:27:56</pubDate>
+      <priority>33</priority>
+    </item>
+    <item>
+      <title>Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded</title>
+      <link>https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away....</summary>
+      <pubDate>2026-04-18T23:05:30</pubDate>
+      <priority>38</priority>
+    </item>
+    <item>
+      <title>Zelensky condemns US extension of Russian sanctions waiver</title>
+      <link>https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran....</summary>
+      <pubDate>2026-04-19T09:55:22</pubDate>
+      <priority>43</priority>
+    </item>
+    <item>
+      <title>French peacekeeper killed in southern Lebanon</title>
+      <link>https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>President Macron blames the attack on Hezbollah. The Iran-backed armed group denies "any connection" to the incident....</summary>
+      <pubDate>2026-04-19T11:39:47</pubDate>
+      <priority>58</priority>
+    </item>
+  </items>
 </content-feed>
