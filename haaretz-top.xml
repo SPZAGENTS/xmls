@@ -1,82 +1,79 @@
-<content-feed>
-  <title>haaretz — Top 10 Most Relevant</title>
-  <source>haaretz</source>
-  <last-updated>2026-03-01T22:54:55.584803</last-updated>
-  <article-count>10</article-count>
-  <items>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>SPZ Top Feed</title>
     <item>
-      <title>Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row</title>
-      <link>https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue. </description>
-      <pubDate>2026-04-18T21:27:56</pubDate>
-      <source>bbc-world</source>
-    </item>
-    <item>
-      <title>Ben Roberts-Smith denies war crimes allegations – As it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb</link>
-      <description>&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Get our &lt;/strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;&lt;strong&gt;breaking news email&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href="https://app.adjust.com/w4u7jx3"&gt;&lt;strong&gt;free app&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; or &lt;/strong&gt;&lt;a href="https:</description>
-      <pubDate>2026-04-19T04:39:52</pubDate>
-      <source>guardian-world</source>
-    </item>
-    <item>
-      <title>Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded</title>
-      <link>https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.</description>
-      <pubDate>2026-04-18T23:05:30</pubDate>
-      <source>bbc-world</source>
-    </item>
-    <item>
-      <title>Why do we pray? - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/why-do-we-pray/</link>
-      <description>&lt;p&gt;What does prayer do? Is it about God, or about other people? What happens when prayer becomes entangled with politics, identity, and belonging?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/why-do-we-pray/"&gt;Why do we pray?&lt;/a&gt; appeared first on &lt;a href="https://www.timesofisrae</description>
-      <pubDate>2026-04-19T16:14:14+00:00</pubDate>
-      <source>times-of-israel</source>
-    </item>
-    <item>
-      <title>Israel’s 10 Days of Awe: From Yom HaShoah to Yom HaAtzmaut - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/</link>
-      <description>&lt;p&gt;How do we observe national days of mourning when the nightmares of the past feel like the realities of the present?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/"&gt;Israel&amp;#8217;s 10 Days of Awe: From Yom HaShoah to Yom Ha</description>
-      <pubDate>2026-04-19T16:18:32+00:00</pubDate>
-      <source>times-of-israel</source>
-    </item>
-    <item>
-      <title>Culture Minister Miki Zohar questioned by police in Histadrut corruption probe</title>
-      <link>https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-probe/</link>
-      <description>&lt;p&gt;Zohar is the latest member of prime minister's Likud party to be interrogated as police trace alleged bribery network linking labor union, municipalities and government&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-</description>
-      <pubDate>2026-04-19T18:22:30+00:00</pubDate>
-      <source>times-of-israel</source>
-    </item>
-    <item>
-      <title>Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko</title>
-      <link>https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/</link>
-      <description>&lt;p&gt;Olympic silver medalist wins continental tournament for the second time and gets her fifth consecutive medal at the event&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/"&gt;Israel wins 3 medals in European Ju</description>
-      <pubDate>2026-04-19T18:57:12+00:00</pubDate>
-      <source>times-of-israel</source>
-    </item>
-    <item>
-      <title>Why military brass kept Trump sidelined during high-stakes Iranian extraction operation - report</title>
-      <link>https://www.jpost.com/international/article-893485</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/716861' alt='US President Donald Trump walks after speaking to the press, as he arrives at Phoenix Sky Harbor International Airport in Phoenix, Arizona, US, April 17, 2026 (photo</description>
-      <pubDate>2026-04-19T12:54:18</pubDate>
+      <title>Alshareef: Israel, Jews, should help Iranians seek liberty to ‘repay debt to Cyrus’</title>
+      <link>https://www.jpost.com/middle-east/abraham-accords/article-883448</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5464,w_8192/701967' alt='Social media influencer Loay Alshareef at The Jerusalem Post conference in Miami, Florida (photo credit: MARC ISRAEL SELLEM)' title='Social media influencer Loay Als...</description>
+      <pubDate>2026-01-14T09:57:00</pubDate>
       <source>jerusalem-post</source>
     </item>
     <item>
-      <title>‘Whether people like Israel or not’: What six words in a Trump post reveal - analysis</title>
-      <link>https://www.jpost.com/israel-news/article-893539</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/716956' alt='US President Donald Trump speaks about research into mental health treatments in the Oval Office of the White House in Washington, D.C., April 18, 2026. (photo credi</description>
-      <pubDate>2026-04-19T20:08:20</pubDate>
+      <title>Smotrich urges PM to order the IDF to ‘prepare for the full occupation’ of Gaza</title>
+      <link>https://www.timesofisrael.com/smotrich-urges-pm-to-order-the-idf-to-prepare-for-the-full-occupation-of-gaza/</link>
+      <description>&lt;p&gt;Far-right minister repeats call for rebuilding settlements in Strip; Likud minister calls reestablishment of West Bank settlement evacuated in 2005 'a moment of historical justice'&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/smotrich-urges-pm-to-order-the-idf-to-prepare-for-the-full-oc...</description>
+      <pubDate>2026-04-19T15:35:32+00:00</pubDate>
+      <source>times-of-israel</source>
+    </item>
+    <item>
+      <title>From the front lines to the future: Israeli society and the Jewish people in 2036</title>
+      <link>https://www.jpost.com/conferences/article-883574</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5464,w_8192/702126' alt='Panel - Israeli Society and the Jewish People – 2036 (photo credit: MARC ISRAEL SELLEM)' title='Panel - Israeli Society and the Jewish People – 2036 (photo credit: M...</description>
+      <pubDate>2026-01-15T23:48:03</pubDate>
       <source>jerusalem-post</source>
     </item>
     <item>
-      <title>Weather tracker: hail covers parts of Tunisia and Algeria like snow</title>
-      <link>https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow</link>
-      <description>&lt;p&gt;Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy&lt;/p&gt;&lt;p&gt;Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thu</description>
-      <pubDate>2026-04-17T07:49:38</pubDate>
-      <source>guardian-world</source>
+      <title>Trump says talks to take place Tuesday as Iran cagey on whether it will take part</title>
+      <link>https://www.timesofisrael.com/trump-says-us-iran-talks-to-take-place-tuesday-threatens-no-more-mr-nice-guy/</link>
+      <description>&lt;p&gt;US president says he's optimistic on prospects for deal, threatens to blow up bridges and power plants if Tehran doesn't agree to demands; Netanyahu says war is ‘not over yet’&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/trump-says-us-iran-talks-to-take-place-tuesday-threatens-no-more-m...</description>
+      <pubDate>2026-04-19T16:13:16+00:00</pubDate>
+      <source>times-of-israel</source>
     </item>
-  </items>
-</content-feed>
+    <item>
+      <title>US and Israel face tough choices in Iran talks over Hormuz, Lebanon, and nuclear issues - analysis</title>
+      <link>https://www.jpost.com/middle-east/iran-news/article-893542</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_194,w_290/631870' alt=' An Iranian missile system is displayed next to a banner with a picture of Iran's Supreme Leader Ayatollah Ali Khamenei, during Iranian defence week, in a street in Te...</description>
+      <pubDate>2026-04-19T20:50:12</pubDate>
+      <source>jerusalem-post</source>
+    </item>
+    <item>
+      <title>Green Party suspends anti-Israel Jewish activist for antisemitism, other Jew-hating members remain</title>
+      <link>https://www.jpost.com/diaspora/antisemitism/article-893541</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3938,w_5525/708124' alt='Signs in support of the Green Party stand outside houses in the constituency of Gorton and Denton ahead of a parliamentary by-election, in Manchester, Britain, Febru...</description>
+      <pubDate>2026-04-19T20:34:45</pubDate>
+      <source>jerusalem-post</source>
+    </item>
+    <item>
+      <title>How Milei brought Judeo-Christian civilization home to Jerusalem - comment</title>
+      <link>https://www.jpost.com/opinion/article-893535</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3392,w_5088/716920' alt='President of Argentina Javier Milei at the Western Wall in Jerusalem, Israel. April 19, 2026. (photo credit: MARC ISRAEL SELLEM)' title='President of Argentina Javie...</description>
+      <pubDate>2026-04-19T19:24:12</pubDate>
+      <source>jerusalem-post</source>
+    </item>
+    <item>
+      <title>Building New Lives in Israel - One Story at a Time</title>
+      <link>https://www.jpost.com/aliyah/article-893209</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1066,w_1600/716458' alt='New Olim coming to Israel 2026 (photo credit: NEFESH B'NEFESH)' title='New Olim coming to Israel 2026 (photo credit: NEFESH B'NEFESH)' /&gt;&lt;br /&gt;WATCH: Welcome to Aliy...</description>
+      <pubDate>2026-04-16T13:56:07</pubDate>
+      <source>jerusalem-post</source>
+    </item>
+    <item>
+      <title>IDF confirms Hezbollah attacked UNIFIL soldiers during ceasefire</title>
+      <link>https://www.jpost.com/middle-east/article-893534</link>
+      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5464,w_8192/716952' alt='United Nations Interim Force in Lebanon (UNIFIL) peacekeepers in Qasmiyeh, Lebanon April 16, 2026. (photo credit: REUTERS/Louisa Gouliamaki)' title='United Nations I...</description>
+      <pubDate>2026-04-19T19:50:36</pubDate>
+      <source>jerusalem-post</source>
+    </item>
+    <item>
+      <title>Turkey’s FM accuses Israel of using security ‘as an excuse to occupy more land’</title>
+      <link>https://www.timesofisrael.com/turkeys-fm-accuses-israel-of-using-security-as-an-excuse-to-occupy-more-land/</link>
+      <description>&lt;p&gt;Hakan Fidan lashes Netanyahu's 'fundamentalist' government, claims Israel trying to 'create a fait accompli' in Lebanon while US-Iran talks are ongoing&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/turkeys-fm-accuses-israel-of-using-security-as-an-excuse-to-occupy-more-land/"&gt;Turkey&amp;#821...</description>
+      <pubDate>2026-04-19T18:22:34+00:00</pubDate>
+      <source>times-of-israel</source>
+    </item>
+  </channel>
+</rss>
