@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # Arabic Keywords for SPZ Detection 🇸🇦
 
 ## Israeli/Iranian Conflict Terms

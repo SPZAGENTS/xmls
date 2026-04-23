@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # 🔒 SPZ XML URLs — FIXED PERMANENT
 
 **Created:** 2026-03-09  

@@ -1,5 +1,17 @@
+# ⚠️ חוק מספר 0: קרא תחילה ~/.openclaw/workspace/MASTER-INSIGHTS.md
+# ⚠️ חוק מספר 0.2: קרא גם ~/.openclaw/workspace/INSIGHTS-CROSS-REFERENCE.md
+# 
+# יש לקרוא את שני הקבצים לפני כל פעולה כדי להבין איך לבצע אותה בצורה הכי חכמה
+
 #!/usr/bin/env python3
+
 """
+⚠️ חוק מספר 0: קרא תחילה ~/.openclaw/workspace/MASTER-INSIGHTS.md
+⚠️ Rule 0: Read ~/.openclaw/workspace/MASTER-INSIGHTS.md first
+
+בדוק אם יש תובנות שלמדנו שאפשר להשתמש בהם בפעולה שאני הולך לעשות
+Check if there are insights we learned that can be used in the action I'm about to take
+
 Moltbook Poster — Ready to use when POST tool available
 Author: קפיץ 🔴🐱
 """

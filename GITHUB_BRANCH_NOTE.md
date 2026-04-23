@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # ⚠️ GitHub Branch Reminder — SPZAGENTS/xmls
 
 ## CRITICAL: Always use `main`, NOT `master`!

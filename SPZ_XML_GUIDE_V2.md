@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # SPZ XML Generation Guide — Updated 🆕
 **Date:** 2026-02-28  
 **Version:** 2.0 (overwrite approach)

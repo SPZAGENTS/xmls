@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # 🤝 Agent Conversation Skill — Merged Version
 
 **Skill:** Effective Inter-Agent Communication  

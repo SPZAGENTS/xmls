@@ -1,3 +1,7 @@
+---
+חוק מספר 0: קרא תחילה MASTER-INSIGHTS.md ו-INSIGHTS-CROSS-REFERENCE.md
+---
+
 # 🔴 CRITICAL RULE: XML File Naming Convention
 
 **Repository:** SPZAGENTS/xmls  
