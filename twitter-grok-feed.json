@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "agent": "twitter",
+    "timestamp": "2026-05-05T12:12:41.315Z",
+    "total_posts": 3,
+    "tier1_count": 0,
+    "tier2_count": 2,
+    "tier3_count": 0,
+    "video_count": 0,
+    "image_count": 1
+  },
+  "posts": [
+    {
+      "username": "@Jerusalem_Post",
+      "display_name": "The Jerusalem Post",
+      "text": "The Canadian Security Intelligence Service investigated at least seven cases of radicals preparing to commit violence motivated by the Israel-Hamas conflict, according to the CSIS annual report.\n✍️ @StarrJPost \nhttps://www.jpost.com/diaspora/antisemitism/article-895185",
+      "hebrew_translation": "שירות המודיעין הביטחוני הקנדי חקר לפחות שבעה מקרים של רדיקלים שהכינו תוכניות לביצוע אלימות המונעות על ידי הסכסוך בין ישראל לחמאס, לפי דוח שנתי של CSIS.\n✍️ @StarrJPost \nhttps://www.jpost.com/diaspora/antisemitism/article-895185",
+      "date": "2026-05-05T09:54:39Z",
+      "likes": 17,
+      "retweets": 10,
+      "replies": 3,
+      "url": "https://x.com/Jerusalem_Post/status/2051601460073316395",
+      "has_media": false,
+      "media_type": "none",
+      "media_urls": [],
+      "relevance_score": 75,
+      "category": "antisemitism",
+      "tier": "חשוב",
+      "weight": 1.5,
+      "search_method": "handles"
+    },
+    {
+      "username": "@antisemitism",
+      "display_name": "Campaign Against Antisemitism",
+      "text": "Another day in London, another suspected arson attack against a Jewish institution.\n\nCounter Terrorism Police are investigating an attempted arson attack against a former synagogue on Nelson Street in Tower Hamlets.\n\nFortunately, no injuries have been reported.\n\nEarlier this year, a Muslim organisation put down a deposit to buy the site of the former synagogue, which is no longer in operation.\n\nNumerous former and current synagogues and other Jewish sites have been targeted for arson in recent weeks – sometimes on a daily basis – as have a number of Iranian diasporic institutions.\n\nThis latest arson attack comes after two Jews were stabbed elsewhere in London last week.",
+      "hebrew_translation": "יום נוסף בלונדון, התקפה חשודה נוספת של הצתה נגד מוסד יהודי.\n\nמשטרת נגד טרור חוקרת ניסיון הצתה נגד בית כנסת לשעבר ברחוב נלסון בטאואר המפלטס.\n\nלמרבה המזל, לא דווח על נפגעים.\n\nבתחילת השנה, ארגון מוסלמי הפקיד מקדמה לרכישת אתר בית הכנסת לשעבר, שאינו פעיל יותר.\n\nמספר רב של בתי כנסת לשעבר ונוכחיים ואתרים יהודיים אחרים היו יעד להצת��ת בשבועות האחרונים – לעיתים על בסיס יומי – כמו גם מספר מוסדות דיאספורה איראנית.\n\nהתקפת ההצתה האחרונה הזו מגיעה לאחר ששני יהודים דוקרו במקום אחר בלונדון בשבוע שעבר.",
+      "date": "2026-05-05T10:16:00Z",
+      "likes": 34,
+      "retweets": 18,
+      "replies": 0,
+      "url": "https://x.com/antisemitism/status/2051606831387324600",
+      "has_media": true,
+      "media_type": "image",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HHjBlbTXwAAQPYO.jpg"
+      ],
+      "relevance_score": 95,
+      "category": "radicalism",
+      "tier": "topic",
+      "weight": 2,
+      "search_method": "topic",
+      "search_topic": "antisemitism OR \"anti-jewish\" attack synagogue"
+    },
+    {
+      "username": "@TimesofIsrael",
+      "display_name": "The Times of Israel",
+      "text": "Daily Briefing May 5 – Why Trump still doesn’t want to go back to war  https://www.timesofisrael.com/daily-briefing-may-5-why-trump-still-doesnt-want-to-go-back-to-war/",
+      "hebrew_translation": "סקירה יומית 5 במאי – למה טראמפ עדיין לא רוצה לחזור למלחמה https://www.timesofisrael.com/daily-briefing-may-5-why-trump-still-doesnt-want-to-go-back-to-war/",
+      "date": "2026-05-05T11:42:04Z",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "url": "https://x.com/TimesofIsrael/status/2051628492110893193",
+      "has_media": false,
+      "media_type": "none",
+      "media_urls": [],
+      "relevance_score": 60,
+      "category": "general",
+      "tier": "חשוב",
+      "weight": 1.5,
+      "search_method": "handles"
+    }
+  ]
+}
