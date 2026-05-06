@@ -1,88 +1,78 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Nyt World - Top 10 Articles</title>
-  <source>Nyt World</source>
-  <generated>2026-05-06T21:12:27.438993</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nyt_World - Top Stories</title>
+    <lastBuildDate>Wed, 06 May 2026 21:55:26 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats</title>
+      <title>Iran War Live Updates: Tehran Considers U.S. Proposal After Trump Threats</title>
       <link>https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil</link>
-      <summary>An Iranian official said his government was looking at an American plan to end the war, hours after President Trump threatened to resume strikes. Earlier Wednesday, another Iranian official dismissed a reported proposal as a “list of American wishes.”</summary>
-      <pubDate>Wed, 06 May 2026 18:05:05 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-trump-hkwt/06mideast-trump-hkwt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <description>An Iranian official said Tehran was looking at an American plan to end the war, after President Trump threatened to restart strikes. A U.S. warplane disabled an Iranian-flagged tanker, and Israel struck targets near Beirut.</description>
+      <pubDate>2026-05-06T18:45:58+00:00</pubDate>
+      <importance>78</importance>
     </item>
     <item>
-      <title>In Talks With Iran, China Calls for Opening of Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html</link>
-      <summary>China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway.</summary>
-      <pubDate>Wed, 06 May 2026 09:58:55 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-china-iran-jwvp/06int-china-iran-jwvp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Strikes in U.A.E., Oman and at Sea Strain Iran Truce to the Breaking Point</title>
+      <link>https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html</link>
+      <description>The drone and missile attacks were the first of their kind since the U.S.-Iranian cease-fire began last month. They coincided with reported clashes between American and Iranian vessels in the Strait of Hormuz.</description>
+      <pubDate>2026-05-04T19:43:05+00:00</pubDate>
+      <importance>69</importance>
+    </item>
+    <item>
+      <title>How the Fight Over Israel Is Playing Out Inside MAGA</title>
+      <link>https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html</link>
+      <description>The war in Iran has added to a tectonic shift in public opinion — a bipartisan swing away from Israel. Some on the far-right are fighting to keep President Trump’s movement aligned with the Jewish state.</description>
+      <pubDate>2026-05-06T17:47:12+00:00</pubDate>
+      <importance>49</importance>
     </item>
     <item>
       <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
       <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <summary>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</summary>
-      <pubDate>Wed, 06 May 2026 17:41:14 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://static01.nyt.com/images/2025/06/16/multimedia/05int-iran-economy-2/16iran-oil-print-ltkf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
-      <title>In Romania, Living With Weapons of War Spilling Into NATO Territory</title>
-      <link>https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html</link>
-      <summary>Four years of battle in Ukraine is taking a toll on neighboring Romanians. Even if the war has not crossed the border, drones have done so.</summary>
-      <pubDate>Wed, 06 May 2026 09:27:11 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/0500int-romania-drones-promo-kmjh/0500int-romania-drones-promo-kmjh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Oil Prices Fall on Hope U.S.-Iran War Turmoil in the Gulf May Be Easing</title>
+      <link>https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html</link>
+      <description>Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz</description>
+      <pubDate>2026-05-06T16:30:00+00:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Reclaiming the Name of the Black Hero Who Inspired ‘Uncle Tom’s Cabin’</title>
-      <link>https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html</link>
-      <summary>After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many.</summary>
-      <pubDate>Wed, 06 May 2026 09:00:27 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/04/28/multimedia/00int-canada-uncletom-dispatch-promo/00int-canada-uncletom-dispatch-lbhv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>What We Know About ‘Project Freedom’ in the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/05/05/world/middleeast/trump-strait-hormuz-plan-project-freedom-iran.html</link>
+      <description>President Trump on Tuesday abruptly paused an American initiative to help guide stranded ships through the Strait of Hormuz.</description>
+      <pubDate>2026-05-06T10:51:33+00:00</pubDate>
+      <importance>39</importance>
     </item>
     <item>
-      <title>A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters</title>
-      <link>https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html</link>
-      <summary>The J.W. Marriott in Venezuela’s capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.</summary>
-      <pubDate>Wed, 06 May 2026 17:37:58 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-venezuela-hotel-dispatch-02-mjqw/06int-venezuela-hotel-dispatch-02-mjqw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Macron Calls for U.S. and Iran to Open Strait of Hormuz While They Negotiate</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html</link>
+      <description>Emmanuel Macron, the French president, hopes the Strait of Hormuz can reopen even before the U.S.-Iran war formally ends. His plan has many pitfalls.</description>
+      <pubDate>2026-05-06T17:24:05+00:00</pubDate>
+      <importance>38</importance>
     </item>
     <item>
-      <title>Japan’s Takaichi Pitches Strength and Stability in Visits to Australia and Vietnam</title>
-      <link>https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html</link>
-      <summary>Prime Minister Sanae Takaichi is attempting to raise Japan’s profile at a time when China’s clout is rising and doubts about the United States are spreading.</summary>
-      <pubDate>Wed, 06 May 2026 13:10:21 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-japan-diplo-01-wlbz/06int-japan-diplo-01-wlbz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Iran announces a new system for traffic in the Strait of Hormuz.</title>
+      <link>https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/iran-announces-a-new-system-for-traffic-in-the-strait-of-hormuz</link>
+      <description></description>
+      <pubDate>2026-05-06T14:30:26+00:00</pubDate>
+      <importance>34</importance>
     </item>
     <item>
-      <title>3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak</title>
-      <link>https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html</link>
-      <summary>Three people with possible symptoms of the disease were evacuated on Wednesday morning from the Dutch-flagged MV Hondius.</summary>
-      <pubDate>Wed, 06 May 2026 17:54:32 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-cruise-virus-01-zghb/06int-cruise-virus-01-zghb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html</link>
+      <description>The White House is turning to rhetorical leaps as President Trump tries to put the biggest political crisis of his presidency behind him.</description>
+      <pubDate>2026-05-06T01:21:47+00:00</pubDate>
+      <importance>49</importance>
     </item>
     <item>
-      <title>World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes</title>
-      <link>https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html</link>
-      <summary>Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes.</summary>
-      <pubDate>Wed, 06 May 2026 16:07:42 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-worldcup-tickets-mgvh/06int-worldcup-tickets-mgvh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>The Growing Rift Between the UAE and Saudi Arabia, Explained</title>
+      <link>https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html</link>
+      <description>Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.</description>
+      <pubDate>2026-05-05T16:38:24+00:00</pubDate>
+      <importance>64</importance>
     </item>
-    <item>
-      <title>Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.</title>
-      <link>https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html</link>
-      <summary>A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.</summary>
-      <pubDate>Wed, 06 May 2026 15:02:05 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-pope-america-01-tqck/06int-pope-america-01-tqck-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>

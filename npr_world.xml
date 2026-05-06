@@ -1,88 +1,50 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Npr World - Top 10 Articles</title>
-  <source>Npr World</source>
-  <generated>2026-05-06T21:12:46.679309</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Npr_World - Top Stories</title>
+    <lastBuildDate>Wed, 06 May 2026 21:55:26 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran is reviewing a U.S. proposal as Trump threatens renewed bombing if it doesn't agree</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates</link>
-      <summary>Iran's Foreign Ministry spokesman said negotiators are assessing the Trump administration's latest proposal and will relate a response to mediating country Pakistan.</summary>
-      <pubDate>Wed, 06 May 2026 08:33:09 -0400</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fb8%2F43f605214edba74f55ddb3226527%2Fap26124419258830.jpg" type="image/jpeg" length="0" />
+      <title>Trump Suspends Military Escorts in Hormuz 1 Day Into Operation</title>
+      <link>https://www.today.com/video/trump-suspends-military-escorts-in-hormuz-1-day-into-operation-262828613982</link>
+      <description>President Donald Trump says “Project Freedom,” his newly minted military operation to escort commercial ships through the Strait of Hormuz and break an Iranian blockade, is suspended one day after it began. Trump said the pause will help diplomatic talks to end the war brokered by Pakistan. NBC’s Richard Engel reports for TODAY.</description>
+      <pubDate>2026-05-06T11:25:43</pubDate>
+      <importance>67</importance>
     </item>
     <item>
-      <title>Poll: Trump blamed for gas prices as Democrats gain midterm edge</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5810555/trump-iran-gas-prices-midterms-polling</link>
-      <summary>A new NPR/PBS News/Marist poll finds strong support for Democrats this midterm season. It also shows increasing concern about the war in Iran and the economy, particularly the price of gas.</summary>
-      <pubDate>Wed, 06 May 2026 05:01:00 -0400</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+78/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F5e%2F14f50c55443bb544477cdd3b3e72%2Fgettyimages-2272438239.jpg" type="image/jpeg" length="0" />
+      <title>The Iran war sent jet fuel prices sky-high. Here's what air travelers should know</title>
+      <link>https://www.npr.org/2026/05/05/nx-s1-5811918/iran-war-jet-fuel-baggage-fees-travel-tips</link>
+      <description>Fuel is airlines' second-largest expense, and getting even costlier due to the U.S. war with Iran. Airlines are looking for ways to cope, starting by hiking checked baggage fees for most fliers.</description>
+      <pubDate>2026-05-05T14:33:19-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Do you say 'wash' or 'warsh?' Here's where the pronunciation comes from</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5805005/kevin-wash-warsh-linguistics</link>
-      <summary>Trump's nominee for the Federal Reserve chair, Kevin Warsh, has dominated headlines for weeks. For some, his surname is a reminder of a disappearing accent in South Midland America.</summary>
-      <pubDate>Wed, 06 May 2026 05:00:00 -0400</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3352x1885+0+350/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fe5%2F0106034641e89bba6fe553b7132d%2Fgettyimages-3359583.jpg" type="image/jpeg" length="0" />
+      <title>Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'</title>
+      <link>https://www.npr.org/2026/05/06/g-s1-120384/up-first-newsletter-economy-democrats-poll-advantage-indiana-primary-project-freedom-paused</link>
+      <description>Democrats outpace Republicans in voter enthusiasm for the midterm elections, according to NPR's latest poll. And Trump says &quot;Project Freedom&quot; is paused because of progress toward an Iran agreement.</description>
+      <pubDate>2026-05-06T07:32:52-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>Watch boys go from frightened to feral in an unforgettable 'Lord of the Flies'</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5813506/lord-of-the-flies-review</link>
-      <summary>A TV adaptation of William Golding's 1954 novel follows schoolboys who survive a plane crash and must fend for themselves on a deserted island. It was co-written by Adolescence creator Jack Thorne.</summary>
-      <pubDate>Wed, 06 May 2026 12:01:34 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7526x4231+0+75/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F74%2F80f6a9e944fb9dbad9f84160511d%2Flordofthefliesuk-eps103-15624319.jpg" type="image/jpeg" length="0" />
+      <title>Skeletons in their clothing: Recovering bodies from the rubble in Gaza</title>
+      <link>https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies</link>
+      <description>It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.</description>
+      <pubDate>2026-05-06T05:00:00-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>Greetings from a sea village in Indonesia, where Indigenous fishing gets help from mangroves</title>
-      <link>https://www.npr.org/2026/05/06/g-s1-119852/indonesia-mangrove-conservation-fishing-sulawesi-bajau</link>
-      <summary>As a water taxi rounded a corner at sunset, the village of Torosiaje came into view, with its colorful stilted houses perched over the Molucca Sea.</summary>
-      <pubDate>Wed, 06 May 2026 10:38:43 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F46%2Fa3117bae4d0cbfd5a0fa343e489b%2Ffarflungpostcard-kb.jpg" type="image/jpeg" length="0" />
+      <title>Police say Australian women with alleged IS ties face charges on return from Syria</title>
+      <link>https://www.npr.org/2026/05/06/g-s1-120373/australian-women-return-syria</link>
+      <description>The Australian government had been alerted Wednesday that four women and nine children had booked flights from Damascus to Australia, Home Affairs Minister Tony Burke said.</description>
+      <pubDate>2026-05-06T02:07:37-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>'A trailblazer, a rabble-rouser, a do-gooder': CNN founder Ted Turner dies at 87</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn</link>
-      <summary>Turner had a larger-than-life personality, and used it to launch the country's first 24/7 all-news network.</summary>
-      <pubDate>Wed, 06 May 2026 10:23:25 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F31%2F6a48faf245d8bca480ac95b14308%2Fted-turner-launches-cnn.jpg" type="image/jpeg" length="0" />
+      <title>U.S. says it's made Hormuz safe for commercial shipping, but standoff hasn't changed</title>
+      <link>https://www.npr.org/2026/05/05/nx-s1-5812487/u-s-says-its-made-hormuz-safe-for-commercial-shipping-but-standoff-hasnt-changed</link>
+      <description>The administration has announced a new military strategy designed to open up the Strait of Hormuz to commercial shipping, but it's unclear if this will break Iran's grip on the key waterway.</description>
+      <pubDate>2026-05-05T16:44:09-04:00</pubDate>
+      <importance>32</importance>
     </item>
-    <item>
-      <title>New book imagines Hans Christian Andersen showing up to Charles Dickens' house</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5810099/five-weeks-in-the-country-francine-prose-review</link>
-      <summary>In Five Weeks in the Country, author Francine Prose imagines a distressing, ill-timed visit to Charles Dickens' home in 1857 — offering a memorable twist on the classic English country house drama.</summary>
-      <pubDate>Wed, 06 May 2026 07:33:48 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/993x559+0+897/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2Ff1%2F635a2f13437298778149221e9912%2Fprose.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A new Medicare option for weight loss drugs is coming: Here's what to know</title>
-      <link>https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay</link>
-      <summary>Millions of people with Medicare will soon be eligible to get discounted GLP-1 drugs for weight loss. Here's how it will work.</summary>
-      <pubDate>Wed, 06 May 2026 06:00:00 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+107/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F8f%2F521a6f824e9f9b68c0f4261ba8a9%2Fgettyimages-2260914888.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Have you lost or are worried about losing SNAP benefits? NPR wants to hear your story</title>
-      <link>https://www.npr.org/2026/05/06/g-s1-120386/snap-benefits-eligibility-changes</link>
-      <summary>NPR wants to hear from people impacted by changes to the Supplemental Nutrition Assistance Program.</summary>
-      <pubDate>Wed, 06 May 2026 09:26:03 -0400</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+268/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F18%2F5482401a4ce7b2cf54bc0c656234%2Fgettyimages-2230334598.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Lindsey Vonn's Olympic crash was a horrific setback. But she's never been one to hide</title>
-      <link>https://www.npr.org/2026/05/06/g-s1-120257/lindsey-vonn-winter-olympics-crash-recovery-cortina</link>
-      <summary>Vonn defied her doubters to race in the Olympics on a torn ACL, but her comeback dream ended with a broken left leg. Most people would want to hide after such a setback — but Vonn isn't most people.</summary>
-      <pubDate>Wed, 06 May 2026 05:00:00 -0400</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fe8%2F87f6e4104b1399469ab5285ebdaf%2Fap26124823401900.jpg" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>
