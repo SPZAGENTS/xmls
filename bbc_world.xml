@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 06 May 2026 21:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:03:42 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Thirteen killed in Israeli strikes on southern Lebanon, health ministry says</title>
@@ -24,6 +24,13 @@
       <description>Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.</description>
       <pubDate>2026-05-05T04:34:15</pubDate>
       <importance>49</importance>
+    </item>
+    <item>
+      <title>Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war</title>
+      <link>https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss</link>
+      <description> The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. </description>
+      <pubDate>2026-05-05T11:38:03</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>Israeli attacks kill dozens within days in Lebanon despite ceasefire</title>
@@ -65,13 +72,6 @@
       <link>https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss</link>
       <description>&quot;Project Freedom&quot;, which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.</description>
       <pubDate>2026-05-06T02:18:45</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>Israel releases all but two activists in Greece after intercepting Gaza aid flotilla</title>
-      <link>https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss</link>
-      <description>The Global Sumud Flotilla denounced the interception as &quot;piracy&quot;, while Israel's foreign ministry called the flotilla a &quot;PR stunt&quot;.</description>
-      <pubDate>2026-05-01T10:12:57</pubDate>
       <importance>39</importance>
     </item>
   </channel>
