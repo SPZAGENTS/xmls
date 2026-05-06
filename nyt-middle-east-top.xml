@@ -2,14 +2,21 @@
 <rss version="2.0">
   <channel>
     <title>Nyt-Middle-East - Top Stories</title>
-    <lastBuildDate>Wed, 06 May 2026 00:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:36:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>The Cheap Guided Rockets U.S. Forces Use Against Iranian Drones</title>
-      <link>https://www.nytimes.com/2026/05/05/us/politics/rockets-iran-drones.html</link>
-      <description>Called the Advanced Precision Kill Weapon System, it adds laser guidance to a weapon first used in the Korean War.</description>
-      <pubDate>2026-05-05T17:35:18+00:00</pubDate>
-      <importance>39</importance>
+      <title>Oil Tanker Hijacking Stokes Fear of Links Between Houthi Rebels and Somali Pirates</title>
+      <link>https://www.nytimes.com/2026/05/02/world/middleeast/hijacking-tanker-houthis-somalia-pirates.html</link>
+      <description>The location and timing of the attack fueled concerns about collaboration between Somali pirates and the Iran-backed Houthi rebels in Yemen under the cover of Mideast turmoil.</description>
+      <pubDate>2026-05-03T22:34:46+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners</title>
+      <link>https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html</link>
+      <description>The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review.</description>
+      <pubDate>2026-05-02T16:18:33+00:00</pubDate>
+      <importance>49</importance>
     </item>
   </channel>
 </rss>
