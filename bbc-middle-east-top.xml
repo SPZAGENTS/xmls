@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc-Middle-East - Top Stories</title>
-    <lastBuildDate>Wed, 06 May 2026 17:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:37:12 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Thirteen killed in Israeli strikes on southern Lebanon, health ministry says</title>
@@ -16,6 +16,27 @@
       <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss</link>
       <description>Ordinary Iranians tell of worry about increased repression by authorities after the war is over.</description>
       <pubDate>2026-05-03T23:19:57</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
+      <title>Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war</title>
+      <link>https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss</link>
+      <description> The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. </description>
+      <pubDate>2026-05-05T11:38:03</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>US strikes Iranian fast boats as Iran attacks UAE oil facility</title>
+      <link>https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss</link>
+      <description>Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.</description>
+      <pubDate>2026-05-05T04:34:15</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>Israeli attacks kill dozens within days in Lebanon despite ceasefire</title>
+      <link>https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss</link>
+      <description>The health ministry says 110 people have been killed in Israeli strikes on southern Lebanon since Thursday.</description>
+      <pubDate>2026-05-04T17:18:05</pubDate>
       <importance>44</importance>
     </item>
     <item>
@@ -33,11 +54,25 @@
       <importance>44</importance>
     </item>
     <item>
+      <title>Trump says US to pause operation to guide vessels through Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss</link>
+      <description>&quot;Project Freedom&quot;, which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.</description>
+      <pubDate>2026-05-06T02:18:45</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
       <title>Israel releases all but two activists in Greece after intercepting Gaza aid flotilla</title>
       <link>https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss</link>
       <description>The Global Sumud Flotilla denounced the interception as &quot;piracy&quot;, while Israel's foreign ministry called the flotilla a &quot;PR stunt&quot;.</description>
       <pubDate>2026-05-01T10:12:57</pubDate>
       <importance>39</importance>
+    </item>
+    <item>
+      <title>Trump pauses Hormuz plan 50 hours after he announced it - what happened?</title>
+      <link>https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss</link>
+      <description>The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.</description>
+      <pubDate>2026-05-06T13:39:09</pubDate>
+      <importance>34</importance>
     </item>
   </channel>
 </rss>
