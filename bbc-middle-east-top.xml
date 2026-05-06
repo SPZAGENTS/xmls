@@ -1,43 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Bbc-Middle-East - Top Stories</title>
-    <lastBuildDate>Wed, 06 May 2026 16:46:52 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+    <title>SPZ Top Feed</title>
     <item>
-      <title>Thirteen killed in Israeli strikes on southern Lebanon, health ministry says</title>
-      <link>https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss</link>
-      <description>Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.</description>
-      <pubDate>2026-05-02T16:51:18</pubDate>
-      <importance>64</importance>
+      <title>Iran fires 'warning shots' as US Navy says its ships entered Gulf via Hormuz</title>
+      <link>https://www.france24.com/en/iran-fires-warning-shots-as-us-navy-says-its-ships-entered-gulf-via-hormuz</link>
+      <description>
+The ceasefire in the Iran war abruptly faced its most perilous moment Monday after the United States began trying to open the Strait of Hormuz to allow hundreds of stranded commercial ships sail out. The United Arab Emirates said it came under attack for the first time since the early April ceasefi...</description>
+      <pubDate>2026-05-04T18:18:37</pubDate>
+      <source>france24-middle-east</source>
     </item>
     <item>
-      <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
-      <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss</link>
-      <description>Ordinary Iranians tell of worry about increased repression by authorities after the war is over.</description>
-      <pubDate>2026-05-03T23:19:57</pubDate>
-      <importance>44</importance>
+      <title>Strikes in U.A.E., Oman and at Sea Strain Iran Truce to the Breaking Point</title>
+      <link>https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html</link>
+      <description>The drone and missile attacks were the first of their kind since the U.S.-Iranian cease-fire began last month. They coincided with reported clashes between American and Iranian vessels in the Strait of Hormuz....</description>
+      <pubDate>2026-05-04T19:43:05+00:00</pubDate>
+      <source>nyt-middle-east</source>
     </item>
     <item>
-      <title>Israeli police arrest man after nun attacked in Jerusalem</title>
-      <link>https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss</link>
-      <description>The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.</description>
-      <pubDate>2026-05-01T17:03:11</pubDate>
-      <importance>44</importance>
+      <title>IDF claims to have taken out Hamas commander who participated in Oct 7</title>
+      <link>https://www.foxnews.com/world/idf-claims-taken-hamas-commander-participated-oct-7</link>
+      <description>The IDF announced it killed Hamas Nukhba Commander Anas Hamed in a targeted Gaza airstrike, saying he raided Israel during the Oct. 7 Nova massacre....</description>
+      <pubDate>2026-05-05T09:37:26-04:00</pubDate>
+      <source>fox-news-world</source>
     </item>
     <item>
-      <title>Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say</title>
-      <link>https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss</link>
-      <description>They are among nine people killed in successive attacks on Tuesday, which Israel's military says targeted a Hezbollah commander.</description>
-      <pubDate>2026-04-29T15:30:50</pubDate>
-      <importance>44</importance>
+      <title>Middle East war live: Trump says it is ‘too soon’ for face-to-face talks with Iran</title>
+      <link>https://www.france24.com/en/middle-east/20260506-middle-east-war-live-trump-pauses-us-strait-of-hormuz-escort-operation</link>
+      <description>
+US President Donald Trump on Wednesday said it is “too soon” for any direct talks with Iran, the New York Post reported. Washington is currently awaiting a response from Tehran to its latest proposal to end the war. Trump has said that if Iran does not accept it, “the bombing starts”, and it will b...</description>
+      <pubDate>2026-05-06T00:06:37</pubDate>
+      <source>france24-middle-east</source>
     </item>
     <item>
-      <title>Israel releases all but two activists in Greece after intercepting Gaza aid flotilla</title>
-      <link>https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss</link>
-      <description>The Global Sumud Flotilla denounced the interception as &quot;piracy&quot;, while Israel's foreign ministry called the flotilla a &quot;PR stunt&quot;.</description>
-      <pubDate>2026-05-01T10:12:57</pubDate>
-      <importance>39</importance>
+      <title>US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz</title>
+      <link>https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz</link>
+      <description>
+US forces opened a passage through the Strait of Hormuz on Monday after sinking Iranian boats and escorting merchant ships, as fresh attacks struck vessels and facilities in the United Arab Emirates. The escalation has raised fears over global energy supplies and risks derailing a fragile regional ...</description>
+      <pubDate>2026-05-04T23:43:01</pubDate>
+      <source>france24-middle-east</source>
+    </item>
+    <item>
+      <title>Pentagon says Iranian aggression remains 'below threshold' for renewed war</title>
+      <link>https://www.israelhayom.com/2026/05/05/pentagon-iran-aggression-ceasefire-threshold/</link>
+      <description>&lt;p&gt;The Pentagon has assessed that recent Iranian provocations, including maritime strikes and attacks on US forces, remain below the threshold for restarting major combat operations. Defense Secretary Pete Hegseth stated that the April 7 ceasefire is holding, even as the US military launches "Projec...</description>
+      <pubDate>2026-05-05T13:36:01+00:00</pubDate>
+      <source>israel-hayom</source>
+    </item>
+    <item>
+      <title>Amid ceasefire: Iran strikes UAE for second straight day</title>
+      <link>https://www.israelhayom.com/2026/05/05/ran-missiles-drones-uae-gulf-ceasefire/</link>
+      <description>&lt;p&gt;Iran launched missiles and drones at the UAE on Tuesday, prompting air defenses to activate, a day after a separate Iranian strike damaged an energy facility near Fujairah and wounded three foreign workers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://www.israelhayom.com/2026/05/05/ran-missile...</description>
+      <pubDate>2026-05-05T13:00:02+00:00</pubDate>
+      <source>israel-hayom</source>
+    </item>
+    <item>
+      <title>With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank</title>
+      <link>https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html</link>
+      <description>Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene....</description>
+      <pubDate>2026-05-04T09:08:33+00:00</pubDate>
+      <source>nyt-middle-east</source>
+    </item>
+    <item>
+      <title>Rubio says US military completed offensive operations in Iran</title>
+      <link>https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran</link>
+      <description>
+The United States said on Tuesday that it had ended offensive operations against Iran. But Washington warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.
+...</description>
+      <pubDate>2026-05-05T22:39:05</pubDate>
+      <source>france24-middle-east</source>
+    </item>
+    <item>
+      <title>Opaque nature of US-Iran shadow war: Are they 'dancing their way out of a minefield' towards a deal?</title>
+      <link>https://www.france24.com/en/tv-shows/spotlight/20260504-opaque-nature-of-us-iran-shadow-war-are-they-dancing-their-way-out-of-a-minefield-toward-a-deal</link>
+      <description>
+François Picard welcomes Peter Apps, a global defence commentator who writes a bi-weekly column for Reuters on national security, conflict, international affairs and technology. Rather than casting the current state of US-Iran tensions as a binary shift between war and peace, Apps outlines a more f...</description>
+      <pubDate>2026-05-04T20:49:56</pubDate>
+      <source>france24-middle-east</source>
     </item>
   </channel>
 </rss>
