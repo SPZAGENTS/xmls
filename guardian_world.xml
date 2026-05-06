@@ -1,81 +1,78 @@
-<content-feed>
-  <title>Guardian World - Top 10 Articles</title>
-  <source>Guardian World</source>
-  <generated>2026-04-19T23:01:49.349062</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Guardian_World - Top Stories</title>
+    <lastBuildDate>Wed, 06 May 2026 18:09:14 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row</title>
-      <link>https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue. </description>
-      <pubDate>2026-04-18T21:27:56</pubDate>
-      <source>bbc-world</source>
+      <title>Middle East crisis live: US proposal to end war a ‘wishlist, not a reality’, warns Iranian official</title>
+      <link>https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis</link>
+      <description>&lt;p&gt;Statements casting doubt that agreement is close follow Trump’s threats to escalate bombing if Iran doesn’t agree deal and IRGC suggestions the strait of Hormuz could reopen&lt;/p&gt;&lt;p&gt;The UK work and pensions secretary, &lt;strong&gt;Pat McFadden,&lt;/strong&gt; has warned that &lt;strong&gt;job losses “could happen” in Britain due to the economic impacts of the Iran war.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;He said the UK economy was “going in the right direction” at the start of the year and unemployment figures for February showed a</description>
+      <pubDate>2026-05-06T14:21:40</pubDate>
+      <importance>87</importance>
     </item>
     <item>
-      <title>Ben Roberts-Smith denies war crimes allegations – As it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb</link>
-      <description>&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Get our &lt;/strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;&lt;strong&gt;breaking news email&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href="https://app.adjust.com/w4u7jx3"&gt;&lt;strong&gt;free app&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; or &lt;/strong&gt;&lt;a href="https:</description>
-      <pubDate>2026-04-19T04:39:52</pubDate>
-      <source>guardian-world</source>
+      <title>Pope Leo rejects claim he supports nuclear weapons after Trump tirade</title>
+      <link>https://www.theguardian.com/world/2026/may/06/pope-leo-rejects-claim-he-supports-nuclear-weapons-trump-tirade-iran-war</link>
+      <description>&lt;p&gt;Pontiff responds after US president accuses him of ‘endangering a lot of Catholics’ with stance on Iran war&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://viewer.gutools.co.uk/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis&quot;&gt;Middle East crisis – live updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/world/2026/may/06/american-born-pope-leo-thoughts&quot;&gt;People in the US: what do you think of Chicago-born Pope Leo?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Pope Leo has said he </description>
+      <pubDate>2026-05-06T12:58:10</pubDate>
+      <importance>67</importance>
     </item>
     <item>
-      <title>Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded</title>
-      <link>https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.</description>
-      <pubDate>2026-04-18T23:05:30</pubDate>
-      <source>bbc-world</source>
+      <title>British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship</title>
+      <link>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</link>
+      <description>&lt;p&gt;WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship&quot;&gt;What is hantavirus, the infection thought to have killed three on cruise ship?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A British crew member was in need of urgent medical care and a passenger from the UK remained in a critical but stable condition following</description>
+      <pubDate>2026-05-05T01:52:50</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Why do we pray? - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/why-do-we-pray/</link>
-      <description>&lt;p&gt;What does prayer do? Is it about God, or about other people? What happens when prayer becomes entangled with politics, identity, and belonging?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/why-do-we-pray/"&gt;Why do we pray?&lt;/a&gt; appeared first on &lt;a href="https://www.timesofisrae</description>
-      <pubDate>2026-04-19T16:14:14+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>How to survive the information crisis: ‘We once talked about fake news – now reality itself feels fake’</title>
+      <link>https://www.theguardian.com/media/ng-interactive/2026/may/06/how-to-survive-the-information-crisis-we-once-talked-about-fake-news-now-reality-itself-feels-fake</link>
+      <description>&lt;p&gt;In this age of crisis, technology is pulling us apart. At its best, journalism can bring us together again, writes Guardian editor-in-chief Katharine Viner&lt;/p&gt;&lt;p&gt;I have a confession to make. It has taken me years to write this article.&lt;/p&gt;&lt;p&gt;For a long time, I have felt that something was missing in the public conversation about human connection and community and how they are being eroded. And yet I haven’t been able to articulate it. Thinking and writing have become harder. It’s as if the ne</description>
+      <pubDate>2026-05-06T04:00:01</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Israel’s 10 Days of Awe: From Yom HaShoah to Yom HaAtzmaut - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/</link>
-      <description>&lt;p&gt;How do we observe national days of mourning when the nightmares of the past feel like the realities of the present?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/"&gt;Israel&amp;#8217;s 10 Days of Awe: From Yom HaShoah to Yom Ha</description>
-      <pubDate>2026-04-19T16:18:32+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Charges flagged as women and children from IS-linked families set to fly from Syria to Australia</title>
+      <link>https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb</link>
+      <description>&lt;p&gt;Home affairs minister Tony Burke says government continues to refuse to help the group of 13&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb&quot;&gt;Follow our Australia news live blog for latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=&quot;https://www.theguardian.com/email-newsletters?CMP=cvau_sfl&quot;&gt;breaking news e</description>
+      <pubDate>2026-05-06T06:14:11</pubDate>
+      <importance>57</importance>
     </item>
     <item>
-      <title>Culture Minister Miki Zohar questioned by police in Histadrut corruption probe</title>
-      <link>https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-probe/</link>
-      <description>&lt;p&gt;Zohar is the latest member of prime minister's Likud party to be interrogated as police trace alleged bribery network linking labor union, municipalities and government&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-</description>
-      <pubDate>2026-04-19T18:22:30+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Met sets up specialist unit as antisemitic hate crimes in London hit two-year high</title>
+      <link>https://www.theguardian.com/news/2026/may/06/met-police-specialist-unit-antisemitic-hate-crime-london-high</link>
+      <description>&lt;p&gt;Team of 100 extra officers is aimed at providing ‘more consistent model of protection’ for Jewish communities&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates&quot;&gt;Politics live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The number of antisemitic hate crimes recorded in April in London was the highest in two years, data shows, as the Metropolitan police commit to</description>
+      <pubDate>2026-05-06T11:47:20</pubDate>
+      <importance>57</importance>
     </item>
     <item>
-      <title>Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko</title>
-      <link>https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/</link>
-      <description>&lt;p&gt;Olympic silver medalist wins continental tournament for the second time and gets her fifth consecutive medal at the event&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/"&gt;Israel wins 3 medals in European Ju</description>
-      <pubDate>2026-04-19T18:57:12+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage</title>
+      <link>https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz</link>
+      <description>&lt;p&gt;Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa&lt;/p&gt;&lt;p&gt;A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of &lt;a href=&quot;https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees&quot;&gt;saving the summer holiday&lt;/a&gt; amid a jet fuel shortage.&lt;/p&gt;&lt;p&gt;Heidi Alexander, the transport secretary, said at the we</description>
+      <pubDate>2026-05-04T15:58:29</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Why military brass kept Trump sidelined during high-stakes Iranian extraction operation - report</title>
-      <link>https://www.jpost.com/international/article-893485</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/716861' alt='US President Donald Trump walks after speaking to the press, as he arrives at Phoenix Sky Harbor International Airport in Phoenix, Arizona, US, April 17, 2026 (photo</description>
-      <pubDate>2026-04-19T12:54:18</pubDate>
-      <source>jerusalem-post</source>
+      <title>Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne</title>
+      <link>https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb</link>
+      <description>&lt;p&gt;Four women and nine children expected to return to Australia on Thursday with all apart from a mother and her child expected to go to Victoria&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=&quot;https://www.theguardian.com/email-newsletters?CMP=cvau_sfl&quot;&gt;breaking news email&lt;/a&gt;, &lt;a href=&quot;https://app.adjust.com/w4u7jx3&quot;&gt;free app&lt;/a&gt; or &lt;a href=&quot;https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl&quot;&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Authorities in two Australian states are preparing to rese</description>
+      <pubDate>2026-05-06T09:07:01</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>‘Whether people like Israel or not’: What six words in a Trump post reveal - analysis</title>
-      <link>https://www.jpost.com/israel-news/article-893539</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/716956' alt='US President Donald Trump speaks about research into mental health treatments in the Oval Office of the White House in Washington, D.C., April 18, 2026. (photo credi</description>
-      <pubDate>2026-04-19T20:08:20</pubDate>
-      <source>jerusalem-post</source>
+      <title>Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead</title>
+      <link>https://www.theguardian.com/australia-news/2026/may/06/wagga-homeless-camp-baby-found-dead-sanitation-ntwnfb</link>
+      <description>&lt;p&gt;Tent where twins were born up to a 15-minute walk away from nearest public toilets or running water&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb&quot;&gt;Follow our Australia news live blog for latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=&quot;https://www.theguardian.com/email-newsletters?CMP=cvau_sfl&quot;&gt;breaking</description>
+      <pubDate>2026-05-06T05:11:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Weather tracker: hail covers parts of Tunisia and Algeria like snow</title>
-      <link>https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow</link>
-      <description>&lt;p&gt;Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy&lt;/p&gt;&lt;p&gt;Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thu</description>
-      <pubDate>2026-04-17T07:49:38</pubDate>
-      <source>guardian-world</source>
+      <title>‘Heat, floods and droughts make men more violent to women’: Natasha Walter on eco-feminism in a world on fire</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/may/06/heat-floods-droughts-men-more-violent-to-women-natasha-walter-eco-feminism-world</link>
+      <description>&lt;p&gt;The author has become acutely aware of how the climate crisis is affecting women – and, in her new book, she argues that it’s time for mainstream western feminists to join the dots&lt;/p&gt;&lt;p&gt;Natasha Walter is halfway through explaining how she came to be politically radicalised when a young woman approaches the cafe table. We two middle-aged women look like “the most trustworthy people here,” she says, so could we watch her baby while she grabs a coffee? Like the solid citizen she is, Walter does</description>
+      <pubDate>2026-05-06T11:00:07</pubDate>
+      <importance>37</importance>
     </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>

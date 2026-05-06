@@ -1,81 +1,71 @@
-<content-feed>
-  <title>Fox News World - Top 10 Articles</title>
-  <source>Fox News World</source>
-  <generated>2026-04-18T05:01:10.670606</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fox_News_World - Top Stories</title>
+    <lastBuildDate>Wed, 06 May 2026 18:09:14 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row</title>
-      <link>https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue. </description>
-      <pubDate>2026-04-18T21:27:56</pubDate>
-      <source>bbc-world</source>
+      <title>IDF claims to have taken out Hamas commander who participated in Oct 7</title>
+      <link>https://www.foxnews.com/world/idf-claims-taken-hamas-commander-participated-oct-7</link>
+      <description>The IDF announced it killed Hamas Nukhba Commander Anas Hamed in a targeted Gaza airstrike, saying he raided Israel during the Oct. 7 Nova massacre.</description>
+      <pubDate>2026-05-05T09:37:26-04:00</pubDate>
+      <importance>67</importance>
     </item>
     <item>
-      <title>Ben Roberts-Smith denies war crimes allegations – As it happened</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb</link>
-      <description>&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Get our &lt;/strong&gt;&lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;&lt;strong&gt;breaking news email&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;, &lt;/strong&gt;&lt;a href="https://app.adjust.com/w4u7jx3"&gt;&lt;strong&gt;free app&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; or &lt;/strong&gt;&lt;a href="https:</description>
-      <pubDate>2026-04-19T04:39:52</pubDate>
-      <source>guardian-world</source>
+      <title>SIM swap scam drained Florida woman's bank account in minutes</title>
+      <link>https://www.foxnews.com/tech/sim-swap-scam-drained-florida-womans-bank-account-minutes</link>
+      <description>SIM swap scams let hackers steal your phone number and drain accounts in minutes. Learn how one woman was targeted and how to protect yourself.</description>
+      <pubDate>2026-05-06T08:43:57-04:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded</title>
-      <link>https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.</description>
-      <pubDate>2026-04-18T23:05:30</pubDate>
-      <source>bbc-world</source>
+      <title>US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats</title>
+      <link>https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats</link>
+      <description>The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.</description>
+      <pubDate>2026-05-05T14:32:18-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>Why do we pray? - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/why-do-we-pray/</link>
-      <description>&lt;p&gt;What does prayer do? Is it about God, or about other people? What happens when prayer becomes entangled with politics, identity, and belonging?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/why-do-we-pray/"&gt;Why do we pray?&lt;/a&gt; appeared first on &lt;a href="https://www.timesofisrae</description>
-      <pubDate>2026-04-19T16:14:14+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Brief alcohol ban in Damascus sparks concerns about President al-Sharaa's vision for Syria</title>
+      <link>https://www.foxnews.com/world/brief-alcohol-ban-damascus-sparks-concerns-about-president-al-sharaas-vision-syria</link>
+      <description>Critics warn new restrictions could signal a shift toward more bans under President Ahmed al-Sharaa given his previous ties to jihadist terror groups.</description>
+      <pubDate>2026-05-04T14:23:02-04:00</pubDate>
+      <importance>57</importance>
     </item>
     <item>
-      <title>Israel’s 10 Days of Awe: From Yom HaShoah to Yom HaAtzmaut - Sponsored Content</title>
-      <link>https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/</link>
-      <description>&lt;p&gt;How do we observe national days of mourning when the nightmares of the past feel like the realities of the present?&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/spotlight/israels-10-days-of-awe-from-yom-hashoah-to-yom-haatzmaut/"&gt;Israel&amp;#8217;s 10 Days of Awe: From Yom HaShoah to Yom Ha</description>
-      <pubDate>2026-04-19T16:18:32+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>German officials warn Islamist, far-left rhetoric driving spike in antisemitic attacks</title>
+      <link>https://www.foxnews.com/world/german-officials-warn-islamist-far-left-rhetoric-driving-spike-antisemitic-attacks</link>
+      <description>Germany faces a &amp;quot;new normal&amp;quot; of antisemitism driven by Islamist and left-wing extremist networks, according to a nationwide report by the Central Council of Jews in Germany.</description>
+      <pubDate>2026-05-05T12:37:08-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>Culture Minister Miki Zohar questioned by police in Histadrut corruption probe</title>
-      <link>https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-probe/</link>
-      <description>&lt;p&gt;Zohar is the latest member of prime minister's Likud party to be interrogated as police trace alleged bribery network linking labor union, municipalities and government&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/culture-minister-miki-zohar-questioned-by-police-in-histadrut-corruption-</description>
-      <pubDate>2026-04-19T18:22:30+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Zelenskyy blasts ‘absolute cynicism’ as deadly Russian barrage hits Ukraine before planned ceasefire</title>
+      <link>https://www.foxnews.com/world/zelenskyy-blasts-absolute-cynicism-deadly-russian-barrage-hits-ukraine-planned-ceasefire</link>
+      <description>Russian drone and missile strikes killed at least 22 people and wounded more than 80 across Ukraine, as President Volodymyr Zelenskyy blasted Moscow’s “absolute cynicism.&amp;quot;</description>
+      <pubDate>2026-05-05T20:39:19-04:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Israel wins 3 medals in European Judo Championships, including gold for Raz Hershko</title>
-      <link>https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/</link>
-      <description>&lt;p&gt;Olympic silver medalist wins continental tournament for the second time and gets her fifth consecutive medal at the event&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.timesofisrael.com/israel-wins-3-medals-in-european-judo-championships-including-gold-for-raz-hershko/"&gt;Israel wins 3 medals in European Ju</description>
-      <pubDate>2026-04-19T18:57:12+00:00</pubDate>
-      <source>times-of-israel</source>
+      <title>Mike Waltz pushes UN resolution to stop Iran mining key global shipping route</title>
+      <link>https://www.foxnews.com/world/mike-waltz-pushes-un-resolution-stop-iran-mining-key-global-shipping-route</link>
+      <description>The U.S. is advancing a UN resolution against Iran&amp;apos;s actions in the Strait of Hormuz as military forces secure shipping under Project Freedom.</description>
+      <pubDate>2026-05-04T15:52:38-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>Why military brass kept Trump sidelined during high-stakes Iranian extraction operation - report</title>
-      <link>https://www.jpost.com/international/article-893485</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_4000,w_6000/716861' alt='US President Donald Trump walks after speaking to the press, as he arrives at Phoenix Sky Harbor International Airport in Phoenix, Arizona, US, April 17, 2026 (photo</description>
-      <pubDate>2026-04-19T12:54:18</pubDate>
-      <source>jerusalem-post</source>
+      <title>Somali pirate and Houthi alliance targets $1T oil trade route with revived hijack tactic</title>
+      <link>https://www.foxnews.com/world/somali-pirate-houthi-alliance-targets-1t-oil-trade-route-revived-hijack-tactic</link>
+      <description>Analysts warn of a Red Sea security vacuum as Somali pirates and Houthi-linked groups allegedly collaborate using new tech to hijack oil tankers.</description>
+      <pubDate>2026-05-03T17:32:25-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
-      <title>‘Whether people like Israel or not’: What six words in a Trump post reveal - analysis</title>
-      <link>https://www.jpost.com/israel-news/article-893539</link>
-      <description> &lt;img align='right' src='https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/716956' alt='US President Donald Trump speaks about research into mental health treatments in the Oval Office of the White House in Washington, D.C., April 18, 2026. (photo credi</description>
-      <pubDate>2026-04-19T20:08:20</pubDate>
-      <source>jerusalem-post</source>
+      <title>Cargo ship attacked by small craft near Strait of Hormuz, UK maritime agency says</title>
+      <link>https://www.foxnews.com/world/cargo-ship-attacked-small-craft-near-strait-hormuz-uk-maritime-agency-says</link>
+      <description>A large cargo ship was attacked near the Strait of Hormuz on Sunday as Iran pushes to assert control over the vital global energy shipping route.</description>
+      <pubDate>2026-05-03T13:58:56-04:00</pubDate>
+      <importance>32</importance>
     </item>
-    <item>
-      <title>Weather tracker: hail covers parts of Tunisia and Algeria like snow</title>
-      <link>https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow</link>
-      <description>&lt;p&gt;Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy&lt;/p&gt;&lt;p&gt;Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thu</description>
-      <pubDate>2026-04-17T07:49:38</pubDate>
-      <source>guardian-world</source>
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>
