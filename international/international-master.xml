@@ -2,9 +2,18 @@
 <content-feed>
   <title>SPZ International News - Top 10</title>
   <source>SPZ International Aggregator</source>
-  <generated>2026-05-06T20:13:21.661186</generated>
+  <generated>2026-05-06T21:12:46.681126</generated>
   <total_articles>178</total_articles>
   <items>
+    <item>
+      <title>Trump's hopes for an Iran peace deal come with caveats</title>
+      <link>https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <summary>There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.</summary>
+      <pubDate>Wed, 06 May 2026 17:32:04 GMT</pubDate>
+      <source>bbc-uk</source>
+      <priority>100</priority>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e05/live/f0085a00-4970-11f1-bd52-e755d604ece4.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Oil prices drop and stock markets rise after reports of deal to end Iran war</title>
       <link>https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -85,15 +94,6 @@
       <source>bbc-world</source>
       <priority>100</priority>
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19c/live/d2e8e220-48c9-11f1-b55d-0f258dce1735.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump counterterror strategy targets cartels, domestic extremists as threats shift beyond ISIS</title>
-      <link>https://www.foxnews.com/politics/trump-counterterror-strategy-targets-cartels-domestic-extremists-threats-shift-beyond-isis</link>
-      <summary>Trump&amp;apos;s new counterterrorism strategy expands focus beyond jihadist groups to include drug cartels, domestic violent extremists and Iran-backed networks.</summary>
-      <pubDate>Wed, 06 May 2026 12:51:20 -0400</pubDate>
-      <source>fox-news</source>
-      <priority>100</priority>
-      <enclosure url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-cartels.jpeg?ve=1&amp;tl=1" type="image/jpeg" length="0" />
     </item>
   </items>
 </content-feed>
