@@ -1,136 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-05-07T07:07:03.436Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Thu, 07 May 2026 10:24:31 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 📷 מוקדם יותר הערב בשיקגו, ליד La Colombe ברחוב מורגן ממש דרומית לרנדולף.</title>
+      <title>Earlier this evening in Chicago, next to to La Colombe on Morgan Street just south of Randolph.</title>
       <link>https://x.com/StopAntisemites/status/2052221849627480158</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHr05LfWkAgD26M.jpg' alt='image'&gt; מוקדם יותר הערב בשיקגו, ליד La Colombe ברחוב מורגן ממש דרומית לרנדולף.</description>
+      <description>Earlier this evening in Chicago, next to to La Colombe on Morgan Street just south of Randolph.</description>
+      <imageUrl>https://pbs.twimg.com/media/HHr05LfWkAgD26M.jpg</imageUrl>
       <pubDate>2026-05-07T02:59:52Z</pubDate>
-      <source>twitter-@StopAntisemites</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/StopAntisemites/status/2052221849627480158" type="image/jpeg"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקשי מקלט מזויפים בגרמניה תוקפים גרמני בהמונים, ואז בורחים כמו עכברושים. אנחנו </title>
+      <title>Fake asylum seekers in Germany attack a German en masse, then flee like rats. We can't live like this.</title>
       <link>https://x.com/RadioGenoa/status/2052248458107445510</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052248376050077705/pu/vid/avc1/334x270/7uJLLXwUPh41efwH.mp4' alt='video'&gt; מבקשי מקלט מזויפים בגרמניה תוקפים גרמני בהמונים, ואז בורחים כמו עכברושים. אנחנו לא יכולים לחיות ככה.</description>
+      <description>Fake asylum seekers in Germany attack a German en masse, then flee like rats. We can't live like this.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052248376050077705/pu/vid/avc1/334x270/7uJLLXwUPh41efwH.mp4</imageUrl>
       <pubDate>2026-05-07T04:45:36Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052248458107445510" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקש מקלט מזויף, שזה עתה הגיע לבריטניה ללא מסמכים, ניסה להתעלל בילדים בריטים. לד</title>
+      <title>A fake asylum seeker, newly arrived in UK without documents, attempted to abuse British children. In our view, the prison sentence is insufficient for these crimes.</title>
       <link>https://x.com/RadioGenoa/status/2052261893306208384</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052261723680260096/pu/vid/avc1/320x340/WmKTuaahSEQyL6k4.mp4' alt='video'&gt; מבקש מקלט מזויף, שזה עתה הגיע לבריטניה ללא מסמכים, ניסה להתעלל בילדים בריטים. לדעתנו, עונש המאסר אינו מספיק עבור פשעים אלה.</description>
+      <description>A fake asylum seeker, newly arrived in UK without documents, attempted to abuse British children. In our view, the prison sentence is insufficient for these crimes.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052261723680260096/pu/vid/avc1/320x340/WmKTuaahSEQyL6k4.mp4</imageUrl>
       <pubDate>2026-05-07T05:38:59Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052261893306208384" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 מרחבים ציבוריים ורחובות באיטליה אינם מסגדים ולא יהיו אי פעם. בכל מקרה, זה לא תפי</title>
+      <title>Public spaces and streets in Italy are not mosques and never will be. In any case, this isn't a prayer, it's a show of strength. Now, for the sake of fairness, show me a similar Christian prayer in Saudi Arabia.</title>
       <link>https://x.com/RadioGenoa/status/2052276798168211537</link>
-      <description>מרחבים ציבוריים ורחובות באיטליה אינם מסגדים ולא יהיו אי פעם. בכל מקרה, זה לא תפילה, זה הצגת כוח. עכשיו, לשם הוגנות, תראו לי תפילה נ��צרית דומה בערב הסעודית.</description>
+      <description>Public spaces and streets in Italy are not mosques and never will be. In any case, this isn't a prayer, it's a show of strength. Now, for the sake of fairness, show me a similar Christian prayer in Saudi Arabia.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-07T06:38:12Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>80</importance>
     </item>
     <item>
-      <title>[100] 📷 באירופה, כנסיות בוערות, אבל מסגדים לא. אין צורך בתואר כדי לדעת מי הפושעים.</title>
+      <title>In Europe, churches burn, but mosques don't. You don't need a degree to know who the criminals are.</title>
       <link>https://x.com/RadioGenoa/status/2052266496403947654</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHsdgMqWQAUyb39.jpg' alt='image'&gt; באירופה, כנסיות בוערות, אבל מסגדים לא. אין צורך בתואר כדי לדעת מי הפושעים.</description>
+      <description>In Europe, churches burn, but mosques don't. You don't need a degree to know who the criminals are.</description>
+      <imageUrl>https://pbs.twimg.com/media/HHsdgMqWQAUyb39.jpg</imageUrl>
       <pubDate>2026-05-07T05:57:16Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052266496403947654" type="image/jpeg"/>
+      <importance>88</importance>
     </item>
     <item>
-      <title>[100] 🎬 זה טורינו. איטליה משתנה גם היא, לרעה.</title>
+      <title>This is Turin. Italy is changing too, for worse.</title>
       <link>https://x.com/RadioGenoa/status/2052273776130240785</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052273720782188546/pu/vid/avc1/320x568/JGPzGZxtGnoDp-11.mp4' alt='video'&gt; זה טורינו. איטליה משתנה גם היא, לרעה.</description>
+      <description>This is Turin. Italy is changing too, for worse.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052273720782188546/pu/vid/avc1/320x568/JGPzGZxtGnoDp-11.mp4</imageUrl>
       <pubDate>2026-05-07T06:26:12Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052273776130240785" type="video/mp4"/>
+      <importance>82</importance>
     </item>
     <item>
-      <title>[100] 📷 אתמול ביקרתי באתר הפיגוע הטרוריסטי האנטישמי בגולדרס גרין. דיברתי עם המשטרה ופגשת</title>
+      <title>Yesterday, I visited the site of the antisemitic terrorist attack in Golders Green. I spoke to the police and met the brave Shomrim volunteers who helped take down the assailant. The feeling there was clear. Jewish people are afraid and angry. This is a national emergency. It’s time for the government to act.</title>
       <link>https://x.com/KemiBadenoch/status/2049885837270147234</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHKoTZDX0AAdfLC.jpg' alt='image'&gt; אתמול ביקרתי באתר הפיגוע הטרוריסטי האנטישמי בגולדרס גרין. דיברתי עם המשטרה ופגשתי את מתנדבי שומרים האמיצים שעזרו לתפוס את התוקף. התחושה שם הייתה ברורה. אנשים יהודים מפחדים וכועסים. זהו חירום לאומי. הגיע הזמן שהממשלה תפעל.</description>
+      <description>Yesterday, I visited the site of the antisemitic terrorist attack in Golders Green. I spoke to the police and met the brave Shomrim volunteers who helped take down the assailant. The feeling there was clear. Jewish people are afraid and angry. This is a national emergency. It’s time for the government to act.</description>
+      <imageUrl>https://pbs.twimg.com/media/HHKoTZDX0AAdfLC.jpg</imageUrl>
       <pubDate>2026-04-30T16:17:23Z</pubDate>
-      <source>twitter-@KemiBadenoch</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/KemiBadenoch/status/2049885837270147234" type="image/jpeg"/>
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 ייתכן שלא תסכים איתי, אבל תמיד תדע איפה אני עומדת. היום בבילריקיי, מתנגד ניסה לצ</title>
+      <title>You may not agree with me, but you will always know where you stand with me. Today in Billericay, a heckler tried to shout me down as I spoke about the normalisation of hatred towards Jews. I did not back down, because it needs to be said. British Jews are being targeted and too many people are pretending this is the same experience of other minorities. This lady implied Muslims are being similarly targeted. This is simply not true. Let's be honest about what is happening. Certain groups (in particular but not solely Islamic Extremists) are creating a climate of fear and intimidation that is normalising Jew hatred. I will never stand for that. Governments have spent too long hand-wringing, making excuses and hoping it would go away. It is time to call this what it is: a national emergency in our attitude, our urgency and our response. I will always engage with people who disagree with me. That is politics. But there is a difference between argument and intimidation. Shouting does not make a bad case good. It's done to silence others. And it certainly does not change the truth. The truth is that British Jews have been made to feel less safe in their own country. Our country. They are being singled out, threatened and harassed in ways that should shame everyone in public life. If we do not stand up now and stop this rise in antisemitism, then why bother saying &quot;Never Again&quot; at Holocaust Memorial Day? Because this is how it starts. I am not prepared to play along with the pretence that this is normal, or manageable, or just another example of tension between groups. It really is not. It is targeted hatred and it is getting worse. So my message is simple. Not here. Not in Britain. And not on our watch. We need to stop the hand-wringing and start doing the right thing. That means standing with British Jews openly, unapologetically and without fear.</title>
       <link>https://x.com/KemiBadenoch/status/2051355889567719822</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2051355661867380737/vid/avc1/320x320/D1iErrVVJeYTEnXB.mp4' alt='video'&gt; ייתכן שלא תסכים איתי, אבל תמיד תדע איפה אני עומדת. היום בבילריקיי, מתנגד ניסה לצעוק עליי כשדיברתי על הנורמליזציה של שנאה כלפי יהודים. לא נסוגתי, כי צריך לומר זאת. יהודים בריטים נמצאים בטווח ירי ורבים מדי מתיימרים שזו חוויה דומה לזו של מיעוטים אחרים. הגברת הזו רמזה שמוסלמים סובלים באותה מידה. זה פשוט לא נכון. בואו נהיה כנים לגבי מה שקורה. קבוצות מסוימות (במיוחד אך לא רק קיצונים איסלאמיים) יוצרות אקלים של פחד ואינטימידציה שמנרמל שנאת יהודים. לעולם לא אעמוד בזה. ממשלות בזבזו זמן רב מדי בהתלבטויות, תירוצים ותקווה שזה יעבור. הגיע הזמן לקרוא לזה בשם: חירום לאומי בגישה שלנו, בדחיפות ובתגובה שלנו. תמיד אשוחח עם אנשים שחלוקים עליי. זה פוליטיקה. אבל יש הבדל בין ויכוח לאינטימידציה. צעקות לא הופכות טיעון רע לטוב. זה נעשה כדי להשתיק אחרים. וזה בוודאי לא משנה את האמת. האמת היא שיהודים בריטים גורמים להרגיש פחות בטוחים במדינתם. המדינה שלנו. הם מותק��ים, מאוימים ומטרידים בדרכים שצריכות להביך את כולם בחיים הציבוריים. אם לא נעמוד עכשיו ונעצור את העלייה באנטישמיות, למה בכלל לומר &apos;לעולם לא עוד&apos; ביום הזיכרון לשואה? כי כך זה מתחיל. אני לא מוכנה לשחק עם ההתחזות הזו שזה נורמלי, או ניתן לניהול, או דוגמה נוספת למתח בין קבוצות. זה באמת לא. זו שנאה ממוקדת והיא מחמירה. אז ההודעה שלי פשוטה. לא כאן. לא בבריטניה. ולא בתקופתנו. אנחנו צריכים להפסיק את ההתלבטויות ולהתחיל לעשות את הדבר הנכון. זה אומר לעמוד לצד יהודים בריטים בגלוי, ללא התנצלות וללא פחד.</description>
+      <description>You may not agree with me, but you will always know where you stand with me. Today in Billericay, a heckler tried to shout me down as I spoke about the normalisation of hatred towards Jews. I did not back down, because it needs to be said. British Jews are being targeted and too many people are pretending this is the same experience of other minorities. This lady implied Muslims are being similarly targeted. This is simply not true. Let's be honest about what is happening. Certain groups (in particular but not solely Islamic Extremists) are creating a climate of fear and intimidation that is normalising Jew hatred. I will never stand for that. Governments have spent too long hand-wringing, making excuses and hoping it would go away. It is time to call this what it is: a national emergency in our attitude, our urgency and our response. I will always engage with people who disagree with me. That is politics. But there is a difference between argument and intimidation. Shouting does not make a bad case good. It's done to silence others. And it certainly does not change the truth. The truth is that British Jews have been made to feel less safe in their own country. Our country. They are being singled out, threatened and harassed in ways that should shame everyone in public life. If we do not stand up now and stop this rise in antisemitism, then why bother saying &quot;Never Again&quot; at Holocaust Memorial Day? Because this is how it starts. I am not prepared to play along with the pretence that this is normal, or manageable, or just another example of tension between groups. It really is not. It is targeted hatred and it is getting worse. So my message is simple. Not here. Not in Britain. And not on our watch. We need to stop the hand-wringing and start doing the right thing. That means standing with British Jews openly, unapologetically and without fear.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2051355661867380737/vid/avc1/320x320/D1iErrVVJeYTEnXB.mp4</imageUrl>
       <pubDate>2026-05-04T17:38:51Z</pubDate>
-      <source>twitter-@KemiBadenoch</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/KemiBadenoch/status/2051355889567719822" type="video/mp4"/>
+      <importance>98</importance>
     </item>
     <item>
-      <title>[100] 🎬 הפיגוע הטרוריסטי האנטישמי האחרון המגעיל בלונדון מראה שזו כעת חירום לאומי. המפלגה</title>
+      <title>The latest vile antisemitic terrorist attack in London shows that this is now a national emergency. The Conservative Party I lead will not stop until antisemitism is rooted out of British society.</title>
       <link>https://x.com/KemiBadenoch/status/2049761959273173202</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2049761690703495168/vid/avc1/320x320/JMC2oZJW9LZ9ZjiS.mp4' alt='video'&gt; הפיגוע הטרוריסטי האנטישמי האחרון המגעיל בלונדון מראה שזו כעת חירום לאומי. המפלגה השמרנית שאני מובילה לא תפסיק עד שתשורש את האנטישמיות מחברת בריטניה.</description>
+      <description>The latest vile antisemitic terrorist attack in London shows that this is now a national emergency. The Conservative Party I lead will not stop until antisemitism is rooted out of British society.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2049761690703495168/vid/avc1/320x320/JMC2oZJW9LZ9ZjiS.mp4</imageUrl>
       <pubDate>2026-04-30T08:05:08Z</pubDate>
-      <source>twitter-@KemiBadenoch</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/KemiBadenoch/status/2049761959273173202" type="video/mp4"/>
+      <importance>92</importance>
     </item>
     <item>
-      <title>[100] 📝 הם מצביעים לאנטישמיות ולמדיניות איסלאמית שתזרום פנימה ברגע שתקבל תנופה ויהיה מאו</title>
+      <title>They’re voting for antisemitism and Islamic policies that will feed in once momentum has been gained and it’s too late for the malleable to grasp what they’ve done. It’s that simple.</title>
       <link>https://x.com/EnnJason/status/2052283827913920766</link>
-      <description>הם מצביעים לאנטישמיות ולמדיניות איסלאמית שתזרום פנימה ברגע שתקבל תנופה ויהיה מאוחר מדי לרכים להבין מה עשו. זה פשוט ככה.</description>
+      <description>They’re voting for antisemitism and Islamic policies that will feed in once momentum has been gained and it’s too late for the malleable to grasp what they’ve done. It’s that simple.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-07T07:06:08Z</pubDate>
-      <source>twitter-@EnnJason</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 בית כנסת של השטן.</title>
-      <link>https://x.com/AstolfoH83306/status/2052283735777911162</link>
-      <description>בית כנסת של השטן.</description>
-      <pubDate>2026-05-07T07:05:46Z</pubDate>
-      <source>twitter-@AstolfoH83306</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 🎬 בפסגת ADL Never Is Now, שאלתי את ביאנקה ג&apos;ייד איך היא מגנה על הבריאות הנפשית שלה</title>
-      <link>https://x.com/biancajadexpts/status/2052283716677091588</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052283601757323264/vid/avc1/320x568/hyCityXukZwcBYl8.mp4?tag=14' alt='video'&gt; בפסגת ADL Never Is Now, שאלתי את ביאנקה ג&apos;ייד איך היא מגנה על הבריאות הנפשית שלה תוך מאבק באנטישמיות. התשובה שלה: יומן. היא כותבת יומן באופן קבוע מאז 7 באוקטובר 2023. יש משהו חזק בלהניח מילים...</description>
-      <pubDate>2026-05-07T07:05:42Z</pubDate>
-      <source>twitter-@biancajadexpts</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/biancajadexpts/status/2052283716677091588" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 📷 אני זקן מספיק כדי לזכור כשג&apos;רמי קורבין אמר &apos;אפשטיין&apos; והתקשורת צעקה &apos;אנטישמיות!&apos;</title>
-      <link>https://x.com/docrussjackson/status/2052283519984926861</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHss_ELWsAIMqof.jpg' alt='image'&gt; אני זקן מספיק כדי לזכור כשג&apos;רמי קורבין אמר &apos;אפשטיין&apos; והתקשורת צעקה &apos;אנטישמיות!&apos;</description>
-      <pubDate>2026-05-07T07:04:55Z</pubDate>
-      <source>twitter-@docrussjackson</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/docrussjackson/status/2052283519984926861" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>[100] 📷 זו הייתה שבועה אסון לפולנסקי ולמפלגת הירוקים: • ירידה של 6% בסקרים • יועצים נעצר</title>
-      <link>https://x.com/MsKimKaze/status/2052283435557822682</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHss5tGXoAII-hi.jpg' alt='image'&gt; זו הייתה שבועה אסון לפולנסקי ולמפלגת הירוקים: • ירידה של 6% בסקרים • יועצים נעצרו בגין עבירות אנטישמיות לכאורה • דיווחים על מתחים בהנהגה • ביקורת ממפכ&quot;ל המשטרה • תגובה נגדית על הערות על &apos;תחושות הביטחון&apos; של יהודים</description>
-      <pubDate>2026-05-07T07:04:35Z</pubDate>
-      <source>twitter-@MsKimKaze</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/MsKimKaze/status/2052283435557822682" type="image/jpeg"/>
+      <importance>85</importance>
     </item>
   </channel>
 </rss>
