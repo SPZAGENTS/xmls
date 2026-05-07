@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 07 May 2026 08:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:07:38 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Starmer Faces a Major Test in a Set of UK Elections: What to Know</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/07/multimedia/07int-theworld-europe-right-starmer-promo/07int-theworld-europe-right-starmer-promo-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-07T04:39:30+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>The ‘Perfect Storm’ Hanging Over Britain’s Public Debt</title>
+      <link>https://www.nytimes.com/2026/05/07/business/britain-bonds-gilt.html</link>
+      <description>Bond investors are expected to scrutinize the results of critical local elections on Thursday as the war in the Middle East adds inflation pressure on the government.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T04:00:06+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
