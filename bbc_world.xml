@@ -2,24 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Thu, 07 May 2026 06:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:12:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Israel strikes Beirut for first time since Hezbollah ceasefire</title>
-      <link>https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss</link>
-      <description>Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1a/live/fc55db50-4981-11f1-b768-41eba02d8af8.jpg</imageUrl>
-      <pubDate>2026-05-06T19:58:04</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Trump's hopes for an Iran peace deal come with caveats</title>
-      <link>https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss</link>
-      <description>There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e05/live/f0085a00-4970-11f1-bd52-e755d604ece4.jpg</imageUrl>
-      <pubDate>2026-05-06T17:32:04</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>Thirteen killed in Israeli strikes on southern Lebanon, health ministry says</title>
       <link>https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss</link>
@@ -29,12 +13,12 @@
       <importance>64</importance>
     </item>
     <item>
-      <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
-      <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss</link>
-      <description>Ordinary Iranians tell of worry about increased repression by authorities after the war is over.</description>
+      <title>Israel strikes Beirut for first time since Hezbollah ceasefire</title>
+      <link>https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss</link>
+      <description>Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-03T23:19:57</pubDate>
-      <importance>44</importance>
+      <pubDate>2026-05-06T19:58:04</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war</title>
@@ -77,11 +61,27 @@
       <importance>44</importance>
     </item>
     <item>
+      <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
+      <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss</link>
+      <description>Ordinary Iranians tell of worry about increased repression by authorities after the war is over.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-03T23:19:57</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
       <title>BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon</title>
       <link>https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss</link>
       <description>The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country. </description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-05T21:22:31</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>IS families in Syria have booked tickets home to Australia, minister says</title>
+      <link>https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss</link>
+      <description>The four women and nine children with links to Islamic State have spent years in a Syrian camp.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T01:47:48</pubDate>
       <importance>43</importance>
     </item>
   </channel>
