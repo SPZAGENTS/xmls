@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 01:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:01:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What you need to know about the 7 May elections in England, Scotland and Wales</title>
@@ -13,19 +13,59 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>Greece examines mystery naval drone found in Ionian Sea</title>
-      <link>https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b97/live/3324a260-4b03-11f1-b584-9d74bfad42dc.png</imageUrl>
-      <pubDate>2026-05-08T17:53:25</pubDate>
+      <title>Fears of renewed Gaza war as Hamas disarmament talks stall</title>
+      <link>https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2c4/live/8d288e50-4a15-11f1-a7ce-b934bcb15ff4.jpg</imageUrl>
+      <pubDate>2026-05-07T14:22:20</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>Oil prices rise after US and Iran exchange fire in Hormuz strait</title>
+      <link>https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US President Donald Trump says the ceasefire between Washington and Tehran is still in place.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceca/live/514c94a0-4a6d-11f1-9270-375e80dbfe3c.jpg</imageUrl>
+      <pubDate>2026-05-08T08:43:55</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Iran accuses US of 'reckless military adventure'</title>
+      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/9157bc30-4add-11f1-9eb0-1940b1e77213.jpg</imageUrl>
+      <pubDate>2026-05-08T16:11:06</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Trump says Russia and Ukraine to observe three-day ceasefire</title>
+      <link>https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2140/live/997dd690-4ad0-11f1-ac78-2112837ce2aa.jpg</imageUrl>
+      <pubDate>2026-05-08T18:59:58</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>International cyber attack disrupts swathe of universities and schools</title>
+      <link>https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9d/live/c19e8dd0-4ad1-11f1-92c1-4f69e4cb55db.jpg</imageUrl>
+      <pubDate>2026-05-08T16:04:01</pubDate>
       <importance>18</importance>
     </item>
     <item>
-      <title>White House calls Mark Hamill 'sick' after actor's Trump grave post</title>
-      <link>https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f2/live/87c50000-4aca-11f1-9a78-91accbab2de0.jpg</imageUrl>
-      <pubDate>2026-05-08T11:14:17</pubDate>
+      <title>Three dead after volcano erupts on Indonesian island</title>
+      <link>https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Officials had previously issued warnings on climbing the active volcano due to safety concerns. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ddd/live/759b6a70-4abd-11f1-aa18-a5969e596c8c.jpg</imageUrl>
+      <pubDate>2026-05-08T11:54:14</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Anti-war protests rock Japan as PM pushes for stronger defence</title>
+      <link>https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c835/live/c4771c70-4914-11f1-b60d-11e8305a3b87.jpg</imageUrl>
+      <pubDate>2026-05-07T22:15:51</pubDate>
       <importance>18</importance>
     </item>
   </channel>
