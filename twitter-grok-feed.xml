@@ -1,267 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-05-08T19:08:42.474Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Fri, 08 May 2026 23:01:25 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 🎬 אוניברסיטת טאוסון (MD) - צפו בתלמיד זה הורס רכוש, זורק דפוקה, ומכנה חייל מילואים</title>
+      <title>Towson University (MD) - Watch this student destroy property, throw a tantrum, and refer to a visiting IDF reservist as a terrorist. 
+
+No dialogue. 
+Just violence and destruction. 
+
+Imagine being this man’s employer in the near future and what sort of chaos he’s capable of inflicting in the work place.</title>
       <link>https://x.com/StopAntisemites/status/2052551192501170279</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052551129204985861/vid/avc1/320x568/jqLKBRFKVwysMTGY.mp4' alt='video'&gt; אוניברסיטת טאוסון (MD) - צפו בתלמיד זה הורס רכוש, זורק דפוקה, ומכנה חייל מילואים של צה&quot;ל כטרוריסט. 
+      <description>Towson University (MD) - Watch this student destroy property, throw a tantrum, and refer to a visiting IDF reservist as a terrorist. 
 
-ללא דיאלוג. 
-רק אלימות והרס. 
+No dialogue. 
+Just violence and destruction. 
 
-דמיינו שאתם המעסיק שלו בעתיד הקרוב ואיזה סוג של כאוס הוא מסוגל להטיל במקום העבודה.</description>
+Imagine being this man’s employer in the near future and what sort of chaos he’s capable of inflicting in the work place.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2052551129204985861/vid/avc1/320x568/jqLKBRFKVwysMTGY.mp4</imageUrl>
       <pubDate>2026-05-08T00:48:33Z</pubDate>
-      <source>twitter-@StopAntisemites</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/StopAntisemites/status/2052551192501170279" type="video/mp4"/>
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקש מקלט מוסלמי צפון אפריקאי מזויף בספרד מנפץ מכוניות של אזרחים רגילים בשביל הכ</title>
+      <title>A fake North African Muslim asylum seeker in Spain is smashing cars of ordinary citizens for fun. We don't want to live with them.</title>
       <link>https://x.com/RadioGenoa/status/2052468700465304024</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052468387033309190/pu/vid/avc1/320x540/Cv8bhsuORh55Nu5M.mp4' alt='video'&gt; מבקש מקלט מוסלמי צפון אפריקאי מזויף בספרד מנפץ מכוניות של אזרחים רגילים בשביל הכיף. אנחנו לא רוצים לחיות איתם.</description>
+      <description>A fake North African Muslim asylum seeker in Spain is smashing cars of ordinary citizens for fun. We don't want to live with them.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052468387033309190/pu/vid/avc1/320x540/Cv8bhsuORh55Nu5M.mp4</imageUrl>
       <pubDate>2026-05-07T19:20:45Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052468700465304024" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 התנגשויות בין צפון אפריקאים ופקיסטנים פורצות באיטליה באור יום. איטליה כבר לא מקו</title>
+      <title>Clashes between North Africans and Pakistanis erupt in Italy in broad daylight. Italy is no a safe place due to Islamic invasion.</title>
       <link>https://x.com/RadioGenoa/status/2051561852002324946</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2051561812840030212/pu/vid/avc1/320x544/FHVZMPFlunLbjwPS.mp4' alt='video'&gt; התנגשויות בין צפון אפריקאים ופקיסטנים פורצות באיטליה באור יום. איטליה כבר לא מקום בטוח בגלל הפלישה האיסלאמית.</description>
+      <description>Clashes between North Africans and Pakistanis erupt in Italy in broad daylight. Italy is no a safe place due to Islamic invasion.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2051561812840030212/pu/vid/avc1/320x544/FHVZMPFlunLbjwPS.mp4</imageUrl>
       <pubDate>2026-05-05T07:17:16Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2051561852002324946" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 🎬 בספרד, מבקשי מקלט צפון אפריקאים מזויפים מאיימים על גבר עם תינוק חדש בסכין. אירופ</title>
+      <title>In Spain, fake North African asylum seekers threaten a man with a newborn baby with a knife. Europe will soon implode.</title>
       <link>https://x.com/RadioGenoa/status/2050606148093411520</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2050606086487437312/pu/vid/avc1/320x568/clWs2rW5xGo7MtoA.mp4' alt='video'&gt; בספרד, מבקשי מקלט צפון אפריקאים מזויפים מאיימים על גבר עם תינוק חדש בסכין. אירופה תתפוצץ בקרוב.</description>
+      <description>In Spain, fake North African asylum seekers threaten a man with a newborn baby with a knife. Europe will soon implode.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2050606086487437312/pu/vid/avc1/320x568/clWs2rW5xGo7MtoA.mp4</imageUrl>
       <pubDate>2026-05-02T15:59:38Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2050606148093411520" type="video/mp4"/>
+      <importance>88</importance>
     </item>
     <item>
-      <title>[100] 🎬 מהגרים איסלאמיים בגרמניה רוצים ח&apos;ליפות איסלאמית וחוק שריעה. באירופה יש לנו בעיה </title>
+      <title>Islamic immigrants in Germany want Islamic caliphate and Sharia law. In Europe we have a huge problem. Everyone out!</title>
       <link>https://x.com/RadioGenoa/status/2046249258714632672</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2046249215790297088/pu/vid/avc1/320x568/Pkk4iyW0JC1b8d-4.mp4' alt='video'&gt; מהגרים איסלאמיים בגרמניה רוצים ח&apos;ליפות איסלאמית וחוק שריעה. באירופה יש לנו בעיה ענקית. כולם החוצה!</description>
+      <description>Islamic immigrants in Germany want Islamic caliphate and Sharia law. In Europe we have a huge problem. Everyone out!</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2046249215790297088/pu/vid/avc1/320x568/Pkk4iyW0JC1b8d-4.mp4</imageUrl>
       <pubDate>2026-04-20T15:26:55Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2046249258714632672" type="video/mp4"/>
+      <importance>80</importance>
     </item>
     <item>
-      <title>[100] 📷 תוודאו שאתם יושבים בש��יל זה...  מארגן אירוע הפארק המים &apos;רק למוסלמים&apos; בטקסס...  </title>
+      <title>Make sure you’re sitting down for this…
+
+The organizer of the “Muslims only” waterpark event in Texas…
+
+Also runs a LEARING CENTER
+
+You literally cannot make this stuff up</title>
       <link>https://x.com/libsoftiktok/status/2052582413990089011</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHw809DWAAMl-vU.jpg' alt='image'&gt; תוודאו שאתם יושבים בש��יל זה...
+      <description>Make sure you’re sitting down for this…
 
-מארגן אירוע הפארק המים &apos;רק למוסלמים&apos; בטקסס...
+The organizer of the “Muslims only” waterpark event in Texas…
 
-גם מנהל מרכז למידה
+Also runs a LEARING CENTER
 
-אתם ממש לא יכולים להמציא דברים כאלה</description>
+You literally cannot make this stuff up</description>
+      <imageUrl>https://pbs.twimg.com/media/HHw809DWAAMl-vU.jpg</imageUrl>
       <pubDate>2026-05-08T02:52:37Z</pubDate>
-      <source>twitter-@libsoftiktok</source>
-      <category>נאמנות כפולה</category>
-      <enclosure url="https://x.com/libsoftiktok/status/2052582413990089011" type="image/jpeg"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📷 חברתה של גרטשן וויטמר והדמוקרטית הבולטת ממישיגן פי בידון, מואשמת ב-16 עבירות פלי</title>
+      <title>Gretchen Whitmer's friend and prominent Michigan Democrat Fay Beydoun, indicted on 16 felony charges for allegedly stealing $20 million from the state
+
+Whitmer appointed her to a state board who oversaw certain grants. She allegedly applied for a grant with forged documents and used the money for personal expenses.</title>
       <link>https://x.com/libsoftiktok/status/2052616888585216078</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHxcLqeWwAMlGkD.jpg' alt='image'&gt; חברתה של גרטשן וויטמר והדמוקרטית הבולטת ממישיגן פי בידון, מואשמת ב-16 עבירות פליליות על גניבת 20 מיליון דולר ממדינת מישיגן
+      <description>Gretchen Whitmer's friend and prominent Michigan Democrat Fay Beydoun, indicted on 16 felony charges for allegedly stealing $20 million from the state
 
-וויטמר מינתה אותה למועצת מדינה שפיקחה על מענקים מסוימים. היא לכאורה הגישה בקשה למענק עם מסמכים מזויפים והשתמשה בכסף להוצאות אישיות.</description>
+Whitmer appointed her to a state board who oversaw certain grants. She allegedly applied for a grant with forged documents and used the money for personal expenses.</description>
+      <imageUrl>https://pbs.twimg.com/media/HHxcLqeWwAMlGkD.jpg</imageUrl>
       <pubDate>2026-05-08T05:09:36Z</pubDate>
-      <source>twitter-@libsoftiktok</source>
-      <category>נאמנות כפולה</category>
-      <enclosure url="https://x.com/libsoftiktok/status/2052616888585216078" type="image/jpeg"/>
+      <importance>75</importance>
     </item>
     <item>
-      <title>[100] 🎬 המגמה אנטי-ישראלית נראית כמגנט לכל סוגי הדחויים בחברה. הנה דוגמה אחת. אחי, אני ל</title>
+      <title>The anti-Israel trend seems to be a magnet for all types of rejects from society Here's one specimen Bro, I don't know about you &quot;fucking me up&quot;, I have doubts you can get out of that chair</title>
       <link>https://x.com/HamasAtrocities/status/2052608896464806228</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052608872943173636/pu/vid/avc1/320x426/z23WES2VSGJmTJdc.mp4' alt='video'&gt; המגמה אנטי-ישראלית נראית כמגנט לכל סוגי הדחויים בחברה. הנה דוגמה אחת. אחי, אני לא יודע לגבי &apos;לתקוע אותי&apos;, יש לי ספקות שאתה יכול לקום מהכיסא הזה</description>
+      <description>The anti-Israel trend seems to be a magnet for all types of rejects from society Here's one specimen Bro, I don't know about you &quot;fucking me up&quot;, I have doubts you can get out of that chair</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052608872943173636/pu/vid/avc1/320x426/z23WES2VSGJmTJdc.mp4</imageUrl>
       <pubDate>2026-05-08T04:37:51Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052608896464806228" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 🎬 בואו נשחרר את פלסטין מסעודות עלית!</title>
+      <title>Let's free palestine from elite dining!</title>
       <link>https://x.com/HamasAtrocities/status/2052726266810241527</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052647411604930560/vid/avc1/320x320/dvZmMQq1EnOlE__o.mp4' alt='video'&gt; בואו נשחרר את פלסטין מסעודות עלית!</description>
+      <description>Let's free palestine from elite dining!</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2052647411604930560/vid/avc1/320x320/dvZmMQq1EnOlE__o.mp4</imageUrl>
       <pubDate>2026-05-08T12:24:14Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052726266810241527" type="video/mp4"/>
+      <importance>80</importance>
     </item>
     <item>
-      <title>[100] 🎬 &quot;האיסלאם מנסה לשלוט בבריטניה באותו אופן שבו שלט במצרים, באותו אופן שבו שלט באירא</title>
+      <title>&quot;Islam is trying to dominate the UK the same way as it dominated Egypt, the same way as it dominated Iran, the same way as it’s dominated every other nation that was previously not Muslim. They are trying to do it here. You’ve got 200 Sharia law courts that are inactive currently. But I’ll tell you this, all it’s waiting for is that tipping point where you get a Muslim majority area. So right now you’ve got Rochdale over in the north of England, you’ve got Bradford in the north of England, which are considered no-go zones, simply because there are inactive Sharia law courts there that even the police won’t go there because they’re afraid to go there. I believe Whitechapel is considered as one of those no-go zones. It’s one of those places where it’s such a strong Muslim community, even the police are afraid to even interject in anything that’s going on there. But when it topples over—over 50%, right now Tower Hamlets is 40% Muslim—once it topples over to 50%, that’s when you’ll start to see them pressing for more Islamic... that we want this as a Muslim area, we want this to take place, we want that to happen. They’ll start to dictate because they have the majority there. Right now they don’t. I don’t believe they have a majority in any area, but you’ve got 40% Muslim area in Whitechapel. Once they get to that place, they will want Sharia law activated in an area. And this is what you will see, and then eventually, I believe that they will... it will just start to be... they’ll start to make this nation more and more Islamic. You’re seeing it already. Try and go to a restaurant that you can get meat that is not—not halal meat. There’s not one restaurant. I have to—I refuse to eat halal meat just out of principle. I’m not being force-fed to eat meat—Muslim meat when I—I’m not a Muslim.&quot;</title>
       <link>https://x.com/HamasAtrocities/status/2052694438212776389</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052694396835926022/pu/vid/avc1/320x428/dG4Pvs7CsU-0L8n8.mp4' alt='video'&gt; &quot;האיסלאם מנסה לשלוט בבריטניה באותו אופן שבו שלט במצרים, באותו אופן שבו שלט באיראן, באותו אופן שבו שלט בכל אומה אחרת שהייתה קודם לכן לא מוסלמית. הם מנסים לעשות זאת כאן. יש לכם 200 בתי משפט של שריעה שהם לא פעילים כרגע. אבל אני אומר לך, כל מה שהוא מחכה לנקודת מפנה שבה אתה מקבל רוב מוסלמי באזור. אז עכשיו יש לך רוצ&apos;דייל בצפון אנגליה, יש לך ברדפורד בצפון אנגליה, שנחשבים לאזורי no-go, פשוט כי יש שם בתי משפט של שריעה לא פעילים שאפילו המשטרה לא תלך לשם כי הם מפחדים ללכת לשם. אני מאמין שווייטצ&apos;��פל נחשבת לאחת מאזורי ה-no-go האלה. זה אחד המקומות שיש שם קהילה מוסלמית חזקה כל כך, אפילו המשטרה מפחדת להתערב בכל מה שקורה שם. אבל כשהיא תתהפך—מעל 50%, עכשיו טאואר האמלטס היא 40% מוסלמית—ברגע שהיא תתהפך ל-50%, זה הזמן שבו תתחיל לראות אותם לוחצים לעוד דברים איסלאמיים... שאנחנו רוצים שזה יהיה אזור מוסלמי, אנחנו רוצים שזה יקרה, אנחנו רוצים שזה יקרה. הם יתחילו להכתיב כי יש להם את הרוב שם. כרגע אין להם. אני לא מאמין שיש להם רוב בשום אזור, אבל יש לך 40% אזור מוסלמי בווייטצ&apos;אפל. ברגע שהם יגיעו למקום הזה, הם ירצו להפעיל את חוקי השריעה באזור. וזה מה שתראו, ואז בסופו של דבר, אני מאמין שהם י... זה פשוט יתחיל להיות... הם יתחילו להפוך את האומה הזו ליותר ויותר איסלאמית. אתם רואים את זה כבר. נסו ללכת למסעדה שבה תוכלו לקבל בשר שאינו—לא בשר חלאל. אין מסעדה כזו. אני מסרב לאכול בשר חלאל מת��ך עיקרון. אני לא מוכן שיכפו עלי לאכול בשר—בשר מוסלמי כשאני—אני לא מוסלמי.&quot;</description>
+      <description>&quot;Islam is trying to dominate the UK the same way as it dominated Egypt, the same way as it dominated Iran, the same way as it’s dominated every other nation that was previously not Muslim. They are trying to do it here. You’ve got 200 Sharia law courts that are inactive currently. But I’ll tell you this, all it’s waiting for is that tipping point where you get a Muslim majority area. So right now you’ve got Rochdale over in the north of England, you’ve got Bradford in the north of England, which are considered no-go zones, simply because there are inactive Sharia law courts there that even the police won’t go there because they’re afraid to go there. I believe Whitechapel is considered as one of those no-go zones. It’s one of those places where it’s such a strong Muslim community, even the police are afraid to even interject in anything that’s going on there. But when it topples over—over 50%, right now Tower Hamlets is 40% Muslim—once it topples over to 50%, that’s when you’ll start to see them pressing for more Islamic... that we want this as a Muslim area, we want this to take place, we want that to happen. They’ll start to dictate because they have the majority there. Right now they don’t. I don’t believe they have a majority in any area, but you’ve got 40% Muslim area in Whitechapel. Once they get to that place, they will want Sharia law activated in an area. And this is what you will see, and then eventually, I believe that they will... it will just start to be... they’ll start to make this nation more and more Islamic. You’re seeing it already. Try and go to a restaurant that you can get meat that is not—not halal meat. There’s not one restaurant. I have to—I refuse to eat halal meat just out of principle. I’m not being force-fed to eat meat—Muslim meat when I—I’m not a Muslim.&quot;</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052694396835926022/pu/vid/avc1/320x428/dG4Pvs7CsU-0L8n8.mp4</imageUrl>
       <pubDate>2026-05-08T10:17:45Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052694438212776389" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 🎬 נעצר נער בן 18 על ירי בשלושה יהודים מול בית כנסת — וירי לעבר שלושה יהודים בשבוע </title>
-      <link>https://x.com/DahliaKurtz/status/2052827599546597542</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052827538116755456/vid/avc1/476x270/z5L5T5v9eoTPD8rZ.mp4' alt='video'&gt; נעצר נער בן 18 על ירי בשלושה יהודים מול בית כנסת — וירי לעבר שלושה יהודים בשבוע שעבר בטורונטו.
-
-אני בטוחה שהפוליטיקאים שלנו כולם יהיו נגעלים כי אין מקום לשנאה בקנדה.🥱
-
-מה דעתכם על ההצהרה הלא-הצהרה של מארק קרני?</description>
-      <pubDate>2026-05-08T19:06:54Z</pubDate>
-      <source>twitter-@DahliaKurtz</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/DahliaKurtz/status/2052827599546597542" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 🎬 תקשיבו לזה. במשך 4 חודשים רצופים, שני סטודנטים מרוייאל הולוויי הטרידו אותי ואת ח</title>
-      <link>https://x.com/BrodieMitchell1/status/2052782433888538866</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052782281211707393/vid/avc1/320x568/8f79LCgZ8vhp26Yr.mp4' alt='video'&gt; תקשיבו לזה. במשך 4 חודשים רצופים, שני סטודנטים מרוייאל הולוויי הטרידו אותי ואת חברי היהודי בשיחות טלפון ללא זיהוי מתמשכות. לפעמים 10+ בשעה.
-הם התקשרו אליי, התעלמתי, ישר אליו, חזרה אליי. הנה מה שהם צעקו בטלפון:
-
-&quot;אני אהיה אנטישמי בכל החזה שלי, תזדיין בהם ותזדיין בך&quot;
-
-&quot;אתה אוהב זין יהודי... אתה אובססיבי לזין יהודי... למה אתה אובססיבי ליהודים?&quot;
-
-פלוס &quot;פלסטין חופשית&quot;, &quot;גבר לבן עם פריבילגיה לבנה&quot;, איומים על חברי: &quot;אנחנו יודעים איפה אתה גר. אנחנו מתחתיך עכשיו. באים ל-JSoc כדי להכות את כולכם.&quot;
-
-דיווחנו מיד. האוניברסיטה ידעה את הזהויות. המשטרה קיבלה הצהרה חתומה מלאה בפברואר עם הקלטות, יומני שיחות, הכל.
-
-עכשיו מאי. האוניברסיטה עדיין &quot;חוקרת&quot;. אין פעולה.
-
-אבל אני הושעתי באותו יום על תגובה פוליטית למישהו שהתחיל איתי.
-
-זה בריטניה בשתי רמות. סטודנטים בריטים מעונשים מיד על מילים. אחרים יכולים לעשות חודשים של התעללות אנטישמית, הטרדה מינית ואיומים - ולא קורה כלום.
-
-@SurreyPolice ורוייאל הולוויי: יש לכם את הראיות חודשים.
-אני אמשיך לחשוף מה קורה מדי יום בקמפוס הזה.
-
-אם משהו יקרה לי או לסטודנטים אחרים כאן, הזהרנו אתכם.
-#TwoTierBritain #CampusAntisemitism #RoyalHolloway #TwoTierPolicing</description>
-      <pubDate>2026-05-08T16:07:25Z</pubDate>
-      <source>twitter-@BrodieMitchell1</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/BrodieMitchell1/status/2052782433888538866" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 📝 סבלנו מהתקרויות אנטישמיות חמורות למדי שלא דיווחנו עליהן, אפילו לפני 7 באוקטובר. </title>
-      <link>https://x.com/DinahBucholz/status/2052783903719477550</link>
-      <description>סבלנו מהתקרויות אנטישמיות חמורות למדי שלא דיווחנו עליהן, אפילו לפני 7 באוקטובר. דוגמה אחת: הבת שלי, שהייתה אז בת 22, עכשיו 25, נאלצה לרדת מרכבת תחתית בניו יורק על ידי גבר שהתקרב לפניה, קרא לה k*ke ואיים להכות אותה.</description>
-      <pubDate>2026-05-08T16:13:16Z</pubDate>
-      <source>twitter-@DinahBucholz</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 כל מוסלמי בודד. לא רק פדופילים של חוק השריעה.</title>
-      <link>https://x.com/McConnellCoffee/status/2052827878576796065</link>
-      <description>כל מוסלמי בודד. לא רק פדופילים של חוק השריעה.</description>
-      <pubDate>2026-05-08T19:08:00Z</pubDate>
-      <source>twitter-@McConnellCoffee</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 אין דבר כזה כשונאי מוסלמים אלא שונאי איסלאם.   יש רק קוראן אחד, שריעה אחת, ביוגר</title>
-      <link>https://x.com/arthur_agrajag/status/2052827826974302633</link>
-      <description>אין דבר כזה כשונאי מוסלמים אלא שונאי איסלאם. 
-
-יש רק קוראן אחד, שריעה אחת, ביוגרפיה אחת וערכת הדית&apos; על מוחמד, מייסד הדת הזו.</description>
-      <pubDate>2026-05-08T19:07:48Z</pubDate>
-      <source>twitter-@arthur_agrajag</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 זה אולי הקטע הכי טיפשי שראיתי אי פעם. דוגמה מושלמת למה רב-תרבותיות לא עובדת.   מ</title>
-      <link>https://x.com/Battle_for_Eire/status/2052827582551269733</link>
-      <description>זה אולי הקטע הכי טיפשי שראיתי אי פעם. דוגמה מושלמת למה רב-תרבותיות לא עובדת. 
-
-מה ��ורה אם האיסלאם משתלט על הפרלמנט ומצביע על חוק שריעה? זה דמוקרטיה?</description>
-      <pubDate>2026-05-08T19:06:50Z</pubDate>
-      <source>twitter-@Battle_for_Eire</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 שאלתי את גרוק על אסטרטגיה משפטית להילחם בזה: https://grok.com/share/bGVnYWN5LWNv</title>
-      <link>https://x.com/PrescribedMind/status/2052827500233830455</link>
-      <description>שאלתי את גרוק על אסטרטגיה משפטית להילחם בזה:
-https://grok.com/share/bGVnYWN5LWNvcHk_a3ff0dd8-3aa7-41b1-9d63-d968c75fe6e5</description>
-      <pubDate>2026-05-08T19:06:30Z</pubDate>
-      <source>twitter-@PrescribedMind</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 אזור אסור כניסה</title>
-      <link>https://x.com/chards_effi/status/2052827464649302376</link>
-      <description>אזור אסור כניסה</description>
-      <pubDate>2026-05-08T19:06:21Z</pubDate>
-      <source>twitter-@chards_effi</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 תודה. קומוניסטים תמיד חושבים במונחים של &apos;גלובלית&apos;.  הנה עוד מתמטיקה:  2 מיליארד </title>
-      <link>https://x.com/The_Glyphis/status/2052827455711305780</link>
-      <description>תודה. קומוניסטים תמיד חושבים במונחים של &apos;גלובלית&apos;. 
-הנה עוד מתמטיקה: 
-2 מיליארד 
-זה מספר הרדיקלים האיסלאמיסטים שידחו את החזון הגדול של מלקולם אקס של מערכת מרקסיסטית גלובלית לא שריעה. 
-הם ידחו את החזון של אובמה, שלך, של סין..... 
-מזון למחשבה</description>
-      <pubDate>2026-05-08T19:06:19Z</pubDate>
-      <source>twitter-@The_Glyphis</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 לכו אם אתם לא אוהבים מה שאנחנו אוכלים!  לכו אם אתם לא יכולים להשתלב!  לכו אם אתם</title>
-      <link>https://x.com/kym06682480/status/2052827451932483876</link>
-      <description>לכו אם אתם לא אוהבים מה שאנחנו אוכלים! 
-לכו אם אתם לא יכולים להשתלב! 
-לכו אם אתם לא מבינים שחוק השריעה סותר את החוקים והתרבות שלנו!</description>
-      <pubDate>2026-05-08T19:06:18Z</pubDate>
-      <source>twitter-@kym06682480</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 לא. זה לא המקרה. השריעה לא יכולה להחליף את מערכת החוק הבריטית והיא שם רק כאמצעי </title>
-      <link>https://x.com/DeathlyAcorn/status/2052827378812871135</link>
-      <description>לא. זה לא המקרה. השריעה לא יכולה להחליף את מערכת החוק הבריטית והיא שם רק כאמצעי גישור ששתי הצדדים חייבים להסכים לו. זה לא מחייב משפטית ומה שהם מסכימים לא יכול להפר את חוקי בריטניה</description>
-      <pubDate>2026-05-08T19:06:01Z</pubDate>
-      <source>twitter-@DeathlyAcorn</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 קיומה של חוק השריעה לא סותר חילוניות. חילוניות נפגעת רק אם מנגנון המדינה, מדיניו</title>
-      <link>https://x.com/Darius19058/status/2052827298810753089</link>
-      <description>קיומה של חוק השריעה לא סותר חילוניות. חילוניות נפגעת רק אם מנגנון המדינה, מדיניות או חוקה משמשים לשרת דת אחת. אתיופיה שומרת על שריעה ומערכות משפטיות רשמיות, נותנת לציבור חופש לבחור איזו להשתמש.</description>
-      <pubDate>2026-05-08T19:05:42Z</pubDate>
-      <source>twitter-@Darius19058</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 זה לא דבר אמיתי, זה מונח שנוצר על ידי CAIR כדי לעורר תגובה רגשית והזדהות עם הפרו</title>
-      <link>https://x.com/Brynjar02535796/status/2052827237670596998</link>
-      <description>זה לא דבר אמיתי, זה מונח שנוצר על ידי CAIR כדי לעורר תגובה רגשית והזדהות עם הפרועים המצצי דם שרוצים לעבד את כל הפלנטה ולקיים שריעה בכל העולם!</description>
-      <pubDate>2026-05-08T19:05:27Z</pubDate>
-      <source>twitter-@Brynjar02535796</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>90</importance>
     </item>
   </channel>
 </rss>
