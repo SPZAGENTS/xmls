@@ -1,158 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-05-08T11:07:01.770Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Fri, 08 May 2026 15:01:29 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 🎬 אוניברסיטת טאוסון (MD) - צפו בסטודנט הזה הורס רכוש, זורק התפרצות כעס ומכנה חייל </title>
+      <title>Towson University (MD) - Watch this student destroy property, throw a tantrum, and refer to a visiting IDF reservist as a terrorist. 
+
+No dialogue. 
+Just violence and destruction. 
+
+Imagine being this man’s employer in the near future and what sort of chaos he’s capable of inflicting in the work place.</title>
       <link>https://x.com/StopAntisemites/status/2052551192501170279</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052551129204985861/vid/avc1/320x568/jqLKBRFKVwysMTGY.mp4' alt='video'&gt; אוניברסיטת טאוסון (MD) - צפו בסטודנט הזה הורס רכוש, זורק התפרצות כעס ומכנה חייל מילואים מבקר של צה&quot;ל כטרוריסט.
+      <description>Towson University (MD) - Watch this student destroy property, throw a tantrum, and refer to a visiting IDF reservist as a terrorist. 
 
-אין דיאלוג.
-רק אלימות והרס.
+No dialogue. 
+Just violence and destruction. 
 
-דמיינו שאתם מעסיקו של האיש הזה בעתיד הקרוב ואיזה סוג של כאוס הוא מסוגל להטיל במקום העבודה.</description>
+Imagine being this man’s employer in the near future and what sort of chaos he’s capable of inflicting in the work place.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2052551129204985861/vid/avc1/320x568/jqLKBRFKVwysMTGY.mp4</imageUrl>
       <pubDate>2026-05-08T00:48:33Z</pubDate>
-      <source>twitter-@StopAntisemites</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/StopAntisemites/status/2052551192501170279" type="video/mp4"/>
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 עימותים בין צפון אפריקאים ופקיסטנים פורצים באיטליה באור יום. איטליה אינה מקום בט</title>
+      <title>Clashes between North Africans and Pakistanis erupt in Italy in broad daylight. Italy is no a safe place due to Islamic invasion.</title>
       <link>https://x.com/RadioGenoa/status/2051561852002324946</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2051561812840030212/pu/vid/avc1/320x544/FHVZMPFlunLbjwPS.mp4' alt='video'&gt; עימותים בין צפון אפריקאים ופקיסטנים פורצים באיטליה באור יום. איטליה אינה מקום בטוח בגלל הפלישה האיסלאמית.</description>
+      <description>Clashes between North Africans and Pakistanis erupt in Italy in broad daylight. Italy is no a safe place due to Islamic invasion.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2051561812840030212/pu/vid/avc1/320x544/FHVZMPFlunLbjwPS.mp4</imageUrl>
       <pubDate>2026-05-05T07:17:16Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2051561852002324946" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקש מקלט מזויף באירופה מאיים על כולם בסכין, והמ��טרה מסבירה לו שאירופה אינה בדי</title>
+      <title>A fake asylum seeker in Europe threatens everyone with a knife, and police explain to him that Europe is no joke.</title>
       <link>https://x.com/RadioGenoa/status/2051041358819852399</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2051041152783069184/vid/avc1/320x522/6aPzRlQmwHMYT6BZ.mp4' alt='video'&gt; מבקש מקלט מזויף באירופה מאיים על כולם בסכין, והמ��טרה מסבירה לו שאירופה אינה בדיחה.</description>
+      <description>A fake asylum seeker in Europe threatens everyone with a knife, and police explain to him that Europe is no joke.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2051041152783069184/vid/avc1/320x522/6aPzRlQmwHMYT6BZ.mp4</imageUrl>
       <pubDate>2026-05-03T20:49:01Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2051041358819852399" type="video/mp4"/>
+      <importance>80</importance>
     </item>
     <item>
-      <title>[100] 🎬 איסלאמיסט רודף ומטריד כומר אורתודוקסי בכנסייה בקפריסין. האיסלאם זו בעיה.</title>
+      <title>An Islamist stalks and harasses an Orthodox priest in a church in Cyprus. Islam is a problem.</title>
       <link>https://x.com/RadioGenoa/status/2051399101120500200</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2051398977501753344/pu/vid/avc1/320x520/G4FWFymxk_uOjISk.mp4' alt='video'&gt; איסלאמיסט רודף ומטריד כומר אורתודוקסי בכנסייה בקפריסין. האיסלאם זו בעיה.</description>
+      <description>An Islamist stalks and harasses an Orthodox priest in a church in Cyprus. Islam is a problem.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2051398977501753344/pu/vid/avc1/320x520/G4FWFymxk_uOjISk.mp4</imageUrl>
       <pubDate>2026-05-04T20:30:33Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2051399101120500200" type="video/mp4"/>
+      <importance>82</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקש מקלט איסלאמי מזויף בגרמניה הורס הכל ומתקיף את המשטרה. באמריקה או ברוסיה, זה</title>
+      <title>A fake Islamic asylum seeker in Germany destroys everything and attacks the police. In America or Russia, this would have been solved in two seconds.</title>
       <link>https://x.com/RadioGenoa/status/2052447534807687594</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052447388460097538/pu/vid/avc1/320x536/HU9ymT_tU-oSmXem.mp4' alt='video'&gt; מבקש מקלט איסלאמי מזויף בגרמניה הורס הכל ומתקיף את המשטרה. באמריקה או ברוסיה, זה היה נפתר בשניות.</description>
+      <description>A fake Islamic asylum seeker in Germany destroys everything and attacks the police. In America or Russia, this would have been solved in two seconds.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052447388460097538/pu/vid/avc1/320x536/HU9ymT_tU-oSmXem.mp4</imageUrl>
       <pubDate>2026-05-07T17:56:39Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052447534807687594" type="video/mp4"/>
+      <importance>88</importance>
     </item>
     <item>
-      <title>[100] 🎬 מבקש מקלט מוסלמי מזויף מצפון אפריקה בספרד מנפץ מכוניות של אזרחים רגילים בשביל הכ</title>
+      <title>A fake North African Muslim asylum seeker in Spain is smashing cars of ordinary citizens for fun. We don't want to live with them.</title>
       <link>https://x.com/RadioGenoa/status/2052468700465304024</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052468387033309190/pu/vid/avc1/320x540/Cv8bhsuORh55Nu5M.mp4' alt='video'&gt; מבקש מקלט מוסלמי מזויף מצפון אפריקה בספרד מנפץ מכוניות של אזרחים רגילים בשביל הכיף. אנחנו לא רוצים לחיות איתם.</description>
+      <description>A fake North African Muslim asylum seeker in Spain is smashing cars of ordinary citizens for fun. We don't want to live with them.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052468387033309190/pu/vid/avc1/320x540/Cv8bhsuORh55Nu5M.mp4</imageUrl>
       <pubDate>2026-05-07T19:20:45Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2052468700465304024" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 &quot;ה-7 באוקטובר הייתה הדבר היפה ביותר שקרה במאה שלנו&quot;  פרופסור (ששמו חוסיין) אמר ז</title>
+      <title>&quot;the 7th of October was the most beautiful thing that has happened in our century&quot;
+
+A professor (named Hussein) said that at a university lecture in Norway</title>
       <link>https://x.com/HamasAtrocities/status/2052671587631927529</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052671573157392384/pu/vid/avc1/360x270/K37KS3ceyit5mg_W.mp4' alt='video'&gt; &quot;ה-7 באוקטובר הייתה הדבר היפה ביותר שקרה במאה שלנו&quot;
+      <description>&quot;the 7th of October was the most beautiful thing that has happened in our century&quot;
 
-פרופסור (ששמו חוסיין) אמר זאת בהרצאה באוניברסיטה בנורבגיה</description>
+A professor (named Hussein) said that at a university lecture in Norway</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052671573157392384/pu/vid/avc1/360x270/K37KS3ceyit5mg_W.mp4</imageUrl>
       <pubDate>2026-05-08T08:46:57Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052671587631927529" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 📝 האם נמצא מצפון, אינטליגנציה, מנת משכל, רגשות, אהבה, שנאה, אנטישמיות וכו&apos; כשאנו ח</title>
+      <title>Do we find conscience, intelligence, IQ, emotions, love, hate, antisemitism etc. when we cut a human open? Human rights are enshrined in the constitution. It's not anatomy, it's law and governance.</title>
       <link>https://x.com/DaLightOverLies/status/2052706291353878584</link>
-      <description>האם נמצא מצפון, אינטליגנציה, מנת משכל, רגשות, אהבה, שנאה, אנטישמיות וכו&apos; כשאנו חותכים אדם? זכויות האדם מעוגנות בחוקה. זה לא אנטומיה, זה חוק וממשל.</description>
+      <description>Do we find conscience, intelligence, IQ, emotions, love, hate, antisemitism etc. when we cut a human open? Human rights are enshrined in the constitution. It's not anatomy, it's law and governance.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-08T11:04:51Z</pubDate>
-      <source>twitter-@DaLightOverLies</source>
-      <category>אנטישמיות מהשטח</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 ג&apos;ורג&apos; אורוול כתב ש&quot;אחת הסימנים של אנטישמיות היא היכולת להאמין בסיפורים שאינם יכ</title>
+      <title>George Orwell wrote that &quot;one of the marks of antisemitism is an ability to believe stories that could not possibly be true&quot;</title>
       <link>https://x.com/sadcjp/status/2052706111334031454</link>
-      <description>ג&apos;ורג&apos; אורוול כתב ש&quot;אחת הסימנים של אנטישמיות היא היכולת להאמין בסיפורים שאינם יכולים להיות אמיתיים&quot;</description>
+      <description>George Orwell wrote that &quot;one of the marks of antisemitism is an ability to believe stories that could not possibly be true&quot;</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-08T11:04:09Z</pubDate>
-      <source>twitter-@sadcjp</source>
-      <category>אנטישמיות מהשטח</category>
-      
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 📝 הייתי אמור להשתתף בהפגנת מחאה נגד אנטישמיות בסוף השבוע הזה אבל נאמר לי ש-Reform </title>
+      <title>I was supposed to be going on an anti semitism march rally this weekend but have been told Reform inc Farage &amp; Co have been invited to speak. Reform whose members expressed racist, antisemitic &amp; Islamophobic views have somehow been given a platform at a rally about antisemitism.</title>
       <link>https://x.com/PaulHitsheet/status/2052705823038521788</link>
-      <description>הייתי אמור להשתתף בהפגנת מחאה נגד אנטישמיות בסוף השבוע הזה אבל נאמר לי ש-Reform כולל פאראג&apos; וחבריו הוזמנו לדבר. Reform שחבריה הביעו דעות גזעניות, אנטישמיות ואיסלאמופוביות קיבלו פלטפורמה איכשהו בהפגנה על אנטישמיות.</description>
+      <description>I was supposed to be going on an anti semitism march rally this weekend but have been told Reform inc Farage &amp; Co have been invited to speak. Reform whose members expressed racist, antisemitic &amp; Islamophobic views have somehow been given a platform at a rally about antisemitism.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-08T11:03:00Z</pubDate>
-      <source>twitter-@PaulHitsheet</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 &quot;סמיט&quot;  1. המונח אנטישמיות נטבע על ידי שונאי יהודים כדי להתייחס לשנאה כלפי יהודי</title>
-      <link>https://x.com/Timstillherelol/status/2052705815786586446</link>
-      <description>&quot;סמיט&quot; 
-1. המונח אנטישמיות נטבע על ידי שונאי יהודים כדי להתייחס לשנאה כלפי יהודים. 
-2. סמיטי הוא מונח לשפה. נתניהו יהודי וילידי האזור הלבנטיני 
-3. נתניהו נולד בתל אביב, ישראל, לא בארה&quot;ב. טיפש</description>
-      <pubDate>2026-05-08T11:02:58Z</pubDate>
-      <source>twitter-@Timstillherelol</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📷 האם זו שריעה של בתו של @TuckerCarlson?  #אללההשטן #איסלאםשטני #איסלאםרשע</title>
-      <link>https://x.com/movenglish/status/2052706488985014782</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HHytq8fW8AEVs_H.jpg' alt='image'&gt; האם זו שריעה של בתו של @TuckerCarlson?
-
-#אללההשטן #איסלאםשטני #איסלאםרשע</description>
-      <pubDate>2026-05-08T11:05:39Z</pubDate>
-      <source>twitter-@movenglish</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/movenglish/status/2052706488985014782" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>[100] 📝 אולי תרצה להתייחס לבעיה של מוסלמים שמתיישבים בארקנסו ומטילים בכוח חוקי שריעה ב&apos;נ</title>
-      <link>https://x.com/babe28958/status/2052706420106432693</link>
-      <description>אולי תרצה להתייחס לבעיה של מוסלמים שמתיישבים בארקנסו ומטילים בכוח חוקי שריעה ב&apos;ניו אפריקה&apos; לפני שאתה מתחיל לקדם כמה ארקנסו היא מקום נהדר לחיות!</description>
-      <pubDate>2026-05-08T11:05:22Z</pubDate>
-      <source>twitter-@babe28958</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 המטרה? לבודד מוסלמים מחוקי אמריקה ותרבותה, לדחות התבוללות, וליצור בסיס דורי לשלי</title>
-      <link>https://x.com/PekinManCharles/status/2052706187968213342</link>
-      <description>המטרה? לבודד מוסלמים מחוקי אמריקה ותרבותה, לדחות התבוללות, וליצור בסיס דורי לשליטת שריעה - בדיוק כפי שמתואר במזכר ההסברי של האחים המוסלמים מ-1991.
-@csmonitor @AAGDhillon @TheLeoTerrell @HouseGOP @SenateGOP @POTUS @VP @GOP</description>
-      <pubDate>2026-05-08T11:04:27Z</pubDate>
-      <source>twitter-@PekinManCharles</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 אתה צודק לחלוטין. הם יודעים הכי טוב את הסכנות במבנה החברה לפי חוקי שריעה</title>
-      <link>https://x.com/khashayanx/status/2052706139347763253</link>
-      <description>אתה צודק לחלוטין. הם יודעים הכי טוב את הסכנות במבנה החברה לפי חוקי שריעה</description>
-      <pubDate>2026-05-08T11:04:15Z</pubDate>
-      <source>twitter-@khashayanx</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>95</importance>
     </item>
   </channel>
 </rss>
