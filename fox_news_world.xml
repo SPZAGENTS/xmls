@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 01:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 02:01:36 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Putin says he thinks the war with Ukraine 'is coming to an end' as Trump-brokered 3-day ceasefire begins</title>
-      <link>https://www.foxnews.com/world/putin-says-thinks-war-ukraine-coming-end-trump-brokered-3-day-ceasefire-begins</link>
-      <description>Russian President Vladimir Putin says he thinks the war with Ukraine is coming to an end as President Trump brokers a three-day ceasefire and prisoner exchange between both nations.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T17:32:20-04:00</pubDate>
-      <importance>37</importance>
-    </item>
     <item>
       <title>What Israel wants from an Iran peace deal: No enrichment, missile limits and strict enforcement</title>
       <link>https://www.foxnews.com/world/what-israel-wants-from-iran-peace-deal-no-enrichment-missile-limits-strict-enforcement</link>
@@ -45,20 +37,20 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>Putin says he thinks the war with Ukraine 'is coming to an end' as Trump-brokered 3-day ceasefire begins</title>
+      <link>https://www.foxnews.com/world/putin-says-thinks-war-ukraine-coming-end-trump-brokered-3-day-ceasefire-begins</link>
+      <description>Russian President Vladimir Putin says he thinks the war with Ukraine is coming to an end as President Trump brokers a three-day ceasefire and prisoner exchange between both nations.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T17:32:20-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>Israeli police say Iran using WhatsApp, Facebook, blackmail to recruit spies as latest attempt foiled</title>
       <link>https://www.foxnews.com/world/israeli-police-say-iran-using-whatsapp-facebook-blackmail-recruit-spies-latest-attempt-foiled</link>
       <description>Iran allegedly uses WhatsApp, Facebook and blackmail to recruit Israeli spies, with payments ranging from $21 to $300,000 across various networks.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T06:00:50-04:00</pubDate>
       <importance>37</importance>
-    </item>
-    <item>
-      <title>US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats</title>
-      <link>https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats</link>
-      <description>The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-05T14:32:18-04:00</pubDate>
-      <importance>42</importance>
     </item>
     <item>
       <title>Gymnast at center of Jordan Chiles Olympic medal controversy is suspended for missing drug tests</title>
@@ -75,6 +67,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T16:17:56-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>US-backed pipeline proposal targets global reliance on Strait of Hormuz amid Iran threats</title>
+      <link>https://www.foxnews.com/world/us-backed-pipeline-proposal-targets-global-reliance-strait-hormuz-amid-iran-threats</link>
+      <description>The Strait of Hormuz crisis is pushing Gulf states and the U.S. to develop alternative energy routes, reducing dependence on one vulnerable choke point.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-05T14:32:18-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
       <title>German officials warn Islamist, far-left rhetoric driving spike in antisemitic attacks</title>
