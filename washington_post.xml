@@ -1,72 +1,58 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Washington Post - Top 10 Articles</title>
-  <source>Washington Post</source>
-  <generated>2026-05-06T21:12:18.044565</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Washington_Post - Top Stories</title>
+    <lastBuildDate>Sat, 09 May 2026 13:02:43 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>U.S. and Iran exchange taunts as attacks imperil fragile ceasefire</title>
-      <link>https://www.washingtonpost.com/world/2026/05/04/us-ships-iran-hormuz-ceasefire/</link>
-      <summary>Iran’s foreign minister warned the U.S. should be wary of being dragged into a “quagmire” after tensions flared in the Strait of Hormuz.</summary>
-      <pubDate>Tue, 05 May 2026 10:39:25 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2YIY4O4M2AD4XB6K2OZBREE2I4.JPG&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>U.S. strikes two Iranian-flagged tankers as tensions continue amid ceasefire</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/08/us-iran-ceasefire-hormuz-attacks/</link>
+      <description>The Trump administration said it was anticipating a reply from Tehran on its latest terms for ending the war. Iran said the U.S. proposal is still under review.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T07:54:00+00:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
-      <title>Trump keeps changing his timeline for ending the Iran war</title>
-      <link>https://www.washingtonpost.com/world/2026/05/05/trump-changing-strategy-iran-war/</link>
-      <summary>The president has repeatedly suggested that the conflict was nearing a conclusion while simultaneously escalating threats against Tehran.</summary>
-      <pubDate>Tue, 05 May 2026 10:00:29 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JSYLXSL76ND2FJSD2NVT4GK4R4.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>U.S. intelligence says Iran can outlast Trump’s Hormuz blockade for months</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/07/cia-intelligence-iran-trump-blockade-missiles/</link>
+      <description>A confidential intelligence community assessment delivered to the White House also finds that Iran retains a substantial missile and drone arsenal.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T15:19:08+00:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Trump orders military to pause Strait of Hormuz mission to allow time for peace talks</title>
-      <link>https://www.washingtonpost.com/world/2026/05/05/hegseth-briefing-iran-strait-hormuz-ceasefire/</link>
-      <summary>Global stocks jumped and oil prices fell in reaction to Trump’s statement, which hailed “Great Progress” toward a peace deal. The mission, dubbed “Project Freedom,” had just begun.</summary>
-      <pubDate>Wed, 06 May 2026 12:11:50 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X7UNCDC3DPWQMSVKBA2BOEAWJE_size-normalized.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>Grain dispute splits Ukraine and Israel even as they fight allied enemies</title>
+      <link>https://www.washingtonpost.com/world/2026/05/07/israel-ukraine-grain-russia-iran/</link>
+      <description>Tense relations soured further after Ukraine accused Israel of buying grain harvested by Russia in occupied territory. Meanwhile, Russia and Iran have grown closer. 
+
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T11:05:51+00:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Trump lashes out at Pope Leo again ahead of Rubio trip to Rome</title>
-      <link>https://www.washingtonpost.com/world/2026/05/05/trump-rubio-pope-leo-rift/</link>
-      <summary>The criticism of the pontiff’s stance on Iran highlighted what Vatican officials have described as an unprecedented low in relations with the United States.</summary>
-      <pubDate>Wed, 06 May 2026 12:00:18 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XXZFP7YRT5DKTXYVSJAYOZKTBQ_size-normalized.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>Iran war is crushing Asia’s farmers, threatening global food supply</title>
+      <link>https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/</link>
+      <description>High prices of fuel, fertilizer and other essentials are forcing farmers in Thailand and elsewhere to skip a planting season to avoid losing money on their harvests.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T09:00:05+00:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
-      <title>Some Democrats press Trump to break silence on Israel’s nuclear arsenal</title>
-      <link>https://www.washingtonpost.com/national-security/2026/05/05/israel-nuclear-program-democrat-letter/</link>
-      <summary>A letter from 30 lawmakers calls on the U.S. to expose Israel’s weapons program, which it doesn’t acknowledge and was built in secret beginning in the late 1950s.</summary>
-      <pubDate>Tue, 05 May 2026 10:00:00 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A7EOUHNWR2FV7RUDRRPQPDUDD4.JPG&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>As U.S. blockades Iran, its oil still flows ship to ship an ocean away</title>
+      <link>https://www.washingtonpost.com/investigations/2026/05/07/iran-blockade-oil-ship-transfers/</link>
+      <description>Experts say covert transfers at sea are used to obscure the origins of oil that left Iranian ports and the Gulf of Oman before the blockade was imposed.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T13:49:37+00:00</pubDate>
+      <importance>22</importance>
     </item>
     <item>
-      <title>Pro-Kremlin lawyer’s turn against Putin reveals rift in Russian power circles</title>
-      <link>https://www.washingtonpost.com/world/2026/05/06/kremlin-infighting-putin-russia-war/</link>
-      <summary>Ilya Remeslo was put in a psychiatric hospital after criticizing Vladimir Putin. Now free, he said that he will not stop his crusade against the Russian president.</summary>
-      <pubDate>Wed, 06 May 2026 09:39:56 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YDUPXTFGVG3D6FQPZGWVHSRPZE.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
+      <title>Rubio charms in Rome, but he says Trump’s verbal attacks may continue</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/08/rubio-italy-vatican-leo-meloni/</link>
+      <description>The secretary of state held warm meetings with Prime Minister Giorgia Meloni and Pope Leo XIV after the president’s repeated criticism of both leaders.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T15:53:37+00:00</pubDate>
+      <importance>17</importance>
     </item>
-    <item>
-      <title>Cuba’s mom influencers share rare view of struggles under U.S. fuel embargo</title>
-      <link>https://www.washingtonpost.com/world/2026/05/05/cuba-social-media-us-embargo/</link>
-      <summary>A growing cohort are using Instagram and TikTok to share unmoderated coverage of the beleaguered island.</summary>
-      <pubDate>Tue, 05 May 2026 09:00:00 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B6S4AAZOOTHAGKM7SQ6OW2OS5A.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case</title>
-      <link>https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/</link>
-      <summary>More than 140 people remain on the Hondius, which will take about three days to reach the Spanish archipelago for screening. A local official has criticized the plan.</summary>
-      <pubDate>Wed, 06 May 2026 14:16:51 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/56LS4KT3SQFQOQXDCVCEUEFIWU_size-normalized.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>

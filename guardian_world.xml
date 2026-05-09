@@ -1,88 +1,40 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Guardian World - Top 10 Articles</title>
-  <source>Guardian World</source>
-  <generated>2026-05-06T21:12:28.847545</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Guardian_World - Top Stories</title>
+    <lastBuildDate>Sat, 09 May 2026 13:02:43 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship</title>
-      <link>https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde</link>
-      <summary>WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who diedWhat is hantavirus, the infection thought to have killed three on cruise ship?A British crew member was in need of urgent medical care and a passenger from the UK remain...</summary>
-      <pubDate>Tue, 05 May 2026 01:52:50 GMT</pubDate>
-      <priority>95</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/6adde1cdf2cb63354dd69c0a998ec1af299f5a7a/434_0_2998_2398/master/2998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa45cadc1311484381589a516829381" type="image/jpeg" length="0" />
+      <title>Woman who returned from Syria refused bail – as it happened</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb</link>
+      <description>&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=&quot;https://www.theguardian.com/email-newsletters?CMP=cvau_sfl&quot;&gt;breaking news email&lt;/a&gt;, &lt;a href=&quot;https://app.adjust.com/w4u7jx3&quot;&gt;free app&lt;/a&gt; or &lt;a href=&quot;https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl&quot;&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;David Attenborough at 100: ‘I had thought I would celebrate quietly’&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In a dose of good news, &lt;strong&gt;Sir David Attenborough&lt;/strong&gt; is 100 today. The vet</description>
+      <imageUrl>https://i.guim.co.uk/img/media/708cf5b525853ee495d282a19ae981518a8a951d/204_0_3101_2480/master/3101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=47db24031b9a099d7f48e584e3271176</imageUrl>
+      <pubDate>2026-05-08T07:33:43</pubDate>
+      <importance>27</importance>
     </item>
     <item>
-      <title>Two US service members missing after military exercises in Morocco</title>
-      <link>https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco</link>
-      <summary>Search and rescue operation launched after service members reported missing near south-western city of Tan TanTwo US service members are missing in south-western Morocco after taking part in annual multinational military exercises in the North African country, the United State...</summary>
-      <pubDate>Sun, 03 May 2026 12:23:59 GMT</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/da8b13226a0ccf5f8df54fd4b0805f3e53ba6300/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bcba6623497d1c98814983f59551020" type="image/jpeg" length="0" />
+      <title>Frustrated by Iran, Trump at last seizes enriched uranium – but from Venezuela</title>
+      <link>https://www.theguardian.com/world/2026/may/08/venezuela-enriched-uranium-trump</link>
+      <description>&lt;p&gt;US energy department says 13.5kg of uranium taken from reactor in Caracas – a fraction of the 408kg held by Tehran&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/us-news/donaldtrump&quot;&gt;Donald Trump&lt;/a&gt; has succeeded in removing a country’s stash of highly enriched uranium – although that country is not &lt;a href=&quot;https://www.theguardian.com/world/iran&quot;&gt;Iran&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;On Friday, the US Department of Energy announced that “thanks to President Trump’s decisive leadership” 13.5kg (about 30 pounds) of ur</description>
+      <imageUrl>https://i.guim.co.uk/img/media/ba80fa731911031bf01ca9edea875a500b972e55/416_0_4165_3332/master/4165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a029aa407695667bfbcea6590ec92dcc</imageUrl>
+      <pubDate>2026-05-08T17:32:27</pubDate>
+      <importance>22</importance>
     </item>
     <item>
-      <title>US cancels visas for board of Costa Rica newspaper critical of Trump ally</title>
-      <link>https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump</link>
-      <summary>Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’ The US state department has cancelled tourist visas for more than half of the board members of Costa Rica’s leading national newspaper, La Nación, which has been a critical voice...</summary>
-      <pubDate>Wed, 06 May 2026 13:13:47 GMT</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/12d0007b0cdde9ce822699f5116757ce9dab443c/983_0_5965_4772/master/5965.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a40aa3401f83ab0b8ede67884cd1165" type="image/jpeg" length="0" />
+      <title>Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’</title>
+      <link>https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest</link>
+      <description>&lt;p&gt;In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the government&lt;/p&gt;&lt;p&gt;A woman being held in prison in Somalia for taking part in peaceful protests has described how she was tortured by her guards.&lt;/p&gt;&lt;p&gt;Sadia Moalim Ali, 27, told the Guardian she was stripped naked by two male guards in a room monitored by CCTV, kicked, beaten with a baton and left for two days in a small cell without </description>
+      <imageUrl>https://i.guim.co.uk/img/media/fe44d013c7925bafe8ad4b9f19c1f5cf76234097/150_0_1500_1201/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef71719a5ebade5e640648359c271ebd</imageUrl>
+      <pubDate>2026-05-07T09:00:45</pubDate>
+      <importance>17</importance>
     </item>
     <item>
-      <title>Carney appoints former war crimes prosecutor as Canada governor general</title>
-      <link>https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general</link>
-      <summary>Louise Arbour will serve as Canada’s representative of King Charles and carry out ceremonial and constitutional dutiesCanada’s prime minister, Mark Carney, has appointed a former supreme court justice and war crimes prosecutor as the country’s new governor general, saying her ...</summary>
-      <pubDate>Tue, 05 May 2026 16:23:50 GMT</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/525eb57b372963fadbfda3195a09050360da8ad9/300_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de1ad25356813918f1b80598b54f4dbb" type="image/jpeg" length="0" />
+      <title>Early results show One Nation on track to win Farrer byelection</title>
+      <link>https://www.theguardian.com/australia-news/2026/may/09/farrer-byelection-results-one-nation-michelle-milthorpe-coalition</link>
+      <description>&lt;p&gt;Initial counting shows David Farley with a clear lead ahead of independent Michelle Milthorpe as Coalition support tanks&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=&quot;https://www.theguardian.com/email-newsletters?CMP=cvau_sfl&quot;&gt;breaking news email&lt;/a&gt;, &lt;a href=&quot;https://app.adjust.com/w4u7jx3&quot;&gt;free app&lt;/a&gt; or &lt;a href=&quot;https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl&quot;&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;One Nation appeared on track for its first ever lower house victory on Saturday </description>
+      <imageUrl>https://i.guim.co.uk/img/media/6934b46993ea6555bfe12fdc75d021c4456aced9/415_0_4093_3274/master/4093.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09bf90adc27db197a0a5102c78bfe5e1</imageUrl>
+      <pubDate>2026-05-09T09:13:00</pubDate>
+      <importance>17</importance>
     </item>
-    <item>
-      <title>Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage</title>
-      <link>https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz</link>
-      <summary>Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west AfricaA refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel sho...</summary>
-      <pubDate>Mon, 04 May 2026 15:58:29 GMT</pubDate>
-      <priority>85</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/aba8b5e28f1aa86f821f6f11d8842b01d715a060/25_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=283717ee39d6d0a0dc0c0ab1119f040c" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Three passengers dead after suspected hantavirus outbreak on cruise ship</title>
-      <link>https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship</link>
-      <summary>Dutch husband and wife and third unidentified person reported to have died, with three further people taken illWhat is hantavirus, the infection thought to have killed three on cruise ship?A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic O...</summary>
-      <pubDate>Sun, 03 May 2026 22:55:44 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/c12f04f9fd624d5847af80c3516ba548b87ca966/1186_747_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=991c51db71e9d8b0524c0a384419f94a" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Alberta voter data leaked as separatists file signatures for independence vote</title>
-      <link>https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists</link>
-      <summary>Authorities investigate leak of 2.9 million voters’ details, adding to turmoil over push for independence referendumAlberta separatists have delivered more than 300,000 signatures to elections officials in western Canada, in support of their attempt to force an independence re...</summary>
-      <pubDate>Tue, 05 May 2026 17:49:26 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/d43f6b459f2f413ac65692295be33774a156b114/512_0_5001_4000/master/5001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1378cb39d6c05378242048264a4ee95" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest</title>
-      <link>https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor</link>
-      <summary>Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has foundAn AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up ...</summary>
-      <pubDate>Mon, 04 May 2026 06:00:16 GMT</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/2f67d40cd03693e44b4894f64d22fe9ee81cb5fa/301_0_4806_3845/master/4806.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=578b17a54f4acc3afb06b05b302491b3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mexico nightclub’s $300 cover charge for US citizens captures popular mood</title>
-      <link>https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens</link>
-      <summary>Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’A Mexico City nightclub has gone viral for charging Americans a nearly $300 cover charge, while citizens from any other country pay just $20 for access, ...</summary>
-      <pubDate>Wed, 06 May 2026 10:00:05 GMT</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/a06664501d2b9d55439ac4fe70c6df467a4820f8/759_0_2653_2124/master/2653.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=174d85986f7a06abd485c5709aab5aa4" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Search called off for Australian hiker missing in rugged Canadian national park</title>
-      <link>https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams</link>
-      <summary>Police suspend ‘extensive’ six-day air and ground search in Nova Scotia, citing ‘no new information’Teams in eastern Canada have called off an “extensive” six-day air and ground search of a rugged park for a missing Australian hiker.The Royal Canadian Mounted Police (RCMP) sai...</summary>
-      <pubDate>Wed, 06 May 2026 01:00:06 GMT</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://i.guim.co.uk/img/media/6a0fda1a72b7ccfa9282e365f01d32054cbeb5e9/0_368_2000_1600/master/2000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a28fff5aa07dd647985d89257113de1" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>

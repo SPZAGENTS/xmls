@@ -1,88 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Nyt World - Top 10 Articles</title>
-  <source>Nyt World</source>
-  <generated>2026-05-06T21:12:27.438993</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nyt_World - Top Stories</title>
+    <lastBuildDate>Sat, 09 May 2026 13:02:43 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats</title>
-      <link>https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil</link>
-      <summary>An Iranian official said his government was looking at an American plan to end the war, hours after President Trump threatened to resume strikes. Earlier Wednesday, another Iranian official dismissed a reported proposal as a “list of American wishes.”</summary>
-      <pubDate>Wed, 06 May 2026 18:05:05 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-trump-hkwt/06mideast-trump-hkwt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift</title>
+      <link>https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html</link>
+      <description>As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/08/multimedia/08-uae-pakistan-1-vptw/08-uae-pakistan-1-vptw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-08T13:10:53+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
-      <title>In Talks With Iran, China Calls for Opening of Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html</link>
-      <summary>China’s top diplomat also warned against the restarting of hostilities as he met with Iran’s foreign minister. The U.S. has urged China to pressure Iran to reopen the waterway.</summary>
-      <pubDate>Wed, 06 May 2026 09:58:55 +0000</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-china-iran-jwvp/06int-china-iran-jwvp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html</link>
+      <description>The landlocked body of water has taken on new significance, with Russia shipping military and commercial goods to bolster Tehran’s ability to withstand the U.S. assault.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/09/multimedia/09int-iran-caspian-sea-01-kwbz/09int-iran-caspian-sea-01-kwbz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-09T09:01:26+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
-      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <summary>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</summary>
-      <pubDate>Wed, 06 May 2026 17:41:14 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://static01.nyt.com/images/2025/06/16/multimedia/05int-iran-economy-2/16iran-oil-print-ltkf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Starmer’s Party Suffers Stark Losses in U.K. Local Elections</title>
+      <link>https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results</link>
+      <description>Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/08/multimedia/08-uk-news-elections-promo-2p-qpfz/08-uk-news-elections-promo-2p-qpfz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-09T09:28:38+00:00</pubDate>
+      <importance>18</importance>
     </item>
-    <item>
-      <title>In Romania, Living With Weapons of War Spilling Into NATO Territory</title>
-      <link>https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html</link>
-      <summary>Four years of battle in Ukraine is taking a toll on neighboring Romanians. Even if the war has not crossed the border, drones have done so.</summary>
-      <pubDate>Wed, 06 May 2026 09:27:11 +0000</pubDate>
-      <priority>90</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/05/multimedia/0500int-romania-drones-promo-kmjh/0500int-romania-drones-promo-kmjh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Reclaiming the Name of the Black Hero Who Inspired ‘Uncle Tom’s Cabin’</title>
-      <link>https://www.nytimes.com/2026/05/06/world/canada/uncle-toms-cabin-ontario-josiah-henson.html</link>
-      <summary>After 42 years of slavery, Josiah Henson escaped to Canada, where he wrote a memoir, founded a school and led others to freedom. But his home long bore the name “Uncle Tom,” to the offense of many.</summary>
-      <pubDate>Wed, 06 May 2026 09:00:27 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/04/28/multimedia/00int-canada-uncletom-dispatch-promo/00int-canada-uncletom-dispatch-lbhv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters</title>
-      <link>https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html</link>
-      <summary>The J.W. Marriott in Venezuela’s capital is suddenly awash in U.S. diplomats, spies and fortune seekers, showcasing changes in the country.</summary>
-      <pubDate>Wed, 06 May 2026 17:37:58 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-venezuela-hotel-dispatch-02-mjqw/06int-venezuela-hotel-dispatch-02-mjqw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Japan’s Takaichi Pitches Strength and Stability in Visits to Australia and Vietnam</title>
-      <link>https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html</link>
-      <summary>Prime Minister Sanae Takaichi is attempting to raise Japan’s profile at a time when China’s clout is rising and doubts about the United States are spreading.</summary>
-      <pubDate>Wed, 06 May 2026 13:10:21 +0000</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-japan-diplo-01-wlbz/06int-japan-diplo-01-wlbz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak</title>
-      <link>https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html</link>
-      <summary>Three people with possible symptoms of the disease were evacuated on Wednesday morning from the Dutch-flagged MV Hondius.</summary>
-      <pubDate>Wed, 06 May 2026 17:54:32 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-cruise-virus-01-zghb/06int-cruise-virus-01-zghb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes</title>
-      <link>https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html</link>
-      <summary>Dynamic ticket pricing has made this year’s tournament the most expensive in history, pushing Argentine fans to extremes.</summary>
-      <pubDate>Wed, 06 May 2026 16:07:42 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-worldcup-tickets-mgvh/06int-worldcup-tickets-mgvh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Leo XIV Is the First Pope From the U.S. He’s Making That an Asset.</title>
-      <link>https://www.nytimes.com/2026/05/06/world/europe/leo-first-american-pope.html</link>
-      <summary>A year into his papacy, Leo has shown a readiness to challenge Washington, defying any concerns about the election of an American pontiff.</summary>
-      <pubDate>Wed, 06 May 2026 15:02:05 +0000</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://static01.nyt.com/images/2026/05/06/multimedia/06int-pope-america-01-tqck/06int-pope-america-01-tqck-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>

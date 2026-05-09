@@ -1,88 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>Abc News International - Top 10 Articles</title>
-  <source>Abc News International</source>
-  <generated>2026-05-06T21:12:32.157876</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Abc_News_International - Top Stories</title>
+    <lastBuildDate>Sat, 09 May 2026 13:02:43 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi</title>
-      <link>https://abcnews.com/International/wireStory/china-stepping-iran-war-diplomacy-ahead-trumps-summit-132701727</link>
-      <summary>China&amp;rsquo;s diplomatic role in the Iran war has come into sharper focus after talks between Chinese and Iranian foreign ministers on Wednesday, days before U.S. President Donald Trump is expected to meet his Chinese counterpart Xi Jinping</summary>
-      <pubDate>Wed, 06 May 2026 09:20:37 -0400</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_cd2283edc105303e6cbc5eadc8840ad2_4x3_384.jpg" type="image/jpeg" length="0" />
+      <title>UAE says its air defenses are intercepting drone and missile fire</title>
+      <link>https://abcnews.com/International/wireStory/united-arab-emirates-air-defenses-intercepting-drone-missile-132769829</link>
+      <description>United Arab Emirates says its air defenses are intercepting drone and missile fire as Iran war&amp;rsquo;s ceasefire challenged</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-05-08T00:43:12-04:00</pubDate>
+      <importance>47</importance>
     </item>
     <item>
-      <title>Hantavirus is on the rise in Argentina, where a stricken cruise ship began its journey</title>
-      <link>https://abcnews.com/International/wireStory/hantavirus-rise-argentina-stricken-cruise-ship-began-journey-132717110</link>
-      <summary>Officials and experts in Argentina are scrambling to figure out if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise</summary>
-      <pubDate>Wed, 06 May 2026 13:38:10 -0400</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_5841c25be9aa6dd3cd6edc81c74609de_4x3_384.jpg" type="image/jpeg" length="0" />
+      <title>Surfers in war-torn Gaza find rare moments of joy taking to the waves</title>
+      <link>https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445</link>
+      <description>Despite the dire situation in Gaza, a few surfers find joy riding the waves</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_f94898d4495c4ce5ecf63d88f2ebfab2_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-09T02:42:20-04:00</pubDate>
+      <importance>27</importance>
     </item>
-    <item>
-      <title>Family fears for jailed Iranian Nobel Peace laureate's life if she's not moved to a Tehran hospital</title>
-      <link>https://abcnews.com/International/wireStory/family-fears-jailed-iranian-nobel-peace-laureates-life-132711148</link>
-      <summary>Nobel laureate Narges Mohammadi is in critical condition in an Iranian hospital</summary>
-      <pubDate>Wed, 06 May 2026 11:11:35 -0400</pubDate>
-      <priority>75</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_edd06981f33010362d2bbf2916acea17_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>French carrier group moves south of Suez ahead of conditional UK-French Hormuz mission</title>
-      <link>https://abcnews.com/International/wireStory/french-carrier-group-moves-south-suez-ahead-conditional-132708522</link>
-      <summary>The French armed forces say that France&amp;rsquo;s aircraft carrier strike group is moving south of the Suez Canal and into the Red Sea in preparation for a potential future mission as part of a French-British plan for the Strait of Hormuz</summary>
-      <pubDate>Wed, 06 May 2026 11:11:47 -0400</pubDate>
-      <priority>75</priority>
-      <enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pope Leo XIV comforts 13 priests from southern Lebanon with surprise video call</title>
-      <link>https://abcnews.com/International/wireStory/pope-leo-xiv-comforts-13-priests-southern-lebanon-132704106</link>
-      <summary>Pope Leo XIV has surprised 13 priests from southern Lebanon with a video call from Rome</summary>
-      <pubDate>Wed, 06 May 2026 09:28:56 -0400</pubDate>
-      <priority>75</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_69bfbfa7a5268e4abfac9a0bf0f6f4c5_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Hungary returns a seized cash and gold shipment worth $82 million to Ukraine</title>
-      <link>https://abcnews.com/International/wireStory/hungary-returns-seized-cash-gold-shipment-worth-82-132713089</link>
-      <summary>Hungary has returned a shipment of Ukrainian cash and gold worth $82 million to Ukraine's state Oschadbank</summary>
-      <pubDate>Wed, 06 May 2026 13:38:29 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_c6181fc0aec462e05cce8781a993aa97_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>EU auditors sound alarm over billions in COVID recovery funds that can’t be clearly traced</title>
-      <link>https://abcnews.com/International/wireStory/eu-auditors-sound-alarm-billions-covid-recovery-funds-132711507</link>
-      <summary>European auditors say they can't clearly trace billions of euros spent from a massive fund meant to help EU countries recover from COVID-19</summary>
-      <pubDate>Wed, 06 May 2026 11:11:34 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_8faf1ca051b60304ff860596a100eeb2_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sweden detains sanctioned oil tanker believed to be linked to Russia's shadow fleet</title>
-      <link>https://abcnews.com/International/wireStory/sweden-detains-sanctioned-oil-tanker-believed-linked-russias-132709350</link>
-      <summary>Sweden's coast guard has detained a tanker suspected of being part of Russia&amp;rsquo;s so-called &amp;ldquo;shadow fleet.&amp;rdquo;</summary>
-      <pubDate>Wed, 06 May 2026 11:11:39 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_4c38587da6896ed82992050a679f965f_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pope will inaugurate Barcelona's Sagrada Familia tower and meet with migrants in June trip to Spain</title>
-      <link>https://abcnews.com/International/wireStory/pope-inaugurate-barcelonas-sagrada-familia-tower-meet-migrants-132703026</link>
-      <summary>Pope Leo XIV will inaugurate the central tower of Barcelona&amp;rsquo;s Sagrada Familia basilica during his visit to Spain next month</summary>
-      <pubDate>Wed, 06 May 2026 09:18:31 -0400</pubDate>
-      <priority>65</priority>
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_9b52641c1f3c8966171f0e41f747bdc7_4x3_384.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bus and oil tanker collide in Indonesia, killing at least 16 people</title>
-      <link>https://abcnews.com/International/wireStory/bus-oil-tanker-collide-indonesia-killing-16-people-132708316</link>
-      <summary>A passenger bus has collided with a fuel tanker truck on Indonesia's Sumatra island, killing at least 16 people and injuring four others</summary>
-      <pubDate>Wed, 06 May 2026 10:10:49 -0400</pubDate>
-      <priority>50</priority>
-      <enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg" type="image/jpeg" length="0" />
-    </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>
