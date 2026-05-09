@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 00:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:01:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T19:11:56+00:00</pubDate>
       <importance>74</importance>
+    </item>
+    <item>
+      <title>Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html</link>
+      <description>The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the narrows.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T21:43:24+00:00</pubDate>
+      <importance>38</importance>
     </item>
     <item>
       <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
@@ -37,14 +45,6 @@
       <importance>49</importance>
     </item>
     <item>
-      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
-      <importance>44</importance>
-    </item>
-    <item>
       <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
       <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
       <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
@@ -69,20 +69,20 @@
       <importance>39</importance>
     </item>
     <item>
+      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
+      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
       <title>U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift</title>
       <link>https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html</link>
       <description>As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T13:10:53+00:00</pubDate>
       <importance>38</importance>
-    </item>
-    <item>
-      <title>Iran Says It Is Reviewing a U.S. Proposal to End the War</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html</link>
-      <description>Nothing was disclosed about the peace plan, and there were conflicting signals from the Iranians about how seriously they were taking it.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-06T21:02:23+00:00</pubDate>
-      <importance>39</importance>
     </item>
   </channel>
 </rss>

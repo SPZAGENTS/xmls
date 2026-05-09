@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 00:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:01:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13</title>
-      <link>https://abcnews.com/International/wireStory/israeli-drone-strikes-beirut-kill-4-southern-airstrikes-132812182</link>
-      <description>Three Israeli drone strikes on vehicles south of Beirut have killed four people</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T15:11:30-04:00</pubDate>
-      <importance>42</importance>
-    </item>
     <item>
       <title>A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens</title>
       <link>https://abcnews.com/International/wireStory/fragile-ceasefire-holds-us-awaits-iran-response-bahrain-132807132</link>
@@ -19,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T10:22:11-04:00</pubDate>
       <importance>62</importance>
+    </item>
+    <item>
+      <title>Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13</title>
+      <link>https://abcnews.com/International/wireStory/israeli-drone-strikes-beirut-kill-4-southern-airstrikes-132812182</link>
+      <description>Three Israeli drone strikes on vehicles south of Beirut have killed four people</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T15:11:30-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
       <title>As Iran war continues, people across the US are feeling a strain from high gas prices</title>

@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 00:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:01:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. and Iran exchange fire as Trump says ceasefire still holds</title>
@@ -31,6 +31,16 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <importance>74</importance>
     </item>
     <item>
+      <title>Iran keeps US waiting for response on ceasefire plan</title>
+      <link>https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan</link>
+      <description>
+Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backed Hezbollah.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T10:09:15</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
       <title>What we know about the latest exchange of fire between the US and Iran</title>
       <link>https://www.france24.com/en/video/20260508-what-we-know-about-the-latest-exchange-of-fire-between-the-us-and-iran</link>
       <description>
@@ -41,14 +51,20 @@ US president Donald Trump insisted the ceasefire with Iran was still in place Th
       <importance>72</importance>
     </item>
     <item>
-      <title>Iran keeps US waiting for response on ceasefire plan</title>
-      <link>https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan</link>
-      <description>
-Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backed Hezbollah.
-</description>
+      <title>Putin says he thinks the war with Ukraine 'is coming to an end' as Trump-brokered 3-day ceasefire begins</title>
+      <link>https://www.foxnews.com/world/putin-says-thinks-war-ukraine-coming-end-trump-brokered-3-day-ceasefire-begins</link>
+      <description>Russian President Vladimir Putin says he thinks the war with Ukraine is coming to an end as President Trump brokers a three-day ceasefire and prisoner exchange between both nations.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-09T10:09:15</pubDate>
-      <importance>72</importance>
+      <pubDate>2026-05-09T17:32:20-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Mideast war worsens conflict between elephants and villagers in Sri Lanka</title>
+      <link>https://www.npr.org/2026/05/09/nx-s1-5809389/mideast-war-worsens-conflict-between-elephants-and-villagers-in-sri-lanka</link>
+      <description>Conflict between farmers and elephants in Sri Lanka has grown worse as food and fuel are scarcer due to war in the Middle East.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T17:09:43-04:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
       <title>The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff</title>
@@ -77,22 +93,6 @@ Sporadic clashes erupted between Iranian and US forces on Friday in the Strait o
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T23:12:45</pubDate>
       <importance>67</importance>
-    </item>
-    <item>
-      <title>Experts warn Trump administration any Iran deal must close plutonium pathway to nuclear bombs</title>
-      <link>https://www.foxnews.com/world/experts-warn-trump-administration-any-iran-deal-must-close-plutonium-pathway-nuclear-bombs</link>
-      <description>Experts warn any new Iran deal must ban plutonium reprocessing and expose covert pathways to nuclear weapons, citing risks tied to Bushehr and Arak nuclear facilities.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T16:00:21-04:00</pubDate>
-      <importance>47</importance>
-    </item>
-    <item>
-      <title>Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13</title>
-      <link>https://abcnews.com/International/wireStory/israeli-drone-strikes-beirut-kill-4-southern-airstrikes-132812182</link>
-      <description>Three Israeli drone strikes on vehicles south of Beirut have killed four people</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T15:11:30-04:00</pubDate>
-      <importance>42</importance>
     </item>
   </channel>
 </rss>
