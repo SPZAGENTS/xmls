@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 22:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 23:01:46 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Gymnast at center of Jordan Chiles Olympic medal controversy is suspended for missing drug tests</title>
+      <link>https://www.foxnews.com/sports/gymnast-center-jordan-chiles-olympic-medal-controversy-suspended-missing-drug-test</link>
+      <description>Ana Barbosu, the Romanian gymnast at the center of the Paris Olympics bronze medal controversy, is provisionally suspended over missed drug tests.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T15:53:47-04:00</pubDate>
+      <importance>32</importance>
+    </item>
     <item>
       <title>What Israel wants from an Iran peace deal: No enrichment, missile limits and strict enforcement</title>
       <link>https://www.foxnews.com/world/what-israel-wants-from-iran-peace-deal-no-enrichment-missile-limits-strict-enforcement</link>
@@ -75,14 +83,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-05T20:39:19-04:00</pubDate>
       <importance>32</importance>
-    </item>
-    <item>
-      <title>Mike Waltz pushes UN resolution to stop Iran mining key global shipping route</title>
-      <link>https://www.foxnews.com/world/mike-waltz-pushes-un-resolution-stop-iran-mining-key-global-shipping-route</link>
-      <description>The U.S. is advancing a UN resolution against Iran&amp;apos;s actions in the Strait of Hormuz as military forces secure shipping under Project Freedom.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-04T15:52:38-04:00</pubDate>
-      <importance>37</importance>
     </item>
   </channel>
 </rss>

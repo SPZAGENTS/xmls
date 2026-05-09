@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 22:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 23:01:46 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
@@ -13,11 +13,11 @@
       <importance>44</importance>
     </item>
     <item>
-      <title>Israel strikes Beirut for first time since Hezbollah ceasefire</title>
-      <link>https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.</description>
+      <title>Lebanon says Israeli strikes killed 39</title>
+      <link>https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-06T19:58:04</pubDate>
+      <pubDate>2026-05-09T19:49:49</pubDate>
       <importance>54</importance>
     </item>
     <item>
@@ -27,22 +27,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-05T11:38:03</pubDate>
       <importance>49</importance>
-    </item>
-    <item>
-      <title>Two Islamic-State linked Australian women charged with crimes against humanity</title>
-      <link>https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T05:07:55</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Lebanon says Israeli strike on south kills seven including child</title>
-      <link>https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T16:43:27</pubDate>
-      <importance>52</importance>
     </item>
     <item>
       <title>Margaret Thatcher assassination story by Hilary Mantel gets stage premiere in Liverpool</title>
@@ -83,6 +67,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T04:06:33</pubDate>
       <importance>39</importance>
+    </item>
+    <item>
+      <title>Trump says US to pause operation to guide vessels through Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>&quot;Project Freedom&quot;, which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T02:18:45</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>Trump pauses Hormuz plan 50 hours after he announced it - what happened?</title>
+      <link>https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T13:39:09</pubDate>
+      <importance>34</importance>
     </item>
   </channel>
 </rss>
