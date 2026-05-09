@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 20:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:01:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T19:11:56+00:00</pubDate>
       <importance>74</importance>
+    </item>
+    <item>
+      <title>Deadly Israeli Strikes Erode Cease-Fire in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html</link>
+      <description>Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T17:37:45+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
@@ -74,14 +82,6 @@
       <description>Nothing was disclosed about the peace plan, and there were conflicting signals from the Iranians about how seriously they were taking it.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-06T21:02:23+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>Macron Calls for U.S. and Iran to Open Strait of Hormuz While They Negotiate</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html</link>
-      <description>Emmanuel Macron, the French president, hopes the Strait of Hormuz can reopen even before the U.S.-Iran war formally ends. His plan has many pitfalls.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-06T19:57:20+00:00</pubDate>
       <importance>39</importance>
     </item>
   </channel>
