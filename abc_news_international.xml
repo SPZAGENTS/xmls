@@ -2,15 +2,47 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 09:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 10:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Surfers in war-torn Gaza find rare moments of joy taking to the waves</title>
-      <link>https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445</link>
-      <description>Despite the dire situation in Gaza, a few surfers find joy riding the waves</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_f94898d4495c4ce5ecf63d88f2ebfab2_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-09T01:23:51-04:00</pubDate>
+      <title>UAE says its air defenses are intercepting drone and missile fire</title>
+      <link>https://abcnews.com/International/wireStory/united-arab-emirates-air-defenses-intercepting-drone-missile-132769829</link>
+      <description>United Arab Emirates says its air defenses are intercepting drone and missile fire as Iran war&amp;rsquo;s ceasefire challenged</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-05-08T00:43:12-04:00</pubDate>
+      <importance>47</importance>
+    </item>
+    <item>
+      <title>Marathon marks a turning point for a Palestinian runner released from an Israeli prison</title>
+      <link>https://abcnews.com/International/wireStory/marathon-marks-turning-point-palestinian-runner-released-israeli-132783514</link>
+      <description>Thousands of runners participated in a marathon in the occupied West Bank on Friday, including Mohamad Al-Assi</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_710510c7dc56b89d4a79c0432a0a89c2_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-08T14:18:08-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit</title>
+      <link>https://abcnews.com/International/wireStory/china-april-exports-jump-141-year-ago-ahead-132804345</link>
+      <description>China says exports have risen 14.1% in April from a year earlier, despite the Iran war and lingering impacts from higher U.S. tariffs</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_4e17ad3271e7391a27a247698cddd6f8_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-09T02:33:48-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Rubio presses Europe on Iran action as he seeks to mend ties with Italy and Vatican</title>
+      <link>https://abcnews.com/International/wireStory/rubio-set-meet-italys-meloni-sides-seek-ease-132772377</link>
+      <description>U.S. Secretary of State Marco Rubio has urged European allies to move beyond rhetoric and take concrete action against Iran, even as he sought to repair strained ties with Italy and the Vatican</description>
+      <imageUrl>https://s.abcnews.com/images/US/wirestory_a52a9b1d7eaa83f29317453533fb98cd_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-08T16:56:35-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Massive 11,000-carat ruby unearthed in Myanmar’s war-scarred gemstone heartland</title>
+      <link>https://abcnews.com/International/wireStory/massive-11000-carat-ruby-unearthed-myanmars-war-scarred-132779009</link>
+      <description>Miners in Myanmar have discovered a massive ruby, considered to be the second-largest by weight ever found in the country</description>
+      <imageUrl>https://s.abcnews.com/images/Weird/wirestory_2db4e7007da21dd6066c66732d888370_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-08T16:49:53-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
