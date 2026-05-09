@@ -2,31 +2,87 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 13:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:53:17 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
+      <link>https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html</link>
+      <description>The strike was the first near the Lebanese capital since a cease-fire that has curbed fighting but not halted it. Washington is pushing for a lasting peace, hoping it will ease diplomacy with Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T19:11:56+00:00</pubDate>
+      <importance>74</importance>
+    </item>
+    <item>
+      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
+      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
+      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
+      <importance>54</importance>
+    </item>
+    <item>
+      <title>U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise</title>
+      <link>https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html</link>
+      <description>The escalating attacks raise the threat that the cease-fire could break down.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T22:52:07+00:00</pubDate>
+      <importance>34</importance>
+    </item>
+    <item>
+      <title>Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It</title>
+      <link>https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html</link>
+      <description>The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T09:08:25+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>How the Fight Over Israel Is Playing Out Inside MAGA</title>
+      <link>https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html</link>
+      <description>The war in Iran has added to a tectonic shift in public opinion — a bipartisan swing away from Israel. Some on the far-right are fighting to keep President Trump’s movement aligned with the Jewish state.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T17:47:12+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
+      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
+      <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations</title>
+      <link>https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html</link>
+      <description>The United States and its partners have burned through an enormous amount of air defense missiles in the Iran war, and production is slow.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T06:21:38+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say</title>
+      <link>https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html</link>
+      <description>The plan would reopen the Strait of Hormuz and give the two countries 30 days to hammer out a comprehensive deal, according to three Iranian officials.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T13:43:28+00:00</pubDate>
+      <importance>39</importance>
+    </item>
     <item>
       <title>U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift</title>
       <link>https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html</link>
       <description>As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/08/multimedia/08-uae-pakistan-1-vptw/08-uae-pakistan-1-vptw-mediumSquareAt3X.jpg</imageUrl>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-08T13:10:53+00:00</pubDate>
-      <importance>28</importance>
+      <importance>38</importance>
     </item>
     <item>
-      <title>Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran</title>
-      <link>https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html</link>
-      <description>The landlocked body of water has taken on new significance, with Russia shipping military and commercial goods to bolster Tehran’s ability to withstand the U.S. assault.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/09/multimedia/09int-iran-caspian-sea-01-kwbz/09int-iran-caspian-sea-01-kwbz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-09T09:01:26+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>Starmer’s Party Suffers Stark Losses in U.K. Local Elections</title>
-      <link>https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results</link>
-      <description>Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/08/multimedia/08-uk-news-elections-promo-2p-qpfz/08-uk-news-elections-promo-2p-qpfz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-09T09:28:38+00:00</pubDate>
-      <importance>18</importance>
+      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
+      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
+      <importance>44</importance>
     </item>
   </channel>
 </rss>

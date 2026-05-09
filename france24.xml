@@ -1,88 +1,107 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>France24 - Top 10 Articles</title>
-  <source>France24</source>
-  <generated>2026-05-09T10:14:00.000000</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>France24 - Top Stories</title>
+    <lastBuildDate>Sat, 09 May 2026 19:53:17 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>US awaits Iran's response to latest proposal amid technical ceasefire</title>
-      <link>https://www.france24.com/en/video/20260509-us-awaits-iran-s-response-to-latest-proposal-amid-technical-ceasefire</link>
-      <summary>The US and Iran appeared no closer on Saturday to finding an end to their war after the two sides traded fire in the Gulf amid a tenuous ceasefire.</summary>
-      <pubDate>Sat, 09 May 2026 08:40:40 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/0a5f40fa-4b81-11f1-aff9-005056bf30b7/w:1024/p:16x9/EN-20260509-100429-100533-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Russia marks Victory Day with scaled-back parade</title>
-      <link>https://www.france24.com/en/russia-marks-victory-day-with-scaled-back-parade</link>
-      <summary>Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II. For the first time in nearly two decades, the parade took place without tanks, missiles and other heavy weapons.</summary>
-      <pubDate>Sat, 09 May 2026 08:35:29 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/d1c20bec-4b80-11f1-9d55-005056bf30b7/w:1024/p:16x9/EN-20260509-100206-100403-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live: Oil spill detected off Kharg Island in the Persian Gulf</title>
+      <title>Live: Israel launches strikes on south Lebanon after warning residents to evacuate</title>
       <link>https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf</link>
-      <summary>Satellite images show a large oil spill spreading off Iran's Kharg Island, a critical oil hub terminal for the Islamic republic. The apparent spill has raised concerns about the state of Iranian oil infrastructure as it faces mounting strain from a US-imposed naval blockade.</summary>
-      <pubDate>Sat, 09 May 2026 05:49:43 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/fe849ca0-4b65-11f1-a35e-005056bf30b7/w:1024/p:16x9/AP26128660561572.jpg" type="image/jpeg" length="0" />
+      <description>
+The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. Follow our liveblog for all the latest updates.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T05:49:43</pubDate>
+      <importance>82</importance>
     </item>
     <item>
-      <title>Russia is fighting an 'aggressive' NATO-backed force, Putin says in Victory Day speech</title>
-      <link>https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security</link>
-      <summary>Russian President Vladimir Putin said Saturday that Russian troops in Ukraine were fighting an "aggressive force" backed by all of NATO and described his war goals as "just" in a combative speech during the annual Victory Day parade on Red Square.</summary>
-      <pubDate>Sat, 09 May 2026 05:28:00 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/71dd9158-4b7e-11f1-936c-005056bf30b7/w:1024/p:16x9/2026-05-09T072633Z-1278418579-RC2J5LA5TBHU-RTRMADP-3-WW2-ANNIVERSARY-RUSSIA-PARADE.jpg" type="image/jpeg" length="0" />
+      <title>What we know about the latest exchange of fire between the US and Iran</title>
+      <link>https://www.france24.com/en/video/20260508-what-we-know-about-the-latest-exchange-of-fire-between-the-us-and-iran</link>
+      <description>
+US president Donald Trump insisted the ceasefire with Iran was still in place Thursday, despite an exchange of fire with Iranian forces in the Strait of Hormuz. The US and Iran offered conflicting views of the event - as both nations claimed to have been targeted first. FRANCE 24's Reza Sayah reports from Tehran.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T05:57:14</pubDate>
+      <importance>72</importance>
     </item>
     <item>
-      <title>Magyar sworn in as prime minister as Hungary turns the page on Orban</title>
-      <link>https://www.france24.com/en/europe/20260509-magyar-set-to-become-hungary-s-new-prime-minister-in-historic-transition</link>
-      <summary>Hungary's parliament swore in opposition leader Peter Magyar as prime minister on Saturday, marking the end of Viktor Orban's 16 years in power after the pro-European conservative challenger won a landslide election victory.</summary>
-      <pubDate>Sat, 09 May 2026 05:19:15 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/9e981078-4b66-11f1-80b5-005056a90284/w:1024/p:16x9/9325fe9a0fac5563787872153731196e78eab821.jpg" type="image/jpeg" length="0" />
+      <title>Middle East war back on? UAE responds to fresh attacks, US and Iran trade fire</title>
+      <link>https://www.france24.com/en/middle-east-war-back-on-uae-responds-to-fresh-attacks-us-and-iran-trade-fire</link>
+      <description>
+The United Arab Emirates says it's responded to fresh missile and drone attacks by Iran this Friday. The strikes come hours after the US says three of its navy destroyers in the Strait of Hormuz were targeted. President Donald Trump ordered retaliatory strikes - but then downplayed the hostilities and said the ceasefire still stands. Analysis by Douglas Herbert, FRANCE 24 international affairs commentator.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T15:28:00</pubDate>
+      <importance>77</importance>
     </item>
     <item>
-      <title>Hantavirus-hit cruise ship heads for Canary Islands to evacuate passengers</title>
-      <link>https://www.france24.com/en/video/20260509-hantavirus-hit-cruise-ship-heads-for-canary-islands-to-evacuate-passengers</link>
-      <summary>Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands. The vessel is expected to arrive Sunday at the Spanish island of Tenerife.</summary>
-      <pubDate>Sat, 09 May 2026 08:39:54 GMT</pubDate>
-      <priority>85</priority>
-      <enclosure url="https://s.france24.com/media/display/a7fc2274-4b81-11f1-9353-005056bf30b7/w:1024/p:16x9/EN-20260509-100839-101014-CS.jpg" type="image/jpeg" length="0" />
+      <title>Sporadic clashes erupt between ‌Iranian and US forces ‌in Hormuz strait</title>
+      <link>https://www.france24.com/en/middle-east/20260507-middle-east-war-live-us-and-iran-accuse-each-other-of-ceasefire-violations-in-strait-of-hormuz</link>
+      <description>
+Sporadic clashes erupted between Iranian and US forces on Friday in the Strait of Hormuz after the US fired at two empty oil tankers trying to break the blockade by heading for an empty Iranian port in the Gulf of Oman, the American military said. Late on Friday, the US and Iran also traded fire in the first real challenge to the fragile ceasefire. Read our blog to see how the day's events unfolded.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T23:12:45</pubDate>
+      <importance>67</importance>
     </item>
     <item>
-      <title>After losing influence in West Africa, France seeks a regional reset at Kenya summit</title>
-      <link>https://www.france24.com/en/africa/20260509-after-losing-influence-in-west-africa-france-seeks-a-regional-reset-at-kenya-summit</link>
-      <summary>Seeking to rebuild French influence in Africa after a series of setbacks in former West African colonies, France will co-host a summit in Kenya next week aimed at strengthening political, security and economic ties with a range of African partners.</summary>
-      <pubDate>Sat, 09 May 2026 08:21:03 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://s.france24.com/media/display/fd9b4370-4b79-11f1-9e0b-005056a97e36/w:1024/p:16x9/Macron-Cairo.jpg" type="image/jpeg" length="0" />
+      <title>One Page Peace Plan for Iran? Starmer’s Sinking Ship, Musk V Altman</title>
+      <link>https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman</link>
+      <description>
+In a week thats’s seen renewed hope for ending the war in Iran, ten weeks since it started, with four weeks of stalemate, a ceasefire and skirmishes over the blockade of the Strait of Hormuz. Intermittent peace talks have boiled down to a fourteen-point, one-page “memorandum of understanding”, crafted by Steve Witkoff and Jared Kushner, which has been sent to Pakistani mediators and is being reviewed by Iran.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T18:22:19</pubDate>
+      <importance>62</importance>
     </item>
     <item>
-      <title>Trump announces three-day ceasefire between Ukraine and Russia</title>
-      <link>https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia</link>
-      <summary>US President Donald Trump on Friday announced a three-day ceasefire between Russia and Ukraine, starting on May 9. Aside from a pause in the fighting, the two warring sides will also engage in a prisoner swap, with 1,000 prisoners from each country.</summary>
-      <pubDate>Fri, 08 May 2026 18:10:31 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://s.france24.com/media/display/70998870-4b0a-11f1-aa42-005056a90284/w:1024/p:16x9/AP26128622672159.jpg" type="image/jpeg" length="0" />
+      <title>Israel and Hezbollah continue to trade blows despite the ceasefire</title>
+      <link>https://www.france24.com/en/israel-and-hezbollah-continue-to-trade-blows-despite-the-ceasefire</link>
+      <description>
+Israel has taken responsibility for Wednesday night's strike on the southern suburbs of Beirut, with Prime Minister Benjamin Netanyahu saying he personally authorised the attack to kill a top Hezbollah Commander identified as Malek Balou. The continued ceasefire incursions are further pressuring talks between Tel Aviv and Beirut, which are being supported by the US. Hezbollah initially indicated it would support a deal if it was respected by Israel but the two parties continue to trade blows, d</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T09:41:34</pubDate>
+      <importance>62</importance>
     </item>
     <item>
-      <title>South Africa's highest court revives impeachment proceedings against president Cyril Ramaphosa</title>
-      <link>https://www.france24.com/en/tv-shows/eye-on-africa/20260508-south-africa-s-highest-court-revives-impeachment-proceedings-against-the-president-cyril-ramaphosa</link>
-      <summary>South Africa's President is facing impeachment in a long-running scandal known as Farmgate. The Constitutional Court has lifted an earlier ruling that blocked proceedings. He denies any wrongdoing.</summary>
-      <pubDate>Fri, 08 May 2026 21:05:39 GMT</pubDate>
-      <priority>85</priority>
-      <enclosure url="https://s.france24.com/media/display/279f915e-4b1a-11f1-bbba-005056a97e36/w:1024/p:16x9/ANGL260508-2140-Live.jpg" type="image/jpeg" length="0" />
+      <title>Propaganda war: The Gen Z team behind Iran’s hit anti-Trump videos</title>
+      <link>https://www.france24.com/en/tv-shows/the-observers/20260507-propaganda-war-gen-z-team-behind-iran-hit-anti-trump-videos</link>
+      <description>
+Satirical Lego animations depicting US President Donald Trump as Israeli Prime Minister Benjamin Netanyahu’s puppet while casting Iran as the defender of the oppressed mark the latest propaganda coup for the Iranian regime in its war with the US. The FRANCE 24 Observers team spoke to one of the young Iranians behind the videos.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T14:51:18</pubDate>
+      <importance>62</importance>
     </item>
     <item>
-      <title>British PM Starmer says he won't quit after local elections drubbing</title>
-      <link>https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing</link>
-      <summary>British Prime Minister Keir Starmer said Friday he will not resign after local elections that saw his governing Labour Party suffer big losses and the hard-right Reform UK make important gains.</summary>
-      <pubDate>Fri, 08 May 2026 19:11:17 GMT</pubDate>
-      <priority>75</priority>
-      <enclosure url="https://s.france24.com/media/display/b0286dd8-4b11-11f1-bef8-005056bfb2b6/w:1024/p:16x9/5a55f6bfc9a1412e705493101afcc551c172ad6a.jpg" type="image/jpeg" length="0" />
+      <title>Iran accuses US of breaching ceasefire with Strait of Hormuz attacks</title>
+      <link>https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike</link>
+      <description>
+Iran accused the US of violating a ceasefire by targeting two ships in the Strait of Hormuz and attacking civilian areas, the country's military command said early Friday. Iran said it fired missiles on “enemy units” in the strait in retaliation for a US attack on one of its oil tankers. Follow our liveblog to see how the day's events unfolded.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T02:37:26</pubDate>
+      <importance>62</importance>
     </item>
-  </items>
-</content-feed>
+    <item>
+      <title>Iran on the verge of economic asphyxiation -- rare footage from Tehran</title>
+      <link>https://www.france24.com/en/did-donald-trump-liberate-the-iranian-people-iran-on-the-verge-of-economic-asphyxiation</link>
+      <description>
+Two months ago, Donald Trump claimed the United States would liberate the Iranian people when it launched the offensive alongside Israel. Two months into the war, the regime is still there, the repression continues, and the country stands on the verge of economic asphyxiation. Our colleagues at France 2 had the rare opportunity to film the lives of Iranians in the heart of Tehran, where runaway inflation has led to a cost of living crisis.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T09:11:00</pubDate>
+      <importance>57</importance>
+    </item>
+    <item>
+      <title>US military says it intercepted Iranian attacks in Strait of Hormuz</title>
+      <link>https://www.france24.com/en/middle-east/20260508-us-military-says-it-intercepted-iranian-attacks-in-strait-of-hormuz</link>
+      <description>
+On Thursday, the US and Iran exchanged accusations and fire in the Strait of Hormuz, with Washington saying it intercepted Iranian attacks and struck back at military targets, while Tehran reported retaliatory action and rising regional tensions. The fragile ceasefire faced fresh strain amid widening conflict risks.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T01:08:42</pubDate>
+      <importance>57</importance>
+    </item>
+  </channel>
+</rss>
