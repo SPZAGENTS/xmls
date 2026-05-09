@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 19:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:01:39 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. and Iran exchange fire as Trump says ceasefire still holds</title>
@@ -13,20 +13,36 @@
       <importance>77</importance>
     </item>
     <item>
-      <title>An expert on Iranian politics reviews the status of negotiations to end the war on Iran</title>
-      <link>https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran</link>
-      <description>NPR's Elissa Nadworny talks to Mehrzad Boroujerdi of the Missouri University of Science and Technology about the status of the Trump Administration's negotiations to end the war on Iran.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T07:43:02-04:00</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
       <title>The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff</title>
       <link>https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates</link>
       <description>U.S. forces fired on two Iranian oil tankers after exchanging fire with Iranian forces in the Strait of Hormuz. And the United Arab Emirates reported another Iranian missile and drone attack.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T06:44:36-04:00</pubDate>
       <importance>67</importance>
+    </item>
+    <item>
+      <title>North Korean troops join Putin’s scaled-back parade as Ukraine agrees temporary ceasefire</title>
+      <link>https://www.nbcnews.com/world/russia/putin-hosts-scaled-back-military-parade-no-tanks-no-internet-ukrainian-rcna342637</link>
+      <description>There were no neat rows of tanks or ballistic missile carriers rolling down the smooth cobbles of Moscow’s Red Square on Saturday, as Russia scaled back what is usually a grand militaristic Victory Day parade celebrating the Soviet Union’s role in defeating Nazi Germany</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T19:32:06</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Saudis feared Trump’s Project Freedom would spur Iran to attack, officials say</title>
+      <link>https://www.nbcnews.com/politics/national-security/saudis-feared-trumps-project-freedom-spur-iran-attack-officials-say-rcna344124</link>
+      <description>Saudi officials were angered by President Donald Trump’s surprise announcement that the U.S. would start guiding ships through the Strait of Hormuz, fearing the move could spur more Iranian attacks on Gulf allies.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T21:47:53</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>An expert on Iranian politics reviews the status of negotiations to end the war on Iran</title>
+      <link>https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran</link>
+      <description>NPR's Elissa Nadworny talks to Mehrzad Boroujerdi of the Missouri University of Science and Technology about the status of the Trump Administration's negotiations to end the war on Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T07:43:02-04:00</pubDate>
+      <importance>42</importance>
     </item>
     <item>
       <title>U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus</title>
@@ -42,22 +58,6 @@
       <description>U.S., Iran exchange strikes as Trump says ceasefire holds</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T04:01:07</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>Saudis feared Trump’s Project Freedom would spur Iran to attack, officials say</title>
-      <link>https://www.nbcnews.com/politics/national-security/saudis-feared-trumps-project-freedom-spur-iran-attack-officials-say-rcna344124</link>
-      <description>Saudi officials were angered by President Donald Trump’s surprise announcement that the U.S. would start guiding ships through the Strait of Hormuz, fearing the move could spur more Iranian attacks on Gulf allies.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T21:47:53</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
-      <title>North Korean troops join Putin’s scaled-back parade as Ukraine agrees temporary ceasefire</title>
-      <link>https://www.nbcnews.com/world/russia/putin-hosts-scaled-back-military-parade-no-tanks-no-internet-ukrainian-rcna342637</link>
-      <description>There were no neat rows of tanks or ballistic missile carriers rolling down the smooth cobbles of Moscow’s Red Square on Saturday, as Russia scaled back what is usually a grand militaristic Victory Day parade celebrating the Soviet Union’s role in defeating Nazi Germany</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T19:32:06</pubDate>
       <importance>32</importance>
     </item>
   </channel>

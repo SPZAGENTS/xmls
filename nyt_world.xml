@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 19:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:01:39 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
@@ -21,28 +21,20 @@
       <importance>54</importance>
     </item>
     <item>
-      <title>U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise</title>
-      <link>https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html</link>
-      <description>The escalating attacks raise the threat that the cease-fire could break down.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T22:52:07+00:00</pubDate>
-      <importance>34</importance>
-    </item>
-    <item>
-      <title>Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It</title>
-      <link>https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html</link>
-      <description>The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T09:08:25+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>How the Fight Over Israel Is Playing Out Inside MAGA</title>
       <link>https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html</link>
       <description>The war in Iran has added to a tectonic shift in public opinion — a bipartisan swing away from Israel. Some on the far-right are fighting to keep President Trump’s movement aligned with the Jewish state.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-06T17:47:12+00:00</pubDate>
       <importance>49</importance>
+    </item>
+    <item>
+      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
+      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
+      <importance>44</importance>
     </item>
     <item>
       <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
@@ -77,12 +69,20 @@
       <importance>38</importance>
     </item>
     <item>
-      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <title>Iran Says It Is Reviewing a U.S. Proposal to End the War</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html</link>
+      <description>Nothing was disclosed about the peace plan, and there were conflicting signals from the Iranians about how seriously they were taking it.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
-      <importance>44</importance>
+      <pubDate>2026-05-06T21:02:23+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>Macron Calls for U.S. and Iran to Open Strait of Hormuz While They Negotiate</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html</link>
+      <description>Emmanuel Macron, the French president, hopes the Strait of Hormuz can reopen even before the U.S.-Iran war formally ends. His plan has many pitfalls.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T19:57:20+00:00</pubDate>
+      <importance>39</importance>
     </item>
   </channel>
 </rss>

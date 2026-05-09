@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 09 May 2026 19:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:01:39 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Margaret Thatcher assassination story by Hilary Mantel gets stage premiere in Liverpool</title>
-      <link>https://www.bbc.com/news/articles/cz908vyvwpqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>In The Assassination of Margaret Thatcher, the award-winning author imagined a plot to kill the PM.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T00:02:08</pubDate>
-      <importance>52</importance>
-    </item>
     <item>
       <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
       <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -27,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-06T19:58:04</pubDate>
       <importance>54</importance>
+    </item>
+    <item>
+      <title>Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war</title>
+      <link>https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description> The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-05T11:38:03</pubDate>
+      <importance>49</importance>
     </item>
     <item>
       <title>Two Islamic-State linked Australian women charged with crimes against humanity</title>
@@ -45,19 +45,27 @@
       <importance>52</importance>
     </item>
     <item>
+      <title>Margaret Thatcher assassination story by Hilary Mantel gets stage premiere in Liverpool</title>
+      <link>https://www.bbc.com/news/articles/cz908vyvwpqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>In The Assassination of Margaret Thatcher, the award-winning author imagined a plot to kill the PM.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T00:02:08</pubDate>
+      <importance>52</importance>
+    </item>
+    <item>
+      <title>BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-05T21:22:31</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
       <title>Fears of renewed Gaza war as Hamas disarmament talks stall</title>
       <link>https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T14:22:20</pubDate>
-      <importance>49</importance>
-    </item>
-    <item>
-      <title>Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war</title>
-      <link>https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description> The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. </description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-05T11:38:03</pubDate>
       <importance>49</importance>
     </item>
     <item>
@@ -69,20 +77,12 @@
       <importance>48</importance>
     </item>
     <item>
-      <title>BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon</title>
-      <link>https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country. </description>
+      <title>Iran considering US proposal as Trump says war will be 'over quickly'</title>
+      <link>https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mediator Pakistan says it is &quot;endeavouring to convert this ceasefire into a permanent end to this war&quot;. </description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-05T21:22:31</pubDate>
-      <importance>44</importance>
-    </item>
-    <item>
-      <title>Faisal Islam: Why the UAE's exit from Opec is a big deal</title>
-      <link>https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It will have little effect on the current oil blockades, but it could change everything afterwards.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-04-28T15:55:46</pubDate>
-      <importance>44</importance>
+      <pubDate>2026-05-07T04:06:33</pubDate>
+      <importance>39</importance>
     </item>
   </channel>
 </rss>
