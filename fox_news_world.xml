@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 07:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:01:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report</title>
+      <link>https://www.foxnews.com/world/north-korea-updates-constitution-require-automatic-nuclear-strike-kim-jong-un-assassinated-report</link>
+      <description>North Korea&amp;apos;s revised constitution reportedly requires an automatic nuclear strike if Kim Jong Un is killed, according to intelligence briefings.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T23:56:24-04:00</pubDate>
+      <importance>42</importance>
+    </item>
     <item>
       <title>What Israel wants from an Iran peace deal: No enrichment, missile limits and strict enforcement</title>
       <link>https://www.foxnews.com/world/what-israel-wants-from-iran-peace-deal-no-enrichment-missile-limits-strict-enforcement</link>
@@ -75,14 +83,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-05T12:37:08-04:00</pubDate>
       <importance>37</importance>
-    </item>
-    <item>
-      <title>Zelenskyy blasts ‘absolute cynicism’ as deadly Russian barrage hits Ukraine before planned ceasefire</title>
-      <link>https://www.foxnews.com/world/zelenskyy-blasts-absolute-cynicism-deadly-russian-barrage-hits-ukraine-planned-ceasefire</link>
-      <description>Russian drone and missile strikes killed at least 22 people and wounded more than 80 across Ukraine, as President Volodymyr Zelenskyy blasted Moscow’s “absolute cynicism.&amp;quot;</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-05T20:39:19-04:00</pubDate>
-      <importance>32</importance>
     </item>
   </channel>
 </rss>
