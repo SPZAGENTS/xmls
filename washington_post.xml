@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 18:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 19:51:42 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. strikes two Iranian-flagged tankers as tensions continue amid ceasefire</title>
@@ -10,7 +10,7 @@
       <description>The Trump administration said it was anticipating a reply from Tehran on its latest terms for ending the war. Iran said the U.S. proposal is still under review.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T07:54:00+00:00</pubDate>
-      <importance>52</importance>
+      <importance>37</importance>
     </item>
     <item>
       <title>Iran war threatens the dream of a post-oil economy in the Gulf</title>
@@ -18,7 +18,23 @@
       <description>The conflict is not only sapping oil revenue, but also Gulf states’ efforts to expand their economies beyond it.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T09:00:00+00:00</pubDate>
-      <importance>37</importance>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Iran war is crushing Asia’s farmers, threatening global food supply</title>
+      <link>https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/</link>
+      <description>High prices of fuel, fertilizer and other essentials are forcing farmers in Thailand and elsewhere to skip a planting season to avoid losing money on their harvests.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T09:00:05+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Spring in Ukraine means the return of blooms, battles and wartime tourists</title>
+      <link>https://www.washingtonpost.com/world/2026/05/10/ukraine-war-tourism-increasing/</link>
+      <description>In Ukraine, specialized tour guides are ready for a small but unstoppable flow of visitors who ignore blunt travel advisories. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:00:11+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
