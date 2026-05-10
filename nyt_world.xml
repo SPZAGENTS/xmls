@@ -2,87 +2,55 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 21:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:31:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>ישראל אומרת שהיא חיסלה ראש חיזבאללה ליד ביירות, בוחנת את הפסקת האש</title>
-      <link>https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html</link>
-      <description>השביתה הייתה הראשונה ליד ביירות מאז הפסקת האש שהפחיתה את הקרבות אך לא עצרה אותם. וושינגטון דוחפת לשלום מתמשך, בתקווה שזה יקל על הדיפלומטיה עם איראן.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-07T19:11:56+00:00</pubDate>
-      <importance>74</importance>
-    </item>
     <item>
       <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
       <link>https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html</link>
       <description>Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.</description>
-      <imageUrl></imageUrl>
+      <imageUrl>https://static01.nyt.com/images/2026/05/10/multimedia/10int-lebanon-funeral-01-jwvp/10int-lebanon-funeral-01-jwvp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-10T15:28:57+00:00</pubDate>
-      <importance>53</importance>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Deadly Israeli Strikes Erode Cease-Fire in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html</link>
+      <description>Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-lebanon-saksakieh-cmhg/09mideast-lebanon-saksakieh-cmhg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-09T17:37:46+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
       <title>Iran Responds to Latest U.S. Plan to End War</title>
       <link>https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html</link>
       <description>The two countries have been discussing a 30-day extension to the cease-fire and a reopening of the Strait of Hormuz.</description>
-      <imageUrl></imageUrl>
+      <imageUrl>https://static01.nyt.com/images/2026/05/10/multimedia/10trump-news-iran-response-mhcv/10trump-news-iran-response-mhcv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-10T16:10:23+00:00</pubDate>
-      <importance>38</importance>
+      <importance>28</importance>
     </item>
     <item>
-      <title>אמירויות מכפילות את הקשרים עם ארה&quot;ב וישראל amid מלחמת איראן</title>
-      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
-      <description>איחוד האמירויות הערביות ספגו את עיקר המתקפות האיראניות במהלך המלחמה, מה שהקשיח את רצון הממשלה להעריך מחדש את רשימת הידידים והאויבים שלה.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
-      <importance>54</importance>
+      <title>British Paratroopers Deliver Aid to Remote Islands With Possible Hantavirus Case</title>
+      <link>https://www.nytimes.com/2026/05/10/world/europe/britain-parachute-hantavirus-hondius-tristan.html</link>
+      <description>The British military took critical medical supplies to Tristan da Cunha, a tiny British archipelago where authorities have identified a suspected hantavirus case.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/10/multimedia/10int-hantavirus-tristan-bwcm/10int-hantavirus-tristan-bwcm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-10T13:49:01+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
-      <title>התקפות ישראליות קטלניות מחלישות את הפסקת האש בלבנון</title>
-      <link>https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html</link>
-      <description>הקרב בין ישראל לחזבאללה לא מראה סימנים רבים להפסקה, כאשר חזבאללה ממשיך לתקוף את כוחות צה&quot;ל, ושני הצדדים מאשימים זה את זה בהפרת הפסקת האש שהושגה בתיווך אמריקאי.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T17:37:46+00:00</pubDate>
-      <importance>43</importance>
+      <title>Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures</title>
+      <link>https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html</link>
+      <description>Iran was already struggling economically before 2026 brought widespread instability. A government-imposed internet shutdown has crippled an entire sector.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/10/multimedia/10int-iran-layoffs-01-jgfb/10int-iran-layoffs-01-jgfb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-10T09:01:27+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
-      <title>איראן אומרת שהיא תפסה מכלית נפט שמסווגת על ידי ארה&quot;ב כמפרת סנקציות</title>
-      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
-      <description>חברת מעקב ימי אמרה שהמהלך היה ככל הנראה מופגן, בהתחשב בכך שהספינה בבעלות סינית יש לה &quot;היסטוריה מבוססת בתוך מערכת הסחר האיראנית.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>כשהמאגרים מתמעטים, ארה&quot;ב מוכרת יותר טילים בשווי 17 מיליארד דולר למדינות המפרץ</title>
-      <link>https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html</link>
-      <description>ארצות הברית ושותפותיה בזבזו כמות עצומה של טילים להגנה אווירית במלחמה נגד איראן, והייצור מתנהל באיטיות.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T06:21:38+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>איראן וארה&quot;ב שוקלות תוכנית בעמוד אחד לסיום העוינות, אומרים officials איראניים</title>
-      <link>https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html</link>
-      <description>התוכנית תחדש את פעילות מצר הורמוז ותיתן לשתי המדינות 30 יום לגבש הסכם כולל, כך לפי שלושה פקידים איראניים.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T13:43:28+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>מיצר הורמוז נשאר חסום באופן יעיל לאחר עימותים ימיים</title>
+      <title>Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes</title>
       <link>https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html</link>
-      <description>הסגר של הצי האמריקאי המשיך ליירט ספינות שניסו לצאת או להיכנס לנמלים האיראניים, בעוד שחשש מהתקפות איראניות מנע מספינות אחרות לנסות לעבור דרך המצר.</description>
-      <imageUrl></imageUrl>
+      <description>The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the narrows.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-shipping-file-qtfv/09mideast-shipping-file-qtfv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-10T13:26:57+00:00</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
-      <title>הים הכספי, שנשכח זמן רב, מספק מסלול סחר אסטרטגי עבור איראן</title>
-      <link>https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html</link>
-      <description>המים הסגורים ביבשה קיבלו משמעות חדשה, כאשר רוסיה שולחת סחורות צבאיות ומסחריות כדי לחזק את יכולתה של טהראן לעמוד בפני ההתקפה האמריקאית.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T09:01:26+00:00</pubDate>
-      <importance>34</importance>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
