@@ -1,152 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-05-10T03:07:37.336Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Sun, 10 May 2026 07:01:40 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 📷 אירלנד העניקה מקלט לפלסטיני תומך חמאס, ועכשיו הוא קורא לרצח יהודים ישירות מדבלין</title>
+      <title>Ireland gave asylum to this palestinian Hamas supporter, and now he's calling for the murder of Jews directly from Dublin</title>
       <link>https://x.com/HamasAtrocities/status/2039239676754620888</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HEzVrYjX0AAsHdv.jpg' alt='image'&gt; אירלנד העניקה מקלט לפלסטיני תומך חמאס, ועכשיו הוא קורא לרצח יהודים ישירות מדבלין</description>
+      <description>Ireland gave asylum to this palestinian Hamas supporter, and now he's calling for the murder of Jews directly from Dublin</description>
+      <imageUrl>https://pbs.twimg.com/media/HEzVrYjX0AAsHdv.jpg</imageUrl>
       <pubDate>2026-04-01T07:13:20Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2039239676754620888" type="image/jpeg"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 מיס רייצ&apos;ל אומרת שהיא &apos;לא ידעה&apos; את ההבדל בין לחיצה שמאלה להחלקה ימינה. היא גם &apos;ל</title>
+      <title>Miss Rachel says she “didn’t know” the difference between clicking left and swiping right. She also “didn’t know” she was boosting a Hamas supporter who glorified Oct 7. She also “didn’t know” she was pushing politics to toddlers. When you’re influencing toddlers, “I didn’t know” isn’t harmless. It’s dangerous.</title>
       <link>https://x.com/canarymission/status/2015568572802630135</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2015568508571037696/vid/avc1/320x320/Rq-F7yCZTNlnDiZA.mp4' alt='video'&gt; מיס רייצ&apos;ל אומרת שהיא &apos;לא ידעה&apos; את ההבדל בין לחיצה שמאלה להחלקה ימינה. היא גם &apos;לא ידעה&apos; שהיא מקדמת תומך חמאס ששיבח את 7 באוקטובר. היא גם &apos;לא ידעה&apos; שהיא דוחפת פוליטיקה לילדים קטנים. כשאתה משפיע על ילדים קטנים, &apos;לא ידעתי&apos; אינו תמים. זה מסוכן.</description>
+      <description>Miss Rachel says she “didn’t know” the difference between clicking left and swiping right. She also “didn’t know” she was boosting a Hamas supporter who glorified Oct 7. She also “didn’t know” she was pushing politics to toddlers. When you’re influencing toddlers, “I didn’t know” isn’t harmless. It’s dangerous.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2015568508571037696/vid/avc1/320x320/Rq-F7yCZTNlnDiZA.mp4</imageUrl>
       <pubDate>2026-01-25T23:32:49Z</pubDate>
-      <source>twitter-@canarymission</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/canarymission/status/2015568572802630135" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📷 בואו לא נתלהב! אני לא רואה שום דפוס או ראיות לאנטישמיות כאן! מיס רייצ&apos;ל רק במקרה</title>
+      <title>Let's not get carried away! I don't see any pattern or evidence of antisemitism here! Ms. Rachel only accidentally: 👉 Hosted a Hamas supporter who glorified October 7th 👉 Said that Israel was starving to death a child in Gaza (who was evidently suffering from a genetic disease) 👉 Liked and pinned an antisemitic comment 👉 Apologized but then liked a comment blaming &quot;the Jews&quot; for planting that comment</title>
       <link>https://x.com/HamasAtrocities/status/2015060668219605151</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/G_bu_66XwAAG0CS.jpg' alt='image'&gt; בואו לא נתלהב! אני לא רואה שום דפוס או ראיות לאנטישמיות כאן! מיס רייצ&apos;ל רק במקרה: 👉 אירחה תומך חמאס ששיבח את 7 באוקטובר 👉 אמרה שישראל מרעיבה למוות ילד בעזה (שסבל כנראה ממחלה גנטית) 👉 אהבה ותפסה תגובה אנטישמית 👉 התנצלה אבל אח�� כך אהבה תגובה שמאשימה &apos;את היהודים&apos; בנטיעת התגובה הזו</description>
+      <description>Let's not get carried away! I don't see any pattern or evidence of antisemitism here! Ms. Rachel only accidentally: 👉 Hosted a Hamas supporter who glorified October 7th 👉 Said that Israel was starving to death a child in Gaza (who was evidently suffering from a genetic disease) 👉 Liked and pinned an antisemitic comment 👉 Apologized but then liked a comment blaming &quot;the Jews&quot; for planting that comment</description>
+      <imageUrl>https://pbs.twimg.com/media/G_bu_66XwAAG0CS.jpg</imageUrl>
       <pubDate>2026-01-24T13:54:35Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2015060668219605151" type="image/jpeg"/>
+      <importance>88</importance>
     </item>
     <item>
-      <title>[100] 📷 ⚠️ חשוף: תומכת חמאס קריסטי דובואה לובשת סיכות &apos;אני אוהבת חמאס&apos; ומשולש חמאס במצעד</title>
+      <title>⚠️ EXPOSED: Hamas supporter Kristie Dubois wears 'I Love Hamas' and Hamas triangle pins at the Al-Quds March in Toronto.⚠️</title>
       <link>https://x.com/canarymission/status/1904568367194726652</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/Gm5izgwXEAAyprA.jpg' alt='image'&gt; ⚠️ חשוף: תומכת חמאס קריסטי דובואה לובשת סיכות &apos;אני אוהבת חמאס&apos; ומשולש חמאס במצעד אל-קודס בטורונטו.⚠️</description>
+      <description>⚠️ EXPOSED: Hamas supporter Kristie Dubois wears 'I Love Hamas' and Hamas triangle pins at the Al-Quds March in Toronto.⚠️</description>
+      <imageUrl>https://pbs.twimg.com/media/Gm5izgwXEAAyprA.jpg</imageUrl>
       <pubDate>2025-03-25T16:17:38Z</pubDate>
-      <source>twitter-@canarymission</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/canarymission/status/1904568367194726652" type="image/jpeg"/>
+      <importance>92</importance>
     </item>
     <item>
-      <title>[100] 🎬 המתקפה הטרוריסטית האנטישמית הנתעבת האחרונה בלונדון מראה שמדובר כעת בחירום לאומי.</title>
+      <title>The latest vile antisemitic terrorist attack in London shows that this is now a national emergency.
+
+The Conservative Party I lead will not stop until antisemitism is rooted out of British society.</title>
       <link>https://x.com/KemiBadenoch/status/2049761959273173202</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2049761690703495168/vid/avc1/320x320/JMC2oZJW9LZ9ZjiS.mp4' alt='video'&gt; המתקפה הטרוריסטית האנטישמית הנתעבת האחרונה בלונדון מראה שמדובר כעת בחירום לאומי.
+      <description>The latest vile antisemitic terrorist attack in London shows that this is now a national emergency.
 
-המפלגה השמרנית שאני מובילה לא תפסיק עד שתשורש את האנטישמיות מהחברה הבריטית.</description>
+The Conservative Party I lead will not stop until antisemitism is rooted out of British society.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2049761690703495168/vid/avc1/320x320/JMC2oZJW9LZ9ZjiS.mp4</imageUrl>
       <pubDate>2026-04-30T08:05:08Z</pubDate>
-      <source>twitter-@KemiBadenoch</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/KemiBadenoch/status/2049761959273173202" type="video/mp4"/>
+      <importance>98</importance>
     </item>
     <item>
-      <title>[100] 📝 מסעדה בבעלות יהודית נורתה במהלך פסח, המתקפה האנטישמית ה-12 בגל השנאה הזה.  זה חו</title>
+      <title>A Jewish-owned restaurant shot at during Passover, the 12th antisemitic attack in this wave of hate.
+
+This is sick.
+
+After years of weak leadership, antisemitism is rising without consequence.
+
+We must stamp it out and make Canada safe for Jewish people, and all Canadians, to once again live and worship freely.</title>
       <link>https://x.com/PierrePoilievre/status/2041555671116640260</link>
-      <description>מסעדה בבעלות יהודית נורתה במהלך פסח, המתקפה האנטישמית ה-12 בגל השנאה הזה.
+      <description>A Jewish-owned restaurant shot at during Passover, the 12th antisemitic attack in this wave of hate.
 
-זה חו��ה.
+This is sick.
 
-לאחר שנים של מנהיגות חלשה, האנטישמיות עולה ללא השלכות.
+After years of weak leadership, antisemitism is rising without consequence.
 
-אנו חייבים למגר אותה ולהפוך את קנדה לבטוחה עבור יהודים, וכל הקנדים, כדי שיוכלו שוב לחיות ולעבוד בחופשיות.</description>
+We must stamp it out and make Canada safe for Jewish people, and all Canadians, to once again live and worship freely.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-04-07T16:36:16Z</pubDate>
-      <source>twitter-@PierrePoilievre</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 האנטישמיות עולה. מחאות אל-קודס ומצעדי טרור תורמים להזנתה.  אנו זקוקים לזהות בריט</title>
+      <title>Antisemitism is on the rise. The Al-Quds protests and terror marches are helping fuel it.
+
+We need a shared British identity.  The Conservatives are going to fight for that.
+
+We will root out the separatism tearing Britain apart.</title>
       <link>https://x.com/KemiBadenoch/status/2033983486055317505</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2033982864295903232/vid/avc1/480x270/bKXZ308igK2Sho3n.mp4' alt='video'&gt; האנטישמיות עולה. מחאות אל-קודס ומצעדי טרור תורמים להזנתה.
+      <description>Antisemitism is on the rise. The Al-Quds protests and terror marches are helping fuel it.
 
-אנו זקוקים לזהות בריטית משותפת. השמרנים יילחמו על כ��.
+We need a shared British identity.  The Conservatives are going to fight for that.
 
-נשורש את ההפרדה שמפרקת את בריטניה.</description>
+We will root out the separatism tearing Britain apart.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2033982864295903232/vid/avc1/480x270/bKXZ308igK2Sho3n.mp4</imageUrl>
       <pubDate>2026-03-17T19:07:07Z</pubDate>
-      <source>twitter-@KemiBadenoch</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/KemiBadenoch/status/2033983486055317505" type="video/mp4"/>
+      <importance>92</importance>
     </item>
     <item>
-      <title>[100] 📝 בתים יהודיים, בתי ספר ומקומות פולחן נתונים לאיום מתמיד בקנדה.  שכנינו היהודים חי</title>
+      <title>Jewish homes, schools, and places of worship are under constant threat in Canada.
+
+Our Jewish neighbours must feel safe to worship, gather, raise their children, and live freely and proudly in this country.
+
+We must root out this scourge of antisemitism. Those responsible for this violence must be found and brought to justice.</title>
       <link>https://x.com/PierrePoilievre/status/2028854349410029596</link>
-      <description>בתים יהודיים, בתי ספר ומקומות פולחן נתונים לאיום מתמיד בקנדה.
+      <description>Jewish homes, schools, and places of worship are under constant threat in Canada.
 
-שכנינו היהודים חייבים להרגיש בטוחים להתפלל, להתכנס, לגדל את ילדיהם ולחיות בחופש ובגאווה במדינה זו.
+Our Jewish neighbours must feel safe to worship, gather, raise their children, and live freely and proudly in this country.
 
-אנו חייבים לשורש את נגע האנטישמיות הזה. האחראים לאלימות הזו חייבים להימצא ולהובאו לדין.</description>
+We must root out this scourge of antisemitism. Those responsible for this violence must be found and brought to justice.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-03-03T15:25:45Z</pubDate>
-      <source>twitter-@PierrePoilievre</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      
+      <importance>97</importance>
     </item>
     <item>
-      <title>[100] 📝 כן, אני כן, כי חוק השריעה אכזרי לאישה המוסלמית</title>
+      <title>Yes i do, because Sharia Law is cruel to the muslim woman</title>
       <link>https://x.com/Manuel82682848/status/2053310697107521928</link>
-      <description>כן, אני כן, כי חוק השריעה אכזרי לאישה המוסלמית</description>
+      <description>Yes i do, because Sharia Law is cruel to the muslim woman</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-10T03:06:33Z</pubDate>
-      <source>twitter-@Manuel82682848</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 אני מאחל שחוק השריעה ייושם כדי לשפוט אותך על שקר והשתתפות במעשה רע נגד העם.</title>
+      <title>I wish sharia Law will be applied to try you for lying and participate in evil deed against the people.</title>
       <link>https://x.com/Justin_Joshua4/status/2053310462415036652</link>
-      <description>אני מאחל שחוק השריעה ייושם כדי לשפוט אותך על שקר והשתתפות במעשה רע נגד העם.</description>
+      <description>I wish sharia Law will be applied to try you for lying and participate in evil deed against the people.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-10T03:05:37Z</pubDate>
-      <source>twitter-@Justin_Joshua4</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 אתה אידיוט פנצ&apos;וד, השאלה שלי היא האם אפגניסטן היא היחידה דאר אל-איסלאם? כלומר אי</title>
-      <link>https://x.com/yayakhan3mill/status/2053310323948495261</link>
-      <description>אתה אידיוט פנצ&apos;וד, השאלה שלי היא האם אפגניסטן היא היחידה דאר אל-איסלאם? כלומר אין מדינה מוסלמית אחרת כולל סעודיה, קטאר, חמאס כי כולם לאומניים ולא מקדמים שריעה, זו ההיגיון שלך? ענה על זה, ציין את האקידה שלך? ענה!</description>
-      <pubDate>2026-05-10T03:05:04Z</pubDate>
-      <source>twitter-@yayakhan3mill</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 יש 100,000,000 פולשים בלתי חוקיים באמריקה, 30,000,000 היו בתקופת בוש והוסיפו 70,</title>
-      <link>https://x.com/MericaFirst_/status/2053310123800465500</link>
-      <description>יש 100,000,000 פולשים בלתי חוקיים באמריקה, 30,000,000 היו בתקופת בוש והוסיפו 70,000,000 מאז האובמה האיסלאמי המורד. גרשו כל בלתי חוקי ומשפחתם הבלתי חוקית! חובה להתמקד בהודים, סומלים, אפגנים, סינים ומוסלמים שריעה בלתי חוקיים בהקדם!</description>
-      <pubDate>2026-05-10T03:04:16Z</pubDate>
-      <source>twitter-@MericaFirst_</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 זה חוק השריעה! לך תבדוק את המדינות שהוא כבר השפיע עליהן! הן בחורבן!!!!</title>
-      <link>https://x.com/JadeWilson99675/status/2053309807575306749</link>
-      <description>זה חוק השריעה! לך תבדוק את המדינות שהוא כבר השפיע עליהן! הן בחורבן!!!!</description>
-      <pubDate>2026-05-10T03:03:01Z</pubDate>
-      <source>twitter-@JadeWilson99675</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 אף מדינה או מדינה לא יכולה לעמוד בשתי חוקי משפט בלתי מתיישבים. השריעה בלתי מתייש</title>
-      <link>https://x.com/bbear111670/status/2053309674678833452</link>
-      <description>אף מדינה או מדינה לא יכולה לעמוד בשתי חוקי משפט בלתי מתיישבים. השריעה בלתי מתיישבת עם חוקי ארה&quot;ב, לכן בתי משפט שריעה צריכים להיאסר בכל מקום בארצות הברית.</description>
-      <pubDate>2026-05-10T03:02:29Z</pubDate>
-      <source>twitter-@bbear111670</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>90</importance>
     </item>
   </channel>
 </rss>
