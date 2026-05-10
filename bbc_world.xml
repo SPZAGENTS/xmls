@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 14:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:06:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
@@ -61,6 +61,14 @@
       <importance>39</importance>
     </item>
     <item>
+      <title>Israel deports two activists detained on board Gaza flotilla</title>
+      <link>https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T11:55:09</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>Trump pauses Hormuz plan 50 hours after he announced it - what happened?</title>
       <link>https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.</description>
@@ -75,14 +83,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-06T17:32:04</pubDate>
       <importance>34</importance>
-    </item>
-    <item>
-      <title>Faisal Islam: Why the UAE's exit from Opec is a big deal</title>
-      <link>https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It will have little effect on the current oil blockades, but it could change everything afterwards.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-04-28T15:55:46</pubDate>
-      <importance>44</importance>
     </item>
   </channel>
 </rss>
