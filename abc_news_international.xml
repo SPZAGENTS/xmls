@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 10:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 11:01:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran war disruptions spark higher costs and lost income in Bangladesh</title>
-      <link>https://abcnews.com/International/wireStory/iran-war-disruptions-spark-higher-costs-lost-income-132821732</link>
-      <description>Tariqul Islam, a ride-share driver in Bangladesh, faces long fuel lines due to supply disruptions linked to the war in Iran</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T02:25:26-04:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>Iran warns the US against attacks on its oil tankers and other ships but ceasefire appears to hold</title>
       <link>https://abcnews.com/International/wireStory/fragile-ceasefire-holds-us-awaits-iran-response-bahrain-132807132</link>
@@ -43,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T13:08:38-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Iran war disruptions spark higher costs and lost income in Bangladesh</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-disruptions-spark-higher-costs-lost-income-132821732</link>
+      <description>Tariqul Islam, a ride-share driver in Bangladesh, faces long fuel lines due to supply disruptions linked to the war in Iran</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T02:25:26-04:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
       <title>What to know about British elections that hammered Starmer's Labour Party</title>
