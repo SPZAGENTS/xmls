@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 04:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 05:01:36 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
@@ -61,14 +61,6 @@
       <importance>39</importance>
     </item>
     <item>
-      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
-      <importance>44</importance>
-    </item>
-    <item>
       <title>U.A.E. Expels Pakistani Workers, as Pakistan’s Peacemaking Creates a Rift</title>
       <link>https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html</link>
       <description>As Pakistan mediates between the U.S. and Iran, its ties to the Emirates have deteriorated. Pakistani workers say they are now being sent home en masse.</description>
@@ -83,6 +75,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T21:43:24+00:00</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites</title>
+      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
+      <description>Tehran says it can endure the pain, but its oil may soon have nowhere to go.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-06T17:41:14+00:00</pubDate>
+      <importance>44</importance>
     </item>
   </channel>
 </rss>
