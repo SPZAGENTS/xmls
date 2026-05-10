@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Sun, 10 May 2026 12:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:06:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live: Iran's Guards threaten US sites in the region if its tankers come under fire</title>
@@ -42,6 +42,16 @@ US president Donald Trump insisted the ceasefire with Iran was still in place Th
 </description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T05:57:14</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Israel strikes kill several in Lebanon despite truce</title>
+      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
+      <description>
+Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:53:23</pubDate>
       <importance>72</importance>
     </item>
     <item>
@@ -91,16 +101,6 @@ Satirical Lego animations depicting US President Donald Trump as Israeli Prime M
 </description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-07T14:51:18</pubDate>
-      <importance>62</importance>
-    </item>
-    <item>
-      <title>Iran accuses US of breaching ceasefire with Strait of Hormuz attacks</title>
-      <link>https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike</link>
-      <description>
-Iran accused the US of violating a ceasefire by targeting two ships in the Strait of Hormuz and attacking civilian areas, the country's military command said early Friday. Iran said it fired missiles on “enemy units” in the strait in retaliation for a US attack on one of its oil tankers. Follow our liveblog to see how the day's events unfolded.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-07T02:37:26</pubDate>
       <importance>62</importance>
     </item>
   </channel>
