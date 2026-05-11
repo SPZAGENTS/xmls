@@ -2,18 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 00:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:01:45 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Middle East live: Trump says US-Iran ceasefire is on ‘life support’</title>
-      <link>https://www.france24.com/en/middle-east/20260511-middle-east-war-live-uk-and-france-to-host-defence-talks-on-hormuz-shipping-mission</link>
-      <description>
-President Donald Trump said on Monday that the US ceasefire with Iran is on “life support” and that he is still aiming for &quot;complete victory&quot; in the war after rejecting Iran's latest proposal for not including concessions on its nuclear programme. Follow our liveblog for the latest updates
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T01:53:09</pubDate>
-      <importance>77</importance>
-    </item>
     <item>
       <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
       <link>https://www.france24.com/en/video/20260510-iran-war</link>
@@ -45,6 +35,16 @@ US president Donald Trump insisted the ceasefire with Iran was still in place Th
       <importance>72</importance>
     </item>
     <item>
+      <title>Trump says Iran ceasefire on 'life support' after rejecting Tehran counteroffer</title>
+      <link>https://www.france24.com/en/middle-east/20260511-trump-says-iran-ceasefire-on-life-support-after-rejecting-tehran-counteroffer</link>
+      <description>
+US President Donald Trump warned Monday that the fragile ceasefire in the Middle East war was on 'life support' after rejecting Iran’s latest counterproposal, as Tehran vowed its military was ready to respond to any aggression and fears of a prolonged energy crisis sent oil prices surging.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T09:47:13</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
       <title>Israel strikes kill several in Lebanon despite truce</title>
       <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
       <description>
@@ -63,16 +63,6 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T15:28:00</pubDate>
       <importance>77</importance>
-    </item>
-    <item>
-      <title>Trump says Iran ceasefire on 'life support' after rejecting Tehran counteroffer</title>
-      <link>https://www.france24.com/en/middle-east/20260511-trump-says-iran-ceasefire-on-life-support-after-rejecting-tehran-counteroffer</link>
-      <description>
-US President Donald Trump warned Monday that the fragile ceasefire in the Middle East war was on 'life support' after rejecting Iran’s latest counterproposal, as Tehran vowed its military was ready to respond to any aggression and fears of a prolonged energy crisis sent oil prices surging.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T09:47:13</pubDate>
-      <importance>72</importance>
     </item>
     <item>
       <title>Iran keeps US waiting for response on ceasefire plan</title>
@@ -103,6 +93,15 @@ The Israeli military launched strikes across southern Lebanon on Saturday after 
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T05:49:43</pubDate>
       <importance>67</importance>
+    </item>
+    <item>
+      <title>'Killing Palestinians in broad daylight': Settlers attack villages with 'full support of military'</title>
+      <link>https://www.france24.com/en/video/20260510-west-bank-violence-no-accountability-for-settler-attacks</link>
+      <description>
+Jean-Emile Jammine is joined by Eid Hathaleen, a Palestinian human rights activist, cousin of slain teacher, activist and journalist Awdah Hathaleen and lifelong resident of the Bedouin village of Umm al-Khair in the occupied West Bank. He describes the settler violence devastating his community as systematic, insisting these are not random acts of brutality, but calculated attacks. He says their ultimate goal is the forced displacement and outright expulsion of Palestinians from their land. In</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T19:50:34</pubDate>
+      <importance>62</importance>
     </item>
   </channel>
 </rss>

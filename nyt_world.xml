@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 00:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:01:45 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Former Hostage Calls on All of Israel’s Government to Resign</title>
-      <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</link>
-      <description>Rom Braslavski, who said he had endured starvation, torture and sexual abuse during two-year captivity, demanded that members “take responsibility and get out of our lives.”</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T21:37:13+00:00</pubDate>
-      <importance>38</importance>
-    </item>
     <item>
       <title>Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
       <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
@@ -77,12 +69,20 @@
       <importance>39</importance>
     </item>
     <item>
-      <title>The Silence That Meets the Rape of Palestinians</title>
-      <link>https://www.nytimes.com/2026/05/11/opinion/israel-palestinians-sexual-violence.html</link>
-      <description>Male and female Palestinians describe brutal sexual abuse at the hands of Israel’s prison guards, soldiers, settlers and interrogators.</description>
+      <title>Former Hostage Calls on All of Israel’s Government to Resign</title>
+      <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</link>
+      <description>Rom Braslavski, who said he had endured starvation, torture and sexual abuse during two-year captivity, demanded that members “take responsibility and get out of our lives.”</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-11T14:42:24+00:00</pubDate>
-      <importance>37</importance>
+      <pubDate>2026-05-11T21:37:13+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
+      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
+      <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
+      <importance>39</importance>
     </item>
   </channel>
 </rss>
