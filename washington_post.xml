@@ -2,22 +2,22 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 18:41:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:01:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested</title>
-      <link>https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/</link>
-      <description>Iran defended the proposal as “reasonable and generous,” as oil prices rose Monday morning in response to the continued stalemate.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T09:12:01+00:00</pubDate>
-      <importance>42</importance>
-    </item>
     <item>
       <title>Iran war threatens the dream of a post-oil economy in the Gulf</title>
       <link>https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/</link>
       <description>The conflict is not only sapping oil revenue, but also Gulf states’ efforts to expand their economies beyond it.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T09:00:00+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Trump says Iran ceasefire is on ‘life support,’ calls latest proposal ‘garbage’</title>
+      <link>https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/</link>
+      <description>Iran defended the proposal as “reasonable and generous,” as oil prices rose Monday morning in response to the continued stalemate.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T16:51:38+00:00</pubDate>
       <importance>37</importance>
     </item>
   </channel>
