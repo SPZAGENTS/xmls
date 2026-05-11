@@ -2,31 +2,39 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 21:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:01:41 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>מלחמת איראן מאיימת על חלום של כלכלת לאחר הנפט במפרץ</title>
+      <title>Trump seeks to pause federal gas tax as prices soar amid Iran conflict</title>
+      <link>https://www.washingtonpost.com/politics/2026/05/11/trump-suspend-gas-tax-iran/</link>
+      <description>Congress would have to approve the proposal, and passing the savings on to drivers, rather than oil companies, would be difficult to enforce.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T18:26:27+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
+      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
+      <description>A cluster of cases aboard the ship have been linked to a type of hantavirus found in Argentina that can spread from person to person, the World Health Organization said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Iran war threatens the dream of a post-oil economy in the Gulf</title>
       <link>https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/</link>
-      <description>הסכסוך לא רק מוריד את הרווחים מהנפט, אלא גם את מאמצי מדינות המפרץ להרחיב את כלכלותיהן מעבר לתחום הנפט.</description>
+      <description>The conflict is not only sapping oil revenue, but also Gulf states’ efforts to expand their economies beyond it.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T09:00:00+00:00</pubDate>
       <importance>37</importance>
     </item>
     <item>
-      <title>טראמפ קורא לתגובת איראן לתוכנית השלום &quot;בלתי נתפסת&quot; כאשר הלחימה מובחנת</title>
+      <title>Trump says Iran ceasefire is on ‘life support,’ calls latest proposal ‘garbage’</title>
       <link>https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/</link>
-      <description>איראן הגנה על ההצעה כ&quot;סבירה ונדיבה&quot;, כאשר מחירי הנפט עלו בבוקר שני בתגובה למצב הקפאה המתמשך.</description>
+      <description>Iran defended the proposal as “reasonable and generous,” as oil prices rose Monday morning in response to the continued stalemate.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T16:51:38+00:00</pubDate>
       <importance>37</importance>
-    </item>
-    <item>
-      <title>מה לדעת על נגיף ההנטה לאחר מקרי מוות במהלך התפרצות ספינות שייט</title>
-      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
-      <description>מקבץ מקרים על סיפון הספינה נקשר לסוג של נגיף הנטה שנמצא בארגנטינה שיכול להתפשט מאדם לאדם, אמר ארגון הבריאות העולמי.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
-      <importance>32</importance>
     </item>
   </channel>
 </rss>
