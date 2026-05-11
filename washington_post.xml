@@ -2,23 +2,31 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 20:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:34:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran war threatens the dream of a post-oil economy in the Gulf</title>
+      <title>מלחמת איראן מאיימת על חלום של כלכלת לאחר הנפט במפרץ</title>
       <link>https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/</link>
-      <description>The conflict is not only sapping oil revenue, but also Gulf states’ efforts to expand their economies beyond it.</description>
+      <description>הסכסוך לא רק מוריד את הרווחים מהנפט, אלא גם את מאמצי מדינות המפרץ להרחיב את כלכלותיהן מעבר לתחום הנפט.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T09:00:00+00:00</pubDate>
-      <importance>37</importance>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Trump says Iran ceasefire is on ‘life support,’ calls latest proposal ‘garbage’</title>
-      <link>https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/</link>
-      <description>Iran defended the proposal as “reasonable and generous,” as oil prices rose Monday morning in response to the continued stalemate.</description>
+      <title>כאשר מלחמת איראן פוגעת במניות הנשק האמריקאיות, בעלות ברית חוששות מהשפעה על אוקראינה</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/</link>
+      <description>שותפי אירופה מפקפקים בכדאיות של תוכנית טראמפ לחמש את אוקראינה מכיוון ששבועות של מלחמה עם איראן מדללים את האספקה ​​של ארה&quot;ב של נשק קריטי.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-11T16:51:38+00:00</pubDate>
-      <importance>37</importance>
+      <pubDate>2026-05-11T09:32:24+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Spring in Ukraine means the return of blooms, battles and wartime tourists</title>
+      <link>https://www.washingtonpost.com/world/2026/05/10/ukraine-war-tourism-increasing/</link>
+      <description>In Ukraine, specialized tour guides are ready for a small but unstoppable flow of visitors who ignore blunt travel advisories. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:00:11+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
