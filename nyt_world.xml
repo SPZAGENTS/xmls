@@ -2,23 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 18:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:41:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Jailed Iranian Nobel Peace Prize Winner Is Transferred to Tehran Hospital</title>
-      <link>https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html</link>
-      <description>Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T14:13:57+00:00</pubDate>
-      <importance>53</importance>
-    </item>
     <item>
       <title>Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’</title>
       <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
       <description>Tehran said its conditions for a peace deal include U.S. war reparations, recognition of its sovereignty over the Strait of Hormuz and an end to American sanctions, Iranian state media reported.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-11T14:15:35+00:00</pubDate>
+      <pubDate>2026-05-11T15:32:46+00:00</pubDate>
       <importance>78</importance>
+    </item>
+    <item>
+      <title>Man Charged With Assassination Attempt at Correspondents’ Dinner Pleads Not Guilty</title>
+      <link>https://www.nytimes.com/2026/05/11/us/politics/correspondents-dinner-gunman-not-guilty-plea.html</link>
+      <description>Cole Tomas Allen faces four counts in what prosecutors say was a plot to kill President Trump and other top officials at the White House Correspondents’ Association dinner.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T15:08:21+00:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
       <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
@@ -29,6 +29,14 @@
       <importance>54</importance>
     </item>
     <item>
+      <title>Jailed Iranian Nobel Peace Prize Winner Is Transferred to Tehran Hospital</title>
+      <link>https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html</link>
+      <description>Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T14:13:57+00:00</pubDate>
+      <importance>53</importance>
+    </item>
+    <item>
       <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
       <link>https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html</link>
       <description>The strike was the first near the Lebanese capital since a cease-fire that has curbed fighting but not halted it. Washington is pushing for a lasting peace, hoping it will ease diplomacy with Iran.</description>
@@ -37,20 +45,20 @@
       <importance>74</importance>
     </item>
     <item>
-      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
-      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
-      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
-      <importance>54</importance>
-    </item>
-    <item>
       <title>Deadly Israeli Strikes Erode Cease-Fire in Lebanon</title>
       <link>https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html</link>
       <description>Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-09T17:37:46+00:00</pubDate>
       <importance>44</importance>
+    </item>
+    <item>
+      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
+      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
+      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
+      <importance>54</importance>
     </item>
     <item>
       <title>Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes</title>
@@ -75,14 +83,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T13:43:28+00:00</pubDate>
       <importance>39</importance>
-    </item>
-    <item>
-      <title>U.S. and Iran Trade Strikes as Tensions in Strait of Hormuz Rise</title>
-      <link>https://www.nytimes.com/2026/05/07/world/middleeast/us-iran-trade-strikes-hormuz.html</link>
-      <description>The escalating attacks raise the threat that the cease-fire could break down.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T22:52:07+00:00</pubDate>
-      <importance>34</importance>
     </item>
   </channel>
 </rss>
