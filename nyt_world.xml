@@ -2,55 +2,87 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 16:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 16:35:15 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>עדכוני מלחמת איראן: טהרן שוקלת הצעה אמריקאית לאחר איומים של טראמפ</title>
-      <link>https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil</link>
-      <description>גורם איראני אמר כי טהרן בוחנת תוכנית אמריקאית לסיום המלחמה, לאחר שהנשיא Trump איים לחדש תקיפות. מטוס קרב אמריקאי השבית מכלית עם דגל איראני, וישראל תקפה מטרות ליד ביירות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-trump-hkwt/06mideast-trump-hkwt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976651+00:00</pubDate>
-      <importance>70</importance>
+      <title>Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’</title>
+      <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
+      <description>Tehran said its conditions for a peace deal include U.S. war reparations, recognition of its sovereignty over the Strait of Hormuz and an end to American sanctions, Iranian state media reported.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T13:07:03+00:00</pubDate>
+      <importance>78</importance>
     </item>
     <item>
-      <title>איראן אומרת שהיא בוחנת הצעה של ארה&quot;ב לסיום המלחמה</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html</link>
-      <description>לא נחשף דבר על תוכנית השלום, והיו אותות סותרים מהאיראנים לגבי מידת הרצינות שבה הם מתייחסים להצעה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/06/multimedia/06int-iran-ledeall-1-fpvl/06int-iran-ledeall-1-fpvl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976773+00:00</pubDate>
-      <importance>60</importance>
+      <title>Israel Says It Killed a Hezbollah Chief Near Beirut, Testing the Truce</title>
+      <link>https://www.nytimes.com/2026/05/07/world/middleeast/israel-hezbollah-commander-beirut-strike.html</link>
+      <description>The strike was the first near the Lebanese capital since a cease-fire that has curbed fighting but not halted it. Washington is pushing for a lasting peace, hoping it will ease diplomacy with Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-07T19:11:56+00:00</pubDate>
+      <importance>74</importance>
     </item>
     <item>
-      <title>בשיחות עם איראן, סין קוראת לפתיחת מיצר הורמוז</title>
-      <link>https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html</link>
-      <description>הדיפלומט הבכיר של סין הזהיר מפני חידוש הלחימה במהלך פגישתו עם שר החוץ של איראן. ארה&quot;ב דחקה בסין ללחוץ על איראן לפתוח מחדש את נתיב המים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/06/multimedia/06int-china-iran-jwvp/06int-china-iran-jwvp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976719+00:00</pubDate>
-      <importance>50</importance>
+      <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
+      <link>https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html</link>
+      <description>Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T19:46:41+00:00</pubDate>
+      <importance>54</importance>
     </item>
     <item>
-      <title>טראמפ מחפש פתרון קסם לסיום המלחמה עם איראן. ייתכן שאין כזה</title>
-      <link>https://www.nytimes.com/2026/05/05/world/middleeast/trump-blockade-iran-war.html</link>
-      <description>הנשיא מנסה להגביר את הלחץ הכלכלי על טהרן, אך ממשלת איראן לא צפויה להגיע להסכם ללא פשרה גדולה שתשמור על כבודה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/06/multimedia/06int-iran-blockade-analysis-01-lbgh/06int-iran-blockade-analysis-01-lbgh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976753+00:00</pubDate>
-      <importance>50</importance>
+      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
+      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
+      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
+      <importance>54</importance>
     </item>
     <item>
-      <title>תחום הנפט והכלכלה של איראן תחת לחץ כשחסימת ארה&quot;ב נושכת</title>
-      <link>https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html</link>
-      <description>טהרן טוענת שהיא יכולה לעמוד בכאב, אך ייתכן שלנפט שלה לא יהיה לאן ללכת בקרוב.</description>
-      <imageUrl>https://static01.nyt.com/images/2025/06/16/multimedia/05int-iran-economy-2/16iran-oil-print-ltkf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976688+00:00</pubDate>
-      <importance>40</importance>
+      <title>Deadly Israeli Strikes Erode Cease-Fire in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html</link>
+      <description>Fighting between Israel and Hezbollah has shown little sign of abating, with Hezbollah also continuing to attack Israeli troops, and both sides accusing the other of violating a U.S.-brokered truce.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T17:37:46+00:00</pubDate>
+      <importance>44</importance>
     </item>
     <item>
-      <title>ברומניה, חיים עם כלי נשק של מלחמה שחודרים לשטח NATO</title>
-      <link>https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html</link>
-      <description>ארבע שנות קרב באוקראינה גובות מחיר מהרומנים השכנים. גם אם המלחמה לא חצתה את הגבול, כטב&quot;מים עשו זאת.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/05/multimedia/0500int-romania-drones-promo-kmjh/0500int-romania-drones-promo-kmjh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-06T20:03:24.976728+00:00</pubDate>
-      <importance>40</importance>
+      <title>Trump and Xi Are Set to Meet Again. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html</link>
+      <description>The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T08:33:55+00:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes</title>
+      <link>https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html</link>
+      <description>The U.S. Navy’s blockade continued to intercept ships trying to leave or enter Iranian ports, while fear of Iranian attacks kept other ships from attempting passage through the narrows.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T13:26:57+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
+      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
+      <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations</title>
+      <link>https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html</link>
+      <description>The United States and its partners have burned through an enormous amount of air defense missiles in the Iran war, and production is slow.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T06:21:38+00:00</pubDate>
+      <importance>39</importance>
+    </item>
+    <item>
+      <title>Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say</title>
+      <link>https://www.nytimes.com/2026/05/07/world/middleeast/iran-us-deal-proposal.html</link>
+      <description>The plan would reopen the Strait of Hormuz and give the two countries 30 days to hammer out a comprehensive deal, according to three Iranian officials.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T13:43:28+00:00</pubDate>
+      <importance>39</importance>
     </item>
   </channel>
 </rss>
