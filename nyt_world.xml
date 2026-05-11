@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 11 May 2026 23:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 00:01:25 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas</title>
-      <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html</link>
-      <description>Parliament passed a new law that paves the way for military trials for hundreds of Palestinians suspected of taking part in the 2023 attack that ignited the two-year war in Gaza.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T20:11:26+00:00</pubDate>
-      <importance>58</importance>
-    </item>
     <item>
       <title>Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
       <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
@@ -19,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T20:31:56+00:00</pubDate>
       <importance>68</importance>
+    </item>
+    <item>
+      <title>Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas</title>
+      <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html</link>
+      <description>Parliament passed a new law that paves the way for military trials for hundreds of Palestinians suspected of taking part in the 2023 attack that ignited the two-year war in Gaza.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T20:49:29+00:00</pubDate>
+      <importance>58</importance>
     </item>
     <item>
       <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
