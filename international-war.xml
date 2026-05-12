@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 05:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:10:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
@@ -73,6 +73,14 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <importance>77</importance>
     </item>
     <item>
+      <title>Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
+      <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
+      <description>Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T02:00:24+00:00</pubDate>
+      <importance>68</importance>
+    </item>
+    <item>
       <title>Iran keeps US waiting for response on ceasefire plan</title>
       <link>https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan</link>
       <description>
@@ -91,16 +99,6 @@ This week has seen renewed hope for ending the war in Iran, 10 weeks since it st
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T18:22:19</pubDate>
       <importance>72</importance>
-    </item>
-    <item>
-      <title>Israel launches strikes on south Lebanon after warning residents to evacuate</title>
-      <link>https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf</link>
-      <description>
-The Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. 
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T05:49:43</pubDate>
-      <importance>67</importance>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 05:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:10:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
+      <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
+      <description>Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T02:00:24+00:00</pubDate>
+      <importance>68</importance>
+    </item>
     <item>
       <title>Israel Prepares to Prosecute First Suspects in Oct. 7 Attack Led by Hamas</title>
       <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-oct-7-prosecutions-palestinians-trial.html</link>
@@ -27,14 +35,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T16:29:49+00:00</pubDate>
       <importance>49</importance>
-    </item>
-    <item>
-      <title>Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
-      <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
-      <description>Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T01:02:13+00:00</pubDate>
-      <importance>48</importance>
     </item>
     <item>
       <title>Deadly Israeli Strikes Erode Cease-Fire in Lebanon</title>
