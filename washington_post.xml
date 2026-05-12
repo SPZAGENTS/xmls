@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 04:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 04:44:45 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
-      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
-      <description>A cluster of cases aboard the ship have been linked to a type of hantavirus found in Argentina that can spread from person to person, the World Health Organization said.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>EU puts sanctions on Israeli settlers after Hungary drops Orban’s veto</title>
       <link>https://www.washingtonpost.com/world/2026/05/11/eu-israel-settler-sanctions/</link>
@@ -21,28 +13,36 @@
       <importance>57</importance>
     </item>
     <item>
-      <title>Iran war threatens the dream of a post-oil economy in the Gulf</title>
+      <title>מלחמת איראן מאיימת על חלום של כלכלת לאחר הנפט במפרץ</title>
       <link>https://www.washingtonpost.com/business/2026/05/10/iran-war-oil-gulf-economies/</link>
-      <description>The conflict is not only sapping oil revenue, but also Gulf states’ efforts to expand their economies beyond it.</description>
+      <description>הסכסוך לא רק מוריד את הרווחים מהנפט, אלא גם מונע את מאמצי מדינות המפרץ להרחיב את כלכלותיהן מעבר לזה.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T09:00:00+00:00</pubDate>
       <importance>37</importance>
     </item>
     <item>
-      <title>Trump seeks to pause federal gas tax as prices soar amid Iran conflict</title>
+      <title>טראמפ מבקש להשהות את מס הדלק הפדרלי כשמחיריו עולים בעקבות הסכסוך עם איראן</title>
       <link>https://www.washingtonpost.com/politics/2026/05/11/trump-suspend-gas-tax-iran/</link>
-      <description>Congress would have to approve the proposal, and passing the savings on to drivers, rather than oil companies, would be difficult to enforce.</description>
+      <description>יש לאשר את ההצעה בקונגרס, והעברת החיסכון לנהגים, במקום לחברות הנפט, תהיה קשה ליישום.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T18:26:27+00:00</pubDate>
       <importance>37</importance>
     </item>
     <item>
-      <title>Trump says Iran ceasefire is on ‘life support,’ calls latest proposal ‘garbage’</title>
+      <title>טראמפ אומר כי ההפסקת אש של איראן נמצאת ב'תמיכה חייתית', ומכנה את ההצעה האחרונה &quot;זבל&quot;</title>
       <link>https://www.washingtonpost.com/politics/2026/05/10/iran-response-us-proposal-war/</link>
-      <description>Iran defended the proposal as “reasonable and generous,” as oil prices rose Monday morning in response to the continued stalemate.</description>
+      <description>איראן הגנה על ההצעה כ&quot;סבירה ונדיבה&quot;, כשמחירי הנפט עלו בבוקר שני בתגובה למצב העקום הממשיך.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T16:51:38+00:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>מה לדעת על וירוס ההנטה אחרי מותם במהלך פריצת הוירוס בספינת תיירים</title>
+      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
+      <description>אשפת תיקון של מקרים בספינה נקשרה לסוג של וירוס הנטה שנמצא בארגנטינה ויכול להתפשט מאדם לאדם, דיווחה ארגון הבריאות העולמי.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
