@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 16:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:01:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Invasive plant threatens livelihoods in Colombia’s largest coastal wetland</title>
+      <link>https://abcnews.com/International/wireStory/invasive-plant-threatens-livelihoods-colombias-largest-coastal-wetland-132878370</link>
+      <description>Colombia's Cienaga Grande de Santa Marta wetland is facing an environmental crisis due to an invasive plant native to Asia</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T09:31:19-04:00</pubDate>
+      <importance>37</importance>
+    </item>
     <item>
       <title>Kuwait alleges that Iran attacked an island hosting a China-funded port before Trump's Beijing trip</title>
       <link>https://abcnews.com/International/wireStory/kuwait-alleges-iran-attacked-island-hosting-china-funded-132871387</link>
@@ -11,14 +19,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T08:10:14-04:00</pubDate>
       <importance>62</importance>
-    </item>
-    <item>
-      <title>ICC unseals arrest warrant for a prominent Philippine senator over drug war killings under Duterte</title>
-      <link>https://abcnews.com/International/wireStory/icc-unseals-arrest-warrant-prominent-philippine-senator-drug-132848310</link>
-      <description>The International Criminal Court has unsealed an arrest warrant for a prominent Philippine senator linked to the deadly &amp;ldquo;war on drugs&amp;rdquo; overseen by ex-President Rodrigo Duterte, which allegedly involved the extrajudicial killings of suspects</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T08:12:45-04:00</pubDate>
-      <importance>37</importance>
     </item>
     <item>
       <title>Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers</title>
@@ -37,11 +37,35 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda</title>
+      <link>https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731</link>
+      <description>Presidents Xi Jinping and Donald Trump are preparing for a summit, with both China and the U.S. emphasizing stable ties</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T08:10:42-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>Shipping industry fears fuel shortages as Iran war squeezes bunker fuel supply</title>
+      <link>https://abcnews.com/International/wireStory/shipping-industry-fears-fuel-shortages-iran-war-squeezes-132871217</link>
+      <description>The global maritime industry is facing a looming shortage of the fuel that powers ships as the Iran war chokes off a key shipping lane in the Strait of Hormuz</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T05:30:04-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>Inflation jumps to its highest level in three years</title>
       <link>https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452</link>
       <description>The Iran war has ratcheted up prices for gasoline, airfares and other expenses.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T09:45:01-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>What to know about contenders who could replace Keir Starmer as Britain's leader</title>
+      <link>https://abcnews.com/International/wireStory/contenders-replace-keir-starmer-britains-labour-leader-132873202</link>
+      <description>British Prime Minister Keir Starmer's leadership is in jeopardy after his Labour Party suffered heavy defeats in local elections last week</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T06:34:08-04:00</pubDate>
       <importance>32</importance>
     </item>
   </channel>
