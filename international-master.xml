@@ -2,18 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 21:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 21:06:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Trump shuts down Iran's response to US peace proposal</title>
-      <link>https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire</link>
-      <description>
-Iran, which on Sunday sent its response to the latest US ceasefire proposal, wants negotiations to focus on permanently ending the war. However, US President Donald Trump quickly rejected it as “totally unacceptable”. He did not explain why. Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping. Follow our blog to see how the day's events unfolded.
-</description>
-      <imageUrl>https://s.france24.com/media/display/f1e67290-4a8c-11f1-bb69-005056bf30b7/w:1024/p:16x9/Trump-27.jpeg</imageUrl>
-      <pubDate>2026-05-10T06:50:18</pubDate>
-      <importance>68</importance>
-    </item>
     <item>
       <title>Independent Israeli report accuses Hamas of 'systematic' sexual violence during October 7 attacks</title>
       <link>https://www.france24.com/en/independent-israeli-report-accuses-hamas-of-systematic-sexual-violence-during-october-7-attacks</link>
@@ -22,6 +12,16 @@ A new independent commission finds Hamas and its allies committed &quot;systemat
 </description>
       <imageUrl>https://s.france24.com/media/display/b22cdd32-4e02-11f1-8843-005056a90284/w:1024/p:16x9/capture-13554009766a0324aaa08d54-22954110.jpg</imageUrl>
       <pubDate>2026-05-12T13:05:06</pubDate>
+      <importance>68</importance>
+    </item>
+    <item>
+      <title>Trump shuts down Iran's response to US peace proposal</title>
+      <link>https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire</link>
+      <description>
+Iran, which on Sunday sent its response to the latest US ceasefire proposal, wants negotiations to focus on permanently ending the war. However, US President Donald Trump quickly rejected it as “totally unacceptable”. He did not explain why. Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping. Follow our blog to see how the day's events unfolded.
+</description>
+      <imageUrl>https://s.france24.com/media/display/f1e67290-4a8c-11f1-bb69-005056bf30b7/w:1024/p:16x9/Trump-27.jpeg</imageUrl>
+      <pubDate>2026-05-10T06:50:18</pubDate>
       <importance>68</importance>
     </item>
     <item>
@@ -51,14 +51,6 @@ Iran on Saturday questioned the seriousness of US diplomacy while keeping Wash
       <imageUrl>https://s.france24.com/media/display/d893396c-4ac4-11f1-80d8-005056a90284/w:1024/p:16x9/3a99f04c0e831574dc9a7047493ccbe23a273935.jpg</imageUrl>
       <pubDate>2026-05-09T10:09:15</pubDate>
       <importance>58</importance>
-    </item>
-    <item>
-      <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
-      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
-      <description>A cluster of cases aboard the ship have been linked to a type of hantavirus found in Argentina that can spread from person to person, the World Health Organization said.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
-      <importance>32</importance>
     </item>
     <item>
       <title>Lebanon says Israeli strikes killed 39</title>
@@ -93,6 +85,14 @@ Israel carried out strikes across Lebanon on Saturday, killing at least nine peo
       <imageUrl>https://s.france24.com/media/display/c2d442ce-4c54-11f1-960f-005056bfb2b6/w:1024/p:16x9/EN-20260510-110642-110812-CS.jpg</imageUrl>
       <pubDate>2026-05-10T09:53:23</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
+      <link>https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html</link>
+      <description>Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T19:46:41+00:00</pubDate>
+      <importance>54</importance>
     </item>
   </channel>
 </rss>
