@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 21:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:00:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hegseth and Caine testify at Senate hearing amid Iran war</title>
@@ -13,12 +13,20 @@
       <importance>37</importance>
     </item>
     <item>
-      <title>Kuwait says Iran attacked an island where China is helping to build a port</title>
-      <link>https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae</link>
-      <description>Kuwait accused Iran of launching a failed attack earlier this month on an island where China is helping build a port. And a U.S. ambassador revealed Israel sent its Iron Dome air-defense to the United Arab Emirates.</description>
+      <title>Israel's government is expected to collapse over ultra-Orthodox military draft</title>
+      <link>https://www.npr.org/2026/05/12/g-s1-121631/israel-military-ultra-orthodox-netanyahu-coalition</link>
+      <description>An ultra-Orthodox Jewish party in Israeli Prime Minister Benjamin Netanyahu's coalition has called for parliament to be dissolved, threatening to bring down the government.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-12T05:15:19-04:00</pubDate>
+      <pubDate>2026-05-12T14:43:28-04:00</pubDate>
       <importance>42</importance>
+    </item>
+    <item>
+      <title>Trump heads to China for state visit. And, how the war in Iran has affected inflation</title>
+      <link>https://www.npr.org/2026/05/12/g-s1-121602/up-first-newsletter-trump-china-xi-jinping-inflation-mifepristone-cameron-hamilton</link>
+      <description>Trump leaves for Beijing today for a state visit with Chinese President Xi Jinping. And, a new inflation report is expected to show the war in Iran's impact on the U.S.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T07:27:59-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
