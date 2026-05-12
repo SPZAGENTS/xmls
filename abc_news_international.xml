@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 15:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 16:01:39 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Kuwait alleges that Iran attacked an island hosting a China-funded port before Trump's Beijing trip</title>
@@ -11,14 +11,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T08:10:14-04:00</pubDate>
       <importance>62</importance>
-    </item>
-    <item>
-      <title>What to know about contenders who could replace Keir Starmer as Britain's leader</title>
-      <link>https://abcnews.com/International/wireStory/contenders-replace-keir-starmer-britains-labour-leader-132873202</link>
-      <description>British Prime Minister Keir Starmer's leadership is in jeopardy after his Labour Party suffered heavy defeats in local elections last week</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T06:34:08-04:00</pubDate>
-      <importance>32</importance>
     </item>
     <item>
       <title>Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers</title>
@@ -57,7 +49,15 @@
       <link>https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452</link>
       <description>The Iran war has ratcheted up prices for gasoline, airfares and other expenses.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-12T08:34:39-04:00</pubDate>
+      <pubDate>2026-05-12T08:59:18-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>What to know about contenders who could replace Keir Starmer as Britain's leader</title>
+      <link>https://abcnews.com/International/wireStory/contenders-replace-keir-starmer-britains-labour-leader-132873202</link>
+      <description>British Prime Minister Keir Starmer's leadership is in jeopardy after his Labour Party suffered heavy defeats in local elections last week</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T06:34:08-04:00</pubDate>
       <importance>32</importance>
     </item>
   </channel>
