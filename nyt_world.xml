@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 07:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:16:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
@@ -26,6 +26,14 @@
       <description>Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T19:46:41+00:00</pubDate>
+      <importance>54</importance>
+    </item>
+    <item>
+      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
+      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
+      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
       <importance>54</importance>
     </item>
     <item>
@@ -61,12 +69,12 @@
       <importance>39</importance>
     </item>
     <item>
-      <title>Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War</title>
-      <link>https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html</link>
-      <description>The United Arab Emirates has borne the brunt of Iranian attacks throughout the war, hardening the government’s resolve to reassess its list of friends and foes.</description>
+      <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
+      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
+      <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-08T12:59:54+00:00</pubDate>
-      <importance>54</importance>
+      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
+      <importance>39</importance>
     </item>
     <item>
       <title>Former Hostage Calls on All of Israel’s Government to Resign</title>
@@ -75,14 +83,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T00:22:09+00:00</pubDate>
       <importance>38</importance>
-    </item>
-    <item>
-      <title>Iran Says It Seized Oil Tanker Listed by U.S. as Sanctions Violator</title>
-      <link>https://www.nytimes.com/2026/05/08/business/iran-war-tanker-ocean-koi.html</link>
-      <description>A maritime tracking company said the move was likely performative, given the Chinese-owned ship has an “established history within the Iranian trade ecosystem.”</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T16:11:51+00:00</pubDate>
-      <importance>39</importance>
     </item>
   </channel>
 </rss>

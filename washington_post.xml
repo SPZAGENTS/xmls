@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 07:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:16:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
-      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
-      <description>A cluster of cases aboard the ship have been linked to a type of hantavirus found in Argentina that can spread from person to person, the World Health Organization said.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>EU puts sanctions on Israeli settlers after Hungary drops Orban’s veto</title>
       <link>https://www.washingtonpost.com/world/2026/05/11/eu-israel-settler-sanctions/</link>
@@ -43,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T16:51:38+00:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
+      <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
+      <description>A cluster of cases aboard the ship have been linked to a type of hantavirus found in Argentina that can spread from person to person, the World Health Organization said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T17:46:52+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
