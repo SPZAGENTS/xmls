@@ -2,24 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 10:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:29:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda</title>
-      <link>https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731</link>
-      <description>Presidents Xi Jinping and Donald Trump are preparing for a summit, with both China and the U.S. emphasizing stable ties</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T02:50:10-04:00</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
-      <title>Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers</title>
-      <link>https://abcnews.com/International/wireStory/israeli-lawmakers-set-special-tribunal-death-penalty-hamas-132862937</link>
-      <description>Israeli lawmakers have approved a bill setting up a special tribunal that would try and have the authority to sentence to death Palestinians convicted of taking part in the 2023 Hamas-led attack that triggered the war in Gaza</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T02:20:31-04:00</pubDate>
-      <importance>57</importance>
-    </item>
     <item>
       <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
       <link>https://www.france24.com/en/video/20260510-iran-war</link>
@@ -69,16 +53,6 @@ US President Donald Trump warned Monday that the fragile ceasefire in the Middle
       <importance>72</importance>
     </item>
     <item>
-      <title>Israel strikes kill several in Lebanon despite truce</title>
-      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
-      <description>
-Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T09:53:23</pubDate>
-      <importance>72</importance>
-    </item>
-    <item>
       <title>Trump shuts down Iran's response to US peace proposal</title>
       <link>https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire</link>
       <description>
@@ -97,6 +71,34 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T15:28:00</pubDate>
       <importance>77</importance>
+    </item>
+    <item>
+      <title>Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
+      <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
+      <description>Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T02:00:24+00:00</pubDate>
+      <importance>68</importance>
+    </item>
+    <item>
+      <title>Israel strikes kill several in Lebanon despite truce</title>
+      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
+      <description>
+Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:53:23</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Iran keeps US waiting for response on ceasefire plan</title>
+      <link>https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan</link>
+      <description>
+Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backed Hezbollah.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T10:09:15</pubDate>
+      <importance>72</importance>
     </item>
   </channel>
 </rss>

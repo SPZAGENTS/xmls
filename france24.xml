@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 10:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:29:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
@@ -45,16 +45,6 @@ US President Donald Trump warned Monday that the fragile ceasefire in the Middle
       <importance>72</importance>
     </item>
     <item>
-      <title>Israel strikes kill several in Lebanon despite truce</title>
-      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
-      <description>
-Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T09:53:23</pubDate>
-      <importance>72</importance>
-    </item>
-    <item>
       <title>Trump shuts down Iran's response to US peace proposal</title>
       <link>https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire</link>
       <description>
@@ -73,6 +63,16 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T15:28:00</pubDate>
       <importance>77</importance>
+    </item>
+    <item>
+      <title>Israel strikes kill several in Lebanon despite truce</title>
+      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
+      <description>
+Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:53:23</pubDate>
+      <importance>72</importance>
     </item>
     <item>
       <title>Iran keeps US waiting for response on ceasefire plan</title>
