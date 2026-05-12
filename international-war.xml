@@ -2,15 +2,33 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 09:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:01:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>EU diplomats agree to sanction Hamas leaders and Israeli settlers</title>
-      <link>https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers</link>
-      <description>החברה האירופית חלומה לקנס  אנשי  המוסד  החמאס</description>
+      <title>What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda</title>
+      <link>https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731</link>
+      <description>Presidents Xi Jinping and Donald Trump are preparing for a summit, with both China and the U.S. emphasizing stable ties</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-12T01:47:02-04:00</pubDate>
-      <importance>72</importance>
+      <pubDate>2026-05-12T02:50:10-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>Israeli lawmakers set up a special tribunal and allow for death penalty for Hamas-led 2023 attackers</title>
+      <link>https://abcnews.com/International/wireStory/israeli-lawmakers-set-special-tribunal-death-penalty-hamas-132862937</link>
+      <description>Israeli lawmakers have approved a bill setting up a special tribunal that would try and have the authority to sentence to death Palestinians convicted of taking part in the 2023 Hamas-led attack that triggered the war in Gaza</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T02:20:31-04:00</pubDate>
+      <importance>57</importance>
+    </item>
+    <item>
+      <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
+      <link>https://www.france24.com/en/video/20260510-iran-war</link>
+      <description>
+Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear limits, and maritime security.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T10:50:07</pubDate>
+      <importance>77</importance>
     </item>
     <item>
       <title>What we know about the latest exchange of fire between the US and Iran</title>
@@ -23,7 +41,45 @@ US president Donald Trump insisted the ceasefire with Iran was still in place Th
       <importance>72</importance>
     </item>
     <item>
-      <title>&lt;img alt=&quot;Iran, which on Sunday sent its response to the latest US ceasefire proposal, wants negotiations to focus on permanently ending the war. However, US President Donald Trump quickly rejected it as “totally unacceptable”. He did not explain why. Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping. Follow our blog to see how the day's events unfolded.&quot;</title>
+      <title>EU diplomats agree to sanction Hamas leaders and Israeli settlers</title>
+      <link>https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers</link>
+      <description>The unanimous decision by the European Union, agreed to on Monday, was sparked by growing outrage over the devastation in Gaza during the Israel-Hamas war.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T01:47:02-04:00</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Middle East war live: France, UK host Hormuz meeting as Trump says Iran truce ‘on life support’</title>
+      <link>https://www.france24.com/en/middle-east/20260512-middle-east-live-us-iran-talks-deadlocked-strait-of-hormuz-still-closed</link>
+      <description>
+French Defence Minister Catherine Vautrin and her British counterpart John Healey will co-chair a multinational meeting Tuesday on military plans to restore trade flows through the blocked Strait of Hormuz after the Iran war ends. The virtual meeting of dozens of defence ministers comes as President Donald Trump warned the US-Iran ceasefire was on “life support”. Follow our liveblog for the latest updates.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T04:18:04</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Trump says Iran ceasefire on 'life support' after rejecting Tehran counteroffer</title>
+      <link>https://www.france24.com/en/middle-east/20260511-trump-says-iran-ceasefire-on-life-support-after-rejecting-tehran-counteroffer</link>
+      <description>
+US President Donald Trump warned Monday that the fragile ceasefire in the Middle East war was on &quot;life support&quot; after rejecting Iran’s latest counterproposal, as Tehran vowed its military was ready to respond to any aggression and fears of a prolonged energy crisis sent oil prices surging.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T09:47:13</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Israel strikes kill several in Lebanon despite truce</title>
+      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
+      <description>
+Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T09:53:23</pubDate>
+      <importance>72</importance>
+    </item>
+    <item>
+      <title>Trump shuts down Iran's response to US peace proposal</title>
       <link>https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire</link>
       <description>
 Iran, which on Sunday sent its response to the latest US ceasefire proposal, wants negotiations to focus on permanently ending the war. However, US President Donald Trump quickly rejected it as “totally unacceptable”. He did not explain why. Iran seeks to end the war on all fronts, including in Lebanon, where Israel is fighting the Iranian-backed Hezbollah militant group, and to ensure the security of shipping. Follow our blog to see how the day's events unfolded.
@@ -41,58 +97,6 @@ The United Arab Emirates says it's responded to fresh missile and drone attacks 
       <imageUrl></imageUrl>
       <pubDate>2026-05-08T15:28:00</pubDate>
       <importance>77</importance>
-    </item>
-    <item>
-      <title>Iran keeps US waiting for response on ceasefire plan</title>
-      <link>https://www.france24.com/en/middle-east/20260509-iran-keeps-us-waiting-for-response-on-ceasefire-plan</link>
-      <description>
-Iran on Saturday questioned the seriousness of US diplomacy while keeping Washington waiting for a response to its latest negotiating position in the wake of renewed naval clashes in the Gulf. A parallel ceasefire on the war's Lebanon front is also under strain amid daily exchanges of fire between Israel and Iran-backed Hezbollah.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T10:09:15</pubDate>
-      <importance>72</importance>
-    </item>
-    <item>
-      <title>תוכיזות שלום לאיראן?</title>
-      <link>https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman</link>
-      <description>השבוע הזה ראה את החלום להניאת המלחמה באיראן, 10 שבועות מאז שהחל, 4 שבועות של חצאי-שלום, פרשה ומערכים.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T18:22:19</pubDate>
-      <importance>72</importance>
-    </item>
-    <item>
-      <title>הצבא הישראלי התקפה על שטחי לבנון, 6:30,</title>
-      <link>https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf</link>
-      <description>הצבא הישראלי התקפה על שטחי לבנון, 6:30,</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T05:49:43</pubDate>
-      <importance>67</importance>
-    </item>
-    <item>
-      <title>ישראל והיזבללך כופים לחיות</title>
-      <link>https://www.france24.com/en/israel-and-hezbollah-continue-to-trade-blows-despite-the-ceasefire</link>
-      <description>התעשה חתירה של ישראל בדרום-מחוז Beirut,  ראש ממשי  בנימין נתניהו  אישר  לפ్రతא  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T09:41:34</pubDate>
-      <importance>62</importance>
-    </item>
-    <item>
-      <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
-      <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ordinary Iranians tell of worry about increased repression by authorities after the war is over.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-03T23:19:57</pubDate>
-      <importance>44</importance>
-    </item>
-    <item>
-      <title>Iran on the verge of economic asphyxiation -- rare footage from Tehran</title>
-      <link>https://www.france24.com/en/did-donald-trump-liberate-the-iranian-people-iran-on-the-verge-of-economic-asphyxiation</link>
-      <description>
-Two months ago, Donald Trump claimed the United States would liberate the Iranian people when it launched the offensive alongside Israel. Two months into the war, the regime is still there, the repression continues, and the country stands on the verge of economic asphyxiation. Our colleagues at France 2 had the rare opportunity to film the lives of Iranians in the heart of Tehran, where runaway inflation has led to a cost of living crisis.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-08T09:11:00</pubDate>
-      <importance>57</importance>
     </item>
   </channel>
 </rss>
