@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 14:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:38:17 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags</title>
-      <link>https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</link>
-      <description>The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T10:48:51+00:00</pubDate>
-      <importance>53</importance>
-    </item>
     <item>
       <title>Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’</title>
       <link>https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz</link>
@@ -35,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T19:46:41+00:00</pubDate>
       <importance>54</importance>
+    </item>
+    <item>
+      <title>The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags</title>
+      <link>https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html</link>
+      <description>The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T10:48:51+00:00</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>Narges Mohammadi, Jailed Iranian Nobel Prize Winner Is Transferred to Tehran Hospital</title>
