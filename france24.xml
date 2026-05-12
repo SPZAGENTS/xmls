@@ -2,18 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Tue, 12 May 2026 11:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:31:21 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
-      <link>https://www.france24.com/en/video/20260510-iran-war</link>
-      <description>
-Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear limits, and maritime security.
-</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T10:50:07</pubDate>
-      <importance>77</importance>
-    </item>
     <item>
       <title>What we know about the latest exchange of fire between the US and Iran</title>
       <link>https://www.france24.com/en/video/20260508-what-we-know-about-the-latest-exchange-of-fire-between-the-us-and-iran</link>
@@ -43,6 +33,16 @@ US President Donald Trump warned Monday that the fragile ceasefire in the Middle
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T09:47:13</pubDate>
       <importance>72</importance>
+    </item>
+    <item>
+      <title>Iran warns of retaliation as US tensions threaten fragile peace talks</title>
+      <link>https://www.france24.com/en/video/20260510-iran-war</link>
+      <description>
+Tensions between the United States and Iran have escalated after reports of US fire on Iranian-linked tankers in the Gulf of Oman. Tehran warned of retaliation against American targets in the region as diplomatic efforts continue over a proposed deal involving sanctions, nuclear limits, and maritime security.
+</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T10:50:07</pubDate>
+      <importance>77</importance>
     </item>
     <item>
       <title>Trump shuts down Iran's response to US peace proposal</title>
