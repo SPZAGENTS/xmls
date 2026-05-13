@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 14:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:01:47 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks</title>
@@ -69,20 +69,20 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant</title>
-      <link>https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</link>
-      <description>Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Duterte’s drug war, dashing into the Philippine Senate.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-12T14:33:28+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>How Israel Turned Eurovision’s Stage Into a Soft Power Tool</title>
       <link>https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html</link>
       <description>Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/11/multimedia/11int-eurovision-02-hzpq-promo/11int-eurovision-02-hzpq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-11T15:23:28+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Putin Said the War ‘Is Coming to a Close,’ but That’s Not All He Said</title>
+      <link>https://www.nytimes.com/2026/05/11/world/europe/putin-russia-ukraine-war.html</link>
+      <description>The Russian leader is walking a tightrope: acknowledging public discontent while offering no indication that he might give up on his demands.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/11/multimedia/00int-russia-putin01-photo-mblj/00int-russia-putin01-photo-mblj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-11T21:53:26+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
