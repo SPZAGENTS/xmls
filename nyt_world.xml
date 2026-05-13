@@ -2,40 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 17:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What You Need to Know About the Federal Gas Tax</title>
-      <link>https://www.nytimes.com/2026/05/13/business/energy-environment/trump-federal-gas-tax.html</link>
-      <description>President Trump said he would like to suspend the 18.4-cent-a-gallon tax, but it’s a move that may save drivers only a few dollars a month.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T09:03:51+00:00</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
-      <title>With Trump in China, Mideast War Simmers Without End in Sight</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
-      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T12:44:55+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html</link>
-      <description>Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T09:03:29+00:00</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
-      <title>Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html</link>
-      <description>Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T08:55:35+00:00</pubDate>
-      <importance>38</importance>
-    </item>
     <item>
       <title>Kuwait Accuses Iran of Trying to Infiltrate Its Territory</title>
       <link>https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html</link>
@@ -83,6 +51,38 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T22:08:43+00:00</pubDate>
       <importance>34</importance>
+    </item>
+    <item>
+      <title>Narges Mohammadi, Jailed Iranian Nobel Prize Winner Is Transferred to Tehran Hospital</title>
+      <link>https://www.nytimes.com/2026/05/11/world/middleeast/narges-mohammadi-iran-nobel-hospital-tehran.html</link>
+      <description>Narges Mohammadi, a prominent human rights activist who has spent much of her adult life in and out of prison, will undergo treatment in Tehran after collapsing earlier this month, a foundation run by her family said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T16:29:49+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>Lebanese Mourn Eight Members of One Family Killed in Israeli Strike</title>
+      <link>https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html</link>
+      <description>Israel has escalated attacks on Lebanon since Thursday, further unraveling a truce in its war with Hezbollah. Among those killed on Saturday was a 6-month-old infant, relatives said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T19:46:41+00:00</pubDate>
+      <importance>54</importance>
+    </item>
+    <item>
+      <title>Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’</title>
+      <link>https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html</link>
+      <description>The United States and Iran have been discussing a 30-day extension to their cease-fire and a reopening of the Strait of Hormuz.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T00:48:30+00:00</pubDate>
+      <importance>34</importance>
+    </item>
+    <item>
+      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
+      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T12:44:55+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
