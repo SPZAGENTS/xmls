@@ -2,40 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 08:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:28:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says</title>
-      <link>https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The most comprehensive report of its kind details harrowing cases of sexual attacks which it says were systematic.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efcd/live/2bb72400-4e0d-11f1-ac78-2112837ce2aa.jpg</imageUrl>
-      <pubDate>2026-05-12T16:58:51</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>Snack giant switches to black and white packaging as Iran war hits ink supplies</title>
-      <link>https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg</imageUrl>
-      <pubDate>2026-05-12T07:46:47</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack</title>
-      <link>https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f040/live/d4bf8df0-4e5b-11f1-9305-3566b5d14ae1.jpg</imageUrl>
-      <pubDate>2026-05-13T01:59:53</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>Lebanon says two paramedics among 13 killed in Israeli strikes</title>
-      <link>https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg</imageUrl>
-      <pubDate>2026-05-12T20:00:05</pubDate>
-      <importance>23</importance>
-    </item>
     <item>
       <title>No sign of larger hantavirus outbreak, says UN health agency</title>
       <link>https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -45,9 +13,41 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Uganda's president sworn in for record seventh term</title>
+      <title>חמאס 'נשק' אלימות מינית בהתקפות ה-7 באוקטובר, כך על פי חקירה ישראלית</title>
+      <link>https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>הדו&quot;ח המקיף ביותר מסוגו מתאר מקרים מזעזעים של תקיפות מיניות, שלטענתו היו שיטתיות.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efcd/live/2bb72400-4e0d-11f1-ac78-2112837ce2aa.jpg</imageUrl>
+      <pubDate>2026-05-12T16:58:51</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>ענקית החטיפים עוברת לאריזות שחור-לבן בעקבות מלחמת איראן שפוגעת באספקת דיו</title>
+      <link>https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>סגירתו היעילה של מצר הורמוז שיבשה קשות את אספקת האנרגיה והפטרוכימיקלים העולמית</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg</imageUrl>
+      <pubDate>2026-05-12T07:46:47</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>לבנון: שני חובשים בין 13 הרוגים בתקיפות ישראליות</title>
+      <link>https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>משרד הבריאות הלבנוני מסר כי החובשים ביצעו משימת חילוץ בנבטיה בתגובה לתקיפה קודמת שבה נהרג אדם אחד.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg</imageUrl>
+      <pubDate>2026-05-12T20:00:05</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>&quot;כיפת הזהב&quot; של טראמפ תעלה 1.2 טריליון דולר ועשויה שלא לעצור מתקפת טילים מלאה</title>
+      <link>https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>המחיר גבוה כמעט פי שבע מההערכה הראשונית של טראמפ, כך קבע משרד תקציב עצמאי.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f040/live/d4bf8df0-4e5b-11f1-9305-3566b5d14ae1.jpg</imageUrl>
+      <pubDate>2026-05-13T01:59:53</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>נשיא אוגנדה הושבע לקדנציה שביעית שיאית</title>
       <link>https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.</description>
+      <description>יוורי מוסווני, בן 81, ניצח בבחירות שנויות במחלוקת בינואר כדי להאריך את שלטונו בן 40 השנה</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/3e3c40b0-4e12-11f1-ac78-2112837ce2aa.jpg</imageUrl>
       <pubDate>2026-05-12T14:58:18</pubDate>
       <importance>18</importance>
