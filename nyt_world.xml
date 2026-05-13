@@ -2,15 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 04:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:01:12 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Live Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks</title>
+      <title>Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks</title>
       <link>https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz</link>
       <description>Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12mideast-promo4p-zpfj/12mideast-promo4p-zpfj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-12T23:01:57+00:00</pubDate>
+      <pubDate>2026-05-13T01:16:21+00:00</pubDate>
       <importance>43</importance>
+    </item>
+    <item>
+      <title>Earthquake Shakes Tehran, Where Nerves Are Already Strained by Iran War</title>
+      <link>https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html</link>
+      <description>Iranian media said a moderate quake had shaken the capital around midnight local time.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/12/world/12wea-quake-tracker-iran-nyta5u1f-v2-index/12wea-quake-tracker-iran-nyta5u1f-v2-index-mediumSquareAt3X-v5.jpeg</imageUrl>
+      <pubDate>2026-05-13T00:41:34+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags</title>
@@ -37,14 +45,6 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Earthquake Shakes Tehran, Where Nerves Are Already Strained by Iran War</title>
-      <link>https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html</link>
-      <description>Iranian media said a moderate quake had shaken the capital around midnight local time.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/12/world/12wea-quake-tracker-iran-nyta5u1f-v2-index/12wea-quake-tracker-iran-nyta5u1f-v2-index-mediumSquareAt3X-v5.jpeg</imageUrl>
-      <pubDate>2026-05-12T21:19:13+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
       <title>U.S. Might Restart Strikes on Iran, Trump and Hegseth Warn</title>
       <link>https://www.nytimes.com/2026/05/12/world/middleeast/trump-iran-ceasefire-strikes.html</link>
       <description>With talks at an impasse, both sides are holding to positions their opponents call unacceptable, while the economic pain caused by the Strait of Hormuz blockade continues to grow.</description>
@@ -58,14 +58,6 @@
       <description>A military spokesman confirmed the bombing in Zamfara state, but said there was no verifiable evidence of civilian casualties.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T21:47:19+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Drones Are Leading Cause of Civilian Deaths in Sudan War, U.N. Says</title>
-      <link>https://www.nytimes.com/2026/05/12/world/africa/sudan-drones-civilian-deaths.html</link>
-      <description>The U.N. documented 880 deaths from strikes carried out by Sudan’s military or its paramilitary enemy, the Rapid Support Forces, between January and April.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12int-sudan-drones-1-lfbm/12int-sudan-drones-1-lfbm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-12T20:08:20+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
@@ -83,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-12T04:01:06+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant</title>
+      <link>https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html</link>
+      <description>Video shows Senator Ronald dela Rosa, who is wanted by the International Criminal Court over Rodrigo Duterte’s drug war, dashing into the Philippine Senate.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-12T14:33:28+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
