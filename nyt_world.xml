@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 22:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 22:27:17 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>At Cannes 2026, Gaza Becomes a Political Flashpoint</title>
@@ -37,20 +37,36 @@
       <importance>34</importance>
     </item>
     <item>
-      <title>King’s Speech Comes at an Awkward Time for Starmer</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</link>
-      <description>King Charles III read out Keir Starmer’s legislative agenda in the traditional manner, even as the British prime minister’s leadership remained under pressure.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-king-speech-01-qjkm/13int-uk-king-speech-01-qjkm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-13T17:26:10+00:00</pubDate>
-      <importance>18</importance>
+      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
+      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T15:04:52+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
-      <title>Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html</link>
-      <description>Some wild animals, eating fermented or rotten fruits, “may exhibit completely unpredictable behavior,” the police warned drivers in Saône-et-Loire, a rural region in central-eastern France.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T18:55:17+00:00</pubDate>
-      <importance>18</importance>
+      <title>Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html</link>
+      <description>Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-gulf-shiites-3-tfbp/13int-gulf-shiites-3-tfbp-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T08:55:35+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html</link>
+      <description>Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-ukraine-ceasefires-1-mwlq/13int-ukraine-ceasefires-1-mwlq-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T09:03:29+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say</title>
+      <link>https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html</link>
+      <description>The effort involves plans to send weapons through other countries in an effort to hide the origins of the shipments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13dc-china-weapons-cmzk/13dc-china-weapons-cmzk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T18:06:05+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
