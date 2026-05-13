@@ -2,32 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 15:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:12:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>More of the men being deported now have lived in the U.S. for years</title>
-      <link>https://www.washingtonpost.com/immigration/interactive/2026/trump-deportations-ice-fathers-families/</link>
-      <description>In another shift, nearly 2 in 3 of those removed since January 2025 do not have criminal records.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T09:00:30+00:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>A super El Niño wiped out millions of people in 1877. Are we better prepared now?</title>
-      <link>https://www.washingtonpost.com/weather/2026/05/12/super-el-nino-1877-population-impacts/</link>
-      <description>The climatic phenomenon is expected to return this year, but a lot has changed since what might have been the worst environmental disaster in human history.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T09:00:39+00:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine</title>
-      <link>https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/</link>
-      <description>European partners question viability of a Trump plan to arm Ukraine as weeks of war with Iran  deplete U.S. supplies of critical weapons.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T09:32:30+00:00</pubDate>
-      <importance>27</importance>
-    </item>
     <item>
       <title>What to know about the hantavirus after deaths amid cruise ship outbreak</title>
       <link>https://www.washingtonpost.com/wellness/2026/05/04/hantavirus-cruise-ship-symptoms-cape-verde/</link>
@@ -45,9 +21,33 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>As the Kremlin throttles internet access, Russians find scrappy work-arounds</title>
+      <title>כאשר מלחמת איראן פוגעת במניות הנשק האמריקאיות, בעלות ברית חוששות מהשפעה על אוקראינה</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/</link>
+      <description>שותפי אירופה מפקפקים בכדאיות של תוכנית טראמפ לחמש את אוקראינה מכיוון ששבועות של מלחמה עם איראן מדללים את האספקה ​​של ארה&quot;ב של נשק קריטי.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T09:32:30+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>סופר אל ניניו חיסל מיליוני אנשים בשנת 1877. האם אנחנו מוכנים טוב יותר עכשיו?</title>
+      <link>https://www.washingtonpost.com/weather/2026/05/12/super-el-nino-1877-population-impacts/</link>
+      <description>התופעה האקלימית צפויה לחזור השנה, אבל הרבה השתנה מאז מה שאולי היה האסון הסביבתי החמור ביותר בהיסטוריה האנושית.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T09:00:39+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>יותר מהגברים המגורשים כעת חיו בארה&quot;ב במשך שנים</title>
+      <link>https://www.washingtonpost.com/immigration/interactive/2026/trump-deportations-ice-fathers-families/</link>
+      <description>במשמרת אחרת, כמעט 2 מתוך 3 מאלו שהוסרו מאז ינואר 2025 אינם בעלי עבר פלילי.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T09:00:30+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>כשהקרמלין מצר את הגישה לאינטרנט, הרוסים מוצאים דרכים מטומטמות</title>
       <link>https://www.washingtonpost.com/world/2026/05/13/kremlin-is-throttling-internet-access-russians-are-finding-workarounds/</link>
-      <description>As Putin imposes Iran-style controls, citing security concerns, many Russian fear losing their connection to the global internet. </description>
+      <description>בעוד פוטין כופה פיקוח בסגנון איראן, תוך ציון דאגות ביטחוניות, רוסים רבים חוששים לאבד את הקשר שלהם לאינטרנט העולמי.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-13T09:00:00+00:00</pubDate>
       <importance>22</importance>
