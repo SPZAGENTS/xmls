@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 00:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:34:38 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>At Cannes 2026, Gaza Becomes a Political Flashpoint</title>
@@ -29,14 +29,6 @@
       <importance>49</importance>
     </item>
     <item>
-      <title>Top Gaza Negotiator Urges Hamas to Embrace Rebuilding Plan</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
-      <description>Nickolay Mladenov, who is overseeing the U.S.-led truce in Gaza, has tried to convince the militant group to give up its arms, but it has so far refused amid Israeli cease-fire violations.</description>
-      <imageUrl>https://static01.nyt.com/images/2025/12/06/multimedia/13int-mideast-hamas-topart/06int-gaza-militias-vpmk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-13T19:46:02+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’</title>
       <link>https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html</link>
       <description>The United States and Iran have been discussing a 30-day extension to their cease-fire and a reopening of the Strait of Hormuz.</description>
@@ -45,12 +37,36 @@
       <importance>34</importance>
     </item>
     <item>
-      <title>Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html</link>
-      <description>Some wild animals, eating fermented or rotten fruits, “may exhibit completely unpredictable behavior,” the police warned drivers in Saône-et-Loire, a rural region in central-eastern France.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-13T18:55:17+00:00</pubDate>
-      <importance>18</importance>
+      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
+      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T15:04:52+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Israel Says Netanyahu Made a Secret Trip to U.A.E., Which Says He Didn’t</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html</link>
+      <description>The claim and the denial signaled both how close Israel and the United Arab Emirates have become, and how delicate that relationship remains.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-uae-photo-kbtw/13int-israel-uae-photo-kbtw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T21:29:31+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html</link>
+      <description>Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-gulf-shiites-3-tfbp/13int-gulf-shiites-3-tfbp-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T08:55:35+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html</link>
+      <description>Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-ukraine-ceasefires-1-mwlq/13int-ukraine-ceasefires-1-mwlq-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T09:03:29+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
