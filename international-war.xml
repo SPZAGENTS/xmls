@@ -2,8 +2,24 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 12:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:28:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>צה&quot;ל טוען כי חיסל מפקד חמאס שהשתתף בטבח ה-7 באוקטובר</title>
+      <link>https://www.foxnews.com/world/idf-claims-taken-hamas-commander-participated-oct-7</link>
+      <description>צה&quot;ל הודיע כי חיסל את מפקד נוכבה של חמאס, Anas Hamed, בתקיפה אווירית ממוקדת בעזה, וציין כי הוא השתתף בפשיטה על ישראל במהלך טבח Nova ב-7 באוקטובר.</description>
+      <imageUrl>https://static.foxnews.com/foxnews.com/content/uploads/2026/05/IDF_strike.gif</imageUrl>
+      <pubDate>2026-05-06T20:03:26.614250+00:00</pubDate>
+      <importance>80</importance>
+    </item>
+    <item>
+      <title>ישראל תוקפת את פרברי ביירות לראשונה מאז הוכרז על הפסקת האש</title>
+      <link>https://www.cbc.ca/news/world/israel-beirut-suburbs-air-strike-ceasefire-lebanon-9.7189905?cmp=rss</link>
+      <description>ישראל ביצעה תקיפה אווירית בפרברי דרום ביירות, לראשונה מאז הוכרז על הפסקת אש, וגרמה להרס במבנים באזור.</description>
+      <imageUrl>https://i.cbc.ca/ais/418b1ebe-29bc-4189-ad26-ac51afe7d285,1778091324144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C297%2C5712%2C3213%29%3BResize%3D%28620%29</imageUrl>
+      <pubDate>2026-05-06T20:03:27.057849+00:00</pubDate>
+      <importance>80</importance>
+    </item>
     <item>
       <title>Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks</title>
       <link>https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz</link>
@@ -11,6 +27,30 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12mideast-promo4p-zpfj/12mideast-promo4p-zpfj-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-13T01:22:22+00:00</pubDate>
       <importance>43</importance>
+    </item>
+    <item>
+      <title>עדכוני מלחמת איראן: טהרן שוקלת הצעה אמריקאית לאחר איומים של טראמפ</title>
+      <link>https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil</link>
+      <description>גורם איראני אמר כי טהרן בוחנת תוכנית אמריקאית לסיום המלחמה, לאחר שהנשיא Trump איים לחדש תקיפות. מטוס קרב אמריקאי השבית מכלית עם דגל איראני, וישראל תקפה מטרות ליד ביירות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/06/multimedia/06mideast-trump-hkwt/06mideast-trump-hkwt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-06T20:03:24.976651+00:00</pubDate>
+      <importance>70</importance>
+    </item>
+    <item>
+      <title>שלדים בבגדיהם: שחזור גופות מההריסות בעזה</title>
+      <link>https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies</link>
+      <description>זו הייתה אחת מהתקיפות הישראליות הקטלניות ביותר במלחמת עזה, שהרסה משפחה מורחבת אחת. שנה וחצי לאחר מכן, הניצולים מוצאים את שרידי יקיריהם.</description>
+      <imageUrl>https://media.npr.org/images/podcasts/primary/npr_generic_image_300.jpg?s=200</imageUrl>
+      <pubDate>2026-05-06T20:03:25.621343+00:00</pubDate>
+      <importance>70</importance>
+    </item>
+    <item>
+      <title>מדוע הפסקת האש בין לבנון לישראל היא 'בשם בלבד'</title>
+      <link>https://www.cbc.ca/news/world/lebanon-israel-hezbollah-ceasefire-analysis-9.7188159?cmp=rss</link>
+      <description>הפסקת האש בין לבנון לישראל נתפסת כשם בלבד, ללא יישום ממשי בשטח.</description>
+      <imageUrl>https://i.cbc.ca/ais/80eb8b54-0f23-4a63-9357-e1b8c0928f03,1777988735298/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3BResize%3D%28620%29</imageUrl>
+      <pubDate>2026-05-06T20:03:27.057789+00:00</pubDate>
+      <importance>70</importance>
     </item>
     <item>
       <title>Middle East live: Trump says stopping Iran's nuclear program outweighs Americans' economic pain</title>
@@ -49,52 +89,6 @@ Iran, which on Sunday sent its response to the latest US ceasefire proposal, wan
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T10:48:52+00:00</pubDate>
       <importance>43</importance>
-    </item>
-    <item>
-      <title>Iran warns US to accept peace plan or risk collapse of Middle East truce</title>
-      <link>https://www.france24.com/en/middle-east/20260512-iran-us-peace-plan-middle-east-truce-failure</link>
-      <description>
-Iran’s chief negotiator said on Tuesday Washington must accept Tehran’s latest peace plan or risk the collapse of the Middle East truce, after President Donald Trump warned the ceasefire was near failure. The war, triggered by US-Israeli strikes on Iran more than two months ago, has destabilised the region and rattled global markets.
-</description>
-      <imageUrl>https://s.france24.com/media/display/2da4492e-4dad-11f1-9be3-005056bfb2b6/w:1024/p:16x9/AP26126592665556.jpg</imageUrl>
-      <pubDate>2026-05-12T22:19:55</pubDate>
-      <importance>63</importance>
-    </item>
-    <item>
-      <title>What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda</title>
-      <link>https://abcnews.com/International/wireStory/trump-xi-summit-trade-taiwan-iran-agenda-132866731</link>
-      <description>Presidents Xi Jinping and Donald Trump are preparing for a summit, with both China and the U.S. emphasizing stable ties</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_1a0b28a9a7b9078d736ba94bf3b4d6e2_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-12T08:10:42-04:00</pubDate>
-      <importance>37</importance>
-    </item>
-    <item>
-      <title>Israeli Report Finds That Sexual Violence by Hamas Was Widespread</title>
-      <link>https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html</link>
-      <description>A two-year investigation by a team of researchers in Israel concluded that sexual violence by Hamas and its allies was widespread during and after the Oct. 7, 2023, attack.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-sexual-violence-1-qlgz/13int-israel-sexual-violence-1-qlgz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-12T22:29:05+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack</title>
-      <link>https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack</link>
-      <description>
-A report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a &quot;central component&quot; of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to Gaza.
-</description>
-      <imageUrl>https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg</imageUrl>
-      <pubDate>2026-05-12T16:51:18</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Israel strikes kill several in Lebanon despite truce</title>
-      <link>https://www.france24.com/en/israel-strikes-kill-several-in-lebanon-despite-truce</link>
-      <description>
-Israel carried out strikes across Lebanon on Saturday, killing at least nine people in the south according to authorities, with raids also targeting a highway not far from Beirut outside of Hezbollah's traditional strongholds. The fresh attacks were some of the most intense since the start of a three-week-old ceasefire between Israel and Iran-backed Hezbollah that has done little to halt daily exchanges of fire, mostly in southern Lebanon.
-</description>
-      <imageUrl>https://s.france24.com/media/display/c2d442ce-4c54-11f1-960f-005056bfb2b6/w:1024/p:16x9/EN-20260510-110642-110812-CS.jpg</imageUrl>
-      <pubDate>2026-05-10T09:53:23</pubDate>
-      <importance>53</importance>
     </item>
   </channel>
 </rss>
