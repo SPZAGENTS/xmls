@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 06:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:34:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_1a0b28a9a7b9078d736ba94bf3b4d6e2_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-12T08:10:42-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Kuwait alleges that Iran attacked an island hosting a China-funded port before Trump's Beijing trip</title>
+      <link>https://abcnews.com/International/wireStory/kuwait-alleges-iran-attacked-island-hosting-china-funded-132871387</link>
+      <description>Kuwait has accused Iran of sending an armed Revolutionary Guard team to launch a failed attack on an island in the Middle East nation</description>
+      <imageUrl>https://s.abcnews.com/images/US/wirestory_f3d5738853111cfc80985c157edab7c3_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-12T08:10:14-04:00</pubDate>
+      <importance>32</importance>
     </item>
     <item>
       <title>What to know about contenders who could replace Keir Starmer as Britain's leader</title>
@@ -29,28 +37,20 @@
       <importance>27</importance>
     </item>
     <item>
+      <title>תעופה יירצחת מחסור דלי הנף</title>
+      <link>https://abcnews.com/International/wireStory/shipping-industry-fears-fuel-shortages-iran-war-squeezes-132871217</link>
+      <description>The global maritime industry is facing a looming shortage of the fuel that powers ships as the Iran war chokes off a key shipping lane in the Strait of Hormuz</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_db0ba1dbc0bd3ff2179a84118d0064d0_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-12T05:30:04-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
       <title>10 rescued after a small plane crashes off the Florida coast</title>
       <link>https://abcnews.com/International/wireStory/10-rescued-after-small-plane-crashes-off-florida-132897610</link>
       <description>Authorities in the Bahamas say that an aircraft crashed 80 miles off the coast of Florida on Tuesday, and that all 10 people aboard have been rescues</description>
       <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
       <pubDate>2026-05-12T17:10:58-04:00</pubDate>
       <importance>22</importance>
-    </item>
-    <item>
-      <title>Kuwait alleges that Iran attacked an island hosting a China-funded port before Trump's Beijing trip</title>
-      <link>https://abcnews.com/International/wireStory/kuwait-alleges-iran-attacked-island-hosting-china-funded-132871387</link>
-      <description>Kuwait has accused Iran of sending an armed Revolutionary Guard team to launch a failed attack on an island in the Middle East nation</description>
-      <imageUrl>https://s.abcnews.com/images/US/wirestory_f3d5738853111cfc80985c157edab7c3_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-12T08:10:14-04:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>Shipping industry fears fuel shortages as Iran war squeezes bunker fuel supply</title>
-      <link>https://abcnews.com/International/wireStory/shipping-industry-fears-fuel-shortages-iran-war-squeezes-132871217</link>
-      <description>The global maritime industry is facing a looming shortage of the fuel that powers ships as the Iran war chokes off a key shipping lane in the Strait of Hormuz</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_db0ba1dbc0bd3ff2179a84118d0064d0_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-12T05:30:04-04:00</pubDate>
-      <importance>27</importance>
     </item>
     <item>
       <title>A South Korean startup captures workers' techniques to develop AI brains for robots</title>
@@ -77,11 +77,11 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>French president announces billions in African investments at partnership summit</title>
-      <link>https://abcnews.com/International/wireStory/french-president-announces-billions-african-investments-summit-focused-132873418</link>
-      <description>Calls for mutual respect dominated the Africa Forward Summit as French President Emmanuel Macron announced new investments</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_9f3b72102b8f91209f5f1772f3da8e02_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-12T07:28:51-04:00</pubDate>
+      <title>Brazil's Lula launches $2 billion anti-organized crime project ahead of elections</title>
+      <link>https://abcnews.com/International/wireStory/brazils-lula-launches-2-billion-anti-organized-crime-132896113</link>
+      <description>Brazil&amp;rsquo;s government has launched an anti-organized crime program, allowing $2 billion in spending on public security</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_ac861588f027f9f7f8868ff86383a4bf_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-12T16:31:56-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
