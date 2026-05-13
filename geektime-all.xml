@@ -2,50 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 06:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס</title>
-      <link>https://www.geektime.co.il/israeli-shows-doom-with-k8s/</link>
-      <description>&lt;p&gt;לא מזמן סיפרנו לכם על מפתח ישראלי שהצליח להריץ את Doom בתוך VS Code ואפילו כ-CSS. בעקבות הפרסום, פנה אלינו שי פלג, Senior Full Stack Developer בחברת Riverpool, וסיפר על מימוש שביצע לפרויקט קוד פתוח שלוקח את הגיימיפיקציה של עולם ה-DevOps לקצה. פלג הדגים כיצד ניתן לחבר בין מנוע המשחק האיקוני של id Software ל-API [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/israeli-shows-doom-with-k8s/&quot;&gt;לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס&lt;/a&gt; appeared first o</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-09T15:45:07+00:00</pubDate>
-      <importance>34</importance>
-    </item>
-    <item>
-      <title>פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל</title>
-      <link>https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/</link>
-      <description>&lt;p&gt;בשבוע שעבר הודיעה מיקרוסופט ישראל, זרוע השיווק והמכירות של החברה בארץ, כי אלון חיימוביץ', מנכ&amp;#34;ל מיקרוסופט ישראל, פורש מתפקידו לאחר ארבע שנים. ההודעה על פרישתו הגיעה במפתיע והעלתה לא מעט תמיהות עם פרסומה: חיימוביץ' יסיים את תפקידו כבר בסוף החודש הנוכחי, וכל זאת מבלי שנקבע לו מחליף. דיווח חדש שופך אור על הנסיבות לכאורה למהלך [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/&quot;&gt;פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל&lt;/a&gt; ap</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T08:26:06+00:00</pubDate>
-      <importance>29</importance>
-    </item>
-    <item>
-      <title>12 משרות שוות</title>
-      <link>https://www.geektime.co.il/tech-jobs-israel-10-05-26/</link>
-      <description>מחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרוס פיתוח</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T15:18:36+00:00</pubDate>
-      <importance>29</importance>
-    </item>
-    <item>
-      <title>אלו הסטארטאפים</title>
-      <link>https://www.geektime.co.il/11-israeli-startups-deel-the-pitch-final/</link>
-      <description>בבורסה לניירות, 11 סטארטאפים ישראליים שி஠חו</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T13:55:00+00:00</pubDate>
-      <importance>29</importance>
-    </item>
-    <item>
-      <title>בשיחת זום</title>
-      <link>https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/</link>
-      <description>Zoominfo פיטרה 300 עובדים, 1000 2000</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T10:38:44+00:00</pubDate>
-      <importance>29</importance>
-    </item>
     <item>
       <title>&quot;ההייפ סביב קלוד מיתוס הוא תעלול שיווקי מוצלח באופן מדהים&quot;</title>
       <link>https://www.geektime.co.il/dev-call-claude-mythos-an-amazingly-successful-marketing-stunt/</link>
@@ -85,10 +43,56 @@
     <item>
       <title>הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ'ר חדש</title>
       <link>https://www.geektime.co.il/apple-and-google-launch-a-feature-together/</link>
-      <description>עקבו אחרי גיקטיים בגוגל היחסים בין גוגל לאפל הם, איך לומר, מורכבים. מצד אחד הן מנהלות יריבות מרה בכמעט כל תחום פעילות שלהן כמו מכשירים, שירותים ומערכות הפעלה; ומצד שני הן יודעות להיות פרגמטיות כשזה משרת את האינטרסים שלהן – למשל, בעסקי הפרסום שמכניסים לאפל-מיליארדים מדי שנה, או כשגוגל מושיטה יד להציל את פி஦'רי</description>
+      <description>&lt;p&gt;עקבו אחרי גיקטיים בגוגל היחסים בין גוגל לאפל הם, איך לומר, מורכבים. מצד אחד הן מנהלות יריבות מרה בכמעט כל תחום פעילות שלהן כמו מכשירים, שירותים ומערכות הפעלה; ומצד שני הן יודעות להיות פרגמטיות כשזה משרת את האינטרסים שלהן  &amp;#8211; למשל בעסקי הפרסום שמכניסים לאפל מיליארדים מדי שנה, או כשגוגל מושיטה יד להציל את פיצ'רי [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/apple-and-google-launch-a-feature-together/&quot;&gt;הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ&amp;#039;ר חדש&lt;/a&gt; appeared </description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T06:46:56+00:00</pubDate>
       <importance>19</importance>
+    </item>
+    <item>
+      <title>פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל</title>
+      <link>https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/</link>
+      <description>&lt;p&gt;בשבוע שעבר הודיעה מיקרוסופט ישראל, זרוע השיווק והמכירות של החברה בארץ, כי אלון חיימוביץ', מנכ&amp;#34;ל מיקרוסופט ישראל, פורש מתפקידו לאחר ארבע שנים. ההודעה על פרישתו הגיעה במפתיע והעלתה לא מעט תמיהות עם פרסומה: חיימוביץ' יסיים את תפקידו כבר בסוף החודש הנוכחי, וכל זאת מבלי שנקבע לו מחליף. דיווח חדש שופך אור על הנסיבות לכאורה למהלך [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/&quot;&gt;פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל&lt;/a&gt; ap</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T08:26:06+00:00</pubDate>
+      <importance>29</importance>
+    </item>
+    <item>
+      <title>12 משרות שוות שכדאי שתכירו השבוע</title>
+      <link>https://www.geektime.co.il/tech-jobs-israel-10-05-26/</link>
+      <description>&lt;p&gt;מחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח שוות, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, לראות מה העובדים מספרים ולהגיש מועמדות [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/tech-jobs-israel-10-05-26/&quot;&gt;12 משרות שוות שכדאי שתכירו השבוע&lt;/a&gt; appeared first on &lt;a href=&quot;https://w</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T15:18:36+00:00</pubDate>
+      <importance>29</importance>
+    </item>
+    <item>
+      <title>אלו הסטארטאפים הישראלים שיזכו להתמודד על השקעה של מיליון דולר</title>
+      <link>https://www.geektime.co.il/11-israeli-startups-deel-the-pitch-final/</link>
+      <description>&lt;p&gt;בבורסה לניירות ערך בתל אביב, בין הגרפים, הטיקרים והמספרים, נבחרו ביום חמישי האחרון 11 סטארטאפים ישראליים שינסו לכבוש את פריז בעוד מספר שבועות. אירוע הגמר התקיים לאחר סבב סינון, שכלל למעלה מ-1,000 מועמדויות מקומיות ואירוע פיצ'ים עמוס, ובמהלכו הוכרזו הזוכים בגמר הישראלי של תחרות &amp;#34;The Pitch&amp;#34; של היוניקורן הישראלי-אמריקאי Deel. החברות שנבחרו יצטרפו לסטארטאפים שזכו [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/11-israeli-startups-deel-the-pitch-final/&quot;&gt;אלו הסטארטאפים הישראלי</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T13:55:00+00:00</pubDate>
+      <importance>29</importance>
+    </item>
+    <item>
+      <title>בשיחת זום ובהפתעה מוחלטת: Zoominfo פיטרה 300 עובדים וסוגרת את מרכז הפיתוח בישראל</title>
+      <link>https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/</link>
+      <description>&lt;p&gt;עובדי מרכז הפיתוח של חברת המודיעין העסקי האמריקאית ZoomInfo ברעננה התעוררו הבוקר למציאות חדשה ומטלטלת. בשעה 10:30 נערכה שיחת זום דחופה שבה הודיע צ'אד הרינג, סמנכ&amp;#34;ל ה-HR שלה זום אינפו, כי החברה החליטה לסגור את פעילותה בישראל. המהלך צפוי להוביל לפיטוריהם של כ-300 עובדים, רובם אנשי טכנולוגיה, מהנדסים, מפתחי תוכנה ואנשי דאטה. עקבו אחרי גיקטיים [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/&quot;&gt;בשיחת זום ובהפתעה מוחלטת: Zoominfo פ</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-10T10:38:44+00:00</pubDate>
+      <importance>29</importance>
+    </item>
+    <item>
+      <title>לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס</title>
+      <link>https://www.geektime.co.il/israeli-shows-doom-with-k8s/</link>
+      <description>&lt;p&gt;לא מזמן סיפרנו לכם על מפתח ישראלי שהצליח להריץ את Doom בתוך VS Code ואפילו כ-CSS. בעקבות הפרסום, פנה אלינו שי פלג, Senior Full Stack Developer בחברת Riverpool, וסיפר על מימוש שביצע לפרויקט קוד פתוח שלוקח את הגיימיפיקציה של עולם ה-DevOps לקצה. פלג הדגים כיצד ניתן לחבר בין מנוע המשחק האיקוני של id Software ל-API [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/israeli-shows-doom-with-k8s/&quot;&gt;לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס&lt;/a&gt; appeared first o</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-09T15:45:07+00:00</pubDate>
+      <importance>34</importance>
     </item>
   </channel>
 </rss>
