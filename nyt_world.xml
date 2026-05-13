@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 20:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:19:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>At Cannes 2026, Gaza Becomes a Political Flashpoint</title>
@@ -37,20 +37,36 @@
       <importance>34</importance>
     </item>
     <item>
-      <title>Europe Tries a Trumpian Tactic With Trump: No Apologies</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html</link>
-      <description>Stuck with the fallout from America’s war in Iran, European leaders have criticized the president publicly. When he’s been angered, they haven’t backed down.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-europe-trump-01-jkbt/13int-europe-trump-01-jkbt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-13T12:53:29+00:00</pubDate>
+      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
+      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T15:04:52+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html</link>
+      <description>Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-gulf-shiites-3-tfbp/13int-gulf-shiites-3-tfbp-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T08:55:35+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>King’s Speech Comes at an Awkward Time for Starmer</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</link>
-      <description>King Charles III read out Keir Starmer’s legislative agenda in the traditional manner, even as the British prime minister’s leadership remained under pressure.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-king-speech-01-qjkm/13int-uk-king-speech-01-qjkm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-13T14:41:14+00:00</pubDate>
-      <importance>18</importance>
+      <title>What to Know About the Federal Gas Tax Trump Wants to Suspend</title>
+      <link>https://www.nytimes.com/2026/05/13/business/energy-environment/trump-federal-gas-tax.html</link>
+      <description>President Trump said he would like to suspend the 18.4-cent-a-gallon tax, but it’s a move that may save drivers only a few dollars a month.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12biz-gas-tax-explainer-zmpl/12biz-gas-tax-explainer-zmpl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T09:03:51+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html</link>
+      <description>Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-ukraine-ceasefires-1-mwlq/13int-ukraine-ceasefires-1-mwlq-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-13T09:03:29+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
