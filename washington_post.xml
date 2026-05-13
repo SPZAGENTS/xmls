@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 13:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>More of the men being deported now have lived in the U.S. for years</title>
@@ -43,6 +43,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T22:31:29+00:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>As the Kremlin throttles internet access, Russians find scrappy work-arounds</title>
+      <link>https://www.washingtonpost.com/world/2026/05/13/kremlin-is-throttling-internet-access-russians-are-finding-workarounds/</link>
+      <description>As Putin imposes Iran-style controls, citing security concerns, many Russian fear losing their connection to the global internet. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T09:00:00+00:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
