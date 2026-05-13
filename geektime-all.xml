@@ -2,58 +2,20 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 05:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:27:05 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>&quot;ההייפ סביב קלוד מיתוס הוא תעלול שיווקי מוצלח באופן מדהים&quot;</title>
-      <link>https://www.geektime.co.il/dev-call-claude-mythos-an-amazingly-successful-marketing-stunt/</link>
-      <description>&lt;p&gt;אנת'רופיק הכתה גלים בחודש שעבר עם ההכרזה על Mythos, מודל שלטענתה מוצלח כל כך, שהיא עדיין לא משחררת אותו לקהל הרחב (עד שהוא &amp;#34;דולף&amp;#34;). עם חשיפתו, הצהירה החברה כי תעניק לכמה חברות סייבר גישה למודל, שאמור להציג יכולות גבוהות במיוחד בזיהוי חולשות אבטחה. אבל חודש לאחר מכן החליט מפתח של כלי קוד פתוח פופולרי, ש&amp;#34;חטף&amp;#34; [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/dev-call-claude-mythos-an-amazingly-successful-marketing-stunt/&quot;&gt;&amp;quot;ההייפ סביב קלוד מיתוס הוא תעלול שיווקי </description>
+      <title>לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס</title>
+      <link>https://www.geektime.co.il/israeli-shows-doom-with-k8s/</link>
+      <description>לא מזמן סיפרנו לכם על מפתח ישראלי שהצליח להריץ את Doom בתוך VS Code ואפילו כ-CSS. בעקבות הפרסום, פנה אלינו שי פלג, Senior Full Stack Developer בחברת Riverpool, וסיפר על מימוש שביצע לפרויקט קוד פתוח שלוקח את הגיימיפיקציה של עולם ה-DevOps לקצה. פלג הדגים כיצד ניתן לחבר בין מנוע המשחק האיקוני של id Software ל-API […] The post לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס appeared first o</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-12T15:25:06+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>הבדיקות לא יכתבו את עצמן? Cursor מוכיח שדווקא כן</title>
-      <link>https://www.geektime.co.il/how-we-built-our-own-qa-assistant/</link>
-      <description>&lt;p&gt;מאת אלן גרשמן, QA Manager בפאפאיה תשאלו כל איש QA מהו החלק הכי פחות אהוב עליו בעבודה, והתשובה תהיה זהה: השלב שבו פיצ'ר עובר ממסמך האפיון אל כתיבת הבדיקות. בתור מנהל ה-QA בפאפאיה, יצא לי לראות הרבה צוותים מוכשרים נשחקים מול אותה חומה סיזיפית. זה השלב שבו השמחה של &amp;#34;היי, יש לנו פיצ'ר חדש!&amp;#34; פוגשת את [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/how-we-built-our-own-qa-assistant/&quot;&gt;הבדיקות לא יכתבו את עצמן? Cursor מוכיח שדווקא כן&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.ge</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T11:22:48+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>סוכן ה-AI המושלם לא ק… רגע, כבר ניסיתם לבנות לו Agentic Harness?</title>
-      <link>https://www.geektime.co.il/agentic-harness-building-ai-agents-performance/</link>
-      <description>&lt;p&gt;מאת אליאב עמר, Expert AI Engineer במרכז הפיתוח של SAP בישראל סביר להניח שרובכם כבר משתמשים בסוכני AI ביומיום. בהתחלה אולי השתמשתם ב-Claude Code ונדהמתם מהדברים המטורפים שאתם יכולים לעשות איתו. ואז שמעתם מחבר שהוא זולל טוקנים וקצת איטי בהשוואה ל-Codex, אז ניסיתם את Codex ופתאום ראיתם שיש חיסכון משמעותי בטוקנים ובזמן, אבל הרגשתם שהאיכות [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/agentic-harness-building-ai-agents-performance/&quot;&gt;סוכן ה-AI המושלם לא ק… רגע, כבר ניסיתם לבנות לו A</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T08:51:03+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>בגלל Copilot: תביעה ייצוגית נגד מיקרוסופט בישראל</title>
-      <link>https://www.geektime.co.il/new-class-action-lawsuit-microsoft-copilot/</link>
-      <description>&lt;p&gt;עקבו אחרי גיקטיים בגוגל בשנים האחרונות נדמה שאי אפשר לברוח מ-Copilot. מ-Windows ועד Microsoft 365 (לשעבר Office) מיקרוסופט משדרגת את עוזר ה-AI שלה עם עוד ועוד פיצ'רים חדשים &amp;#8211; שימושיים יותר ושימושיים פחות &amp;#8211; ובעיקר מטמיעה ומקדמת אותו בכל הכח. אבל האם יכול להיות שהיא התאמצה קצת יותר מדי? תביעה ייצוגית חדשה שהוגשה לאחרונה נגד [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/new-class-action-lawsuit-microsoft-copilot/&quot;&gt;בגלל Copilot: תביעה ייצוגית נגד מיקרוסופט בישראל&lt;/a&gt; a</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T07:58:33+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ'ר חדש</title>
-      <link>https://www.geektime.co.il/apple-and-google-launch-a-feature-together/</link>
-      <description>&lt;p&gt;עקבו אחרי גיקטיים בגוגל היחסים בין גוגל לאפל הם, איך לומר, מורכבים. מצד אחד הן מנהלות יריבות מרה בכמעט כל תחום פעילות שלהן כמו מכשירים, שירותים ומערכות הפעלה; ומצד שני הן יודעות להיות פרגמטיות כשזה משרת את האינטרסים שלהן  &amp;#8211; למשל בעסקי הפרסום שמכניסים לאפל מיליארדים מדי שנה, או כשגוגל מושיטה יד להציל את פיצ'רי [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/apple-and-google-launch-a-feature-together/&quot;&gt;הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ&amp;#039;ר חדש&lt;/a&gt; appeared </description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T06:46:56+00:00</pubDate>
-      <importance>19</importance>
+      <pubDate>2026-05-09T15:45:07+00:00</pubDate>
+      <importance>34</importance>
     </item>
     <item>
       <title>פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל</title>
       <link>https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/</link>
-      <description>&lt;p&gt;בשבוע שעבר הודיעה מיקרוסופט ישראל, זרוע השיווק והמכירות של החברה בארץ, כי אלון חיימוביץ', מנכ&amp;#34;ל מיקרוסופט ישראל, פורש מתפקידו לאחר ארבע שנים. ההודעה על פרישתו הגיעה במפתיע והעלתה לא מעט תמיהות עם פרסומה: חיימוביץ' יסיים את תפקידו כבר בסוף החודש הנוכחי, וכל זאת מבלי שנקבע לו מחליף. דיווח חדש שופך אור על הנסיבות לכאורה למהלך [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/new-report-microsoft-israel-ceo-step-down/&quot;&gt;פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל&lt;/a&gt; ap</description>
+      <description>בשבוע שעבר הודיעה מיקרוסופט ישראל, זרוע השיווק והמכירות של החברה בארץ, כי אלון חיימוביץ', מנכ&quot;ל מיקרוסופט ישראל, פורש מתפקידו לאחר ארבע שנים. ההודעה על פרישתו הגיעה במפתיע והעלתה לא מעט תמיהות עם פרסומה: חיימוביץ' יסיים את תפקידו כבר בסוף החודש הנוכחי, וכל זאת מבלי שנקבע לו מחליף. דיווח חדש שופך אור על הנסיבות לכאורה למהלך […] The post פרישה או הדחה? מאחורי הקלעים של הטלטלה במיקרוסופט ישראל ap</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T08:26:06+00:00</pubDate>
       <importance>29</importance>
@@ -61,8 +23,7 @@
     <item>
       <title>12 משרות שוות שכדאי שתכירו השבוע</title>
       <link>https://www.geektime.co.il/tech-jobs-israel-10-05-26/</link>
-      <description>&lt;p&gt;מחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח שוות, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, לראות מה העובדים מספרים ולהגיש מועמדות [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/tech-jobs-israel-10-05-26/&quot;&gt;12 משרות שוות שכדאי שתכירו השבוע&lt;/a&gt; appeared first on &lt;a href=&quot;https://w</description>
+      <description>מחפשים את האתגר הבא? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות פיתוח שוות, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק הטכנולוגי, לראות מה העובדים מספרים ולהגיש מועמדות […] The post 12 משרות שוות שכדאי שתכירו השבוע appeared first on &lt;a href=&quot;https://w</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T15:18:36+00:00</pubDate>
       <importance>29</importance>
@@ -70,8 +31,7 @@
     <item>
       <title>אלו הסטארטאפים הישראלים שיזכו להתמודד על השקעה של מיליון דולר</title>
       <link>https://www.geektime.co.il/11-israeli-startups-deel-the-pitch-final/</link>
-      <description>&lt;p&gt;בבורסה לניירות ערך בתל אביב, בין הגרפים, הטיקרים והמספרים, נבחרו ביום חמישי האחרון 11 סטארטאפים ישראליים שינסו לכבוש את פריז בעוד מספר שבועות. אירוע הגמר התקיים לאחר סבב סינון, שכלל למעלה מ-1,000 מועמדויות מקומיות ואירוע פיצ'ים עמוס, ובמהלכו הוכרזו הזוכים בגמר הישראלי של תחרות &amp;#34;The Pitch&amp;#34; של היוניקורן הישראלי-אמריקאי Deel. החברות שנבחרו יצטרפו לסטארטאפים שזכו [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/11-israeli-startups-deel-the-pitch-final/&quot;&gt;אלו הסטארטאפים הישראלי</description>
+      <description>בבורסה לניירות ערך בתל אביב, בין הגרפים, הטיקרים והמספרים, נבחרו ביום חמישי האחרון 11 סטארטאפים ישראליים שינסו לכבוש את פריז בעוד מספר שבועות. אירוע הגמר התקיים לאחר סבב סינון, שכלל למעלה מ-1,000 מועמדויות מקומיות ואירוע פיצ'ים עמוס, ובמהלכו הוכרזו הזוכים בגמר הישראלי של תחרות &quot;The Pitch&quot; של היוניקורן הישראלי-אמריקאי Deel. החברות שנבחרו יצטרפו לסטארטאפים שזכו […] The post אלו הסטארטאפים הישראלי</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T13:55:00+00:00</pubDate>
       <importance>29</importance>
@@ -79,20 +39,50 @@
     <item>
       <title>בשיחת זום ובהפתעה מוחלטת: Zoominfo פיטרה 300 עובדים וסוגרת את מרכז הפיתוח בישראל</title>
       <link>https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/</link>
-      <description>&lt;p&gt;עובדי מרכז הפיתוח של חברת המודיעין העסקי האמריקאית ZoomInfo ברעננה התעוררו הבוקר למציאות חדשה ומטלטלת. בשעה 10:30 נערכה שיחת זום דחופה שבה הודיע צ'אד הרינג, סמנכ&amp;#34;ל ה-HR שלה זום אינפו, כי החברה החליטה לסגור את פעילותה בישראל. המהלך צפוי להוביל לפיטוריהם של כ-300 עובדים, רובם אנשי טכנולוגיה, מהנדסים, מפתחי תוכנה ואנשי דאטה. עקבו אחרי גיקטיים [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/zoominfo-shuts-down-israeli-rd-center-lays-off-300/&quot;&gt;בשיחת זום ובהפתעה מוחלטת: Zoominfo פ</description>
+      <description>עובדי מרכז הפיתוח של חברת המודיעין העסקי האמריקאית ZoomInfo ברעננה התעוררו הבוקר למציאות חדשה ומטלטלת. בשעה 10:30 נערכה שיחת זום דחופה שבה הודיע צ'אד הרינג, סמנכ&quot;ל ה-HR שלה זום אינפו, כי החברה החליטה לסגור את פעילותה בישראל. המהלך צפוי להוביל לפיטוריהם של כ-300 עובדים, רובם אנשי טכנולוגיה, מהנדסים, מפתחי תוכנה ואנשי דאטה. עקבו אחרי גיקטיים […] The post בשיחת זום ובהפתעה מוחלטת: Zoominfo פ</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-10T10:38:44+00:00</pubDate>
       <importance>29</importance>
     </item>
     <item>
-      <title>לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס</title>
-      <link>https://www.geektime.co.il/israeli-shows-doom-with-k8s/</link>
-      <description>&lt;p&gt;לא מזמן סיפרנו לכם על מפתח ישראלי שהצליח להריץ את Doom בתוך VS Code ואפילו כ-CSS. בעקבות הפרסום, פנה אלינו שי פלג, Senior Full Stack Developer בחברת Riverpool, וסיפר על מימוש שביצע לפרויקט קוד פתוח שלוקח את הגיימיפיקציה של עולם ה-DevOps לקצה. פלג הדגים כיצד ניתן לחבר בין מנוע המשחק האיקוני של id Software ל-API [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/israeli-shows-doom-with-k8s/&quot;&gt;לירות במפלצות, לסגור פודים: ישראלי מדגים מה קורה כשמחברים Doom לקוברנטיס&lt;/a&gt; appeared first o</description>
+      <title>&quot;ההייפ סביב קלוד מיתוס הוא תעלול שיווקי מוצלח באופן מדהים&quot;</title>
+      <link>https://www.geektime.co.il/dev-call-claude-mythos-an-amazingly-successful-marketing-stunt/</link>
+      <description>אנת'רופיק הכתה גלים בחודש שעבר עם ההכרזה על Mythos, מודל שלטענתה מוצלח כל כך, שהיא עדיין לא משחררת אותו לקהל הרחב (עד שהוא &quot;דולף&quot;). עם חשיפתו, הצהירה החברה כי תעניק לכמה חברות סייבר גישה למודל, שאמור להציג יכולות גבוהות במיוחד בזיהוי חולשות אבטחה. אבל חודש לאחר מכן החליט מפתח של כלי קוד פתוח פופולרי, ש&quot;חטף&quot; […] The post &quot;ההייפ סביב קלוד מיתוס הוא תעלול שיווקי</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-09T15:45:07+00:00</pubDate>
-      <importance>34</importance>
+      <pubDate>2026-05-12T15:25:06+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>הבדיקות לא יכתבו את עצמן? Cursor מוכיח שדווקא כן</title>
+      <link>https://www.geektime.co.il/how-we-built-our-own-qa-assistant/</link>
+      <description>מאת אלן גרשמן, QA Manager בפאפאיה תשאלו כל איש QA מהו החלק הכי פחות אהוב עליו בעבודה, והתשובה תהיה זהה: השלב שבו פיצ'ר עובר ממסמך האפיון אל כתיבת הבדיקות. בתור מנהל ה-QA בפאפאיה, יצא לי לראות הרבה צוותים מוכשרים נשחקים מול אותה חומה סיזיפית. זה השלב שבו השמחה של &quot;היי, יש לנו פיצ'ר חדש!&quot; פוגשת את […] The post הבדיקות לא יכתבו את עצמן? Cursor מוכיח שדווקא כן appeared first on &lt;a href=&quot;https://www.ge</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T11:22:48+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>סוכן ה-AI המושלם לא ק… רגע, כבר ניסיתם לבנות לו Agentic Harness?</title>
+      <link>https://www.geektime.co.il/agentic-harness-building-ai-agents-performance/</link>
+      <description>מאת אליאב עמר, Expert AI Engineer במרכז הפיתוח של SAP בישראל סביר להניח שרובכם כבר משתמשים בסוכני AI ביומיום. בהתחלה אולי השתמשתם ב-Claude Code ונדהמתם מהדברים המטורפים שאתם יכולים לעשות איתו. ואז שמעתם מחבר שהוא זולל טוקנים וקצת איטי בהשוואה ל-Codex, אז ניסיתם את Codex ופתאום ראיתם שיש חיסכון משמעותי בטוקנים ובזמן, אבל הרגשתם שהאיכות […] The post סוכן ה-AI המושלם לא ק… רגע, כבר ניסיתם לבנות לו A</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T08:51:03+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>בגלל Copilot: תביעה ייצוגית נגד מיקרוסופט בישראל</title>
+      <link>https://www.geektime.co.il/new-class-action-lawsuit-microsoft-copilot/</link>
+      <description>עקבו אחרי גיקטיים בגוגל בשנים האחרונות נדמה שאי אפשר לברוח מ-Copilot. מ-Windows ועד Microsoft 365 (לשעבר Office) מיקרוסופט משדרגת את עוזר ה-AI שלה עם עוד ועוד פיצ'רים חדשים – שימושיים יותר ושימושיים פחות – ובעיקר מטמיעה ומקדמת אותו בכל הכח. אבל האם יכול להיות שהיא התאמצה קצת יותר מדי? תביעה ייצוגית חדשה שהוגשה לאחרונה נגד […] The post בגלל Copilot: תביעה ייצוגית נגד מיקרוסופט בישראל a</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T07:58:33+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ'ר חדש</title>
+      <link>https://www.geektime.co.il/apple-and-google-launch-a-feature-together/</link>
+      <description>עקבו אחרי גיקטיים בגוגל היחסים בין גוגל לאפל הם, איך לומר, מורכבים. מצד אחד הן מנהלות יריבות מרה בכמעט כל תחום פעילות שלהן כמו מכשירים, שירותים ומערכות הפעלה; ומצד שני הן יודעות להיות פרגמטיות כשזה משרת את האינטרסים שלהן – למשל בעסקי הפרסום שמכניסים לאפל מיליארדים מדי שנה, או כשגוגל מושיטה יד להציל את פיצ'רי […] The post הגיהינום קפא כנראה, כי אפל וגוגל משיקות ביחד פיצ'ר חדש appeared</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T06:46:56+00:00</pubDate>
+      <importance>19</importance>
     </item>
   </channel>
 </rss>
