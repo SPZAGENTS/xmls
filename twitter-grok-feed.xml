@@ -1,233 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-05-13T15:06:35.909Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Wed, 13 May 2026 19:01:26 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 🎬 מהגרים איסלאמיים בגרמניה רוצים ח&apos;ליפות איסלאמית וחוק שריעה. באירופה יש לנו בעיה </title>
+      <title>Islamic immigrants in Germany want Islamic caliphate and Sharia law. In Europe we have a huge problem. Everyone out!</title>
       <link>https://x.com/RadioGenoa/status/2046249258714632672</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2046249215790297088/pu/vid/avc1/320x568/Pkk4iyW0JC1b8d-4.mp4' alt='video'&gt; מהגרים איסלאמיים בגרמניה רוצים ח&apos;ליפות איסלאמית וחוק שריעה. באירופה יש לנו בעיה גדולה מאוד. כולם בחוץ!</description>
+      <description>Islamic immigrants in Germany want Islamic caliphate and Sharia law. In Europe we have a huge problem. Everyone out!</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2046249215790297088/pu/vid/avc1/320x568/Pkk4iyW0JC1b8d-4.mp4</imageUrl>
       <pubDate>2026-04-20T15:26:55Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2046249258714632672" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 🎬 האיש עם המיקרופון בסרטון הוא מטיף איסלאמי גרמני שבראיון אמר שהוא לא יכול לחכות ע</title>
+      <title>This man with the microphone in the video is a German Islamic preacher who, in an interview, said he can't wait for Sharia law to come into force in Germany so that women can be stoned. If we had said something like that they would have arrested us in 5 minutes, he is still free.</title>
       <link>https://x.com/RadioGenoa/status/2051002810351968269</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2050993611349639170/vid/avc1/480x270/pvHK6-WEZeVp5Z2o.mp4' alt='video'&gt; האיש עם המיקרופון בסרטון הוא מטיף איסלאמי גרמני שבראיון אמר שהוא לא יכול לחכות עד שחוק השריעה ייכנס לתוקף בגרמניה כדי שיוכלו לסרסר נשים. אם היינו אומרים משהו כזה היו עוצרים אותנו תוך 5 דקות, והוא עדיין חופשי.</description>
+      <description>This man with the microphone in the video is a German Islamic preacher who, in an interview, said he can't wait for Sharia law to come into force in Germany so that women can be stoned. If we had said something like that they would have arrested us in 5 minutes, he is still free.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2050993611349639170/vid/avc1/480x270/pvHK6-WEZeVp5Z2o.mp4</imageUrl>
       <pubDate>2026-05-03T18:15:50Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2051002810351968269" type="video/mp4"/>
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 באיטליה, בני מהגרים נושאים אקדחים לבית הספר כדי להפחיד תלמידים רגילים. לשלב אנשי</title>
+      <title>In Italy, son of immigrants carry guns to school to terrorize ordinary students. Integrating these people, even if they were born in Italy, is impossible.</title>
       <link>https://x.com/RadioGenoa/status/2047326965212791287</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2047326917511004160/pu/vid/avc1/320x568/MRkc25zFLHh3lnPN.mp4' alt='video'&gt; באיטליה, בני מהגרים נושאים אקדחים לבית הספר כדי להפחיד תלמידים רגילים. לשלב אנשים כאלה, אפילו אם נולדו באיטליה, בלתי אפשרי.</description>
+      <description>In Italy, son of immigrants carry guns to school to terrorize ordinary students. Integrating these people, even if they were born in Italy, is impossible.</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2047326917511004160/pu/vid/avc1/320x568/MRkc25zFLHh3lnPN.mp4</imageUrl>
       <pubDate>2026-04-23T14:49:20Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2047326965212791287" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📷 הם פולשים למדינה, בונים מסגדים, יוצרים אנקלבה, יש להם 6/8 ילדים, מתחזים לקורבנות</title>
+      <title>They invade a country, build mosques, create an enclave, have 6/8 kids, pretend to be victims and cry Islamophobia, resist host authorities, exploit social welfare, enter politics, establish Sharia, dissociate themselves from host country, take control and impose Islam by force.</title>
       <link>https://x.com/RadioGenoa/status/2053006177449967844</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HH2-PU2WcAAFYv1.jpg' alt='image'&gt; הם פולשים למדינה, בונים מסגדים, יוצרים אנקלבה, יש להם 6/8 ילדים, מתחזים לקורבנות ובוכים איסלמופוביה, מתנגדים לרשויות המארח, מנצלים רווחה חברתית, נכנסים לפוליטיקה, מקימים שריעה, מתנתקים ממדינת המארח, לוקחים שליטה ומטילים איסלאם בכוח.</description>
+      <description>They invade a country, build mosques, create an enclave, have 6/8 kids, pretend to be victims and cry Islamophobia, resist host authorities, exploit social welfare, enter politics, establish Sharia, dissociate themselves from host country, take control and impose Islam by force.</description>
+      <imageUrl>https://pbs.twimg.com/media/HH2-PU2WcAAFYv1.jpg</imageUrl>
       <pubDate>2026-05-09T06:56:30Z</pubDate>
-      <source>twitter-@RadioGenoa</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/RadioGenoa/status/2053006177449967844" type="image/jpeg"/>
+      <importance>88</importance>
     </item>
     <item>
-      <title>[100] 🎬 בברוקלין, גבר נוצרי הותקף והוטרד על ידי מפגינים אנטי-ישראליים מוסתרים בשנה שעברה</title>
+      <title>In Brooklyn, a Christian man was surrounded and harassed by masked anti-Israel protesters last year.
+
+“I’m Hamas, what are you gonna do?”
+ “You’re looking at Hamas in the eyes!”
+ “You want violence? Bring the violence!”
+
+The targets of this kind of extremism aren’t just Jews or “Zionists.” Time and time again, they prove this movement is not about “peace”, it’s about intimidation, aggression, and inciting violence on American streets.</title>
       <link>https://x.com/canarymission/status/2053666712508117422</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2053666625853784064/vid/avc1/480x270/qTQCJJeVCoslQ18F.mp4' alt='video'&gt; בברוקלין, גבר נוצרי הותקף והוטרד על ידי מפגינים אנטי-ישראליים מוסתרים בשנה שעברה.
+      <description>In Brooklyn, a Christian man was surrounded and harassed by masked anti-Israel protesters last year.
 
-&quot;אני חמאס, מה אתה הולך לעשות?&quot;
- &quot;אתה מסתכל בעיני חמאס!&quot;
- &quot;אתה רוצה אלימות? הבא ��ת האלימות!&quot;
+“I’m Hamas, what are you gonna do?”
+ “You’re looking at Hamas in the eyes!”
+ “You want violence? Bring the violence!”
 
-מטרות של סוג זה של קיצוניות אינן רק יהודים או &quot;ציונים&quot;. שוב ושוב הם מוכיחים שהתנועה הזו אינה על &quot;שלום&quot;, היא על אינטימידציה, תוקפנות והסתה לאלימות ברחובות אמריקה.</description>
+The targets of this kind of extremism aren’t just Jews or “Zionists.” Time and time again, they prove this movement is not about “peace”, it’s about intimidation, aggression, and inciting violence on American streets.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2053666625853784064/vid/avc1/480x270/qTQCJJeVCoslQ18F.mp4</imageUrl>
       <pubDate>2026-05-11T02:41:14Z</pubDate>
-      <source>twitter-@canarymission</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/canarymission/status/2053666712508117422" type="video/mp4"/>
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 🎬 המגמה האנטי-ישראלית נראית כמגנט לכל סוגי הדחויים מהחברה הנה דוג��ה אחת  אחי, אני</title>
+      <title>The anti-Israel trend seems to be a magnet for all types of rejects from society
+Here's one specimen 
+
+Bro, I don't know about you &quot;fucking me up&quot;, I have doubts you can get out of that chair</title>
       <link>https://x.com/HamasAtrocities/status/2052608896464806228</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2052608872943173636/pu/vid/avc1/320x426/z23WES2VSGJmTJdc.mp4' alt='video'&gt; המגמה האנטי-ישראלית נראית כמגנט לכל סוגי הדחויים מהחברה
-הנה דוג��ה אחת
+      <description>The anti-Israel trend seems to be a magnet for all types of rejects from society
+Here's one specimen 
 
-אחי, אני לא יודע לגבי &apos;לתקוע אותי&apos;, יש לי ספקות שאתה יכול לקום מהכיסא הזה</description>
+Bro, I don't know about you &quot;fucking me up&quot;, I have doubts you can get out of that chair</description>
+      <imageUrl>https://video.twimg.com/ext_tw_video/2052608872943173636/pu/vid/avc1/320x426/z23WES2VSGJmTJdc.mp4</imageUrl>
       <pubDate>2026-05-08T04:37:51Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052608896464806228" type="video/mp4"/>
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 🎬 🛑 איך עיוות תקשורתי מזין שנאת יהודים  איך זה עובד: - מעוותים ציטוט של הפוליטיקא</title>
+      <title>🛑 How Media Distortion Fuels Jew Hatred
+
+How it works:
+- distort a quote by the politician you want to demonize (in our case, Smotrich)
+- post it online for the mob to be enraged
+- watch your engagement grow
+- who cares it foments hate against the Jews!
+
+The reality in Lebanon is that the IDF is focused on dismantling terror infrastructure - rocket launchers, ballistic missiles, and tunnels - that has been built up over two decades under the noses of the same people who try to lecture us today about morality.
+
+And petty politicians try to ride the Pro-Pal wave and gain some votes by reposting fake news</title>
       <link>https://x.com/HamasAtrocities/status/2052327193074663873</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2052326223431278597/vid/avc1/320x568/RfIHHndNuopegIkk.mp4' alt='video'&gt; 🛑 איך עיוות תקשורתי מזין שנאת יהודים
+      <description>🛑 How Media Distortion Fuels Jew Hatred
 
-איך זה עובד:
-- מעוותים ציטוט של הפוליטיקאי שאתה רוצה להשמיץ (במקרה שלנו, סמוטריץ&apos;)
-- מפרסמים באינטרנט כדי שההמון יתלהט
-- צופים בהתקדמות האינגייג&apos;מנט
-- מי אכפת אם זה מעורר שנאה נגד היהודים!
+How it works:
+- distort a quote by the politician you want to demonize (in our case, Smotrich)
+- post it online for the mob to be enraged
+- watch your engagement grow
+- who cares it foments hate against the Jews!
 
-המציאות בלבנון היא שהצה&quot;ל מתמקד בהריסת תשתיות טרור - מתקני שיגור רקטות, טילים בליסטיים ומנהרות - שנבנו במשך יותר משתי עשורים מתחת לאפם של אותם אנשים שמנסים להרצות לנו היום על מוסר.
+The reality in Lebanon is that the IDF is focused on dismantling terror infrastructure - rocket launchers, ballistic missiles, and tunnels - that has been built up over two decades under the noses of the same people who try to lecture us today about morality.
 
-ופוליטיקאים קטנוניים מנסים לרכב על גל הפרו-פלסטיני ולזכות בקולות על ידי שיתוף חדשות מזויפות</description>
+And petty politicians try to ride the Pro-Pal wave and gain some votes by reposting fake news</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2052326223431278597/vid/avc1/320x568/RfIHHndNuopegIkk.mp4</imageUrl>
       <pubDate>2026-05-07T09:58:27Z</pubDate>
-      <source>twitter-@HamasAtrocities</source>
-      <category>חשיפת תומכי טרור</category>
-      <enclosure url="https://x.com/HamasAtrocities/status/2052327193074663873" type="video/mp4"/>
+      <importance>80</importance>
     </item>
     <item>
-      <title>[100] 🎬 בעוד פשעי שנאה אנטישמיים מתרחשים בגלוי—עם מטרידים שמאיימים ומקניטים בגלוי מתפללי</title>
+      <title>While anti-Semitic hate crimes unfold in plain sight—with agitators openly intimidating and taunting Jewish worshippers outside a Brooklyn synagogue—prominent leaders have chosen silence. Senate Majority Leader Chuck Schumer and New York Governor Kathy Hochul have offered no public condemnation. Meanwhile, Mayor Zohran Mamdani’s rhetoric has contributed to an atmosphere that emboldens such aggression.</title>
       <link>https://x.com/Brooklynp8triot/status/2054373997576441917</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2054373923282726912/vid/avc1/320x568/dqL5fRi9BGaFtEeK.mp4' alt='video'&gt; בעוד פשעי שנאה אנטישמיים מתרחשים בגלוי—עם מטרידים שמאיימים ומקניטים בגלוי מתפללים יהודים מחוץ לב��ת כנסת בברוקלין—מנהיגים בולטים בחרו בשתיקה. מנהיג הרוב בסנאט צ&apos;אק שומר ומושלת ניו יורק קתי הוכול לא גינו זאת בפומבי. בינתיים, הרטוריקה של ראש העיר זוהראן ממדני תרמה לאווירה שמעודדת תוקפנות כזו.</description>
+      <description>While anti-Semitic hate crimes unfold in plain sight—with agitators openly intimidating and taunting Jewish worshippers outside a Brooklyn synagogue—prominent leaders have chosen silence. Senate Majority Leader Chuck Schumer and New York Governor Kathy Hochul have offered no public condemnation. Meanwhile, Mayor Zohran Mamdani’s rhetoric has contributed to an atmosphere that emboldens such aggression.</description>
+      <imageUrl>https://video.twimg.com/amplify_video/2054373923282726912/vid/avc1/320x568/dqL5fRi9BGaFtEeK.mp4</imageUrl>
       <pubDate>2026-05-13T01:31:44Z</pubDate>
-      <source>twitter-@Brooklynp8triot</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      <enclosure url="https://x.com/Brooklynp8triot/status/2054373997576441917" type="video/mp4"/>
+      <importance>90</importance>
     </item>
     <item>
-      <title>[100] 📝 איפה כל הדמוקרטים בקונגרס? השתיקה שלהם מגעילה. אם זה היה קורה לכל קבוצת מיעוט אח</title>
+      <title>Where are all the congressional Democrats?  Their silence is disgusting. If this was being done to any other minority group they’d be up in arms. The perpetrators are part of their constituency. And that’s a fact.  Mamdani has gaslighted this. Hochul  does nothing.  Planter, Piker, etc al. The goal is to make NYC unlivable for Jews and to push them out. Same all over Europe and in the Middle East.</title>
       <link>https://x.com/marklevinshow/status/2054527800883753452</link>
-      <description>איפה כל הדמוקרטים בקונגרס? השתיקה שלהם מגעילה. אם זה היה קורה לכל קבוצת מיעוט אחרת, הם היו זועקים. העבריינים הם חלק מהבוחרים שלהם. וזה עובדה. ממדני הסתיר את זה. הוכול לא עושה כלום. פלנטר, פייקר וכו&apos;. המטרה היא להפוך את ניו יורק למקום בלתי נסבל ליהודים ולדחוף אותם החוצה. אותו דבר בכל אירופה ובמזרח התיכון.</description>
+      <description>Where are all the congressional Democrats?  Their silence is disgusting. If this was being done to any other minority group they’d be up in arms. The perpetrators are part of their constituency. And that’s a fact.  Mamdani has gaslighted this. Hochul  does nothing.  Planter, Piker, etc al. The goal is to make NYC unlivable for Jews and to push them out. Same all over Europe and in the Middle East.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-13T11:42:53Z</pubDate>
-      <source>twitter-@marklevinshow</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 בעיצומה של עלייה חסרת תקדים באלימות המופנית נגד יהודים, קמי בדנוק הייתה קולנית ב</title>
+      <title>Amidst an unprecedented increase in violence targeting Jews, Kemi Badenoch has been openly outspoken against antisemitism and anti-Zionism in Great Britain. 
+
+Language holds significant power. Kemi Badenoch asserts that rhetoric normalizing hostility toward Jews should not be dismissed as just political speech. She calls for her government to be accountable. 
+
+Free speech does not include language that incites violence against Jews. Slogans like “Globalize the Intifada” constitute hate speech. 
+
+Let’s show this leader our appreciation for speaking out and demanding that Britain confront antisemitism directly, protect Jewish citizens, and reject the normalization of hatred in public life.     
+
+✍️ https://t.co/DAK9L5mXun 
+
+See recent video here: 
+https://t.co/xIPdEpxyOi</title>
       <link>https://x.com/Chachocalles/status/2054560339711111485</link>
-      <description>בעיצומה של עלייה חסרת תקדים באלימות המופנית נגד יהודים, קמי בדנוק הייתה קולנית בגלוי נגד אנטישמיות ואנטי-ציונות בגריט בייטן. 
+      <description>Amidst an unprecedented increase in violence targeting Jews, Kemi Badenoch has been openly outspoken against antisemitism and anti-Zionism in Great Britain. 
 
-שפה מחזיקה בכוח משמעותי. קמי בדנוק טוענת שרטוריקה שמנרמלת עוינות כלפי יהודים לא צריכה להיות מושלכת כסתם נאום פוליטי. היא קוראת לממשלתה לקחת אחריות. 
+Language holds significant power. Kemi Badenoch asserts that rhetoric normalizing hostility toward Jews should not be dismissed as just political speech. She calls for her government to be accountable. 
 
-חופש ביטוי לא כולל שפה שמסיתה לאלימות נגד יהודים. סיסמאות כמו &apos;גלובליזציה של האינתיפאדה&apos; מהוות הסתה לשנאה. 
+Free speech does not include language that incites violence against Jews. Slogans like “Globalize the Intifada” constitute hate speech. 
 
-בואו נראה למנהיגה הזו את ההערכה שלנו על הדיבור החוצה ודרישה שבריטניה תתמודד עם אנטישמיות ישירות, תגן על אזרחים יהודים ותדחה את הנורמליזציה של שנאה בחיי הציבור.</description>
+Let’s show this leader our appreciation for speaking out and demanding that Britain confront antisemitism directly, protect Jewish citizens, and reject the normalization of hatred in public life.     
+
+✍️ https://t.co/DAK9L5mXun 
+
+See recent video here: 
+https://t.co/xIPdEpxyOi</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-13T13:52:11Z</pubDate>
-      <source>twitter-@Chachocalles</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 במהלך השנה וחצי האחרונות, ממשלת טראמפ עשתה הרבה כדי להתמודד עם אנטישמיות, במיוחד</title>
-      <link>https://x.com/LeoTerrellDOJ/status/2054566031125840207</link>
-      <description>במהלך השנה וחצי האחרונות, ממשלת טראמפ עשתה הרבה כדי להתמודד עם אנטישמיות, במיוחד בהשכלה הגבוהה, שם, מאוקטובר 2023, סטודנטים יהודים היו מטרות ואף תקיפות פיזיות. ליאו טרל, יו&quot;ר כוח המשימה של משרד המשפטים האמריקאי (DOJ) למאבק באנטישמיות, הבהיר — דרך פעולות, לא רק מילים — שיהיו השלכות על אפשרות סביבה רעילה של אנטישמיות בקמפוסים ורחב את המיקוד של כוח המשימה כדי לכלול בתי ספר יסודיים ותיכוניים.</description>
-      <pubDate>2026-05-13T14:14:48Z</pubDate>
-      <source>twitter-@LeoTerrellDOJ</source>
-      <category>פוליטיקאים נגד אנטישמיות</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 ישראל היא בית הכנסת של השטן.</title>
-      <link>https://x.com/MccainThun85519/status/2054578714659135713</link>
-      <description>ישראל היא בית הכנסת של השטן.</description>
-      <pubDate>2026-05-13T15:05:12Z</pubDate>
-      <source>twitter-@MccainThun85519</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 בית ספר מלא ילדים. 2 גושי בניינים כדי להרוג אדם אחד. בית כנסת. בתי חולים. אוניבר</title>
-      <link>https://x.com/KafaDhonbe/status/2054578678080958971</link>
-      <description>בית ספר מלא ילדים. 2 גושי בניינים כדי להרוג אדם אחד. בית כנסת. בתי חולים. אוניברסיטאות. גשרים</description>
-      <pubDate>2026-05-13T15:05:03Z</pubDate>
-      <source>twitter-@KafaDhonbe</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 כפיית יהודים להתווכח על ההסתברות האנטומית של פין של כלב חודר לטבעת אנוס אנושית ה</title>
-      <link>https://x.com/JewishSpaceLazr/status/2054578646648570094</link>
-      <description>כפיית יהודים להתווכח על ההסתברות האנטומית של פין של כלב חודר לטבעת אנוס אנושית היא הרגע המביש ביותר של &apos;תראו אותם מוציאים את הכיסים&apos; בהיסטוריה של אנטישמיות. ניק קריסטוף יירקב בגיהנום.</description>
-      <pubDate>2026-05-13T15:04:56Z</pubDate>
-      <source>twitter-@JewishSpaceLazr</source>
-      <category>אנטישמיות מהשטח</category>
-      
-    </item>
-    <item>
-      <title>[100] 🎬 כבן לשורד שואה ויהודי - אני מודע היטב לאנטישמיות” אלכס סורוס פרסם זאת לאחרונה וט</title>
-      <link>https://x.com/BGatesIsaPyscho/status/2054578620975268014</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/amplify_video/2054578567552307200/vid/avc1/320x320/5eDWH1yt1OnGRdix.mp4' alt='video'&gt; כבן לשורד שואה ויהודי - אני מודע היטב לאנטישמיות” אלכס סורוס פרסם זאת לאחרונה וטען שאביו ג&apos;ורג&apos; סורוס היה מטרה לאנטישמיות כל חייו.</description>
-      <pubDate>2026-05-13T15:04:50Z</pubDate>
-      <source>twitter-@BGatesIsaPyscho</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/BGatesIsaPyscho/status/2054578620975268014" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 📝 כל מי שמקדם חוק שריעה צריך להיגרש מיד, ללא קשר למעמד ההגירה הנוכחי או אפילו למעמ</title>
-      <link>https://x.com/b46_willy4581/status/2054578905420337582</link>
-      <description>כל מי שמקדם חוק שריעה צריך להיגרש מיד, ללא קשר למעמד ההגירה הנוכחי או אפילו למעמד האזרחות שלו!</description>
-      <pubDate>2026-05-13T15:05:57Z</pubDate>
-      <source>twitter-@b46_willy4581</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 תנועת הטרנס מומנה על ידי משמרות המהפכה האיסלאמית כדי לנרמל את הטרנס כי בחוק השרי</title>
-      <link>https://x.com/breedibility/status/2054578800810181078</link>
-      <description>תנועת הטרנס מומנה על ידי משמרות המהפכה האיסלאמית כדי לנרמל את הטרנס כי בחוק השריעה באיראן האייתוללה הכריז שגברים טרנס הם חלאל כנשים. מטרה זו נועדה להרוס את המורל של אמריקה כדי לקבל שרוב נשות ההיג&apos;אב באיראן הן רק גברים טרנס.</description>
-      <pubDate>2026-05-13T15:05:32Z</pubDate>
-      <source>twitter-@breedibility</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 לעזאזל עם חוק השריעה</title>
-      <link>https://x.com/ROBERTMCFAme/status/2054578771487854779</link>
-      <description>לעזאזל עם חוק השריעה</description>
-      <pubDate>2026-05-13T15:05:26Z</pubDate>
-      <source>twitter-@ROBERTMCFAme</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 ליברלים מזמינים מוסלמים כדי להפיץ סוציאליזם, בעוד מוסלמים משתמשים בסוציאליזם כדי</title>
-      <link>https://x.com/waveman111/status/2054578741259489502</link>
-      <description>ליברלים מזמינים מוסלמים כדי להפיץ סוציאליזם, בעוד מוסלמים משתמשים בסוציאליזם כדי להפיץ איסלאם. ליברלים הם אידיוטים שימושיים, ויקרוב ויראו את נשותיהם נאלצות לשריעה...</description>
-      <pubDate>2026-05-13T15:05:18Z</pubDate>
-      <source>twitter-@waveman111</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 📝 צביעות קלאסית של הטליבאן: מטיפים לשריעה תוך שהם מצרפים נשים.</title>
-      <link>https://x.com/shahidanwer_tsf/status/2054578731323461881</link>
-      <description>צביעות קלאסית של הטליבאן: מטיפים לשריעה תוך שהם מצרפים נשים.</description>
-      <pubDate>2026-05-13T15:05:16Z</pubDate>
-      <source>twitter-@shahidanwer_tsf</source>
-      <category>איום איסלאמי באירופה</category>
-      
-    </item>
-    <item>
-      <title>[100] 🎬 מטיף פלסטיני-מוסלמי בכיר במסגד אל-אקצא מתעקש &apos;מוסלמים ישתלטו על צרפת&apos; כדי לכפות </title>
-      <link>https://x.com/uggar29/status/2054578622590280074</link>
-      <description> &lt;img align='right' src='https://video.twimg.com/ext_tw_video/2054578408219344897/pu/vid/avc1/480x270/d-WG5BjOz0Uxf6PD.mp4' alt='video'&gt; מטיף פלסטיני-מוסלמי בכיר במסגד אל-אקצא מתעקש &apos;מוסלמים ישתלטו על צרפת&apos; כדי לכפות על כל הצרפתים להשתחוות לאיסלאם. הוא אומר שהם רוצים לכפות איסלאם על כל העולם ולעבד נשים נוצריות תחת חוקי שריעה.</description>
-      <pubDate>2026-05-13T15:04:50Z</pubDate>
-      <source>twitter-@uggar29</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/uggar29/status/2054578622590280074" type="video/mp4"/>
-    </item>
-    <item>
-      <title>[100] 📝 אני פשוט אוהב את הרעיון שזו אזור אסור פוליטי כי אנשים אוהבים לדמיין שהם יהיו מיל</title>
-      <link>https://x.com/horridpeasant/status/2054578555061727493</link>
-      <description>אני פשוט אוהב את הרעיון שזו אזור אסור פוליטי כי אנשים אוהבים לדמיין שהם יהיו מיליארדרים. כאילו דמיון של מאות מיליונים לא פוגע באותה צורה</description>
-      <pubDate>2026-05-13T15:04:34Z</pubDate>
-      <source>twitter-@horridpeasant</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>95</importance>
     </item>
   </channel>
 </rss>
