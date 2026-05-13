@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 13 May 2026 08:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says</title>
@@ -37,19 +37,19 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Uganda's president sworn in for record seventh term</title>
-      <link>https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/3e3c40b0-4e12-11f1-ac78-2112837ce2aa.jpg</imageUrl>
-      <pubDate>2026-05-12T14:58:18</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>No sign of larger hantavirus outbreak, says UN health agency</title>
       <link>https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg</imageUrl>
       <pubDate>2026-05-12T17:55:12</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Uganda's president sworn in for record seventh term</title>
+      <link>https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/3e3c40b0-4e12-11f1-ac78-2112837ce2aa.jpg</imageUrl>
+      <pubDate>2026-05-12T14:58:18</pubDate>
       <importance>18</importance>
     </item>
   </channel>
