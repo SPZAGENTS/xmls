@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 17:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:01:33 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: China’s Xi Warns Trump on Taiwan at Beijing Summit</title>
@@ -75,15 +75,6 @@ Iran’s chief negotiator said on Tuesday that Washington must accept Tehran’s
       <importance>17</importance>
     </item>
     <item>
-      <title>Israel-Lebanon ceasefire nears end: Will fresh talks lead to new truce?</title>
-      <link>https://www.france24.com/en/israel-lebanon-ceasefire-nears-end-will-fresh-talks-lead-to-new-truce</link>
-      <description>
-Israel's ruling coalition on Wednesday submitted a proposal to dissolve parliament to pave the way for early elections. The move, initiated by Netanyahu's right-wing Likud party, came as Netanyahu appeared to be facing a possible collapse of his fractious coalition, amid mounting pressure from the ultra-Orthodox parties. If the proposal is accepted, elections in Israel could then be held as early as the third week of August, around 2 months ahead of the October 27th deadline. Meanwhile, the cea</description>
-      <imageUrl>https://s.france24.com/media/display/627c9dee-4f93-11f1-bdab-005056a90284/w:1024/p:16x9/2026-05-13T102519Z-1963680832-RC2A8LAC4UCH-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg</imageUrl>
-      <pubDate>2026-05-14T12:50:47</pubDate>
-      <importance>58</importance>
-    </item>
-    <item>
       <title>Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack</title>
       <link>https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack</link>
       <description>
@@ -92,6 +83,14 @@ A report released on Tuesday by an independent Israeli investigative commission
       <imageUrl>https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg</imageUrl>
       <pubDate>2026-05-12T16:51:18</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>Russia Pummels Kyiv After Putin Hints That War Could End Soon</title>
+      <link>https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html</link>
+      <description>At least one person was killed and dozens were wounded in a drone and missile strike, the latest in a series of attacks since a three-day truce expired on Monday.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-ukraine-strike-fmpw/14int-ukraine-strike-fmpw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T08:24:44+00:00</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
