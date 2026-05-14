@@ -2,47 +2,55 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 12:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:01:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>עדכונים חיים: שי הסיני מזהיר את טראמפ מפני טייוואן בפסגת בייג'ינג</title>
+      <title>Live Updates: China’s Xi Warns Trump on Taiwan at Beijing Summit</title>
       <link>https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china</link>
-      <description>שי ג'ינפינג, מנהיג סין, אמר לנשיא טראמפ כי טייוואן, אם תטופל בצורה גרועה, עלולה להוביל להתנגשות עם ארצות הברית. שני המנהיגים צפויים גם לדון בסחר ובמלחמת איראן בפסגה בת היומיים.</description>
+      <description>Xi Jinping, China’s leader, told President Trump that Taiwan, if handled poorly, could lead to a clash with the United States. The two leaders are also expected to discuss trade and the Iran war at the two-day summit.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/13/multimedia/13trump-xi-promo-0300-qgmh/13trump-xi-promo-0300-qgmh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T09:20:52+00:00</pubDate>
       <importance>43</importance>
     </item>
     <item>
-      <title>המשא ומתן העליון בעזה קורא לחמאס לאמץ את תוכנית הבנייה מחדש</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
-      <description>ניקולאי מלאדנוב, המפקח על שביתת הנשק בהנהגת ארה&quot;ב בעזה, ניסה לשכנע את הקבוצה המיליטנטית לוותר על נשקו, אך היא סירבה עד כה על רקע הפרות הפסקת האש הישראליות.</description>
-      <imageUrl>https://static01.nyt.com/images/2025/12/06/multimedia/13int-mideast-hamas-topart/06int-gaza-militias-vpmk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-13T19:46:02+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>רוסיה תוקפת את קייב לאחר שפוטין רמז שהמלחמה עלולה להסתיים בקרוב</title>
+      <title>Russia Pummels Kyiv After Putin Hints That War Could End Soon</title>
       <link>https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html</link>
-      <description>לפחות אדם אחד נהרג ועשרות נפצעו בתקיפת מזל&quot;ט וטילים, האחרון בסדרת התקפות מאז הפסקת אש בת שלושה ימים שפג ביום שני.</description>
+      <description>At least one person was killed and dozens were wounded in a drone and missile strike, the latest in a series of attacks since a three-day truce expired on Monday.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-ukraine-strike-fmpw/14int-ukraine-strike-fmpw-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T08:24:44+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>מדינות המפרץ עוצרות 'בוגדים' שיעים תוך כדי מלחמה עם איראן</title>
+      <title>Top Gaza Negotiator Urges Hamas to Embrace Rebuilding Plan</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
+      <description>Nickolay Mladenov, who is overseeing the U.S.-led truce in Gaza, has tried to convince the militant group to give up its arms, but it has so far refused amid Israeli cease-fire violations.</description>
+      <imageUrl>https://static01.nyt.com/images/2025/12/06/multimedia/13int-mideast-hamas-topart/06int-gaza-militias-vpmk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-13T19:46:02+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Gulf Countries Arrest Shiite ‘Traitors’ Amid War With Iran</title>
       <link>https://www.nytimes.com/2026/05/13/world/middleeast/gulf-countries-arrest-shiite.html</link>
-      <description>עשרות אזרחי המפרץ הואשמו בהשתייכות לתאי טרור הקשורים לאיראן, מכיוון שהמלחמה מאיצה את המעבר לעבר סמכותיות עמוקה יותר באזור.</description>
+      <description>Dozens of Gulf citizens have been accused of belonging to Iran-linked terrorism cells as the war accelerates a shift toward deeper authoritarianism in the region.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-gulf-shiites-3-tfbp/13int-gulf-shiites-3-tfbp-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-05-13T08:55:35+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>מלחמת רוסיה-אוקראינה מראה כי הפסקת האש איבדה משמעות תחת טראמפ</title>
+      <title>Russia-Ukraine War Shows Cease-Fires Have Lost Meaning Under Trump</title>
       <link>https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html</link>
-      <description>הפסקות אש זמניות הפכו לכלי של דיפלומטיה ביצועית, מטרה בפני עצמה ולא הקדמה להסדר מתמשך, אומרים אנליסטים.</description>
+      <description>Temporary truces have become a tool of performative diplomacy, an end in themselves rather than a prelude to a lasting settlement, analysts say.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/13int-ukraine-ceasefires-1-mwlq/13int-ukraine-ceasefires-1-mwlq-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-05-13T09:03:29+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Duterte Ally Flees to Evade I.C.C. Arrest Warrant After Chaos at Philippine Senate</title>
+      <link>https://www.nytimes.com/2026/05/14/world/asia/philippines-dela-rosa-senate-icc-warrant-duterte.html</link>
+      <description>Senator Ronald dela Rosa, who is wanted by the International Criminal Court in The Hague, had been holed up in the building when shots rang out.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-philippines-fugitive-gmtp/14int-philippines-fugitive-gmtp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T09:48:03+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
