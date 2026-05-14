@@ -2,15 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 06:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:11:41 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Trump says 'I don't think about Americans' financial situation' in Iran negotiations</title>
-      <link>https://abcnews.com/Politics/trump-americans-financial-situation-iran-negotiations/story?id=132891356</link>
+      <title>WATCH:  Trump says 'I don't think about Americans' financial situation' in Iran negotiations</title>
+      <link>https://abcnews.com/video/132909439/</link>
       <description>President Donald Trump said Americans' financial situation was &quot;not even a little bit&quot; of a motivating factor for him reaching a deal to end the war in Iran.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-13T05:58:16-04:00</pubDate>
+      <pubDate>2026-05-13T07:39:01-04:00</pubDate>
       <importance>47</importance>
+    </item>
+    <item>
+      <title>Russian ship that sank near Spain may have carried nuclear reactor parts</title>
+      <link>https://abcnews.com/International/wireStory/russian-ship-sank-spain-carried-nuclear-reactor-parts-132910615</link>
+      <description>A Russian ship that sank after its engine room exploded in the Mediterranean could have been carrying parts for nuclear reactors used in submarines, according to Spanish government documents</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T08:58:28-04:00</pubDate>
+      <importance>37</importance>
     </item>
     <item>
       <title>Iran war looms over Trump’s visit to Beijing: ANALYSIS</title>
@@ -19,30 +27,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-13T06:10:19-04:00</pubDate>
       <importance>32</importance>
-    </item>
-    <item>
-      <title>Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply</title>
-      <link>https://abcnews.com/International/wireStory/japanese-snack-packages-turning-black-white-iran-war-132906999</link>
-      <description>The packaging on some snacks in Japan is turning a somber black-and-white, as the war in Iran disrupts the supply of an ingredient in colored ink</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_3ce00fb5e9e9abeb6dd8116522272cec_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-13T06:16:15-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning</title>
-      <link>https://abcnews.com/International/wireStory/trump-heads-china-past-us-flubs-us-policy-132902764</link>
-      <description>American presidents have navigated a verbal tightrope for nearly 50 years regarding official U.S. policy toward Taiwan and China</description>
-      <imageUrl>https://s.abcnews.com/images/US/wirestory_f5b1d1229252179dd332181902d9a87b_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-13T04:12:29-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>Macron faces backlash after interrupting Africa summit panel in Kenya</title>
-      <link>https://abcnews.com/International/wireStory/macron-faces-backlash-after-interrupting-africa-summit-panel-132908212</link>
-      <description>French President Emmanuel Macron is facing backlash after interrupting a panel at the Africa Forward Summit in Kenya</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_5186f15010ec1854ff31d725c904b42e_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-13T03:07:57-04:00</pubDate>
-      <importance>17</importance>
     </item>
   </channel>
 </rss>
