@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 08:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:01:40 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>In Hormuz deadlock, U.S. and Iran refuse to back down</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-13T16:16:37-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31</title>
+      <link>https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles</link>
+      <description>Russia has launched a mass drone and missile attack on Ukraine's capital, Kyiv, killing one person and injuring at least 31. Local authorities report damage across six districts.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T01:21:16-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
