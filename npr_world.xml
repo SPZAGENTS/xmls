@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 14 May 2026 22:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 23:02:17 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As Trump meets with Xi, security expert says China now faces the U.S. as a peer</title>
@@ -26,6 +26,14 @@
       <description>At the summit, the Chinese leader placed Taiwan, a key point of friction between the U.S. and China, at the center, calling it &quot;the most important issue&quot; between the two countries.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T07:02:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Jury orders Boeing to pay $49.5 million to family of 737 MAX crash victim</title>
+      <link>https://www.npr.org/2026/05/14/nx-s1-5822441/jury-award-737-max-crash-ethiopian-airlines</link>
+      <description>A federal jury in Chicago awarded $49.5 million to the family of Samya Stumo, a young woman who was killed in the second of two Boeing 737 MAX crashes within months of each other in 2018 and 2019.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T14:10:59-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
