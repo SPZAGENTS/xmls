@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 11:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:13:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
@@ -10,14 +10,6 @@
       <description>Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14dc-military-iran-wklv/14dc-military-iran-wklv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T22:49:52+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
-      <description>The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -69,9 +61,17 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Enter the Killer Robots: The Ukrainian Forging the Future of Warfare</title>
+      <title>ערב הסעודית וארצות הברית ביצע פיגועים חשאיים באיראן, אומרים גורמים רשמיים בארה&quot;ב</title>
+      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
+      <description>מדינות ערב במפרץ התלבטו כיצד להרתיע את איראן לאחר שהמלחמה הבהירה את גבולות ערבויות הביטחון האמריקאיות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>הזן את הרובוטים הרוצחים: האוקראיני פורג את עתיד המלחמה</title>
       <link>https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html</link>
-      <description>Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival.</description>
+      <description>מיכאילו פדורוב, שר ההגנה של אוקראינה בן ה-35, רואה בטכנולוגיה צבאית עתידנית חשיבות מכרעת להישרדות ארצו.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-ukraine-fedorov-profile-02-qmbc-promo/15int-ukraine-fedorov-profile-02-qmbc-promo-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-15T04:01:11+00:00</pubDate>
       <importance>18</importance>
