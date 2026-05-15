@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 11:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</title>
@@ -35,6 +35,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T04:17:34</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>The 10 best songs competing at (a very contentious) Eurovision</title>
+      <link>https://www.npr.org/2026/05/14/nx-s1-5813511/eurovision-2026-predictions-top-songs</link>
+      <description>Glitter, vocal gymnastics, on-stage flames — the show goes on on the Eurovision stage in Vienna, even though five countries are boycotting this year's contest due to Israel's participation.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T17:33:15-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>How AI is speeding new business creation, especially among Gen Z entrepreneurs</title>
+      <link>https://www.npr.org/2026/05/14/nx-s1-5816229/how-ai-is-speeding-new-business-creation-especially-among-gen-z-entrepreneurs</link>
+      <description>Entrepreneurs are turning to AI to speed the creation of new businesses, with Gen Z leading the way. That's according to a new report from the payroll software firm Gusto.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T17:06:14-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
