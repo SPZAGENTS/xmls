@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 17:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 18:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>What to Know About Day 2 of Trump and Xi’s Beijing Summit</title>
+      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html</link>
+      <description>President Trump and China’s leader, Xi Jinping, emphasized stability but announced no major breakthroughs on points of contention like trade, Taiwan and the war in Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T10:20:08+00:00</pubDate>
+      <importance>48</importance>
+    </item>
     <item>
       <title>Oil Prices Climb on Fears of Broader Energy Crunch</title>
       <link>https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</link>
@@ -11,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T11:40:50+00:00</pubDate>
       <importance>44</importance>
+    </item>
+    <item>
+      <title>Delivering Mail on Ukraine’s Front Line</title>
+      <link>https://www.nytimes.com/video/world/europe/100000010847527/delivering-mail-on-ukraines-front-line.html</link>
+      <description>Larysa Navrotska risks her life to deliver mail, retirement checks and medicine to remote Ukrainian communities under the constant threat of Russian drones from the nearby front line. Her service has become even more crucial than it was before the war.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T09:37:38+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
       <title>Archaeologists Find Egyptian Mummy Buried With the ‘Iliad’</title>
@@ -27,22 +43,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-13T17:21:37+00:00</pubDate>
       <importance>44</importance>
-    </item>
-    <item>
-      <title>עדכונים חיים: טראמפ אומר שהוא ושי שוחחו בהרחבה על טייוואן</title>
-      <link>https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing</link>
-      <description>נשיא טראמפ עזב את בייג'ינג, והוא ושי ג'ינפינג הדגישו את היציבות, אך לא נראו פתרונות לנושאים מרכזיים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/14/multimedia/14trump-xi-promo0445-jbth/14trump-xi-promo0445-jbth-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T14:08:43+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>מה לדעת על היום השני של הפסגה בין טראמפ לשי בבייג'ינג</title>
-      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html</link>
-      <description>נשיא טראמפ והמנהיג הסיני, שי ג'ינפינג, הדגישו יציבות אך לא הודיעו על breakthroughs משמעותיים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15trump-xi-secondday-wwk-lwcj/15trump-xi-secondday-wwk-lwcj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T10:20:08+00:00</pubDate>
-      <importance>43</importance>
     </item>
     <item>
       <title>U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities</title>
