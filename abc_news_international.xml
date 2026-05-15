@@ -2,47 +2,55 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 19:47:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 20:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>המלחמה מחמירה את המשבר הכלכלי בלבנון עם אובדן משרות, עליית מחירים ועסקים איטיים</title>
+      <title>War worsens Lebanon's economic crisis with job losses, price gouging and slow business</title>
       <link>https://abcnews.com/International/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990998</link>
-      <description>המלחמה האחרונה בין ישראל לחמאס וסגירת מצרי הורמוז יצרו גלי הלם כלכליים במזרח התיכון.</description>
+      <description>The latest war between Israel and Hamas, and the closure of the Strait of Hormuz, have sent economic shock waves across the Mideast</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T08:00:33-04:00</pubDate>
       <importance>67</importance>
     </item>
     <item>
-      <title>אזרח עיראקי מואשם בתיאום התקפות טרור שנועדו לעצור את מלחמת איראן</title>
-      <link>https://abcnews.com/US/iraqi-national-charged-coordinating-terror-attacks-aimed-stop/story?id=133002021</link>
-      <description>מוחמד באקר סעיד דאוד אל-סאדי allegedly pledged thousands of dollars to someone he thought would carry out an attack against a synagogue in New York.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T11:09:34-04:00</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
-      <title>צפו: עוגת יום הולדת מתמוטטת 'שטוחה' במבול ויראלי</title>
-      <link>https://abcnews.com/video/132959273/</link>
-      <description>לורי ברגמוטו מנתחת את 'שערוריית העוגת גבינה' לאחר שפרסום של אישה מקולורדו על עוגת גבינה שטוחה עורר מהומה ברשתות החברתיות.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-14T10:32:29-04:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>מה לדעת על המתמודדים שיכולים להחליף את קיר סטארמר כמנהיג מפלגת הלייבור של בריטניה</title>
+      <title>What to know about contenders who could replace Keir Starmer as Britain's Labour leader</title>
       <link>https://abcnews.com/International/wireStory/contenders-replace-keir-starmer-britains-labour-leader-132967153</link>
-      <description>מנהיגות של קיר סטארמר, ראש ממשלת בריטניה, בסכנה לאחר שמפלגת הלייבור שלו סבלה מהפסדים כבדים בבחירות המקומיות בשבוע שעבר.</description>
+      <description>British Prime Minister Keir Starmer's leadership is in jeopardy after his Labour Party suffered heavy defeats in local elections last week</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T12:10:34-04:00</pubDate>
       <importance>32</importance>
     </item>
     <item>
-      <title>שרים זרים של BRICS נפגשים בהודו בזמן שהמלחמה באיראן, מחירי הנפט והחלוקות בודקים את האחדות של הבלוק</title>
+      <title>WATCH:  Birthday cheesecake falls ‘flat’ in viral frenzy</title>
+      <link>https://abcnews.com/video/132959273/</link>
+      <description>Lori Bergamotto breaks down &quot;cheesecake gate&quot; after a Colorado woman's post about a flattened cheesecake sparked a social media frenzy.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T10:32:29-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>BRICS foreign ministers meet in India as Iran war, oil prices and divisions test the bloc's unity</title>
       <link>https://abcnews.com/International/wireStory/brics-foreign-ministers-meet-india-iran-war-oil-132950574</link>
-      <description>שרים זרים של BRICS החלו בפגישה של יומיים בניו דלהי.</description>
+      <description>BRICS foreign ministers have started a two-day meeting in New Delhi</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T07:54:41-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>Death toll in attack on Kyiv apartment building now stands at 24</title>
+      <link>https://abcnews.com/International/wireStory/death-toll-attack-kyiv-apartment-building-now-stands-132992721</link>
+      <description>Ukrainian President Volodymyr Zelenskyy says that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_58db0cf78615952f3f090c19e104387f_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T04:54:53-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Iran war energy shock drives interest in ethanol and other biofuels across hard-hit Asia</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480</link>
+      <description>Nations across Asia are pushing for the use of more biofuels in transportation in order to slash dependence on imported fossil fuels, which have been disrupted by the Iran war</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T02:24:10-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
