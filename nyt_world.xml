@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 08:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:01:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
@@ -11,6 +11,22 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14dc-military-iran-wklv/14dc-military-iran-wklv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T22:49:52+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say</title>
+      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
+      <description>The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Iran Lets Chinese Ships Through Strait of Hormuz Amid Rising Tensions After Vessel Seizure</title>
+      <link>https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html</link>
+      <description>Iranian news agencies said some Chinese ships were being allowed through the strait, following diplomatic outreach to Iran from Beijing.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T17:52:46+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>Glitz and Boycotts at Eurovision</title>
@@ -50,38 +66,6 @@
       <description>Senator Ronald dela Rosa, who is wanted by the International Criminal Court in The Hague, had been holed up in the building when shots rang out.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-philippines-fugitive-gmtp/14int-philippines-fugitive-gmtp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T09:48:04+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>ערב הסעודית וארצות הברית ביצע פיגועים חשאיים באיראן, אומרים גורמים רשמיים בארה&quot;ב</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
-      <description>מדינות ערב במפרץ התלבטו כיצד להרתיע את איראן לאחר שהמלחמה הבהירה את גבולות ערבויות הביטחון האמריקאיות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>רוסיה תוקפת את קייב לאחר שפוטין רמז שהמלחמה עלולה להסתיים בקרוב</title>
-      <link>https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html</link>
-      <description>לפחות אדם אחד נהרג ועשרות נפצעו בתקיפת מזל&quot;ט וטילים, האחרון בסדרת התקפות מאז הפסקת אש בת שלושה ימים שפג ביום שני.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-ukraine-strike-fmpw/14int-ukraine-strike-fmpw-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-05-14T18:30:07+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>איראן מאפשרת לספינות סיניות דרך מיצר הורמוז על רקע המתיחות הגוברת לאחר תפיסת כלי השיט</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html</link>
-      <description>סוכנויות הידיעות האיראניות אמרו שכמה ספינות סיניות מורשות לעבור את המיצר, בעקבות פניה דיפלומטית לאיראן מבייג'ין.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T17:52:46+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>הזן את הרובוטים הרוצחים: האוקראיני פורג את עתיד המלחמה</title>
-      <link>https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html</link>
-      <description>מיכאילו פדורוב, שר ההגנה של אוקראינה בן ה-35, רואה בטכנולוגיה צבאית עתידנית חשיבות מכרעת להישרדות ארצו.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-ukraine-fedorov-profile-02-qmbc-promo/15int-ukraine-fedorov-profile-02-qmbc-promo-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T04:01:10+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
