@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 03:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:29:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Israeli nationalists chant ‘death to Arabs’ in violent Jerusalem Day march</title>
+      <link>https://www.theguardian.com/world/2026/may/14/israel-nationalists-jerusalem-day-march-anniversary-protest</link>
+      <description>&lt;p&gt;Far-right Jewish marchers call for Palestinian villages to ‘burn’ as they storm through Muslim quarter of Old City&lt;/p&gt;&lt;p&gt;Israeli nationalists chanted “death to the Arabs”, “may your villages burn” and “Gaza is a graveyard” in a state-sponsored march through Jerusalem to mark the anniversary of the city’s capture and annexation.&lt;/p&gt;&lt;p&gt;The annual assertion of Jewish control over Palestinian East Jerusalem has grown more extreme in recent years, and Thursday’s event culminated with the national </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T21:24:54</pubDate>
+      <importance>82</importance>
+    </item>
     <item>
       <title>Middle East live: Israeli troops targeted in north Israel drone strike, Hezbollah says</title>
       <link>https://www.france24.com/en/middle-east/20260514-middle-east-live-lebanon-israel-to-hold-new-talks-in-us-before-ceasefire-expires-iran-war</link>
@@ -13,6 +21,14 @@ Hezbollah on Thursday said it targeted Israeli troops in northern Israel with a 
       <imageUrl>https://s.france24.com/media/display/7070422c-4fc8-11f1-9c8e-005056a97e36/w:1024/p:16x9/000-A8Y69JC.jpg</imageUrl>
       <pubDate>2026-05-14T01:41:50</pubDate>
       <importance>73</importance>
+    </item>
+    <item>
+      <title>Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel</title>
+      <link>https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T23:22:07</pubDate>
+      <importance>69</importance>
     </item>
     <item>
       <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
@@ -74,24 +90,6 @@ Israel's ruling coalition on Wednesday submitted a proposal to dissolve parliame
       <imageUrl>https://s.abcnews.com/images/US/wirestory_664cf1ec33396a66d11e8509f8a5d10c_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-14T02:25:29-04:00</pubDate>
       <importance>47</importance>
-    </item>
-    <item>
-      <title>Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack</title>
-      <link>https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack</link>
-      <description>
-A report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a &quot;central component&quot; of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to Gaza.
-</description>
-      <imageUrl>https://s.france24.com/media/display/e936d0ee-4e20-11f1-b2df-005056a90284/w:1024/p:16x9/000-77TX7ZG.jpg</imageUrl>
-      <pubDate>2026-05-12T16:51:18</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
-      <description>The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
-      <importance>28</importance>
     </item>
   </channel>
 </rss>

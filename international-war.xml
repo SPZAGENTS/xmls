@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 03:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:29:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East live: Israeli troops targeted in north Israel drone strike, Hezbollah says</title>
@@ -13,6 +13,14 @@ Hezbollah on Thursday said it targeted Israeli troops in northern Israel with a 
       <imageUrl>https://s.france24.com/media/display/7070422c-4fc8-11f1-9c8e-005056a97e36/w:1024/p:16x9/000-A8Y69JC.jpg</imageUrl>
       <pubDate>2026-05-14T01:41:50</pubDate>
       <importance>73</importance>
+    </item>
+    <item>
+      <title>Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel</title>
+      <link>https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T23:22:07</pubDate>
+      <importance>69</importance>
     </item>
     <item>
       <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
@@ -84,16 +92,6 @@ A report released on Tuesday by an independent Israeli investigative commission
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T19:37:12+00:00</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>Why did Saudi Arabia and the UAE allegedly carry out secret bombing raids on Iran?</title>
-      <link>https://www.france24.com/en/middle-east/20260514-why-did-saudi-arabia-and-the-uae-allegedly-carry-out-secret-bombing-raids-iran</link>
-      <description>
-The United Arab Emirates and Saudi Arabia in April secretly carried out a series of air strikes against Iran during the US-Israeli war against Tehran, the Wall Street Journal and Reuters reported this week. Analysts say these raids – which neither country has confirmed – would have been clandestine counterattacks following Tehran’s drone and missile strikes against Gulf state infrastructure.
-</description>
-      <imageUrl>https://s.france24.com/media/display/ba5fd54e-4eda-11f1-ba63-005056a90284/w:1024/p:16x9/saudi-air-m.jpg</imageUrl>
-      <pubDate>2026-05-14T14:22:25</pubDate>
-      <importance>48</importance>
     </item>
   </channel>
 </rss>

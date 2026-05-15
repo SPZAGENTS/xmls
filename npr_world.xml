@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 03:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:29:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As Trump meets with Xi, security expert says China now faces the U.S. as a peer</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T14:10:59-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Cordial Trump-Xi meeting is a 'good sign,' says longtime U.S. diplomat</title>
+      <link>https://www.npr.org/2026/05/14/nx-s1-5822225/richard-haass-trump-xi-meeting-china-summit</link>
+      <description>Longtime U.S. diplomat Richard Haass interprets President Trump's meeting with China leader, Xi Jinping. He said though the two have different priorities the cordial summit could be a 'good sign.'</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T07:15:06-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
