@@ -2,63 +2,87 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 15:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 15:20:20 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Aging Palestinian Leader Boosting His Son’s Political Rise, Officials Say</title>
-      <link>https://www.nytimes.com/2026/05/15/world/middleeast/abbas-fatah-palestinian-authority.html</link>
-      <description>Mahmoud Abbas’s years in power have been dogged by accusations of corruption. Many Palestinians yearn for fresh leadership.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T04:01:19+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say</title>
+      <title>ערב הסעודית וארצות הברית ביצע פיגועים חשאיים באיראן, אומרים גורמים רשמיים בארה&quot;ב</title>
       <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
-      <description>The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.</description>
+      <description>מדינות ערב במפרץ התלבטו כיצד להרתיע את איראן לאחר שהמלחמה הבהירה את גבולות ערבויות הביטחון האמריקאיות.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T19:37:12+00:00</pubDate>
       <importance>54</importance>
     </item>
     <item>
-      <title>Oil Prices Waver as Trump Meets China’s Xi to Discuss Strait of Hormuz</title>
+      <title>מחירי הנפט מתערערים בזמן שטראמפ פוגש את שי של סין כדי לדון במצר הורמוז</title>
       <link>https://www.nytimes.com/2026/05/14/business/oil-stocks-gas-iran-trump-china.html</link>
-      <description>The president is expected to urge the Chinese leader to help ease tensions in the Middle East by helping to persuade Iran to end the war.</description>
+      <description>הנשיא צפוי להאיץ במנהיג הסיני לסייע בהפגת המתיחות במזרח התיכון על ידי סיוע בשכנוע איראן לסיים את המלחמה.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T21:36:36+00:00</pubDate>
       <importance>54</importance>
     </item>
     <item>
-      <title>Iran Lets Chinese Ships Through Strait of Hormuz Amid Rising Tensions After Vessel Seizure</title>
+      <title>איראן מאפשרת לספינות סיניות דרך מיצר הורמוז על רקע המתיחות הגוברת לאחר תפיסת כלי השיט</title>
       <link>https://www.nytimes.com/live/2026/05/14/us/trump-news/iran-strait-hormuz-china-ships</link>
-      <description>Iranian news agencies said some Chinese ships were being allowed through the strait, following diplomatic outreach to Iran from Beijing.</description>
+      <description>סוכנויות הידיעות האיראניות אמרו שכמה ספינות סיניות מורשות לעבור את המיצר, בעקבות פניה דיפלומטית לאיראן מבייג'ין.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T17:52:46+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>ישראל אומרת שנתניהו עשה טיול סודי לארה&quot;ב, שאומר שלא</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html</link>
+      <description>הטענה וההכחשה סימנו עד כמה ישראל ואיחוד האמירויות הערביות הפכו קרובות, ועד כמה הקשר הזה נותר עדין.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T21:36:21+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>המשא ומתן העליון בעזה קורא לחמאס לאמץ את תוכנית הבנייה מחדש</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
+      <description>ניקולאי מלאדנוב, המפקח על שביתת הנשק בהנהגת ארה&quot;ב בעזה, ניסה לשכנע את הקבוצה המיליטנטית לוותר על נשקו, אך היא סירבה עד כה על רקע הפרות הפסקת האש הישראליות.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T19:46:02+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>מה לדעת על היום השני של פסגת בייג'ינג של טראמפ ושי</title>
+      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html</link>
+      <description>הנשיא טראמפ ומנהיג סין, שי ג'ינפינג, הדגישו יציבות אך לא הכריזו על פריצות דרך משמעותיות בנקודות מחלוקת כמו סחר, טייוואן והמלחמה באיראן.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T10:20:08+00:00</pubDate>
       <importance>48</importance>
     </item>
     <item>
-      <title>House Again Blocks War Powers Vote to Halt Iran Conflict</title>
-      <link>https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html</link>
-      <description>But two vulnerable Republicans joined Democrats in the effort to force President Trump to win authorization from Congress, in the latest sign of G.O.P. jitters over the war.</description>
+      <title>מחירי הנפט מטפסים על רקע החששות מחנק אנרגטי רחב יותר</title>
+      <link>https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</link>
+      <description>התקוות לסיום המלחמה באיראן התפוגגו לאחר שהנשיא טראמפ לא הצליח להבטיח התחייבות מסין לעזור לשכנע את איראן לפתוח מחדש את מיצר הורמוז.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-14T22:59:38+00:00</pubDate>
-      <importance>32</importance>
+      <pubDate>2026-05-15T11:40:50+00:00</pubDate>
+      <importance>44</importance>
     </item>
     <item>
-      <title>What to Know About Day 2 of Trump and Xi’s Beijing Summit</title>
-      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html</link>
-      <description>President Trump and China’s leader, Xi Jinping, emphasized stability but announced no major breakthroughs on points of contention like trade, Taiwan and the war in Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15trump-xi-secondday-wwk-lwcj/15trump-xi-secondday-wwk-lwcj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T10:20:08+00:00</pubDate>
-      <importance>43</importance>
+      <title>רעידת אדמה מרעידה את טהרן, שם העצבים כבר מתוחים ממלחמת איראן</title>
+      <link>https://www.nytimes.com/2026/05/12/world/middleeast/earthquake-iran-tehran.html</link>
+      <description>כלי תקשורת באיראן מסרו כי רעידת אדמה מתונה הרעידה את הבירה בסביבות חצות שעון מקומי.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-13T17:21:37+00:00</pubDate>
+      <importance>44</importance>
     </item>
     <item>
-      <title>Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry</title>
-      <link>https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html</link>
-      <description>As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-oz-antisemitism-01-fpvw/15int-oz-antisemitism-01-fpvw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T00:50:53+00:00</pubDate>
-      <importance>33</importance>
+      <title>המודיעין האמריקני מראה שאיראן שומרת על יכולות טילים משמעותיות</title>
+      <link>https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html</link>
+      <description>הערכות סודיות חדשות אומרות שלאיראן יש גישה מבצעית ל-30 מתוך 33 אתרי הטילים שלה לאורך מיצר הורמוז, מה שמצביע על כך שהצבא שלה נותר חזק בהרבה ממה שהנשיא טראמפ טען.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T23:01:56+00:00</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
+      <title>ארה&quot;ב עשויה להתחיל מחדש את התקיפות על איראן, טראמפ והגסת' אזהרה</title>
+      <link>https://www.nytimes.com/2026/05/12/world/middleeast/trump-iran-ceasefire-strikes.html</link>
+      <description>כשהשיחות במבוי סתום, שני הצדדים מחזיקים בעמדות שיריביהם מכנים בלתי מקובלות, בעוד הכאב הכלכלי שנגרם על ידי המצור על מיצר הורמוז ממשיך לגדול.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T21:00:06+00:00</pubDate>
+      <importance>44</importance>
     </item>
   </channel>
 </rss>
