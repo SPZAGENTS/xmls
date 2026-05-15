@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 18:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 19:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to Know About Day 2 of Trump and Xi’s Beijing Summit</title>
@@ -45,14 +45,6 @@
       <importance>44</importance>
     </item>
     <item>
-      <title>עדכונים חיים: טראמפ אומר שהוא ושי דיברו רבות על טייוואן</title>
-      <link>https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing</link>
-      <description>כשהנשיא טראמפ עזב את בייג'ינג, הוא ושי ג'ינפינג, מנהיג סין, שיחקו את היציבות. לא היה שום אינדיקציה שהם פתרו נקודות מחלוקת מרכזיות על טייוואן, המלחמה באיראן או נושאים אחרים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/14/multimedia/14trump-xi-promo0445-jbth/14trump-xi-promo0445-jbth-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T15:00:09+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities</title>
       <link>https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html</link>
       <description>Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.</description>
@@ -82,6 +74,14 @@
       <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-13T15:04:52+00:00</pubDate>
+      <importance>34</importance>
+    </item>
+    <item>
+      <title>Israeli Report Finds That Sexual Violence by Hamas Was Widespread</title>
+      <link>https://www.nytimes.com/2026/05/12/world/middleeast/israel-sexual-violence-hamas-attack-report.html</link>
+      <description>A two-year investigation by a team of researchers in Israel concluded that sexual violence by Hamas and its allies was widespread during and after the Oct. 7, 2023, attack.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-12T22:29:05+00:00</pubDate>
       <importance>34</importance>
     </item>
   </channel>
