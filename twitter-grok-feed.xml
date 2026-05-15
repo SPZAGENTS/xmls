@@ -1,72 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Twitter Grok Feed - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 02:01:28 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+    <title>SPZ Twitter Feed - Field Content</title>
+    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
+    <link>https://github.com/SPZAGENTS/xmls</link>
+    <lastBuildDate>2026-05-15T23:18:00.000Z</lastBuildDate>
+    <language>he</language>
     <item>
-      <title>Counterterror police probe arson attack at former synagogue as Britain raises terror threat level after antisemitic attack declared terrorist incident.</title>
+      <title>[95] 📷 משטרת המלחמה בטרור חוקרת התקפת הצתה בבית כנסת לשעבר, בעוד בריטניה העלתה את רמת...</title>
       <link>https://apnews.com/article/synagogue-arson-london-antisemitism-iran-jewish-stabbing-037691f7b6decc80b4258daf7d61cc9d</link>
-      <description>Counterterror police probe arson attack at former synagogue as Britain raises terror threat level after antisemitic attack declared terrorist incident.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T14:00:00Z</pubDate>
-      <importance>95</importance>
+      <description>משטרת המלחמה בטרור חוקרת התקפת הצתה בבית כנסת לשעבר, בעוד בריטניה העלתה את רמת האיום הטרוריסטי לאחר שתקיפה אנטישמית הוכרזה כתקרית טרוריסטית. ראש הממשלה קיר סטארמר כינס ישיבת חירום בדאונינג סטריט.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@APNews</source>
+      <category>אנטישמיות מהשטח</category>
+      <enclosure url="https://apnews.com/article/synagogue-arson-london-antisemitism-iran-jewish-stabbing-037691f7b6decc80b4258daf7d61cc9d" type="image/jpeg"/>
     </item>
     <item>
-      <title>As attacks on Europe's Jewish communities escalate, Iran may be behind them. CNN investigation found Iran-linked groups using social media to recruit individuals for surveillance and attacks.</title>
-      <link>https://www.cnn.com/2026/05/11/europe/europe-antisemitic-attacks-online-groups-iran-claim-intl-cmd</link>
-      <description>As attacks on Europe's Jewish communities escalate, Iran may be behind them. CNN investigation found Iran-linked groups using social media to recruit individuals for surveillance and attacks.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T10:00:00Z</pubDate>
-      <importance>92</importance>
+      <title>[94] 📷 תקיפות אנטישמיות בלונדון 2026: במרץ ואפריל 2026, כ-10 תקיפות כוונו לקהילה היהודית בלונדון,...</title>
+      <link>https://en.wikipedia.org/wiki/2026_London_antisemitic_attacks</link>
+      <description>תקיפות אנטישמיות בלונדון 2026: במרץ ואפריל 2026, כ-10 תקיפות כוונו לקהילה היהודית בלונדון, בריטניה. התקיפות כללו הצתה, מכשירי נפץ וכימיקלים, וכוונו לבתי ספר יהודיים, בתי כנסת וארגוני צדקה.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@Wikipedia</source>
+      <category>אנטישמיות מהשטח</category>
+      <enclosure url="https://en.wikipedia.org/wiki/2026_London_antisemitic_attacks" type="image/jpeg"/>
     </item>
     <item>
-      <title>Map shows rising antisemitic incidents: Belt-wielding assailant lashes Orthodox Jewish women in brutal London hate attack. Jewish teen subjected to antisemitic slurs on Minecraft.</title>
-      <link>https://map.stopantisemitism.org/</link>
-      <description>Map shows rising antisemitic incidents: Belt-wielding assailant lashes Orthodox Jewish women in brutal London hate attack. Jewish teen subjected to antisemitic slurs on Minecraft.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-10T09:22:00Z</pubDate>
-      <importance>90</importance>
+      <title>[93] 📷 חרדה גוברת בקהילה היהודית בלונדון לאחר התקיפות. שבוע של תקיפות על בתי כנסת ובניינים קהילתיים אחרים...</title>
+      <link>https://www.cnn.com/2026/04/20/uk/anxiety-london-jewish-antisemitic-attacks-scli-intl</link>
+      <description>חרדה גוברת בקהילה היהודית בלונדון לאחר התקיפות. שבוע של תקיפות על בתי כנסת ובניינים קהילתיים אחרים יצר אווירה של חרדה מוגברת. חקירת CNN מצאה קבוצות המקושרות לאיראן המשתמשות במדיה חברתית כדי לגייס אנשים למעקב ותקיפות.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@CNN</source>
+      <category>אנטישמיות מהשטח</category>
+      <enclosure url="https://www.cnn.com/2026/04/20/uk/anxiety-london-jewish-antisemitic-attacks-scli-intl" type="image/jpeg"/>
     </item>
     <item>
-      <title>May 11 Brooklyn, New York: Protesters attacked young Jewish girl outside synagogue, waved Hezbollah flag, displayed Hamas-linked red triangle, chanted 'Zionism will fall.'</title>
-      <link>https://x.com/CombatASemitism</link>
-      <description>May 11 Brooklyn, New York: Protesters attacked young Jewish girl outside synagogue, waved Hezbollah flag, displayed Hamas-linked red triangle, chanted 'Zionism will fall.'</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-11T14:00:00Z</pubDate>
-      <importance>93</importance>
+      <title>[93] 📷 משטרת המלחמה בטרור הבריטית חוקרת תקיפות נגד הקהילה היהודית. התקיפות מגיעות במקביל לסדרה של...</title>
+      <link>https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-antisemitism.html</link>
+      <description>משטרת המלחמה בטרור הבריטית חוקרת תקיפות נגד הקהילה היהודית. התקיפות מגיעות במקביל לסדרה של פשעים כאלה ברחבי אירופה והארצות הברית. המשטרה הבחינה בנזק לחלון בבית הכנסת, בית הכנסת המאוחד קנטון בהארו, בחצות.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@NYTimes</source>
+      <category>אנטישמיות מהשטח</category>
+      <enclosure url="https://www.nytimes.com/2026/04/19/world/europe/arson-london-synagogue-antisemitism.html" type="image/jpeg"/>
     </item>
     <item>
-      <title>The Rise of Antisemitism in the U.K. Britain raised national terrorism threat to 'severe' after latest antisemitic attack in London declared terrorist incident by police.</title>
-      <link>https://time.com/article/2026/05/03/rise-of-antisemitism-in-the-uk-terrorist-incident-government-response/</link>
-      <description>The Rise of Antisemitism in the U.K. Britain raised national terrorism threat to 'severe' after latest antisemitic attack in London declared terrorist incident by police.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-03T12:00:00Z</pubDate>
-      <importance>88</importance>
+      <title>[94] 📷 משרד העלייה והקליטה ומלחמת האנטישמיות פרסם דוח על האחים המוסלמים ברחבי אירופה. הדוח חושף רשת...</title>
+      <link>https://www.gov.il/en/pages/the-muslim-brotherhood-across-europe-2026-news</link>
+      <description>משרד העלייה והקליטה ומלחמת האנטישמיות פרסם דוח על האחים המוסלמים ברחבי אירופה. הדוח חושף רשת אירופית נרחבת של ארגונים המקושרים ישירות או בעקיפין לאחים המוסלמים ולישויות טרור, בעיקר חמאס, בשוודיה, גרמניה, איטליה, בלגיה, אוסטריה, שווייץ, הולנד, ספרד ואירלנד.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@IsraelGov</source>
+      <category>איום איסלאמי באירופה</category>
+      <enclosure url="https://www.gov.il/en/pages/the-muslim-brotherhood-across-europe-2026-news" type="image/jpeg"/>
     </item>
     <item>
-      <title>EU-wide monitoring framework to counteract Sharia-based moral policing (hisba-type coercion), focused on intimidation and parallel enforcement methods.</title>
-      <link>https://www.europarl.europa.eu/doceo/document/G-10-2026-001003_EN.html</link>
-      <description>EU-wide monitoring framework to counteract Sharia-based moral policing (hisba-type coercion), focused on intimidation and parallel enforcement methods.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-14T09:00:00Z</pubDate>
-      <importance>82</importance>
+      <title>[93] 📷 מי היא קבוצת הטרור החדשה הטוענת לאחריות על תקיפות אנטישמיות באירופה? הקבוצה, ששמה מתורגם בקירוב...</title>
+      <link>https://jewishjournal.org/2026/03/25/who-is-the-new-terror-group-claiming-responsibility-for-antisemitic-attacks-in-europe/</link>
+      <description>מי היא קבוצת הטרור החדשה הטוענת לאחריות על תקיפות אנטישמיות באירופה? הקבוצה, ששמה מתורגם בקירוב לתנועה האיסלאמית של אנשי הימין (חרכת אשאב אל-יאמין אל-אסלאמיה), הייתה לא ידועה עד לתחילת החודש, אז לקחה אחריות על התקפת בקבוקי תבערה על בית כנסת בלייז', בלגיה ב-9 במרץ.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@JewishJournal</source>
+      <category>איום איסלאמי באירופה</category>
+      <enclosure url="https://jewishjournal.org/2026/03/25/who-is-the-new-terror-group-claiming-responsibility-for-antisemitic-attacks-in-europe/" type="image/jpeg"/>
     </item>
     <item>
-      <title>Islamic Movement of the Companions of the Right: Recent wave of attacks across Europe claimed by elusive grouping Ashab al-Yamin al-Islamiya raises questions about hostile state hybrid warfare or Islamist extremism.</title>
-      <link>https://www.isdglobal.org/digital-dispatch/islamic-movement-of-the-companions-of-the-right-the-gig-economy-proxy-group-attacking-europe/</link>
-      <description>Islamic Movement of the Companions of the Right: Recent wave of attacks across Europe claimed by elusive grouping Ashab al-Yamin al-Islamiya raises questions about hostile state hybrid warfare or Islamist extremism.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-12T11:00:00Z</pubDate>
-      <importance>85</importance>
+      <title>[88] 📷 ההזזה השקטה של אירופה לעבר חוקי שריעה. דוחות אלה מזהירים מפני יצירת מבנים חברתיים מקבילים המאתגרים...</title>
+      <link>https://www.israelhayom.com/opinions/europes-silent-shift-toward-sharia-law/</link>
+      <description>ההזזה השקטה של אירופה לעבר חוקי שריעה. דוחות אלה מזהירים מפני יצירת מבנים חברתיים מקבילים המאתגרים את הערכים המרכזיים של אירופה, כאשר האחים המוסלמים שואפים להקים 'חליפות איסלאמית באמצעים שלווים', אם כי משאירים מקום לאלימות אם זה משרת את מטרותיהם.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@IsraelHayom</source>
+      <category>איום איסלאמי באירופה</category>
+      <enclosure url="https://www.israelhayom.com/opinions/europes-silent-shift-toward-sharia-law/" type="image/jpeg"/>
     </item>
     <item>
-      <title>At Jewish Dems summit, leaders try to hold pro-Israel, anti-Netanyahu line. Democratic leaders wrestled with widening divisions over Israel, rising antisemitism and fears of party fragmentation ahead of 2026 midterms.</title>
+      <title>[85] 📷 תקיפות נגד יהודים אמריקאים מגיעות לרמות שיא, לפי ביקורת ה-ADL. ביקורת ה-ADL מתיישרת עם מגמות גדולות...</title>
+      <link>https://www.usatoday.com/story/news/nation/2026/05/06/attack-jewish-american-antisemitism-audit/89891944007/</link>
+      <description>תקיפות נגד יהודים אמריקאים מגיעות לרמות שיא, לפי ביקורת ה-ADL. ביקורת ה-ADL מתיישרת עם מגמות גדולות יותר המראות שיהודים אמריקאים מתמודדים עם איומים ותקיפות גוברות, ללא קשר לתמיכתם בישראל.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@USA TODAY</source>
+      <category>אנטישמיות מהשטח</category>
+      <enclosure url="https://www.usatoday.com/story/news/nation/2026/05/06/attack-jewish-american-antisemitism-audit/89891944007/" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>[82] 📷 קהילת פרו-ישראל באמריקה: הגדרת סדרי עדיפויות ל-2026. בעקבות מתקפת חמאש ב-7 באוקטובר על דרום ישראל...</title>
+      <link>https://israel365news.com/414998/americas-pro-israel-community-defining-priorities-for-2026/</link>
+      <description>קהילת פרו-ישראל באמריקה: הגדרת סדרי עדיפויות ל-2026. בעקבות מתקפת חמאש ב-7 באוקטובר על דרום ישראל, קהילת פרו-ישראל באמריקה התארגנה לשחרור בני ערובה, נגד הטיית תקשורת, תמיכה בקהילות ישראליות, ומאבק באנטישמיות. עכשיו השאלה ברורה: מה צריכות להיות סדרי העדיפויות שלנו ל-2026?</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@Israel365News</source>
+      <category>פרו-ישראל מקומי</category>
+      <enclosure url="https://israel365news.com/414998/americas-pro-israel-community-defining-priorities-for-2026/" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>[78] 📝 בכנס הדמוקרטים היהודים, מנהיגים מנסים לשמור על קו פרו-ישראלי נגד נתניהו. מנהיגים דמוקרטיים התמודדו...</title>
       <link>https://www.haaretz.com/us-news/2026-05-14/ty-article/.premium/at-jewish-dems-summit-leaders-try-hold-a-pro-israel-anti-netanyahu-line/0000019e-27ae-d618-adde-37fee41d0000</link>
-      <description>At Jewish Dems summit, leaders try to hold pro-Israel, anti-Netanyahu line. Democratic leaders wrestled with widening divisions over Israel, rising antisemitism and fears of party fragmentation ahead of 2026 midterms.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-14T08:00:00Z</pubDate>
-      <importance>72</importance>
+      <description>בכנס הדמוקרטים היהודים, מנהיגים מנסים לשמור על קו פרו-ישראלי נגד נתניהו. מנהיגים דמוקרטיים התמודדו עם פערים הולכים וגדלים בנוגע לישראל, עליית אנטישמיות, וחששות מפני פיצול המפלגה לקראת הבחירות אמצע הקדנציה ב-2026.</description>
+      <pubDate>2026-05-15T23:18:00Z</pubDate>
+      <source>twitter-@Haaretz</source>
+      <category>פרו-ישראל מקומי</category>
     </item>
   </channel>
 </rss>
