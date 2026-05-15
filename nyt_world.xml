@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 15:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 15:10:49 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Aging Palestinian Leader Boosting His Son’s Political Rise, Officials Say</title>
@@ -37,14 +37,6 @@
       <importance>48</importance>
     </item>
     <item>
-      <title>Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry</title>
-      <link>https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html</link>
-      <description>As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T00:50:53+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>House Again Blocks War Powers Vote to Halt Iran Conflict</title>
       <link>https://www.nytimes.com/2026/05/14/us/politics/war-powers-vote-house-trump-iran.html</link>
       <description>But two vulnerable Republicans joined Democrats in the effort to force President Trump to win authorization from Congress, in the latest sign of G.O.P. jitters over the war.</description>
@@ -53,28 +45,20 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>Delivering Mail on Ukraine’s Front Line</title>
-      <link>https://www.nytimes.com/video/world/europe/100000010847527/delivering-mail-on-ukraines-front-line.html</link>
-      <description>Larysa Navrotska risks her life to deliver mail, retirement checks and medicine to remote Ukrainian communities under the constant threat of Russian drones from the nearby front line. Her service has become even more crucial than it was before the war.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T09:37:38+00:00</pubDate>
+      <title>What to Know About Day 2 of Trump and Xi’s Beijing Summit</title>
+      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html</link>
+      <description>President Trump and China’s leader, Xi Jinping, emphasized stability but announced no major breakthroughs on points of contention like trade, Taiwan and the war in Iran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15trump-xi-secondday-wwk-lwcj/15trump-xi-secondday-wwk-lwcj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-15T10:20:08+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry</title>
+      <link>https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html</link>
+      <description>As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-oz-antisemitism-01-fpvw/15int-oz-antisemitism-01-fpvw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-15T00:50:53+00:00</pubDate>
       <importance>33</importance>
-    </item>
-    <item>
-      <title>Enter the Killer Robots: The Ukrainian Forging the Future of Warfare</title>
-      <link>https://www.nytimes.com/2026/05/15/world/europe/mykhailo-fedorov-ukraine-ai.html</link>
-      <description>Mykhailo Fedorov, Ukraine’s 35-year-old defense minister, sees futuristic military technology as crucial to his country’s survival.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-ukraine-fedorov-profile-02-qmbc-promo/15int-ukraine-fedorov-profile-02-qmbc-promo-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-15T04:01:11+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Key Moments From the First Day of Trump’s China Visit</title>
-      <link>https://www.nytimes.com/2026/05/14/world/asia/trump-first-day-china-xi.html</link>
-      <description>During the first round of two days of talks, Xi Jinping issued a stern warning about Taiwan while Trump touted all the top business leaders in his delegation.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-trump-moments-hcgz/14int-trump-moments-hcgz-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-05-14T11:55:25+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
