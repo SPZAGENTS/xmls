@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 04:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 05:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Xi warns Trump that mishandling Taiwan could spark ‘conflicts’</title>
@@ -13,7 +13,15 @@
       <importance>22</importance>
     </item>
     <item>
-      <title>הדרונים של ההגמש לאיראן אין-ניתנים פועלו כעילת חדשה סכנה לישראל</title>
+      <title>‘These are our people.’ Lebanon’s medics carry on through grief, injuries.</title>
+      <link>https://www.washingtonpost.com/photography/interactive/2026/05/14/more-than-100-lebanese-medical-workers-killed-israel-hezbollah-war/</link>
+      <description>As Israel and Hezbollah exchange fire, dozens of volunteers eat, sleep and pray at a small hospital, waiting to respond to the next airstrike.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T09:00:00+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Hezbollah’s unjammable drones pose new threat to Israel</title>
       <link>https://www.washingtonpost.com/world/2026/05/13/hezbollahs-unjammable-drones-pose-new-threat-israel/</link>
       <description>The cheap weapons have helped the militants rearm despite the loss of a sponsor in Syria and the U.S.-Israeli war on Iran.</description>
       <imageUrl></imageUrl>
@@ -37,12 +45,12 @@
       <importance>22</importance>
     </item>
     <item>
-      <title>‘אלה האנשים שלנו.’ הרופאים בלבנון ממשיכים למרות האבל והפציעות.</title>
-      <link>https://www.washingtonpost.com/photography/interactive/2026/05/14/more-than-100-lebanese-medical-workers-killed-israel-hezbollah-war/</link>
-      <description>בעוד ישראל וחיזבאללה מחליפים ירי, עשרות מתנדבים אוכלים, ישנים ומתפללים בבית חולים קטן, ממתינים להגיב על ההתקפה האווירית הבאה.</description>
+      <title>China gains major edge on U.S. amid Iran war, intelligence report finds</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/13/china-gains-major-edge-us-amid-iran-war-us-intelligence-finds/</link>
+      <description>A confidential assessment, circulating as President Donald Trump begins his highly anticipated trip to Beijing, shows shifts in several key areas of competition.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-14T09:00:00+00:00</pubDate>
-      <importance>32</importance>
+      <pubDate>2026-05-14T04:10:00+00:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
