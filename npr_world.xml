@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 16:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Death toll in attack on Kyiv apartment building now stands at 24</title>
+      <link>https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24</link>
+      <description>Ukrainian President Volodymyr Zelenskyy said Friday that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T05:28:02-04:00</pubDate>
+      <importance>42</importance>
+    </item>
     <item>
       <title>YouTube taught a Japanese teen how to kick field goals. Now he’s in the NFL.</title>
       <link>https://www.nbcnews.com/sports/nfl/youtube-taught-japanese-teen-kick-field-goals-now-s-nfl-rcna343914</link>
@@ -21,12 +29,20 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>מספר ההרוגים בהתקפה על בניין דירות בקייב עומד על 24</title>
-      <link>https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24</link>
-      <description>נשיא אוקראינה וולודימיר זלנסקי אמר ביום שישי כי התקפת טילים רוסית על בניין דירות בקייב ביום הקודם הרגה 24 אנשים, כולל שלושה ילדים.</description>
+      <title>Which Trump cabinet member has a new reality show? The quiz knows</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-121837/shakira-warsh-hantavirus-duffy-israel-iran-news-quiz</link>
+      <description>This week, in Warshington, D.C., the Senate confirmed Kevin Warsh as the next chair of the Federal Reserve and we wrote a quiz question about his name. Enjoy that, and the other nine, too.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-15T05:28:02-04:00</pubDate>
-      <importance>37</importance>
+      <pubDate>2026-05-15T05:01:00-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare</link>
+      <description>Pope Leo XIV denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a &quot;spiral of annihilation,&quot; as he called for peace in the Middle East and Ukraine.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T01:33:59-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
