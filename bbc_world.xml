@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 13:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:01:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Lebanon says Israeli strikes killed 39</title>
@@ -35,14 +35,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-11T01:55:13</pubDate>
       <importance>44</importance>
-    </item>
-    <item>
-      <title>'Floating armoury' ship reportedly seized by Iran</title>
-      <link>https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-14T13:33:20</pubDate>
-      <importance>43</importance>
     </item>
     <item>
       <title>Trump says Iran ceasefire is on 'massive life support'</title>
@@ -82,6 +74,14 @@
       <description>Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-12T04:11:42</pubDate>
+      <importance>34</importance>
+    </item>
+    <item>
+      <title>Ailing Iranian Nobel laureate given bail and hospital transfer</title>
+      <link>https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-11T10:16:50</pubDate>
       <importance>34</importance>
     </item>
   </channel>
