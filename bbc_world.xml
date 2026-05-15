@@ -2,30 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 04:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:50:36 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>'Floating armoury' ship reportedly seized by Iran</title>
-      <link>https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/decae190-4f97-11f1-89a3-d1f559421220.png</imageUrl>
-      <pubDate>2026-05-14T13:33:20</pubDate>
-      <importance>23</importance>
-    </item>
     <item>
       <title>Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes</title>
       <link>https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d41b/live/7ad75e60-4fac-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-14T13:16:32</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>Israeli strikes in southern Lebanon kill 22 people, health ministry says</title>
-      <link>https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Eight children are among those reported dead after a series of air strikes hit the south of Beirut.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8502/live/cfe8fc00-4ed1-11f1-91ee-f79d495dca9f.jpg</imageUrl>
-      <pubDate>2026-05-13T21:14:45</pubDate>
       <importance>23</importance>
     </item>
     <item>
@@ -59,6 +43,22 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde9/live/dfdc97c0-4f2b-11f1-81a4-0f0d6e797863.jpg</imageUrl>
       <pubDate>2026-05-13T15:35:15</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>ספינת 'ארסנל צף' נתפסה reportedly על ידי איראן</title>
+      <link>https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>כלי שיט שנאמר עליו שהוא 'ארסנל צף' במפרץ עומאן נתפס על ידי אנשי צבא איראניים, לפי דיווחים.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/decae190-4f97-11f1-89a3-d1f559421220.png</imageUrl>
+      <pubDate>2026-05-14T13:33:20</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>התקיפות ישראליות בדרום לבנון הורחיש 22 איש, כן המיניסטריות</title>
+      <link>https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Eight children are among those reported dead after a series of air strikes hit the south of Beirut.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8502/live/cfe8fc00-4ed1-11f1-91ee-f79d495dca9f.jpg</imageUrl>
+      <pubDate>2026-05-13T21:14:45</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>

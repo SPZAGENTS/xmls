@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 04:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:50:36 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
@@ -11,22 +11,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14dc-military-iran-wklv/14dc-military-iran-wklv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-14T22:49:52+00:00</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
-      <description>The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Iran Lets Chinese Ships Through Strait of Hormuz Amid Rising Tensions After Vessel Seizure</title>
-      <link>https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html</link>
-      <description>Iranian news agencies said some Chinese ships were being allowed through the strait, following diplomatic outreach to Iran from Beijing.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-14T17:52:46+00:00</pubDate>
-      <importance>23</importance>
     </item>
     <item>
       <title>Glitz and Boycotts at Eurovision</title>
@@ -69,12 +53,28 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Russia Pummels Kyiv in the Largest Drone Attack of the War</title>
+      <title>ערב הסעודית ואיחוד האמירויות ביצעו תקיפות סודיות באיראן, אומרים בכירים אמריקאיים</title>
+      <link>https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html</link>
+      <description>מדינות המפרץ הערביות מתמודדות עם האופן שבו ניתן לבלום את איראן לאחר שהמלחמה הבהירה את הגבולות של ערבויות הביטחון האמריקאיות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-gulf-attacks-mlvt/14int-gulf-attacks-mlvt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T19:37:12+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>רוסיה תוקפת את קייב במתקפת המל&quot;טים הגדולה ביותר במלחמה</title>
       <link>https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html</link>
-      <description>At least 12 people were killed and dozens were wounded in a drone and missile assault, days after President Vladimir Putin of Russia said the war could end soon.</description>
+      <description>לפחות 12 אנשים נהרגו ועשרות נפצעו במתקפת מל&quot;טים וטילים, ימים לאחר שראש ממשלת רוסיה ולדימיר פוטין אמר שהמלחמה עשויה להסתיים בקרוב.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-ukraine-strike-fmpw/14int-ukraine-strike-fmpw-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-05-14T18:30:07+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>איראן מאפשרת לספינות סיניות לעבור במצר הורמוז amid עליית מתחים לאחר תפיסת כלי השיט</title>
+      <link>https://www.nytimes.com/2026/05/14/world/middleeast/iran-strait-hormuz-china-ships.html</link>
+      <description>סוכנויות הידיעות האיראניות דיווחו כי כמה ספינות סיניות הורשו לעבור במצר, בעקבות פנייה דיפלומטית לאיראן מבייג'ינג.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-Iran-Hormuz-kvmc/14int-Iran-Hormuz-kvmc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-14T17:52:46+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
