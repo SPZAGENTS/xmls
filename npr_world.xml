@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 09:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:01:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As Trump meets with Xi, security expert says China now faces the U.S. as a peer</title>
@@ -35,6 +35,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T14:10:59-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare</link>
+      <description>Pope Leo XIV denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a &quot;spiral of annihilation,&quot; as he called for peace in the Middle East and Ukraine.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T01:33:59-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz</link>
+      <description>Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T01:11:32-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
