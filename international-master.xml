@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 14:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:07:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</title>
-      <link>https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz</link>
-      <description>Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T01:11:32-04:00</pubDate>
-      <importance>62</importance>
-    </item>
     <item>
       <title>Middle East live: Israel strikes Tyre area as Lebanon-Israel talks proceed</title>
       <link>https://www.france24.com/en/middle-east/20260515-middle-east-live-trump-says-he-won-t-be-much-more-patient-with-iran</link>
@@ -57,14 +49,6 @@ Iran’s chief negotiator said on Tuesday that Washington must accept Tehran’s
       <importance>54</importance>
     </item>
     <item>
-      <title>‘These are our people.’ Lebanon’s medics carry on through grief, injuries.</title>
-      <link>https://www.washingtonpost.com/photography/interactive/2026/05/14/more-than-100-lebanese-medical-workers-killed-israel-hezbollah-war/</link>
-      <description>As Israel and Hezbollah exchange fire, dozens of volunteers eat, sleep and pray at a small hospital, waiting to respond to the next airstrike.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-14T09:00:00+00:00</pubDate>
-      <importance>52</importance>
-    </item>
-    <item>
       <title>Iran accuses United Arab Emirates of being 'active partner' in US-Israeli war</title>
       <link>https://www.france24.com/en/iran-accuses-united-arab-emirates-of-being-active-partner-in-us-israeli-war</link>
       <description>
@@ -90,6 +74,22 @@ Israel's ruling coalition on Wednesday submitted a proposal to dissolve parliame
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T17:52:46+00:00</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Trump reveals Xi’s stance on arming Iran as Hormuz tensions rattle markets</title>
+      <link>https://www.foxnews.com/politics/trump-reveals-xis-stance-arming-iran-hormuz-tensions-rattle-markets</link>
+      <description>President Donald Trump says Chinese President Xi Jinping pledged not to supply Iran with military equipment, calling it a major win from the bilateral summit.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T00:08:57-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>NYC Republican lawmaker slams Mamdani antisemitism office as a ‘black hole’ lacking public-facing resources</title>
+      <link>https://www.foxnews.com/media/nyc-republican-lawmaker-slams-mamdani-antisemitism-office-black-hole-lacking-public-facing-resources</link>
+      <description>NYC Councilwoman Inna Vernikov accuses Mayor Zohran Mamdani of gaslighting the Jewish community, saying antisemitism office offers no accessible resources.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T20:00:54-04:00</pubDate>
+      <importance>47</importance>
     </item>
   </channel>
 </rss>

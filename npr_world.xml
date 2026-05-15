@@ -2,24 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 14:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:07:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</title>
-      <link>https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz</link>
-      <description>Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T01:11:32-04:00</pubDate>
-      <importance>62</importance>
-    </item>
-    <item>
-      <title>Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation</title>
-      <link>https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare</link>
-      <description>Pope Leo XIV denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a &quot;spiral of annihilation,&quot; as he called for peace in the Middle East and Ukraine.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T01:33:59-04:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>China and U.S. agree Hormuz shouldn’t be ‘militarized,’ Marco Rubio says</title>
       <link>https://www.nbcnews.com/world/asia/rubio-trump-xi-china-us-agree-hormuz-iran-nuclear-rcna345079</link>
@@ -35,6 +19,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T04:17:34</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare</link>
+      <description>Pope Leo XIV denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a &quot;spiral of annihilation,&quot; as he called for peace in the Middle East and Ukraine.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T01:33:59-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Tensions flare near Strait of Hormuz as a ship is seized and another is sunk</title>
+      <link>https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz</link>
+      <description>Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T01:11:32-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
