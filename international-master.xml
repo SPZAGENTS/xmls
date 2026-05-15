@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Fri, 15 May 2026 16:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:16:40 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Oil Prices Climb on Fears of Broader Energy Crunch</title>
@@ -11,22 +11,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T11:40:50+00:00</pubDate>
       <importance>44</importance>
-    </item>
-    <item>
-      <title>Death toll in attack on Kyiv apartment building now stands at 24</title>
-      <link>https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24</link>
-      <description>Ukrainian President Volodymyr Zelenskyy said Friday that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T05:28:02-04:00</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
-      <title>Delivering Mail on Ukraine’s Front Line</title>
-      <link>https://www.nytimes.com/video/world/europe/100000010847527/delivering-mail-on-ukraines-front-line.html</link>
-      <description>Larysa Navrotska risks her life to deliver mail, retirement checks and medicine to remote Ukrainian communities under the constant threat of Russian drones from the nearby front line. Her service has become even more crucial than it was before the war.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-15T09:37:38+00:00</pubDate>
-      <importance>33</importance>
     </item>
     <item>
       <title>UAE to complete second oil pipeline bypassing strait of Hormuz by 2027</title>
@@ -90,6 +74,23 @@ Iran's Foreign Minister Abbas Araghchi accused the United Arab Emirates on Thurs
       <imageUrl>https://s.france24.com/media/display/740ccc1a-4fc4-11f1-ba6b-005056a90284/w:1024/p:16x9/EN-20260514-203411-203643-CS.jpg</imageUrl>
       <pubDate>2026-05-14T18:49:11</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>Israel-Lebanon ceasefire nears end: Will fresh talks lead to new truce?</title>
+      <link>https://www.france24.com/en/israel-lebanon-ceasefire-nears-end-will-fresh-talks-lead-to-new-truce</link>
+      <description>
+Israel's ruling coalition on Wednesday submitted a proposal to dissolve parliament to pave the way for early elections. The move, initiated by Netanyahu's right-wing Likud party, came as Netanyahu appeared to be facing a possible collapse of his fractious coalition, amid mounting pressure from the ultra-Orthodox parties. If the proposal is accepted, elections in Israel could then be held as early as the third week of August, around 2 months ahead of the October 27th deadline. Meanwhile, the cea</description>
+      <imageUrl>https://s.france24.com/media/display/627c9dee-4f93-11f1-bdab-005056a90284/w:1024/p:16x9/2026-05-13T102519Z-1963680832-RC2A8LAC4UCH-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg</imageUrl>
+      <pubDate>2026-05-14T12:50:47</pubDate>
+      <importance>58</importance>
+    </item>
+    <item>
+      <title>Archaeologists Find Egyptian Mummy Buried With the ‘Iliad’</title>
+      <link>https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html</link>
+      <description>For the deceased of Roman-era Egypt, Greek literature may have offered a cheat code to a more comfortable afterlife.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T09:01:37+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
