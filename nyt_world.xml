@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 21:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 21:46:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hamas’s Top Leader in Gaza Is Killed in Israeli Strike</title>
@@ -26,6 +26,14 @@
       <description>Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/12/multimedia/12int-israel-westbank-lpqf-promo/12int-israel-westbank-lpqf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-16T09:06:28+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast</title>
+      <link>https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html</link>
+      <description>The charges against Mohammad al-Saadi in the United States have raised concerns that Iran could be working with its proxies to stage attacks outside the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/16/multimedia/16int-iraq-militia-cmfw/16int-iraq-militia-cmfw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-16T18:21:58+00:00</pubDate>
       <importance>23</importance>
     </item>
   </channel>
