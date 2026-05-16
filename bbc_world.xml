@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 21:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 21:48:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Lebanon says six killed in Israeli strike as US announces ceasefire extension</title>
@@ -22,22 +22,6 @@
       <importance>38</importance>
     </item>
     <item>
-      <title>Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele</title>
-      <link>https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg</imageUrl>
-      <pubDate>2026-05-15T23:04:33</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>What China critics in Maga movement make of Trump's Beijing trip</title>
-      <link>https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description> Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fb/live/10803dd0-507d-11f1-b637-39d6d94b351f.jpg</imageUrl>
-      <pubDate>2026-05-15T19:52:54</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>Taiwan insists it is independent after Trump warning</title>
       <link>https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.</description>
@@ -46,11 +30,27 @@
       <importance>18</importance>
     </item>
     <item>
+      <title>Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele</title>
+      <link>https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg</imageUrl>
+      <pubDate>2026-05-15T23:04:33</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
       <title>Democratic governor under fire over clemency for 2020 election denier</title>
       <link>https://www.bbc.com/news/articles/c0l2kln7dzgo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Tina Peters, a Republican former county clerk, is serving a nine-year sentence for tampering with election equipment.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fe/live/7a579e90-5142-11f1-8a79-a1e2421260e1.jpg</imageUrl>
       <pubDate>2026-05-16T16:32:48</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>What China critics in Maga movement make of Trump's Beijing trip</title>
+      <link>https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description> Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fb/live/10803dd0-507d-11f1-b637-39d6d94b351f.jpg</imageUrl>
+      <pubDate>2026-05-15T19:52:54</pubDate>
       <importance>18</importance>
     </item>
   </channel>
