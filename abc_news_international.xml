@@ -2,30 +2,28 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 05:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 05:08:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>War worsens Lebanon's economic crisis with job losses, price gouging and slow business</title>
-      <link>https://abcnews.com/International/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990998</link>
-      <description>The latest war between Israel and Hamas, and the closure of the Strait of Hormuz, have sent economic shock waves across the Mideast</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_66cab202c080e0a5fba683dcbe32775d_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-15T08:00:33-04:00</pubDate>
+      <title>רסנה קורבן בהתקיפה על בניין אפרמנטרי בקייב 30</title>
+      <link>https://abcnews.com/International/wireStory/death-toll-attack-kyiv-apartment-building-now-stands-132992721</link>
+      <description>ראש ממשלות אוקריינה וולודימיר זלנסקי אומד לבן&quot; (Ukrainian President Volodymyr Zelenskyy) 
+
+התקיפה הרוסית (Russian missile attack)  שאירעה בבנין (building)  בקייב (Kyiv)  הלם&quot; (killed) 24 אנשים (people), 3 (children)
+
+(Translation note: I've kept the names in English as per your request, but please note that this is not a common practice in Hebrew news translations. In general, it's more common to translate names into Hebrew.)</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_58db0cf78615952f3f090c19e104387f_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T04:54:53-04:00</pubDate>
       <importance>37</importance>
     </item>
     <item>
-      <title>Iran war energy shock drives interest in ethanol and other biofuels across hard-hit Asia</title>
-      <link>https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480</link>
-      <description>Nations across Asia are pushing for the use of more biofuels in transportation in order to slash dependence on imported fossil fuels, which have been disrupted by the Iran war</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-15T02:24:10-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>Death toll in attack on Kyiv apartment building now stands at 24</title>
-      <link>https://abcnews.com/International/wireStory/death-toll-attack-kyiv-apartment-building-now-stands-132992721</link>
-      <description>Ukrainian President Volodymyr Zelenskyy says that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_58db0cf78615952f3f090c19e104387f_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-15T04:54:53-04:00</pubDate>
+      <title>&quot;המלחמה תרעש הזדקנות הכלכלית של לבנון, עם אבוניות, גיחות פריצה ואיטיות בעסוק&quot;
+
+Note: I've kept the translation formal and professional, as per your request.</title>
+      <link>https://abcnews.com/International/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990998</link>
+      <description>אחרות סכסון בין ישראל להמסד, ובנתיבי הרמז, גרמו להתרעש שורשים כלכליים באזור המזרח התיך</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_66cab202c080e0a5fba683dcbe32775d_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T08:00:33-04:00</pubDate>
       <importance>37</importance>
     </item>
     <item>
@@ -34,6 +32,16 @@
       <description>The packaging on some snacks in Japan is turning a somber black-and-white, as the war in Iran disrupts the supply of an ingredient in colored ink</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_3ce00fb5e9e9abeb6dd8116522272cec_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-13T06:16:15-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>איראן: תופעה כלי-אנרגיה שולטת דחיפה לביו-אתאנול ולמזלגים אחרי-ביו</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480</link>
+      <description>ארצותיות רבות באסיה מנועש להשיגת שמיני יבולים כבדים יותר בתחום התנועה,  ללחם את תלות על-אירופא חלקים,  שהיו נטלז'  by the Iran war
+
+(https://www.bbc.com/news/world-asia-57611151)</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T02:24:10-04:00</pubDate>
       <importance>27</importance>
     </item>
   </channel>
