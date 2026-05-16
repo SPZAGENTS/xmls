@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 22:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 22:50:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to know about joint US-Nigeria operation that killed a senior militant leader</title>
@@ -38,6 +38,14 @@ Laamb is unique for its spectacle, featuring elaborate costumes, protective char
       <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-15T02:24:10-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Drones are making Sudan's war even deadlier for civilians</title>
+      <link>https://abcnews.com/International/wireStory/drones-making-sudans-war-deadlier-civilians-133026513</link>
+      <description>Experts say drone warfare has become the deadliest threat to civilians in Sudan's conflict, with both the military and the rival paramilitary Rapid Support Forces being supplied by various countries</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_1c0301faa15f5b57df9621a4b44aa939_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-16T02:42:08-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
