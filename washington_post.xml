@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 16:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 16:27:20 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Tumultuous, bloody week unfolds in Ukraine and Russia after brief ceasefire</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T09:00:00+00:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Trump’s China summit shows toll of a difficult year for the president</title>
+      <link>https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/</link>
+      <description>A year ago, Trump promised a new era during the first major foreign trip of his second term. On his recent visit to Beijing, the war with Iran and economic strain clouded his diplomacy.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-16T10:00:01+00:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
