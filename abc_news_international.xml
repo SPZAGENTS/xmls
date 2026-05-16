@@ -2,29 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 16 May 2026 05:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 06:00:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>רסנה קורבן בהתקיפה על בניין אפרמנטרי בקייב 30</title>
-      <link>https://abcnews.com/International/wireStory/death-toll-attack-kyiv-apartment-building-now-stands-132992721</link>
-      <description>ראש ממשלות אוקריינה וולודימיר זלנסקי אומד לבן&quot; (Ukrainian President Volodymyr Zelenskyy) 
-
-התקיפה הרוסית (Russian missile attack)  שאירעה בבנין (building)  בקייב (Kyiv)  הלם&quot; (killed) 24 אנשים (people), 3 (children)
-
-(Translation note: I've kept the names in English as per your request, but please note that this is not a common practice in Hebrew news translations. In general, it's more common to translate names into Hebrew.)</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_58db0cf78615952f3f090c19e104387f_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-15T04:54:53-04:00</pubDate>
-      <importance>37</importance>
-    </item>
-    <item>
-      <title>&quot;המלחמה תרעש הזדקנות הכלכלית של לבנון, עם אבוניות, גיחות פריצה ואיטיות בעסוק&quot;
-
-Note: I've kept the translation formal and professional, as per your request.</title>
+      <title>War worsens Lebanon's economic crisis with job losses, price gouging and slow business</title>
       <link>https://abcnews.com/International/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990998</link>
-      <description>אחרות סכסון בין ישראל להמסד, ובנתיבי הרמז, גרמו להתרעש שורשים כלכליים באזור המזרח התיך</description>
+      <description>The latest war between Israel and Hamas, and the closure of the Strait of Hormuz, have sent economic shock waves across the Mideast</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_66cab202c080e0a5fba683dcbe32775d_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-15T08:00:33-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Iran war energy shock drives interest in ethanol and other biofuels across hard-hit Asia</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480</link>
+      <description>Nations across Asia are pushing for the use of more biofuels in transportation in order to slash dependence on imported fossil fuels, which have been disrupted by the Iran war</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-15T02:24:10-04:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
       <title>Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply</title>
@@ -35,14 +29,12 @@ Note: I've kept the translation formal and professional, as per your request.</t
       <importance>27</importance>
     </item>
     <item>
-      <title>איראן: תופעה כלי-אנרגיה שולטת דחיפה לביו-אתאנול ולמזלגים אחרי-ביו</title>
-      <link>https://abcnews.com/International/wireStory/iran-war-energy-shock-drives-interest-ethanol-biofuels-132986480</link>
-      <description>ארצותיות רבות באסיה מנועש להשיגת שמיני יבולים כבדים יותר בתחום התנועה,  ללחם את תלות על-אירופא חלקים,  שהיו נטלז'  by the Iran war
-
-(https://www.bbc.com/news/world-asia-57611151)</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_33b5a9d9aac68e4143c66a24dd4451fc_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-15T02:24:10-04:00</pubDate>
-      <importance>27</importance>
+      <title>Turkey removes a restriction on direct trade with Armenia to improve ties</title>
+      <link>https://abcnews.com/International/wireStory/turkey-removes-restriction-direct-trade-armenia-improve-ties-132914953</link>
+      <description>Turkey has lifted a restriction on direct trade with Armenia in a symbolic step toward improved relations</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_c09e5d21617d45e524268eea1a2ff70b_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-13T08:58:19-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
