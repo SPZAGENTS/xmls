@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 00:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 01:01:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>War in the Middle East: Israel targets top Hamas leader in Gaza</title>
@@ -22,6 +22,16 @@ Iran's Foreign Minister Abbas Araghchi accused the United Arab Emirates on Thurs
 </description>
       <imageUrl>https://s.france24.com/media/display/740ccc1a-4fc4-11f1-ba6b-005056a90284/w:1024/p:16x9/EN-20260514-203411-203643-CS.jpg</imageUrl>
       <pubDate>2026-05-14T18:49:11</pubDate>
+      <importance>58</importance>
+    </item>
+    <item>
+      <title>Most of the architects of October 7 attacks have been killed, says Netanyahu</title>
+      <link>https://www.france24.com/en/middle-east/20260517-most-of-the-architects-of-october-7-attacks-have-been-killed-says-netanyahu</link>
+      <description>
+Prime Minister Benjamin Netanyahu said Sunday that Israel is close to finishing a key war aim in Gaza: killing the planners of the October 7 attacks. The comments came after Israel said it had killed senior Hamas commander Ezzedine Al-Haddad in an airstrike, as its campaign against the group’s leadership continues.
+</description>
+      <imageUrl>https://s.france24.com/media/display/8c1e72d0-51ff-11f1-adac-005056a90284/w:1024/p:16x9/2026-05-11T004852Z-1182016822-RC2MTKAAGNAB-RTRMADP-3-USA-ISRAEL-NETANYAHU.jpg</imageUrl>
+      <pubDate>2026-05-17T15:13:31</pubDate>
       <importance>58</importance>
     </item>
     <item>
@@ -91,16 +101,6 @@ Israel launched new air strikes against Hezbollah in southern Lebanon on Saturda
 </description>
       <imageUrl>https://s.france24.com/media/display/0fa6151e-5105-11f1-8ea4-005056a97e36/w:1024/p:16x9/000-B2XW39F.jpg</imageUrl>
       <pubDate>2026-05-16T05:01:39</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Lebanese split over diplomatic normalisation amid Washington talks</title>
-      <link>https://www.france24.com/en/lebanese-split-over-diplomatic-normalisation-amid-washington-talks</link>
-      <description>
-In Lebanon, the very idea of peace with Israel continues to deeply divide opinion. As unprecedented negotiations open today in Washington under US mediation, many Lebanese see a chance for a return to stability. But within Hezbollah’s camp, any normalization with Israel is firmly rejected. Report by Serge Berberi and Renee Davis.
-</description>
-      <imageUrl>https://s.france24.com/media/display/2e1fbc34-4f98-11f1-ab14-005056a97e36/w:1024/p:16x9/EN-20260514-151737-152004-CS.jpg</imageUrl>
-      <pubDate>2026-05-14T13:29:27</pubDate>
       <importance>43</importance>
     </item>
   </channel>
