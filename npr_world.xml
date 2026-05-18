@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 12:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:16:44 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Peru's electoral board confirms June 7 presidential runoff</title>
@@ -18,6 +18,22 @@
       <description>A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an &quot;unprovoked terrorist attack.&quot;</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-18T01:37:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Montana tribes combine traditional knowledge and Western science in climate plan</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5734484/trump-montana-climate-change-indigenous-tribes-wildfires</link>
+      <description>The Confederated Salish and Kootenai Tribes are moving forward with their climate plan despite the loss of state support and federal funding.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T05:00:00-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>It takes a village – or a Phoenix suburb – to wrangle a wayward tortoise</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5808341/sulcata-tortoise-pet-phoenix</link>
+      <description>When a large tortoise named Rex got loose, a Phoenix-area neighborhood went into a tizzy. More than just a fun commotion, Rex's daring getaway shows the challenges of sulcata tortoise ownership.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
