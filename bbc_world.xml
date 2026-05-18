@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 05:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:03:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Lebanon says six killed in Israeli strike as US announces ceasefire extension</title>
@@ -21,6 +21,14 @@
       <importance>38</importance>
     </item>
     <item>
+      <title>Trump warns 'clock is ticking' for Iran as peace progress stalls</title>
+      <link>https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/9ba8d540-5215-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-17T19:23:20</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
       <title>Hezbollah drone strike videos show evolving tactics against Israel</title>
       <link>https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&amp;at_campaign=rss</link>
       <description>BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group. </description>
@@ -29,12 +37,12 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Trump warns 'clock is ticking' for Iran as peace progress stalls</title>
-      <link>https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4914/live/9ba8d540-5215-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
-      <pubDate>2026-05-17T19:23:20</pubDate>
-      <importance>33</importance>
+      <title>Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war</title>
+      <link>https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a2/live/6e06efa0-4af4-11f1-9c75-d37955007435.jpg</imageUrl>
+      <pubDate>2026-05-17T23:02:15</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>Taiwan insists it is independent after Trump warning</title>
@@ -58,14 +66,6 @@
       <description> Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fb/live/10803dd0-507d-11f1-b637-39d6d94b351f.jpg</imageUrl>
       <pubDate>2026-05-15T19:52:54</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war</title>
-      <link>https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a2/live/6e06efa0-4af4-11f1-9c75-d37955007435.jpg</imageUrl>
-      <pubDate>2026-05-17T23:02:15</pubDate>
       <importance>18</importance>
     </item>
   </channel>
