@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 22:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump warns Iran the ‘clock is ticking’ as new drone attacks hit UAE and Saudi Arabia</title>
@@ -37,12 +37,20 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?</title>
-      <link>https://www.npr.org/2026/05/18/g-s1-122515/why-catching-insider-trading-is-so-tricky-nowadays-and-just-how-helpful-is-it-for-kids-to-sleep-in</link>
-      <description>Millions of dollars have been made through eerily well-timed bets on prediction markets like Polymarket. We look at why they're so hard to police. And, a new study that supports kids sleeping in.</description>
+      <title>The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right</link>
+      <description>After recently weakening the Voting Rights Act, the Supreme Court avoided for now taking up a legal question that may severely limit enforcement of the law's remaining protections for minority voters.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-18T06:48:12-04:00</pubDate>
+      <pubDate>2026-05-18T11:12:52-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Trump drops IRS lawsuit, paving the way for a settlement</title>
+      <link>https://www.npr.org/2026/05/18/g-s1-119783/trump-irs-lawsuit-settlement</link>
+      <description>The president sued the IRS and the Treasury Department in January, demanding $10 billion over the leak of his tax returns years ago.&lt;br&gt;</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T10:58:49-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
