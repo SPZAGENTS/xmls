@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 21:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:50:33 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. Airstrikes Kill ISIS Fighters in Nigeria, Officials Say</title>
@@ -13,35 +13,11 @@
       <importance>58</importance>
     </item>
     <item>
-      <title>Blocked Strait of Hormuz Leads to New Opportunities for Syria</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
-      <description>The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T09:55:24+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
-      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
-      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T11:55:38+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears</title>
       <link>https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html</link>
       <description>Stocks and bonds wavered after President Trump issued a new warning to Iran.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-18T13:45:25+00:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>G7 Finance Ministers Look to Contain Iran Economic Fallout</title>
-      <link>https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html</link>
-      <description>Top policymakers were expected to discuss rising energy prices and sanctions policy at a critical summit in Paris this week.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T09:03:30+00:00</pubDate>
       <importance>32</importance>
     </item>
     <item>
@@ -77,12 +53,36 @@
       <importance>54</importance>
     </item>
     <item>
+      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
+      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19iran-trump-vfgk/19iran-trump-vfgk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-18T17:11:36+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>Iran Lets Chinese Ships Through Strait of Hormuz Amid Rising Tensions After Vessel Seizure</title>
       <link>https://www.nytimes.com/live/2026/05/14/us/trump-news/iran-strait-hormuz-china-ships</link>
       <description>Iranian news agencies said some Chinese ships were being allowed through the strait, following diplomatic outreach to Iran from Beijing.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-14T17:52:46+00:00</pubDate>
       <importance>49</importance>
+    </item>
+    <item>
+      <title>Aging Palestinian Leader Boosting His Son’s Political Rise, Officials Say</title>
+      <link>https://www.nytimes.com/2026/05/15/world/middleeast/abbas-fatah-palestinian-authority.html</link>
+      <description>Mahmoud Abbas’s years in power have been dogged by accusations of corruption. Many Palestinians yearn for fresh leadership.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T04:01:20+00:00</pubDate>
+      <importance>44</importance>
+    </item>
+    <item>
+      <title>A Fact Check of Trump’s Claims on Inflation and Gas Prices in Iran War</title>
+      <link>https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html</link>
+      <description>He has minimized soaring gas prices, rising inflation and the American economy’s need for the Strait of Hormuz.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-14T13:00:05+00:00</pubDate>
+      <importance>44</importance>
     </item>
   </channel>
 </rss>

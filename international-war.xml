@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 21:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:50:33 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal</title>
@@ -37,14 +37,6 @@ The United States and Nigeria carried out air strikes against Islamic State grou
       <imageUrl></imageUrl>
       <pubDate>2026-05-18T12:02:45</pubDate>
       <importance>72</importance>
-    </item>
-    <item>
-      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
-      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T11:55:38+00:00</pubDate>
-      <importance>48</importance>
     </item>
     <item>
       <title>Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears</title>
@@ -84,9 +76,17 @@ The United States and Nigeria carried out air strikes against Islamic State grou
       <description>
 At least five Palestinians were killed in Israeli strikes on the Gaza Strip on May 17. Israel has stepped up attacks in Gaza in the weeks since halting its ​joint bombing ‌with the US in Iran. Netanyahu's government says Hamas fighters are tightening their grip on the strip. The devastated Palestinian territory has seen near-daily Israeli fire since the ceasefire between Israel and Hamas went into effect in October.
 </description>
-      <imageUrl></imageUrl>
+      <imageUrl>https://s.france24.com/media/display/eb76de22-5239-11f1-af69-005056bfb2b6/w:1024/p:16x9/2026-05-17T110449Z-267511646-RC2ZALALX3X7-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg</imageUrl>
       <pubDate>2026-05-18T12:34:07</pubDate>
-      <importance>62</importance>
+      <importance>63</importance>
+    </item>
+    <item>
+      <title>U.S. and Israel prepare for potential return to full-scale war with Iran</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount</link>
+      <description>Events over the weekend highlight the risk of renewed war, as the United States and Israel signal they would be ready to fight Iran again.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T04:46:03-04:00</pubDate>
+      <importance>37</importance>
     </item>
   </channel>
 </rss>
