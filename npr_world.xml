@@ -2,23 +2,39 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 10:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:10:09 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Peru's electoral board confirms June 7 presidential runoff</title>
-      <link>https://www.npr.org/2026/05/18/g-s1-122536/peru-presidential-runoff</link>
-      <description>Authorities confirmed on Sunday the official results of the first round of the presidential elections in early April, with Keiko Fujimori and Roberto Sánchez advancing to the runoff on June 7.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T01:50:23-04:00</pubDate>
-      <importance>17</importance>
-    </item>
     <item>
       <title>Drone strikes UAE nuclear plant highlighting risk of renewed war</title>
       <link>https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant</link>
       <description>A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an &quot;unprovoked terrorist attack.&quot;</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-18T01:37:00-04:00</pubDate>
-      <importance>17</importance>
+      <importance>62</importance>
+    </item>
+    <item>
+      <title>Sen. Lindsey Graham says status quo in the Strait of Hormuz is ‘hurting us all’</title>
+      <link>https://www.nbcnews.com/politics/politics-news/lindsey-graham-status-quo-strait-hormuz-iran-attacks-oil-gas-prices-rcna345542</link>
+      <description>Sen. Lindsey Graham, R-S.C., called for more U.S. military action in Iran, saying the ongoing stalemate in the war is “hurting us all.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-17T14:14:18</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Extended Interview: Tom Llamas sits down with Secretary of State Marco Rubio</title>
+      <link>https://www.nbcnews.com/nightly-news/video/extended-interview-tom-llamas-sits-down-with-secretary-of-state-marco-rubio-263412805963</link>
+      <description>On the sidelines of the Trump-Xi Summit in Beijing, NBC News' Tom Llamas sits down with Secretary of State Marco Rubio to discuss China policy, the war with Iran, the future of Cuba, and more.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T22:30:24</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Iranian man barely survives bombing, but wants war to go on</title>
+      <link>https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on</link>
+      <description>An Iranian man who was buried under rubble in US Israel bombing campaign says he wants the war to go on, and destroy the regime.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-16T17:06:33-04:00</pubDate>
+      <importance>37</importance>
     </item>
   </channel>
 </rss>

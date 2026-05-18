@@ -2,15 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 10:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:10:09 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Trump says top Islamic State leader was killed in Nigeria strike</title>
+      <link>https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/</link>
+      <description>Trump said the operation killed Abu-Bilal al-Minuki, whom he described as &quot;second in command of ISIS globally.&quot; Nigeria's president said the strike took place at a compound in the Lake Chad basin. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-16T15:59:19+00:00</pubDate>
+      <importance>47</importance>
+    </item>
     <item>
       <title>Trump’s China summit shows toll of a difficult year for the president</title>
       <link>https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/</link>
       <description>A year ago, Trump promised a new era during the first major foreign trip of his second term. On his recent visit to Beijing, the war with Iran and economic strain clouded his diplomacy.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-16T10:00:01+00:00</pubDate>
-      <importance>27</importance>
+      <importance>47</importance>
     </item>
   </channel>
 </rss>
