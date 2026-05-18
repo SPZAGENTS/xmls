@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 18 May 2026 18:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:41:12 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel</title>
@@ -53,14 +53,6 @@
       <importance>49</importance>
     </item>
     <item>
-      <title>Israeli forces board Gaza-bound flotilla near Cyprus, activists say</title>
-      <link>https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T12:27:40</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>'Floating armoury' ship reportedly seized by Iran</title>
       <link>https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss</link>
       <description>A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.</description>
@@ -83,6 +75,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-06T17:32:04</pubDate>
       <importance>34</importance>
+    </item>
+    <item>
+      <title>'This may be the last time you hear my voice': Political executions surge in Iran since start of war</title>
+      <link>https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.  </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b138/live/6fba9b00-5042-11f1-acce-79302838e29f.jpg</imageUrl>
+      <pubDate>2026-05-17T23:02:56</pubDate>
+      <importance>38</importance>
     </item>
   </channel>
 </rss>
