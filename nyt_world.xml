@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 19 May 2026 12:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup</title>
@@ -66,6 +66,14 @@
       <description>Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-US-Greenland-Talks-01-zkmb/00int-US-Greenland-Talks-01-zkmb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-18T09:01:55+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak as Cases Rise</title>
+      <link>https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html</link>
+      <description>The warning came shortly after Congo officials reported more than 130 suspected deaths and 513 cases, a sharp rise since the outbreak was first reported over the weekend.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19xp-ebola-cases-jkcv/19xp-ebola-cases-jkcv-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-19T09:43:49+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
