@@ -2,40 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 19 May 2026 04:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:19:41 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>South Korea and Japan’s Leaders Are Set to Meet: What to Know</title>
-      <link>https://www.nytimes.com/2026/05/18/world/asia/lee-takaichi-meeting-korea-japan.html</link>
-      <description>Japan’s prime minister, Sanae Takaichi, and South Korea’s president, Lee Jae Myung, have surprised many observers by moving past their nations’ historical grievances.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/18/multimedia/00int-skorea-japan-wtk-khcf/00int-skorea-japan-wtk-khcf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T21:00:06+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
-      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19iran-trump-vfgk/19iran-trump-vfgk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T18:51:43+00:00</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
-      <title>Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup</title>
-      <link>https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html</link>
-      <description>Ahead of the World Cup, the head of South American soccer faces an ethics complaint he received payments recovered from a 2015 investigation that shook global soccer.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-worldcup-fifa-corruption01-photo-fwzk/14int-worldcup-fifa-corruption01-photo-fwzk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T17:52:24+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off</title>
-      <link>https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html</link>
-      <description>President Trump has repeatedly threatened new military action against Iran, only to pull back from resuming major fighting in a deeply unpopular, expensive conflict.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/18/multimedia/18DC-PREXY-zbpk/18DC-PREXY-zbpk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T21:00:48+00:00</pubDate>
-      <importance>28</importance>
-    </item>
     <item>
       <title>Scientists Tweaked the Global Warming Outlook. So Trump Weighed In.</title>
       <link>https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html</link>
@@ -45,25 +13,57 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months</title>
+      <title>טראמפ מזהיר את איראן ש&quot;השעון מתקתק&quot; כאשר המתחים שוב עולים במזרח התיכון</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
+      <description>הנשיא ביקש לאלץ את איראן לקבל את תנאיו בתוכנית הגרעין שלה, אחרת תעמוד בפני מלחמה מחודשת. איראן מחוזקת דחתה את דרישותיו של טראמפ.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19iran-trump-vfgk/19iran-trump-vfgk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-18T18:51:43+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>במדבר העיראקי, שני מאחזים ישראלים נשמרו בסוד במשך חודשים</title>
       <link>https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html</link>
-      <description>Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base.</description>
+      <description>ישראל בילתה למעלה משנה בהכנת אתר חשאי בעיראק לפעולותיה נגד איראן, אומרים גורמים אזוריים. פקידים עיראקים אישרו מאוחר יותר את קיומו של בסיס שני.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-iraq-israel-base-01-vqlz/00int-iraq-israel-base-01-vqlz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-18T01:55:23+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>Blocked Strait of Hormuz Leads to New Opportunities for Syria</title>
+      <title>מיצר הורמוז חסום מוביל להזדמנויות חדשות עבור סוריה</title>
       <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
-      <description>The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.</description>
+      <description>המלחמה האחרונה במזרח התיכון יצרה הזדמנויות כלכליות חדשות עבור סוריה הודות לגיאוגרפיה שלה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-syria-ports02-photo-bkph/15int-syria-ports02-photo-bkph-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-18T09:55:24+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>In Closed-Door Talks, U.S. Demands a Major Role in Greenland</title>
+      <title>מיליונים שהתאוששו בשערוריית השחיתות של פיפ&quot;א עלולים להיעדר שוב לפני המונדיאל</title>
+      <link>https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html</link>
+      <description>לקראת המונדיאל, ראש הכדורגל הדרום אמריקאי מתמודד עם תלונת אתיקה שקיבל תשלומים שהוחזרו מחקירה משנת 2015 שטלטלה את הכדורגל העולמי.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/14int-worldcup-fifa-corruption01-photo-fwzk/14int-worldcup-fifa-corruption01-photo-fwzk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-18T17:52:24+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>מנהיגי דרום קוריאה ויפן אמורים להיפגש: מה לדעת</title>
+      <link>https://www.nytimes.com/2026/05/18/world/asia/lee-takaichi-meeting-korea-japan.html</link>
+      <description>ראש ממשלת יפן, סאנה טאקאיצ'י, ונשיא דרום קוריאה, לי ג'אה מיונג, הפתיעו משקיפים רבים בכך שעברו על פני התלונות ההיסטוריות של מדינותיהם.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/18/multimedia/00int-skorea-japan-wtk-khcf/00int-skorea-japan-wtk-khcf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-18T21:00:06+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>טראמפ מאיים על איראן ואז נסוג, הכל באותו היום</title>
+      <link>https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html</link>
+      <description>הנשיא טראמפ אמר שוב ושוב שהוא יתחיל מחדש את הפעולה הצבאית נגד איראן, רק כדי להפסיק להכניס את ארצות הברית ישירות חזרה למלחמה לא פופולרית.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/18/multimedia/18DC-PREXY-zbpk/18DC-PREXY-zbpk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-19T00:18:32+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>בשיחות בדלתיים סגורות, ארה&quot;ב דורשת תפקיד מרכזי בגרינלנד</title>
       <link>https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html</link>
-      <description>Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.</description>
+      <description>גורמים בגרינלנד מודאגים לגבי כיוון המשא ומתן שמטרתו לנטרל את איומי הנשיא טראמפ להשתלט על האי שלהם. אבל יש להם מינוף קטן.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-US-Greenland-Talks-01-zkmb/00int-US-Greenland-Talks-01-zkmb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-18T09:01:55+00:00</pubDate>
       <importance>18</importance>
