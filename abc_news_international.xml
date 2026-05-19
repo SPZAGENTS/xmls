@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 19 May 2026 14:55:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:01:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to know about the political chaos engulfing the UK's Labour Party and efforts to unseat Starmer</title>
@@ -27,6 +27,30 @@
       <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
       <pubDate>2026-05-18T10:54:21-04:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Libyan detention facility head known as 'Angel of Death' faces Int'l Criminal Court</title>
+      <link>https://abcnews.com/International/wireStory/libyan-detention-facility-head-angel-death-faces-international-133101675</link>
+      <description>Prosecutors at the International Criminal Court have told judges that the head of a Libyan detention facility murdered and raped prisoners, sometimes in front of their children</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_79c550ada4fe6e02e0794d2a69e8430d_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-19T07:56:16-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
+      <link>https://abcnews.com/International/wireStory/lettuce-introduce-live-frog-found-grocery-store-salad-133099071</link>
+      <description>An Australian farmer has found a live frog in a bag of lettuce</description>
+      <imageUrl>https://s.abcnews.com/images/Weird/wirestory_4134acf75e814dedd7789c1423c26ab1_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-19T07:46:03-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Lee and Takaichi hold 4th meeting in 6 months to push South Korea-Japan cooperation</title>
+      <link>https://abcnews.com/International/wireStory/japanese-prime-minister-travels-meet-south-korea-president-133095970</link>
+      <description>South Korean President Lee Jae Myung and Japanese Prime Minister Sanae Takaichi have emphasized the need for cooperation amid global challenges, including the Iran war</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_b18892cf855a2c071b65d35861886972_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-19T06:33:56-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
