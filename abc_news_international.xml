@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 19 May 2026 06:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 06:35:15 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>בית משפט בשליטה החות'ים בתימן דן 19 למוות בגין סיוע לקואליציה בראשות סעודיה</title>
+      <link>https://abcnews.com/International/wireStory/houthi-controlled-court-yemen-sentences-19-death-aiding-133069003</link>
+      <description>בית משפט בשליטה החות'ים בתימן גזר גזר דין מוות על 19 בני אדם על שיתוף פעולה עם הקואליציה בראשות סעודיה הנלחמת במורדים הנתמכים על ידי איראן</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-05-18T10:54:21-04:00</pubDate>
+      <importance>57</importance>
+    </item>
     <item>
       <title>What to know about the political chaos engulfing the UK's Labour Party and efforts to unseat Starmer</title>
       <link>https://abcnews.com/International/wireStory/political-chaos-engulfing-uks-labour-party-efforts-unseat-133075451</link>
@@ -21,12 +29,36 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Houthi-controlled court in Yemen sentences 19 to death for aiding Saudi-led coalition</title>
-      <link>https://abcnews.com/International/wireStory/houthi-controlled-court-yemen-sentences-19-death-aiding-133069003</link>
-      <description>A Houthi-controlled court in Yemen has sentenced 19 people to death for collaborating with the Saudi-led coalition fighting the Iranian-backed rebels</description>
-      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
-      <pubDate>2026-05-18T10:54:21-04:00</pubDate>
-      <importance>22</importance>
+      <title>המשטרה צדה חמוש בתקיפות רובים שהרגו 6 בני אדם בדרום טורקיה</title>
+      <link>https://abcnews.com/International/wireStory/police-hunt-gunman-rifle-attacks-kill-6-people-133081841</link>
+      <description>נשיא טורקיה רג'פ טאיפ ארדואן אמר כי אדם חמוש ברובה ביצע שורה של פיגועים בדרום טורקיה, הרג לפחות שישה בני אדם ופצע שמונה נוספים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T15:17:04-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>בצעד חסר תקדים, המזכיר הגסת פוגע במערכה בתוך מלחמת איראן</title>
+      <link>https://abcnews.com/Politics/unprecedented-move-secretary-hegseth-hits-campaign-trail-amid/story?id=133081033</link>
+      <description>הפנטגון אמר ש&quot;לא נעשה שימוש בדולרים של משלם המסים&quot; לביקור.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T17:29:17-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>בלארוס פתחה בתרגילים משותפים עם רוסיה כדי לתרגל שימוש בנשק גרעיני</title>
+      <link>https://abcnews.com/International/wireStory/belarus-launches-joint-drills-russia-practice-nuclear-weapons-133071824</link>
+      <description>הם יתרגלו את השימוש בנשק גרעיני שמוסקבה פרוסה בבלארוס.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T11:30:04-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>כוחות ניגריה, ארה&quot;ב הורגים יותר מ-20 חמושים של ארגון המדינה האסלאמית במתקפה חדשה</title>
+      <link>https://abcnews.com/International/wireStory/nigeria-us-forces-kill-20-islamic-state-group-133064100</link>
+      <description>צבא ניגריה אמר כי מבצע חדש עם כוחות ארה&quot;ב הרג יותר מ-20 חמושים של המדינה האסלאמית במדינת בורנו</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T08:25:59-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
