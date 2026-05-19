@@ -2,23 +2,31 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 19 May 2026 03:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:09:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Nigeria, U.S. forces kill over 20 Islamic State group militants in new offensive</title>
-      <link>https://abcnews.com/International/wireStory/nigeria-us-forces-kill-20-islamic-state-group-133064100</link>
-      <description>The Nigerian military says a new operation with U.S. forces has killed over 20 Islamic State militants in Borno state</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T08:25:59-04:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>What to know about the political chaos engulfing the UK's Labour Party and efforts to unseat Starmer</title>
+      <title>מה לדעת על הכאוס הפוליטי שפוקד את מפלגת הלייבור בבריטניה והמאמצים להדיח את סטארמר</title>
       <link>https://abcnews.com/International/wireStory/political-chaos-engulfing-uks-labour-party-efforts-unseat-133075451</link>
-      <description>Beleaguered British Prime Minister Keir Starmer is trying to return to the business of running government</description>
+      <description>ראש ממשלת בריטניה המצורר קייר סטארמר מנסה לחזור לענייני ניהול הממשלה</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_1d253316385e6813b7844509eb12038d_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-18T12:50:09-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>חתן פרס נובל האיראני נרג'ס מוחמדי שוחרר מבית החולים</title>
+      <link>https://abcnews.com/International/wireStory/iranian-nobel-laureate-narges-mohammadi-released-hospital-133061670</link>
+      <description>חתן פרס נובל לשלום האיראני, נרג'ס מוחמדי, שוחרר מבית החולים לאחר יותר משבועיים</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_7d559d28fbe4fbd1ed6b262d70187bc7_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-18T06:50:07-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>בית משפט בשליטה החות'ים בתימן דן 19 למוות בגין סיוע לקואליציה בראשות סעודיה</title>
+      <link>https://abcnews.com/International/wireStory/houthi-controlled-court-yemen-sentences-19-death-aiding-133069003</link>
+      <description>בית משפט בשליטה החות'ים בתימן גזר גזר דין מוות על 19 בני אדם על שיתוף פעולה עם הקואליציה בראשות סעודיה הנלחמת במורדים הנתמכים על ידי איראן</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-05-18T10:54:21-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
