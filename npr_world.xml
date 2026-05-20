@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 20:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:33:09 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>A rare Ebola strain is spreading with no vaccine. Here's what you need to know</title>
@@ -18,6 +18,14 @@
       <description>While Trump continues to rack up victories on his vengeance tour, general election opponents are waiting in swing districts and swing states. Can front-line GOP candidates navigate these choppy waters?</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-20T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>The Justice Department gives Trump an unprecedented settlement</title>
+      <link>https://www.npr.org/2026/05/20/nx-s1-5828414/the-justice-department-gives-trump-an-unprecedented-settlement</link>
+      <description>D.O.J. gave Trump and his family immunity from tax audits and set up a $1.8 billion fund for victims of &quot;government weaponization.&quot; Former government lawyer Andrew Weissmann explains the settlement.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-20T13:16:26-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
