@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 18:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:37:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Mamdani won't attend Israel Day Parade, breaking decades-long mayoral tradition amid antisemitism surge</title>
@@ -31,14 +31,6 @@ Three oil tankers – two Chinese and one South Korean – crossed the Strait of
       <importance>53</importance>
     </item>
     <item>
-      <title>Days After Hosting Trump, Xi Deepens Ties With Putin</title>
-      <link>https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html</link>
-      <description>China’s leader Xi Jinping called for a halt to fighting in the Middle East, ignored Russia’s war in Ukraine and took a veiled swipe at the United States.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-china-putin-analysis-fvjl/20int-china-putin-analysis-fvjl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T11:44:06+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
       <title>Israeli attacks in Gaza have stepped up since halt in bombing in Iran</title>
       <link>https://www.france24.com/en/israeli-attacks-in-gaza-have-stepped-up-since-halt-in-bombing-in-iran</link>
       <description>
@@ -55,14 +47,6 @@ At least five Palestinians were killed in Israeli strikes on the Gaza Strip on M
       <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-20T11:06:57+00:00</pubDate>
       <importance>38</importance>
-    </item>
-    <item>
-      <title>US test fires mobile rocket system near Mount Fuji in rapid 'shoot and scoot' drill</title>
-      <link>https://abcnews.com/International/wireStory/us-test-fires-mobile-rocket-system-mount-fuji-133143467</link>
-      <description>U.S. Marines test fired a dozen rockets from a HIMARS launcher near Mount Fuji in Japan, highlighting a weapon system that is becoming increasingly important to the U.S. military</description>
-      <imageUrl>https://s.abcnews.com/images/US/wirestory_bb76f71c24143a246606c5ebf35f0a30_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-20T07:40:05-04:00</pubDate>
-      <importance>22</importance>
     </item>
     <item>
       <title>Morning news brief</title>
@@ -89,6 +73,24 @@ US President Donald Trump said that the United States may need to attack Iran ag
       <imageUrl>https://s.france24.com/media/display/6f734a46-5396-11f1-88c1-005056a97e36/w:1024/p:16x9/AP26139537500101.jpg</imageUrl>
       <pubDate>2026-05-19T03:24:15</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Iran announces new body to manage Strait of Hormuz as peace talks stall</title>
+      <link>https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall</link>
+      <description>
+Iran announced a new body to oversee the Strait of Hormuz on Monday, signalling tighter control over the strategic waterway after months of disruption linked to its war with the United States and Israel. Tehran says the authority will manage maritime traffic and provide updates as tolls and restrictions reshape global shipping.
+</description>
+      <imageUrl>https://s.france24.com/media/display/bf99101a-52b4-11f1-be72-005056bf30b7/w:1024/p:16x9/2026-05-15T084554Z-789227049-RC2M5KAY9U7E-RTRMADP-3-INDIA-ECONOMY-TRADE.jpg</imageUrl>
+      <pubDate>2026-05-18T21:37:33</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Israeli Minister Threatens to Evict Palestinians From West Bank Hamlet</title>
+      <link>https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html</link>
+      <description>Bezalel Smotrich, the hard-line minister, said he was retaliating for the International Criminal Court prosecutor seeking his arrest, something the court did not confirm nor deny.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-israel-smotrich01-photo-bptz/19int-israel-smotrich01-photo-bptz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-19T17:58:47+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
