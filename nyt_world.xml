@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 17:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:01:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Days After Hosting Trump, Xi Deepens Ties With Putin</title>
+      <link>https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html</link>
+      <description>China’s leader Xi Jinping called for a halt to fighting in the Middle East, ignored Russia’s war in Ukraine and took a veiled swipe at the United States.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-china-putin-analysis-fvjl/20int-china-putin-analysis-fvjl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-20T11:44:06+00:00</pubDate>
+      <importance>28</importance>
+    </item>
     <item>
       <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
       <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
@@ -45,20 +53,20 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Early War Goal Was to Install Hard-Line Former President as Iran’s Leader</title>
+      <link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link>
+      <description>An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-20T13:22:06+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>Oil Slick Reaches a Pristine Persian Gulf Island in Iran</title>
       <link>https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html</link>
       <description>Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-iran-oil-photo-pbkz/19int-iran-oil-photo-pbkz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-19T04:01:05+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>ימים לאחר אירוח טראמפ, שי מעמיק את הקשר עם פוטין</title>
-      <link>https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html</link>
-      <description>מנהיג סין שי ג'ינפינג קרא להפסיק את הלחימה במזרח התיכון, התעלם ממלחמתה של רוסיה באוקראינה וקיבל אצבע מצועפת על ארצות הברית.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-china-putin-analysis-fvjl/20int-china-putin-analysis-fvjl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T12:17:59+00:00</pubDate>
-      <importance>28</importance>
     </item>
   </channel>
 </rss>
