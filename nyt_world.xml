@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 14:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Days After Hosting Trump, Xi Deepens Ties With Putin</title>
@@ -53,6 +53,22 @@
       <importance>33</importance>
     </item>
     <item>
+      <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
+      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
+      <description>The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-20T11:06:57+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Early War Goal Was to Install Hard Line Former President as Iran’s Leader</title>
+      <link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link>
+      <description>An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-20T05:39:20+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>Blocked Strait of Hormuz Leads to New Opportunities for Syria</title>
       <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
       <description>The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.</description>
@@ -67,14 +83,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-iran-oil-photo-pbkz/19int-iran-oil-photo-pbkz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-19T04:01:05+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>In Closed-Door Talks, U.S. Demands a Major Role in Greenland</title>
-      <link>https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html</link>
-      <description>Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-US-Greenland-Talks-01-zkmb/00int-US-Greenland-Talks-01-zkmb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T09:01:55+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
