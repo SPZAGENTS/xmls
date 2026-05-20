@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 06:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:47:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East war live: Trump says US may hit Iran again, claims Tehran wants deal</title>
@@ -39,6 +39,16 @@ At least five Palestinians were killed in Israeli strikes on the Gaza Strip on M
       <imageUrl></imageUrl>
       <pubDate>2026-05-19T21:09:29+00:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>Middle East war live: Trump to attend G7 summit in France in June</title>
+      <link>https://www.france24.com/en/middle-east/20260520-middle-east-war-live-trump-to-attend-g7-summit-in-france-in-june</link>
+      <description>
+US President Donald Trump will travel to next month's G7summit in France, a White House official told AFP Tuesday, despite tensions between Washington and its allies on a host of issues from Iran to tariffs. Follow our liveblog for the latest developments. 
+</description>
+      <imageUrl>https://s.france24.com/media/display/2e194ec2-53f7-11f1-802f-005056a97e36/w:1024/p:16x9/AP25168076138217.jpg</imageUrl>
+      <pubDate>2026-05-20T03:28:48</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>Death toll from Israeli strikes on Lebanon passes 3,000, officials say</title>
@@ -81,16 +91,6 @@ US President Donald Trump warned Iran on Sunday to move quickly towards a peace 
       <imageUrl>https://s.abcnews.com/images/US/wirestory_054c5fd8ae85dccb3a2c95eebd91b683_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-19T15:51:36-04:00</pubDate>
       <importance>22</importance>
-    </item>
-    <item>
-      <title>Iran announces new body to manage Strait of Hormuz as peace talks stall</title>
-      <link>https://www.france24.com/en/middle-east/20260518-iran-announces-new-body-to-manage-strait-of-hormuz-as-peace-talks-stall</link>
-      <description>
-Iran announced a new body to oversee the Strait of Hormuz on Monday, signalling tighter control over the strategic waterway after months of disruption linked to its war with the United States and Israel. Tehran says the authority will manage maritime traffic and provide updates as tolls and restrictions reshape global shipping.
-</description>
-      <imageUrl>https://s.france24.com/media/display/bf99101a-52b4-11f1-be72-005056bf30b7/w:1024/p:16x9/2026-05-15T084554Z-789227049-RC2M5KAY9U7E-RTRMADP-3-INDIA-ECONOMY-TRADE.jpg</imageUrl>
-      <pubDate>2026-05-18T21:37:33</pubDate>
-      <importance>43</importance>
     </item>
   </channel>
 </rss>
