@@ -2,47 +2,87 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 23:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:40:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
-      <description>The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T14:43:51+00:00</pubDate>
-      <importance>38</importance>
-    </item>
     <item>
       <title>Early War Goal Was to Install Hard-Line Former President as Iran’s Leader</title>
       <link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link>
       <description>An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T13:22:06+00:00</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
-      <title>How Iran Gained Leverage in the War</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html</link>
-      <description>Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-coercion01-photo-fwzq/20int-iran-coercion01-photo-fwzq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T08:04:19+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening</title>
-      <link>https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html</link>
-      <description>With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-russia-china01sub-photo-blpg/19int-russia-china01sub-photo-blpg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-19T18:04:31+00:00</pubDate>
-      <importance>28</importance>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-20T18:44:28+00:00</pubDate>
+      <importance>64</importance>
     </item>
     <item>
       <title>Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists</title>
       <link>https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html</link>
       <description>The national security minister, Itamar Ben-Gvir, posted a video in which he is seen with handcuffed activists forced to kneel on the deck of a ship. It drew a rebuke from Prime Minister Benjamin Netanyahu.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-israel-flotilla-photo-htwl/20int-israel-flotilla-photo-htwl-mediumSquareAt3X.jpg</imageUrl>
+      <imageUrl></imageUrl>
       <pubDate>2026-05-20T19:25:36+00:00</pubDate>
-      <importance>23</importance>
+      <importance>53</importance>
+    </item>
+    <item>
+      <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
+      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
+      <description>The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-20T14:43:51+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Israeli Minister Threatens to Evict Palestinians From West Bank Hamlet</title>
+      <link>https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html</link>
+      <description>Bezalel Smotrich, the hard-line minister, said he was retaliating for the International Criminal Court prosecutor seeking his arrest, something the court did not confirm nor deny.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T17:58:47+00:00</pubDate>
+      <importance>69</importance>
+    </item>
+    <item>
+      <title>Kataib Hezbollah: What to Know</title>
+      <link>https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html</link>
+      <description>A commander of one of the most-hard line and powerful Iranian proxies in Iraq has been charged with plotting to attack Jewish sites in the United States.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-16T00:57:46+00:00</pubDate>
+      <importance>79</importance>
+    </item>
+    <item>
+      <title>How Iran Gained Leverage in the War</title>
+      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html</link>
+      <description>Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-20T08:04:19+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
+      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T18:51:43+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening</title>
+      <link>https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html</link>
+      <description>With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T18:04:31+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>Blocked Strait of Hormuz Leads to New Opportunities for Syria</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
+      <description>The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T09:55:24+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>Inflation Fears Cloud G7 Economic Agenda as Iran War Persists</title>
+      <link>https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html</link>
+      <description>The United States and Europe were at odds over the Trump administration’s decision to ease oil sanctions on Russia.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T16:29:09+00:00</pubDate>
+      <importance>39</importance>
     </item>
   </channel>
 </rss>
