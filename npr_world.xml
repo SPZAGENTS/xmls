@@ -2,22 +2,22 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 23:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:58:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Bolivia's capital under siege as protests deepen crisis for President Paz</title>
-      <link>https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis</link>
-      <description>Bolivia's President Rodrigo Paz faces a deepening crisis as widespread protests and blockades leave the political capital under siege less than six months after he took office.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-20T01:48:42-04:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>Extended Interview: Tom Llamas sits down with Secretary of State Marco Rubio</title>
       <link>https://www.nbcnews.com/nightly-news/video/extended-interview-tom-llamas-sits-down-with-secretary-of-state-marco-rubio-263412805963</link>
       <description>On the sidelines of the Trump-Xi Summit in Beijing, NBC News' Tom Llamas sits down with Secretary of State Marco Rubio to discuss China policy, the war with Iran, the future of Cuba, and more.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-15T22:30:24</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Bolivia's capital under siege as protests deepen crisis for President Paz</title>
+      <link>https://www.npr.org/2026/05/20/nx-s1-5828203/bolivia-capital-protests-crisis</link>
+      <description>Bolivia's President Rodrigo Paz faces a deepening crisis as widespread protests and blockades leave the political capital under siege less than six months after he took office.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-20T01:48:42-04:00</pubDate>
       <importance>32</importance>
     </item>
   </channel>
