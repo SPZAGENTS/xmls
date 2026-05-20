@@ -2,23 +2,71 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 04:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:39:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Early War Goal Was to Install Hard Line Former President as Iran’s Leader</title>
-      <link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link>
-      <description>An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-19T23:56:08+00:00</pubDate>
-      <importance>38</importance>
+      <title>קטאיב חיזבאללה: מה לדעת</title>
+      <link>https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html</link>
+      <description>מפקד של אחד מנציגי הקו הקשים והחזקים ביותר של איראן בעיראק הואשם בתכנון לתקוף אתרים יהודיים בארצות הברית.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-16T00:57:46+00:00</pubDate>
+      <importance>79</importance>
     </item>
     <item>
-      <title>Israeli Minister Threatens to Evict Palestinians From West Bank Hamlet</title>
+      <title>השר הישראלי מאיים בגירוש פלסטינים מהמלט בגדה המערבית</title>
       <link>https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html</link>
-      <description>Bezalel Smotrich, the hard-line minister, said he was retaliating for the International Criminal Court prosecutor seeking his arrest, something the court did not confirm nor deny.</description>
+      <description>בצלאל סמוטריץ', השר הקשוח, אמר כי הוא נוקם על כך שהתובע של בית הדין הפלילי הבינלאומי ביקש את מעצרו, דבר שבית המשפט לא אישר ולא הכחיש.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-israel-smotrich01-photo-bptz/19int-israel-smotrich01-photo-bptz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-19T17:58:47+00:00</pubDate>
-      <importance>33</importance>
+      <importance>68</importance>
+    </item>
+    <item>
+      <title>מטרת המלחמה המוקדמת הייתה להתקין את הארד ליין נשיא לשעבר כמנהיג איראן</title>
+      <link>https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html</link>
+      <description>תקיפה ישראלית שנועדה לשחרר את מחמוד אחמדינג'אד ממעצר בית בטהרן, אמרו גורמים אמריקאים, הייתה חלק מהמאמץ לחולל שינוי משטר ולהעלותו לשלטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19dc-iran-ahmadinejad-top-hfjq/19dc-iran-ahmadinejad-top-hfjq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-19T23:56:08+00:00</pubDate>
+      <importance>63</importance>
+    </item>
+    <item>
+      <title>איראן, &quot;העולם יראה</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
+      <description>נשיא המדינה חיבל לכופ איראן לקבל תנועותיו בתחום התרכוס שלו,  או  להתפרעל מחולל-מחולל.  איראן,  המונה  'ב-  '  (  ) ,  '  '  (  ),  '  (  ).</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T18:51:43+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>בחזרה מסין, טראמפ עומד בפני החלטה האם לחדש את התקיפות באיראן</title>
+      <link>https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html</link>
+      <description>עוזרים בכירים ניסחו תוכניות קרב כאשר המשא ומתן לשלום נתקע.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T18:27:54+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>מחירי הנפט עולים כאשר פסגת טראמפ-שי לא מניבה פריצות דרך ברורות במלחמת איראן</title>
+      <link>https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</link>
+      <description>התקוות לסיום המלחמה באיראן התפוגגו לאחר שהנשיא טראמפ לא הצליח להבטיח התחייבות מסין לעזור לשכנע את איראן לפתוח מחדש את מיצר הורמוז.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T20:10:44+00:00</pubDate>
+      <importance>49</importance>
+    </item>
+    <item>
+      <title>בעוד פוטין מוחלש עוקב אחרי טראמפ לבייג'ינג, מלחמת איראן מציעה פתיחה</title>
+      <link>https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html</link>
+      <description>כשהמהפך במפרץ הפרסי משבש את אספקת הנפט והגז, רוסיה מחפשת להעמיק את קשרי האנרגיה שלה עם סין.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-russia-china01sub-photo-blpg/19int-russia-china01sub-photo-blpg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-19T18:04:31+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>נהר הסtraits of Hormuz נחבא למנעות  לשרון סיריה</title>
+      <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
+      <description>האחרון סכסינה במזרח הקריבי יצרה חדשות כלכליות לשבי, עקב גאולגרפיה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-syria-ports02-photo-bkph/15int-syria-ports02-photo-bkph-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-18T09:55:24+00:00</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge</title>
@@ -29,44 +77,12 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening</title>
-      <link>https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html</link>
-      <description>With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-russia-china01sub-photo-blpg/19int-russia-china01sub-photo-blpg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-19T18:04:31+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Oil Slick Reaches a Pristine Persian Gulf Island in Iran</title>
-      <link>https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html</link>
-      <description>Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-iran-oil-photo-pbkz/19int-iran-oil-photo-pbkz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-19T04:01:05+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html</link>
-      <description>In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/18/multimedia/18int-iran-strategy-wmfz/18int-iran-strategy-wmfz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-19T00:31:43+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>Blocked Strait of Hormuz Leads to New Opportunities for Syria</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html</link>
-      <description>The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/15/multimedia/15int-syria-ports02-photo-bkph/15int-syria-ports02-photo-bkph-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T09:55:24+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>In Closed-Door Talks, U.S. Demands a Major Role in Greenland</title>
-      <link>https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html</link>
-      <description>Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-US-Greenland-Talks-01-zkmb/00int-US-Greenland-Talks-01-zkmb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-18T09:01:55+00:00</pubDate>
-      <importance>18</importance>
+      <title>מלחמת איראן משתקת את אחת האומות העשירות בעולם</title>
+      <link>https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html</link>
+      <description>ההתקפות האיראניות והפסקת המעבר הימי שיתקו את יצוא הגז החיוני של קטאר, ועצרו את הצירים הכלכליים שנועדו לעגן את צמיחת המדינה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T02:38:24+00:00</pubDate>
+      <importance>44</importance>
     </item>
   </channel>
 </rss>

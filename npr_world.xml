@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 04:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:39:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>ישראל מנסה לגרש מחוז פלסטיני שלם במזרח ירושלים, אומרים פעילים</title>
+      <link>https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem</link>
+      <description>הרשויות הישראליות מוציאות לפלסטינים צווי הריסה במזרח ירושלים בקצב מואץ מאז שישראל פתחה במלחמה עם איראן, אומרים ארגוני זכויות אדם ומומחי או&quot;ם.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T09:20:36-04:00</pubDate>
+      <importance>67</importance>
+    </item>
     <item>
       <title>U.S. government to drop tax claims against Trump in broadening of IRS settlement</title>
       <link>https://www.npr.org/2026/05/19/g-s1-122938/irs-trump-settlement-tax-returns-audit</link>
@@ -21,20 +29,36 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Israel's trying to expel a whole Palestinian district in East Jerusalem, activists say</title>
-      <link>https://www.npr.org/2026/05/19/nx-s1-5823861/israel-palestinians-east-jerusalem</link>
-      <description>Israeli authorities are issuing Palestinians demolition orders in East Jerusalem at an accelerated rate since Israel launched war with Iran, human rights groups and U.N. experts say.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-19T09:20:36-04:00</pubDate>
-      <importance>47</importance>
-    </item>
-    <item>
       <title>'Taiwan Travelogue' wins the 2026 International Booker Prize</title>
       <link>https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue</link>
       <description>The novel is the first work translated from Mandarin Chinese to win the award, which celebrates its 10th anniversary this year.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-19T17:31:47-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>טראמפ אמר שהוא ביטל את התקיפה האיראנית לבקשת בעלות ברית המפרץ</title>
+      <link>https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike</link>
+      <description>הנשיא דונלד טראמפ אמר כי הוא מפסיק את התקיפה הצבאית על איראן שתוכננה ליום שלישי מכיוון ש&quot;משא ומתן רציני&quot; מתנהל לסיום המלחמה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T01:27:58-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>חיל הים הישראלי מיירט פעילים המנסים לשבור את המצור על עזה באמצעות ספינות סיוע</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5825816/israeli-navy-intercepts-activist-trying-to-break-gaza-blockade-with-aid-ships</link>
+      <description>ביום שני יירט חיל הים הישראלי משט של 54 סירות של פעילים שנסעו לעזה בסיוע הומניטרי.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T16:25:14-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>חיי הישרדות של פלסטיני אחד</title>
+      <link>https://www.npr.org/2026/05/19/nx-s1-5825865/one-palestinian-mans-life-of-survival</link>
+      <description>גבר פלסטיני בן 90 בעזה אומר שחייו מעולם לא הרגישו בטוחים כשהוא נזכר בעקירות ומלחמות</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-19T04:00:51-04:00</pubDate>
+      <importance>37</importance>
     </item>
   </channel>
 </rss>
