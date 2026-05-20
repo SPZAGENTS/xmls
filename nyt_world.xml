@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 20 May 2026 11:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:01:33 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>How Iran Gained Leverage in the War</title>
@@ -75,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-US-Greenland-Talks-01-zkmb/00int-US-Greenland-Talks-01-zkmb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-18T09:01:55+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Days After Hosting Trump, Xi Deepens Ties With Putin</title>
+      <link>https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html</link>
+      <description>Meeting President Vladimir V. Putin of Russia in Beijing, China’s leader called for a halt to fighting in the Middle East and took a veiled swipe at the United States.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-china-putin-analysis-fvjl/20int-china-putin-analysis-fvjl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-20T08:42:57+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
