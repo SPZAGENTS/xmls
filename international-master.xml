@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 14:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:22:38 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Mamdani won't attend Israel Day Parade, breaking decades-long mayoral tradition amid antisemitism surge</title>
@@ -21,6 +21,16 @@ Australia, New Zealand and several EU officials joined the chorus of condemnatio
       <imageUrl>https://s.france24.com/media/display/e845b636-54f2-11f1-b9ea-005056bf30b7/w:1024/p:16x9/flotille-1.png</imageUrl>
       <pubDate>2026-05-21T03:28:11</pubDate>
       <importance>63</importance>
+    </item>
+    <item>
+      <title>Gideon Levy says Ben-Gvir sees 'all of Gaza as Hamas: No innocent people in Gaza or even Europe'</title>
+      <link>https://www.france24.com/en/tv-shows/spotlight/20260521-gideon-levy-says-ben-gvir-sees-all-of-gaza-as-hamas-no-innocent-people-in-gaza-or-even-europe</link>
+      <description>
+France 24's François Picard welcomes veteran Israeli journalist and Haaretz columnist Gideon Levy. He offers a scathing analysis of Israeli politics, the Gaza war, the unprecedented rise of xenophobic nationalism, and Israel’s growing dependence on the United States. Speaking from Tel Aviv amid mounting electoral tensions, Levy argues that “everything - war and peace, domestic politics, legislation - is now covered by the shadow of the upcoming elections.”
+</description>
+      <imageUrl>https://s.france24.com/media/display/16517fa8-5505-11f1-b746-005056a97e36/w:1024/p:16x9/capture-14365706836a0ee727dfffe5-13811678.jpg</imageUrl>
+      <pubDate>2026-05-21T11:12:48</pubDate>
+      <importance>68</importance>
     </item>
     <item>
       <title>This hard-line Iranian general is a major player in talks with US over war</title>
@@ -79,14 +89,6 @@ US President Donald Trump said that the United States may need to attack Iran ag
       <imageUrl>https://s.france24.com/media/display/6f734a46-5396-11f1-88c1-005056a97e36/w:1024/p:16x9/AP26139537500101.jpg</imageUrl>
       <pubDate>2026-05-19T03:24:15</pubDate>
       <importance>48</importance>
-    </item>
-    <item>
-      <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
-      <description>The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T14:43:51+00:00</pubDate>
-      <importance>38</importance>
     </item>
   </channel>
 </rss>
