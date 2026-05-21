@@ -2,32 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 21:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:51:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>After the sirens: Lebanon's first responders swing between duty and grief</title>
-      <link>https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief</link>
-      <description>Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-21T12:13:26-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>A trillion dollar question: Will SpaceX's Starship launch go well?</title>
-      <link>https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo</link>
-      <description>Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-21T11:26:30-04:00</pubDate>
-      <importance>22</importance>
-    </item>
-    <item>
-      <title>Walmart plans price cuts using tariff refunds as shoppers get skittish</title>
-      <link>https://www.npr.org/2026/05/21/nx-s1-5829712/walmart-price-cuts-gas-tariff-refunds</link>
-      <description>Now that the U.S. government must refund most tariffs, Walmart says it might put its refund money toward lowering store prices. Executives say the cost of gas has shoppers increasingly under stress.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-21T11:01:11-04:00</pubDate>
-      <importance>17</importance>
-    </item>
     <item>
       <title>As floods get worse, Britain tries a new solution: beavers</title>
       <link>https://www.npr.org/2026/05/21/nx-s1-5738979/beavers-britain-climate-change-flooding</link>
@@ -37,12 +13,36 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Democrats wanted answers for what went wrong in 2024. Now, there are more questions</title>
+      <title>הדמוקרטים רצו תשובות למה השתבש בשנת 2024. כעת, יש עוד שאלות</title>
       <link>https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris</link>
-      <description>The Democratic Party wanted a review of the 2024 election. Then, the DNC learned the report was incomplete and unverifiable, party chairman Ken Martin said Thursday, releasing an annotated version.</description>
+      <description>המפלגה הדמוקרטית רצתה סקירה של בחירות 2024. לאחר מכן, ל-DNC נודע שהדוח אינו שלם ואינו ניתן לאימות, אמר יו&quot;ר המפלגה קן מרטין ביום חמישי, ופרסם גרסה מוערת.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-21T14:36:37-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>אחרי הצפירות: המגיבים הראשונים של לבנון נעים בין חובה לאבל</title>
+      <link>https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief</link>
+      <description>כמעט 3,000 בני אדם נהרגו וכמעט מיליון נעקרו מבתיהם. המלחמה בדרום לבנון החלה במרץ. כמעט 400 נהרגו מאז החלה הפסקת האש באפריל.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-21T12:13:26-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>שאלה של טריליון דולר: האם שיגור ספינת הכוכבים של SpaceX יעבור כשורה?</title>
+      <link>https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo</link>
+      <description>לקראת הנפקה צפויה, SpaceX מבצעת בדיקה קריטית של רקטת הנירוסטה הענקית שלה. המשקיעים יעקבו מקרוב.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-21T11:26:30-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>וולמארט מתכננת הפחתת מחירים באמצעות החזרי תעריפים מכיוון שהקונים מתרגזים</title>
+      <link>https://www.npr.org/2026/05/21/nx-s1-5829712/walmart-price-cuts-gas-tariff-refunds</link>
+      <description>כעת, כשממשלת ארה&quot;ב חייבת להחזיר את רוב התעריפים, וולמארט אומרת שהיא עשויה להפנות את כספי ההחזר שלה להורדת מחירי החנויות. מנהלים אומרים שעלות הדלק גוררת את הקונים יותר ויותר בלחץ.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-21T11:01:11-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
