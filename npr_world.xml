@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 23:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Democrats wanted answers for what went wrong in 2024. Now, there are more questions</title>
+      <link>https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris</link>
+      <description>The Democratic Party wanted a review of the 2024 election. Then, the DNC learned the report was incomplete and unverifiable, party chairman Ken Martin said Thursday, releasing an annotated version.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-21T14:36:37-04:00</pubDate>
+      <importance>32</importance>
+    </item>
     <item>
       <title>After the sirens: Lebanon's first responders swing between duty and grief</title>
       <link>https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief</link>
@@ -27,22 +35,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-21T11:01:11-04:00</pubDate>
       <importance>17</importance>
-    </item>
-    <item>
-      <title>As floods get worse, Britain tries a new solution: beavers</title>
-      <link>https://www.npr.org/2026/05/21/nx-s1-5738979/beavers-britain-climate-change-flooding</link>
-      <description>About 400 years ago, beavers were hunted to extinction across Britain. Now they're being reintroduced as little climate warriors, as communities harness their dam-building skills to mitigate flooding.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-21T05:00:00-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>Democrats wanted answers for what went wrong in 2024. Now, there are more questions</title>
-      <link>https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris</link>
-      <description>The Democratic Party wanted a review of the 2024 election. Then, the DNC learned the report was incomplete and unverifiable, party chairman Ken Martin said Thursday, releasing an annotated version.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-21T14:36:37-04:00</pubDate>
-      <importance>32</importance>
     </item>
   </channel>
 </rss>
