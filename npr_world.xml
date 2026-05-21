@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 18:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:36:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As floods get worse, Britain tries a new solution: beavers</title>
@@ -10,6 +10,14 @@
       <description>About 400 years ago, beavers were hunted to extinction across Britain. Now they're being reintroduced as little climate warriors, as communities harness their dam-building skills to mitigate flooding.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-21T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Walmart plans price cuts using tariff refunds as shoppers get skittish</title>
+      <link>https://www.npr.org/2026/05/21/nx-s1-5829712/walmart-price-cuts-gas-tariff-refunds</link>
+      <description>Now that the U.S. government must refund most tariffs, Walmart says it might put its refund money toward lowering store prices. Executives say the cost of gas has shoppers increasingly under stress.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-21T11:01:11-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
