@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 06:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:02:12 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html</link>
-      <description>The national security minister, Itamar Ben-Gvir, posted a video in which he is seen with handcuffed activists forced to kneel on the deck of a ship. It drew a rebuke from Prime Minister Benjamin Netanyahu.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-israel-flotilla-photo-htwl/20int-israel-flotilla-photo-htwl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-20T19:25:36+00:00</pubDate>
-      <importance>23</importance>
-    </item>
     <item>
       <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
       <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
@@ -35,6 +27,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-russia-china01sub-photo-blpg/19int-russia-china01sub-photo-blpg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-19T18:04:31+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists</title>
+      <link>https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html</link>
+      <description>The national security minister, Itamar Ben-Gvir, posted a video in which he is seen with handcuffed activists forced to kneel on the deck of a ship. It drew a rebuke from Prime Minister Benjamin Netanyahu.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-israel-flotilla-photo-htwl/20int-israel-flotilla-photo-htwl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-21T01:28:39+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
