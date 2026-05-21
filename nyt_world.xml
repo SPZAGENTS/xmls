@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 12:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:01:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists</title>
@@ -35,6 +35,22 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/19/multimedia/19int-russia-china01sub-photo-blpg/19int-russia-china01sub-photo-blpg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-19T18:04:31+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>The Hard-Line Military Fraternity Running Iran</title>
+      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html</link>
+      <description>Decision making in Iran is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21Iran-Guards-01-pcqv/21Iran-Guards-01-pcqv-mediumSquareAt3X-v3.jpg</imageUrl>
+      <pubDate>2026-05-21T04:01:10+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>In Berlin, Cars Are a Culture War Flashpoint</title>
+      <link>https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html</link>
+      <description>With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/11/multimedia/00int-germany-cars-01-lbkf/00int-germany-cars-01-lbkf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-21T09:22:31+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
