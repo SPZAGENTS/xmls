@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 01:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:12:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Democrats wanted answers for what went wrong in 2024. Now, there are more questions</title>
@@ -34,6 +34,30 @@
       <description>Now that the U.S. government must refund most tariffs, Walmart says it might put its refund money toward lowering store prices. Executives say the cost of gas has shoppers increasingly under stress.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-21T11:01:11-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>בית המשפט העליון נמנע לעת עתה ממאבק על אכיפת חוק זכויות ההצבעה</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right</link>
+      <description>לאחר שהחליש לאחרונה את חוק זכויות ההצבעה, נמנע בית המשפט העליון לעת עתה בשאלה משפטית שעלולה להגביל מאוד את האכיפה של יתר ההגנות של החוק על מצביעי מיעוטים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T11:12:52-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>טראמפ מבטל את התביעה של מס הכנסה, וסוללת את הדרך להסדר</title>
+      <link>https://www.npr.org/2026/05/18/g-s1-119783/trump-irs-lawsuit-settlement</link>
+      <description>הנשיא תבע את מס הכנסה ואת משרד האוצר בינואר, ודרש 10 מיליארד דולר על הדלפת החזרי המס שלו לפני שנים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T10:58:49-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>צריך כפר - או פרבר של פיניקס - כדי לריב עם צב סורר</title>
+      <link>https://www.npr.org/2026/05/18/nx-s1-5808341/sulcata-tortoise-pet-phoenix</link>
+      <description>כאשר צב גדול בשם רקס השתחרר, שכונה באזור הפניקס נכנסה לסחרחורת. יותר מסתם מהומה מהנה, המפלט הנועז של רקס מראה את האתגרים של בעלות על צב סולקטה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-18T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
