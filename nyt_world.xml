@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 21 May 2026 22:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 23:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>The Hard-Line Military Fraternity Running Iran</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21int-ebola-uganda-mpzg/21int-ebola-uganda-mpzg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-21T13:12:10+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Germany Indicts Two Men for Plotting to Kill Jewish Leaders on Iran’s Behalf</title>
+      <link>https://www.nytimes.com/2026/05/21/world/europe/germany-murder-plot-iran.html</link>
+      <description>European authorities have grown concerned about a rise in Iranian intelligence activity in Europe in the wake of the U.S.-Israeli war in Iran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21intgermany-plot-zchb/21intgermany-plot-zchb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-21T17:19:35+00:00</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>In Berlin, Cars Are a Culture War Flashpoint</title>
