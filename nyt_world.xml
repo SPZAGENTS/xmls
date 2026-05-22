@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 03:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Germany Indicts Two Men for Plotting to Kill Jewish Leaders on Iran’s Behalf</title>
@@ -58,6 +58,14 @@
       <description>Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-coercion01-photo-fwzq/20int-iran-coercion01-photo-fwzq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-20T08:04:19+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Alberta Separation: What to Know Ahead of Oct. 19 Vote on Staying in Canada</title>
+      <link>https://www.nytimes.com/2026/05/21/world/canada/alberta-separation-referendum-vote.html</link>
+      <description>Premier Danielle Smith announced that she would ask citizens to vote on whether they want to stay in Canada, or hold a referendum to secede.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21int-canada-alberta-vote-hjkc/21int-canada-alberta-vote-hjkc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-22T00:47:50+00:00</pubDate>
       <importance>28</importance>
     </item>
   </channel>
