@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 08:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:14:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Gaza flotilla activists deported from Israel as backlash over treatment grows</title>
@@ -35,6 +35,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/959a/live/e216d3b0-5436-11f1-97ae-1b4b9bb4c9eb.jpg</imageUrl>
       <pubDate>2026-05-20T23:47:01</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>'I didn't know where DR Congo was': Latin Americans deported by US tell BBC of their shock</title>
+      <link>https://www.bbc.com/news/articles/c78qw88jjd4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The 15 deportees describe the uncertainty they face in a country they had never seen before.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1494/live/c21b8af0-5040-11f1-acce-79302838e29f.jpg</imageUrl>
+      <pubDate>2026-05-22T00:10:07</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
