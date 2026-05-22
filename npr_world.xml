@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 12:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:24:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Republicans call off vote on Iran war resolution that was on the verge of passing</title>
@@ -13,11 +13,19 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/05/22/nx-s1-5820720/morning-news-brief</link>
-      <description>Senate breaks for recess, delaying vote on ICE funding, DNC releases 'autopsy' of 2024 presidential election, a look at Trump's political -- and personal -- interest in Cuba.</description>
+      <title>'We'll never know if he could have been saved.' The gaps in Trump's rural health fund</title>
+      <link>https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba</link>
+      <description>Republicans promise that $50 billion in new health funding will help rural America. But it's not expected to aid the years-long effort in North Carolina's Martin County to reopen its only hospital.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-22T04:44:46-04:00</pubDate>
+      <pubDate>2026-05-22T05:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>As voters prioritize cost of living, focus on abortion evolves in midterm elections</title>
+      <link>https://www.npr.org/2026/05/22/nx-s1-5806338/abortion-democrats-midterm-elections-messaging-affordability-mifepristone</link>
+      <description>There's been a shift in attention in the party ahead of the midterms as voters rank affordability the top issue. That raises questions about what an evolving message on reproductive rights looks like.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-22T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
