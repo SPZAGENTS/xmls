@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 23 May 2026 00:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:01:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Regional Mediators Rush to Save U.S.-Iran Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html</link>
+      <description>Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-22T19:33:22+00:00</pubDate>
+      <importance>53</importance>
+    </item>
     <item>
       <title>Stocks and Oil Prices Tick Up Amid Impasse Over Reopening Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html</link>
@@ -19,6 +27,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-21T20:20:24+00:00</pubDate>
       <importance>49</importance>
+    </item>
+    <item>
+      <title>In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way</title>
+      <link>https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html</link>
+      <description>A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-22T09:02:11+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>Iran and Oman in Talks Over Strait of Hormuz Ship Payment System</title>
+      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html</link>
+      <description>The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-22T01:52:56+00:00</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>Disconnect Widens Between Mamdani and Pro-Israel Jewish Leaders</title>
@@ -53,36 +77,12 @@
       <importance>54</importance>
     </item>
     <item>
-      <title>GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It</title>
-      <link>https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html</link>
-      <description>House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.</description>
+      <title>The Hard-Line Military Fraternity Running Iran</title>
+      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html</link>
+      <description>Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-21T23:22:38+00:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html</link>
-      <description>The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-20T14:43:51+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>How Iran Gained Leverage in the War</title>
-      <link>https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html</link>
-      <description>Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-20T08:04:19+00:00</pubDate>
-      <importance>39</importance>
-    </item>
-    <item>
-      <title>Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East</title>
-      <link>https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html</link>
-      <description>The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-18T18:51:43+00:00</pubDate>
-      <importance>49</importance>
+      <pubDate>2026-05-21T14:08:58+00:00</pubDate>
+      <importance>53</importance>
     </item>
   </channel>
 </rss>
