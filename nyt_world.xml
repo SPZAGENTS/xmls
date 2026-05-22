@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 19:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:50:47 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way</title>
@@ -53,6 +53,22 @@
       <importance>23</importance>
     </item>
     <item>
+      <title>צו חדש של הטליבאן על גירושין ממסד נישואי ילדים באפגניסטן, מזהיר האו&quot;ם</title>
+      <link>https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html</link>
+      <description>חוק אפגני חדש מחייב בנות לחכות להתבגרות לפני שיבקשו לצאת מנישואים. זה גם דורש תיווך לנשים המבקשות לברוח מבעל מתעלל.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-taliban-decree-bjgv/22int-taliban-decree-bjgv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-22T10:37:18+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>האירופים נשארים זהירים לאחר שטראמפ הבטיח לשלוח חיילים לפולין</title>
+      <link>https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html</link>
+      <description>הנשיא טראמפ אמר שהוא ישלח 5,000 חיילים לפולין, חלק מפעילות הלוך ושוב שהותירה את המנהיגים האירופים בסערה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-poland-troops-01-jcph/22int-poland-troops-01-jcph-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-22T15:17:35+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
       <title>On the Ground in South Sudan: Why Akobo Faces an Ebola Risk</title>
       <link>https://www.nytimes.com/2026/05/22/world/africa/ebola-south-sudan-congo.html</link>
       <description>Hunger and conflict are on the minds of the residents of Akobo, where an outbreak could have devastating consequences.</description>
@@ -66,22 +82,6 @@
       <description>The popular leader of a region bordering Ukraine is replaced by a military commander as President Vladimir V. Putin looks to reward those who fought in his war.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/00int-russia-war-veterans-tjvh/00int-russia-war-veterans-tjvh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-22T09:01:45+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Manhunt Underway in Philippines for Duterte Ally Who Is Evading I.C.C. Warrant</title>
-      <link>https://www.nytimes.com/2026/05/22/world/asia/manhunt-philippines-bato-dela-rosa-fugitive.html</link>
-      <description>The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-philippines-manhunt-01-bmqv/22int-philippines-manhunt-01-bmqv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-22T08:35:33+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>In Jab at Trump, Mexico Targets Foreign Election Meddling</title>
-      <link>https://www.nytimes.com/2026/05/21/world/americas/mexico-election-interference-trump.html</link>
-      <description>Mexico is moving to add protections from “foreign interference” in elections. The rules seem aimed at Washington, but they raised concerns about Mexico’s democracy.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21int-mexico-bill-gkqj/21int-mexico-bill-gkqj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-22T02:23:49+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
