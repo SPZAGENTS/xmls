@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 14:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:31:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Will US invade? Three ways Cuba crisis could play out now</title>
@@ -35,6 +35,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d05/live/16dba5c0-550f-11f1-89a3-d1f559421220.png</imageUrl>
       <pubDate>2026-05-21T14:37:29</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>AI used to fake evidence that ended Korean actor's career, say police</title>
+      <link>https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c782/live/1b71a660-55c4-11f1-99e4-4d92e48ba181.jpg</imageUrl>
+      <pubDate>2026-05-22T10:50:24</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
