@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 15:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:34:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>This hard-line Iranian general is a major player in talks with US over war</title>
+      <link>https://abcnews.com/International/wireStory/hard-line-iranian-general-major-player-talks-us-133175508</link>
+      <description>A hard-line Iranian general linked to notorious attacks at home and abroad is believed to have seized a place near the center of power as negotiations with the United States hang in the balance</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_0905fc9612407e75fffbfd0280776692_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-21T05:37:55-04:00</pubDate>
+      <importance>32</importance>
+    </item>
     <item>
       <title>Israeli security minister who taunted flotilla activists has a record of extreme actions</title>
       <link>https://abcnews.com/International/wireStory/israeli-security-minister-taunted-flotilla-activists-record-extreme-133193563</link>
@@ -11,14 +19,6 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_087fa379fa08ae4ddc3a0262b381e3e5_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-22T02:52:17-04:00</pubDate>
       <importance>32</importance>
-    </item>
-    <item>
-      <title>Sudan's war has left thousands missing. Many are buried in unmarked graves</title>
-      <link>https://abcnews.com/International/wireStory/sudans-war-left-thousands-missing-buried-unmarked-graves-133210629</link>
-      <description>Fahmy al-Fateh never made it home from war in Sudan</description>
-      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
-      <pubDate>2026-05-22T01:11:50-04:00</pubDate>
-      <importance>17</importance>
     </item>
     <item>
       <title>UK offers cheaper chocolate and tickets to the zoo in bid to ease cost of living squeeze</title>
@@ -37,28 +37,12 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>A displaced Lebanese grandmother feeds thousands of compatriots who fled war</title>
-      <link>https://abcnews.com/International/wireStory/displaced-lebanese-grandmother-feeds-thousands-compatriots-fled-war-133181751</link>
-      <description>Soubhiye Zeiter started baking outside her tent in Beirut to feed herself and her family, displaced by war</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_ea891d54258be5f5d0a75f10f67afef7_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-21T08:54:28-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>This hard-line Iranian general is a major player in talks with US over war</title>
-      <link>https://abcnews.com/International/wireStory/hard-line-iranian-general-major-player-talks-us-133175508</link>
-      <description>A hard-line Iranian general linked to notorious attacks at home and abroad is believed to have seized a place near the center of power as negotiations with the United States hang in the balance</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_0905fc9612407e75fffbfd0280776692_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-21T05:37:55-04:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>What to know about the death of Congolese man in Ireland</title>
-      <link>https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248</link>
-      <description>Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin</description>
+      <title>Sudan's war has left thousands missing. Many are buried in unmarked graves</title>
+      <link>https://abcnews.com/International/wireStory/sudans-war-left-thousands-missing-buried-unmarked-graves-133210629</link>
+      <description>Fahmy al-Fateh never made it home from war in Sudan</description>
       <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
-      <pubDate>2026-05-22T07:28:09-04:00</pubDate>
-      <importance>27</importance>
+      <pubDate>2026-05-22T01:11:50-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>

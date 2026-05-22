@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 22 May 2026 15:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:34:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/22/world/22israel-westbank-dog-new/22israel-westbank-dog-new-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-22T09:02:11+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Iran and Oman in Talks Over Strait of Hormuz Ship Payment System</title>
+      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html</link>
+      <description>The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21int-rubio-tolls-gzmt/21int-rubio-tolls-gzmt-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-22T01:52:56+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>Alberta Separation: What to Know Ahead of Oct. 19 Vote on Staying in Canada</title>
@@ -26,6 +34,22 @@
       <description>Europeans are considering appointing an envoy to Ukraine peace talks with Russia. First, many warn, they need to decide what to ask.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-putin-whisperer-01-cmlb/22int-putin-whisperer-01-cmlb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-22T09:02:02+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>The Hard-Line Military Fraternity Running Iran</title>
+      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html</link>
+      <description>Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21Iran-Guards-01-pcqv/21Iran-Guards-01-pcqv-mediumSquareAt3X-v3.jpg</imageUrl>
+      <pubDate>2026-05-21T14:08:58+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>In Berlin, Cars Are a Culture War Flashpoint</title>
+      <link>https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html</link>
+      <description>With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/11/multimedia/00int-germany-cars-01-lbkf/00int-germany-cars-01-lbkf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-21T09:22:31+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
@@ -53,35 +77,11 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>The Hard-Line Military Fraternity Running Iran</title>
-      <link>https://www.nytimes.com/2026/05/21/world/middleeast/iran-revolutionary-guards.html</link>
-      <description>Decision making in the country is guided by a small group of men associated with the Islamic Revolutionary Guards Corps.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21Iran-Guards-01-pcqv/21Iran-Guards-01-pcqv-mediumSquareAt3X-v3.jpg</imageUrl>
-      <pubDate>2026-05-21T14:08:58+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
       <title>In Jab at Trump, Mexico Targets Foreign Election Meddling</title>
       <link>https://www.nytimes.com/2026/05/21/world/americas/mexico-election-interference-trump.html</link>
       <description>Mexico is moving to add protections from “foreign interference” in elections. The rules seem aimed at Washington, but they raised concerns about Mexico’s democracy.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/21/multimedia/21int-mexico-bill-gkqj/21int-mexico-bill-gkqj-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-22T02:23:49+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>In Berlin, Cars Are a Culture War Flashpoint</title>
-      <link>https://www.nytimes.com/2026/05/21/world/europe/berlin-car-ban.html</link>
-      <description>With municipal elections approaching, conservatives and progressives are sparring over congestion in the city center and how to fix it.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/11/multimedia/00int-germany-cars-01-lbkf/00int-germany-cars-01-lbkf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-21T09:22:31+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns</title>
-      <link>https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html</link>
-      <description>A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-taliban-decree-bjgv/22int-taliban-decree-bjgv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-22T10:37:18+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
