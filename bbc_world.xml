@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 23 May 2026 22:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 22:13:40 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Gaza flotilla activists allege abuse by Israeli forces while detained</title>
@@ -43,6 +43,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-23T01:59:08</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Iran 'getting a lot closer' to agreement with US, Trump says</title>
+      <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg</imageUrl>
+      <pubDate>2026-05-23T18:05:34</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
