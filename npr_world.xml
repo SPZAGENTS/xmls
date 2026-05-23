@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sat, 23 May 2026 08:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>DHS says ICE has 'no relationship' with spyware maker Paragon Solutions</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-22T16:30:56-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>SpaceX launches its biggest, most beefed-up Starship yet on a test flight</title>
+      <link>https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight</link>
+      <description>The mega rocket made its debut two days after SpaceX CEO Elon Musk announced he's taking the company public. NASA Administrator Jared Isaacman said Starship is now one step closer to the moon.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-23T01:28:27-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
