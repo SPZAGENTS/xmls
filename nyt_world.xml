@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 23 May 2026 18:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 18:04:37 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger</title>
@@ -59,6 +59,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/22/multimedia/22int-putin-whisperer-01-cmlb/22int-putin-whisperer-01-cmlb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-22T09:02:02+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Iran Meets Mediators for Talks as Cease-Fire Hangs in Balance</title>
+      <link>https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html</link>
+      <description>People across the Middle East were bracing for the possibility of renewed fighting between the U.S. and Iran as mediation efforts continue in Tehran without a clear sign of a breakthrough.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/23int-iran-lgcz/23int-iran-lgcz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-23T13:12:21+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
