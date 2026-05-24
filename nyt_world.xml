@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 17:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:01:25 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky</title>
@@ -61,14 +61,6 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>What to Know About the Potential U.S.-Iran Peace Deal</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</link>
-      <description>President Trump said on Saturday that an agreement to end the war was “largely negotiated,” but neither the United States nor Iran released many details of the proposal.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T13:42:58+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html</link>
       <description>Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.</description>
@@ -82,6 +74,14 @@
       <description>Buildings rattled in the Ukrainian capital for hours early Sunday. It was unclear if Russia’s Oreshnik intermediate-range ballistic missile had been used.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-ukraine-strikes-03-kfjg/24int-ukraine-strikes-03-kfjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T06:21:52+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>France Bans Israeli Minister Over Treatment of Detained Flotilla Activists</title>
+      <link>https://www.nytimes.com/2026/05/23/world/middleeast/ben-gvir-travel-ban-france.html</link>
+      <description>Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/23int-israel-bengvir-kvlj/23int-israel-bengvir-kvlj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-23T18:54:50+00:00</pubDate>
       <importance>23</importance>
     </item>
   </channel>
