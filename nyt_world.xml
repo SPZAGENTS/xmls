@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 18:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:44:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky</title>
-      <link>https://www.nytimes.com/live/2026/05/24/world/iran-war-trump</link>
-      <description>President Trump said the United States and Iran had “largely negotiated” an agreement, even as American and Iranian officials described the terms differently.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24iran-blog-promo-lchn/24iran-blog-header-01-cphq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T13:05:45+00:00</pubDate>
-      <importance>48</importance>
-    </item>
     <item>
       <title>Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger</title>
       <link>https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html</link>
@@ -29,22 +21,6 @@
       <importance>48</importance>
     </item>
     <item>
-      <title>Fate of War in Lebanon Rests With Outside Powers</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
-      <description>A day after President Trump announced an emerging initial peace deal with Iran, Lebanese people wondered what it meant for the war between Israel and Hezbollah, the Iran-backed militant group.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T11:38:35+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Israeli Leaders Say Little About Trump’s Potential Iran Deal</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link>
-      <description>Analysts said the silence reflected Israeli worries that an agreement will not significantly degrade Iran’s nuclear and missile capabilities.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T11:12:17+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>Iran Projects Victory in Potential Deal With Washington</title>
       <link>https://www.nytimes.com/2026/05/24/world/europe/iran-projects-victory-in-potential-deal-with-washington.html</link>
       <description>Iran’s leaders are playing up the positives — an underdog proved capable of taking on two nuclear-armed powers.</description>
@@ -53,33 +29,57 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Do U.S. Automakers Have a Future in Canada?</title>
-      <link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link>
-      <description>Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-24T11:30:04+00:00</pubDate>
-      <importance>18</importance>
+      <title>מזלת מלחמה בלבנון תלויה בעיקר באינטרסים החיצוניים</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
+      <description>הסכם שלום בין ארצות הברית לאיראן עשוי לדעוך את הסכסוך בלבנון בין ישראל לחזבאללה. אבל זה תלוי בעיקר במה שיחליטו ארצות הברית, איראן וישראל.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T15:03:28+00:00</pubDate>
+      <importance>58</importance>
     </item>
     <item>
-      <title>What to Know About the Potential U.S.-Iran Peace Deal</title>
+      <title>עדכונים מלחמת המשטר באיראן: ארה&quot;ב ואיראן שולחות אותות לפיוס, אך פרטים עדיין גלויים</title>
+      <link>https://www.nytimes.com/live/2026/05/24/world/iran-war-trump</link>
+      <description>נשיא ארצות הברית טראמפ אמר שארצות הברית ואיראן &quot;התיישרו בעיקר&quot; להסכם, אף על פי שמנהלים אמריקאים ואיראנים התארחו בתואר התנאים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24iran-blog-promo-lchn/24iran-blog-header-01-cphq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T15:16:07+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>מה צריך לדעת על הסכם שלום אפשרי בין ארצות הברית לאיראן</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html</link>
-      <description>President Trump said on Saturday that an agreement to end the war was “largely negotiated,” but neither the United States nor Iran released many details of the proposal.</description>
+      <description>נשיא ארצות הברית, טראמפ, אמר בסופ שבת כי &quot;הסכם לסיום מלחמה&quot; הושג &quot;בעיקר&quot;, אך ארצות הברית ואיראן לא חשפו פרטים רבים על ההצעה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T13:42:58+00:00</pubDate>
       <importance>48</importance>
     </item>
     <item>
-      <title>Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz</title>
+      <title>מנהיגי ישראל אומללים מעט בדבר הסכם טראמפ עם איראן</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link>
+      <description>מומחים אמרו שהשתקה הפנימית משקפת חששות שההסכם לא יצליח להפחית באופן משמעותי את יכולות הגרעיניות והנשקים הבליסטיים של איראן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T14:47:18+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>חמש הסוגיות העיקריות שנדרש להתגבר עליהן בהסכם שלום בין איראן לארצות הברית</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html</link>
+      <description>נשיא ארצות הברית, דונלד טראמפ, אמר שארה&quot;ב ואיראן עלולים להגיע להסכם שלום. בעיות החשובות שנדונות כוללות את גורלו של תוכנית הגרעין האיראנית והשבתת המצרים החופשייה במצרי ההורמוז.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-five-issues-ooooo1-bwqz/24int-iran-five-issues-ooooo1-bwqz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T15:08:50+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>מנהיגי איראן טוענים שההסכם לשלום המוצע, יפתח את מיצר הורמוז.</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html</link>
-      <description>Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.</description>
+      <description>איראן לא השיבה עדיין באופן רשמי להודעתו של נשיא ארצות הברית, טראמפ, כי מדובר בהסכם שלום. אולם, רמזים הועברו לגבי יציאת החנקה הנשלטת במעבר האוניות במצרי הורמוז.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/00mideast-iran-government-perspective-lhkg/00mideast-iran-government-perspective-lhkg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T06:31:01+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>Kyiv, Ukraine, Hit in Russian Missile Attack</title>
+      <title>קייב, אוקראינה, ספגה התקפת טילים רוסיים</title>
       <link>https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html</link>
-      <description>Buildings rattled in the Ukrainian capital for hours early Sunday. It was unclear if Russia’s Oreshnik intermediate-range ballistic missile had been used.</description>
+      <description>בניינים רעשו במשך שעות בבירה האוקראינית, אתמול לילה. לא ברור האם נשק מבליסטי בינוני-טווח של רוסיה, &quot;אורשניק&quot;, היה המעשה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-ukraine-strikes-03-kfjg/24int-ukraine-strikes-03-kfjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T06:21:52+00:00</pubDate>
       <importance>23</importance>
