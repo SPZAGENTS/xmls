@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 10:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:53:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>I survived a missile strike in the Strait of Hormuz, but my friend has not been found</title>
@@ -58,6 +58,14 @@
       <description>The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e06b/live/6ec4a980-56a9-11f1-89a3-d1f559421220.jpg</imageUrl>
       <pubDate>2026-05-22T22:32:12</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Man killed in shark attack off Australia's north-east coast</title>
+      <link>https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9910/live/10cc3a30-573c-11f1-89a3-d1f559421220.jpg</imageUrl>
+      <pubDate>2026-05-24T07:12:37</pubDate>
       <importance>18</importance>
     </item>
   </channel>
