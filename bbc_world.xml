@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 22:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:35:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Gaza flotilla activists allege abuse by Israeli forces while detained</title>
@@ -51,6 +51,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-23T20:07:01</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Trump tells US negotiators 'not to rush' into deal with Iran</title>
+      <link>https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca8c/live/5c9cc720-5798-11f1-9682-21332c7159b4.jpg</imageUrl>
+      <pubDate>2026-05-24T19:19:17</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
