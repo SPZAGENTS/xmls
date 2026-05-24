@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 12:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Trump Says Peace Deal Is Near</title>
@@ -81,14 +81,12 @@ FRANCE 24's François Picard welcomes veteran Israeli journalist and Haaretz col
       <importance>33</importance>
     </item>
     <item>
-      <title>'Significant movement here in Washington': US and Iran report progress towards deal on ending war</title>
-      <link>https://www.france24.com/en/significant-movement-here-in-washington-us-and-iran-report-progress-towards-deal-on-ending-war</link>
-      <description>
-FRANCE 24 correspondent Fraser Jackson speaks from Washington, DC on the reported progress in the talks on ending the US-Israeli war on Iran.
-</description>
-      <imageUrl>https://s.france24.com/media/display/1ecc5de6-56dc-11f1-83c3-005056bf30b7/w:1024/p:16x9/EN-20260523-210259-210814-CS.jpg</imageUrl>
-      <pubDate>2026-05-23T19:27:43</pubDate>
-      <importance>38</importance>
+      <title>What to Know About the Potential U.S.-Iran Peace Deal</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/what-to-know-about-the-potential-iran-peace-deal.html</link>
+      <description>President Trump said on Saturday that an agreement to end the war was “largely negotiated,” but neither the United States nor Iran released many details of the proposal.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24xp-mideast-agreement-wwk-1-hwml/24xp-mideast-agreement-wwk-1-hwml-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T09:55:20+00:00</pubDate>
+      <importance>48</importance>
     </item>
   </channel>
 </rss>

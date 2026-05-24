@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 12:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated'</title>
@@ -21,12 +21,36 @@
       <importance>27</importance>
     </item>
     <item>
+      <title>Torn by war, Israelis and Palestinians tie their fortunes together</title>
+      <link>https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern</link>
+      <description>At a time when hopes are dim for resolving the Israeli-Palestinian conflict, some Arab and Jewish entrepreneurs are partnering across the divide, hoping to prove what's possible.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T05:00:00-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
       <title>Romanian director Cristian Mungiu's 'Fjord' wins top prize at Cannes</title>
       <link>https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival</link>
       <description>Mungiu took home the prestigious Palme D'Or for his film &lt;em&gt;Fjord&lt;/em&gt;, a culture-war drama set in Norway.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-23T20:13:33-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>The Enhanced Games are Sunday. Here's what to know about the controversial event</title>
+      <link>https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump</link>
+      <description>Dozens of athletes — including former Olympians — will participate in the Las Vegas event while using performance-enhancing drugs.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T05:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Russia uses hypersonic Oreshnik missile in mass attack on Kyiv</title>
+      <link>https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv</link>
+      <description>Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T05:12:28-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
