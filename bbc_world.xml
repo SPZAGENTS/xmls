@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 18:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:22:42 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Gaza flotilla activists allege abuse by Israeli forces while detained</title>
@@ -51,6 +51,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-23T20:07:01</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
+      <link>https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/321a/live/ffcd6860-5783-11f1-b682-cf91850925ea.jpg</imageUrl>
+      <pubDate>2026-05-24T13:02:02</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
