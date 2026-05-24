@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 15:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:12:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky</title>
@@ -65,14 +65,6 @@ FRANCE 24's François Picard welcomes veteran Israeli journalist and Haaretz col
       <importance>28</importance>
     </item>
     <item>
-      <title>Fate of War in Lebanon Rests With Outside Powers</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
-      <description>A day after President Trump announced an emerging initial peace deal with Iran, Lebanese people wondered what it meant for the war between Israel and Hezbollah, the Iran-backed militant group.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T11:38:35+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
       <title>Kyiv, Ukraine, Hit in Russian Missile Attack</title>
       <link>https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html</link>
       <description>Buildings rattled in the Ukrainian capital for hours early Sunday. It was unclear if Russia’s Oreshnik intermediate-range ballistic missile had been used.</description>
@@ -87,6 +79,14 @@ FRANCE 24's François Picard welcomes veteran Israeli journalist and Haaretz col
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T05:12:28-04:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Trump touts Iran breakthrough but details remain unclear</title>
+      <link>https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz</link>
+      <description>President Trump announced the unfinalized deal on social media after talks with Israel and other allies. Iran did not officially confirm the deal, and state media contradicted parts of it.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-23T19:00:02-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>

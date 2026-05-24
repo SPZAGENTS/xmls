@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 24 May 2026 15:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:12:32 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Nurse convicted in patient's death is now a national speaker on hospital safety</title>
@@ -58,6 +58,14 @@
       <description>Mungiu took home the prestigious Palme D'Or for his film &lt;em&gt;Fjord&lt;/em&gt;, a culture-war drama set in Norway.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-23T20:13:33-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Religious leaders, lawmakers push for $1 billion to secure houses of worship</title>
+      <link>https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship</link>
+      <description>There's an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually received funding.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T08:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
