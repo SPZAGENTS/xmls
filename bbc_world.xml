@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 04:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:53:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump tells US negotiators 'not to rush' into deal with Iran</title>
@@ -50,6 +50,14 @@
       <description>Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode. </description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-24T18:51:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Ebola outbreak poses massive challenges, warns nurse</title>
+      <link>https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Kate White says she is &quot;extremely concerned about the inability to get resources&quot; to the Democratic Republic of Congo.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a68/live/f16f5390-5793-11f1-85d6-97cd1565aacc.jpg</imageUrl>
+      <pubDate>2026-05-24T17:46:14</pubDate>
       <importance>18</importance>
     </item>
   </channel>
