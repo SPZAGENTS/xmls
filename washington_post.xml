@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 16:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:28:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Russia’s overnight barrage on Ukraine includes use of powerful Oreshnik missile</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T16:06:26+00:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>As war evolves, more female troops make the ultimate sacrifice</title>
+      <link>https://www.washingtonpost.com/national-security/2026/05/24/war-evolves-more-female-troops-make-ultimate-sacrifice/</link>
+      <description>On Memorial Day, military families remember the Iran conflict’s fallen and navigate heartbreak without mothers and wives.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T10:00:01+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>

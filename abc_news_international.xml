@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 16:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:28:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Strait of Hormuz closure chokes trade and aid for Afghanistan</title>
@@ -35,6 +35,22 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_b3bac12f3dec8e927dfd4e1a961572fa_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-25T02:14:58-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Iran live updates: Trump says Iran deal critics 'know nothing' of potential agreement</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077</link>
+      <description>President Donald Trump announced &quot;major combat operations&quot; against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-25T06:54:29-04:00</pubDate>
+      <importance>47</importance>
+    </item>
+    <item>
+      <title>92 people abducted by jihadi militants rescued, Nigeria says</title>
+      <link>https://abcnews.com/International/wireStory/nigerias-military-troops-rescued-92-people-abducted-jihadi-133267987</link>
+      <description>The military did not specify how long those rescued had been in captivity.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T11:31:32-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
