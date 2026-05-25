@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 15:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:26:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says</title>
-      <link>https://www.nytimes.com/live/2026/05/24/world/iran-war-trump</link>
-      <description>The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24mideast-400-fgkh/24mideast-400-fgkh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T11:09:53+00:00</pubDate>
-      <importance>28</importance>
-    </item>
     <item>
       <title>Fate of War in Lebanon Rests Mostly With Outside Powers</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
@@ -19,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T16:29:37+00:00</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html</link>
+      <description>The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/24/multimedia/24mideast-hezbollah-rubio-clhb/24mideast-hezbollah-rubio-clhb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T02:22:26+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
       <title>Israeli Leader Says He and Trump Agree On Blocking an Iranian Nuclear Weapon</title>
@@ -29,14 +29,6 @@
       <importance>43</importance>
     </item>
     <item>
-      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
-      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>The document marks a powerful foray by the leader of the Roman Catholic church into the debate about the misuse or overuse of artificial intelligence.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T10:08:21+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>Israel’s President, Isaac Herzog, Denounces Israeli Violence</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
       <description>In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners.</description>
@@ -45,12 +37,12 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html</link>
-      <description>The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/24/multimedia/24mideast-hezbollah-rubio-clhb/24mideast-hezbollah-rubio-clhb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T02:22:26+00:00</pubDate>
-      <importance>33</importance>
+      <title>U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says</title>
+      <link>https://www.nytimes.com/live/2026/05/24/world/iran-war-trump</link>
+      <description>The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24mideast-400-fgkh/24mideast-400-fgkh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T12:11:10+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>Kyiv, Ukraine, Hit in Russian Missile Attack</title>
@@ -82,6 +74,14 @@
       <description>Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T17:07:10+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
+      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
+      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T12:06:17+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>

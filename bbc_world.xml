@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 15:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:26:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Oil prices slide on hopes of US-Iran peace deal</title>
-      <link>https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg</imageUrl>
-      <pubDate>2026-05-25T10:39:18</pubDate>
-      <importance>28</importance>
-    </item>
     <item>
       <title>Rubio meets Modi during India visit with energy high on agenda</title>
       <link>https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -21,9 +13,25 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg</imageUrl>
+      <pubDate>2026-05-24T01:18:31</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Oil prices slide on hopes of US-Iran peace deal</title>
+      <link>https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg</imageUrl>
+      <pubDate>2026-05-25T10:39:18</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
       <title>Deal with US not imminent, Iran says</title>
       <link>https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.</description>
+      <description>The US secretary of state earlier said that an agreement could possibly come on Monday.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c1/live/741c5a20-5827-11f1-8df1-478734c7d1a9.jpg</imageUrl>
       <pubDate>2026-05-25T11:17:49</pubDate>
       <importance>23</importance>
@@ -37,12 +45,12 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg</imageUrl>
-      <pubDate>2026-05-24T01:18:31</pubDate>
-      <importance>23</importance>
+      <title>Man killed in shark attack off Australia's north-east coast</title>
+      <link>https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9910/live/10cc3a30-573c-11f1-89a3-d1f559421220.jpg</imageUrl>
+      <pubDate>2026-05-24T15:29:08</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>Ebola outbreak poses massive challenges, warns nurse</title>
@@ -50,14 +58,6 @@
       <description>Kate White says she is &quot;extremely concerned about the inability to get resources&quot; to the Democratic Republic of Congo.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a68/live/f16f5390-5793-11f1-85d6-97cd1565aacc.jpg</imageUrl>
       <pubDate>2026-05-24T17:46:14</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Man killed in shark attack off Australia's north-east coast</title>
-      <link>https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9910/live/10cc3a30-573c-11f1-89a3-d1f559421220.jpg</imageUrl>
-      <pubDate>2026-05-24T15:29:08</pubDate>
       <importance>18</importance>
     </item>
   </channel>
