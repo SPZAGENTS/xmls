@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 17:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:30:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East war live: Iran says agreement with US ‘not imminent’ despite progress</title>
@@ -55,14 +55,6 @@ Iran's foreign ministry spokesman Esmaeil Baqaei warned on Monday that an ag
       <importance>43</importance>
     </item>
     <item>
-      <title>Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal</title>
-      <link>https://www.nytimes.com/live/2026/05/25/world/iran-war-trump</link>
-      <description>President Trump gave conflicting signals over how much progress had been made in the talks. Both the United States and Iran suggested that a breakthrough was not imminent.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/-25mideast-promo-0945EST/25mideast-header--glfc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T13:49:57+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
       <title>Fresh strikes test fragile Israel-Hezbollah truce</title>
       <link>https://www.france24.com/en/fresh-strikes-test-fragile-israel-hezbollah-truce</link>
       <description>
@@ -89,6 +81,14 @@ US President Donald Trump on Sunday said that he had told diplomatic representat
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-25T10:08:21+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html</link>
+      <description>The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/24/multimedia/24mideast-hezbollah-rubio-clhb/24mideast-hezbollah-rubio-clhb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T02:22:26+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
