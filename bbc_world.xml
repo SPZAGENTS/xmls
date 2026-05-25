@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 17:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 18:01:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Oil prices slide on hopes of US-Iran peace deal</title>
+      <link>https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg</imageUrl>
+      <pubDate>2026-05-25T10:39:18</pubDate>
+      <importance>28</importance>
+    </item>
     <item>
       <title>Rubio meets Modi during India visit with energy high on agenda</title>
       <link>https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,12 +61,12 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>מחירי הנפט יורדים בעקבות התקוות להסכם שלום בין ארה&quot;ב לאיראן</title>
-      <link>https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>טראמפ אמר בשבת כי הסכם יכלול את הפתיחה מחדש של מיצר הורמוז, מבלי למסור פרטים נוספים.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg</imageUrl>
-      <pubDate>2026-05-25T13:05:56</pubDate>
-      <importance>28</importance>
+      <title>Clashes as Venezuelan prisoners protest over alleged mistreatment</title>
+      <link>https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7427/live/07aac570-5831-11f1-b682-cf91850925ea.jpg</imageUrl>
+      <pubDate>2026-05-25T11:13:45</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
