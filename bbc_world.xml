@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 11:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:14:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Rubio says 'solid' Iran deal may come on Monday</title>
@@ -59,6 +59,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-24T18:51:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg</imageUrl>
+      <pubDate>2026-05-24T01:18:31</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
