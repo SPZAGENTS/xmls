@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 22:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:46:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Cambodia's new conscription law takes effect in wake of conflict with Thailand</title>
@@ -45,20 +45,28 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Israeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’</title>
-      <link>https://abcnews.com/International/wireStory/israeli-opposition-leader-lapid-trumps-emerging-deal-iran-133285407</link>
-      <description>Israel's opposition leader Yair Lapid says the U.S.-Iran deal fails to meet Israel's goals and is criticizing Prime Minister Netanyahu for allowing Washington to negotiate with little Israeli input</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_fa15b3bf47b0cd5ff2b3495644a9c32e_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-25T14:48:31-04:00</pubDate>
-      <importance>42</importance>
-    </item>
-    <item>
       <title>Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns</title>
       <link>https://abcnews.com/International/wireStory/muslims-begin-annual-hajj-sweltering-heat-backdrop-war-133277803</link>
       <description>The annual Islamic Hajj pilgrimage, one of the Five Pillars of Islam, has begun</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_b3bac12f3dec8e927dfd4e1a961572fa_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-25T02:14:58-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Shrinking snowfall on Greece's mountains is provoking anxiety, altering the economy</title>
+      <link>https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509</link>
+      <description>In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_620c7646a99aa16516b81f92eb56f56b_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-24T07:45:58-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Russia pounds Kyiv with missiles and drones, shaking city center and injuring 10</title>
+      <link>https://abcnews.com/International/wireStory/russia-pounds-kyiv-missiles-drones-shaking-city-center-133262406</link>
+      <description>Russia has launched an intense missile and drone attack on Kyiv, shaking buildings across the city center</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_998aeaab5833ca397290d9ee2737b0e5_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-23T23:15:12-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
