@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 25 May 2026 11:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:01:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Nurse convicted in patient's death is now a national speaker on hospital safety</title>
+      <link>https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error</link>
+      <description>RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-24T06:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
     <item>
       <title>The Enhanced Games are Sunday. Here's what to know about the controversial event</title>
       <link>https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump</link>
@@ -13,36 +21,44 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>מי שנדון לעבירה בגלל מוות של חולה, היום נשארת אחות ידועה בעניין ביטחון בבתי החולים</title>
-      <link>https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error</link>
-      <description>ראדונדה ווייט הורשעה בהריגה מתוך עלילה, אחרי שנתנה למטופל תרופה לא נכונה. היא כבר נוהגת לדבר בעניין בטיחות בתי החולים, בעידן של אוטומציה ומערכות זהויות.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-24T06:00:00-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>רוסיה תוקפת את קייב בהתקפת דרונים וטילים משמעותית</title>
+      <title>Russia pounds Kyiv in powerful drone and missile attack</title>
       <link>https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv</link>
-      <description>לפחות שני איש נהרגו ו-77 נפצעו במתקפה, הכוללת שימוש בטיל בליסטי-היפר-סוני מדגם Oreshnik, אשר יכול לשאת ראש קרב גרעיני.</description>
+      <description>At least two people were killed and 77 injured in the attack, which included the use of a powerful hypersonic ballistic missile called the Oreshnik, which is capable of carrying a nuclear warhead.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T05:12:28-04:00</pubDate>
       <importance>27</importance>
     </item>
     <item>
-      <title>מקרי האבולה בד.ר. קונגו מתעלמים, בשטח שנלחם</title>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/05/25/nx-s1-5828333/morning-news-brief</link>
+      <description>Trump touts breakthrough in negotiations to end Iran war, Middle Eastern countries react to news of a potential deal to end war, Africa races to contain a fast-spreading Ebola outbreak.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-25T04:42:16-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>DR Congo Ebola cases rise amid distrust, armed conflict zone</title>
       <link>https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa</link>
-      <description>אפריקה נמשכת לדבוק במחלת האייבולה, שזורמת מערב-קונגו אל אוגנדה.</description>
+      <description>Africa races to contain a fast-spreading Ebola outbreak threatening 10 countries as infections spill from eastern Congo into Uganda.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T13:18:33-04:00</pubDate>
       <importance>17</importance>
     </item>
     <item>
-      <title>מנהיגי דתות וחברי הכנסת מדרישים 1 מיליארד דולר לאבטח את בתי התפילה</title>
+      <title>Religious leaders, lawmakers push for $1 billion to secure houses of worship</title>
       <link>https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship</link>
-      <description>יש מאמץ בגבעת הקפיטול להגדיל את המימון לתוכנית מענקי האבטחה ללא מטרות רווח, המעניקה מימון לבתי תפילה כדי להקשיח את ההגנות שלהם. בשנת 2024, כשליש מהמועמדים אכן קיבלו מימון.</description>
+      <description>There's an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually received funding.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T08:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Muslims begin the annual Hajj against a backdrop of war concerns</title>
+      <link>https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj</link>
+      <description>More than 1.5 million pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage, one of the Five Pillars of Islam, against the backdrop of a tenuous ceasefire in the Iran war and related regional tensions.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-25T03:05:02-04:00</pubDate>
+      <importance>37</importance>
     </item>
   </channel>
 </rss>
