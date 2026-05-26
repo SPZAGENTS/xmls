@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 15:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:35:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Inquiry into antisemitism in Australia condemns online hatred and bigotry targeting witnesses</title>
@@ -75,6 +75,14 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_a3117507f6a882b04b8a353ef82a01fb_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-25T14:42:07-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>North Korea launches ballistic missiles over the sea in latest show of force</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-launches-ballistic-missiles-sea-latest-show-133303679</link>
+      <description>South Korea says North Korea has launched multiple close-range ballistic missiles toward the sea</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_060148d7789377ff8691bc24d42b136d_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-26T02:22:51-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
