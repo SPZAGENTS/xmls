@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 07:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:12:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: As Talks to End War Resume in Qatar, U.S. Conducts Strikes on Iran’s Gulf Coast</title>
@@ -27,6 +27,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-25T15:05:11+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</link>
+      <description>After the prime minister made the announcement, the Israeli military said it had struck more than 70 Hezbollah sites in the past day.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T21:52:31+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
