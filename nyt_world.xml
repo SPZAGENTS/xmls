@@ -2,39 +2,47 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 12:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:01:31 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>עדכונים חיים של מלחמת איראן: משא ומתן לסיום קורות החיים של המלחמה בקטאר</title>
+      <title>As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast</title>
       <link>https://www.nytimes.com/live/2026/05/25/world/iran-war-trump</link>
-      <description>בכירים איראנים הגיעו לדוחא. הנשיא טראמפ נתן אותות סותרים לגבי מידת ההתקדמות. ראש הממשלה בנימין נתניהו אמר כי ישראל מתכוונת להגביר את התקיפות נגד חיזבאללה, בעל בריתה של איראן, בלבנון.</description>
+      <description>Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were intended to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-promo-830p-wkvp/25mideast-promo-830p-wkvp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-26T08:40:39+00:00</pubDate>
       <importance>48</importance>
     </item>
     <item>
-      <title>לוחמה מתפתחת מחברת את הקונפליקטים באוקראינה ובאיראן</title>
+      <title>Evolving Warfare Connects the Conflicts in Ukraine and Iran</title>
       <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
-      <description>היבטים כמו טכנולוגיית מזל&quot;טים ודיפלומטיה מראים כיצד המלחמות מצטלבות בשדה הקרב ובמערכים גלובליים, מהווים מודל לסכסוכים עתידיים.</description>
+      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-26T08:26:08+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>נשיא ישראל, יצחק הרצוג, מוקיע את האלימות הישראלית</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
-      <description>בנאום נשא יצחק הרצוג, שתפקידו טקסי ברובו, כתב אישום חמור נגד התקפות מתנחלים בגדה והתעללות באסירים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-herzog-vwfm/24int-israel-herzog-vwfm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-24T20:50:22+00:00</pubDate>
-      <importance>33</importance>
+      <title>Iran War Live Updates: Khamenei Says U.S. Military Bases in Middle East No Longer Safe</title>
+      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
+      <description>Mojtaba Khamenei, Iran’s supreme leader, said that after the war Gulf nations would no longer be “shields” for U.S. bases.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-promo1/26mideast-header1-fghb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T09:59:32+00:00</pubDate>
+      <importance>53</importance>
     </item>
     <item>
-      <title>האפיפיור ליאו מזהיר על סיכונים מהמונח המלא ב-42,300 מילים</title>
+      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
       <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>המסמך מסמן גיחה עוצמתית של מנהיג הכנסייה הקתולית לוויכוח על שימוש לרעה או שימוש יתר בבינה מלאכותית.</description>
+      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-05-25T15:14:03+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Israel’s President, Isaac Herzog, Denounces Israeli Violence</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
+      <description>In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-herzog-vwfm/24int-israel-herzog-vwfm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-24T20:50:22+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
