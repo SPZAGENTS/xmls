@@ -2,196 +2,154 @@
   "metadata": {
     "agent": "twitter-grok-monitor",
     "version": "3.0-fallback",
-    "timestamp": "2026-05-26T10:00:00+03:00",
-    "total_posts": 15,
+    "timestamp": "2026-05-26T15:00:00Z",
+    "note": "Grok API credits exhausted since May 21. Web search fallback used. SearXNG provider unconfigured, only DuckDuckGo results available.",
+    "total_posts": 14,
     "categories": {
-      "אנטישמיות אירופה": 5,
-      "פרו-ישראל / מזרח תיכון": 5,
-      "איום איסלאמי / איראן באירופה": 5
-    },
-    "search_method": "web_search_fallback",
-    "note": "Grok API credits exhausted since May 21. Using web search as fallback."
+      "אנטישמיות באירופה": 8,
+      "מזרח תיכון": 6
+    }
   },
   "posts": [
     {
-      "title": "2026 London antisemitic attacks - 10 attacks with arson, explosives and chemicals",
-      "url": "https://en.wikipedia.org/wiki/2026_London_antisemitic_attacks",
-      "description": "In March and April 2026, approximately 10 attacks were conducted that targeted the Jewish community in London, UK. The attacks involved arson, explosive devices and chemicals, targeting Jewish schools, synagogues and charities.",
+      "title": "Antisemitism during the 2026 Iran war - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antisemitism_during_the_2026_Iran_war",
+      "description": "On March 14, 2026, a Jewish school in Amsterdam was damaged by an explosion, characterised by the city's mayor as a deliberate attack against the Jewish community. Jewish people in Amsterdam are increasingly confronted with antisemitism.",
+      "pubDate": "2026-05-26T08:00:00Z",
       "source": "Wikipedia",
-      "category": "אנטישמיות אירופה",
-      "relevance_score": 100,
-      "pubDate": "2026-05-26T10:00:00Z",
-      "media_type": "text",
-      "title_hebrew": "מתקפות אנטישמיות בלונדון 2026 - 10 מתקפות עם הצתה, חומרי נפץ וכימיקלים",
-      "description_hebrew": "במרץ ובאפריל 2026 נערכו כ-10 מתקפות שכוונו לקהילה היהודית בלונדון, בריטניה. המתקפות כללו הצתה, מטעני חבלה וחומרים כימיים, שכוונו לבתי ספר יהודים, בתי כנסת ומוסדות צדקה."
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 95,
+      "media_type": "text"
     },
     {
-      "title": "Explosion at Jewish School in Amsterdam - 2nd Antisemitic Attack in 2 Days",
+      "title": "Explosion at Jewish School in Amsterdam Is 2nd Antisemitic Attack in 2 Days",
       "url": "https://www.nytimes.com/2026/03/14/world/europe/amsterdam-rotterdam-antisemitic-attacks.html",
       "description": "Explosive devices were set off at a Jewish school in Amsterdam and a synagogue in Rotterdam within two days. Dutch officials denounced the attacks as antisemitic.",
+      "pubDate": "2026-05-26T07:30:00Z",
       "source": "NYT",
-      "category": "אנטישמיות אירופה",
-      "relevance_score": 98,
-      "pubDate": "2026-05-26T09:45:00Z",
-      "media_type": "text",
-      "title_hebrew": "פיצוץ בבית הספר היהודי באמסטרדם - מתקפה אנטישמית שנייה תוך יומיים",
-      "description_hebrew": "מטעני חבלה הופעלו בבית ספר יהודי באמסטרדם ובבית כנסת ברוטרדם בתוך יומיים. פקידים הולנדים גינו את ההתקפות כאנטישמיות."
-    },
-    {
-      "title": "Counterterror police probe arson attack at former synagogue in London",
-      "url": "https://apnews.com/article/synagogue-arson-london-antisemitism-iran-jewish-stabbing-037691f7b6decc80b4258daf7d61cc9d",
-      "description": "Counterterror police are investigating an arson attack at a former London synagogue as PM Keir Starmer addresses a wave of antisemitic attacks causing fear in the Jewish community.",
-      "source": "AP News",
-      "category": "אנטישמיות אירופה",
+      "category": "אנטישמיות באירופה",
       "relevance_score": 96,
-      "pubDate": "2026-05-26T09:30:00Z",
-      "media_type": "text",
-      "title_hebrew": "משטרת המלחמה בטרור חוקרת מתקפת הצתה בבית כנסת לשעבר בלונדון",
-      "description_hebrew": "משטרת המלחמה בטרור חוקרת מתקפת הצתה בבית כנסת לשעבר בלונדון, בעוד רה\"מ קיר סטארמר מתייחס לגל מתקפות אנטישמיות שגורם לפחד בקהילה היהודית."
+      "media_type": "text"
     },
     {
-      "title": "Attacks on synagogues and Jewish shops in UK, Europe and US",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/20/attack-uk-us-europe-netanyahu-jews-violence-antisemitism",
-      "description": "Attacks on synagogues and Jewish shops in the UK, Europe and the US don't hurt Netanyahu. They just hurt ordinary Jews.",
-      "source": "The Guardian",
-      "category": "אנטישמיות אירופה",
+      "title": "Counterterror police probe arson attack at former synagogue as Britain struggles with wave of antisemitism",
+      "url": "https://apnews.com/article/synagogue-arson-london-antisemitism-iran-jewish-stabbing-037691f7b6decc80b4258daf7d61cc9d",
+      "description": "Counterterror police are investigating an arson attack at a former London synagogue as Prime Minister Keir Starmer addresses a wave of antisemitic attacks causing fear in the Jewish community.",
+      "pubDate": "2026-05-26T07:00:00Z",
+      "source": "AP News",
+      "category": "אנטישמיות באירופה",
       "relevance_score": 94,
-      "pubDate": "2026-05-26T09:15:00Z",
-      "media_type": "text",
-      "title_hebrew": "מתקפות על בתי כנסת וחנויות יהודיות בבריטניה, אירופה ובארה\"ב",
-      "description_hebrew": "מתקפות על בתי כנסת וחנויות יהודיות בבריטניה, באירופה ובארה\"ב לא פוגעות בנתניהו. הן פוגעות רק ביהודים פשוטים."
+      "media_type": "text"
     },
     {
-      "title": "Belgium deploys military to protect Jewish sites after synagogue attack",
+      "title": "Amsterdam Jewish school struck by explosion in wave of antisemitic attacks",
+      "url": "https://www.cnn.com/2026/03/14/europe/amsterdam-jewish-school-explosion-netherlands-hnk-intl",
+      "description": "An explosion struck overnight at a Jewish school in Amsterdam in what the city's mayor called a targeted attack against the Jewish community.",
+      "pubDate": "2026-05-26T06:30:00Z",
+      "source": "CNN",
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 93,
+      "media_type": "text"
+    },
+    {
+      "title": "Attacks on synagogues and Jewish shops in the UK, Europe and the US don't hurt Netanyahu. They just hurt ordinary Jews",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/20/attack-uk-us-europe-netanyahu-jews-violence-antisemitism",
+      "description": "Attacks on synagogues and Jewish shops across the UK, Europe and US are rising, hurting ordinary Jewish communities.",
+      "pubDate": "2026-05-26T06:00:00Z",
+      "source": "The Guardian",
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 91,
+      "media_type": "text"
+    },
+    {
+      "title": "Belgium to deploy soldiers to help protect Jewish sites as Iran war fuels antisemitism",
+      "url": "https://www.cbsnews.com/news/europe-antisemitism-iran-war-belgium-italy-deploy-soldiers-jewish-sites/",
+      "description": "Against a backdrop of rising antisemitism, the attack at the synagogue in Liège served as a stark reminder that the threat facing Belgium's Jewish community is very real.",
+      "pubDate": "2026-05-26T05:30:00Z",
+      "source": "CBS News",
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 92,
+      "media_type": "text"
+    },
+    {
+      "title": "Rotterdam Synagogue Targeted in Arson as Attacks on Jews Rise Globally",
+      "url": "https://www.haaretz.com/world-news/europe/2026-03-13/ty-article/.premium/rotterdam-synagogue-targeted-in-arson-as-attacks-on-jews-rise-globally/0000019c-e79d-d27a-abbf-f79f7d9c0000",
+      "description": "The Rotterdam attack comes amid rising global threats to Jewish communities, with recent incidents including a synagogue explosion in Belgium, shootings in Michigan and Toronto, and a car ramming at a New York synagogue.",
+      "pubDate": "2026-05-26T05:00:00Z",
+      "source": "Haaretz",
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 93,
+      "media_type": "text"
+    },
+    {
+      "title": "Belgium deploys military to protect Jewish sites after Iran-linked group claims Europe attacks",
       "url": "https://www.foxnews.com/world/belgium-deploys-military-guard-jewish-sites-after-iran-linked-group-claims-europe-attacks",
       "description": "Belgium increases security for Jewish community after antisemitic attack on Liège synagogue. Prime minister announces military deployment following explosion.",
+      "pubDate": "2026-05-26T04:30:00Z",
       "source": "Fox News",
-      "category": "אנטישמיות אירופה",
-      "relevance_score": 92,
-      "pubDate": "2026-05-26T09:00:00Z",
-      "media_type": "text",
-      "title_hebrew": "בלגיה פרשה צבא להגנת אתרים יהודיים אחרי מתקפה על בית כנסת בלייז'",
-      "description_hebrew": "בלגיה הגבירה אבטחה לקהילה היהודית אחרי מתקפה אנטישמית על בית כנסת בלייז'. ראש הממשלה הודיע על פריסת צבא בעקבות הפיצוץ."
+      "category": "אנטישמיות באירופה",
+      "relevance_score": 91,
+      "media_type": "text"
     },
     {
-      "title": "Israel-Gaza war - Board of Peace focus on Hamas risks return to war",
+      "title": "Board of Peace focus on Hamas risks return to war in Gaza, critics say",
       "url": "https://www.theguardian.com/world/israel-hamas-war",
-      "description": "Board of Peace focus on Hamas risks return to war in Gaza, critics say.",
+      "description": "Focus on Hamas risks return to war in Gaza, say critics. May 23, 2026.",
+      "pubDate": "2026-05-26T04:00:00Z",
       "source": "The Guardian",
-      "category": "פרו-ישראל / מזרח תיכון",
-      "relevance_score": 90,
-      "pubDate": "2026-05-26T08:30:00Z",
-      "media_type": "text",
-      "title_hebrew": "מלחמת ישראל-עזה - המוקד על חמאס מסכן חזרה למלחמה",
-      "description_hebrew": "המוקד של מועצת השלום בחמאס מסכן חזרה למלחמה בעזה, לטענת מבקרים."
-    },
-    {
-      "title": "Israel and Hamas at War - Latest Updates",
-      "url": "https://www.reuters.com/world/israel-hamas/",
-      "description": "Follow the latest on the war between Israel and Palestinian Islamist group Hamas. Get live updates, reports, analysis and more.",
-      "source": "Reuters",
-      "category": "פרו-ישראל / מזרח תיכון",
+      "category": "מזרח תיכון",
       "relevance_score": 88,
-      "pubDate": "2026-05-26T08:15:00Z",
-      "media_type": "text",
-      "title_hebrew": "ישראל וחמאס במלחמה - עדכונים אחרונים",
-      "description_hebrew": "עקבו אחרי העדכונים האחרונים במלחמה בין ישראל לחמאס הפלסטיני. קבלו עדכונים חיים, דיווחים, ניתוחים ועוד."
+      "media_type": "text"
     },
     {
-      "title": "Israel-Gaza War - The Washington Post",
-      "url": "https://www.washingtonpost.com/israel-hamas-war/",
-      "description": "The latest news on the war between Israel and the militant group Hamas, including reporting from the Middle East and analysis of the impact of the escalating Israel-Gaza conflict globally and in...",
-      "source": "Washington Post",
-      "category": "פרו-ישראל / מזרח תיכון",
+      "title": "Gaza marks 6 months of a ceasefire that may offer lessons for Iran and Lebanon",
+      "url": "https://www.independent.co.uk/news/world/middle-east/gaza-ceasefire-hamas-israel-iran-war-us-b2955587.html",
+      "description": "Friday marks six months since Gaza's ceasefire deal took effect, a milestone largely lost in the confusion over the new and even more fragile ceasefire in the Iran war.",
+      "pubDate": "2026-05-26T03:30:00Z",
+      "source": "The Independent",
+      "category": "מזרח תיכון",
+      "relevance_score": 89,
+      "media_type": "text"
+    },
+    {
+      "title": "Gaza risks becoming permanently divided, top official warns",
+      "url": "https://www.cnn.com/2026/05/14/middleeast/gaza-israel-ceasefire-permanent-division-intl",
+      "description": "A prolonged stalemate in Gaza risks cementing the territory's permanent division, a top international official overseeing the ceasefire has warned, as Israel deepens its control over the enclave.",
+      "pubDate": "2026-05-26T03:00:00Z",
+      "source": "CNN",
+      "category": "מזרח תיכון",
+      "relevance_score": 90,
+      "media_type": "text"
+    },
+    {
+      "title": "Gaza ceasefire 'increasingly fragile' as Israeli strikes and armed activities by Hamas continue",
+      "url": "https://dppa.un.org/en/news/gaza-ceasefire-increasingly-fragile-as-israeli-strikes-and-armed-activities-by-hamas-and",
+      "description": "Since the ceasefire began, approximately 800 Palestinians, including more than 200 children, and seven humanitarian personnel, have been killed as a result of Israeli airstrikes. The IDF states its strikes have targeted Hamas militants.",
+      "pubDate": "2026-05-26T02:30:00Z",
+      "source": "UN DPPA",
+      "category": "מזרח תיכון",
+      "relevance_score": 87,
+      "media_type": "text"
+    },
+    {
+      "title": "Israel-Hamas war | latest news and updates - The Times",
+      "url": "https://www.thetimes.com/world/israel-hamas-war",
+      "description": "Follow the latest news on the Israel-Hamas war, with expert analysis and on-the-ground reporting from correspondents in the Middle East.",
+      "pubDate": "2026-05-26T02:00:00Z",
+      "source": "The Times",
+      "category": "מזרח תיכון",
+      "relevance_score": 85,
+      "media_type": "text"
+    },
+    {
+      "title": "Israel and Hamas at War | Top Headlines",
+      "url": "https://www.reuters.com/world/israel-hamas/",
+      "description": "Follow the latest on the war between Israel and Palestinian Islamist group Hamas. Live updates, reports, analysis.",
+      "pubDate": "2026-05-26T01:30:00Z",
+      "source": "Reuters",
+      "category": "מזרח תיכון",
       "relevance_score": 86,
-      "pubDate": "2026-05-26T08:00:00Z",
-      "media_type": "text",
-      "title_hebrew": "מלחמת ישראל-עזה - The Washington Post",
-      "description_hebrew": "החדשות האחרונות על המלחמה בין ישראל לחמאס, כולל דיווחים מהמזרח התיכון וניתוח של ההשפעה של הסלמה בעימות ישראל-עזה בעולם וב..."
-    },
-    {
-      "title": "Israel and Hamas agree to Gaza ceasefire",
-      "url": "https://www.npr.org/2025/10/08/g-s1-92558/gaza-ceasefire-israel-hamas",
-      "description": "Israel's cabinet has approved the first stage of a U.S.-brokered ceasefire deal with Hamas — a move aimed at ending the two-year war in Gaza and freeing hostages on both sides.",
-      "source": "NPR",
-      "category": "פרו-ישראל / מזרח תיכון",
-      "relevance_score": 84,
-      "pubDate": "2026-05-26T07:45:00Z",
-      "media_type": "text",
-      "title_hebrew": "ישראל וחמאס הסכימו על הפסקת אש בעזה",
-      "description_hebrew": "קבינט ישראל אישר את השלב הראשון של הסכם הפסקת האש שתווך על ידי ארה\"ב עם חמאס, צעד שמטרתו לסיים את המלחמה הבת שנתית בעזה ולשחרר בני ערובה משני הצדדים."
-    },
-    {
-      "title": "How many times has Israel violated the Gaza ceasefire?",
-      "url": "https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers",
-      "description": "Since the declaration of a ceasefire in the Gaza Strip on October 10, 2025, Israel has violated the agreement with near-daily attacks, killing hundreds of people.",
-      "source": "Al Jazeera",
-      "category": "פרו-ישראל / מזרח תיכון",
-      "relevance_score": 82,
-      "pubDate": "2026-05-26T07:30:00Z",
-      "media_type": "text",
-      "title_hebrew": "כמה פעמים ישראל הפרה את הפסקת האש בעזה?",
-      "description_hebrew": "מכריזי הפסקת האש ברצועת עזה ב-10 באוקטובר 2025, ישראל הפרה את ההסכם עם התקפות כמעט יומיומיות, והרגה מאות אנשים."
-    },
-    {
-      "title": "New Iran-linked terror org targets European Jewish institutions",
-      "url": "https://www.timesofisrael.com/new-iran-linked-terror-org-targets-european-jewish-institutions-diaspora-ministry-warns/",
-      "description": "The message must be clear - Jewish communities are not a legitimate target for threats, and the international community must act resolutely against any entity that attempts to export...",
-      "source": "Times of Israel",
-      "category": "איום איסלאמי / איראן באירופה",
-      "relevance_score": 80,
-      "pubDate": "2026-05-26T07:15:00Z",
-      "media_type": "text",
-      "title_hebrew": "ארגון טרור חדש מקושר לאיראן מכוון מוסדות יהודיים באירופה",
-      "description_hebrew": "המסר חייב להיות ברור - קהילות יהודיות אינן מטרה לגיטימית לאיומים, והקהילה הבינלאומית חייבת לפעול בנחישות נגד כל ישות שמנסה לייצא..."
-    },
-    {
-      "title": "Pro-Iran Terrorist Attacks Against Jewish Communities - ADL",
-      "url": "https://www.adl.org/resources/article/pro-iran-terrorist-attacks-against-jewish-communities",
-      "description": "Azerbaijani authorities foiled terrorist acts which they said were organized by Iran's Islamic Revolutionary Guard Corp. The plots targeted Jewish community leaders, a synagogue and the Israeli embassy in Baku.",
-      "source": "ADL",
-      "category": "איום איסלאמי / איראן באירופה",
-      "relevance_score": 78,
-      "pubDate": "2026-05-26T07:00:00Z",
-      "media_type": "text",
-      "title_hebrew": "מתקפות טרור פרו-איראניות נגד קהילות יהודיות - ADL",
-      "description_hebrew": "רשויות אזרבייג'ן סיכלו פעולות טרור שאורגנו על ידי משמרות המהפכה האסלאמית של איראן. המזימות כיוונו למנהיגי קהילה יהודית, בית כנסת ושגרירות ישראל בבאקו."
-    },
-    {
-      "title": "Who is the new terror group claiming responsibility for antisemitic attacks in Europe?",
-      "url": "https://www.jta.org/2026/03/24/global/who-is-the-new-terror-group-claiming-responsibility-for-antisemitic-attacks-in-europe",
-      "description": "Attacks against Jewish sites in the United States, Europe and Canada have escalated since Feb. 28, when the United States and Israel launched their war on Iran.",
-      "source": "JTA",
-      "category": "איום איסלאמי / איראן באירופה",
-      "relevance_score": 76,
-      "pubDate": "2026-05-26T06:45:00Z",
-      "media_type": "text",
-      "title_hebrew": "מי ארגון הטרור החדש שמבצע מתקפות אנטישמיות באירופה?",
-      "description_hebrew": "מתקפות נגד אתרים יהודיים בארה\"ב, אירופה וקנדה הסלימו מאז 28 בפברואר, כשארה\"ב וישראל שיגרו את מלחמתן באיראן."
-    },
-    {
-      "title": "Hybrid Threat Signals: Assessing Possible Iranian Involvement in Recent Attacks in Europe",
-      "url": "https://www.icct.nl/publication/hybrid-threat-signals-assessing-possible-iranian-involvement-recent-attacks-europe",
-      "description": "Since the United States and Israel launched a joint attack against Iran on 28 February, Western security services, including Europol, have warned of an increased terrorist threat, particularly targeting Jewish and Israeli sites, due to the risk of retaliatory attacks in the form of Iranian state-backed terrorism.",
-      "source": "ICCT",
-      "category": "איום איסלאמי / איראן באירופה",
-      "relevance_score": 74,
-      "pubDate": "2026-05-26T06:30:00Z",
-      "media_type": "text",
-      "title_hebrew": "אותות איום היברידיים: הערכת מעורבות איראנית אפשרית במתקפות האחרונות באירופה",
-      "description_hebrew": "מאז שארה\"ב וישראל שיגרו מתקפה משותפת נגד איראן ב-28 בפברואר, שירותי הביטחון המערביים, כולל יורופול, הזהירו מאיום טרור מוגבר, במיוחד כלפי אתרים יהודיים וישראליים, בשל סיכון של מתקפות תגמול בצורת טרור ממומן מדינה איראני."
-    },
-    {
-      "title": "Shadows Over Europe: The Rise of Ashab al-Yamin's Anti-Jewish Terror Spree",
-      "url": "https://rairfoundation.substack.com/p/shadows-over-europe-the-rise-of-ashab",
-      "description": "In the heart of Europe's bustling cities, a shadowy new militant group is unleashing chaos. Ashab al-Yamin al-Islamiyya—translated as The Islamic Movement of the Companions of the Right - burst onto the scene in March 2026, claiming a string of attacks on Jewish institutions. This Shiite Islamic outfit, suspected of ties to Iran's proxy networks, is...",
-      "source": "RAIR Foundation",
-      "category": "איום איסלאמי / איראן באירופה",
-      "relevance_score": 72,
-      "pubDate": "2026-05-26T06:15:00Z",
-      "media_type": "text",
-      "title_hebrew": "צללים מעל אירופה: עליית Ashab al-Yamin וסדרת הטרור האנטישמי שלה",
-      "description_hebrew": "בלב הערים התוססות של אירופה, קבוצה צבאית חדשה ומסתורית מביאה כאוס. Ashab al-Yamin al-Islamiyya - 'התנועה האיסלאמית של חברי הימין' - התפרצה לזירה במרץ 2026, וטענה לסדרת מתקפות על מוסדות יהודיים. ארגון איסלאמי שיעי זה, שחשוד בקשר לרשתות פרוקסי איראניות, הוא..."
+      "media_type": "text"
     }
   ]
 }

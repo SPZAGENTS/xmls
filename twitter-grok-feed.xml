@@ -1,8 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Twitter Grok Feed - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 18:01:30 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+    <title>SPZ Twitter Feed - Field Content (Fallback)</title>
+    <description>תוכן מהשטח - Grok API לא זמין, תוצאות חיפוש אינטרנט כתחליף</description>
+    <link>https://github.com/SPZAGENTS/xmls</link>
+    <lastBuildDate>2026-05-26T15:00:00Z</lastBuildDate>
+    <language>he</language>
+    <item>
+      <title>[96] 📝 פיצוץ בבית ספר יהודי באמסטרדם - מתקפה אנטישמית מכוונת</title>
+      <link>https://www.nytimes.com/2026/03/14/world/europe/amsterdam-rotterdam-antisemitic-attacks.html</link>
+      <description>מכשירי נפץ הופעלו בבית ספר יהודי באמסטרדם ובית כנסת ברוטרדם בתוך יומיים. בכירים הולנדיים גינו את המתקפות כאנטישמיות. מקור: NYT</description>
+      <pubDate>2026-05-26T07:30:00Z</pubDate>
+      <source>web-nyt</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[95] 📝 אנטישמיות במהלך מלחמת איראן 2026 - ויקיפדיה</title>
+      <link>https://en.wikipedia.org/wiki/Antisemitism_during_the_2026_Iran_war</link>
+      <description>ב-14 במרץ 2026, בית ספר יהודי באמסטרדם ניזוק מפיצוץ. ראש העיר פמקה האלסמה הגדירה זאת כ&quot;מתקפה מכוונת נגד הקהילה היהודית&quot;. יהודים באמסטרדם מתמודדים יותר ויותר עם אנטישמיות.</description>
+      <pubDate>2026-05-26T08:00:00Z</pubDate>
+      <source>web-wikipedia</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[94] 📝 המשטרה בבריטניה חוקרת הצתה בבית כנסת לשעבר בלונדון</title>
+      <link>https://apnews.com/article/synagogue-arson-london-antisemitism-iran-jewish-stabbing-037691f7b6decc80b4258daf7d61cc9d</link>
+      <description>משטרת הנגד בטרור חוקרת מתקפת הצתה בבית כנסת לשעבר בלונדון. ראש הממשלה קיר סטארמר מתייחס לגל מתקפות אנטישמיות שגורם לחרדה בקהילה היהודית.</description>
+      <pubDate>2026-05-26T07:00:00Z</pubDate>
+      <source>web-apnews</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[93] 📝 פיצוץ בבית ספר יהודי באמסטרדם - גל מתקפות אנטישמיות</title>
+      <link>https://www.cnn.com/2026/03/14/europe/amsterdam-jewish-school-explosion-netherlands-hnk-intl</link>
+      <description>פיצוץ פגע בבית ספר יהודי באמסטרדם במהלך הלילה. ראש העיר כינתה זאת &quot;מתקפה מכוונת נגד הקהילה היהודית&quot;.</description>
+      <pubDate>2026-05-26T06:30:00Z</pubDate>
+      <source>web-cnn</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[93] 📝 בית כנסת ברוטרדם הותקף בהצתה - גל התקפות נגד יהודים ברחבי העולם</title>
+      <link>https://www.haaretz.com/world-news/europe/2026-03-13/ty-article/.premium/rotterdam-synagogue-targeted-in-arson-as-attacks-on-jews-rise-globally/0000019c-e79d-d27a-abbf-f79f7d9c0000</link>
+      <description>מתקפת ההצתה ברוטרדם מגיעה על רקע איומים גלובליים גוברים על קהילות יהודיות, כולל פיצוץ בבית כנסת בבלגיה, יריות במישיגן ובטורונטו, ודריסה בבית כנסת בניו יורק.</description>
+      <pubDate>2026-05-26T05:00:00Z</pubDate>
+      <source>web-haaretz</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[92] 📝 בלגיה פרסה חיילים להגנת אתרים יהודיים לאחר מתקפות הקשורות לאיראן</title>
+      <link>https://www.cbsnews.com/news/europe-antisemitism-iran-war-belgium-italy-deploy-soldiers-jewish-sites/</link>
+      <description>בלגיה מגבירה אבטחה לקהילה היהודית לאחר מתקפה אנטישמית בבית הכנסת בלייז'. ראש הממשלה הודיע על פריסת צבא בעקבות הפיצוץ.</description>
+      <pubDate>2026-05-26T05:30:00Z</pubDate>
+      <source>web-cbsnews</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[91] 📝 מתקפות על בתי כנסת וחנויות יהודיות - אירופה וארה"ב</title>
+      <link>https://www.theguardian.com/commentisfree/2026/mar/20/attack-uk-us-europe-netanyahu-jews-violence-antisemitism</link>
+      <description>מתקפות על בתי כנסת וחנויות יהודיות בבריטניה, אירופה וארה"ב - הן לא פוגעות בנתניהו, הן פוגעות ביהודים פשוטים.</description>
+      <pubDate>2026-05-26T06:00:00Z</pubDate>
+      <source>web-guardian</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[91] 📝 בלגיה פרסה צבא להגנת אתרים יהודיים לאחר שקבוצה הקשורה לאיראן לקחה אחריות</title>
+      <link>https://www.foxnews.com/world/belgium-deploys-military-guard-jewish-sites-after-iran-linked-group-claims-europe-attacks</link>
+      <description>בלגיה מגבירה אבטחה לקהילה היהודית לאחר מתקפה אנטישמית בבית הכנסת בלייז'. ראש הממשלה הודיע על פריסת צבא בעקבות הפיצוץ.</description>
+      <pubDate>2026-05-26T04:30:00Z</pubDate>
+      <source>web-foxnews</source>
+      <category>אנטישמיות באירופה</category>
+    </item>
+    <item>
+      <title>[90] 📝 עזה בסכנה להפוך למחולקת לצמיתות, מזהיר בכיר בינלאומי</title>
+      <link>https://www.cnn.com/2026/05/14/middleeast/gaza-israel-ceasefire-permanent-division-intl</link>
+      <description>קיפאון ממושך בעזה מסכן את חלוקתה לצמיתות, מזהיר בכיר בינלאומי המפקח על הפסקת האש, כאשר ישראל מעמיקה את שליטתה ברצועה.</description>
+      <pubDate>2026-05-26T03:00:00Z</pubDate>
+      <source>web-cnn</source>
+      <category>מזרח תיכון</category>
+    </item>
+    <item>
+      <title>[89] 📝 עזה חוגגת 6 חודשים להפסקת אש - שיעורים לאיראן ולבנון</title>
+      <link>https://www.independent.co.uk/news/world/middle-east/gaza-ceasefire-hamas-israel-iran-war-us-b2955587.html</link>
+      <description>יום שישי מסמן 6 חודשים מאז שנכנסה לתוקפה הפסקת האש בעזה, אבן דרך שנעלמה ברובה בבלבול על הפסקת האש החדשה והשבירה אף יותר במלחמת איראן.</description>
+      <pubDate>2026-05-26T03:30:00Z</pubDate>
+      <source>web-independent</source>
+      <category>מזרח תיכון</category>
+    </item>
+    <item>
+      <title>[88] 📝 דגש על חמאס מסכן את הפסקת האש בעזה, טוענים מבקרים</title>
+      <link>https://www.theguardian.com/world/israel-hamas-war</link>
+      <description>דגש על חמאס מסכן את חזרת המלחמה בעזה, טוענים מבקרים. 23 במאי 2026.</description>
+      <pubDate>2026-05-26T04:00:00Z</pubDate>
+      <source>web-guardian</source>
+      <category>מזרח תיכון</category>
+    </item>
+    <item>
+      <title>[87] 📝 הפסקת האש בעזה &quot;שבירה יותר ויותר&quot; - מכות ישראליות ופעילות חמאס נמשכת</title>
+      <link>https://dppa.un.org/en/news/gaza-ceasefire-increasingly-fragile-as-israeli-strikes-and-armed-activities-by-hamas-and</link>
+      <description>מאז תחילת הפסקת האש, כ-800 פלסטינים כולל יותר מ-200 ילדים נהרגו מתקיפות ישראליות. צה&quot;ל טוען שהתקיפות מכוונות ללוחמי חמאס.</description>
+      <pubDate>2026-05-26T02:30:00Z</pubDate>
+      <source>web-un</source>
+      <category>מזרח תיכון</category>
+    </item>
+    <item>
+      <title>[86] 📝 ישראל-חמאס: עדכונים וכותרות אחרונות - רויטרס</title>
+      <link>https://www.reuters.com/world/israel-hamas/</link>
+      <description>עדכונים שוטפים על המלחמה בין ישראל לחמאס הפלסטיני. דיווחים, ניתוח ועדכונים חיים.</description>
+      <pubDate>2026-05-26T01:30:00Z</pubDate>
+      <source>web-reuters</source>
+      <category>מזרח תיכון</category>
+    </item>
+    <item>
+      <title>[85] 📝 מלחמת ישראל-חמאס - חדשות אחרונות - The Times</title>
+      <link>https://www.thetimes.com/world/israel-hamas-war</link>
+      <description>עקבו אחר החדשות האחרונות במלחמת ישראל-חמאס, עם ניתוח מומחים ודיווח מהשטח מהכתבים במזרח התיכון.</description>
+      <pubDate>2026-05-26T02:00:00Z</pubDate>
+      <source>web-thetimes</source>
+      <category>מזרח תיכון</category>
+    </item>
   </channel>
 </rss>
