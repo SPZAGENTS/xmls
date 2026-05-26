@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 23:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:06:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>U.S. strikes targets in Iran, citing threats posed to American troops</title>
-      <link>https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/</link>
-      <description>The attacks in southern Iran prompted Tehran to warn that it reserves the right to retaliate, complicating negotiations to end the war.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-26T07:51:12+00:00</pubDate>
-      <importance>32</importance>
-    </item>
     <item>
       <title>As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords</title>
       <link>https://www.washingtonpost.com/world/2026/05/25/trump-seeks-widen-abraham-accords-new-iran-deal-faces-sharp-criticism/</link>
@@ -27,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T16:06:26+00:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Iran threatens retaliation after U.S. strikes in southern Iran</title>
+      <link>https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/</link>
+      <description>The attacks prompted Tehran to warn that it would “leave no act of hostility unanswered,” complicating negotiations to end the war.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-26T11:58:30+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>

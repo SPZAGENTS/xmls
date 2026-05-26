@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 23:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:06:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations</title>
-      <link>https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health</link>
-      <description>The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-26T07:20:21-04:00</pubDate>
-      <importance>27</importance>
-    </item>
     <item>
       <title>Morning news brief</title>
       <link>https://www.npr.org/2026/05/26/nx-s1-5830090/morning-news-brief</link>
@@ -27,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-26T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations</title>
+      <link>https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health</link>
+      <description>The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-26T07:20:21-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>

@@ -2,24 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 23:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:06:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes</title>
-      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
-      <description>The threat came hours after American military forces renewed attacks in southern Iran, even as fragile diplomacy efforts to end the war continued.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-promo1/26mideast-header1-fghb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T11:25:03+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Evolving Warfare Connects the Conflicts in Ukraine and Iran</title>
-      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
-      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T08:26:08+00:00</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>Israel Steps Up Lebanon Offensive as U.S. Pushes for Iran Peace Deal</title>
       <link>https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html</link>
@@ -29,12 +13,12 @@
       <importance>58</importance>
     </item>
     <item>
-      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
-      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
-      <importance>18</importance>
+      <title>Iran War Live Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said</title>
+      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
+      <description>Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-update-fcqb/26mideast-update-fcqb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T19:34:12+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Trump’s Iran Proposal Has Echoes of Half-Finished Gaza Deal</title>
@@ -45,12 +29,28 @@
       <importance>38</importance>
     </item>
     <item>
+      <title>The Wars in Ukraine and Iran Are More Alike Than You May Think</title>
+      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
+      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-26T14:31:02+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
       <title>Iran Begins Lifting Monthslong Internet Blackout, Officials Say</title>
       <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html</link>
       <description>Organizations that track online traffic confirmed an uptick in activity on Tuesday, as Iranians reconnected to the global internet after a government-imposed shutdown.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-internet-lvjk/26mideast-internet-lvjk-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-26T19:19:16+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
+      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
+      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
