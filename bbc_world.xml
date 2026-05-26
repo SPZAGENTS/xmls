@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 22:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:01:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Netanyahu says Israel will intensify strikes against Hezbollah</title>
@@ -10,6 +10,14 @@
       <description>The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes. </description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
       <pubDate>2026-05-26T10:48:55</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Eleven killed in Lebanon village as Israel intensifies strikes</title>
+      <link>https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to &quot;crush&quot; Hezbollah.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1caf/live/cf3a1cc0-58f5-11f1-afe0-d7f70885c2dd.jpg</imageUrl>
+      <pubDate>2026-05-26T19:40:35</pubDate>
       <importance>43</importance>
     </item>
     <item>
@@ -21,20 +29,28 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Iran condemns US strikes as 'gross violation' of ceasefire</title>
-      <link>https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1545/live/65ce5bc0-5904-11f1-b682-cf91850925ea.jpg</imageUrl>
-      <pubDate>2026-05-26T15:15:29</pubDate>
-      <importance>38</importance>
+      <title>Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg</imageUrl>
+      <pubDate>2026-05-26T03:06:06</pubDate>
+      <importance>18</importance>
     </item>
     <item>
-      <title>Internet starts coming back in Iran after months-long blackout</title>
-      <link>https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Internet access has been cut off in the country since the start of the war in late February.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff96/live/71eb3020-fc4f-11f0-9aca-0d1869acdee8.jpg</imageUrl>
-      <pubDate>2026-05-26T16:38:05</pubDate>
-      <importance>28</importance>
+      <title>Why temperature records are being not only broken but smashed</title>
+      <link>https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg</imageUrl>
+      <pubDate>2026-05-26T17:57:28</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Rights group accuses UAE of being transit point for mercenaries on way to Sudan</title>
+      <link>https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The United Arab Emirates has denied any involvement in the civil war and says it investigates alleged links.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c384/live/cdcc67c0-584c-11f1-b6a1-db861d027140.jpg</imageUrl>
+      <pubDate>2026-05-26T14:37:24</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
