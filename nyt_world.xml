@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 11:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:24:08 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-us-strikes-tgbq/25mideast-us-strikes-tgbq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-26T02:04:10+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</link>
+      <description>After the prime minister made the announcement, the Israeli military said it had struck more than 70 Hezbollah sites in the past day.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T21:52:31+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
@@ -45,11 +53,35 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Evolving Warfare Connects the Conflicts in Ukraine and Iran</title>
+      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
+      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T08:08:38+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
       <title>Do U.S. Automakers Have a Future in Canada?</title>
       <link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link>
       <description>Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T17:07:10+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal</title>
+      <link>https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</link>
+      <description>President Trump had sought to force Tehran to accept American demands for a peace deal with a mixture of threats and military operations.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T15:05:11+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>UK Heat Wave Could Break May Temperature Record</title>
+      <link>https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html</link>
+      <description>Forecasters warned that temperatures could climb to the highest level ever recorded in the month of May, reaching 35 degrees Celsius (95 degrees Fahrenheit) in some areas of England.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25wea-britainheatwave-kqfc/25wea-britainheatwave-kqfc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T17:50:24+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
