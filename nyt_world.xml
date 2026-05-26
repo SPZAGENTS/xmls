@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 13:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>As Delegations Gather in Qatar For Talks, U.S. Strikes Iran’s Gulf Coast</title>
@@ -13,28 +13,36 @@
       <importance>48</importance>
     </item>
     <item>
+      <title>Evolving Warfare Connects the Conflicts in Ukraine and Iran</title>
+      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
+      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T08:26:08+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes</title>
+      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
+      <description>The threat came hours after American military forces renewed attacks in southern Iran, even as fragile diplomacy efforts to end the war continued.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-promo1/26mideast-header1-fghb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T10:48:24+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
+      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
+      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
       <title>Israel’s President, Isaac Herzog, Denounces Israeli Violence</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
       <description>In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-herzog-vwfm/24int-israel-herzog-vwfm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T20:50:22+00:00</pubDate>
       <importance>33</importance>
-    </item>
-    <item>
-      <title>לוחמה מתפתחת מחברת את הקונפליקטים באוקראינה ובאיראן</title>
-      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
-      <description>היבטים כמו טכנולוגיית מזל&quot;טים ודיפלומטיה מראים כיצד המלחמות מצטלבות בשדה הקרב ובמערכים גלובליים, מהווים מודל לסכסוכים עתידיים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T08:26:08+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>האפיפיור ליאו מזהיר מפני סיכונים מ-A.Iבאנציקליקה של 42,300 מילים</title>
-      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>המסמך מסמן גיחה עוצמתית של מנהיג הכנסייה הקתולית לוויכוח על שימוש לרעה או שימוש יתר בבינה מלאכותית.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
