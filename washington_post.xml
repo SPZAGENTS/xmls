@@ -2,20 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 20:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:03:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>U.S. strikes targets in Iran, citing threats posed to American troops</title>
-      <link>https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/</link>
-      <description>The attacks in southern Iran prompted Tehran to warn that it reserves the right to retaliate, complicating negotiations to end the war.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-26T07:51:12+00:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords</title>
+      <title>מכיוון שההסכם החדש עם איראן עומד בפני ביקורת נוקבת, טראמפ מבקש להרחיב את הסכמי אברהם</title>
       <link>https://www.washingtonpost.com/world/2026/05/25/trump-seeks-widen-abraham-accords-new-iran-deal-faces-sharp-criticism/</link>
-      <description>GOP lawmakers warned against concessions to Iran in any deal to end the war, while doubts greeted Trump’s push to expand pacts between Israel and Muslim-majority nations.</description>
+      <description>מחוקקים ב-GOP הזהירו מפני ויתורים לאיראן בכל עסקה לסיום המלחמה, בעוד ספקות בירכו את הדחיפה של טראמפ להרחיב את ההסכמים בין ישראל למדינות בעלות רוב מוסלמי.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-25T19:07:57+00:00</pubDate>
       <importance>37</importance>
@@ -27,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T16:06:26+00:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>איראן מאיימת בתגמול לאחר תקיפות של ארה&quot;ב בדרום איראן</title>
+      <link>https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/</link>
+      <description>ההתקפות גרמו לטהרן להזהיר כי היא &quot;לא תשאיר שום פעולת איבה ללא מענה&quot;, מה שסיבך את המשא ומתן לסיום המלחמה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-26T11:58:30+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
