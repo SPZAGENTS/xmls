@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 16:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:38:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Netanyahu says Israel will intensify strikes against Hezbollah</title>
@@ -13,12 +13,36 @@
       <importance>43</importance>
     </item>
     <item>
+      <title>Eleven killed in Lebanon village as Israel intensifies strikes</title>
+      <link>https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to &quot;crush&quot; Hezbollah.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1caf/live/cf3a1cc0-58f5-11f1-afe0-d7f70885c2dd.jpg</imageUrl>
+      <pubDate>2026-05-26T12:44:57</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>More than 1.5m foreign pilgrims begin Hajj despite Iran war fears</title>
       <link>https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/495b/live/f1da04c0-586e-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-25T20:11:59</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>US launches new strikes on Iran, targeting missile sites and boats</title>
+      <link>https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US Central Command says the strikes were taken in &quot;self-defence&quot;, while Iran reports it downed a US drone that entered its airspace.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg</imageUrl>
+      <pubDate>2026-05-26T09:44:58</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg</imageUrl>
+      <pubDate>2026-05-26T03:06:06</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>

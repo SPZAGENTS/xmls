@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 16:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:38:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes</title>
@@ -69,6 +69,14 @@ Israel intensified air strikes across southern and eastern Lebanon on Monday aft
       <importance>33</importance>
     </item>
     <item>
+      <title>Israel Steps Up Strikes in Lebanon as U.S. Pushes for Iran Peace Deal</title>
+      <link>https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html</link>
+      <description>Hezbollah, the Iran-backed militant group, has also kept up rocket and drone attacks on Israeli troops, as the escalations threaten to complicate diplomatic efforts.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-lebanon-gqmf/26mideast-lebanon-gqmf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T13:29:25+00:00</pubDate>
+      <importance>58</importance>
+    </item>
+    <item>
       <title>U.S. strikes targets in Iran, citing threats posed to American troops</title>
       <link>https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/</link>
       <description>The attacks in southern Iran prompted Tehran to warn that it reserves the right to retaliate, complicating negotiations to end the war.</description>
@@ -83,16 +91,6 @@ Israel intensified air strikes across southern and eastern Lebanon on Monday aft
       <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
       <pubDate>2026-05-26T02:06:46-04:00</pubDate>
       <importance>32</importance>
-    </item>
-    <item>
-      <title>Israel strikes Lebanese village and calls up more troops in the region</title>
-      <link>https://www.france24.com/en/israel-strikes-lebanese-village-and-calls-up-more-troops-in-the-region</link>
-      <description>
-The Israeli army has issued a fresh set of evacuation orders for 10 villages in Southern Lebanon as it prepares for a new round of military strikes. Israel and the militant group Hezbollah have been trading deadly fire despite a ceasefire. In fact, two far-right Israeli ministers are calling for more severe military action in Lebanon, and Prime Minister Benjamin Netanyahu has ordered an escalation of the offensive against Hezbollah.
-</description>
-      <imageUrl>https://s.france24.com/media/display/17fd9c28-58e4-11f1-96c9-005056bfb2b6/w:1024/p:16x9/EN-20260526-103413-103550-CS.jpg</imageUrl>
-      <pubDate>2026-05-26T10:02:13</pubDate>
-      <importance>53</importance>
     </item>
   </channel>
 </rss>
