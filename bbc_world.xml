@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 03:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 04:01:36 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Netanyahu says Israel will intensify strikes against Hezbollah</title>
+      <link>https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-25T20:40:15</pubDate>
+      <importance>43</importance>
+    </item>
     <item>
       <title>Oil prices slide on hopes of US-Iran peace deal</title>
       <link>https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -51,6 +59,22 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a68/live/f16f5390-5793-11f1-85d6-97cd1565aacc.jpg</imageUrl>
       <pubDate>2026-05-24T17:46:14</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>US military says it has launched new strikes on southern Iran</title>
+      <link>https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The strikes on Iranian missile launch sites and boats were taken in &quot;self-defence&quot;, US Central Command says.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg</imageUrl>
+      <pubDate>2026-05-26T00:33:53</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Deal with US not imminent, Iran says</title>
+      <link>https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US secretary of state earlier said that an agreement could possibly come on Monday.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0c1/live/741c5a20-5827-11f1-8df1-478734c7d1a9.jpg</imageUrl>
+      <pubDate>2026-05-25T22:05:29</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
