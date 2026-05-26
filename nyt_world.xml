@@ -2,31 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 05:07:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:19:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Live Updates: As Talks to End War Resume in Qatar, U.S. Conducts Strikes on Iran’s Gulf Coast</title>
+      <title>עדכוני מלחמת איראן: כששיחות לסיום המלחמה מתחדשות בקטאר, ארה&quot;ב מבצעת תקיפות על חופי איראן</title>
       <link>https://www.nytimes.com/live/2026/05/25/world/iran-war-trump</link>
-      <description>Iranian officials went to Doha on Monday for the negotiations, hours before the U.S. military announced the strikes it said were in “self defense” to protect troops. Israel’s leader said his country plans to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.</description>
+      <description>בכירים איראנים הגיעו לדוחה ביום שני למו&quot;מ, שעות לפני שהצבא האמריקאי הודיע על התקיפות שנועדו להגן על חיילים.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-promo-830p-wkvp/25mideast-promo-830p-wkvp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T00:43:19+00:00</pubDate>
+      <pubDate>2026-05-26T02:02:55+00:00</pubDate>
       <importance>68</importance>
-    </item>
-    <item>
-      <title>Kyiv, Ukraine, Hit in Russian Missile Attack</title>
-      <link>https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html</link>
-      <description>Buildings rattled in the Ukrainian capital for hours early Sunday. Russia launched an Oreshnik intermediate-range ballistic missile for only the third time in the war.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-ukraine-sub-gwbk/24int-ukraine-sub-gwbk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T02:37:50+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal</title>
-      <link>https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</link>
-      <description>President Trump had sought to force Tehran to accept American demands for a peace deal with a mixture of threats and military operations.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T15:05:11+00:00</pubDate>
-      <importance>28</importance>
     </item>
     <item>
       <title>A deal with the U.S. would be preliminary and focused on ending the war, an Iranian official says.</title>
@@ -37,43 +21,59 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon</title>
+      <title>נתניהו אומר שישראל מתכננת להחריף את ההתקפות על חיזבאללה בלבנון</title>
       <link>https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</link>
-      <description>After the prime minister made the announcement, the Israeli military said it had struck more than 70 Hezbollah sites in the past day.</description>
+      <description>לאחר ההודעה של ראש הממשלה, צה&quot;ל דיווח כי תקף יותר מ-70 אתרי חיזבאללה ביממה האחרונה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25mideast-update-vjpt/25mideast-update-vjpt-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-25T21:52:31+00:00</pubDate>
       <importance>43</importance>
     </item>
     <item>
-      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
-      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>UK Heat Wave Could Break May Temperature Record</title>
-      <link>https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html</link>
-      <description>Forecasters warned that temperatures could climb to the highest level ever recorded in the month of May, reaching 35 degrees Celsius (95 degrees Fahrenheit) in some areas of England.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25wea-britainheatwave-kqfc/25wea-britainheatwave-kqfc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-25T17:50:24+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Israel’s President, Isaac Herzog, Denounces Israeli Violence</title>
+      <title>נשיא ישראל, יצחק הרצוג, מגנה את האלימות הישראלית</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
-      <description>In a speech, Isaac Herzog, whose role is largely ceremonial, delivered a grave indictment of settler attacks in the West Bank and abuse of prisoners.</description>
+      <description>בנאום, יצחק הרצוג, שתפקידו בעיקר סמלי, העביר האשמה חמורה על התקפות מתנחלים בשטחים ועל התעללות בעצורים.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-herzog-vwfm/24int-israel-herzog-vwfm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-24T20:50:22+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>Do U.S. Automakers Have a Future in Canada?</title>
+      <title>קייב, אוקראינה, הותקפה בהתקפת טילים רוסית</title>
+      <link>https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html</link>
+      <description>בניינים רעדו בבירה האוקראינית במשך שעות ביום ראשון. רוסיה שיגרה טיל בליסטי בינוני בפעם השלישית בלבד במלחמה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/24/multimedia/24int-ukraine-sub-gwbk/24int-ukraine-sub-gwbk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T02:37:50+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>הלחץ של טראמפ השפיע מעט על תנאי איראן להסכם שלום</title>
+      <link>https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</link>
+      <description>הנשיא טראמפ ניסה לכפות על טהראן לקבל את הדרישות האמריקאיות להסכם שלום באמצעות איום ופעולות צבאיות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/23/multimedia/trump-pressure-kjmp/trump-pressure-kjmp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T15:05:11+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>האפיפיור לאו מזהיר על הסיכונים מה-A.I. במכתב אנציקליקלי של 42,300 מילים</title>
+      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
+      <description>המסמך מסמן חדירה משמעותית של מנהיג הכנסייה הקתולית לריב על השימוש לרעה או היתר בשימוש בבינה מלאכותית.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T15:14:03+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>האם ליצרני הרכב האמריקאיים יש עתיד בקנדה?</title>
       <link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link>
-      <description>Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.</description>
+      <description>יצרני הרכב בדטרויט חידשו את הסחר הפתוח בין קנדה לארצות הברית, מה שהועיל לשתי המדינות. מלחמת הסחר של טראמפ משאירה את עתידם במדינה בסימן שאלה.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-24T17:07:10+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>גל החום בבריטניה עשוי לשבור את שיא הטמפרטורות במאי</title>
+      <link>https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html</link>
+      <description>תחזאים הזהירו שהטמפרטורות עשויות לעלות לרמה הגבוהה ביותר שנמדדה אי פעם בחודש מאי, ולהגיע ל-35 מעלות צלזיוס (95 מעלות פרנהייט) בחלק מאזורי אנגליה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25wea-britainheatwave-kqfc/25wea-britainheatwave-kqfc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-25T17:50:24+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
