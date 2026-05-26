@@ -2,18 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 05:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:07:20 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Middle East live: US carries out 'self-defence' strikes on Iran</title>
-      <link>https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran</link>
-      <description>
-US forces have struck missile sites and boats allegedly laying naval mines in southern Iran on Monday, according to United States Central Command. The move threatens to further destabilise a fragile ceasefire as Iranian negotiators arrived in Doha for high-stakes talks aimed at ending the war. Follow our liveblog for all the latest updates.
-</description>
-      <imageUrl>https://s.france24.com/media/display/a45c9266-30ba-11f1-b067-005056bfb2b6/w:1024/p:16x9/000-A6PR9MM.jpg</imageUrl>
-      <pubDate>2026-05-26T01:48:33</pubDate>
-      <importance>73</importance>
-    </item>
     <item>
       <title>Possible Iran-US deal: What we know about the key issues on both sides</title>
       <link>https://www.france24.com/en/middle-east/20260525-possible-iran-us-deal-what-we-know</link>
@@ -101,6 +91,16 @@ Fraser Jackson has more.
       <imageUrl>https://s.france24.com/media/display/691ff1ce-5749-11f1-bdb3-005056a97e36/w:1024/p:16x9/EN-20260524-080310-080516-CS.jpg</imageUrl>
       <pubDate>2026-05-24T09:54:41</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>'Work in progress': Washington seeks diplomatic exit from Iran war</title>
+      <link>https://www.france24.com/en/work-in-progress-washington-seeks-diplomatic-exit-from-iran-war</link>
+      <description>
+Despite signs of progress, uncertainty still surrounds a possible agreement between Washington and Tehran, with both sides signalling caution over the terms of any final deal. US Secretary of State Marco Rubio said on Sunday that negotiations were still a “work in progress”, though his comments suggested growing confidence that a breakthrough could eventually be reached. FRANCE 24's Douglas Herbert has more.
+</description>
+      <imageUrl>https://s.france24.com/media/display/7ecb907e-581a-11f1-aee0-005056a97e36/w:1024/p:16x9/EN-20260525-100134-100739-CS.jpg</imageUrl>
+      <pubDate>2026-05-25T10:11:09</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
