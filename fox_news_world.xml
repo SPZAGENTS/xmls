@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Tue, 26 May 2026 10:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:22:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran signals ‘mass sacrifice’ in 'high stakes' Saddam-era warning amid Trump deal talks</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/iran-president-trump.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-05-25T16:11:19-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Belgium deploys military to protect Jewish sites after synagogue attack</title>
+      <link>https://www.foxnews.com/world/belgium-deploys-military-guard-jewish-sites-after-iran-linked-group-claims-europe-attacks</link>
+      <description>Belgium increases security for Jewish community after antisemitic attack on Liège synagogue. Prime minister announces military deployment following explosion.</description>
+      <imageUrl></imageUrl>
+      <pubDate>Tue, 26 May 2026 10:22:10 GMT</pubDate>
+      <importance>92</importance>
     </item>
     <item>
       <title>Mamdani won't attend Israel Day Parade, breaking decades-long mayoral tradition amid antisemitism surge</title>
@@ -75,14 +83,6 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/philippine-student-clash.jpeg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-05-20T17:38:05-04:00</pubDate>
       <importance>27</importance>
-    </item>
-    <item>
-      <title>Hezbollah grooms children for martyrdom through its scout movement, report claims</title>
-      <link>https://www.foxnews.com/world/hezbollah-grooms-children-martyrdom-through-its-scout-movement-report-claims</link>
-      <description>Experts say Hezbollah recruits and radicalizes youth through its Mahdi Scouts, preparing children to become fighters and carry out jihad missions.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-us-latam-copy.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-19T14:44:10-04:00</pubDate>
-      <importance>22</importance>
     </item>
   </channel>
 </rss>
