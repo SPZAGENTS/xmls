@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 22:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 22:05:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks</title>
@@ -45,14 +45,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html</link>
-      <description>Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-lebanon-fate-2-zblh/27int-lebanon-fate-2-zblh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T18:08:23+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
       <title>The Wars in Ukraine and Iran Are More Alike Than You May Think</title>
       <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
       <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
@@ -83,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-theworld-iceland-01-jcqv-promo/27int-theworld-iceland-01-jcqv-promo-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T04:18:55+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>What Iranian State Media Says Is in Outline of ‘Unofficial’ Deal With U.S.</title>
+      <link>https://www.nytimes.com/2026/05/27/world/middleeast/iran-unofficial-deal-strait.html</link>
+      <description>The White House immediately dismissed the report, which detailed terms for reopening the Strait of Hormuz, as a “complete fabrication.”</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/26/multimedia/26mideast-iran-plan-ktzp/26mideast-iran-plan-ktzp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T17:27:03+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
