@@ -2,48 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 18:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:50:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks</title>
-      <link>https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal</link>
-      <description>Israeli strikes killed at least 31 people in Lebanon on Tuesday, the country’s health ministry said, as Israel intensified attacks against Hezbollah. The fighting cast further doubt on fragile negotiations to end the U.S.-Israeli war with Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-promo2/27mideast-header1-lqhb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T12:46:59+00:00</pubDate>
-      <importance>73</importance>
-    </item>
-    <item>
-      <title>Residents Watch as Israeli War Planes Circle Over Southern Lebanon</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html</link>
-      <description>Israel has intensified its deadly military campaign against Hezbollah, the Iran-backed militant group, in recent days, striking targets across Lebanon.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-lebanon-scene-lmtp/27mideast-lebanon-scene-lmtp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T12:46:58+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
-      <title>Nigel Farage’s Far-Right Party Is Now Central to British Politics</title>
-      <link>https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html</link>
-      <description>Nigel Farage’s anti-immigrant, populist agenda has helped his party, Reform U.K., emerge from the fringe of politics in Britain. But it faces an uphill climb to win power.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-uk-reform-01-hcpg/27int-uk-reform-01-hcpg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T12:17:08+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online</title>
-      <link>https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html</link>
-      <description>After three months, the government is letting people connect with the world again. But not everyone has access, and those who do wonder how long it will last.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T12:43:51+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>A Spring Heat Wave Is Breaking Records in the U.K., Spain and France</title>
-      <link>https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</link>
-      <description>Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26int-europe-heat-caino-vqfl/26int-europe-heat-caino-vqfl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T21:33:51+00:00</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>The Wars in Ukraine and Iran Are More Alike Than You May Think</title>
       <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
@@ -61,17 +21,57 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>High-Level British Spy Warns of Expanding Russia Threat</title>
+      <title>תושבים צופים במטוסי קרב ישראליים מקיפים את דרום לבנון</title>
+      <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html</link>
+      <description>ישראל הגבירה את מסע הצבא שלה נגד חיזבאללה, הקבוצה המיליטנטית הנתמכת על ידי איראן, בימים האחרונים, פוגעת במטרות ברחבי לבנון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-lebanon-scene-lmtp/27mideast-lebanon-scene-lmtp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T14:31:44+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
+      <title>עדכוני מלחמת איראן בשידור חי: התקשורת האיראנית מתארת הסכם 'ראשוני, לא רשמי' לשוב למצר הורמוז</title>
+      <link>https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal</link>
+      <description>ההסכם המוצע אומר כי איראן תשלוט במעבר הימי בשיתוף פעולה עם עומאן ודורש מהארצות הברית להסיר את הסגר הימי. ארצות הברית לא הגיבה מיד.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-promo2/27mideast-header1-lqhb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T14:39:45+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>גל חום אביבי שובר שיאים בבריטניה, ספרד וצרפת</title>
+      <link>https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</link>
+      <description>הרשויות בבריטניה ובצרפת הזהירו כי טמפרטורות 'לא נראות כמותן' – בזמן שכמעט אף אחד לא ציפה לכך – עשויות להימשך. שינויי האקלים הפכו את גלי החום לתכופים יותר ועזים יותר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26int-europe-heat-caino-vqfl/26int-europe-heat-caino-vqfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T21:33:51+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>מפלגת הימין הקיצוני של נייג'ל פרג' מרכזית כעת בפוליטיקה הבריטית</title>
+      <link>https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html</link>
+      <description>האג'נדה האנטי-מהגרת והפופוליסטית של נייג'ל פרג' סייעה למפלגתו, רפורמה בבריטניה, לצאת מהשוליים של הפוליטיקה בבריטניה. אך היא מתמודדת עם אתגרים רבים בדרך להשגת השלטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-uk-reform-01-hcpg/27int-uk-reform-01-hcpg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T12:17:08+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>לאחר 88 ימים של חדשות מצונזרות, טלוויזיה וצ'אט, האיראנים חוזרים לאינטרנט</title>
+      <link>https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html</link>
+      <description>הממשלה מתירה לאנשים להתחבר לעולם לאחר סגירה כמעט מוחלטת של האינטרנט. אך לא לכולם יש גישה, ואלה שיש להם תוהים כמה זמן זה יימשך.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T14:03:42+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>מרגל בריטי בכיר מזהיר מהתרחבות האיום הרוסי</title>
       <link>https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html</link>
-      <description>The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.</description>
+      <description>המנהל של סוכנות המעקב האלקטרוני הבריטית הזהיר כי מוסקבה נעשית יותר נועזת, והוסיף כי הערכות מצביעות על כך ש-500,000 חיילים רוסיים נהרגו במלחמה באוקראינה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26int-uk-intel-photo-tfzg/26int-uk-intel-photo-tfzg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T01:44:38+00:00</pubDate>
+      <pubDate>2026-05-27T14:54:30+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
-      <title>Iceland Warms to Europe</title>
+      <title>איסלנד מתחממת לאירופה</title>
       <link>https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html</link>
-      <description>The country has always stood apart from the continent. Then President Trump started threatening Greenland.</description>
+      <description>המדינה תמיד עמדה בנפרד מהיבשת. ואז הנשיא טראמפ החל לאיים על גרינלנד.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-theworld-iceland-01-jcqv-promo/27int-theworld-iceland-01-jcqv-promo-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T04:18:55+00:00</pubDate>
       <importance>18</importance>
