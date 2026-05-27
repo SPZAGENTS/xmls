@@ -2,32 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 13:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:49:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran War Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said</title>
-      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
-      <description>Iran has warned that it would retaliate after American military forces attacked sites near the Strait of Hormuz.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-live-promo-520p-pwzf/26mideast-live-promo-520p-pwzf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T05:04:14+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Nigel Farage’s Far-Right Party Is Now Central to British Politics</title>
-      <link>https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html</link>
-      <description>Nigel Farage’s anti-immigrant, populist agenda has helped his party, Reform U.K., emerge from the fringe of politics in Britain. But it faces an uphill climb to win power.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-uk-reform-01-hcpg/27int-uk-reform-01-hcpg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T07:15:38+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>A Spring Heat Wave Is Breaking Records in the U.K., Spain and France</title>
-      <link>https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</link>
-      <description>Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26int-europe-heat-caino-vqfl/26int-europe-heat-caino-vqfl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-26T21:33:51+00:00</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>Iceland Warms to Europe</title>
       <link>https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html</link>
@@ -37,12 +13,12 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>The Wars in Ukraine and Iran Are More Alike Than You May Think</title>
-      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
-      <description>Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-05-26T20:29:16+00:00</pubDate>
-      <importance>33</importance>
+      <title>עדכוני מלחמת איראן: ארה&quot;ב ראתה איומים מאיראן לפני חידוש התקיפות, אמרוOfficials</title>
+      <link>https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal</link>
+      <description>איראן הזהירה כי היא תגיב לאחר שכוחות צבאיים אמריקאיים תקפו אתרים סמוך למצר הורמוז.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-live-promo-520p-pwzf/26mideast-live-promo-520p-pwzf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T09:52:10+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>High-Level British Spy Warns of Expanding Russia Threat</title>
@@ -53,9 +29,33 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</title>
+      <title>המלחמות באוקראינה ובאיראן דומות יותר ממה שאתם עשויים לחשוב</title>
+      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
+      <description>היבטים כמו טכנולוגיית רחפנים ודיפלומטיה מראים כיצד המלחמות חופפות בשדה הקרב ובבריתות הגלובליות, ומספקות מודל לסכסוכים עתידיים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-26T20:29:16+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>גל חום אביבי שובר שיאים בבריטניה, ספרד וצרפת</title>
+      <link>https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</link>
+      <description>הרשויות בבריטניה ובצרפת הזהירו כי טמפרטורות &quot;חסרות תקדים&quot; - בזמן שכמעט אף אחד לא ציפה להן - עשויות להימשך. שינויי האקלים הפכו את גלי החום לתכופים ועזים יותר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/26/multimedia/26int-europe-heat-caino-vqfl/26int-europe-heat-caino-vqfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-26T21:33:51+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>מפלגת הימין הקיצוני של נייג'ל פאראג' הפכה כעת מרכזית בפוליטיקה הבריטית</title>
+      <link>https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html</link>
+      <description>האג'נדה האנטי-מהגרת והפופוליסטית של נייג'ל פאראג' סייעה למפלגתו, רפורמה בבריטניה, לצאת מהשוליים של הפוליטיקה בבריטניה. אך היא מתמודדת עם אתגר קשה לזכות בשלטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-uk-reform-01-hcpg/27int-uk-reform-01-hcpg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T07:15:38+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>האפיפיור לאו מזהיר על הסיכונים מהבינה המלאכותית במכתב אנציקליקה של 42,300 מילים</title>
       <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</description>
+      <description>המסמך מהווה חדירה עוצמתית של מנהיג הכנסייה הקתולית הרומית לדיון על השימוש לרעה או השימוש המופרז בבינה מלאכותית.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-05-25T15:14:03+00:00</pubDate>
       <importance>18</importance>

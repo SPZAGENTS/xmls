@@ -2,46 +2,46 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 13:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:49:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5831083/morning-news-brief</link>
-      <description>Controversial Texas Attorney General Ken Paxton wins GOP nomination for U.S. Senate seat, South Carolina lawmakers reject Trump-backed redistricting plan, Trump's whiplash diplomacy on Iran continues.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T04:40:44-04:00</pubDate>
-      <importance>22</importance>
-    </item>
-    <item>
-      <title>Trump gathers Cabinet as he looks to seal deal to end war</title>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting</link>
-      <description>President Trump will meet with his Cabinet on Wednesday at a precarious moment for talks aimed at ending the war with Iran. The emerging deal has already exposed the president to fierce criticism.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T01:37:20-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>NASA lays out moon base plans with landers, buggies and drones at the top of the list</title>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5836209/nasa-moon-base-plans</link>
-      <description>The space agency outlined the first phase of its moon base plans on Tuesday, awarding hundreds of millions of dollars in contracts to four U.S. companies.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T02:15:13-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>Texas Republicans nominate Ken Paxton for Senate seat, ousting incumbent John Cornyn</title>
-      <link>https://www.npr.org/2026/05/26/nx-s1-5835745/paxton-republican-texas-senate-nominee-trump-cornyn-talarico</link>
-      <description>Controversial Texas Attorney General Ken Paxton challenged Sen. John Cornyn's reelection and won President Trump's endorsement in the bitter primary fight that cost Republicans more than $100 million.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-26T21:03:35-04:00</pubDate>
-      <importance>17</importance>
-    </item>
     <item>
       <title>Trump-backed redistricting plan is rejected in the South Carolina Legislature</title>
       <link>https://www.npr.org/2026/05/26/nx-s1-5831996/redistricting-midterms-trump-south-carolina</link>
       <description>Republican state senators don't face election this year. Trump's urging for them to redistrict to help flip the House seat held by prominent Democrat Jim Clyburn was met with opposition.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-26T14:46:40-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>טראמפ מתכנס עם הקבינט שלו במטרה לסיים את המלחמה</title>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting</link>
+      <description>הנשיא טראמפ ייפגש עם הקבינט שלו ביום רביעי ברגע קריטי עבור השיחות שמטרתן לסיים את המלחמה עם איראן. העסקה המתגבשת כבר חשפה את הנשיא לביקורת קשה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T01:37:20-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>סיכום חדשות הבוקר</title>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5831083/morning-news-brief</link>
+      <description>התובע הכללי השנוי במחלוקת של טקסס, קן פקסטון, זוכה במועמדות GOP למושב הסנאט של ארה&quot;ב, מחוקקים בדרום קרוליינה דוחים את תוכנית האדמיניסטרציה של טראמפ, הדיפלומטיה המהירה של טראמפ לגבי איראן נמשכת.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T04:40:44-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>נאס&quot;א מציגה תוכניות לבסיס על הירח עם נחתות, רכבי שטח ודrones בראש הרשימה</title>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5836209/nasa-moon-base-plans</link>
+      <description>סוכנות החלל הציגה את השלב הראשון של תוכניות הבסיס שלה על הירח ביום שלישי, והעניקה מאות מיליוני דולרים בחוזים לארבע חברות אמריקאיות.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T02:15:13-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>הרפובליקנים בטקסס ממנים את קן פקסטון למושב הסנאט, מסלקים את המכהן ג'ון קורנין</title>
+      <link>https://www.npr.org/2026/05/26/nx-s1-5835745/paxton-republican-texas-senate-nominee-trump-cornyn-talarico</link>
+      <description>התובע הכללי השנוי במחלוקת בטקסס, קן פקסטון, אתגר את הבחירה מחדש של הסנאטור ג'ון קורנין וזכה בתמיכת הנשיא טראמפ בקרב הראשוני המר שהעלה את עלויות הרפובליקנים ביותר מ-100 מיליון דולר.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-26T21:03:35-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
