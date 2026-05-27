@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 20:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks</title>
@@ -27,6 +27,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-uk-reform-01-hcpg/27int-uk-reform-01-hcpg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T12:17:08+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>5 villagers missing in a flooded Laos cave for more than a week have been found alive</title>
+      <link>https://abcnews.com/International/wireStory/5-villagers-missing-flooded-laos-cave-week-found-133340208</link>
+      <description>Five villagers trapped in a flooded cave in central Laos for over a week have been found alive</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_99c7798c29c620e949d7c60099f23319_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T08:10:02-04:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
       <title>Palestine's Eid dampened by consequences of war on livestock</title>
@@ -81,16 +89,6 @@ The deputy political chief of Iran's Revolutionary Guard said on Wednesday that 
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T12:43:51+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Israel issues fresh evacuation orders in south Lebanon despite ceasefire</title>
-      <link>https://www.france24.com/en/video/20260526-israel-issues-fresh-evacuation-orders-in-south-lebanon-despite-ceasefire</link>
-      <description>
-Israel has issued an evacuation order for residents in the southern Lebanese town of Nabatiyeh, warning of fresh strikes against Hezbollah, despite a ceasefire. It comes after Israeli Prime Minister Benjamin Netanyahu promised to intensify attacks on Lebanon, following the killing of another Israeli soldier by a fibre optic drone sent by Hezbollah.
-</description>
-      <imageUrl>https://s.france24.com/media/display/4d47dc3a-5917-11f1-a467-005056bfb2b6/w:1024/p:16x9/2026-05-26T151208Z-380046951-RC22HLAHAPYK-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL-NABATIEH.jpg</imageUrl>
-      <pubDate>2026-05-26T15:30:30</pubDate>
-      <importance>58</importance>
     </item>
   </channel>
 </rss>
