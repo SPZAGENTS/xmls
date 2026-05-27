@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 09:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:01:34 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Inquiry into antisemitism in Australia condemns online hatred and bigotry targeting witnesses</title>
@@ -42,6 +42,30 @@
       <description>South Korea says North Korea has launched an unidentified projectile toward the sea</description>
       <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
       <pubDate>2026-05-26T02:09:32-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>North Korea says it tested new warheads, technology and navigation in latest launches</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467</link>
+      <description>North Korea says its latest launches involved multiple weapons systems, including a nuclear-capable cruise missile that leader Kim Jong Un plans to deploy with front-line units facing South Korea</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_720cea7dfc5f7ec555ff9bb1f423507c_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T02:33:06-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Chief of communications intel agency says Russia is relentlessly targeting UK</title>
+      <link>https://abcnews.com/International/wireStory/chief-communications-intel-agency-russia-relentlessly-targeting-uk-133336550</link>
+      <description>A U.K. spy chief is warning that Britain and its allies risk losing a cyber conflict against adversaries like Russia unless cybersecurity is treated with greater urgency</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_d454c58bff93e60189c8816ccf3d41da_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T00:44:46-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Exceptionally early heat wave shatters records and brings deaths in Europe</title>
+      <link>https://abcnews.com/International/wireStory/exceptionally-early-heat-wave-shatters-records-brings-deaths-133306923</link>
+      <description>A spring heat wave is scorching parts of Western Europe, breaking temperature records and triggering government warnings</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_5e08af7830e72ffa9fccdcf48cf4f7b5_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T00:04:44-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
