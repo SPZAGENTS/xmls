@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 01:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:06:43 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>5 villagers missing in a flooded Laos cave for more than a week have been found alive</title>
@@ -34,6 +34,30 @@
       <description>A U.K. spy chief is warning that Britain and its allies risk losing a cyber conflict against adversaries like Russia unless cybersecurity is treated with greater urgency</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_d454c58bff93e60189c8816ccf3d41da_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-27T00:57:59-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>5 things to know about the protests challenging Bolivia's new president</title>
+      <link>https://abcnews.com/International/wireStory/5-things-protests-challenging-bolivias-new-president-133358830</link>
+      <description>Less than six months ago, the inauguration of centrist President Rodrigo Paz seemed to usher in a new reality for Bolivians reeling from the worst economic crisis in a generation</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_3df9cc7c109570302a2fe7f8fe58d933_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T14:23:51-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Iran expands restrictions on distribution of news content by international media outlets</title>
+      <link>https://abcnews.com/International/wireStory/iran-expands-restrictions-distribution-news-content-international-media-133350213</link>
+      <description>Iran is expanding restrictions on distribution of news content from the country</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_ec8938bd08663f934fcf302695eeac99_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T12:14:20-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says</title>
+      <link>https://abcnews.com/International/wireStory/watchdog-dozens-assad-era-chemical-weapons-found-syria-133348127</link>
+      <description>The Organization for the Prohibition of Chemical Weapons says it has found dozens of undeclared chemical bombs and rockets in Syria</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_beb5273bdfe0499c30f929a671f98acd_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T10:55:18-04:00</pubDate>
       <importance>22</importance>
     </item>
   </channel>
