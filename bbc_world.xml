@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 06:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:22:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Dozens killed in Lebanon as Israel intensifies strikes</title>
@@ -42,6 +42,14 @@
       <description>The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg</imageUrl>
       <pubDate>2026-05-26T17:57:28</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg</imageUrl>
+      <pubDate>2026-05-26T03:06:06</pubDate>
       <importance>18</importance>
     </item>
   </channel>
