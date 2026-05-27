@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 20:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:07:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israeli strike in Gaza City kills new head of Hamas's military wing</title>
@@ -29,6 +29,14 @@
       <importance>38</importance>
     </item>
     <item>
+      <title>Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates</title>
+      <link>https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel's military tells residents of Tyre it will &quot;act forcefully&quot; against the armed group, after another wave of strikes in south and east Lebanon.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158e/live/fb10f3c0-59de-11f1-9d25-fb65b8b0488d.jpg</imageUrl>
+      <pubDate>2026-05-27T15:16:13</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
       <link>https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread</description>
@@ -50,22 +58,6 @@
       <description>With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
       <pubDate>2026-05-26T23:15:47</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Five people found alive after week trapped in flooded Laos cave</title>
-      <link>https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The search is continuing for a further two villagers who are still missing, rescuers say. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95f/live/53325ed0-59c7-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
-      <pubDate>2026-05-27T11:52:46</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says</title>
-      <link>https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a337/live/08099510-59e3-11f1-ad45-03463f64a221.jpg</imageUrl>
-      <pubDate>2026-05-27T15:59:57</pubDate>
       <importance>18</importance>
     </item>
   </channel>
