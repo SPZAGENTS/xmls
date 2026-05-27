@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 19:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks</title>
@@ -77,14 +77,12 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>חמישה אנשים שנשארו נעולים במערה מוצפת בלאוס, נמצאו בחיים</title>
-      <link>https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html</link>
-      <description>[3]
-TITLE_HE: המחסור העולמי במוצרים עולה, לאחר שלושה חודשים מקרבת המלחמה, ומגדיל את הסיכוי לאבדן עבודות וצמיחה
-DESC_HE:</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27xp-cave-videocover-jfgb/27xp-cave-videocover-jfgb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T15:19:57+00:00</pubDate>
-      <importance>28</importance>
+      <title>What Iranian State Media Says Is in Outline of ‘Unofficial’ Deal With U.S.</title>
+      <link>https://www.nytimes.com/2026/05/27/world/middleeast/iran-unofficial-deal-strait.html</link>
+      <description>The White House immediately dismissed the report, which detailed terms for reopening the Strait of Hormuz, as a “complete fabrication.”</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/26/multimedia/26mideast-iran-plan-ktzp/26mideast-iran-plan-ktzp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T16:43:43+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
