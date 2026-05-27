@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 27 May 2026 21:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:45:15 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>5 villagers missing in a flooded Laos cave for more than a week have been found alive</title>
@@ -10,22 +10,6 @@
       <description>Five villagers trapped in a flooded cave in central Laos for over a week have been found alive</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_99c7798c29c620e949d7c60099f23319_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-27T08:10:02-04:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>Berlin police arrest man suspected of being an accomplice to Holocaust Memorial stabbing</title>
-      <link>https://abcnews.com/International/wireStory/berlin-police-arrest-man-suspected-accomplice-holocaust-memorial-133338378</link>
-      <description>An alleged accomplice of a man who was convicted of stabbing and seriously wounding a Spanish tourist at Berlin&amp;rsquo;s Holocaust Memorial last year has been arrested in the German capital</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_410f84e9f0da6e801d54472418c20062_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-27T06:10:02-04:00</pubDate>
-      <importance>22</importance>
-    </item>
-    <item>
-      <title>North Korea says it tested new warheads, technology and navigation in latest launches</title>
-      <link>https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467</link>
-      <description>North Korea says its latest launches involved multiple weapons systems, including a nuclear-capable cruise missile that leader Kim Jong Un plans to deploy with front-line units facing South Korea</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_720cea7dfc5f7ec555ff9bb1f423507c_4x3_384.jpg</imageUrl>
-      <pubDate>2026-05-27T02:33:06-04:00</pubDate>
       <importance>27</importance>
     </item>
     <item>
@@ -53,11 +37,27 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Iran expands restrictions on distribution of news content by international media outlets</title>
+      <title>צפון קוריאה אומרת שבחנה ראשי נפץ חדשים, טכנולוגיה וניווט בשיגורים האחרונים</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467</link>
+      <description>צפון קוריאה אומרת שהשיגורים האחרונים שלה כללו מערכות נשק מרובות, כולל טיל שיוט בעל יכולת גרעינית שהמנהיג קים ג'ונג און מתכנן לפרוס עם יחידות קו קדמיות מול דרום קוריאה</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_720cea7dfc5f7ec555ff9bb1f423507c_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T02:33:06-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>איראן מרחיבה את ההגבלות על הפצת תוכן חדשותי על ידי כלי תקשורת בינלאומיים</title>
       <link>https://abcnews.com/International/wireStory/iran-expands-restrictions-distribution-news-content-international-media-133350213</link>
-      <description>Iran is expanding restrictions on distribution of news content from the country</description>
+      <description>איראן מרחיבה את ההגבלות על הפצת תוכן חדשותי מהמדינה</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_ec8938bd08663f934fcf302695eeac99_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-27T12:14:20-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>משטרת ברלין עוצרת אדם החשוד כשותף לדקירת אנדרטת השואה</title>
+      <link>https://abcnews.com/International/wireStory/berlin-police-arrest-man-suspected-accomplice-holocaust-memorial-133338378</link>
+      <description>שותף לכאורה של אדם שהורשע בדקירות ובפצע קשה של תייר ספרדי באנדרטת השואה בברלין בשנה שעברה נעצר בבירת גרמניה</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_410f84e9f0da6e801d54472418c20062_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T06:10:02-04:00</pubDate>
       <importance>22</importance>
     </item>
   </channel>
