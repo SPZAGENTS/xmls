@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 00:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:09:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Kuwait says it faces a missile and drone attack as shaky ceasefire in Iran war again challenged</title>
@@ -59,6 +59,30 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_63efe7b5482de04a4fda9884f3bf7ebe_4x3_384.jpg</imageUrl>
       <pubDate>2026-05-28T08:14:55-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>North Korea says it tested new warheads, technology and navigation in latest launches</title>
+      <link>https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467</link>
+      <description>North Korea says its latest launches involved multiple weapons systems, including a nuclear-capable cruise missile that leader Kim Jong Un plans to deploy with front-line units facing South Korea</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_720cea7dfc5f7ec555ff9bb1f423507c_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T02:33:06-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Iran expands restrictions on distribution of news content by international media outlets</title>
+      <link>https://abcnews.com/International/wireStory/iran-expands-restrictions-distribution-news-content-international-media-133350213</link>
+      <description>Iran is expanding restrictions on distribution of news content from the country</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_ec8938bd08663f934fcf302695eeac99_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T12:14:20-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says</title>
+      <link>https://abcnews.com/International/wireStory/watchdog-dozens-assad-era-chemical-weapons-found-syria-133348127</link>
+      <description>The Organization for the Prohibition of Chemical Weapons says it has found dozens of undeclared chemical bombs and rockets in Syria</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_beb5273bdfe0499c30f929a671f98acd_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-27T10:55:18-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
