@@ -2,23 +2,55 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 21:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:01:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>עדכונים חיים ממלחמת איראן: ארה&quot;ב ואיראן סוחרות בתקיפות, מאיימות על המשא ומתן</title>
+      <title>Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations</title>
       <link>https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal</link>
-      <description>הצבא האמריקאי אמר כי איראן שיגרה טיל בליסטי לעבר כווית. משמרות המהפכה של איראן אמרו כי הם פגעו בבסיס אמריקאי לא מוגדר בתגובה לתקיפות קודמות.</description>
+      <description>The U.S. military said Iran had launched a ballistic missile toward Kuwait. Iran’s Revolutionary Guards said it had targeted an unspecified U.S. base in retaliation for earlier strikes.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-blog-promo/28mideast-blog-promo-mediumSquareAt3X-v3.jpg</imageUrl>
-      <pubDate>2026-05-28T17:28:43+00:00</pubDate>
+      <pubDate>2026-05-28T17:04:12+00:00</pubDate>
       <importance>58</importance>
     </item>
     <item>
-      <title>לבנונים מתרגלים למלחמה ארוכה, גם אם ארה&quot;ב ואיראן יגיעו להסכם</title>
+      <title>The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html</link>
+      <description>The president said more countries should be required to recognize Israel as part of a deal to end the war with Iran. Analysts say the chances of that happening are close to zero.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/00int-trump-abraham-01-kzlg/00int-trump-abraham-01-kzlg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-28T13:26:42+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal</title>
       <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html</link>
-      <description>מעטים בלבנון מאמינים שהמאמצים הדיפלומטיים לסיים את המלחמה הרחבה יביאו שלום למדינתם, כאשר העימותים בין ישראל לחזבאללה מתעצמים בדרום.</description>
+      <description>Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-lebanon-fate-2-zblh/27int-lebanon-fate-2-zblh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T23:37:08+00:00</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>How Ukraine’s Street Style Is Shaped by the War</title>
+      <link>https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html</link>
+      <description>In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/00int-ukraine-clothes-02-promo/00int-ukraine-clothes-02-mght-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-28T13:30:01+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Cease-Fires, but No Peace</title>
+      <link>https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html</link>
+      <description>A truce isn’t necessarily doomed if the missiles are still flying. Here’s why.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-theworld-ceasefire-01-mkgt-promo/28int-theworld-ceasefire-01-mkgt-promo-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-28T04:52:37+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’</title>
+      <link>https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html</link>
+      <description>President Trump said there would be serious repercussions if Iran and Oman move forward with a deal to open the Strait of Hormuz.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-oman-mkhc/27mideast-oman-mkhc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T23:07:50+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>Trump Says He Feels No Political Pressure to Make an Iran Deal</title>
@@ -29,60 +61,28 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>המזרח התיכון מבולבל מהקריאה של טראמפ להרחיב את הסכמי אברהם</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html</link>
-      <description>הנשיא אמר שיותר מדינות צריכות להיות מחויבות להכיר בישראל כחלק מהסכם לסיום המלחמה עם איראן. אנליסטים אומרים שהסיכויים לכך קרובים לאפס.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/00int-trump-abraham-01-kzlg/00int-trump-abraham-01-kzlg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-28T13:26:42+00:00</pubDate>
-      <importance>38</importance>
+      <title>Israel Strikes Beirut, Expanding Offensive in Lebanon</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html</link>
+      <description>It was the first attack by Israel on the Lebanese capital in weeks and could complicate efforts by the United States and Iran to agree to a peace deal to end the war in Iran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-lebanon-strikes-fcwl/28mideast-lebanon-strikes-fcwl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-28T17:15:14+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
-      <title>הפסקות אש, אבל אין שלום</title>
-      <link>https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html</link>
-      <description>הפסקת אש לא בהכרח נגזר עליה להיות doomed אם הטילים עדיין עפים. הנה למה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-theworld-ceasefire-01-mkgt-promo/28int-theworld-ceasefire-01-mkgt-promo-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-28T04:52:37+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>טראמפ מאיים על עומאן לגבי המצר, ואז אומר: 'הם יהיו בסדר.'</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html</link>
-      <description>נשיא טראמפ אמר שיהיו השלכות חמורות אם איראן ועומאן יתקדמו עם עסקה לפתיחת מצר הורמוז.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-oman-mkhc/27mideast-oman-mkhc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T23:07:50+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>לאחר 88 ימים של חדשות מצונזרות, טלוויזיה וצ'אט, האיראנים חוזרים לאינטרנט</title>
+      <title>After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online</title>
       <link>https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html</link>
-      <description>הממשלה מתירה לאנשים להתחבר לעולם לאחר סגירה כמעט מוחלטת של האינטרנט. אך לא לכולם יש גישה, ואלו שיש להם תוהים כמה זמן זה יחזיק.</description>
+      <description>The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T22:24:44+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
-      <title>ארה&quot;ב תוקפת אתרים צבאיים באיראן בפעם השנייה בתוך 3 ימים</title>
+      <title>U.S. Strikes Military Sites in Iran for Second Time in 3 Days</title>
       <link>https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html</link>
-      <description>בעוד הפסקת אש פוטנציאלית תלויה באוויר, אמר גורם רשמי כי התקיפות היו בהגנה עצמית, עם מטרות שכוללות ארבעה רחפני תקיפה חד-כיווניים ששוגרו על ידי איראן.</description>
+      <description>As a potential cease-fire hangs in the balance, an official said the strikes were in self-defense, with targets including four one-way attack drones launched by Iran.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28iran-header-gbmq/28iran-header-gbmq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-28T08:50:15+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>איך סגנון הרחוב של אוקראינה מעוצב על ידי המלחמה</title>
-      <link>https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html</link>
-      <description>בקיייב, אופנת השראה צבאית נראית בכל מקום. חיילים ואזרחים כאחד אומרים שזה ביטוי לסולידריות, ולא טרנד.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/13/multimedia/00int-ukraine-clothes-02-promo/00int-ukraine-clothes-02-mght-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-28T13:30:01+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>למה פקיסטן ואפגניסטן עדיין נלחמות</title>
-      <link>https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html</link>
-      <description>חודשים לאחר שפקיסטן הכריזה על &quot;מלחמה פתוחה&quot; על אפגניסטן, אף צד לא נראה מוכן לסגת, למרות מאמצי סין לתווך.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-afghanistan-pakistan-1-qwvg/28int-afghanistan-pakistan-1-qwvg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-28T05:33:17+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
