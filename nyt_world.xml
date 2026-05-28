@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 03:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:40:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: As Talks Drag On, Trump Says ‘I Don’t Care’ About Midterms Pressure</title>
@@ -37,17 +37,19 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Cease-Fires, but No Peace</title>
+      <title>סולימי, אבל לא שלום</title>
       <link>https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html</link>
-      <description>A truce isn’t necessarily doomed if the missiles are still flying. Here’s why.</description>
+      <description>[1]
+TITLE_HE: טראמפ מאיים על עומאן בעקבות המצרים, אך אחר-כך אומר &quot;הם יהיו בסדר&quot;
+DESC_HE:</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-theworld-ceasefire-01-mkgt-promo/28int-theworld-ceasefire-01-mkgt-promo-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T21:05:01+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’</title>
+      <title>טראמפ מאיים על עומאן לגבי המצר, ואז אומר: 'הם יהיו בסדר.'</title>
       <link>https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html</link>
-      <description>President Trump said there would be serious repercussions if Iran and Oman move forward with a deal to open the Strait of Hormuz.</description>
+      <description>הנשיא טראמפ אמר שיהיו השלכות חמורות אם איראן ועומאן יתקדמו עם עסקה לפתיחת מצר הורמוז.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27mideast-oman-mkhc/27mideast-oman-mkhc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T23:07:49+00:00</pubDate>
       <importance>28</importance>
