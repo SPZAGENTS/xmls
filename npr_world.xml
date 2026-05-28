@@ -2,39 +2,47 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 06:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 06:07:15 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Texas primary runoff takeaways. And, DOJ mass-deletes info on Jan. 6 riot cases</title>
-      <link>https://www.npr.org/2026/05/27/g-s1-124451/up-first-newsletter-texas-elections-south-carolina-voting-maps-ice-iris-jan-6</link>
-      <description>The Texas primary runoffs have now concluded and major November election matchups are set. And Trump's Justice Department has deleted significant information from the Jan. 6 riot cases.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T07:39:44-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>The movie 'Pressure' leans into the drama of high-stakes weather forecasts</title>
-      <link>https://www.npr.org/2026/05/27/nx-s1-5801425/pressure-movie-nws-weather-film-andrew-scott-brendan-fraser-trump</link>
-      <description>The new movie tells a story about how good meteorology can literally win wars. It also takes us back in time, to when the United States was at a disadvantage when it came to weather science.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T06:00:00-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>Palestinians use recycling as Israel's restrictions trigger a trash crisis</title>
+      <title>הפלסטינים משתמשים במיחזור מכיוון שההגבלות של ישראל מעוררות משבר אשפה</title>
       <link>https://www.npr.org/2026/05/27/g-s1-121673/israel-palestinians-trash-west-bank</link>
-      <description>Palestinians in the West Bank live amid garbage following Israeli restrictions. Two Palestinian entrepreneurs are trying to make a change.</description>
+      <description>פלסטינים בגדה המערבית חיים בין אשפה בעקבות הגבלות ישראליות. שני יזמים פלסטינים מנסים לעשות שינוי.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-27T10:45:58-04:00</pubDate>
       <importance>32</importance>
     </item>
     <item>
-      <title>More people are going hungry now than at the height of the pandemic</title>
+      <title>סוף סוף נקבעו משחקי הבחירות הכלליות בטקסס. הנה מה שאתה צריך לדעת</title>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5835292/texas-senate-runoff-takeaways</link>
+      <description>תחרויות הפריימריז בטקסס הסתיימו ומשחקי הבחירות בנובמבר נקבעים בתחרויות גדולות, כמו אחת לסנאט האמריקני, שכן התוצאות מעניקות לקחים לשתי הצדדים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T05:00:00-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>יותר אנשים רעבים עכשיו מאשר בשיא המגיפה</title>
       <link>https://www.npr.org/2026/05/27/nx-s1-5836441/food-insecurity-economy-new-york-fed</link>
-      <description>Food insecurity affects more families now than during the coronavirus pandemic, according to a new survey from the Federal Reserve Bank of New York. </description>
+      <description>חוסר ביטחון תזונתי משפיע על יותר משפחות כעת מאשר בתקופת מגיפת הנגיף, על פי סקר חדש של הבנק הפדרלי של ניו יורק.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-27T15:12:53-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>טייק אווי ראשוני של טקסס. וכן, DOJ מוחק באופן המוני מידע על מקרי מהומות ב-6 בינואר</title>
+      <link>https://www.npr.org/2026/05/27/g-s1-124451/up-first-newsletter-texas-elections-south-carolina-voting-maps-ice-iris-jan-6</link>
+      <description>כעת הסתיימו משחקי הפריימריז בטקסס, ונקבעו משחקי בחירות גדולים בנובמבר. ומשרד המשפטים של טראמפ מחק מידע משמעותי ממקרי ההתפרעות ב-6 בינואר.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T07:39:44-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>הסרט 'לחץ' נשען אל הדרמה של תחזיות מזג אוויר בעלות הימור</title>
+      <link>https://www.npr.org/2026/05/27/nx-s1-5801425/pressure-movie-nws-weather-film-andrew-scott-brendan-fraser-trump</link>
+      <description>הסרט החדש מספר סיפור על איך מטאורולוגיה טובה יכולה ממש לנצח במלחמות. זה גם מחזיר אותנו אחורה בזמן, עד שארצות הברית הייתה בעמדת נחיתות בכל הנוגע למדעי מזג האוויר.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-27T06:00:00-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
