@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 05:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 06:01:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Five people found alive after week trapped in flooded Laos cave</title>
@@ -29,6 +29,14 @@
       <importance>38</importance>
     </item>
     <item>
+      <title>US strikes Iran targets for second time in three days</title>
+      <link>https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99fb/live/5a9b9af0-5a40-11f1-a295-ab4de21b4525.jpg</imageUrl>
+      <pubDate>2026-05-28T02:58:27</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
       <link>https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread</description>
@@ -51,6 +59,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
       <pubDate>2026-05-26T23:15:47</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Israel issues evacuation order for swathes of southern Lebanon</title>
+      <link>https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The military says areas south of the Zahrani River are now &quot;combat zones&quot; as it threatens Hezbollah with fresh strikes.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-27T20:26:03</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
