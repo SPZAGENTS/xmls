@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 04:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Five people found alive after week trapped in flooded Laos cave</title>
@@ -51,6 +51,22 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cebd/live/892a4c70-595c-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
       <pubDate>2026-05-26T23:15:47</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Israel issues evacuation order for swathes of southern Lebanon</title>
+      <link>https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The military says areas south of the Zahrani River are now &quot;combat zones&quot; as it threatens Hezbollah with fresh strikes.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-27T20:26:03</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>US carries out new strikes on Iran military site</title>
+      <link>https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US military said it targeted a military site in Bandar Abbas - a strategic port city - and shot down four Iranian attack drones. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099b/live/cb654ab0-5a2c-11f1-b118-2f2910cff054.jpg</imageUrl>
+      <pubDate>2026-05-28T01:20:12</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
