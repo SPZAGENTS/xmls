@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 07:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:06:14 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>US strikes Iran targets for second time in three days</title>
@@ -51,6 +51,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/f6c90c20-5976-11f1-ba8f-89d5c427fb5f.jpg</imageUrl>
       <pubDate>2026-05-27T11:53:06</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Five people found alive after week trapped in flooded Laos cave</title>
+      <link>https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The search is continuing for a further two villagers who are still missing, rescuers say. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95f/live/53325ed0-59c7-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-27T11:52:46</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
