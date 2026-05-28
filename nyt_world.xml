@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 11:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:01:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal</title>
@@ -53,6 +53,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal</title>
+      <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html</link>
+      <description>Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-lebanon-fate-2-zblh/27int-lebanon-fate-2-zblh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-27T23:37:08+00:00</pubDate>
+      <importance>53</importance>
+    </item>
+    <item>
       <title>U.S. Strikes Military Sites in Iran for Second Time in 3 Days</title>
       <link>https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html</link>
       <description>As a potential cease-fire hangs in the balance, an official said the strikes were in self-defense, with targets including four one-way attack drones launched by Iran.</description>
@@ -75,14 +83,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-frozen-assets01-photo-ljfz/27int-iran-frozen-assets01-photo-ljfz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T20:03:14+00:00</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online</title>
-      <link>https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html</link>
-      <description>The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-27T22:24:44+00:00</pubDate>
-      <importance>23</importance>
     </item>
   </channel>
 </rss>
