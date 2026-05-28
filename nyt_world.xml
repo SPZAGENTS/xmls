@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 28 May 2026 21:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:06:45 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations</title>
@@ -61,14 +61,6 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Israel Strikes Beirut, Expanding Offensive in Lebanon</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html</link>
-      <description>It was the first attack by Israel on the Lebanese capital in weeks and could complicate efforts by the United States and Iran to agree to a peace deal to end the war in Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-lebanon-strikes-fcwl/28mideast-lebanon-strikes-fcwl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-28T17:15:14+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online</title>
       <link>https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html</link>
       <description>The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last.</description>
@@ -83,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28iran-header-gbmq/28iran-header-gbmq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-28T08:50:15+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Why Pakistan and Afghanistan Are Still Fighting</title>
+      <link>https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html</link>
+      <description>Months after Pakistan declared “open war” on Afghanistan, neither side appears ready to back down, despite China’s efforts to mediate.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-afghanistan-pakistan-1-qwvg/28int-afghanistan-pakistan-1-qwvg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-28T05:33:17+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
