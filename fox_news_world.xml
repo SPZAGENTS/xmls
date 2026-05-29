@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 15:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:06:17 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel accuses UN of placing it on same sexual violence blacklist as Hamas terrorists, severs ties</title>
@@ -26,6 +26,14 @@
       <description>France recorded 1,320 antisemitic acts in 2025, up from 436 in 2022, as Jewish families alter daily habits to avoid being identified, CRIF&amp;apos;s president says.</description>
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/jean-luc-melenchon-french-opposition-leader.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-05-27T06:00:32-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>Hamas struggles to fill leadership ranks as Israel hunts Oct 7 terrorists</title>
+      <link>https://www.foxnews.com/world/hamas-struggles-fill-leadership-ranks-israel-hunts-oct-7-terrorists</link>
+      <description>Hours after an Israeli airstrike killed Hamas military wing chief Mohammed Odeh, Gaza&amp;apos;s Eid markets were full, revealing a disconnect with Hamas.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/hamas-terrorists-gaza-rubble-1.jpeg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-29T06:00:20-04:00</pubDate>
       <importance>42</importance>
     </item>
     <item>
@@ -75,14 +83,6 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Fujairah-oil-port-.jpeg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-05-24T16:11:58-04:00</pubDate>
       <importance>27</importance>
-    </item>
-    <item>
-      <title>Pope Leo warns AI risks becoming tool of 'domination, exclusion and death' in new encyclical</title>
-      <link>https://www.foxnews.com/world/pope-leo-warns-ai-risks-becoming-tool-domination-exclusion-death-new-encyclical</link>
-      <description>The pope unveils &amp;quot;Magnifica Humanitas&amp;quot; encyclical, warning artificial intelligence risks becoming a tool of domination unless governments set moral limits.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Pope-On-AI-Photo-2.jpeg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-25T14:31:10-04:00</pubDate>
-      <importance>17</importance>
     </item>
   </channel>
 </rss>
