@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 17:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 18:01:30 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Blue Origin rocket explodes during test at Cape Canaveral</title>
@@ -11,6 +11,30 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-29T08:07:57-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>What to know about Code Noir, a shocking French law that oversaw the slavery of 1.4 million Africans</title>
+      <link>https://abcnews.com/International/wireStory/code-noir-shocking-french-law-oversaw-slavery-14-133382659</link>
+      <description>France&amp;rsquo;s lower house has voted finally to scrub a foundational slavery-era edict from French law</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_de15f75e89f15949b41141ca7dfa0bec_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-28T09:30:07-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate war</title>
+      <link>https://abcnews.com/International/wireStory/stalemate-ukraine-discontent-home-putin-ready-escalate-war-133409450</link>
+      <description>President Vladimir Putin is facing a battlefield stalemate in Ukraine and growing war fatigue among Russians and appears ready to change the narrative around the conflict</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_0c31bbbf0d06c457c00d046bc7ba99f7_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-29T02:47:54-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Zelenskyy heads to Sweden as Ukraine touts drone expertise honed in war with Russia</title>
+      <link>https://abcnews.com/International/wireStory/zelenskyy-heads-sweden-ukraine-touts-drone-expertise-honed-133374848</link>
+      <description>Ukrainian President Volodymyr Zelenskyy is visiting Stockholm for talks with Swedish Prime Minister Ulf Kristersson on defense cooperation</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_63efe7b5482de04a4fda9884f3bf7ebe_4x3_384.jpg</imageUrl>
+      <pubDate>2026-05-28T08:14:55-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
