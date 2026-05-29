@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 14:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:05:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Orthodox Jewish women in Israel may now take a rabbinic exam, like men</title>
@@ -29,12 +29,20 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/05/29/nx-s1-5831085/morning-news-brief</link>
-      <description>The U.S. says it's moving closer to a deal to end the Iran war despite continued fighting, DOJ opens investigation into Trump accuser E. Jean Carroll, Bari Weiss wants to reinvent CBS' &quot;60 Minutes.&quot;</description>
+      <title>Which first lady feared her husband might be having a stroke? The quiz knows</title>
+      <link>https://www.npr.org/2026/05/29/g-s1-124599/tennis-biden-bezos-pope-google-news-quiz</link>
+      <description>This week, the pope took aim at AI, a fancy carmaker dipped a toe in the EV market and a first lady made a surprising comment.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-29T04:47:36-04:00</pubDate>
+      <pubDate>2026-05-29T05:01:00-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Blue Origin rocket explodes on the launch pad during an engine-firing test</title>
+      <link>https://www.npr.org/2026/05/29/nx-s1-5838582/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test</link>
+      <description>A rocket belonging to Jeff Bezos' Blue Origin exploded during a test at the launch pad Thursday night, ahead of a satellite launch planned for next week.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T01:49:21-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>

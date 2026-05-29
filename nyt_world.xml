@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 14:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:05:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz</title>
@@ -53,6 +53,14 @@
       <importance>53</importance>
     </item>
     <item>
+      <title>Iran War Live Updates: Uncertainty Hangs Over Talks as U.S. Says It Is Close to Agreement</title>
+      <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
+      <description>An emerging “memorandum of understanding,” which could lead to the reopening of the Strait of Hormuz, still needs approval from President Trump, and Iran has not confirmed any commitments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-promo1/29mideast-promo1-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-29T10:42:17+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>How Ukraine’s Street Style Is Shaped by the War</title>
       <link>https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html</link>
       <description>In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.</description>
@@ -75,14 +83,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T22:24:44+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Were Romanian Casualties From a Russian Drone Strike Inevitable?</title>
-      <link>https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html</link>
-      <description>The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-romania-drones-WTK-01-mjqt/29int-romania-drones-WTK-01-mjqt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-29T10:52:18+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
