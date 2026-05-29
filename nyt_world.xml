@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 12:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:06:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz</title>
@@ -75,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/27int-iran-internet-kqmv/27int-iran-internet-kqmv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-27T22:24:44+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>How Fuel Price Shocks Rattled a Remote New Zealand Village</title>
+      <link>https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html</link>
+      <description>The prices of diesel and gasoline soared after the Iran war started, piling more hardship on people in Ruatahuna, one of New Zealand’s most remote villages.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29xp-nz-fuel-mcpk/29xp-nz-fuel-mcpk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T09:00:19+00:00</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
