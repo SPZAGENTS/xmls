@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 23:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 23:06:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
@@ -45,20 +45,28 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>U.N. Adds Israeli and Russian Forces to Sexual Violence List</title>
-      <link>https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html</link>
-      <description>Israel has denied the accusations and condemned the report, which listed dozens of countries and nonstate groups as “credibly suspected” of patterns of rape and sexual violence.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-un-sexual-voilence-photo-thqv/29int-un-sexual-voilence-photo-thqv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-29T19:46:27+00:00</pubDate>
+      <title>Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue</title>
+      <link>https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html</link>
+      <description>Prime Minister Benjamin Netanyahu said Israeli ground forces had crossed Lebanon’s Litani River, as military officials from the two countries were set to meet for U.S.-brokered talks.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-lebanon-news-topart-lkjq/29mideast-lebanon-news-topart-lkjq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T17:10:55+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict</title>
+      <link>https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html</link>
+      <description>In a speech to military leaders from the region, To Lam said that distrust and a lack of respect for established rules had created a culture of “the big fish swallowing the small fish.”</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29asia-security-vietnam-jvtw/29asia-security-vietnam-jvtw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T16:20:35+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
-      <title>Abdu Rabbu Mansour Hadi, Exiled Ex-President of Yemen, Dies at 80</title>
-      <link>https://www.nytimes.com/2026/05/29/world/africa/abdrabbuh-mansour-hadi-dead.html</link>
-      <description>In a country fractured by civil war and other crises, he held the title of president from 2012 to 2022 and was widely seen as an ineffective ruler.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29Hadi--pvlc/29Hadi--pvlc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-29T19:31:48+00:00</pubDate>
-      <importance>18</importance>
+      <title>British Museum Postpones Jewish Cultural Event, Citing Threat of Disruption</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/london-british-museum-antisemitsm.html</link>
+      <description>The cancellation comes amid a rise in racial and religious crimes in Britain as well as growing sense of unease for some of London’s Jews.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29xp-london-ptql/29xp-london-ptql-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T15:24:31+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
