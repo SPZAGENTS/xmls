@@ -2,87 +2,71 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 18:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 18:08:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Live Updates: Uncertainty Hangs Over Talks as U.S. Says It Is Close to Agreement</title>
-      <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
-      <description>An emerging “memorandum of understanding,” which could lead to the reopening of the Strait of Hormuz, still needs approval from President Trump, and Iran has not confirmed any commitments.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T13:02:56+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
-      <description>U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T07:13:34+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas</title>
+      <title>נתניהו אמר שישראל תשלוט ב-70% מעזה, ותסחט את חמאס</title>
       <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html</link>
-      <description>Israel’s military continues to conduct strikes and seize territory despite a cease-fire with Hamas. Many of Prime Minister Benjamin Netanyahu’s supporters see the war as unfinished business.</description>
-      <imageUrl></imageUrl>
+      <description>צבא ישראל ממשיך לבצע תקיפות ולתפוס שטחים למרות הפסקת האש עם חמאס. רבים מתומכיו של ראש הממשלה בנימין נתניהו רואים במלחמה עניינים לא גמורים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-israel-gaza-qgwk/28int-israel-gaza-qgwk-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-28T21:53:57+00:00</pubDate>
-      <importance>68</importance>
+      <importance>58</importance>
     </item>
     <item>
-      <title>U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html</link>
-      <description>President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T10:42:15+00:00</pubDate>
-      <importance>49</importance>
+      <title>עדכונים חיים של מלחמת איראן: אי הוודאות תלויה בשיחות כאשר נותרו נקודות תקיעה</title>
+      <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
+      <description>גורמים אמריקאים אמרו כי הצדדים דנים ב&quot;מזכר הבנות&quot; שעלול להוביל לפתיחה מחדש של מיצר הורמוז, אך הוא עדיין זקוק לסיומה של הנשיא טראמפ. איראן לא אישרה התחייבויות כלשהן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-promo1/29mideast-promo1-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-05-29T14:48:15+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
-      <title>Israel Strikes Beirut, Expanding Offensive in Lebanon</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html</link>
-      <description>It was the first attack by Israel on the Lebanese capital in weeks and could complicate efforts by the United States and Iran to agree to a peace deal to end the war in Iran.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T17:15:14+00:00</pubDate>
-      <importance>64</importance>
+      <title>טיוטת תוכנית ארה&quot;ב-איראן אמורה להיות על השולחן. הנה מה שצריך לדעת.</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
+      <description>גורמים רשמיים בארה&quot;ב ואיראנים אומרים שהם סוגרים על תנאי הסכם ראשוני. עם זאת, נותרו נקודות תקיעה, במיוחד מעל מיצר הורמוז.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/00int-iran-deal-01-jqfw/00int-iran-deal-01-jqfw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T07:13:34+00:00</pubDate>
+      <importance>38</importance>
     </item>
     <item>
-      <title>In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare</title>
+      <title>במצר הורמוז סטאנדוף, ארה&quot;ב ואיראן פורסות לוחמה כלכלית</title>
       <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html</link>
-      <description>The American blockade and Iran’s control of the Strait of Hormuz have created a stalemate that is neither peace nor raging conflict, with both sides attempting economic strangulation on the water.</description>
-      <imageUrl></imageUrl>
+      <description>המצור האמריקני ושליטתה של איראן במצר הורמוז יצרו קיפאון שאינו שלום או סכסוך משתולל, כאשר שני הצדדים מנסים לחנוק כלכלי על המים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/27/multimedia/00int-naval-standoff-wbjv/00int-naval-standoff-wbjv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-28T21:12:22+00:00</pubDate>
-      <importance>63</importance>
+      <importance>38</importance>
     </item>
     <item>
-      <title>Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-war-deal-iran-us.html</link>
-      <description>Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-27T23:37:08+00:00</pubDate>
-      <importance>74</importance>
-    </item>
-    <item>
-      <title>The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html</link>
-      <description>The president said more countries should be required to recognize Israel as part of a deal to end the war with Iran. Analysts say the chances of that happening are close to zero.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T13:26:43+00:00</pubDate>
-      <importance>54</importance>
-    </item>
-    <item>
-      <title>How Fuel Price Shocks Rattled a Remote New Zealand Village</title>
-      <link>https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html</link>
-      <description>The prices of diesel and gasoline soared after the Iran war started, piling more hardship on people in Ruatahuna, one of New Zealand’s most remote villages.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T09:00:19+00:00</pubDate>
+      <title>מה לדעת על המל&quot;טים שחצו לרומניה</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html</link>
+      <description>השביתה ביום שישי, ליד הגבול האוקראיני, הייתה הראשונה שפצעה אזרחים ברומניה, אומרים גורמים רשמיים. אבל מל&quot;טים מהמלחמה הסמוכה היו איום הולך וגובר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-romania-drones-WTK-01-mjqt/29int-romania-drones-WTK-01-mjqt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T14:10:44+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>Israel Continues Its Escalation in Lebanon With New Evacuation Warnings</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/israel-hezbollah-lebanon.html</link>
-      <description>The Israeli military issued sweeping evacuation warnings for two southern cities, indicating that more airstrikes were imminent.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T00:20:04+00:00</pubDate>
-      <importance>59</importance>
+      <title>איך זעזועים של מחיר הדלק הטרידו כפר נידח בניו זילנד</title>
+      <link>https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html</link>
+      <description>מחירי הסולר והבנזין זינקו לאחר תחילת מלחמת איראן, והערימו קשיים נוספים על האנשים ברואטהונה, אחד הכפרים הנידחים ביותר בניו זילנד.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29xp-nz-fuel-mcpk/29xp-nz-fuel-mcpk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T14:12:54+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>ישראל תנתק את הקשרים עם ראש האו&quot;ם על הכללתה ברשימה השחורה של אלימות מינית</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html</link>
+      <description>מזכ&quot;ל האו&quot;ם, אנטוניו גוטרס, אמר לישראל שיש &quot;מספר הולך וגדל של מקרים&quot; של אלימות מינית נגד עצירים פלסטינים, לפי מכתב ששותף לשגריר ישראל באו&quot;ם.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/28int-Israel-UNChief-kgpv/28int-Israel-UNChief-kgpv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T01:53:24+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>אירופה מתקרבת יותר למלחמת סחר עם סין. הנה למה.</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html</link>
+      <description>כאשר סחורות זולות זורמות פנימה, מאיימות על מגזר הייצור של היבשת, החיפוש אחר פתרונות הופך להיות דחוף יותר ויותר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/world/29int-eu-china-top-01/29int-eu-china-top-01-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T12:13:54+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
