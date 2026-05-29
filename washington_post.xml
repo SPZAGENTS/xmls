@@ -2,15 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 16:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 16:47:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Lebanon ceasefire falters as Trump pushes for Iran deal</title>
+      <title>הפסקת האש בלבנון מדשדשת כאשר טראמפ דוחף להסכם עם איראן</title>
       <link>https://www.washingtonpost.com/world/2026/05/26/lebanon-ceasefire-falters-trump-pushes-iran-deal/</link>
-      <description>Israel is “deepening its operation” in Lebanon, Prime Minister Benjamin Netanyahu said.</description>
+      <description>ישראל &quot;מעמיקה את פעולתה&quot; בלבנון, אמר ראש הממשלה בנימין נתניהו.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-27T13:05:40+00:00</pubDate>
-      <importance>52</importance>
+      <importance>67</importance>
+    </item>
+    <item>
+      <title>לאחר דברים חמורים של טראמפ, מתקפות סחר של ארה&quot;ב ואיראן</title>
+      <link>https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/</link>
+      <description>האלימות המחודשת הגיעה לאחר שהנשיא אמר שאיראן טועה אם היא חושבת שהוא ירגיש לחץ לעשות ויתורים ולפתור את המחלוקת לפני בחירות אמצע הקדנציה בארה&quot;ב בהמשך השנה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-28T12:17:03+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
