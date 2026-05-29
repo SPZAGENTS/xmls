@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 29 May 2026 08:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:06:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel</title>
@@ -45,19 +45,27 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders</title>
-      <link>https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg</imageUrl>
-      <pubDate>2026-05-28T16:20:50</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
       <link>https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c52/live/87bd2cd0-59e9-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-05-27T18:50:50</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Duterte ICC trial to start on 30 November: What you need to know</title>
+      <link>https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Duterte is facing charges relating to a long and bloody war on drugs in which thousands were killed.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9b/live/e55cd210-5a38-11f1-b445-b9f1ca9c9352.jpg</imageUrl>
+      <pubDate>2026-05-28T03:14:56</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Moment Blue Origin rocket explodes during test in Florida</title>
+      <link>https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8161/live/d4f0e8a0-5b08-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-05-29T03:02:48</pubDate>
       <importance>23</importance>
     </item>
   </channel>
