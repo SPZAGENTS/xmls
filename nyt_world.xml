@@ -2,8 +2,24 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 10:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 11:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
+      <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
+      <description>The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-30T02:01:16+00:00</pubDate>
+      <importance>58</importance>
+    </item>
+    <item>
+      <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
+      <description>U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T07:13:34+00:00</pubDate>
+      <importance>53</importance>
+    </item>
     <item>
       <title>Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue</title>
       <link>https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html</link>
@@ -11,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-29T17:10:56+00:00</pubDate>
       <importance>59</importance>
+    </item>
+    <item>
+      <title>What to Know About the Drones That Have Been Crossing Into Romania</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html</link>
+      <description>The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T21:57:15+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas</title>
@@ -53,36 +77,12 @@
       <importance>54</importance>
     </item>
     <item>
-      <title>Trump Threatens Oman Over the Strait, Then Says, ‘They’ll Be Fine.’</title>
-      <link>https://www.nytimes.com/2026/05/27/world/middleeast/trump-oman-strait-hormuz.html</link>
-      <description>President Trump said there would be serious repercussions if Iran and Oman move forward with a deal to open the Strait of Hormuz.</description>
+      <title>Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.</title>
+      <link>https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html</link>
+      <description>A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-27T23:07:50+00:00</pubDate>
-      <importance>54</importance>
-    </item>
-    <item>
-      <title>How Fuel Price Shocks Rattled a Remote New Zealand Village</title>
-      <link>https://www.nytimes.com/2026/05/29/world/australia/iran-war-fuel-price-new-zealand-village.html</link>
-      <description>The prices of diesel and gasoline soared after the Iran war started, piling more hardship on people in Ruatahuna, one of New Zealand’s most remote villages.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T14:12:54+00:00</pubDate>
-      <importance>34</importance>
-    </item>
-    <item>
-      <title>What’s Next for Blue Origin After Rocket Explosion</title>
-      <link>https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html</link>
-      <description>Jeff Bezos was gaining ground on Elon Musk’s SpaceX and Starlink. Thursday’s rocket explosion on a launchpad creates a major setback.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T21:51:12+00:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
-      <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
-      <description>The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-live-promo-4pm-vfzl/29mideast-live-promo-4pm-vfzl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-05-30T06:32:40+00:00</pubDate>
-      <importance>43</importance>
+      <pubDate>2026-05-29T23:09:37+00:00</pubDate>
+      <importance>38</importance>
     </item>
   </channel>
 </rss>
