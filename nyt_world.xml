@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 06:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 07:01:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
@@ -75,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/29/world/29int-eu-china-top-01/29int-eu-china-top-01-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-29T12:13:54+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.</title>
+      <link>https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html</link>
+      <description>A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-iran-hardliners-kvwj/29mideast-iran-hardliners-kvwj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T23:09:37+00:00</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
