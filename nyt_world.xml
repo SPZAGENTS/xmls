@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 12:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 13:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
@@ -37,6 +37,14 @@
       <importance>38</importance>
     </item>
     <item>
+      <title>Across the Middle East, Muslims Mark Eid Amid War and Crisis</title>
+      <link>https://www.nytimes.com/2026/05/30/world/middleeast/eid-al-adha-iran-gaza-lebanon.html</link>
+      <description>From Iran to Gaza, Eid al-Adha celebrations were muted as war dragged on and shortages of food and fuel roiled the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mideast-eid-wghz/29int-mideast-eid-wghz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-30T09:02:24+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
       <title>Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.</title>
       <link>https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html</link>
       <description>A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.</description>
@@ -58,6 +66,22 @@
       <description>The legislation, which comes amid growing tensions between Mexico and the White House, must be approved by a majority of state legislatures and sent to the president.</description>
       <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mexico-elections-photo-wflh/29int-mexico-elections-photo-wflh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-29T23:54:16+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>U.N. Adds Israeli and Russian Forces to Sexual Violence List</title>
+      <link>https://www.nytimes.com/2026/05/29/world/middleeast/israel-russia-un-sexual-violence.html</link>
+      <description>Israel has denied the accusations and condemned the report, which listed dozens of countries and nonstate groups as “credibly suspected” of patterns of rape and sexual violence.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-un-sexual-voilence-photo-thqv/29int-un-sexual-voilence-photo-thqv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T19:46:27+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Colombia’s Elections Are a Crucial Test for the Left in Latin America</title>
+      <link>https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html</link>
+      <description>Colombia’s leftist candidate for president leads in polls, but his main rival — a far-right outsider who calls himself “The Tiger” — has gained momentum. Elections are Sunday.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/30/multimedia/30int-colombia-election01-photo-kbjg/30int-colombia-election01-photo-kbjg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-30T09:01:43+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
