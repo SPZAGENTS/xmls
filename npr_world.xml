@@ -2,31 +2,79 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 09:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:46:15 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order</title>
+      <title>אישה אוסטרלית הואשמה בגין נסיעה לסוריה כדי להצטרף למדינה האסלאמית</title>
+      <link>https://www.npr.org/2026/05/28/g-s1-124669/australian-woman-charged-over-travel-to-syria-to-join-islamic-state</link>
+      <description>המעצר התרחש שמונה חודשים לאחר שחזרה לאוסטרליה עם ילדיה מלבנון.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-28T12:33:04-04:00</pubDate>
+      <importance>62</importance>
+    </item>
+    <item>
+      <title>נשים יהודיות אורתודוכסיות בישראל עשויות כעת לגשת לבחינה ברבנות, כמו גברים</title>
+      <link>https://www.npr.org/2026/05/28/g-s1-124466/israel-orthodox-jewish-women-exam-religion</link>
+      <description>עד כה, רק גברים יהודים אורתודוקסים בישראל הורשו להיבחן לרבנים. לאחר קמפיין ארוך, נשים יכולות כעת להיבחן - אך עדיין אינן יכולות להיות רבנות</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-28T12:16:56-04:00</pubDate>
+      <importance>52</importance>
+    </item>
+    <item>
+      <title>נציגי ישראל, לבנון ייפגשו. והשופט לא יחסום את צו ההצבעה של טראמפ בדואר</title>
       <link>https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting</link>
-      <description>Israel and Lebanon officials are set to meet today as U.S.-Iran peace talks continue. And, a federal judge declined to block Trump's executive order restricting mail-in voting.</description>
+      <description>גורמים רשמיים בישראל ולבנון אמורים להיפגש היום עם המשך שיחות השלום בין ארה&quot;ב לאיראן. וכן, שופט פדרלי סירב לחסום את הצו הביצועי של טראמפ המגביל את ההצבעה בדואר.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-29T07:40:46-04:00</pubDate>
-      <importance>37</importance>
+      <importance>47</importance>
     </item>
     <item>
-      <title>Asia defense summit opens amid doubts over U.S. priorities</title>
+      <title>פיצוץ רקטות Blue Origin עלול לעכב את תוכניות הירח של נאס&quot;א</title>
+      <link>https://www.nbcnews.com/nightly-news/video/blue-origin-rocket-explosion-could-delay-nasa-s-moon-plans-264201797730</link>
+      <description>כישלון גדול עבור Blue Origin ואולי גם עבור נאס&quot;א, לאחר שאחת מהרקטות ניו גלן של החברה התפוצצה אמש. איש לא נפגע. Blue Origin אמור לשחק תפקיד מפתח בדחיפה של נאס&quot;א לחזור לירח, אבל עכשיו לוח הזמנים של השיגור הזה מוטל בספק. טום קוסטלו מ-NBC מדווח.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T22:45:47</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>ראיון מורחב: טום לאמס יושב עם שר החוץ מרקו רוביו</title>
+      <link>https://www.nbcnews.com/nightly-news/video/extended-interview-tom-llamas-sits-down-with-secretary-of-state-marco-rubio-263412805963</link>
+      <description>בשולי פסגת טראמפ-שי בבייג'ינג, טום לאמס של חדשות NBC יושב עם שר החוץ מרקו רוביו כדי לדון במדיניות סין, המלחמה עם איראן, עתידה של קובה ועוד.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-15T22:30:24</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>ייתכן שאיראן השתמשה בטיל סיני כדי להפיל מטוס קרב אמריקאי, אומרים מקורות</title>
+      <link>https://www.nbcnews.com/politics/national-security/iran-may-used-chinese-missile-shoot-us-fighter-jet-sources-say-rcna347555</link>
+      <description>מטוס ה-F-15 שהופל מעל דרום מערב איראן בחודש שעבר ויצא למשימת חילוץ מסוכנת נפגע ככל הנראה על ידי טיל כתף מתוצרת סינית, אומרים מקורות.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T22:05:41</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>פיצוץ הרקטות של Blue Origin הוא כישלון גדול עבור יעדי הירח של נאס&quot;א</title>
+      <link>https://www.nbcnews.com/science/space/blue-origin-rocket-explosion-setback-nasa-moon-missions-rcna347522</link>
+      <description>הפיצוץ הענק במהלך ניסוי של רקטת Blue Origin מהווה בעיה הן עבור חברת החלל של ג'ף בזוס והן עבור נאס&quot;א.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-05-29T20:46:41</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>פסגת ההגנה של אסיה נפתחת על רקע ספקות לגבי סדרי העדיפויות של ארה&quot;ב</title>
       <link>https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities</link>
-      <description>The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine. </description>
+      <description>דיאלוג שנגרי-לה, בהנחיית המכון הבינלאומי למחקרים אסטרטגיים, יעסוק גם במתיחות במזרח התיכון ובמלחמה של רוסיה באוקראינה.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-29T08:57:25-04:00</pubDate>
-      <importance>27</importance>
+      <importance>32</importance>
     </item>
     <item>
-      <title>Here's how we're coping with high gas prices, according to Costco and Walmart</title>
-      <link>https://www.npr.org/2026/05/29/nx-s1-5838740/how-stressed-are-americans-about-high-gas-prices-fueling</link>
-      <description>Sky-high gas prices have drivers going out of their way for discounts at the pump. Oil executives warn that even higher prices might be on the horizon. </description>
+      <title>החזרה האפשרית של פיראטים סומליים מציבה בעיה חדשה עבור תעשיית הספנות</title>
+      <link>https://www.npr.org/2026/05/28/nx-s1-5815335-e1/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry</link>
+      <description>כשהכלכלה העולמית מתמקדת במשבר מיצרי הורמוז, משבר ספנות נוסף מתנשא באזור - שובם של פיראטים סומליים.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-05-29T12:57:09-04:00</pubDate>
-      <importance>17</importance>
+      <pubDate>2026-05-28T15:56:16-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
