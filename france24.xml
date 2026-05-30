@@ -1,88 +1,109 @@
-<?xml version='1.0' encoding='utf-8'?>
-<content-feed>
-  <title>France24 - Top 10 Articles</title>
-  <source>France24</source>
-  <generated>2026-05-09T10:14:00.000000</generated>
-  <items>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>France24 - Top Stories</title>
+    <lastBuildDate>Sat, 30 May 2026 14:05:51 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>US awaits Iran's response to latest proposal amid technical ceasefire</title>
-      <link>https://www.france24.com/en/video/20260509-us-awaits-iran-s-response-to-latest-proposal-amid-technical-ceasefire</link>
-      <summary>The US and Iran appeared no closer on Saturday to finding an end to their war after the two sides traded fire in the Gulf amid a tenuous ceasefire.</summary>
-      <pubDate>Sat, 09 May 2026 08:40:40 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/0a5f40fa-4b81-11f1-aff9-005056bf30b7/w:1024/p:16x9/EN-20260509-100429-100533-CS.jpg" type="image/jpeg" length="0" />
+      <title>Middle East Live: Iran says Trump 'betraying diplomacy' with blockade, excessive demands</title>
+      <link>https://www.france24.com/en/middle-east/20260530-middle-east-live-pentagon-chief-says-us-more-than-capable-of-restarting-war-with-iran</link>
+      <description>
+An adviser to Iran's Supreme Leader ‌Mojtaba Khamenei ‌on Saturday said that US President Donald Trump was &quot;betraying ‌diplomacy for the third ‌time&quot; by continuing a naval blockade in the Strait of Hormuz and making what he described as excessive demands in negotiations to end the conflict. Follow our live blog for the latest updates. 
+</description>
+      <imageUrl>https://s.france24.com/media/display/99e771ac-5c07-11f1-b8ea-005056a90284/w:1024/p:16x9/000-B49H7EQ.jpg</imageUrl>
+      <pubDate>2026-05-30T05:04:38</pubDate>
+      <importance>58</importance>
     </item>
     <item>
-      <title>Russia marks Victory Day with scaled-back parade</title>
-      <link>https://www.france24.com/en/russia-marks-victory-day-with-scaled-back-parade</link>
-      <summary>Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II. For the first time in nearly two decades, the parade took place without tanks, missiles and other heavy weapons.</summary>
-      <pubDate>Sat, 09 May 2026 08:35:29 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/d1c20bec-4b80-11f1-9d55-005056bf30b7/w:1024/p:16x9/EN-20260509-100206-100403-CS.jpg" type="image/jpeg" length="0" />
+      <title>Iran: Is Trump “Bored”?, Bolivia at “Breaking point” A Spanish Scandal</title>
+      <link>https://www.france24.com/en/tv-shows/the-world-this-week/20260529-iran-is-trump-bored-bolivia-at-breaking-point-a-spanish-scandal</link>
+      <description>
+It’s been a week where, 90 days into the conflict and ceasefire stand-off with Iran, both Tehran and Washington are insisting time is on their side — each claiming the other needs a deal more urgently.
+ 
+Pressure is growing on the Trump administration with soaring energy prices and midterm elections approaching, while Iran is reportedly losing huge oil revenues with tankers backed up in port. Reports suggested a temporary agreement to reopen the Strait of Hormuz was close, before the US struck </description>
+      <imageUrl>https://s.france24.com/media/display/5702292a-5b96-11f1-8217-005056a97e36/w:1024/p:16x9/capture-13064212496a19ebd4217bf4-08337753.jpg</imageUrl>
+      <pubDate>2026-05-29T19:45:47</pubDate>
+      <importance>58</importance>
     </item>
     <item>
-      <title>Live: Oil spill detected off Kharg Island in the Persian Gulf</title>
-      <link>https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf</link>
-      <summary>Satellite images show a large oil spill spreading off Iran's Kharg Island, a critical oil hub terminal for the Islamic republic. The apparent spill has raised concerns about the state of Iranian oil infrastructure as it faces mounting strain from a US-imposed naval blockade.</summary>
-      <pubDate>Sat, 09 May 2026 05:49:43 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/fe849ca0-4b65-11f1-a35e-005056bf30b7/w:1024/p:16x9/AP26128660561572.jpg" type="image/jpeg" length="0" />
+      <title>'More than 100,000 people live in this city': Israel urges Tyre residents to leave homes</title>
+      <link>https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes</link>
+      <description>
+FRANCE 24 correspondent Renée Davis reports from Beirut on the Israeli military's call for the population of Tyre in southern Lebanon to leave their homes ahead of a fresh wave of air strikes.
+</description>
+      <imageUrl>https://s.france24.com/media/display/8d19025e-5a01-11f1-ad01-005056a97e36/w:1024/p:16x9/EN-20260527-203230-203436-CS.jpg</imageUrl>
+      <pubDate>2026-05-27T19:25:22</pubDate>
+      <importance>38</importance>
     </item>
     <item>
-      <title>Russia is fighting an 'aggressive' NATO-backed force, Putin says in Victory Day speech</title>
-      <link>https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security</link>
-      <summary>Russian President Vladimir Putin said Saturday that Russian troops in Ukraine were fighting an "aggressive force" backed by all of NATO and described his war goals as "just" in a combative speech during the annual Victory Day parade on Red Square.</summary>
-      <pubDate>Sat, 09 May 2026 05:28:00 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/71dd9158-4b7e-11f1-936c-005056bf30b7/w:1024/p:16x9/2026-05-09T072633Z-1278418579-RC2J5LA5TBHU-RTRMADP-3-WW2-ANNIVERSARY-RUSSIA-PARADE.jpg" type="image/jpeg" length="0" />
+      <title>Israel declares new 'combat zone' in southern Lebanon, orders evacuations</title>
+      <link>https://www.france24.com/en/middle-east/20260528-israel-declares-new-combat-zone-in-southern-lebanon-and-orders-evacuations</link>
+      <description>
+Israel expanded its military campaign in southern Lebanon on Wednesday, ordering residents to evacuate areas south of the Zahrani River as strikes intensified despite an April ceasefire. The escalation comes as Israeli officials seek to pressure Hezbollah while avoiding actions in Beirut that could complicate US-led diplomacy with Iran.
+</description>
+      <imageUrl>https://s.france24.com/media/display/b3755e44-5a37-11f1-9870-005056a97e36/w:1024/p:16x9/b993308ab15251a30830211169b382467e301a69.jpg</imageUrl>
+      <pubDate>2026-05-28T02:52:24</pubDate>
+      <importance>53</importance>
     </item>
     <item>
-      <title>Magyar sworn in as prime minister as Hungary turns the page on Orban</title>
-      <link>https://www.france24.com/en/europe/20260509-magyar-set-to-become-hungary-s-new-prime-minister-in-historic-transition</link>
-      <summary>Hungary's parliament swore in opposition leader Peter Magyar as prime minister on Saturday, marking the end of Viktor Orban's 16 years in power after the pro-European conservative challenger won a landslide election victory.</summary>
-      <pubDate>Sat, 09 May 2026 05:19:15 GMT</pubDate>
-      <priority>100</priority>
-      <enclosure url="https://s.france24.com/media/display/9e981078-4b66-11f1-80b5-005056a90284/w:1024/p:16x9/9325fe9a0fac5563787872153731196e78eab821.jpg" type="image/jpeg" length="0" />
+      <title>Israeli strikes kill dozens in southern Lebanon as Netanyahu expands ground campaign</title>
+      <link>https://www.france24.com/en/middle-east/20260527-israeli-strikes-kill-31-southern-lebanon-netanyahu-expands-ground-campaign</link>
+      <description>
+Israeli strikes in southern Lebanon killed 31 people and wounded 40 on Tuesday, Lebanon’s health ministry said, including at least four children and three women, as Israel said it was intensifying operations despite a truce with the Iran-backed group Hezbollah.
+</description>
+      <imageUrl>https://s.france24.com/media/display/4807ae0a-51e0-11f1-9f52-005056bf30b7/w:1024/p:16x9/41e4679c0ba694fb3a105cb96a599b38a696efc0.jpg</imageUrl>
+      <pubDate>2026-05-27T02:56:09</pubDate>
+      <importance>53</importance>
     </item>
     <item>
-      <title>Hantavirus-hit cruise ship heads for Canary Islands to evacuate passengers</title>
-      <link>https://www.france24.com/en/video/20260509-hantavirus-hit-cruise-ship-heads-for-canary-islands-to-evacuate-passengers</link>
-      <summary>Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands. The vessel is expected to arrive Sunday at the Spanish island of Tenerife.</summary>
-      <pubDate>Sat, 09 May 2026 08:39:54 GMT</pubDate>
-      <priority>85</priority>
-      <enclosure url="https://s.france24.com/media/display/a7fc2274-4b81-11f1-9353-005056bf30b7/w:1024/p:16x9/EN-20260509-100839-101014-CS.jpg" type="image/jpeg" length="0" />
+      <title>Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says</title>
+      <link>https://www.france24.com/en/middle-east/20260527-trump-board-of-peace-official-gaza-fund-is-empty-despite-billions-pledged-source-says</link>
+      <description>
+Four months after its creation, the Gaza reconstruction fund of US President Donald Trump's so-called Board of Peace has yet to receive any of the billions of dollars pledged by donor countries. Israel has continued to carry out strikes across the devastated Palestinian territory despite a US-backed ceasefire, killing at least 910 people since the truce was signed.
+</description>
+      <imageUrl>https://s.france24.com/media/display/0695903c-59d7-11f1-8875-005056bf30b7/w:1024/p:16x9/AP26139511587618.jpg</imageUrl>
+      <pubDate>2026-05-27T14:49:43</pubDate>
+      <importance>48</importance>
     </item>
     <item>
-      <title>After losing influence in West Africa, France seeks a regional reset at Kenya summit</title>
-      <link>https://www.france24.com/en/africa/20260509-after-losing-influence-in-west-africa-france-seeks-a-regional-reset-at-kenya-summit</link>
-      <summary>Seeking to rebuild French influence in Africa after a series of setbacks in former West African colonies, France will co-host a summit in Kenya next week aimed at strengthening political, security and economic ties with a range of African partners.</summary>
-      <pubDate>Sat, 09 May 2026 08:21:03 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://s.france24.com/media/display/fd9b4370-4b79-11f1-9e0b-005056a97e36/w:1024/p:16x9/Macron-Cairo.jpg" type="image/jpeg" length="0" />
+      <title>Hamas's armed wing confirms Israel killed its new leader in Gaza strike</title>
+      <link>https://www.france24.com/en/middle-east/20260527-israeli-defence-ministry-says-it-killed-new-hamas-military-leader-in-gaza</link>
+      <description>
+Hamas’s armed wing confirmed on Wednesday that Israel killed its new leader Mohammed Odeh in a strike in Gaza City Tuesday, less than two weeks after killing his predecessor. Israeli Defence Minister Israel Katz called Odeh “one of the architects” of the October 7 attacks that triggered more than two years of war in Gaza.
+</description>
+      <imageUrl>https://s.france24.com/media/display/0c9c3ab8-59c2-11f1-a616-005056bf30b7/w:1024/p:16x9/AP26147354093352.jpg</imageUrl>
+      <pubDate>2026-05-27T12:02:33</pubDate>
+      <importance>48</importance>
     </item>
     <item>
-      <title>Trump announces three-day ceasefire between Ukraine and Russia</title>
-      <link>https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia</link>
-      <summary>US President Donald Trump on Friday announced a three-day ceasefire between Russia and Ukraine, starting on May 9. Aside from a pause in the fighting, the two warring sides will also engage in a prisoner swap, with 1,000 prisoners from each country.</summary>
-      <pubDate>Fri, 08 May 2026 18:10:31 GMT</pubDate>
-      <priority>80</priority>
-      <enclosure url="https://s.france24.com/media/display/70998870-4b0a-11f1-aa42-005056a90284/w:1024/p:16x9/AP26128622672159.jpg" type="image/jpeg" length="0" />
+      <title>Iran says US violated ceasefire with strikes near Hormuz</title>
+      <link>https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war</link>
+      <description>
+Iran accused the United States on Tuesday of breaching a fragile ceasefire with strikes near the Strait of Hormuz, threatening efforts to end nearly seven weeks of conflict. Washington said the attacks were defensive, targeting missile sites and vessels allegedly laying mines.
+</description>
+      <imageUrl>https://s.france24.com/media/display/0b6763b4-5942-11f1-9c62-005056bf30b7/w:1024/p:16x9/2026-05-25T075848Z-659588863-RC26GLAWZ5L4-RTRMADP-3-IRAN-CRISIS.jpg</imageUrl>
+      <pubDate>2026-05-26T22:31:03</pubDate>
+      <importance>48</importance>
     </item>
     <item>
-      <title>South Africa's highest court revives impeachment proceedings against president Cyril Ramaphosa</title>
-      <link>https://www.france24.com/en/tv-shows/eye-on-africa/20260508-south-africa-s-highest-court-revives-impeachment-proceedings-against-the-president-cyril-ramaphosa</link>
-      <summary>South Africa's President is facing impeachment in a long-running scandal known as Farmgate. The Constitutional Court has lifted an earlier ruling that blocked proceedings. He denies any wrongdoing.</summary>
-      <pubDate>Fri, 08 May 2026 21:05:39 GMT</pubDate>
-      <priority>85</priority>
-      <enclosure url="https://s.france24.com/media/display/279f915e-4b1a-11f1-bbba-005056a97e36/w:1024/p:16x9/ANGL260508-2140-Live.jpg" type="image/jpeg" length="0" />
+      <title>Trump says no country will control Hormuz Strait under future Iran deal</title>
+      <link>https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon</link>
+      <description>
+President Donald Trump on Wednesday told his cabinet that “nobody” would control the Strait of Hormuz under a future settlement with Iran, but maintained that the US would “watch over” the critical waterway. Tehran effectively closed the Strait to commercial shipping in response to the US-Israeli war on Iran, triggering a global oil shock. Follow our liveblog to see how the day's events unfolded.
+</description>
+      <imageUrl>https://s.france24.com/media/display/82cf8fa4-59f0-11f1-a1bb-005056a90284/w:1024/p:16x9/AP26124422131063.jpg</imageUrl>
+      <pubDate>2026-05-27T01:48:09</pubDate>
+      <importance>43</importance>
     </item>
     <item>
-      <title>British PM Starmer says he won't quit after local elections drubbing</title>
-      <link>https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing</link>
-      <summary>British Prime Minister Keir Starmer said Friday he will not resign after local elections that saw his governing Labour Party suffer big losses and the hard-right Reform UK make important gains.</summary>
-      <pubDate>Fri, 08 May 2026 19:11:17 GMT</pubDate>
-      <priority>75</priority>
-      <enclosure url="https://s.france24.com/media/display/b0286dd8-4b11-11f1-bef8-005056bfb2b6/w:1024/p:16x9/5a55f6bfc9a1412e705493101afcc551c172ad6a.jpg" type="image/jpeg" length="0" />
+      <title>Still no deal between Iran and the US after a two-hour Situation Room meeting</title>
+      <link>https://www.france24.com/en/still-no-deal-between-iran-and-the-us-after-a-two-hour-situation-room-meeting</link>
+      <description>
+There is still no progress on a peace deal in Iran. Washington and Tehran’s statements about the state of negotiations are conflicting, with President Donald Trump emerging empty-handed from a two-hour meeting on the latest proposal from Iran. Trump wants Tehran to remove mines from the Strait of Hormuz and agree to destroy its enriched uranium, and Iran wants billions of dollars in assets unfrozen. Story by Charlotte Hughes and Thibault Franceschet.
+</description>
+      <imageUrl>https://s.france24.com/media/display/680b9108-5c03-11f1-a505-005056a90284/w:1024/p:16x9/EN-20260530-100606-100741-CS.jpg</imageUrl>
+      <pubDate>2026-05-30T08:56:11</pubDate>
+      <importance>38</importance>
     </item>
-  </items>
-</content-feed>
+  </channel>
+</rss>
