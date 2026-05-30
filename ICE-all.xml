@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>ICE - Top Stories</title>
-    <lastBuildDate>Thu, 07 May 2026 10:00:00 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+    <link>https://www.ice.co.il</link>
+    <description>SPZ News Aggregator — כל הכתבות החמות מאתר ICE</description>
+    <language>he</language>
+    <lastBuildDate>Sat, 30 May 2026 15:26:00 +0300</lastBuildDate>
+
+    <item>
+      <title>האיש שהתעשר ב-35 מיליארד דולר ביום אחד – ועקף את מארק צוקרברג</title>
+      <link>https://www.ice.co.il/finance/news/article/1114796</link>
+      <guid isPermaLink="true">https://www.ice.co.il/finance/news/article/1114796</guid>
+      <pubDate>Fri, 29 May 2026 17:55:00 +0300</pubDate>
+      <description>מייקל דל רשם זינוק חריג בהונו האישי לאחר שמניית Dell Technologies קפצה ב־32.1% עם פתיחת המסחר בוול סטריט, בעקבות דוחות חזקים ותחזית מכירות משופרת. העלייה הוסיפה כ־35.8 מיליארד דולר להונו, והוא עקף את מארק צוקרברג בדרך למקום השישי בדירוג עשירי העולם.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_308/rsz_615_346_11ice23032022.jpg" />
+    </item>
+
+    <item>
+      <title>מונדיאל 2026: 5 עובדות על הטורניר הגדול בעולם</title>
+      <link>https://www.ice.co.il/top-5/news/article/1114540</link>
+      <guid isPermaLink="true">https://www.ice.co.il/top-5/news/article/1114540</guid>
+      <pubDate>Fri, 29 May 2026 17:00:00 +0300</pubDate>
+      <description>המונדיאל ביבשת צפון אמריקה הולך לשבור שיאים לא רק על המגרש. עם תפוקה כלכלית של מיליארדי דולרים, מעבר היסטורי של הצופים מהטלוויזיה לסטרימינג ואתגר לוגיסטי בשלוש מדינות במקביל. אלו הנתונים שמאחורי אירוע הענק.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_600/rsz_615_346_%D7%92%D7%91%D7%99%D7%A2%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D%202026.png" />
+    </item>
+
+    <item>
+      <title>בעשרות מיליוני שקלים: סיכום עסקאות הנדל"ן השבועי של הסלבס</title>
+      <link>https://www.ice.co.il/financial-gossip/news/article/1114500</link>
+      <guid isPermaLink="true">https://www.ice.co.il/financial-gossip/news/article/1114500</guid>
+      <pubDate>Fri, 29 May 2026 16:00:00 +0300</pubDate>
+      <description>גל רכישות ומכירות ענק בביצה המקומית: מצביקה הדר שנפרד מווילה יוקרתית בצהלה, ועד לערן זהבי העבר שהשקיע 21 מיליון שקל בקרקע חקלאית ומשרדים — אלו עסקאות השבוע של הסלבס.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_600/rsz_615_346_17372805202666.jpg" />
+    </item>
+
+    <item>
+      <title>סיפרו לנו שמחירי הדירות יורדים ב-30% - ואז הגיעו הדוחות</title>
+      <link>https://www.ice.co.il/realestate/news/article/1114735</link>
+      <guid isPermaLink="true">https://www.ice.co.il/realestate/news/article/1114735</guid>
+      <pubDate>Fri, 29 May 2026 15:03:59 +0300</pubDate>
+      <description>השבוע נציין שנה למהלך של גינדי שטלטל את השוק — מה קרה מאז והאם המחיר הממוצע לדירות היוקרה במתחם שדה דב אכן ירד? שוק המשכנתאות נמצא בנקודת פיתול שספק אם ראינו בשנתיים האחרונות — האם זה הזמן לקנות דירה ועל השינוי שעשוי להתרחש ב-6 ביולי.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_558/rsz_615_346_20ice27082025.jpg" />
+    </item>
+
+    <item>
+      <title>פרס של 10 מיליון דולר - זה השיא שאתם צריכים לשבור</title>
+      <link>https://www.ice.co.il/sport_news/news/article/1114793</link>
+      <guid isPermaLink="true">https://www.ice.co.il/sport_news/news/article/1114793</guid>
+      <pubDate>Fri, 29 May 2026 14:58:23 +0300</pubDate>
+      <description>מארגני "משחקי ההעצמה" השנויים במחלוקת מודיעים: אחרי שחולקו כבר 1.5 מיליון דולר לשחיין שקבע "שיא" תחת השפעת חומרים משפרי ביצועים, המטרה הבאה היא שבירת שיא הריצה האולימפי של יוסיין בולט.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_346/rsz_615_346_%D7%91%D7%95%D7%9C%D7%98.jpg" />
+    </item>
+
+    <item>
+      <title>יום ירוק למדדים, בזן הפסידה 4.82% מערכה | סיכום המסחר בבורסה</title>
+      <link>https://www.ice.co.il/finance/news/article/1114789</link>
+      <guid isPermaLink="true">https://www.ice.co.il/finance/news/article/1114789</guid>
+      <pubDate>Fri, 29 May 2026 14:53:00 +0300</pubDate>
+      <description>הבורסה לניירות ערך בתל אביב סגרה את שעריה היום עם יום חיובי בשני מדדי הדגל המרכזיים. במגזרת המניות העולות, דוראל אנרגיה מובילה את הרשימה, בעוד שנטו מלינדה פותחת את טבלת המפסידות של היום.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_582/rsz_615_346_37ice06012026.jpg" />
+    </item>
+
+    <item>
+      <title>לאחר כעשור: זו המדינה שעקפה את שוויץ והפכה ליקרה ביותר בעולם</title>
+      <link>https://www.ice.co.il/global-news/news/article/1114792</link>
+      <guid isPermaLink="true">https://www.ice.co.il/global-news/news/article/1114792</guid>
+      <pubDate>Fri, 29 May 2026 14:39:12 +0300</pubDate>
+      <description>לאחר שנים רצופות ששוויץ נשארה במקום הראשון עם יוקר המחיה הגבוה בעולם, כעת המדינה האירופאית עוקפת אותה בשלוש נקודות האחוז, מה שממחיש את הטלטלה הכלכלית שחווה המדינה.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_594/rsz_615_346_%D7%90%D7%99%D7%A1%D7%9C%D7%A0%D7%93.jpg" />
+    </item>
+
+    <item>
+      <title>אסף גרניט מגיב, ומחזק את הקולגה שבכה: "שוק תחרותי וקשה"</title>
+      <link>https://www.ice.co.il/food/news/article/1114794</link>
+      <guid isPermaLink="true">https://www.ice.co.il/food/news/article/1114794</guid>
+      <pubDate>Fri, 29 May 2026 14:38:51 +0300</pubDate>
+      <description>המסעדה הכשרה של השף רז שבתאי במיאמי הוכרזה כזוכה בכוכב מישלן. השף אסף גרניט, שכבר יודע איך זה מרגיש, מפרגן בענק: "מרגש כל כך לשמוע".</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_547/rsz_615_346_26ice07072025.jpg" />
+    </item>
+
+    <item>
+      <title>נועה קירל מאושרת: דניאל פרץ נהיה שווה יותר</title>
+      <link>https://www.ice.co.il/sport_news/news/article/1114791</link>
+      <guid isPermaLink="true">https://www.ice.co.il/sport_news/news/article/1114791</guid>
+      <pubDate>Fri, 29 May 2026 14:36:15 +0300</pubDate>
+      <description>נועה קירל: אחרי שהמעבר של בעלה לסאות'המפטון התברר כהצלחה פנומנלית. עם 21 משחקי ליגה רצופים ללא הפסד ו-9 שערים נקיים, אתר "טרנספרמרקט" מציג עדכון דרמטי ומקפיץ את שווי השוק שלו ל-4 מיליון יורו תוך חצי שנה.</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_582/rsz_615_346_23ice07012026.jpg" />
+    </item>
+
+    <item>
+      <title>משחק המלכים פוגש את עולם הגיימינג: פאפאיה באירוע ייחודי</title>
+      <link>https://www.ice.co.il/sport_news/news/article/1114790</link>
+      <guid isPermaLink="true">https://www.ice.co.il/sport_news/news/article/1114790</guid>
+      <pubDate>Fri, 29 May 2026 14:24:51 +0300</pubDate>
+      <description>ענקית הגיימינג, פאפאיה, באירוע שחמט ייחודי במשרדי החברה: "משחק השחמט הוא אחת הזירות המזוקקות ביותר לכישרון, אסטרטגיה ותחרותיות אמיתית — ערכים שמייצגים בדיוק את גישת ה-Play For Real שלנו בפאפאיה".</description>
+      <media:content medium="image" url="http://img.ice.co.il/giflib/news/rsPhoto/sz_600/rsz_615_346_%D7%AA%D7%9E%D7%95%D7%A0%D7%AA%20%D7%90%D7%95%D7%95%D7%99%D7%A8%D7%94%20%D7%9E%D7%94%D7%98%D7%95%D7%A8%D7%A0%D7%99%D7%A8.jpeg" />
+    </item>
+
   </channel>
 </rss>
