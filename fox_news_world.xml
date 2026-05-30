@@ -1,88 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 14:05:51 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+<?xml version='1.0' encoding='utf-8'?>
+<content-feed>
+  <title>Fox News World - Top 10 Articles</title>
+  <source>Fox News World</source>
+  <generated>2026-04-09T03:00:55.220794</generated>
+  <items>
     <item>
-      <title>Pentagon hosts first-ever Israeli–Lebanese military talks aimed at curbing Hezbollah</title>
-      <link>https://www.foxnews.com/world/pentagon-hosts-first-ever-israeli-lebanese-military-talks-aimed-curbing-hezbollah</link>
-      <description>Israeli and Lebanese military delegations open U.S.-brokered talks at the Pentagon focused on ceasefire enforcement and border stability amid tensions.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hezbollah-israel-lebanon.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-29T14:15:21-04:00</pubDate>
-      <importance>42</importance>
+      <title>Iran threatens to end ceasefire over Hezbollah's exclusion from truce deal</title>
+      <link>https://www.foxnews.com/world/iran-threatens-end-ceasefire-over-hezbollahs-exclusion-from-truce-deal</link>
+      <summary>Iran says the U.S. must choose between ceasefire or war via Israel as Tuesday&amp;apos;s ceasefire deal excludes Tehran-backed terrorist group Hezbollah.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:58:48 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hezbollah-iran.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Hamas struggles to fill leadership ranks as Israel hunts Oct 7 terrorists</title>
-      <link>https://www.foxnews.com/world/hamas-struggles-fill-leadership-ranks-israel-hunts-oct-7-terrorists</link>
-      <description>Hours after an Israeli airstrike killed Hamas military wing chief Mohammed Odeh, Gaza&amp;apos;s Eid markets were full, revealing a disconnect with Hamas.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/hamas-terrorists-gaza-rubble-1.jpeg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-29T06:00:20-04:00</pubDate>
-      <importance>42</importance>
+      <title>UK's NATO show of force ends with docked destroyer in Mediterranean after 'technical' issue</title>
+      <link>https://www.foxnews.com/world/uks-nato-show-force-ends-docked-destroyer-mediterranean-after-technical-issue</link>
+      <summary>The U.K. docked its sole naval warship in the Mediterranean due to technical issues amid growing criticism of PM Starmer&amp;apos;s response to the Iran war.</summary>
+      <pubDate>Wed, 08 Apr 2026 16:11:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Starmer-HMS-Destroyer.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Israel eliminates head of Hamas' military wing in Gaza strike</title>
-      <link>https://www.foxnews.com/world/israel-eliminates-head-hamas-military-wing-gaza-strike</link>
-      <description>Israeli forces killed Mohammed Odeh, the new head of Hamas&amp;apos; military wing, in an airstrike in northern Gaza, according to the Israel Defense Forces.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/gaza-city-israel-airstrike-fox-news-001.jpeg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-27T11:14:54-04:00</pubDate>
-      <importance>42</importance>
+      <title>Evangelical leaders rally for Trump and Israel as Operation Epic Fury reshapes the region</title>
+      <link>https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region</link>
+      <summary>Evangelical leaders say support for Israel has remained strong during Operation Epic Fury, the joint U.S.-Israel military campaign against Iran, as a new ceasefire takes hold.</summary>
+      <pubDate>Wed, 08 Apr 2026 10:23:43 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/israel-usa-iran-lebanon-missile-drone-strikes-fox-news-036.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Israeli ambassador compares France's far-left leader's rhetoric to Hitler as antisemitism surges</title>
-      <link>https://www.foxnews.com/world/israeli-ambassador-compares-frances-far-left-leaders-rhetoric-hitler-antisemitism-surges</link>
-      <description>France recorded 1,320 antisemitic acts in 2025, up from 436 in 2022, as Jewish families alter daily habits to avoid being identified, CRIF&amp;apos;s president says.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/jean-luc-melenchon-french-opposition-leader.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-27T06:00:32-04:00</pubDate>
-      <importance>42</importance>
+      <title>Iran's UN ambassador takes swipe at Trump in final hours before Strait of Hormuz deadline</title>
+      <link>https://www.foxnews.com/world/irans-un-ambassador-takes-swipe-trump-final-hours-strait-hormuz-deadline</link>
+      <summary>Iran&amp;apos;s UN ambassador is calling one of President Donald Trump&amp;apos;s posts on Truth Social on Tuesday “deeply irresponsible&amp;quot; and “profoundly alarming.&amp;quot;</summary>
+      <pubDate>Tue, 07 Apr 2026 14:28:19 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Iran-UN-ambassador-Trump.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Israel accuses UN of placing it on same sexual violence blacklist as Hamas terrorists, severs ties</title>
-      <link>https://www.foxnews.com/world/israel-accuses-un-placing-sexual-violence-blacklist-hamas-terrorists-severs-ties</link>
-      <description>Israeli officials blast the U.N. after accusing the body of placing Israel on a sexual violence blacklist that also includes Hamas and other terrorist groups.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/danon.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-28T15:09:28-04:00</pubDate>
-      <importance>32</importance>
+      <title>China aiding Iran missile program amid US-Israeli strikes, reports say</title>
+      <link>https://www.foxnews.com/world/china-aiding-iran-missile-program-amid-us-israeli-strikes-reports-say</link>
+      <summary>China is reportedly sending missile fuel materials to Iran to help rebuild its missile program amid continuing U.S.-Israeli strikes aimed against the Tehran regime.</summary>
+      <pubDate>Tue, 07 Apr 2026 13:54:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/931/523/gettyimages-506421604.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'</title>
-      <link>https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute</link>
-      <description>Czech Foreign Minister Macinka voices strong support for Trump, defends increased European defense spending and warns Iran poses a global nuclear threat.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/container-ship-strait-hormuz-iran-ap-fox-news-optimized.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-27T13:35:05-04:00</pubDate>
-      <importance>27</importance>
+      <title>Russia, China veto UN resolution aimed at reopening Strait of Hormuz, hours before Trump deadline</title>
+      <link>https://www.foxnews.com/world/russia-china-veto-un-resolution-aimed-reopening-strait-hormuz-hours-trump-deadline</link>
+      <summary>Russia and China vetoed a U.N. resolution to reopen the Strait of Hormuz hours before President Donald Trump&amp;apos;s deadline for Iran to stop threatening the vital waterway.</summary>
+      <pubDate>Tue, 07 Apr 2026 13:50:52 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/un-security-council-vote-strait-hormuz-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Iran and Houthi terror proxy facing Red Sea threat from pro-US African nation</title>
-      <link>https://www.foxnews.com/world/iran-houthi-terror-proxy-facing-red-sea-threat-from-pro-us-african-nation</link>
-      <description>Sen. Ted Cruz advocates recognizing Somaliland as the U.S. reportedly explores military access to the breakaway state&amp;apos;s port and airbase facilities.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/somaliland-independence-day.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-27T07:21:26-04:00</pubDate>
-      <importance>22</importance>
+      <title>US embassies in Bahrain, Egypt issue warnings as Iran threatens universities across Middle East</title>
+      <link>https://www.foxnews.com/world/us-embassies-bahrain-egypt-issue-warnings-iran-threatens-universities-across-middle-east</link>
+      <summary>The U.S. Embassy in Bahrain orders Americans to shelter in place, warning that Iran may target American universities in the country and across the Middle East.</summary>
+      <pubDate>Tue, 07 Apr 2026 12:27:01 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/manama-bahrain-market.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Iran signals ‘mass sacrifice’ in 'high stakes' Saddam-era warning amid Trump deal talks</title>
-      <link>https://www.foxnews.com/world/iran-signals-mass-sacrifice-high-stakes-saddam-era-warning-amid-trump-deal-talks</link>
-      <description>Expert says Iran&amp;apos;s Pezeshkian mapped a foundational wartime symbol onto current U.S. and Israel tensions, signaling Tehran won&amp;apos;t back down easily.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/iran-president-trump.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-25T16:11:19-04:00</pubDate>
-      <importance>37</importance>
+      <title>3 gunmen open fire outside Israeli consulate in Istanbul, dubbed 'terrorists' by Turkish official</title>
+      <link>https://www.foxnews.com/world/3-gunmen-open-fire-outside-israeli-consulate-istanbul-dubbed-terrorists-turkish-official</link>
+      <summary>One attacker is dead and two others injured after a gunfight with police outside the Israeli consulate in Istanbul, Turkey&amp;apos;s interior minister says.</summary>
+      <pubDate>Tue, 07 Apr 2026 09:21:58 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/turkish-police-israeli-consulate-fox-news-001.jpeg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Funerals, beauty queens and bombs: The Ukrainian city that won’t let Putin win</title>
-      <link>https://www.foxnews.com/world/funerals-beauty-queens-bombs-ukrainian-city-wont-let-putin-win</link>
-      <description>Mayor Sadovyi says Lviv has lost 2,000 citizens and built rehabilitation centers as the city tries to remain unbroken amid Russia&amp;apos;s ongoing war.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/lviv-funeral.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-26T14:41:34-04:00</pubDate>
-      <importance>17</importance>
+      <title>Iran executes people, including teens, by hanging</title>
+      <link>https://www.foxnews.com/world/iran-executes-people-including-teens-hanging</link>
+      <summary>The nation of Iran has been carrying out executions, including of teenagers, as the U.S. and Israel wage war against the country, reports indicate.</summary>
+      <pubDate>Mon, 06 Apr 2026 11:48:27 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/iran-flag-rubble-march-2026.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
     <item>
-      <title>Pope Leo warns AI risks becoming tool of 'domination, exclusion and death' in new encyclical</title>
-      <link>https://www.foxnews.com/world/pope-leo-warns-ai-risks-becoming-tool-domination-exclusion-death-new-encyclical</link>
-      <description>The pope unveils &amp;quot;Magnifica Humanitas&amp;quot; encyclical, warning artificial intelligence risks becoming a tool of domination unless governments set moral limits.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Pope-On-AI-Photo-2.jpeg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-05-25T14:31:10-04:00</pubDate>
-      <importance>17</importance>
+      <title>IDF confirms IRGC intel chief killed; Quds Force commander also eliminated in strike</title>
+      <link>https://www.foxnews.com/world/idf-confirms-irgc-intel-chief-killed-quds-force-commander-also-eliminated-strike</link>
+      <summary>Israel announces IRGC intelligence chief Majid Khademi was killed in a precision strike that also took out Quds Force special operations commander Bagheri.</summary>
+      <pubDate>Mon, 06 Apr 2026 07:07:22 -0400</pubDate>
+      <priority>100</priority>
+      <media>
+        <image>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/majid-khademi-map-split.jpg?ve=1&amp;tl=1</image>
+        <type>image/jpeg</type>
+      </media>
     </item>
-  </channel>
-</rss>
+  </items>
+</content-feed>
