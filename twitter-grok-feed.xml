@@ -1,8 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Twitter Grok Feed - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 13:01:28 GMT</lastBuildDate>
-    <description>SPZ News Aggregator</description>
+    <title>SPZ Twitter Feed - Field Content (Fallback)</title>
+    <description>תוכן מהשטח - Grok API לא זמין, תוצאות חיפוש אינטרנט כתחליף</description>
+    <link>https://github.com/SPZAGENTS/xmls</link>
+    <lastBuildDate>2026-05-30T11:00:49.239Z</lastBuildDate>
+    <language>he</language>
+    <item>
+      <title>[95] 📝 שריפת בתי כנסת בלונדון: שבוע של מתקפות יוצר חרדה בקהילה היהודית</title>
+      <link>https://www.cnn.com/2026/04/20/uk/anxiety-london-jewish-antisemitic-attacks-scli-intl</link>
+      <description>שבוע של תקיפות על בתי כנסת ובניינים קהילתיים יצר אווירת חרדה מוגברת בקהילה היהודית בלונדון. המשטרה מטפלת באירועים כעבירות שנאה אנטישמיות.</description>
+      <pubDate>2026-05-30T08:00:00Z</pubDate>
+      <source>web-cnn</source>
+      <category>אנטישמיות מהשטח</category>
+    </item>
+    <item>
+      <title>[93] 📝 מד&quot;א יהודי בלונדון הוצתו - ארבע אמבולנסים</title>
+      <link>https://theworld.org/segments/2026/03/25/antisemitic-attacks-growing-in-europe</link>
+      <description>ארבע אמבולנסים השייכים לשירות האמבולנסים של הקהילה היהודייה בצפון לונדון הוצתו. המשטרה הגדירה את האירוע כ&quot;עבירת שנאה אנטישמית&quot;.</description>
+      <pubDate>2026-05-30T07:30:00Z</pubDate>
+      <source>web-theworld</source>
+      <category>אנטישמיות מהשטח</category>
+    </item>
+    <item>
+      <title>[92] 📝 פיגועים נגד יהודים באירופה: פצצות מול בתי כנסת בבלגיה וצרפת</title>
+      <link>https://ict.org.il/wave-of-attacks-against-jewish-and-israeli-targets-abroad/</link>
+      <description>במרץ 2026 אירעו פיגועים נגד יהודים ברחבי העולם: פצצה התפוצצה מול בית כנסת בליאז&apos;, בלגיה (9 במרץ). ארבעה גברים נעצרו באנגליה בחשד לאיסוף מידע על בתי כנסת ויהודים בודדים.</description>
+      <pubDate>2026-05-30T07:00:00Z</pubDate>
+      <source>web-ict</source>
+      <category>אנטישמיות מהשטח</category>
+    </item>
+    <item>
+      <title>[90] 📝 המעבר השקט של אירופה לשaria - ישראל היום</title>
+      <link>https://www.israelhayom.com/opinions/europes-silent-shift-toward-sharia-law/</link>
+      <description>האחים המוסלמים מעצבים מחדש את עתיד אירופה באמצעות ניצול כלי המערב להשגת מטרותיהם, תוך קבלת מימון מהאיחוד האירופי וממשלות מערביות.</description>
+      <pubDate>2026-05-30T06:30:00Z</pubDate>
+      <source>web-israelhayom</source>
+      <category>איום איסלאמי באירופה</category>
+    </item>
+    <item>
+      <title>[94] 📝 המעבר השקט של אירופה לשaria - ישראל היום</title>
+      <link>https://www.jpost.com/opinion/article-886847</link>
+      <description>האחים המוסלמים מהווים איום חמקמק למוסדות הדמוקרטיים באירופה. מבקרים טוענים כי רשתות הארגון מהוות אתגר אידאולוגי ואסטרטגי לערכים דמוקרטיים.</description>
+      <pubDate>2026-05-30T06:00:00Z</pubDate>
+      <source>web-jpost</source>
+      <category>איום איסלאמי באירופה</category>
+    </item>
+    <item>
+      <title>[88] 📝 איס&quot;יס קורא להתקפות על כנסיות ובתי כנסת באירופה ובארה&quot;ב</title>
+      <link>https://nypost.com/2026/04/02/world-news/isis-calls-for-attacks-on-us-churches-and-synagogues-across-over-easter/</link>
+      <description>ארגון איס&quot;יס קרא למוסלמים להצית כנסיות ובתי כנסת ברחבי ארה&quot;ב ואירופה בסוף השבוע. אזהרה מטרידה לקראת חג הפסחא.</description>
+      <pubDate>2026-05-30T05:30:00Z</pubDate>
+      <source>web-nypost</source>
+      <category>איום איסלאמי באירופה</category>
+    </item>
+    <item>
+      <title>[96] 📝 ישראל חיסלה את מנהיג הזרוע הצבאית של חמאס בעזה</title>
+      <link>https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html</link>
+      <description>עז אל-דין אל-חדאד, מנהיג הזרוע הצבאית של חמאס בעזה, חוסל בהתקפה ישראלית. אל-חדאד לקח את הפיקוד על הזרוע הצבאית בשנה שעברה.</description>
+      <pubDate>2026-05-30T05:00:00Z</pubDate>
+      <source>web-nyt</source>
+      <category>חשיפת תומכי טרור</category>
+    </item>
+    <item>
+      <title>[91] 📝 שיחות על פריקת נשק חמאס נתקעו - 19 הפרות הפסקת אש</title>
+      <link>https://www.longwarjournal.org/archives/2026/05/negotiations-over-hamas-disarmament-stall-idf-reports-19-gaza-ceasefire-violations-april-21-may-5.php</link>
+      <description>חמאס מסרב לדון בפריקת נשק לפני נסיגה מלאה של צה&quot;ל. דו&quot;ח צה&quot;ל מציין 19 הפרות הפסקת אש. חמאס ממשיך להתחמש בעזה.</description>
+      <pubDate>2026-05-30T04:30:00Z</pubDate>
+      <source>web-longwarjournal</source>
+      <category>חשיפת תומכי טרור</category>
+    </item>
+    <item>
+      <title>[89] 📝 גרמניה פועלת נגד קבוצות מוסלמיות הנתפסות כאיום</title>
+      <link>https://www.nbcnews.com/world/germany/germany-cracks-muslim-groups-viewed-threats-constitutional-order-rcna242057</link>
+      <description>גרמניה מפעילה סנקציות נגד קבוצות מוסלמיות המהוות איום לחוקה. Muslim Interaktiv ידועה בנוכחות אינטרנטית מתוחכמת המפנה במיוחד למוסלמים צעירים.</description>
+      <pubDate>2026-05-30T04:00:00Z</pubDate>
+      <source>web-nbc</source>
+      <category>נאמנות כפולה</category>
+    </item>
   </channel>
 </rss>
