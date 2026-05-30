@@ -2,87 +2,63 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 11:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 11:09:14 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal</title>
+      <title>עדכונים חיים של מלחמת איראן: אי הוודאות תלויה בשיחות כאשר נותרו נקודות תקיעה</title>
       <link>https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal</link>
-      <description>The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-30T02:01:16+00:00</pubDate>
-      <importance>58</importance>
-    </item>
-    <item>
-      <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
-      <description>U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T07:13:34+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>Israeli Troops Push Deeper Into Lebanon as Cease-Fire Talks Continue</title>
-      <link>https://www.nytimes.com/2026/05/29/world/middleeast/israel-lebanon-litani-troops-talks.html</link>
-      <description>Prime Minister Benjamin Netanyahu said Israeli ground forces had crossed Lebanon’s Litani River, as military officials from the two countries were set to meet for U.S.-brokered talks.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T17:10:56+00:00</pubDate>
-      <importance>59</importance>
-    </item>
-    <item>
-      <title>What to Know About the Drones That Have Been Crossing Into Romania</title>
-      <link>https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html</link>
-      <description>The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T21:57:15+00:00</pubDate>
+      <description>גורמים אמריקאים אמרו כי הצדדים דנים ב&quot;מזכר הבנות&quot; שעלול להוביל לפתיחה מחדש של מיצר הורמוז, אך הוא עדיין זקוק לסיומה של הנשיא טראמפ. איראן לא אישרה התחייבויות כלשהן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-live-promo-4pm-vfzl/29mideast-live-promo-4pm-vfzl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-30T07:22:19+00:00</pubDate>
       <importance>43</importance>
     </item>
     <item>
-      <title>Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html</link>
-      <description>Israel’s military continues to conduct strikes and seize territory despite a cease-fire with Hamas. Many of Prime Minister Benjamin Netanyahu’s supporters see the war as unfinished business.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T21:53:58+00:00</pubDate>
-      <importance>69</importance>
-    </item>
-    <item>
-      <title>U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html</link>
-      <description>President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T10:42:15+00:00</pubDate>
-      <importance>49</importance>
-    </item>
-    <item>
-      <title>In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-blockade-strait-hormuz.html</link>
-      <description>The American blockade and Iran’s control of the Strait of Hormuz have created a stalemate that is neither peace nor raging conflict, with both sides attempting economic strangulation on the water.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T21:12:22+00:00</pubDate>
-      <importance>64</importance>
-    </item>
-    <item>
-      <title>Israel Strikes Beirut, Expanding Offensive in Lebanon</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-strikes-beirut-lebanon.html</link>
-      <description>It was the first attack by Israel on the Lebanese capital in weeks and could complicate efforts by the United States and Iran to agree to a peace deal to end the war in Iran.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T17:15:14+00:00</pubDate>
-      <importance>64</importance>
-    </item>
-    <item>
-      <title>The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords</title>
-      <link>https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html</link>
-      <description>The president said more countries should be required to recognize Israel as part of a deal to end the war with Iran. Analysts say the chances of that happening are close to zero.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-28T13:26:43+00:00</pubDate>
-      <importance>54</importance>
-    </item>
-    <item>
-      <title>Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.</title>
-      <link>https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html</link>
-      <description>A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-05-29T23:09:37+00:00</pubDate>
+      <title>טיוטת תוכנית ארה&quot;ב-איראן אמורה להיות על השולחן. הנה מה שצריך לדעת.</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
+      <description>גורמים רשמיים בארה&quot;ב ואיראנים אומרים שהם סוגרים על תנאי הסכם ראשוני. עם זאת, נותרו נקודות תקיעה, במיוחד מעל מיצר הורמוז.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/28/multimedia/00int-iran-deal-01-jqfw/00int-iran-deal-01-jqfw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T07:13:34+00:00</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>מה לדעת על המל&quot;טים שחצו לרומניה</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html</link>
+      <description>השביתה ביום שישי, ליד הגבול האוקראיני, הייתה הראשונה שפצעה אזרחים ברומניה, אומרים גורמים רשמיים. אבל מל&quot;טים מהמלחמה הסמוכה היו איום הולך וגובר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-romania-drones-wtk01-photo-wpmc/29int-romania-drones-wtk01-photo-wpmc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-30T08:00:54+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>הלוחמים הקשיחים של איראן מנסים לגרוע מהעסקה הפוטנציאלית עם ארה&quot;ב</title>
+      <link>https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html</link>
+      <description>מאבק פוליטי מתנהל באיראן, שם הפלג הקטן אך הקולני של אנשי הקו הקשה השתמש בעצרות, תקשורת ממלכתית והצהרות פרטיות וציבוריות כדי לנסות לערער את המשא ומתן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29mideast-iran-hardliners-kvwj/29mideast-iran-hardliners-kvwj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T23:09:37+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>מנהיג וייטנאם מזהיר את אסיה מפני הסיכונים של סכסוך מעצמות על</title>
+      <link>https://www.nytimes.com/2026/05/29/world/asia/vietnam-to-lam-shangri-la-dialogue.html</link>
+      <description>בנאום בפני מנהיגים צבאיים מהאזור, אמר טו לאם כי חוסר אמון וחוסר כבוד לכללים שנקבעו יצרו תרבות של &quot;הדג הגדול שבולע את הדגים הקטנים&quot;.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29asia-security-vietnam-jvtw/29asia-security-vietnam-jvtw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-30T04:59:32+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>אירופה מתקרבת יותר למלחמת סחר עם סין. הנה למה.</title>
+      <link>https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html</link>
+      <description>כאשר סחורות זולות זורמות פנימה, מאיימות על מגזר הייצור של היבשת, החיפוש אחר פתרונות הופך להיות דחוף יותר ויותר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/world/29int-eu-china-top-01/29int-eu-china-top-01-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T12:13:54+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>הסנאט המקסיקני מצביע כדי לאפשר ביטול בחירות עקב התערבות זרה</title>
+      <link>https://www.nytimes.com/2026/05/29/world/americas/mexico-ban-election-meddling-foreign-powers.html</link>
+      <description>החקיקה, שמגיעה על רקע המתיחות הגוברת בין מקסיקו לבית הלבן, חייבת להיות מאושרת על ידי רוב בתי המחוקקים במדינה ולשלוח לנשיא.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mexico-elections-photo-wflh/29int-mexico-elections-photo-wflh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-05-29T23:54:16+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
