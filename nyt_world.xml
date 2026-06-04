@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 04 Jun 2026 20:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:06:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to Know About the Drones That Have Been Crossing Into Romania</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mideast-eid-wghz/29int-mideast-eid-wghz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-30T09:02:24+00:00</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Mideast Live Updates: Israel and Hezbollah Trade Strikes, Leaving New Cease-Fire in Doubt</title>
+      <link>https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon</link>
+      <description>Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, had rejected a deal worked out between Israel and the Lebanese government.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04mideast-100-ghvz/04mideast-100-ghvz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-04T16:58:31+00:00</pubDate>
+      <importance>58</importance>
     </item>
     <item>
       <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
@@ -45,11 +53,11 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Lebanon’s latest cease-fire shows little sign of taking hold.</title>
-      <link>https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon/lebanon-ceasefire-israel-strikes</link>
-      <description>The U.S.-brokered deal depends on Hezbollah halting its attacks first. But the leader of the Iran-backed group rejected those terms, and Israel said that its offensive would continue.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04mideast-lebanon-news-bfzv/04mideast-lebanon-news-bfzv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-04T16:13:27+00:00</pubDate>
+      <title>Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives</title>
+      <link>https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html</link>
+      <description>The agreement places the onus on Hezbollah to halt attacks, while demanding few immediate concessions from Israel. The cease-fire could remove an obstacle in the talks between the United States and Iran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/03/multimedia/03mideast-israel-lebanon1-htzc/03mideast-israel-lebanon1-htzc-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-06-04T11:35:57+00:00</pubDate>
       <importance>43</importance>
     </item>
     <item>
@@ -67,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mexico-elections-photo-wflh/29int-mexico-elections-photo-wflh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-29T23:54:16+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses</title>
+      <link>https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html</link>
+      <description>The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-israel-hezbollah-drones01-photo-zlfm/04int-israel-hezbollah-drones01-photo-zlfm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-04T10:25:36+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>

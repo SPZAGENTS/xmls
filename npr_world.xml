@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 04 Jun 2026 20:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:06:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order</title>
@@ -29,6 +29,14 @@
       <importance>17</importance>
     </item>
     <item>
+      <title>Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire</title>
+      <link>https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather</link>
+      <description>Senate Republicans are moving forward on a bill to fund immigration enforcement through the end of Trump's term. And, Israel and Lebanon have agreed to a ceasefire that could aid in ending the war in Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-04T08:03:42-04:00</pubDate>
+      <importance>47</importance>
+    </item>
+    <item>
       <title>Asia defense summit opens amid doubts over U.S. priorities</title>
       <link>https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities</link>
       <description>The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine. </description>
@@ -43,6 +51,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-05-29T12:57:09-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Israel and Lebanon reach an agreement, but ceasefire stalls</title>
+      <link>https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire</link>
+      <description>The U.N. peacekeeping mission for Lebanon, known as UNIFIL, said one peacekeeper was killed and others were wounded when they came under mortar fire in southeastern Lebanon.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-04T09:00:18-04:00</pubDate>
+      <importance>37</importance>
     </item>
   </channel>
 </rss>

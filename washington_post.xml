@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Thu, 04 Jun 2026 20:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:06:29 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Some Iranians abroad say they’d fight for the regime. Others want to topple it.</title>
@@ -13,6 +13,14 @@
       <importance>27</importance>
     </item>
     <item>
+      <title>Hezbollah denounces Israel-Lebanon ceasefire deal as a ‘farce’</title>
+      <link>https://www.washingtonpost.com/world/2026/06/04/israel-lebanon-renew-ceasefire-deal-without-hezbollah/</link>
+      <description>“We have given no commitment to anyone,” the Iranian-backed militant group's leader said after Israel and Lebanon announced a new U.S.-mediated agreement.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-04T14:23:52+00:00</pubDate>
+      <importance>52</importance>
+    </item>
+    <item>
       <title>After a brutal winter, Ukraine’s drones are breaking Russian defenses</title>
       <link>https://www.washingtonpost.com/world/2026/05/29/after-brutal-winter-ukraines-drones-are-breaking-russian-defenses/</link>
       <description>Russia’s advance has suddenly stalled, and Ukraine is fighting on its own terms — a comeback credited to Kyiv’s efforts to steadily strengthen the capabilities of its UAVs.</description>
@@ -21,11 +29,35 @@
       <importance>27</importance>
     </item>
     <item>
+      <title>Iranian attack leaves 1 dead, dozens injured in Kuwait</title>
+      <link>https://www.washingtonpost.com/world/2026/06/03/us-iran-trade-strikes-kuwait-airport-hit-amid-stalled-peace-talks/</link>
+      <description>With peace talks stalled, the U.S. and Iran traded strikes in one of the most intense bouts since the increasingly tenuous ceasefire between the two countries began in April. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-03T19:59:37+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Rubio details U.S. demands as Iran peace talks falter</title>
+      <link>https://www.washingtonpost.com/national-security/2026/06/02/rubio-meet-with-congress-iran-ceasefire-falters/</link>
+      <description>The secretary of state is testifying publicly to Congress for the first time since the war began, as the regional conflict worsens and lawmakers’ patience runs thin.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-02T17:35:36+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>A condemnation of Putin in glitzy Cannes still angers Ukrainians besieged by war</title>
       <link>https://www.washingtonpost.com/world/2026/05/28/cannes-director-andrei-zvyagintsev-rebuked-putins-war-ukrainians-are-furious/</link>
       <description>Andrei Zvyagintsev urged Russian President Vladimir Putin to end the “bloodbath”  — but in Ukraine his remarks elicited ridicule and frustration.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-05-28T10:51:04+00:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>U.S. and intelligence allies issue rare joint warning about China</title>
+      <link>https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/</link>
+      <description>Nations in the Five Eyes intelligence partnership warned that fake profiles and job offers are targeting military officers, spies, and others with access to classified or sensitive information. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-03T20:10:45+00:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
