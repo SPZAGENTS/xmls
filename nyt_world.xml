@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 30 May 2026 14:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 19:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What to Know About the Drones That Have Been Crossing Into Romania</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mideast-eid-wghz/29int-mideast-eid-wghz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-30T09:02:24+00:00</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Iran War Live Updates: Israel Trades Strikes With Hezbollah, Leaving New Cease-Fire With Lebanon in Doubt</title>
+      <link>https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon</link>
+      <description>Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, had rejected the deal.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04mideast-promo1-vbct/04mideast-promo1-vbct-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-04T15:27:09+00:00</pubDate>
+      <importance>63</importance>
     </item>
     <item>
       <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
@@ -45,6 +53,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives</title>
+      <link>https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html</link>
+      <description>The agreement places the onus on Hezbollah to halt attacks, while demanding few immediate concessions from Israel. The cease-fire could remove an obstacle in the talks between the United States and Iran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/03/multimedia/03mideast-israel-lebanon1-htzc/03mideast-israel-lebanon1-htzc-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-06-04T11:35:57+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>Europe Is Edging Closer to a Trade War With China. Here’s Why.</title>
       <link>https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html</link>
       <description>As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.</description>
@@ -59,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/05/29/multimedia/29int-mexico-elections-photo-wflh/29int-mexico-elections-photo-wflh-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-05-29T23:54:16+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses</title>
+      <link>https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html</link>
+      <description>The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-israel-hezbollah-drones01-photo-zlfm/04int-israel-hezbollah-drones01-photo-zlfm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-04T10:25:36+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>

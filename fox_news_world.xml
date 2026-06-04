@@ -1,90 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss version="2.0">
   <channel>
-    <title>Fox News World</title>
-    <link>https://www.foxnews.com/world</link>
-    <description>Fox News World headlines</description>
-    <lastBuildDate>Sat, 30 May 2026 17:35:00 +0300</lastBuildDate>
-
+    <title>Fox_News_World - Top Stories</title>
+    <lastBuildDate>Thu, 04 Jun 2026 19:01:24 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
       <title>Pentagon hosts first-ever Israeli–Lebanese military talks aimed at curbing Hezbollah</title>
       <link>https://www.foxnews.com/world/pentagon-hosts-first-ever-israeli-lebanese-military-talks-aimed-curbing-hezbollah</link>
       <description>Israeli and Lebanese military delegations open U.S.-brokered talks at the Pentagon focused on ceasefire enforcement and border stability amid tensions.</description>
-      <pubDate>Fri, 29 May 2026 14:15:21 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hezbollah-israel-lebanon.jpg?ve=1&amp;tl=1" type="image/jpeg" />
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/hezbollah-israel-lebanon.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-29T14:15:21-04:00</pubDate>
+      <importance>42</importance>
     </item>
-
     <item>
-      <title>Christian farming communities under siege as US report names Fulani militants Nigeria's deadliest threat</title>
-      <link>https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat</link>
-      <description>The USCIRF report states that Fulani militant violence in Nigeria surpasses that of Boko Haram and ISIS, with mostly Christians and also some Muslims being targeted in widespread attacks.</description>
-      <pubDate>Fri, 29 May 2026 13:19:16 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/nigeria_funeral-of-the-victims-bindi-plateau-state-25-july-2025-f-csi.jpg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>Israel's military eliminates Hamas terrorist who helped abduct American-Israeli hostage, 3 others</title>
+      <link>https://www.foxnews.com/world/israels-military-eliminates-hamas-terrorist-helped-abduct-american-israeli-hostage-3-others</link>
+      <description>The IDF announced it killed a Hamas Nukhba terrorist who participated in the abduction of hostage Hersh Goldberg-Polin during the Oct. 7 attack.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Yousef-Ayesh-Awad-Ramadan.jpeg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-02T13:53:59-04:00</pubDate>
+      <importance>52</importance>
     </item>
-
+    <item>
+      <title>Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert</title>
+      <link>https://www.foxnews.com/world/hezbollahs-game-changing-night-hunting-weapon-punches-through-israels-defenses-expert</link>
+      <description>Drone expert warns Hezbollah&amp;apos;s nighttime drone capabilities are game changing, using thermal sensors to target IDF troops under cover of darkness.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rocket-launch-lebanon-israel.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-31T18:26:50-04:00</pubDate>
+      <importance>47</importance>
+    </item>
     <item>
       <title>Hamas struggles to fill leadership ranks as Israel hunts Oct 7 terrorists</title>
       <link>https://www.foxnews.com/world/hamas-struggles-fill-leadership-ranks-israel-hunts-oct-7-terrorists</link>
-      <description>Hours after an Israeli airstrike killed Hamas military wing chief Mohammed Odeh, Gaza's Eid markets were full, revealing a disconnect with Hamas.</description>
-      <pubDate>Fri, 29 May 2026 06:00:20 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/hamas-terrorists-gaza-rubble-1.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
+      <description>Hours after an Israeli airstrike killed Hamas military wing chief Mohammed Odeh, Gaza&amp;apos;s Eid markets were full, revealing a disconnect with Hamas.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/hamas-terrorists-gaza-rubble-1.jpeg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-29T06:00:20-04:00</pubDate>
+      <importance>42</importance>
     </item>
-
     <item>
-      <title>Drone strikes apartment building in NATO member Romania as Russia attacks neighboring Ukraine</title>
-      <link>https://www.foxnews.com/world/drone-strikes-apartment-building-nato-member-romania-russia-attacks-neighboring-ukraine</link>
-      <description>A drone entered Romanian airspace and struck an apartment building, causing an explosion and fire that injured multiple people, authorities said.</description>
-      <pubDate>Fri, 29 May 2026 03:15:00 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/romania-drone-explosion-fire.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>Israel eliminates head of Hamas' military wing in Gaza strike</title>
+      <link>https://www.foxnews.com/world/israel-eliminates-head-hamas-military-wing-gaza-strike</link>
+      <description>Israeli forces killed Mohammed Odeh, the new head of Hamas&amp;apos; military wing, in an airstrike in northern Gaza, according to the Israel Defense Forces.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/gaza-city-israel-airstrike-fox-news-001.jpeg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-27T11:14:54-04:00</pubDate>
+      <importance>42</importance>
     </item>
-
     <item>
-      <title>Moscow, Taliban forge military alliance in power grab after US Afghanistan exit: reports</title>
-      <link>https://www.foxnews.com/world/moscow-taliban-forge-military-alliance-power-grab-us-afghanistan-exit</link>
-      <description>Russia and Afghanistan's Taliban government reportedly signed a military cooperation pact, solidifying Moscow's growing alliance in Central Asia.</description>
-      <pubDate>Thu, 28 May 2026 20:26:05 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Taliban-Leaders-Putin.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>Israeli ambassador compares France's far-left leader's rhetoric to Hitler as antisemitism surges</title>
+      <link>https://www.foxnews.com/world/israeli-ambassador-compares-frances-far-left-leaders-rhetoric-hitler-antisemitism-surges</link>
+      <description>France recorded 1,320 antisemitic acts in 2025, up from 436 in 2022, as Jewish families alter daily habits to avoid being identified, CRIF&amp;apos;s president says.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/jean-luc-melenchon-french-opposition-leader.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-27T06:00:32-04:00</pubDate>
+      <importance>42</importance>
     </item>
-
-    <item>
-      <title>Putin lands $16.5B nuclear win on Russia's doorstep in massive Kazakhstan pact: reports</title>
-      <link>https://www.foxnews.com/world/putin-lands-165b-nuclear-win-russias-doorstep-massive-kazakhstan-pact-reports</link>
-      <description>Putin and Tokayev signed a landmark $16.5 billion nuclear power plant deal, marking Russia's geopolitical victory in Central Asia, reports say.</description>
-      <pubDate>Thu, 28 May 2026 16:43:20 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Putin-Kazakhstan.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
-    </item>
-
     <item>
       <title>Israel accuses UN of placing it on same sexual violence blacklist as Hamas terrorists, severs ties</title>
       <link>https://www.foxnews.com/world/israel-accuses-un-placing-sexual-violence-blacklist-hamas-terrorists-severs-ties</link>
       <description>Israeli officials blast the U.N. after accusing the body of placing Israel on a sexual violence blacklist that also includes Hamas and other terrorist groups.</description>
-      <pubDate>Thu, 28 May 2026 15:09:28 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/danon.jpg?ve=1&amp;tl=1" type="image/jpeg" />
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/danon.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-28T15:09:28-04:00</pubDate>
+      <importance>32</importance>
     </item>
-
     <item>
-      <title>Three wounded in Swiss train station 'bladed weapon' attack, phrase 'Allahu Akbar' allegedly shouted</title>
-      <link>https://www.foxnews.com/world/three-wounded-swiss-train-station-bladed-weapon-attack-phrase-allahu-akbar-allegedly-shouted</link>
-      <description>Police say a 31-year-old was arrested after allegedly wounding three people using a bladed weapon at train station in Switzerland.</description>
-      <pubDate>Thu, 28 May 2026 09:43:20 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/police-vehicle-winterthur-train-station-switzerland-may-28-2026.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit</title>
+      <link>https://www.foxnews.com/world/us-ally-kuwait-condemns-brutal-ongoing-iranian-attacks-airport-hit</link>
+      <description>Kuwait has condemned &amp;quot;the brutal and ongoing Iranian attacks using ballistic missiles and drones,&amp;quot; saying Kuwait International Airport had been targeted.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/kuwait-international-airport-june-1-2026.jpeg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-03T06:58:56-04:00</pubDate>
+      <importance>32</importance>
     </item>
-
     <item>
-      <title>US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'</title>
-      <link>https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute</link>
-      <description>Czech Foreign Minister Macinka voices strong support for Trump, defends increased European defense spending and warns Iran poses a global nuclear threat.</description>
-      <pubDate>Wed, 27 May 2026 13:35:05 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/container-ship-strait-hormuz-iran-ap-fox-news-optimized.jpg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>Israeli official says EU sanctions reveal antisemitism hiding behind 'socially acceptable mask'</title>
+      <link>https://www.foxnews.com/world/israeli-official-says-eu-sanctions-reveal-antisemitism-hiding-behind-socially-acceptable-mask</link>
+      <description>Israel&amp;apos;s Deputy Foreign Minister accuses the EU of disguising antisemitism as anti-Zionism after sanctions hit Israeli civil society organizations.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/jerusalem-west-bank-israel-copy.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-03T06:00:12-04:00</pubDate>
+      <importance>32</importance>
     </item>
-
     <item>
-      <title>Crash involving speeding train, minibus in Belgium leaves 4 dead including 2 children</title>
-      <link>https://www.foxnews.com/world/crash-involving-speeding-train-minibus-belgium-leaves-4-dead-including-2-children</link>
-      <description>Four people, including two children, were killed when a passenger train hit a minibus at a crossing near Buggenhout, Belgium, during the morning rush.</description>
-      <pubDate>Wed, 27 May 2026 11:43:54 -0400</pubDate>
-      <media:content url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/buggenhout-van-train-collision-fox-news-001.jpeg?ve=1&amp;tl=1" type="image/jpeg" />
+      <title>Mojtaba Khamenei touts new anti-US alliance as Gulf backchannels seep into Tehran: analyst</title>
+      <link>https://www.foxnews.com/world/mojtaba-khamenei-touts-new-anti-us-alliance-gulf-backchannels-seep-tehran-analyst</link>
+      <description>Iran&amp;apos;s supreme leader launched a sweeping counteroffensive against President Donald Trump, seeking to rally Middle Eastern nations into an anti-American alliance, an analyst says.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mojtaba-khamenei-donald-trump.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-05-31T18:03:35-04:00</pubDate>
+      <importance>32</importance>
     </item>
-
   </channel>
 </rss>
