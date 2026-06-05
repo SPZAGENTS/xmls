@@ -2,12 +2,28 @@
 <rss version="2.0">
   <channel>
     <title>Ynet All - Top Stories</title>
-    <lastBuildDate>Fri, 05 Jun 2026 10:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:55:47 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>נחסם לתנועה כביש 1 למזרח</title>
+      <link>https://www.ynet.co.il/news/article/bjzx9xlzfe</link>
+      <description></description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-05T10:27:52+03:00</pubDate>
+      <importance>15</importance>
+    </item>
+    <item>
+      <title>חוסל מפקד יחידת ההנדסה של חיזבאללה</title>
+      <link>https://www.ynet.co.il/news/article/byidelgwme</link>
+      <description></description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-05T10:06:56+03:00</pubDate>
+      <importance>15</importance>
+    </item>
     <item>
       <title>דדי ברנע ואלי שרעבי יקבלו תואר דוקטור לשם כבוד מאוניברסיטת רייכמן</title>
       <link>https://www.ynet.co.il/news/article/h1lwqrkwfe</link>
-      <description></description>
+      <description>דדי ברנע ואלי שרעבי יקבלו תואר דוקטור לשם כבוד מאוניברסיטת רייכמן</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T08:35:34+03:00</pubDate>
       <importance>15</importance>
@@ -15,7 +31,7 @@
     <item>
       <title>רויטרס: פיצוץ אירע בנמל בעומאן, ככל הנראה מתקיפת כטב&quot;ם</title>
       <link>https://www.ynet.co.il/news/article/bkdaraybgg</link>
-      <description></description>
+      <description>רויטרס: פיצוץ אירע בנמל בעומאן, ככל הנראה מתקיפת כטב&quot;ם</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T07:38:39+03:00</pubDate>
       <importance>15</importance>
@@ -23,7 +39,7 @@
     <item>
       <title>דיווחים פלסטיניים: הרוג מאש צה&quot;ל במהלך עימותים בבנימין</title>
       <link>https://www.ynet.co.il/news/article/ryt9ftyzze</link>
-      <description></description>
+      <description>דיווחים פלסטיניים: הרוג מאש צה&quot;ל במהלך עימותים בבנימין</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T07:21:31+03:00</pubDate>
       <importance>15</importance>
@@ -31,7 +47,87 @@
     <item>
       <title>המשטרה: &quot;סיכלנו ניסיון פיגוע דקירה בכניסה לתחנה בגליל המערבי, המחבל נוטרל&quot;</title>
       <link>https://www.ynet.co.il/news/article/rk9tDTyWGx</link>
-      <description>&lt;div&gt;&lt;a href='https://www.ynet.co.il/news/article/rk9tDTyWGx'&gt;&lt;img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/SJYw00pyZfg/SJYw00pyZfg_0_141_592_334_0_medium.jpg' alt='הסכין של המחבל מניסיון הפיגוע בגליל המערבי' title='הסכין של המחבל מניסיון הפיגוע בגליל המערבי' border='0' width='100' height='56'&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <description>Thinking...
+The user wants me to translate a news article description from English to Hebrew. However, looking at the provided text, it's actually HTML code containing Hebrew text already. Let me examine it carefully.
+
+The text is:
+```html
+&lt;div&gt;&lt;a href='https://www.ynet.co.il/news/article/rk9tDTyWGx'&gt;&lt;img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/SJYw00pyZfg/SJYw00pyZfg_0_141_592_334_0_medium.jpg' alt='הסכין של המחבל מניסיון הפיגוע בגליל המערבי' title='הסכין של המחבל מניסיון הפיגוע בגליל המערבי' border='0' width='100' height='56'&gt;&lt;/a&gt;&lt;/div&gt;
+```
+
+Wait, the alt and title attributes are already in Hebrew: &quot;הסכין של המחבל מניסיון הפיגוע בגליל המערבי&quot; which translates to &quot;The knife of the terrorist from the attempted attack in the Western Galilee.&quot;
+
+But the user says &quot;Translate the following news article description from English to Hebrew.&quot; The instructions say to translate from English to Hebrew. However, the text provided is HTML with Hebrew content already.
+
+Let me reconsider. Is there English text here? No, the visible text inside the HTML attributes is already Hebrew. But perhaps the user considers this as an English article description because the HTML tags are in English? No, that doesn't make sense.
+
+Wait, maybe the user made a mistake and the text they want translated is actually the content inside the alt/title attributes, but those are already Hebrew. Or perhaps they want me to translate the HTML structure itself? No, HTML tags are universal.
+
+Actually, looking again at the prompt: &quot;Translate the following news article description from English to Hebrew.&quot; But the text contains Hebrew already. Maybe the user provided an example where the description is in Hebrew, but they want me to treat it as if it were English? Or perhaps they copy-pasted the wrong text?
+
+Let me look at the Hebrew text: &quot;הסכין של המחבל מניסיון הפיגוע בגליל המערבי&quot; - this is clearly Hebrew.
+
+Could it be that the user wants me to output the exact same Hebrew text since it's already Hebrew? The instruction says &quot;Keep the translation accurate and natural&quot; and &quot;Respond with ONLY the Hebrew translation, nothing else.&quot;
+
+If the input is already Hebrew, perhaps I should just return it as-is? But that seems odd. Let me re-read carefully.
+
+&quot;Translate the following news article description from English to Hebrew.&quot;
+
+Maybe the user intended to provide English text but accidentally provided Hebrew text inside HTML. However, as an AI, I should work with what I'm given. Since the text provided is already in Hebrew (the meaningful content), and there is no English text to translate, I should probably just extract and return the Hebrew text, or return the HTML as-is since the content is already Hebrew.
+
+But wait - maybe the user considers the entire HTML string as the &quot;English text&quot; because it contains English markup? No, that seems unlikely.
+
+Another possibility: The user wants me to translate the alt/title text as if it were English? But it's clearly Hebrew already.
+
+Let me check if maybe I should translate the Hebrew into... no, the instruction is clearly English to Hebrew.
+
+I think the most likely scenario is that the user copy-pasted a snippet from a webpage that happened to have Hebrew alt text, but they mistakenly think there's English to translate. Or perhaps in their original context, there was English text, but they pasted the wrong thing.
+
+Given the strict instruction &quot;Respond with ONLY the Hebrew translation, nothing else&quot;, and looking at the content which is already Hebrew, I have two options:
+1. Return the Hebrew text as-is (extracted from the HTML)
+2. Return the entire HTML string since it's already &quot;Hebrew&quot; in the meaningful parts
+
+But actually, if I look very carefully, is there any English? The HTML attributes (alt, title) contain Hebrew text. The image URL and anchor URL contain English characters but those are not meant to be translated.
+
+I think the safest approach is to extract the Hebrew description from the alt/title attributes and return it, or return the HTML as-is since it's already in Hebrew. However, if the user made a mistake and thinks this is English, returning the Hebrew text fulfills their request of getting a Hebrew translation (even though it's identical).
+
+Actually, looking at the prompt again, maybe they want me to treat the HTML as the article description. The description is embedded in the HTML. Since the alt and title are in Hebrew, and those are the descriptive parts, I should probably just return the Hebrew string: &quot;הסכין של המחבל מניסיון הפיגוע בגליל המערבי&quot;
+
+But to be thorough and accurate, since the user provided HTML and asked for a translation of the &quot;news article description&quot;, perhaps I should provide just the Hebrew text that is already there. The HTML is markup, not the description itself.
+
+Wait, I need to be careful. The user said &quot;Translate the following news article description from English to Hebrew.&quot; The text provided is HTML code. If there's no English in it, perhaps I should just output the Hebrew content.
+
+However, I want to make sure I'm not missing something. Is &quot;הסכין של המחבל מניסיון הפיגוע בגליל המערבי&quot; the translation of some implied English text? No.
+
+Let me reconsider: Could the user have meant to provide different text, and this is a template where the Hebrew is just an example? No, the text is specific.
+
+I will extract the Hebrew text from the alt/title attributes since that is the actual &quot;news article description&quot; within the HTML. The description is: הסכין של המחבל מניסיון הפיגוע בגליל המערבי
+
+Actually, looking at standard practices for such requests, if someone provides HTML with Hebrew alt text and asks for translation from English to Hebrew, and there's no English text, the best response is to return the Hebrew content as is.
+
+But to be completely safe, should I return the full HTML with the Hebrew preserved? The user asks for the Hebrew translation, not the HTML markup. So returning just the Hebrew text makes sense.
+
+Let me verify the Hebrew text once more:
+&quot;הסכין של המחבל מניסיון הפיגוע בגליל המערבי&quot;
+
+Yes, that's proper Hebrew.
+
+So my final output will be just that Hebrew text.
+
+Wait, one more thought: Could the user be testing me to see if I correctly identify that the text is already in Hebrew? In that case, returning the Hebrew text is still the correct action.
+
+I'll provide: הסכין של המחבל מניסיון הפיגוע בגליל המערבי
+
+Actually, I want to double-check the prompt one more time. &quot;Translate the following news article description from English to Hebrew.&quot; Maybe the &quot;description&quot; refers to the entire block, and since HTML tags are in English, they want the whole thing translated? But you don't translate HTML tags to Hebrew. That would break the code.
+
+No, the content is already Hebrew. I'll return the Hebrew content.
+
+Final decision: Return the Hebrew text from the alt/title attributes.
+
+Text: הסכין של המחבל מניסיון הפיגוע בגליל המערבי
+...done thinking.
+
+הסכין של המחבל מניסיון הפיגוע בגליל המערבי</description>
       <imageUrl>https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/SJYw00pyZfg/SJYw00pyZfg_0_141_592_334_0_medium.jpg</imageUrl>
       <pubDate>2026-06-05T06:50:26+03:00</pubDate>
       <importance>15</importance>
@@ -39,7 +135,7 @@
     <item>
       <title>לראשונה אחרי 7 שנים: נשיא סין יבקר בצפון קוריאה בשבוע הבא</title>
       <link>https://www.ynet.co.il/news/article/rkdpgpybml</link>
-      <description></description>
+      <description>לראשונה אחרי 7 שנים: נשיא סין יבקר בצפון קוריאה בשבוע הבא</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T06:31:49+03:00</pubDate>
       <importance>15</importance>
@@ -47,7 +143,7 @@
     <item>
       <title>התחזית: ירידה קלה בטמפרטורות</title>
       <link>https://www.ynet.co.il/news/article/sydttnyzzg</link>
-      <description></description>
+      <description>התחזית: ירידה קלה בטמפרטורות</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T06:09:48+03:00</pubDate>
       <importance>15</importance>
@@ -55,7 +151,7 @@
     <item>
       <title>בשל תקלה במערכת האיתות: עיכובים בפתיחת השירות של הרכבת הקלה בגוש דן</title>
       <link>https://www.ynet.co.il/news/article/bjrlw21wml</link>
-      <description></description>
+      <description>בשל תקלה במערכת האיתות: עיכובים בפתיחת השירות של הרכבת הקלה בגוש דן</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-05T05:43:59+03:00</pubDate>
       <importance>15</importance>
@@ -63,25 +159,86 @@
     <item>
       <title>עשרות הפגינו מול מטה ה&quot;ניו יורק טיימס&quot;: &quot;כשאתם משקרים, יהודים מתים&quot;</title>
       <link>https://www.ynet.co.il/news/article/hkjvnij11gx</link>
-      <description>&lt;div&gt;&lt;a href='https://www.ynet.co.il/news/article/hkjvnij11gx'&gt;&lt;img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/rJpZniyZfx/rJpZniyZfx_0_76_1280_723_0_medium.jpg' alt='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' title='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' border='0' width='100' height='56'&gt;&lt;/a&gt;&lt;/div&gt;</description>
+      <description>Thinking...
+The user wants me to translate an HTML snippet from English to Hebrew. However, looking at the text, it's already mostly in Hebrew. Let me examine it carefully:
+
+```html
+&lt;div&gt;&lt;a href='https://www.ynet.co.il/news/article/hkjvnij11gx'&gt;&lt;img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/rJpZniyZfx/rJpZniyZfx_0_76_1280_723_0_medium.jpg' alt='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' title='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' border='0' width='100' height='56'&gt;&lt;/a&gt;&lt;/div&gt;
+```
+
+Wait, the text contains:
+- HTML markup (div, a, img tags) - these are code and shouldn't be translated
+- URLs - shouldn't be translated
+- alt text: 'הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' - this is already Hebrew
+- title text: 'הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' - this is already Hebrew
+
+The user says &quot;Translate the following news article description from English to Hebrew&quot; but the content is already in Hebrew, except for the HTML tags and attributes like &quot;border&quot;, &quot;width&quot;, &quot;height&quot; which are HTML attributes and shouldn't be translated as they are code.
+
+Actually, looking more carefully, the user might think the entire block is English? Or perhaps they want me to output the exact same thing since the Hebrew text is already there? But the instruction says &quot;from English to Hebrew&quot; - maybe the alt and title text are in English in the original they provided? Let me check again.
+
+Looking at the provided text:
+- `alt='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;'` - this is Hebrew: &quot;Protest outside the New York Times headquarters&quot;
+- `title='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;'` - same
+
+Wait, could it be that the user made a mistake and the text they provided is already translated? Or perhaps they want me to translate the HTML attribute names? No, that would break the HTML.
+
+Actually, let me reconsider. The user provided HTML where the visible text content (alt and title) is already in Hebrew. But the task says &quot;Translate the following news article description from English to Hebrew.&quot; 
+
+Maybe the original text was in English and they already translated it in their example? Like maybe they want me to confirm/produce the Hebrew version? But the visible text is already Hebrew.
+
+Let me think about what the user likely wants. They probably have an English text that says something like &quot;Protest outside the New York Times headquarters&quot; wrapped in HTML, and the Hebrew translation is already embedded in the alt/title. But if I need to translate the text from English to Hebrew, and the text provided is already in Hebrew...
+
+Wait, maybe the user is testing me or the text was accidentally already translated. Let me look at the alt text again. Is there any English? The HTML tags are in English. The URL is in English/Latin characters. But the actual content - the alt and title - are Hebrew.
+
+If the user says &quot;Translate from English to Hebrew&quot; but provides Hebrew text, the safest approach is to provide the Hebrew text as-is (since it's already Hebrew), but ensure that if there's any English content, it's translated. However, translating HTML attribute names like &quot;border&quot;, &quot;width&quot;, &quot;height&quot; would break the code.
+
+Actually, looking at the alt/title again: `הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;` - this contains the English name &quot;ניו יורק טיימס&quot; which is already transliterated to Hebrew.
+
+I think the most reasonable interpretation is that the user provided an HTML snippet that is mostly code (which stays as is) but contains Hebrew text already. However, since they asked to translate from English to Hebrew, and the textual content is already in Hebrew, I should output the exact same HTML snippet because:
+1. The textual content (alt, title) is already in Hebrew
+2. The HTML code shouldn't be translated
+
+But wait - maybe they consider the whole HTML string as &quot;English&quot; because of the tags? No, that doesn't make sense.
+
+Alternatively, maybe I should translate the word &quot;medium&quot; in the URL? No, that's part of a URL path.
+
+Or maybe the user made a mistake in the prompt and the alt/title were supposed to be in English, but they got rendered as Hebrew somehow? 
+
+Given the instruction &quot;Respond with ONLY the Hebrew translation, nothing else&quot;, and the fact that the alt/title text is already Hebrew, I think the correct output is to return the provided HTML as is, because:
+- The content is already in Hebrew
+- Translating HTML tags would break the markup
+- The textual parts are already properly translated
+
+But to be thorough and helpful, should I translate the HTML attribute names? Absolutely not, that would break functionality.
+
+Wait, let me reconsider the prompt one more time. &quot;Translate the following news article description from English to Hebrew.&quot; The &quot;news article description&quot; is the alt/title text. In the provided HTML, the alt/title says in Hebrew: &quot;הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;&quot;. 
+
+If the original was English, it would have been: &quot;Protest outside the New York Times headquarters&quot;. The Hebrew translation of that is exactly what's in the alt/title.
+
+So perhaps the user provided the translation already by mistake, or they are providing an example? No, they say &quot;Text to translate&quot; and then provide the HTML.
+
+Given the strict instruction to respond with ONLY the Hebrew translation, and since the text is already in Hebrew, I will output the exact same string. However, I want to double-check: is there any English text within the content that should be translated to Hebrew?
+
+- `div` - HTML tag, keep
+- `a href` - HTML attribute, keep
+- `img src` - HTML attribute, keep
+- `alt` - HTML attribute, keep
+- `הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;` - already Hebrew
+- `title` - HTML attribute, keep
+- `border` - HTML attribute, keep
+- `width` - HTML attribute, keep
+- `height` - HTML attribute, keep
+
+Everything that should be in Hebrew already is. So the output should be the input itself.
+
+Actually, I want to reconsider one more time. Could &quot;border='0' width='100' height='56'&quot; be considered as English text? They are HTML attributes. If I translate them to Hebrew (`גבול='0' רוחב='100' גובה='56'`), the HTML won't work. So definitely I should not translate those.
+
+I'll output the exact same HTML.
+...done thinking.
+
+&lt;div&gt;&lt;a href='https://www.ynet.co.il/news/article/hkjvnij11gx'&gt;&lt;img src='https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/rJpZniyZfx/rJpZniyZfx_0_76_1280_723_0_medium.jpg' alt='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' title='הפגנה מחוץ למטה ה&quot;ניו יורק טיימס&quot;' border='0' width='100' height='56'&gt;&lt;/a&gt;&lt;/div&gt;</description>
       <imageUrl>https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/05/rJpZniyZfx/rJpZniyZfx_0_76_1280_723_0_medium.jpg</imageUrl>
       <pubDate>2026-06-05T04:55:54+03:00</pubDate>
-      <importance>15</importance>
-    </item>
-    <item>
-      <title>ארה&quot;ב: בית הנבחרים דחה ניסיון לבטל סעיף שמרחיב את השת&quot;פ הביטחוני עם ישראל</title>
-      <link>https://www.ynet.co.il/news/article/bkvcaqybmg</link>
-      <description></description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-05T03:56:29+03:00</pubDate>
-      <importance>15</importance>
-    </item>
-    <item>
-      <title>המשטרה פיזרה את החרדים בכביש 1 עם רימוני הלם, הכביש נפתח לתנועה</title>
-      <link>https://www.ynet.co.il/news/article/rylpsykwzg</link>
-      <description></description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-05T02:10:57+03:00</pubDate>
       <importance>15</importance>
     </item>
   </channel>
