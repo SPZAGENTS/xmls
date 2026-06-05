@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 05 Jun 2026 10:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:47:41 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel</title>
@@ -74,6 +74,14 @@
       <description>“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-ukraine-zelensky-vtgl/04int-ukraine-zelensky-vtgl-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-04T23:34:45+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Russia Rails Against the West but Welcomes Candace Owens and Andrew Tate</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/russia-st-petersburg-forum-candace-owens.html</link>
+      <description>While some powerful Russians shun the West, others want to restore ties and embrace friendly Westerners. President Vladimir V. Putin’s annual economic conference illustrates the conflicting impulses.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-russia-scene-mgfh/04int-russia-scene-mgfh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T04:01:07+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
