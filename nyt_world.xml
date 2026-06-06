@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 23:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 23:25:47 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html</link>
-      <description>Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/01/01visualUploader-84177-cover/01visualUploader-84177-cover-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T09:00:06+00:00</pubDate>
-      <importance>23</importance>
-    </item>
     <item>
       <title>Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free</title>
       <link>https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html</link>
@@ -29,14 +21,6 @@
       <importance>43</importance>
     </item>
     <item>
-      <title>Mali Conflict Escalates as Rebel Alliance Seizes Key Cities</title>
-      <link>https://www.nytimes.com/2026/06/06/world/africa/mali-rebels-fighting-jnim-isis.html</link>
-      <description>Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-mali-assess-1-bkjc/00int-mali-assess-1-bkjc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T04:01:09+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists</title>
       <link>https://www.nytimes.com/2026/06/05/world/europe/france-israel-flotilla-activists.html</link>
       <description>Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.</description>
@@ -45,20 +29,12 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed</title>
+      <title>תקיפה ישראלית הורגת שלושה חיילים לבנוניים, ימים לאחר חתימת הפסקת אש</title>
       <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html</link>
-      <description>Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.</description>
+      <description>ישראל פלשה ללבנון וכבשה חלקים מהמדינה במטרה להילחם בחזבאללה, ארגון חמוש הנתמך על ידי איראן, אך המבצע הצבאי שלה משך אליו גורמים נוספים.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06int-lebanon-strike-vbwm/06int-lebanon-strike-vbwm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-06T13:49:03+00:00</pubDate>
       <importance>43</importance>
-    </item>
-    <item>
-      <title>Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied</title>
-      <link>https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html</link>
-      <description>After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-worldcup-iran-visas-photo-wzbk/05int-worldcup-iran-visas-photo-wzbk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T00:16:37+00:00</pubDate>
-      <importance>23</importance>
     </item>
     <item>
       <title>A Question Swirling Around Putin’s Big Conference: Could the War End?</title>
@@ -77,12 +53,36 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Trump’s Defense Department Sees Growing Espionage Threat From Israel</title>
+      <title>משרד ההגנה של טראמפ מזהה איום גובר של ריגול מישראל</title>
       <link>https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html</link>
-      <description>The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.</description>
+      <description>משרד הביטחון העלה את הערכת האיום המודיעיני לרמה הגבוהה ביותר, ומאמינים כי ישראל האזינה למשאים ומתנים האמריקאיים עם איראן.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05dc-intel-fjhw/05dc-intel-fjhw-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-06T16:41:48+00:00</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>מה שצריך לדעת על התפרצות האבולה</title>
+      <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
+      <description>סוכנויות סיוע ממהרות לעזור לעובדי הבריאות ברפובליקה הדמוקרטית של קונגו. הווירוס ידוע כגרם למותם של לפחות 84 אנשים, אך המספר האמיתי עשוי להיות גבוה בהרבה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-fzpw/17int-ebola-WTK-fzpw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-06T10:35:41+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>בתמיכת טראמפ, בהתנגדות פוטין, ונאבק על חייו הפוליטיים</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html</link>
+      <description>ראש ממשלת ארמניה ניקול פשיניאן מבקש להיבחר מחדש בעוד מדינתו שוקלת שאלות של מלחמה ושלום, של אוטוקרטיה ודמוקרטיה ושל כפייה ועצמאות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-armenia-ctfk-promo/05int-armenia-ctfk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T09:14:22+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>מה העדויות הוויזואליות אומרות לנו על השימוש של ישראל בפוספורוס לבן בלבנון</title>
+      <link>https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html</link>
+      <description>סרטונים שנאספו על ידי The Times מראים כיצד הצבא הישראלי פרס פצצה שיכולה להיות מזיקה מאוד מעל אזורים מיושבים בלבנון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/05/01/world/wpkfarkila/wpkfarkila-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-06T09:00:06+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
