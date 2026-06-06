@@ -2,8 +2,24 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 04:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 04:35:16 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight</title>
+      <link>https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html</link>
+      <description>The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-Lebanon-Israel-zhjq/05int-Lebanon-Israel-zhjq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T11:13:59+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html</link>
+      <description>Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06UK-Andrew-01-kzgm/06UK-Andrew-01-kzgm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T10:48:14+00:00</pubDate>
+      <importance>28</importance>
+    </item>
     <item>
       <title>Ye Concerts Have Been Canceled Across Europe. Why Not in the Netherlands?</title>
       <link>https://www.nytimes.com/2026/06/05/world/europe/ye-tour-netherlands.html</link>
@@ -11,6 +27,30 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/03/multimedia/00xp-ye-kcjg/00xp-ye-kcjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-05T10:48:33+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Backed by Trump, Opposed by Putin, and Fighting for His Political Life</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html</link>
+      <description>Prime Minister Nikol Pashinyan of Armenia is seeking re-election as his country weighs questions of war and peace, of autocracy and democracy, and of subjugation and independence.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-armenia-ctfk-promo/05int-armenia-ctfk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T09:14:21+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>What To Know as China’s Xi Jinping Heads to North Korea</title>
+      <link>https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html</link>
+      <description>As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/00int-china-northkorea-01-lzht/00int-china-northkorea-01-lzht-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T02:47:06+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Russia Floods Armenia With Disinformation Ahead of Election</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html</link>
+      <description>Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/00int-russia-armenia-disinfo-01-hmpt/00int-russia-armenia-disinfo-01-hmpt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T09:02:50+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin</title>
@@ -21,68 +61,28 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>תקוות להפוגה בלבנון התרחקו</title>
-      <link>https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html</link>
-      <description>ההסכם שאורגן על ידי ארצות הברית מחייב את השייעה, שמונה בעל-פה על ידי איראן, לעצור בטרם היא יפתח באש. אך הקבוצה, שלא השתתפה במשא-ומתן, דחתה את התנאים כ&quot;הישענות מוחלטת&quot;.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-Lebanon-Israel-zhjq/05int-Lebanon-Israel-zhjq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T14:56:02+00:00</pubDate>
-      <importance>43</importance>
+      <title>Russia Rails Against the West but Welcomes Candace Owens and Andrew Tate</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/russia-st-petersburg-forum-candace-owens.html</link>
+      <description>While some powerful Russians shun the West, others want to restore ties and embrace friendly Westerners. President Vladimir V. Putin’s annual economic conference illustrates the conflicting impulses.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-russia-scene-mgfh/04int-russia-scene-mgfh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-05T04:01:07+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
-      <title>דרוני-סיבים של חיזבאללה חושפים קרע במערך ההגנה הישראלי</title>
+      <title>Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses</title>
       <link>https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html</link>
-      <description>התקפות החזבאללה עשו את הישראלים לבלי-כוח, ומכאן נדרשים מנהיגי המדינה לעסוק בחיפוש תיקונים.</description>
+      <description>The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-israel-hezbollah-drones01-photo-zlfm/04int-israel-hezbollah-drones01-photo-zlfm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-04T10:25:36+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>נתמך על ידי טראמפ, נגד פוטין, ולוחם בעבור חייו הפוליטיים</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html</link>
-      <description>ראש הממשלה ניקול פשיניאן מארמניה יתמודד שוב בבחירות, כשמדינתו עוסקת בשאלות של מלחמה ושלום, אוטוקרטיה ודמוקרטיה, ועבדות ועצמאות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-armenia-ctfk-promo/05int-armenia-ctfk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T09:14:22+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>הנסיך אנדרו שכר דירות בחווה מלכותית</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html</link>
-      <description>אנדרו מאונטבאטן-ווינדזור השתמש בהכנסות שלו לשכירת דירות בחווה, שבה הוא עצמו לא שילם דמי חכירה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06UK-Andrew-01-kzgm/06UK-Andrew-01-kzgm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T13:10:17+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>מה ידענו על ביקורו של ג'ינפינג, נשיא סין, בצפון קוריאה</title>
-      <link>https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html</link>
-      <description>כש-ג'ינפינג מבקר בפיונגיאנג, הוא עומד בעמדת חלש, שכן הדיקטטור הצפון-קוריאני מחזק את יחסיו עם רוסיה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/00int-china-northkorea-01-lzht/00int-china-northkorea-01-lzht-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T02:47:06+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>בעת המלחמה, מנהיג הכדורגל של איראן נאבק להשיג תעודות זרות</title>
+      <title>Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup</title>
       <link>https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html</link>
-      <description>מח'די טאג אמר שהתאחדות הכדורגל שלו עובדת עם FIFA, לא עם ארצות-הברית, בניסיון לשפר את יכולתה להשיג ויזות.</description>
+      <description>Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/02/multimedia/00int-worldcup-iran-hpcz/00int-worldcup-iran-hpcz-mediumSquareAt3X-v4.jpg</imageUrl>
       <pubDate>2026-06-04T04:01:06+00:00</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>רוסיה משחתה את ארמניה בדיווחי-שווא</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia-disinformation.html</link>
-      <description>כדי למנוע אבדן של השפעה, קבוצות קשורות לקרמלין ולאג&quot;ם, ביקשו להזיק לראש-ממשלת ארמניה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/00int-russia-armenia-disinfo-01-hmpt/00int-russia-armenia-disinfo-01-hmpt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T14:33:43+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>רוסיה מבכה את המערב, אבל נחפצת לקבל את קאנדייס אוונס ואנדרו טייט</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/russia-st-petersburg-forum-candace-owens.html</link>
-      <description>בעוד שאנשים-חזקים ברוסיה ממעיטים להתבואש, אחרים רוצים לשחזר את הקשרים ולקבל את האנשים-מערביים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/04int-russia-scene-mgfh/04int-russia-scene-mgfh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T04:01:07+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
