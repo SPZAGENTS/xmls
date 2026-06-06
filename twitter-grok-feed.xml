@@ -1,46 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-06-06T19:01:39.325Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Sat, 06 Jun 2026 22:17:28 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 📝 היסטריה? אני גרה בלונדון, מרי. אבי המבוגר גר בגולדרס גרין. היו לפחות 8 התקפות הצ</title>
+      <title>Hysteria? I live in London, Mary. My elderly dad lives in Golders Green. There have been at least 8 arson attacks, 2 stabbings, &amp; countless cases of harassment, abuse, beating, vandalism, &amp; intimidation of Jews just in GG in the past month.</title>
       <link>https://x.com/alicemodigliani/status/2063324066048622791</link>
-      <description>היסטריה? אני גרה בלונדון, מרי. אבי המבוגר גר בגולדרס גרין. היו לפחות 8 התקפות הצתה, 2 דקירות, ומקרים אינספורים של הטרדה, התעללות, מכות, ונדליזם והפחדה של יהודים רק בגולדרס גרין בחודש האחרון.</description>
+      <description>Hysteria? I live in London, Mary. My elderly dad lives in Golders Green. There have been at least 8 arson attacks, 2 stabbings, &amp; countless cases of harassment, abuse, beating, vandalism, &amp; intimidation of Jews just in GG in the past month.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T18:16:06Z</pubDate>
-      <source>twitter-@alicemodigliani</source>
-      <category>אנטישמיות מהשטח</category>
-      
+      <importance>75</importance>
     </item>
     <item>
-      <title>[100] 📝 בכל מקום שיקברו אותם, הם יתבעו את האדמה. יש לאסור את האסלאם והשריעה כתורת פוליטי</title>
+      <title>Wherever they are buried, they will claim the land. Islam and Sharia should be banned as a hostile political ideology.</title>
       <link>https://x.com/lunaexpress/status/2063335373871178029</link>
-      <description>בכל מקום שיקברו אותם, הם יתבעו את האדמה. יש לאסור את האסלאם והשריעה כתורת פוליטית עוינת.</description>
+      <description>Wherever they are buried, they will claim the land. Islam and Sharia should be banned as a hostile political ideology.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T19:01:02Z</pubDate>
-      <source>twitter-@lunaexpress</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 לברנדון גיל יש אזור אסור בין האוזן השמאלית לימין שלו</title>
+      <title>brandon gill has a no go zone located between his left ear and his right ear</title>
       <link>https://x.com/Gregatnelson/status/2063335303679737972</link>
-      <description>לברנדון גיל יש אזור אסור בין האוזן השמאלית לימין שלו</description>
+      <description>brandon gill has a no go zone located between his left ear and his right ear</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T19:00:45Z</pubDate>
-      <source>twitter-@Gregatnelson</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>70</importance>
     </item>
     <item>
-      <title>[100] 📷 זה מה שקורה למנהיגי איגודים מרקסיסטיים מושחתים ומטומטמים שימושיים - ששואבים דמי </title>
+      <title>This is what happens to corrupt, useful idiot, Marxist union leaders—who leech off rank and file dues—endorse and support leeching Islamists who run for office to overthrow governments and implement sharia law…</title>
       <link>https://x.com/SissySayswd/status/2063335301053866275</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HKJwhTkW4AAzvHo.jpg' alt='image'&gt; זה מה שקורה למנהיגי איגודים מרקסיסטיים מושחתים ומטומטמים שימושיים - ששואבים דמי חבר - שתומכים ומאשרים אסלאמיסטים שואבים שרצים לתפקיד כדי להפיל ממשלות וליישם חוק שריעה...</description>
+      <description>This is what happens to corrupt, useful idiot, Marxist union leaders—who leech off rank and file dues—endorse and support leeching Islamists who run for office to overthrow governments and implement sharia law…</description>
+      <imageUrl>https://pbs.twimg.com/media/HKJwhTkW4AAzvHo.jpg</imageUrl>
       <pubDate>2026-06-06T19:00:45Z</pubDate>
-      <source>twitter-@SissySayswd</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/SissySayswd/status/2063335301053866275" type="image/jpeg"/>
+      <importance>90</importance>
     </item>
   </channel>
 </rss>
