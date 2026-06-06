@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 07 Jun 2026 00:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 00:21:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Palestinian baby killed by Israeli gunfire in West Bank, health ministry says</title>
@@ -37,12 +37,44 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Lebanese general among three soldiers killed in Israeli attack on car</title>
-      <link>https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png</imageUrl>
-      <pubDate>2026-06-06T17:12:39</pubDate>
+      <title>US and Iran exchange strikes in Gulf in latest test of ceasefire</title>
+      <link>https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg</imageUrl>
+      <pubDate>2026-06-06T14:46:20</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Funeral held for baby shot dead by Israeli troops in occupied West Bank</title>
+      <link>https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57df/live/389640b0-61d7-11f1-a211-b739dafd566d.jpg</imageUrl>
+      <pubDate>2026-06-06T19:57:42</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Is there an AI stock market bubble, and is it ready to burst?</title>
+      <link>https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/39bcce30-6049-11f1-8b8c-6d33e1d5abb6.jpg</imageUrl>
+      <pubDate>2026-06-05T12:46:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Pope begins Spain visit with praise for country's opposition to war and support for migrants</title>
+      <link>https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>On the first day of his official seven-day tour of Spain, the Pope praises the country's &quot;active commitment to peace and solidarity among peoples&quot;.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/8e6e1370-61cb-11f1-8c97-a551be738222.jpg</imageUrl>
+      <pubDate>2026-06-06T18:34:26</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</title>
+      <link>https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png</imageUrl>
+      <pubDate>2026-06-06T20:50:40</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
