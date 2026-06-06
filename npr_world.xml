@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 22:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 23:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. military says it shot down Iranian drones launched toward Gulf allies</title>
@@ -13,12 +13,36 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>בתקיפות אוויריות ישראליות נהרגו 9, כולל קציני צבא לבנון, לאחר הסכם הפסקת האש</title>
-      <link>https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers</link>
-      <description>הצבא הישראלי אישר פגיעה ברכב ואמר שהתקרית נבדקת. נשיא לבנון ג'וזף עאון כינה את השביתה &quot;הפרה בוטה של ​​הריבונות הלבנונית והחוק הבינלאומי&quot;.</description>
+      <title>Pope Leo says war with Iran is not a 'just war'</title>
+      <link>https://www.npr.org/2026/06/06/g-s1-126768/pope-leo-says-war-with-iran-is-not-a-just-war</link>
+      <description>Pope Leo XIV said the war in Iran does not qualify as a &quot;just war&quot; according to Catholic teaching, while answering questions by journalists aboard the papal plane for his six-day visit to Spain.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-06T06:54:34-04:00</pubDate>
-      <importance>32</importance>
+      <pubDate>2026-06-06T13:22:29-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?</title>
+      <link>https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus</link>
+      <description>White phosphorus is not banned under international law, but can &quot;create cruel injuries&quot; and indiscriminate harm in civilian areas.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-06T14:48:35-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>As American elections become more tense, officials are turning to local police</title>
+      <link>https://www.npr.org/2026/06/07/nx-s1-5763828/election-officials-law-enforcement</link>
+      <description>Since the 2020 election, local law enforcement has increasingly been playing a bigger role in helping local officials secure elections.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-06T07:40:57-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>A park famed for rare gorillas gears up to fight Ebola and protect its primates</title>
+      <link>https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo</link>
+      <description>In Virunga National Park, rangers are on the front lines — playing a critical role to contain the surging virus while coping with an upsurge in conflict-related violence. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-06T07:01:22-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
