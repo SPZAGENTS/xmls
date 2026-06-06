@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 13:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 14:00:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Palestinian baby killed by Israeli gunfire in West Bank, health ministry says</title>
@@ -34,6 +34,22 @@
       <description>Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/353c/live/d82787d0-6185-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-06-06T07:06:43</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>US and Iran exchange strikes in Gulf in latest test of ceasefire</title>
+      <link>https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg</imageUrl>
+      <pubDate>2026-06-06T06:16:28</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Putin says there is 'no point' meeting Zelensky over ending Ukraine war</title>
+      <link>https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg</imageUrl>
+      <pubDate>2026-06-05T18:16:15</pubDate>
       <importance>18</importance>
     </item>
   </channel>
