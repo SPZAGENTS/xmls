@@ -1,73 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-06-06T15:01:53.259Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Sat, 06 Jun 2026 18:08:52 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 📝 זה לא מטורף? למפלגת הלייבור של ג&apos;רמי קורבין הייתה &apos;משבר אנטישמיות&apos; ועכשיו גם למפ</title>
+      <title>Crazy isn't it Jeremy Corbyn's Labour party had an 'antisemitism crisis' and now Zack Polanski's Green Party does. While Nigel Farage's Reform party, with Nigel Farage and loads of Nazi lovers, doesn't. It's like it's some kind of scam used against Left Wing parties.</title>
       <link>https://x.com/BladeoftheS/status/2063271798947389567</link>
-      <description>זה לא מטורף? למפלגת הלייבור של ג&apos;רמי קורבין הייתה &apos;משבר אנטישמיות&apos; ועכשיו גם למפלגת הירוקים של זאק פולנסקי. בעוד שלמפלגת הרפורמה של נייג&apos;ל פאראג&apos;, עם נייג&apos;ל פאראג&apos; והמון אוהבי נאצים, אין. זה כאילו שזה איזשהו תרמית שמשתמשים בה נגד מפלגות שמאל.</description>
+      <description>Crazy isn't it Jeremy Corbyn's Labour party had an 'antisemitism crisis' and now Zack Polanski's Green Party does. While Nigel Farage's Reform party, with Nigel Farage and loads of Nazi lovers, doesn't. It's like it's some kind of scam used against Left Wing parties.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T14:48:25Z</pubDate>
-      <source>twitter-@BladeoftheS</source>
-      <category>אנטישמיות מהשטח</category>
-      
+      <importance>75</importance>
     </item>
     <item>
-      <title>[100] 📝 פעילי פרו-פלסטין נהנו מכל רגע במלחמת ישראל/עזה מכיוון שהיא אפשרה להם להשתמש באופ</title>
+      <title>Pro-Pal activists loved every moment of the Israel/Gaza war as it enabled them to cynically use Palestinian casualties to validate their real motivation - antisemitism. Like the terrorists they support, they don't want peace, just the destruction of the world's only Jewish state.</title>
       <link>https://x.com/Never_Again2020/status/2063266038796439702</link>
-      <description>פעילי פרו-פלסטין נהנו מכל רגע במלחמת ישראל/עזה מכיוון שהיא אפשרה להם להשתמש באופן ציני בנפגעים הפלסטינים כדי לאמת את המוטיבציה האמיתית שלהם - אנטישמיות. כמו הטרוריסטים שהם תומכים בהם, הם לא רוצים שלום, רק את הרס המדינה היהודית היחידה בעולם.</description>
+      <description>Pro-Pal activists loved every moment of the Israel/Gaza war as it enabled them to cynically use Palestinian casualties to validate their real motivation - antisemitism. Like the terrorists they support, they don't want peace, just the destruction of the world's only Jewish state.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T14:25:31Z</pubDate>
-      <source>twitter-@Never_Again2020</source>
-      <category>אנטישמיות מהשטח</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📷 ביום זה ב-1944, בית הכנסת הזה נשאר פתוח למשך 24 שעות כדי שאנשים יוכלו להיכנס ולה</title>
+      <title>On this day in 1944, this synagogue stayed open for 24 hrs so that people could come in and pray for Allied troops taking part in D-Day.</title>
       <link>https://x.com/TheSylvreWolfe/status/2063274316733784292</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HKI5DrmbwAMnuIL.jpg' alt='image'&gt; ביום זה ב-1944, בית הכנסת הזה נשאר פתוח למשך 24 שעות כדי שאנשים יוכלו להיכנס ולהתפלל עבור חיילי בעלות הברית שהשתתפו ביום הפלישה.</description>
+      <description>On this day in 1944, this synagogue stayed open for 24 hrs so that people could come in and pray for Allied troops taking part in D-Day.</description>
+      <imageUrl>https://pbs.twimg.com/media/HKI5DrmbwAMnuIL.jpg</imageUrl>
       <pubDate>2026-06-06T14:58:25Z</pubDate>
-      <source>twitter-@TheSylvreWolfe</source>
-      <category>אנטישמיות מהשטח</category>
-      <enclosure url="https://x.com/TheSylvreWolfe/status/2063274316733784292" type="image/jpeg"/>
+      <importance>60</importance>
     </item>
     <item>
-      <title>[100] 📝 הם אומרים לי שטאוור האמלטס הוא אזור אסור ואני גדלתי שם ממש והולך לשם כל שבוע</title>
+      <title>They tell me Tower Hamlets is a no go zone and I literally grew up there and I go there every week</title>
       <link>https://x.com/ESOLallstars/status/2063275126313845114</link>
-      <description>הם אומרים לי שטאוור האמלטס הוא אזור אסור ואני גדלתי שם ממש והולך לשם כל שבוע</description>
+      <description>They tell me Tower Hamlets is a no go zone and I literally grew up there and I go there every week</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T15:01:38Z</pubDate>
-      <source>twitter-@ESOLallstars</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>95</importance>
     </item>
     <item>
-      <title>[100] 📝 בלי להזכיר את השימוש במשאבים ציבוריים המיועדים להם, הגטאות הצרפתיים שהם חור שחור</title>
+      <title>Sin mencionar el uso de recursos públicos destinados a estos, los ghettos franceses que son un agujero negro de dinero que se han vuelto una no go zone por esos que solo vieneron a trabajar. Cualquier política frente a masas ingentes de inmigrantes no funcionan.</title>
       <link>https://x.com/JeanMCueva97041/status/2063273233546182691</link>
-      <description>בלי להזכיר את השימוש במשאבים ציבוריים המיועדים להם, הגטאות הצרפתיים שהם חור שחור של כסף שהפכו לאזור אסור בגלל אלה שבאו רק לעבוד. כל מדיניות מול המונים עצומים של מהגרים לא עובדת.</description>
+      <description>Sin mencionar el uso de recursos públicos destinados a estos, los ghettos franceses que son un agujero negro de dinero que se han vuelto una no go zone por esos que solo vieneron a trabajar. Cualquier política frente a masas ingentes de inmigrantes no funcionan.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T14:54:07Z</pubDate>
-      <source>twitter-@JeanMCueva97041</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>85</importance>
     </item>
     <item>
-      <title>[100] 📝 בבקשה תן שם לאזור אסור אחד בלונדון. אתה משקר כמו טראמפ.</title>
+      <title>Please name one 'no go' zone in London.  You lie as much as Trump.</title>
       <link>https://x.com/mrledders/status/2063271445094932885</link>
-      <description>בבקשה תן שם לאזור אסור אחד בלונדון. אתה משקר כמו טראמפ.</description>
+      <description>Please name one 'no go' zone in London.  You lie as much as Trump.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T14:47:00Z</pubDate>
-      <source>twitter-@mrledders</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>70</importance>
     </item>
     <item>
-      <title>[100] 📝 טראמפ היה הנשיא המעורב ביותר מאז רייגן. הוא לא לוקח שכר, נשאר בתנועה כדי לוודא ש</title>
+      <title>Trump has been the most actively involved President since Reagan.  He takes no salary, stays on the go to make sure everything is being done for the country, and the jobs rate is at an all time high.  He recognizes the the Islamic threat from Iran  for America. Thank God!</title>
       <link>https://x.com/cdtwriter/status/2063274575010701733</link>
-      <description>טראמפ היה הנשיא המעורב ביותר מאז רייגן. הוא לא לוקח שכר, נשאר בתנועה כדי לוודא שהכל נעשה למען המדינה, ושיעור המשרות הגיע לשיא של כל הזמנים. הוא מכיר באיום האיסלאמי מאיראן על אמריקה. תודה לאל!</description>
+      <description>Trump has been the most actively involved President since Reagan.  He takes no salary, stays on the go to make sure everything is being done for the country, and the jobs rate is at an all time high.  He recognizes the the Islamic threat from Iran  for America. Thank God!</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-06T14:59:27Z</pubDate>
-      <source>twitter-@cdtwriter</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>60</importance>
     </item>
   </channel>
 </rss>

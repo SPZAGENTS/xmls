@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 18:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:08:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon</title>
@@ -45,14 +45,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html</link>
-      <description>Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06int-lebanon-strike-vbwm/06int-lebanon-strike-vbwm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T13:49:03+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied</title>
       <link>https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html</link>
       <description>After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins.</description>
@@ -75,6 +67,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/04/multimedia/00int-russia-armenia-disinfo-01-hmpt/00int-russia-armenia-disinfo-01-hmpt-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-05T14:33:43+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say</title>
+      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html</link>
+      <description>Israel’s military said a car was speeding toward soldiers when one of them opened fire. The baby’s grandmother, who said she was in the car, disputed that account.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06int-israel-westbank-mbqv/06int-israel-westbank-mbqv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-06T15:01:05+00:00</pubDate>
+      <importance>38</importance>
     </item>
     <item>
       <title>Backed by Trump, Opposed by Putin, and Fighting for His Political Life</title>
