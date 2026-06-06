@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 16:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Palestinian baby killed by Israeli gunfire in West Bank, health ministry says</title>
@@ -37,12 +37,28 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>לבנון טוען ששלושה לוחמים נהרגו בתקיפה ישראלית ברכב</title>
-      <link>https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>הצבא הישראלי חוקר את האירוע בדרום לבנון, שם הוא מלחם בחזבאללה.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png</imageUrl>
-      <pubDate>2026-06-06T10:57:28</pubDate>
+      <title>US and Iran exchange strikes in Gulf in latest test of ceasefire</title>
+      <link>https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672a/live/34dc1b50-6189-11f1-b682-cf91850925ea.jpg</imageUrl>
+      <pubDate>2026-06-06T06:16:28</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</title>
+      <link>https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The city's governor urges residents to remain indoors for the first time since the beginning of the war.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png</imageUrl>
+      <pubDate>2026-06-06T13:38:07</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Putin says there is 'no point' meeting Zelensky over ending Ukraine war</title>
+      <link>https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg</imageUrl>
+      <pubDate>2026-06-05T18:16:15</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
