@@ -2,22 +2,22 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 06:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg</imageUrl>
+      <pubDate>2026-06-05T01:44:16</pubDate>
+      <importance>43</importance>
+    </item>
     <item>
       <title>Israeli strikes kill 11 people in Gaza City, medics say</title>
       <link>https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&amp;at_campaign=rss</link>
       <description>Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4773/live/10c39b70-5fff-11f1-b682-cf91850925ea.jpg</imageUrl>
       <pubDate>2026-06-04T17:50:20</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>חיזבאללה דוחה את חידוש הפסקת האש שהוסכם על ישראל ולבנון</title>
-      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>ארצות הברית הודיעה על הסכם הפסקת האש ביום רביעי בלילה לאחר סבב שיחות חדש.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/c9a989e0-601f-11f1-95e8-2f6b295436fc.jpg</imageUrl>
-      <pubDate>2026-06-05T01:44:16</pubDate>
       <importance>43</importance>
     </item>
     <item>
@@ -50,6 +50,22 @@
       <description>It could take weeks - or even a month - before we know who won elections in California and Los Angeles.</description>
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/5f4c10e0-6065-11f1-89a3-d1f559421220.jpg</imageUrl>
       <pubDate>2026-06-04T22:20:24</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Astronauts return to ISS after sheltering during air leak repair attempt</title>
+      <link>https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg</imageUrl>
+      <pubDate>2026-06-05T21:35:55</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Putin says there is 'no point' meeting Zelensky over ending Ukraine war</title>
+      <link>https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg</imageUrl>
+      <pubDate>2026-06-05T18:16:15</pubDate>
       <importance>18</importance>
     </item>
   </channel>
