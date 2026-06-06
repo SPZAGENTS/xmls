@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sat, 06 Jun 2026 08:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:46:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e535/live/411ae920-60f6-11f1-bb63-4f1168d17ecf.jpg</imageUrl>
       <pubDate>2026-06-05T21:35:55</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Putin says there is 'no point' meeting Zelensky over ending Ukraine war</title>
+      <link>https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a6e/live/d52d0df0-6100-11f1-ae0d-afcc10479766.jpg</imageUrl>
+      <pubDate>2026-06-05T18:16:15</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
