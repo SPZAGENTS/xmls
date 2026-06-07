@@ -2,87 +2,63 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 07 Jun 2026 18:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 18:54:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>What to Know About the Ebola Outbreak</title>
-      <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
-      <description>Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 84, but the true toll may be far higher.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-fzpw/17int-ebola-WTK-fzpw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T10:35:41+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html</link>
-      <description>Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06int-lebanon-strike-vbwm/06int-lebanon-strike-vbwm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T13:49:03+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say</title>
+      <title>תינוק נהרג כשצבא ישראל יורה על מכונית בגדה המערבית, אומרים גורמים פלסטינים</title>
       <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html</link>
-      <description>Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account.</description>
+      <description>צבא ישראל אמר כי חייל פתח באש לאחר שכוחות ישראליים &quot;תפסו רכב מאיץ לעברם&quot;. סבתו של התינוק, שהייתה במכונית, חלקה על החשבון הזה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/06/multimedia/06int-israel-westbank-mbqv/06int-israel-westbank-mbqv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-06T21:00:36+00:00</pubDate>
       <importance>38</importance>
     </item>
     <item>
-      <title>Trump’s Defense Department Sees Growing Espionage Threat From Israel</title>
+      <title>משרד ההגנה של טראמפ רואה את איום הריגול הגובר מישראל</title>
       <link>https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html</link>
-      <description>The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05dc-intel-fjhw/05dc-intel-fjhw-mediumSquareAt3X.jpg</imageUrl>
+      <description>משרד ההגנה העלה את הערכת איומי המודיעין הנגדי לרמה הגבוהה ביותר, ומאמינים שישראל ציתתה למשא ומתן אמריקאי עם איראן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/08/multimedia/05dc-intel-fjhw/05dc-intel-fjhw-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-07T00:09:51+00:00</pubDate>
       <importance>38</importance>
     </item>
     <item>
-      <title>What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html</link>
-      <description>Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/01/world/wpkfarkila/wpkfarkila-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T09:00:06+00:00</pubDate>
-      <importance>23</importance>
+      <title>ישראל מפציצה את פרברי ביירות כאשר הלחימה עם חיזבאללה מסלימה</title>
+      <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html</link>
+      <description>ממשל טראמפ דחף להפסקת אש, והפגיש גורמים ישראלים ולבנונים לשיחות בוושינגטון. אבל עד כה, חיזבאללה דחה את הפסקת האש.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/07/multimedia/07int-israel-beirut-qzfh/07int-israel-beirut-qzfh-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-07T15:26:16+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
-      <title>Backed by Trump, Opposed by Putin, and Fighting for His Political Life</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/armenia-election-russia.html</link>
-      <description>Prime Minister Nikol Pashinyan of Armenia is seeking re-election as his country weighs questions of war and peace, of autocracy and democracy, and of subjugation and independence.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05int-armenia-ctfk-promo/05int-armenia-ctfk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-05T09:14:22+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Arab Gunman Kills One in Attack on Central Israel</title>
+      <title>חמוש ערבי הורג אחד בהתקפה על מרכז ישראל</title>
       <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html</link>
-      <description>The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.</description>
+      <description>התוקף, ערבי אזרח ישראל, נהרג. חמאס, הארגון המיליטנטי הפלסטיני, שיבח את הירי, אך הוא לא לקח אחריות.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/07/multimedia/07int-israel-shooting-bgmz/07int-israel-shooting-bgmz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-07T14:12:44+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
-      <title>Mali Conflict Escalates as Rebel Alliance Seizes Key Cities</title>
-      <link>https://www.nytimes.com/2026/06/06/world/africa/mali-rebels-fighting-jnim-isis.html</link>
-      <description>Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/05/14/multimedia/00int-mali-assess-1-bkjc/00int-mali-assess-1-bkjc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-06T04:01:09+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know</title>
+      <title>המחזור הנשיאותי של פרו יכול להסיט את המדינה ימינה: מה לדעת</title>
       <link>https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election-runoff-fujimori-sanchez.html</link>
-      <description>Facing a surge in violence, voters will choose between a newly moderated left and a right-wing candidate representing an autocrat’s divisive legacy.</description>
+      <description>מול עלייה באלימות, הבוחרים יבחרו בין שמאל שהתנהל לאחרונה לבין מועמד ימין המייצג את מורשתו המפלגתית של אוטוקרטי.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/07/multimedia/07int-peru-election01-photo-mcfb/07int-peru-election01-photo-mcfb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-07T09:02:10+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.</title>
+      <title>טראמפ אומר שאיראן הבטיחה הבטחה גרעינית 'גדולה'. זה לא חדש.</title>
       <link>https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html</link>
-      <description>President Trump’s boasts of securing a commitment from Iranian leaders not to develop a nuclear weapon have puzzled nuclear experts who note that Tehran has made that pledge for more than 50 years.</description>
+      <description>ההתפארות של הנשיא טראמפ בהבטחת התחייבות מצד מנהיגי איראן לא לפתח נשק גרעיני תמהה מומחי גרעין שמציינים כי טהראן הבטיחה את ההתחייבות הזו במשך יותר מ-50 שנה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05iran-promise-hjqk/05iran-promise-hjqk-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-07T09:02:06+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>אוקראינה פונה לאירופה כשארה&quot;ב חוזרת אחורה כמתווך בשיחות שלום</title>
+      <link>https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html</link>
+      <description>הנשיא וולודימיר זלנסקי נסע ללונדון כדי להיפגש עם מנהיגי בריטניה, גרמניה וצרפת, שלדבריו יכולים להיות מנהלי משא ומתן בשיחות עם רוסיה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/07/multimedia/07int-ukraine-europe-vptf/07int-ukraine-europe-vptf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-07T15:20:58+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
