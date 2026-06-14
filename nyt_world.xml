@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 14 Jun 2026 20:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 21:01:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs</title>
-      <link>https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us</link>
-      <description>President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/13/multimedia/14mideast-promo/13JpINT-IRAN-UNCERTAINTY-print-mbgz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-14T16:44:58+00:00</pubDate>
-      <importance>68</importance>
-    </item>
     <item>
       <title>Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates</title>
       <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html</link>
@@ -45,14 +37,6 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates</title>
-      <link>https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html</link>
-      <description>The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/14/multimedia/14mideast-israel-update-01-vzph/14mideast-israel-update-01-vzph-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-14T14:33:59+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
       <title>Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say</title>
       <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html</link>
       <description>Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account.</description>
@@ -75,14 +59,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/05/multimedia/05iran-promise-hjqk/05iran-promise-hjqk-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-07T09:02:06+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure</title>
-      <link>https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html</link>
-      <description>Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/12/multimedia/12int-iran-posture-assess-01-cmzj/12int-iran-posture-assess-01-cmzj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-13T18:29:46+00:00</pubDate>
-      <importance>33</importance>
     </item>
   </channel>
 </rss>
