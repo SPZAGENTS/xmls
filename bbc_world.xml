@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 14 Jun 2026 21:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:01:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Israeli military says Hezbollah targets struck in Beirut</title>
+      <link>https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c96/live/b9b7b210-67f8-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
+      <pubDate>2026-06-14T17:52:36</pubDate>
+      <importance>48</importance>
+    </item>
     <item>
       <title>Is there an AI stock market bubble, and is it ready to burst?</title>
       <link>https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -27,6 +35,30 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7a6/live/6be2acc0-6271-11f1-803e-eb6c61688af4.jpg</imageUrl>
       <pubDate>2026-06-07T13:24:50</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Russian families use AI to 'resurrect' loved ones killed in Ukraine</title>
+      <link>https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
+      <pubDate>2026-06-13T23:19:52</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>The college scam that promised students fleeing war a new life in Finland</title>
+      <link>https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03db/live/d1bfd1e0-6559-11f1-8ee9-c5adb8299401.jpg</imageUrl>
+      <pubDate>2026-06-12T22:08:38</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Why the economics make this the craziest World Cup ever</title>
+      <link>https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf58/live/e0108980-65a7-11f1-b1db-af71d47507d6.jpg</imageUrl>
+      <pubDate>2026-06-11T23:07:52</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
