@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 14 Jun 2026 22:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 23:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Armenians vote in general election watched closely by Russia and the West</title>
@@ -26,6 +26,38 @@
       <description>At the National World War II Memorial, historian Alex Kershaw has found an unlikely way to keep D-Day alive: live social media posts timed to the events of June 6, 1944.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-06T17:05:39-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Trump condemns Israeli strike in Beirut, warning attacks threaten deal on U.S-Iran war</title>
+      <link>https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal</link>
+      <description>Trump said Israel's attack on Beirut Sunday &quot;should not have happened,&quot; but maintained that the U.S. was still &quot;very close to a Deal&quot; to end the war with Iran. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-13T23:46:07-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>A Lebanon town's grief in the aftermath of a deadly Israeli airstrike</title>
+      <link>https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike</link>
+      <description>More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-13T17:02:53-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>The U.S.-led war in Iran will dominate Trump's G7 trip to France</title>
+      <link>https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france</link>
+      <description>The gathering was originally expected to be a meeting focused on a variety of separate economic and security issues. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-14T12:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet</title>
+      <link>https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet</link>
+      <description>Britain is investigating a sanctioned tanker that is suspected of being part of the Russian &quot;shadow fleet,&quot; shipping oil in violation of international sanctions over Moscow's war on Ukraine.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-14T04:45:23-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
