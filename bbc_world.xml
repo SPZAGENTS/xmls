@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 17:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:01:25 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Unclear if US-Iran agreement will provide respite to Lebanon</title>
-      <link>https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569e/live/4492c3a0-68be-11f1-8546-8f19e4fe30f4.jpg</imageUrl>
-      <pubDate>2026-06-15T01:37:47</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>US musician Oliver Tree dies in helicopter collision in Brazil</title>
       <link>https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -19,6 +11,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd84/live/4e40a990-687c-11f1-ad29-ebc8ba5e9f31.jpg</imageUrl>
       <pubDate>2026-06-15T06:47:23</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Unclear if US-Iran agreement will provide respite to Lebanon</title>
+      <link>https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb1/live/35d65ea0-6880-11f1-94e3-57d1704e1815.jpg</imageUrl>
+      <pubDate>2026-06-15T01:37:47</pubDate>
+      <importance>33</importance>
     </item>
     <item>
       <title>Oil prices fall and shares jump after US-Iran deal announced</title>
@@ -35,6 +35,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/842c/live/8b1a8670-6880-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
       <pubDate>2026-06-15T02:41:25</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Bowen: Iran deal ends Trump's war that revealed limit of US dominance</title>
+      <link>https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ec/live/f929b930-68b0-11f1-a887-c513fdcee6e6.jpg</imageUrl>
+      <pubDate>2026-06-15T14:26:28</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
