@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 19:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 19:08:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Russia unleashes a major barrage on Ukraine, killing 11 and damaging a renowned religious site</title>
@@ -29,12 +29,20 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Ukraine to start EU membership talks, ushering in years of reforms while fighting Russia’s war</title>
-      <link>https://abcnews.com/International/wireStory/ukraine-start-eu-membership-talks-ushering-years-reforms-133889791</link>
-      <description>Ukraine is officially opening negotiations for European Union membership</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_c58f079d0c2c5b3cc32eaa1df7f3db2d_4x3_384.jpg</imageUrl>
-      <pubDate>2026-06-15T10:56:23-04:00</pubDate>
-      <importance>22</importance>
+      <title>WATCH:  Massive explosions captured on video destroy multiple homes</title>
+      <link>https://abcnews.com/video/133810238/</link>
+      <description>The blasts in Clinton Township, Pennsylvania, leveled at least two homes and injured three people, including an 84-year-old woman, officials said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-12T06:39:26-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Romania's president nominates Adrian Vestea as prime minister after his previous pick withdraws</title>
+      <link>https://abcnews.com/International/wireStory/romanias-president-nominates-adrian-vestea-prime-minister-after-133859175</link>
+      <description>Romanian President Nicusor Dan has nominated Adrian Vestea as prime minister to resolve a political crisis</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-14T04:37:06-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 19:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 19:08:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T05:55:23-04:00</pubDate>
       <importance>47</importance>
+    </item>
+    <item>
+      <title>When could an Iran peace deal be finalized?</title>
+      <link>https://www.today.com/video/trump-says-an-iran-peace-deal-is-near-264985157976</link>
+      <description>President Donald Trump called off strikes on Iran, saying a deal to end the war and reopen the Strait of Hormuz, a key trade route, would soon be “finalized.” NBC News' Richard Engel reports from Jerusalem on what could happen next and what Tehran is saying.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-12T11:38:03</pubDate>
+      <importance>62</importance>
     </item>
     <item>
       <title>Trump announces deal to end war in Iran. And, how to stay safe in deadly heat</title>
@@ -35,6 +43,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T04:44:46-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>US and Iran Reach Framework Deal to End War, Reopen Hormuz</title>
+      <link>https://www.today.com/video/us-and-iran-reach-framework-deal-to-end-war-reopen-hormuz-265092677817</link>
+      <description>An agreement has been reached between the United States and Iran to end the war and reopen the Strait of Hormuz, according to President Donald Trump and Iranian officials. A document signing is expected to take place Friday. NBC’s Keir Simmons reports on the details of the deal for TODAY.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-15T11:12:49</pubDate>
+      <importance>42</importance>
     </item>
   </channel>
 </rss>
