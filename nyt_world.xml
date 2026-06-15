@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 06:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:21:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran War Live Updates: U.S. and Iran Reach Cease-Fire Agreement</title>
@@ -37,12 +37,36 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Despite Talk of an Iran Peace Deal, Lebanon’s War Grinds On</title>
+      <link>https://www.nytimes.com/2026/06/12/world/middleeast/lebanon-israel-war-trump-iran.html</link>
+      <description>Israeli strikes on Friday left Lebanon out of sync with a cautious optimism taking hold elsewhere in the Middle East.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-12T16:17:51+00:00</pubDate>
+      <importance>64</importance>
+    </item>
+    <item>
+      <title>Netanyahu Aide Charged With Endangering Israeli Security Over Document Leak</title>
+      <link>https://www.nytimes.com/2026/06/11/world/middleeast/netanyahu-aide-charged-document-leak.html</link>
+      <description>Jonatan Urich, a media adviser to the Israeli prime minister, was accused of passing classified intelligence about negotiations with Hamas to a German newspaper.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-11T17:39:17+00:00</pubDate>
+      <importance>64</importance>
+    </item>
+    <item>
       <title>Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates</title>
       <link>https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html</link>
       <description>The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/14/multimedia/14mideast-israel-update-01-vzph/14mideast-israel-update-01-vzph-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-14T19:35:51+00:00</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal</title>
+      <link>https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html</link>
+      <description>The amount of oil and fuel stored by businesses and governments has fallen sharply since the start of the U.S.-Israeli war against Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-12T18:28:47+00:00</pubDate>
+      <importance>59</importance>
     </item>
     <item>
       <title>War and the World Cup</title>
@@ -53,36 +77,12 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Deadlocked Wars: How Major Powers Misread the Regions They Attacked</title>
-      <link>https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html</link>
-      <description>Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/14/multimedia/14int-iran-ukraine-deadlock-05-hwfb/14int-iran-ukraine-deadlock-05-hwfb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-14T20:03:43+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>What to Know About the Ebola Outbreak</title>
-      <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
-      <description>Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/13/multimedia/13int-ebola-WTK-cvzb/13int-ebola-WTK-cvzb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-13T15:37:08+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Germany and Japan Are Rearming Again, 80 Years After World War II</title>
-      <link>https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html</link>
-      <description>After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/13/multimedia/13int-germany-japan-01-hqmv/13int-germany-japan-01-hqmv-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-06-14T04:01:15+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure</title>
-      <link>https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html</link>
-      <description>Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/12/multimedia/12int-iran-posture-assess-01-cmzj/12int-iran-posture-assess-01-cmzj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-13T18:29:46+00:00</pubDate>
-      <importance>33</importance>
+      <title>Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians</title>
+      <link>https://www.nytimes.com/2026/06/12/world/middleeast/israel-base-jenin-oslo.html</link>
+      <description>Critics say the move would help the Israeli military protect increased settlement activity near Palestinian population centers in the West Bank.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-12T18:00:03+00:00</pubDate>
+      <importance>54</importance>
     </item>
   </channel>
 </rss>
