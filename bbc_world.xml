@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 09:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:01:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>US-Iran deal eases uncertainty over the war - but there is much still to play out</title>
@@ -35,6 +35,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64d9/live/b23a6ab0-666c-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
       <pubDate>2026-06-13T23:19:52</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>US musician Oliver Tree dies in helicopter collision in Brazil</title>
+      <link>https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd84/live/4e40a990-687c-11f1-ad29-ebc8ba5e9f31.jpg</imageUrl>
+      <pubDate>2026-06-15T06:47:23</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
