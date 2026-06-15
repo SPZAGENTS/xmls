@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 15 Jun 2026 21:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 21:14:39 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>US musician Oliver Tree dies in helicopter collision in Brazil</title>
@@ -35,6 +35,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/842c/live/8b1a8670-6880-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
       <pubDate>2026-06-15T02:41:25</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Bowen: Iran deal ends Trump's war that revealed limit of US dominance</title>
+      <link>https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ec/live/f929b930-68b0-11f1-a887-c513fdcee6e6.jpg</imageUrl>
+      <pubDate>2026-06-15T14:26:28</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
