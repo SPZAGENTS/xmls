@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 16:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 16:15:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>The Iran War Permanently Altered the Global Economy</title>
@@ -75,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-colombia-armed-conflict-promo/15int-colombia-armed-conflict-twhm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-15T09:00:36+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Iran Will Enter Nuclear Talks Feeling Emboldened</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html</link>
+      <description>Despite military setbacks during the war, Tehran is presenting a narrative of victory before negotiations with Washington.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-iran-emboldened-gztj/16int-iran-emboldened-gztj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T12:05:04+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
