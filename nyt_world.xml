@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 14:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:14:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>The Iran War Permanently Altered the Global Economy</title>
@@ -69,20 +69,20 @@
       <importance>18</importance>
     </item>
     <item>
+      <title>איראן תשתתף במשא ומתן הגרעיני בבטחון</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html</link>
+      <description>בניגוד לתפנית הצבאית במהלך המלחמה, טהראן מציגה סיפור של ניצחון לפני השיחות עם וושינגטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-iran-emboldened-gztj/16int-iran-emboldened-gztj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T09:58:27+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
       <title>Inside Colombia’s Never-Ending Drug War</title>
       <link>https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html</link>
       <description>Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-colombia-armed-conflict-promo/15int-colombia-armed-conflict-twhm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-15T09:00:36+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Iran Will Enter Nuclear Talks Feeling Emboldened</title>
-      <link>https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html</link>
-      <description>Despite military setbacks during the war, Tehran is presenting a narrative of victory before negotiations with Washington.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-iran-emboldened-gztj/16int-iran-emboldened-gztj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T09:58:27+00:00</pubDate>
-      <importance>33</importance>
     </item>
   </channel>
 </rss>
