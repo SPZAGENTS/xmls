@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 17:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:01:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -21,6 +21,14 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>Trump sought to break Iran’s regime. He settled for reopening Hormuz.</title>
+      <link>https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/</link>
+      <description>The emerging agreement ends a costly war but leaves Iran’s leadership intact and its nuclear future still subject to negotiation.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-15T04:16:03+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
       <title>In Mideast and worldwide, cautious relief over deal to end damaging war</title>
       <link>https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/</link>
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
@@ -35,14 +43,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-14T22:17:16+00:00</pubDate>
       <importance>27</importance>
-    </item>
-    <item>
-      <title>Trump sought to break Iran’s regime. He settled for reopening Hormuz.</title>
-      <link>https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/</link>
-      <description>The emerging agreement ends a costly war but leaves Iran’s leadership intact and its nuclear future still subject to negotiation.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-15T04:16:03+00:00</pubDate>
-      <importance>32</importance>
     </item>
   </channel>
 </rss>
