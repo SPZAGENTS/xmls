@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 09:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:01:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret</title>
+      <link>https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal</link>
+      <description>President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-promo6p/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-15T22:47:19+00:00</pubDate>
+      <importance>53</importance>
+    </item>
     <item>
       <title>U.S. and Iran Sign a Framework Deal, Leaving Major Issues for Future Talks</title>
       <link>https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html</link>
@@ -11,6 +19,22 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-iran-leadall-pchw/15int-iran-leadall-pchw-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-15T20:45:42+00:00</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond</title>
+      <link>https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html</link>
+      <description>Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-social-media-bans-wtk-HFO-top-qzwg/15int-social-media-bans-wtk-HFO-top-qzwg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-15T11:19:17+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord</title>
+      <link>https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html</link>
+      <description>The short-term truce hasn’t been made public, and the long-term peace deal it is supposed to yield doesn’t exist yet, so there is much still unknown about any agreement between the adversaries.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-unknowns2-mkcw/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-15T22:17:26+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>Will Commercial Ships Have to Pay to Pass Through the Strait of Hormuz? Maybe.</title>
@@ -29,12 +53,20 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>עדכונים חיים ממלחמה באיראן: ארה&quot;ב ואיראן תחתים על הסכם, עם פרטים שעדיין לא נודעו</title>
-      <link>https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal</link>
-      <description>נשיא ארה&quot;ב טראמפ ויועץ המדיני של איראן חתומים על הסכם, דבר שמצופה לפתוח את מצרי הורמוז.  הנוהלים המדויקים של העסקה עדיין לא נחשפו, ומנהיג ישראל מתבלבל בעניין.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/15/multimedia/15mideast-promo-0035-kvlf/15mideast-promo-0035-kvlf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T04:11:53+00:00</pubDate>
-      <importance>53</importance>
+      <title>With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join</title>
+      <link>https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html</link>
+      <description>Even though negotiations are beginning for Ukraine to join the bloc, the path ahead is a long one.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-eu-ukraine-explainer-wfkc/15int-eu-ukraine-explainer-wfkc-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-06-15T19:14:31+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies</title>
+      <link>https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html</link>
+      <description>Interceptors show Ukraine’s embrace of autonomous technologies trained on immense troves of wartime data.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-15T18:34:35+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>As Russia Strikes Ukraine, a Cultural Symbol Catches Fire</title>
@@ -45,43 +77,11 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>נתניהו אומר ישראל תשמור על כוחותיה בלבנון, מול ההסכם של ארה&quot;ב-איראן</title>
-      <link>https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html</link>
-      <description>אין נגמרה המלחמה,&quot; אמר לעבריים מנהיג האופוזיציה בנימין נתניהו, שבט.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-netanyahu-iran-qlbz/15int-netanyahu-iran-qlbz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-15T23:31:53+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
-      <title>מה לדעת על האיסורים ברשתות החברתיות שנקבעו באוסטרליה, בבריטניה ובעולם</title>
-      <link>https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html</link>
-      <description>בריטניה אמרה שתאסור לילדים מתחת ל-16 שנים להשתמש במערכות החברה והמדיה החברתית, החל מ 2027.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-social-media-bans-wtk-HFO-top-qzwg/15int-social-media-bans-wtk-HFO-top-qzwg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-15T11:19:17+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>שאלות חסרות מענה המתחילות בלב שוויון בין ארה&quot;ב לאיראן</title>
-      <link>https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html</link>
-      <description>התנאים הקצרי-מועד של החופשה לא פורסמו, וההסכם השלומי הארוך-טווח אליו היא אמורה להוביל איננו מתועד עדיין, ולכן יש תאריכים רבים שעדיין לא ידוע על הסכמה בין היריבים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-unknowns2-mkcw/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-15T23:58:40+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>אחרי שרוסיה הפילה טילי מנעולים ודרונים על קייב, בתי כנסת אורתודוקסיים השחוזים</title>
+      <title>After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns</title>
       <link>https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html</link>
-      <description>בישוף דיווח שהשליכו לחזור מאדריכלים קדושים רבים, באתר המנזר &quot;פֵּרְצ'ֶרְסְק&quot;,  מקום קדוש לאורתודוכסיות אוקראינית-רוסיה.</description>
+      <description>A bishop reported that many holy items had been recovered from the church, at the site of the Perchersk monastery, a revered place for the Ukrainian and Russian Orthodox faiths.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-ukraine-attack-kzmg/15int-ukraine-attack-kzmg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-15T12:25:06+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>בעמק הדרוגה: מלחמת נשק באזור המימד</title>
-      <link>https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html</link>
-      <description>עשר שנים לאחר הסכם שלום מתעדל, קבוצות חמושות יורטו וגורמות לאלימות דמים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-colombia-armed-conflict-promo/15int-colombia-armed-conflict-twhm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-15T09:00:36+00:00</pubDate>
       <importance>23</importance>
     </item>
   </channel>
