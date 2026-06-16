@@ -2,15 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 05:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:01:26 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>ארה&quot;ב ואיראן מכריזות על הסכם לסיום המלחמה, פתיחת מצר הורמוז מחדש</title>
+      <title>U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz</title>
       <link>https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates</link>
-      <description>העסקה היא פריצת דרך גדולה בסכסוך שהצית את המזרח התיכון וזעזע את הכלכלה העולמית. עם זאת, היא לא פתרה סוגיות קריטיות שהוגדרו בצד למשא ומתן נוסף.</description>
+      <description>The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T05:55:23-04:00</pubDate>
       <importance>47</importance>
+    </item>
+    <item>
+      <title>Trump announces deal to end war in Iran. And, how to stay safe in deadly heat</title>
+      <link>https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight</link>
+      <description>Trump says a deal has been reached to end the war between the U.S. and Iran. Plus, this is what extreme temperatures do to the human body — and how you can keep yourself safe.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-15T06:59:23-04:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
       <title>Former American businessman detained in Myanmar after alleged financial misconduct</title>
@@ -27,14 +35,6 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T05:00:00-04:00</pubDate>
       <importance>17</importance>
-    </item>
-    <item>
-      <title>טראמפ מכריז על הסכם לסיום המלחמה באיראן. ואיך להישאר בטוחים בחום קטלני</title>
-      <link>https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight</link>
-      <description>טראמפ אומר שהושגה הסכם לסיום המלחמה בין ארה&quot;ב לאיראן. בנוסף, זה מה שטמפרטורות קיצוניות עושות לגוף האדם - וכיצד אתה יכול לשמור על עצמך.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-15T06:59:23-04:00</pubDate>
-      <importance>27</importance>
     </item>
   </channel>
 </rss>
