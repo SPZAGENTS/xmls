@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 11:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:02:45 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz</title>
@@ -29,14 +29,6 @@
       <importance>42</importance>
     </item>
     <item>
-      <title>Former American businessman detained in Myanmar after alleged financial misconduct</title>
-      <link>https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct</link>
-      <description>Adam Castillo, founder of AGS Myanmar, was detained Thursday at Yangon International Airport. The U.S. State Department is aware of a reported detention but hasn't commented further. </description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-15T08:45:36-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
       <title>Do internet super stars matter in elections?</title>
       <link>https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker</link>
       <description>It's becoming common for campaigns to seek out viral moments and the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races this year. </description>
@@ -50,6 +42,14 @@
       <description>Live election results: Get the latest on U.S. delegate and mayoral primary races in Washington, D.C.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-16T00:01:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Former American businessman detained in Myanmar after alleged financial misconduct</title>
+      <link>https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct</link>
+      <description>Adam Castillo, founder of AGS Myanmar, was detained Thursday at Yangon International Airport. The U.S. State Department is aware of a reported detention but hasn't commented further. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-15T08:45:36-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
