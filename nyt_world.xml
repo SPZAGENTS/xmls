@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 23:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Iran War Live Updates: U.S. and Iran Look Ahead to Next Round of Talks</title>
+      <link>https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal</link>
+      <description>Iran’s foreign minister said that new negotiations with the United States would start immediately after their preliminary deal is signed on Friday. President Trump said he hoped the conflict would soon be in the “rearview mirror.”</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16live-mideast-header02-kfvg-promo/16live-mideast-header02-kfvg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T17:20:25+00:00</pubDate>
+      <importance>53</importance>
+    </item>
     <item>
       <title>Live Updates: At G7 Summit, Trump Says Ukraine War Has ‘No Impact’ on U.S.</title>
       <link>https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france</link>
@@ -13,12 +21,52 @@
       <importance>43</importance>
     </item>
     <item>
-      <title>עדכונים חיים ממלחמת איראן: טראמפ אומר שהוא תוקף להשאיר את המלחמה 'בעדס</title>
-      <link>https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal</link>
-      <description>מזכיר החוץ של איראן אמר כי משאלות חדשות לנושאי נשק גרעיניים והתרת סנקציות יחלו ביום שישי, רק אחרי שמועד החתימה הראשון.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16mideast-promo-335EST-zgbf/16mideast-promo-335EST-zgbf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T20:25:58+00:00</pubDate>
-      <importance>43</importance>
+      <title>Why Team Iran Is in a Tough Spot at the World Cup</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
+      <description>At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T17:00:13+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Russian Navy Ship Accused of Firing Warning Shots at U.K. Yacht</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html</link>
+      <description>Britain’s Defense Ministry said it was investigating a report that a Russian vessel fired warning shots near a U.K.-registered yacht in the English Channel on Tuesday.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-russian-ship1-bhvt/16int-russian-ship1-bhvt-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T16:58:31+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Iran Will Enter Nuclear Talks With the Trump Administration Feeling Emboldened</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html</link>
+      <description>Despite military setbacks during the war, Tehran is presenting a narrative of victory before negotiations with Washington.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-iran-emboldened-gztj/16int-iran-emboldened-gztj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T12:05:05+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Naval Mines Could Still Stymie Gulf Shipping After War</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html</link>
+      <description>The U.S. Navy will be deploying a new generation of drone-based countermeasures to search the sea floor and surface for any mines Iran laid.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-demining-jqvz/15mideast-demining-jqvz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T12:53:38+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>New Coral Study Identifies Areas Where Reefs Are Hanging On</title>
+      <link>https://www.nytimes.com/2026/06/16/climate/coral-reef-global-warming.html</link>
+      <description>New research has identified areas around the world where cooler currents and other favorable conditions are helping to protect coral from the worst effects of global warming.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-16T15:31:34+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Trump Says U.S. Has ‘Nothing to Do’ with Ukraine War at G7 Summit</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html</link>
+      <description>President Trump’s remarks underscored a new security reality for U.S. allies in Europe, who for eight decades relied on American protection.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16g7-ukraine-trump-1-vgjk/16g7-ukraine-trump-1-vgjk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T16:26:44+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join</title>
@@ -29,62 +77,12 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>איראן תשתתף במשא-ומתן הגרעיני עם ממשלת טראמפ, שבה חושבים להשיג יתרון</title>
-      <link>https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html</link>
-      <description>בניגוד לתבוסות צבאיות במהלך המלחמה, טהראן משחקת נרטיב של ניצחון לפני משא ומתן עם וושינגטון.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-iran-emboldened-gztj/16int-iran-emboldened-gztj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T12:05:05+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>Inside Colombia’s Never-Ending Drug War</title>
-      <link>https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html</link>
-      <description>Ten years after a landmark peace deal, armed groups are wreaking deadly violence, blending jungle combat with new drone warfare.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-colombia-armed-conflict-promo/15int-colombia-armed-conflict-twhm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-15T09:00:36+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>אחרי פיצול מריר, הנהגת אירופה נשמעת בחביבות לטראמפ
-
-(Description: וזאת לאחר שלא ידעו כיצד לייחס לנאומו)</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
-      <description>פרוטוקול שלום עם איראן, ותקווה לשיתוף פעולה עם אוקראינה, החמירו את גווניו בישיבה של קבוצת 7 בצרפת.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-europe-trump-1-pflc/16int-europe-trump-1-pflc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T19:32:29+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>צוללות מוקשים עדיין יכולות למנוע נסיעה בתעל הפרסי אחרי המלחמה</title>
-      <link>https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html</link>
-      <description>חיל הים של ארצות הברית ישתמש בדרונים מתקדמים לאתר פצצי-ים שהנהיגה איראן.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-demining-jqvz/15mideast-demining-jqvz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T12:53:38+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>למה נבחרת איראן נמצאת במשבר בגביע העולם?</title>
-      <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
-      <description>במשחק הראשון שלה בלוס אנג'לס, נבחרת הגברים הזעימה לצופים שלא באו לראות כדורגל, אלא להשתתף במחאה נגד משטר טהראן.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T17:00:13+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>אחרי תקיפת רוסיה לקייב בטילים ובדרונים - קתדרלה אורתודוקסית השענה שריפה</title>
+      <title>After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns</title>
       <link>https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html</link>
-      <description>בישוף דיווח שהצליב את המנזר פרכוסק, מקום קדוש לאורתודוקסיה האוקראינית והרוסית.</description>
+      <description>A bishop reported that many holy items had been recovered from the church, at the site of the Perchersk monastery, a revered place for the Ukrainian and Russian Orthodox faiths.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15int-ukraine-attack-kzmg/15int-ukraine-attack-kzmg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-15T12:25:06+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>ספינה רוסית מאשימה בירי אלרט למעבורת בריטית</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/russian-navy-english-channel-yacht-uk.html</link>
-      <description>משרד ההגנה הבריטי אמר כי הוא מחקור בדו&quot;ח שלפיו ספינה רוסית ירתה ציוד זיהוי לאורך ספינת יוט אשר מרשומה בבריטניה, בעת שחצתה את המצר האנגלי.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-russian-ship1-bhvt/16int-russian-ship1-bhvt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T19:25:00+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
