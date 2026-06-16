@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Tue, 16 Jun 2026 10:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:59:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Ukraine to start EU membership talks, ushering in years of reforms while fighting Russia’s war</title>
@@ -19,6 +19,22 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_9200abc702940705912bfd9a1ef02192_4x3_384.jpg</imageUrl>
       <pubDate>2026-06-15T07:53:56-04:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Iran war is a 'wake-up call' for Southeast Asia's energy sector, report says</title>
+      <link>https://abcnews.com/International/wireStory/iran-war-wake-call-southeast-asias-energy-sector-133912533</link>
+      <description>The International Energy Agency says Southeast Asia&amp;rsquo;s power sector is too open to risks from its dependence on imports of oil and gas from a limited number of suppliers</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_edf3b94bdad7727d88ecec24b17b78f5_4x3_384.jpg</imageUrl>
+      <pubDate>2026-06-16T03:41:56-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Sweden requires public workers to report migrants not authorized to live there</title>
+      <link>https://abcnews.com/International/wireStory/sweden-requires-public-workers-report-migrants-authorized-live-133892197</link>
+      <description>Sweden's parliament has passed a law requiring public sector workers to report unauthorized migrants to the police</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_26dcbb4435bdfe6d92e58a959090323d_4x3_384.jpg</imageUrl>
+      <pubDate>2026-06-15T23:15:10-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
