@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 19:32:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:01:27 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -51,6 +51,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png</imageUrl>
       <pubDate>2026-06-16T14:11:30</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Iran sends tankers loaded with oil past US military blockade</title>
+      <link>https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5622/live/98fcb090-6a49-11f1-8e1d-bbbb1017d210.png</imageUrl>
+      <pubDate>2026-06-17T13:27:47</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
