@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 06:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:01:23 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran war 'has been a strategic disaster for the State of Israel', analyst says</title>
@@ -53,6 +53,16 @@ The United States and Iran agreed a peace deal and an &quot;immediate and perman
       <importance>53</importance>
     </item>
     <item>
+      <title>Middle East live: US-Iran memorandum details to be released soon</title>
+      <link>https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon</link>
+      <description>
+Some details of the memorandum of understanding aimed at ending the war between the United States and Iran began emerging on Tuesday, with US President Donald Trump describing it as a &quot;fair deal.&quot; French President Emmanuel Macron said in a video posted on X that the agreement was &quot;a good thing.&quot;  Follow our liveblog for all the latest developments.
+</description>
+      <imageUrl>https://s.france24.com/media/display/46f5469c-69f2-11f1-9cb5-005056bfb2b6/w:1024/p:16x9/AP26166542965588.jpg</imageUrl>
+      <pubDate>2026-06-17T02:58:17</pubDate>
+      <importance>53</importance>
+    </item>
+    <item>
       <title>Netanyahu's Israel grapples with Trump-Iran deal as details remain unclear</title>
       <link>https://www.foxnews.com/world/netanyahus-israel-grapples-trump-iran-deal-details-remain-unclear</link>
       <description>Defense Minister Katz says IDF will remain in Lebanon security zones as Israeli leaders debate Trump-Iran deal&amp;apos;s impact on national security interests.</description>
@@ -85,14 +95,6 @@ The Israeli army on Saturday issued evacuation warnings for the southern city o
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T20:45:56+00:00</pubDate>
       <importance>47</importance>
-    </item>
-    <item>
-      <title>Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions</title>
-      <link>https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg</imageUrl>
-      <pubDate>2026-06-16T16:20:33</pubDate>
-      <importance>43</importance>
     </item>
   </channel>
 </rss>
