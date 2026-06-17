@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 17:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 18:01:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>3 things to know about the new Fed chief's first meeting</title>
+      <link>https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting</link>
+      <description>Kevin Warsh takes questions from reporters for the first time since taking over as Chairman of the Federal Reserve.  Warsh and his colleagues are expected to hold interest rates steady today.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
