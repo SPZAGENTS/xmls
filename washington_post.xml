@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 23:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:01:22 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -27,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Russia’s war in Ukraine comes back into Trump’s focus with no end in sight</title>
+      <link>https://www.washingtonpost.com/world/2026/06/17/trump-meets-zelensky-g-7-voices-frustration-over-russia-ongoing-war/</link>
+      <description>The president met with Ukraine’s Volodymyr Zelensky at the G-7 summit but told reporters the conflict “has no impact on us … we’re thousands of miles away.”  </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-17T12:10:48+00:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
