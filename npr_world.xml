@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 18 Jun 2026 00:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Here's how much the the Iran war cost -- and how its effects will linger</title>
+      <link>https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade</link>
+      <description>More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-17T17:23:54-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>As western fires erupt, Trump's Forest Service says it's now fully staffed</title>
+      <link>https://www.npr.org/2026/06/17/nx-s1-5855760/as-western-fires-erupt-trumps-forest-service-says-its-now-fully-staffed</link>
+      <description>The Forest Service says it's fully staffed with seasonal firefighters going into summer but there are still questions about whether the government is prepared if major wildfires get out of hand.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-17T17:33:59-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
