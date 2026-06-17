@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 07:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:03:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Iran war 'has been a strategic disaster for the State of Israel', analyst says</title>
@@ -79,20 +79,22 @@ The Israeli army on Saturday issued evacuation warnings for the southern city o
       <importance>48</importance>
     </item>
     <item>
+      <title>Middle East live:  Two Iranian oil tankers cross US blockade zone</title>
+      <link>https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon</link>
+      <description>
+Iranian oil tankers have exited the zone in the Gulf blockaded by the US Navy, the TankerTrackers website said on Wednesday, calling it the country's &quot;first crude oil exports in two months&quot;. Follow our liveblog for all the latest developments.
+</description>
+      <imageUrl>https://s.france24.com/media/display/13aed686-69f7-11f1-b0c8-005056a90284/w:1024/p:16x9/AP26108447320171.jpg</imageUrl>
+      <pubDate>2026-06-17T02:58:17</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
       <link>https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/</link>
       <description>Israeli officials disparaged the peace deal and said Israel’s fight against Hezbollah in Lebanon would go on. </description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T20:45:56+00:00</pubDate>
       <importance>47</importance>
-    </item>
-    <item>
-      <title>Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions</title>
-      <link>https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg</imageUrl>
-      <pubDate>2026-06-16T16:20:33</pubDate>
-      <importance>43</importance>
     </item>
   </channel>
 </rss>
