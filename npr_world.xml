@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 17 Jun 2026 11:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:01:18 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live with a partner? You may be sharing more microbes than you think</title>
@@ -19,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-16T11:29:02-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/06/17/nx-s1-5857624/morning-news-brief</link>
+      <description>As JD Vance heads to Switzerland to sign initial agreement between U.S. and Iran, the terms remain largely unknown, Trump wraps G7 summit, a look at the results from Tuesday's primaries.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-17T04:43:49-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
