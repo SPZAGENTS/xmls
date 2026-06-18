@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Thu, 18 Jun 2026 04:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:33:35 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Netanyahu's Israel grapples with Trump-Iran deal as details remain unclear</title>
@@ -13,9 +13,9 @@
       <importance>52</importance>
     </item>
     <item>
-      <title>Israel fears Trump weary of ‘highly suspicious’ Netanyahu and could 'flip' amid Iran deal: analyst</title>
+      <title>ישראל מחששת: טראמפ עייף מנתניהו ועומד ל'הפוך' בעקבות הסכם עם איראן: מומחה</title>
       <link>https://www.foxnews.com/world/israel-fears-trump-weary-highly-suspicious-netanyahu-could-flip-amid-iran-deal-analyst</link>
-      <description>An analyst says fears are growing in Jerusalem that President Trump could flip on Netanyahu amid U.S.-Iran deal tensions, with strikes in Beirut complicating talks.</description>
+      <description>מומחה אומר שמחששים גדלים בירושלים, שנשיא ארצות הברית עומד ל'הפוך' מעמדו של נתניהו, בעקבות חיכוכי הסכם עם איראן, והתקפות בביירות.</description>
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/trump-netanyahu-press-conference.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-06-14T15:16:03-04:00</pubDate>
       <importance>52</importance>
@@ -27,22 +27,6 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/ali-musa-daqduq-idf-photo-1.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-06-14T14:19:03-04:00</pubDate>
       <importance>42</importance>
-    </item>
-    <item>
-      <title>Iran’s regime spins nuclear and Strait of Hormuz deal with Trump as victory over US, Israel</title>
-      <link>https://www.foxnews.com/world/irans-regime-spins-nuclear-strait-hormuz-deal-trump-victory-over-us-israel</link>
-      <description>Trump announces U.S.-Iran MOU to reopen the Strait of Hormuz and address Iran&amp;apos;s nuclear program while Iranian media claims victory over Washington.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-usa-iran-lebanon-missile-drone-strikes-fox-news-03-05-2026-004.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-06-15T06:14:37-04:00</pubDate>
-      <importance>32</importance>
-    </item>
-    <item>
-      <title>Khamenei's 'target-rich' funeral is Iran’s biggest security gamble, sends message to US: expert</title>
-      <link>https://www.foxnews.com/world/khameneis-target-rich-funeral-irans-biggest-security-gamble-sends-message-us-expert</link>
-      <description>Iran&amp;apos;s July funeral for Khamenei is a high-stakes bet that any peace deal with the U.S. will hold, creating a target-rich event, expert warns.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/policemen-supreme-leader-banner-tehran.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-06-14T17:16:01-04:00</pubDate>
-      <importance>32</importance>
     </item>
     <item>
       <title>UNRWA fires 70 Gaza staffers amid allegations of Hamas ties, says terminations not admission of guilt</title>
@@ -61,12 +45,28 @@
       <importance>32</importance>
     </item>
     <item>
-      <title>Zelenskyy congratulates Trump on turning 80 in birthday call, vows more Ukraine peace talks at G7 on Tuesday</title>
-      <link>https://www.foxnews.com/world/zelenskyy-congratulates-trump-turning-80-birthday-call-vows-ukraine-peace-talks-g7-tuesday</link>
-      <description>Zelenskyy congratulated Trump on turning 80 and discussed peace efforts in a phone call ahead of the G7 Summit, where the two leaders agreed to meet.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/trumpz.png?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-06-14T13:21:00-04:00</pubDate>
-      <importance>17</importance>
+      <title>Iran’s regime spins nuclear and Strait of Hormuz deal with Trump as victory over US, Israel</title>
+      <link>https://www.foxnews.com/world/irans-regime-spins-nuclear-strait-hormuz-deal-trump-victory-over-us-israel</link>
+      <description>Trump announces U.S.-Iran MOU to reopen the Strait of Hormuz and address Iran&amp;apos;s nuclear program while Iranian media claims victory over Washington.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/israel-usa-iran-lebanon-missile-drone-strikes-fox-news-03-05-2026-004.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-15T06:14:37-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Khamenei's 'target-rich' funeral is Iran’s biggest security gamble, sends message to US: expert</title>
+      <link>https://www.foxnews.com/world/khameneis-target-rich-funeral-irans-biggest-security-gamble-sends-message-us-expert</link>
+      <description>Iran&amp;apos;s July funeral for Khamenei is a high-stakes bet that any peace deal with the U.S. will hold, creating a target-rich event, expert warns.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/policemen-supreme-leader-banner-tehran.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-14T17:16:01-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Expert warns of 'general escalation' of fighting if Houthis resume Red Sea campaign</title>
+      <link>https://www.foxnews.com/world/expert-warns-general-escalation-fighting-houthis-resume-red-sea-campaign</link>
+      <description>State Department calls Houthi Red Sea shipping ban unacceptable as experts warn of potential escalation and Israeli and U.S. strikes on Yemen targets.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/houthis-april-3.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-12T09:47:39-04:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
       <title>Mexican authorities discover body in trunk near Iranian soccer team's World Cup training grounds: report</title>
@@ -77,12 +77,12 @@
       <importance>22</importance>
     </item>
     <item>
-      <title>Christian leaders hold emergency summit in Jerusalem to confront global rise in antisemitism</title>
-      <link>https://www.foxnews.com/world/christian-leaders-hold-emergency-summit-jerusalem-confront-global-rise-antisemitism</link>
-      <description>International Christian Embassy Jerusalem is hosting an emergency summit addressing rising antisemitism and replacement theology amid church leaders&amp;apos; silence.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/christian-israel-supporters.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-06-11T07:40:20-04:00</pubDate>
-      <importance>32</importance>
+      <title>Mike Waltz says Gulf allies back Trump’s Iran pressure campaign after regional trip: ‘Zero daylight’</title>
+      <link>https://www.foxnews.com/world/waltz-says-gulf-allies-back-trumps-iran-pressure-campaign-regional-trip-zero-daylight</link>
+      <description>שר החוץ מייק וולץ אומר שבעלי בריתו של גוף התמכו בלחץ של טראמפ על עיראק,  עם UAE ובהרן שנשאו את הסטרטגיית האמריקנית.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/usun-amb-mike-waltz.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-06-12T16:01:55-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
