@@ -1,37 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SPZ Twitter Feed - Field Content</title>
-    <description>תוכן מהשטח - אנטישמיות, איום איסלאמי, חשיפת תומכי טרור, פרו-ישראל</description>
-    <link>https://github.com/SPZAGENTS/xmls</link>
-    <lastBuildDate>2026-06-18T07:05:23.643Z</lastBuildDate>
-    <language>he</language>
+    <title>Twitter Grok Feed - Top Stories</title>
+    <lastBuildDate>Thu, 18 Jun 2026 11:01:25 GMT</lastBuildDate>
+    <description>SPZ News Aggregator</description>
     <item>
-      <title>[100] 📷 נאיק מסביר שצ&apos;ארלס פאר אמר שנאיק משפיע על מוסלמים בבריטניה עם ערוץ הטלוויזיה שלו</title>
+      <title>Naik explaining Charles Farr said Naik influences UK Muslims with his TV Channel &amp; asked him to tour UK Mosques &amp; says in a roundabout way that of course Sharia Law overrides UK Law</title>
       <link>https://x.com/HansChr52239198/status/2067503150152462341</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HLE-krLWwAA9vM7.jpg' alt='image'&gt; נאיק מסביר שצ&apos;ארלס פאר אמר שנאיק משפיע על מוסלמים בבריטניה עם ערוץ הטלוויזיה שלו ושאל אותו לסייר במסגדים בבריטניה ואומר בצורה עקיפה שכמובן חוק השריעה גובר על החוק הבריטי</description>
+      <description>Naik explaining Charles Farr said Naik influences UK Muslims with his TV Channel &amp; asked him to tour UK Mosques &amp; says in a roundabout way that of course Sharia Law overrides UK Law</description>
+      <imageUrl>https://pbs.twimg.com/media/HLE-krLWwAA9vM7.jpg</imageUrl>
       <pubDate>2026-06-18T07:01:54Z</pubDate>
-      <source>twitter-@HansChr52239198</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/HansChr52239198/status/2067503150152462341" type="image/jpeg"/>
+      <importance>75</importance>
     </item>
     <item>
-      <title>[100] 📷 אונס הוא חלק מחוק השריעה, אתה אידיוט</title>
+      <title>Rape is apart of sharia law you nonce</title>
       <link>https://x.com/Matthew1561781/status/2067502939175026807</link>
-      <description> &lt;img align='right' src='https://pbs.twimg.com/media/HLE-9nTbMAAGH_b.jpg' alt='image'&gt; אונס הוא חלק מחוק השריעה, אתה אידיוט</description>
+      <description>Rape is apart of sharia law you nonce</description>
+      <imageUrl>https://pbs.twimg.com/media/HLE-9nTbMAAGH_b.jpg</imageUrl>
       <pubDate>2026-06-18T07:01:27Z</pubDate>
-      <source>twitter-@Matthew1561781</source>
-      <category>איום איסלאמי באירופה</category>
-      <enclosure url="https://x.com/Matthew1561781/status/2067502939175026807" type="image/jpeg"/>
+      <importance>70</importance>
     </item>
     <item>
-      <title>[100] 📝 אין דבר כזה איסלאמופוביה. זה לא לא רציונלי או לא סביר לפחד באופן בריא מאנשים שרו</title>
+      <title>There is no such thing as Islamophobia. It is not irrational or unreasonable to have a healthy fear of people who want to invade your country, mooch off your social services, commit acts of mass terrorism, rape and murder, and make you slaves under sharia law for their religion.</title>
       <link>https://x.com/Andie_Cole_/status/2067502621225525356</link>
-      <description>אין דבר כזה איסלאמופוביה. זה לא לא רציונלי או לא סביר לפחד באופן בריא מאנשים שרוצים לפלוש למדינה שלך, להתפרנס משירותים סוציאליים שלך, לבצע פעולות טרור המוניות, אונס ורצח, ולהפוך אותך לעבדים תחת חוק השריעה עבור הדת שלהם.</description>
+      <description>There is no such thing as Islamophobia. It is not irrational or unreasonable to have a healthy fear of people who want to invade your country, mooch off your social services, commit acts of mass terrorism, rape and murder, and make you slaves under sharia law for their religion.</description>
+      <imageUrl></imageUrl>
       <pubDate>2026-06-18T07:00:11Z</pubDate>
-      <source>twitter-@Andie_Cole_</source>
-      <category>איום איסלאמי באירופה</category>
-      
+      <importance>85</importance>
     </item>
   </channel>
 </rss>
