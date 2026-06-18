@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 18 Jun 2026 09:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:01:25 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -29,28 +29,20 @@
       <importance>37</importance>
     </item>
     <item>
+      <title>Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say</title>
+      <link>https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say</link>
+      <description>Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-18T01:56:49-04:00</pubDate>
+      <importance>52</importance>
+    </item>
+    <item>
       <title>El Niño is here, so what does it mean?</title>
       <link>https://www.npr.org/2026/06/17/g-s1-128448/el-nino-begins-global-impacts</link>
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
-    </item>
-    <item>
-      <title>הנה כמה עלתה מלחמת איראן - וכיצד השפעותיה יימשכו</title>
-      <link>https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade</link>
-      <description>יותר משלושה חודשים לאחר שארה&quot;ב וישראל השיקו את מלחמתם על איראן, העלויות וההשלכות מורגשות ברחבי העולם.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-17T17:23:54-04:00</pubDate>
-      <importance>37</importance>
-    </item>
-    <item>
-      <title>בעוד שריפות במערב פורצות, שירות היער של טראמפ אומר שהוא מאויש במלואו</title>
-      <link>https://www.npr.org/2026/06/17/nx-s1-5855760/as-western-fires-erupt-trumps-forest-service-says-its-now-fully-staffed</link>
-      <description>שירות היער אומר שהוא מאויש במלואו עם כבאים עונתיים לקראת הקיץ, אך עדיין יש שאלות לגבי האם הממשלה מוכנה אם שריפות יער גדולות ייצאו מכלל שליטה.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-17T17:33:59-04:00</pubDate>
-      <importance>27</importance>
     </item>
   </channel>
 </rss>
