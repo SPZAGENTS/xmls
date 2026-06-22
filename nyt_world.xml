@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 22 Jun 2026 18:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:01:24 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -61,11 +61,19 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>כוכבי ערוץ הטלוויזיה של &quot;אישה&quot; למעריצי ביבי משדרגים את דונלד טראמפ</title>
-      <link>https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html</link>
-      <description>דמויות מפורצות דרך מערוץ 14, שדוגל בשמאל הקיצוני ותומכת בראש הממשלה בנימין נתניהו, מתקיפים את הנשיא האמריקאי על חוזה האיראני.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/17/world/17israel-channel14/17israel-channel14-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-06-17T18:32:31+00:00</pubDate>
+      <title>Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections</title>
+      <link>https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon</link>
+      <description>If confirmed, the provisions would be in line with an Obama-era deal President Trump tore up in 2018. Vice President JD Vance hailed the latest round of talks as a “foundation” for lasting peace.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/22/multimedia/22mideast-blog-header-bvfk/22mideast-blog-header-bvfk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-22T15:52:42+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
+      <title>Israel Holds to Lebanon Truce, With Troops Kept on Defense</title>
+      <link>https://www.nytimes.com/2026/06/22/world/europe/israel-lebanon-hezbollah-truce.html</link>
+      <description>Israel and Hezbollah, the Iran-backed Lebanese militant group, appeared to maintain a tense cease-fire for a second day. Israel’s military has new orders that restrict troops to defensive actions.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/22/multimedia/22mideast--lgck/22mideast--lgck-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-22T14:58:57+00:00</pubDate>
       <importance>43</importance>
     </item>
     <item>
@@ -75,14 +83,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T17:00:14+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns</title>
-      <link>https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html</link>
-      <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T19:53:44+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
