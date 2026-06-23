@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 23 Jun 2026 11:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,12 +37,20 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>האם ידעתם? אלן גרינספן ואין רנד היו חברים קרובים</title>
-      <link>https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand</link>
-      <description>אחת מהקשרים האינטלקטואליים החשובים ביותר בחייו של יו״ר הפד המנוח אלן גרינספן הייתה עם חברו הקרוב, הסופרת המפורסמת והוגת הדעות הליברטריאנית אין רנד.</description>
+      <title>What to know about a cold storage warehouse fire in Los Angeles</title>
+      <link>https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire</link>
+      <description>Firefighters are still battling a blaze at a massive frozen-food storage facility near downtown Los Angeles six days after the fire started.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-22T13:05:12-04:00</pubDate>
-      <importance>27</importance>
+      <pubDate>2026-06-23T01:53:46-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5863512/morning-news-brief</link>
+      <description>U.S. lifts oil sanctions on Iran, Trump visits Pennsylvania to tout economic wins, judge blocks DOJ subpoenas targeting Minnesota officials.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T04:43:39-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
