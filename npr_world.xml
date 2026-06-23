@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 23 Jun 2026 08:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,30 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Did you know? Alan Greenspan and Ayn Rand were close friends</title>
+      <link>https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand</link>
+      <description>One of the most intellectually important relationships in the life of the late Fed chair Alan Greenspan was with his close friend, the formidable novelist and libertarian thinker Ayn Rand.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T13:05:12-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>8 things to know about the gut microbiome and keeping yours healthy</title>
+      <link>https://www.npr.org/2026/06/22/nx-s1-5863119/gut-microbiome-gut-health</link>
+      <description>Wellness influencers often talk about fixing a broken gut microbiome. And marketers sell tests and supplements to fix your gut health. Here's what what the evidence really shows about gut health.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T08:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal</title>
+      <link>https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool</link>
+      <description>British Prime Minister Keir Starmer announced his resignation on Monday. And, the U.S. and Iran have agreed to a &quot;roadmap&quot; to reach a final deal within 60 days.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T07:27:29-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
