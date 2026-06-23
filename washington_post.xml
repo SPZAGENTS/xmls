@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 23 Jun 2026 16:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:01:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -29,12 +29,20 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>איראן מטילה ספק בבדיקות הגרעין של ואנס אמר שיתרחשו</title>
-      <link>https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/</link>
-      <description>משרד החוץ האיראני לא הייתה תוכנית שסבא&quot;א תבדוק את מתקני הגרעין שניזוקו, יום לאחר שסגן הנשיא ג'יי.די ואנס אמר ששיחות עם פקחים עלולות להתרחש ממש בקרוב.</description>
+      <title>High-level U.S.-Iran talks conclude with a road map for peace, mediators say</title>
+      <link>https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/</link>
+      <description>The negotiations were shaken by President Donald Trump’s threats of fresh attacks, but Pakistan and Qatar hailed “encouraging progress.”</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-23T12:31:01+00:00</pubDate>
-      <importance>22</importance>
+      <pubDate>2026-06-22T09:31:52+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>U.K. Prime Minister Starmer to resign as Labour Party seeks reboot</title>
+      <link>https://www.washingtonpost.com/world/2026/06/22/uk-prime-minister-starmer-resigns-labour-government-seeks-reboot/</link>
+      <description>The party’s crushing losses in local elections had triggered a mutiny against Starmer. Andy Burnham, the mayor of Greater Manchester, emerged as a heavy favorite to be the next PM.  </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T12:40:30+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
