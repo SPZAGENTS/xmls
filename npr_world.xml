@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 12:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,38 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>In symbolic vote, Congress directs Trump to remove forces from Iran war</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution</link>
+      <description>The measure to remove U.S. armed forces from hostilities with Iran does not require the president's signature, nor does it carry the force of law. But it reflects bipartisan frustration with the war.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T16:50:44-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion</link>
+      <description>Under President Trump, more federal attention and support has gone towards anti-abortion Christian centers. A watchdog group says many of them mislead patients with promises to &quot;rule out&quot; ectopic pregnancies.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Mamdani's political gamble pays off as his endorsed candidates sweep their primaries</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5868676/mamdani-nyc-primaries-progressive-dsa</link>
+      <description>All three progressive candidates backed by New York Mayor Zohran Mamdani — including two who took on Democratic incumbents — won their primaries in safe seats almost guaranteeing their election in November.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T22:41:32-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Tension builds between Trump and Senate Republicans, putting GOP agenda on the line</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5862113/trump-senate-friction</link>
+      <description>Divides over what GOP priorities should be ahead of this fall's midterm elections are testing the relationship between President Trump and Senate Republicans. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T17:43:25-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
