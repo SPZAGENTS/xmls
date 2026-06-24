@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 14:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -27,6 +27,22 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_2143f3b034f069a01eb93416f984abaa_4x3_384.jpg</imageUrl>
       <pubDate>2026-06-17T02:20:59-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Rubio arrives in UAE with aim to head off Gulf Arab unease over tentative Iran deal</title>
+      <link>https://abcnews.com/International/wireStory/rubio-arrives-uae-aim-head-off-gulf-arab-134140687</link>
+      <description>U.S. Secretary of State Marco Rubio is in the United Arab Emirates on the first leg of a three-nation tour of Gulf countries aimed at easing their concerns about the result of an agreement intended to end the war with Iran</description>
+      <imageUrl>https://s.abcnews.com/images/US/wirestory_62611f2f167be12c60b7fcec5d6e7d2f_4x3_384.jpg</imageUrl>
+      <pubDate>2026-06-23T14:08:50-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>UN nuclear agency boss says inspectors will visit Iran's nuclear sites</title>
+      <link>https://abcnews.com/International/wireStory/nuclear-agency-boss-inspectors-visit-irans-nuclear-sites-134157660</link>
+      <description>The head of the U.N.&amp;rsquo;s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a key component in the interim deal between the United States and Iran to reach an end to the war</description>
+      <imageUrl>https://s.abcnews.com/images/US/wirestory_875ee115cacd1f5923052b70f2be4124_4x3_384.jpg</imageUrl>
+      <pubDate>2026-06-24T02:51:51-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
