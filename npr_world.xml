@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 11:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:27:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,30 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>בהצבעה סמלית הורה הקונגרס לטראמפ להוציא כוחות ממלחמת איראן</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5868599/senate-iran-war-powers-resolution</link>
+      <description>הצעה להוצאת כוחות הצבא האמריקאי מעימותים עם איראן אינה דורשת את חתימת הנשיא, ואין לה תוקף של חוק. אך היא משקפת תסכול דו-מפלגתי מהמלחמה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T16:50:44-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>ההימור הפוליטי של ממדני משתלם כאשר המועמדים שהוא תומך בהם זוכים בניצחון בפריימריז שלהם</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5868676/mamdani-nyc-primaries-progressive-dsa</link>
+      <description>שלושת המועמדים הפרוגרסיביים הנתמכים על ידי ראש עיריית ניו יורק, זוהראן מנדני — כולל שניים שהתמודדו מול המכהנים הדמוקרטיים — זכו בפריימריז במושבים בטוחים, כמעט מבטיחים את בחירתם בנובמבר.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T22:41:32-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>DNA של חייל במלחמת המהפכה מקשר אותו לקרובים חיים</title>
+      <link>https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland</link>
+      <description>חייל בצבא הקונטיננטלי, ג'ון פאמפרי, התגייס כנער בשנת 1777 ונלחם בקרבות משמעותיים לפני מותו בקרב נגד הבריטים בקמדן, דרום קרוליינה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T11:59:35-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
