@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 06:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Israeli troops kill two in south Lebanon after lull in fighting, authorities say</title>
+      <link>https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg</imageUrl>
+      <pubDate>2026-06-23T16:47:45</pubDate>
+      <importance>53</importance>
+    </item>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
       <link>https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,12 +61,28 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>חובה נשימה טוענת ש ננסי גות'רי נפלה לאחר הקידוש</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, &quot;We are in agony.&quot;</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg</imageUrl>
-      <pubDate>2026-06-23T17:59:22</pubDate>
-      <importance>18</importance>
+      <title>UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children</title>
+      <link>https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Israel rejects the new report by the three-member expert panel, calling it a &quot;libellous sham&quot;.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg</imageUrl>
+      <pubDate>2026-06-23T11:10:06</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls</title>
+      <link>https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg</imageUrl>
+      <pubDate>2026-06-23T21:04:11</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Dozens of ships head through Strait of Hormuz after US-Iran deal</title>
+      <link>https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd09/live/958bc530-6f09-11f1-8546-8f19e4fe30f4.png</imageUrl>
+      <pubDate>2026-06-23T14:55:31</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
