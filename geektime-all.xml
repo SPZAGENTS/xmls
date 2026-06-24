@@ -2,62 +2,86 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 16:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:01:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>מחיפוש מתקדם ועד ניטור מלא: אירוע חדש פותח את &quot;הקופסה השחורה&quot; של סוכני AI</title>
-      <link>https://www.geektime.co.il/moving-ai-agents-from-demo-to-production-80726/</link>
-      <description>רוב הארגונים הטכנולוגיים, בשנה שעברה, ובמיוחד בשנתיים האחרונות, עושים את דרכם ל-Generative AI ו-Agentic AI.  זו יכולה להיות דרך של פיילוטים, הטמעת יכולות AI במוצרים קיימים או שיפור תהליכים פנימיים.  אך ככל שהטכנולוגיה מתבגרת, הארגונים הללו מגלים שהאתגר האמיתי אינו בנייה של דמואים – בזה הם כבר אלופים –  אלא בהטמעה רחבת היקף בסביבת פרודקשן.</description>
+      <title>הפדיחה של HBO Max: מציגה תרגום מאתר כתוביות ישראלי</title>
+      <link>https://www.geektime.co.il/hbo-max-displaying-subtitles-from-subcenter/</link>
+      <description>בחודש ינואר האחרון שירות הסטרימינג HBO Max הושק בישראל והפך למקום הרשמי (והיחידי) שבו אתם יכולים לראות את התכנים של HBO לצד מותגים רבים אחרים של תאגיד Warner Bros. Discovery (שבקרוב יהיה שייך לפרמאונט) הכולל את הארי פוטר, שר הטבעות, DC Comics ועוד. ההשקה לוותה בשיתופי פעולה שונים ומבצעים על שירות הסטרימינג החדש, אבל משתמש [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-24T09:00:12+00:00</pubDate>
+      <pubDate>2026-06-23T08:58:53+00:00</pubDate>
+      <importance>24</importance>
+    </item>
+    <item>
+      <title>אמדוקס ו-Snyk מפטרות עשרות עובדים; CyberBit סוגרת את מרכז הפיתוח בישראל</title>
+      <link>https://www.geektime.co.il/snyk-amdocs-cyberbit-layoffs/</link>
+      <description>אחרי שבוע שהתחיל עם כמה בשורות טובות, מגיע יום מאתגר בהייטק הישראלי. בחודש שעבר התפרסמו דיווחים ראשונים על כך שאמדוקס תצא במהלך קיצוצים חדש, במסגרתו היא עשויה להיפרד מכמה מאות עובדים בישראל. עתה מקבלים כמה עשרות עובדים מכתבי שימוע לקראת פיטורים, אולם על פי ההערכות היקף הפיטורים ינוע בין 7% ל-10% מ-4,000 העובדים שלה בישראל, [&amp;#8230;]</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T13:44:44+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>מייסד ויקיפדיה דרש יותר איזון... ונחסם מהאתר</title>
-      <link>https://www.geektime.co.il/pro-israel-wikipdeia-founder-banned-from-his-platform/</link>
-      <description>הקרב על האובייקטיביות של ויקיפדיה נמשך.  אחרי שנים של תלונות על הטיה מצד עורכים בפלטפורמה, ביקורת חריפה מצד דמויות כמו אילון מאסק,  ואפילו הקמת מתחרה מבוסס AI בשם Grokipedia, הדרמה מגיעה עד לדמויות הכי מזוהות עם המיזם.  זה קורה כאשר לארי סנגר, אחד משני המייסדים של האנציקלופדיה הפתוחה,  יחד עם ג'ימי ויילס,  מוצא את עצמו [...]</description>
+      <title>ענן, AI ואייג'נטים: ההרצאות המרכזיות של Google Cloud Summit זמינות לצפייה</title>
+      <link>https://www.geektime.co.il/google-cloud-summit-2026-vod/</link>
+      <description>בתחילת החודש התקיים פה אחד מאירועי הענן וה-AI הגדולים בישראל, ואנחנו כמובן מדברים על Google Cloud Summit, שהגיע לתל אביב עם כל ההכרזות האחרונות. הסשנים הציעו הזדמנות יוצאת דופן להכיר מקרוב את Gemini Enterprise, להבין לעומק מה זה לעבוד עם Agentic Data Cloud, לשמוע מה חדש בעולמות הדאטה בייסים, ללמוד על הדור ה-8 של מעבדי [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-24T08:18:08+00:00</pubDate>
+      <pubDate>2026-06-24T11:49:03+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>לראשונה: קלוד מגיע לסלאק שלכם</title>
-      <link>https://www.geektime.co.il/anthropic-announces-claude-tag-on-slack/</link>
-      <description>במקום לעבור בין טאבים כל הזמן או לפתוח את האפליקציה, באנתרופיק רוצים להפוך את קלוד לעובד מן המניין בתוך הסלאק שלכם. לכן החברה חושפת עכשיו את Claude Tag, פיתוח חדש שמאפשר לצוותים לתייג את ה-AI בערוצים השונים בדיוק כפי שמתייגים קולגה אנושי (מינוס ה-&quot;מה מזמינים בצהריים?&quot;). תייגו את קלוד על פי אנת'רופיק, Claude Tag הוא [...]</description>
+      <title>רוקסטאר חושפת את המחירים והבונוסים של GTA 6</title>
+      <link>https://www.geektime.co.il/grand-theft-auto-vi-gta-6-prices-and-pre-order-bonuses/</link>
+      <description>אם אתם כמונו, גם אתם חיכיתם לזה שנים, והלילה זה קורה: נפתחת המכירה המוקדמת של Grand Theft Auto VI, או GTA 6 למקצרים &amp;#8211; אחד המשחקים המצופים ביותר בהיסטוריה, וכזה שגורם לכל תעשיית הגיימינג לשנות תוכניות (וגם לנו). כעת, אנחנו גם יודעים כמה הוא עומד לעלות, ואיך רוקסטאר מתכננת לפתות אתכם לשלם עליו כבר היום. [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-24T07:12:13+00:00</pubDate>
+      <pubDate>2026-06-24T11:23:33+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>במקום מיילים, טופסולוגיה ואקסלים&quot;: Lama AI מגייסת 12 מיליון דולר</title>
-      <link>https://www.geektime.co.il/lama-ai-a-round/</link>
-      <description>לא מעט הלוואות לעסקים כרוכות בתהליך ארוך, מורכב, מיוחד לכל מקרה, ומאוד לא מובנה במהותו: תקשורת חופשית עם לקוחות, מסמכים ודוחות ללא סטנדרטיזציה, אנליזות מורכבות אשר דורשות הרבה שיקול דעת קונטקסטואלי, וגיבוש של רמת סיכון בהתאם להשקפת העולם של כל מלווה. לא במקרה, מדובר באתגרים שתעשיית הבנקאות ניסתה לפתור במשך עשורים ללא הצלחה. אז סטארטאפ [...]</description>
+      <title>גייסו 50 מיליון דולר ואומרים: &quot;הדיפנס-טק נכנס למיינסטרים&quot;</title>
+      <link>https://www.geektime.co.il/stratos-vc-comes-out-with-50m/</link>
+      <description>אחרי שהשבוע התפרסמו דיווחים על כך שגם Anduril של פאלמר לאקי, אחת השחקניות החזקות בתחום ה-Defense Tech העולמי, בדרך לפעילות בישראל, אין ספק שהתחום רותח. היום (ד') נחשפת גם קרן ישראלית חדשה, שגייסה עכשיו עשרות מיליוני דולרים, כדי להשקיע בסטארטאפים בתחום. מחכים לכניסה של אנדוריל עקבו אחרי גיקטיים בגוגל הקרן החדשה, Stratos Ventures, הוקמה מוקדם יותר [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-23T13:55:44+00:00</pubDate>
+      <pubDate>2026-06-24T11:00:47+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>המידע דלף ומטא נאלצת להפסיק לעקוב אחרי העובדים</title>
-      <link>https://www.geektime.co.il/meta-employee-tracking-leak/</link>
-      <description>רק בחודש אפריל דיווחנו לכם כי מטא החלה להתקין תוכנת ריגול בשם MCI על מחשבי העובדים, במטרה לאמן את מודלי ה-AI שלה באמצעות מעקב אחרי הקלדות ותנועות עכבר. כצפוי, המהלך זכה לביקורת רבה, שלוותה בלא מעט חששות מההשלכות שלו, מה שהוביל את מטא לבוא לקראת העובדים ולאפשר להם &quot;חלון&quot; של חצי שעה ביום, במהלכו לא [...]</description>
+      <title>הבעיה היא לא בפרומפט: איך מעדכנים מודלים בלי לשבור את הפרודקשן?</title>
+      <link>https://www.geektime.co.il/fixing-broken-ai-agent-demos/</link>
+      <description>מאת אליענה ספז, Head of Operations ב-Conifers את הרגע הזה כמעט כל צוות שבונה עם AI מכיר: אתם מרימים דמו, הסוכן עושה משהו שנראה מרשים מאוד, וכולם בחדר מרגישים שאולי הפעם באמת קפצתם כמה שנים קדימה. הוא מושך מידע, מסכם, מפעיל כלים, בוחר איזו פעולה לבצע ומחזיר Output שנראה כמעט כמו קסם. בסייבר זה נראה [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-23T13:17:40+00:00</pubDate>
+      <pubDate>2026-06-23T08:43:16+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>קווסט חג המולד: כך ניצחנו את הסיוט של הפיתוח בעולמות הגיימינג</title>
-      <link>https://www.geektime.co.il/papaya-gaming-hierarchical-asset-bundles/</link>
-      <description>מאת ליאור אורנבך, Senior Backend Engineer ב-Papaya אם אתם גיימרים, אתם בטח מכירים את זה: היום כריסמס, או ולנטיינ'ז דיי, והמשחק האהוב עליכם לבש את בגדי החג שלו – שלג, עצי אשוח, לבבות, קישוטים או נצנצים. או הכל ביחד, כי למה לא. אבל לא רבים יודעים שמאחורי החגיגיות הכיפית הזאת מתרחש מהלך מאתגר שבראשו עומדת [...]</description>
+      <title>הושקה Steam Machine, אחת הקונסולות הכי מעניינות בשנים האחרונות. רק מה זה המחיר הזה?</title>
+      <link>https://www.geektime.co.il/valve-finally-launches-steam-machine-but-with-a-weird-price-tag/</link>
+      <description>לפני כמעט שנה, חברת Valve, החברה שעומדת מאחורי Steam והמשחקים האגדיים Half Life ו-Portal, הודיעה במפתיע כי אחרי ההצלחה המסחררת של ה-Steam Deck הניידת, היא נכנסת גם לתחום הקונסולות הביתיות עם ה-Steam Machine, קונסולת משחק חדשה שאמורה להתחרות דווקא בפלייסטיישן ובאקסבוקס. אבל מאז, התחיל משבר ענק בתעשייה שגרם לעיכוב לא רק בהשקה, אלא אפילו בהכרזה [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-23T11:33:49+00:00</pubDate>
+      <pubDate>2026-06-23T06:55:44+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>אנת'רופיק: בקרוב נדרוש ממשתמשים תעודה מזהה וסלפי</title>
-      <link>https://www.geektime.co.il/url-anthropic-claude-biometric-id-verification/</link>
-      <description>חדשות לא משהו לחובבי הפרטיות והאנונימיות? מי שמשתמש במודל השפה קלוד של חברת אנת'רופיק, עשוי לגלות בקרוב דרישה חדשה ומפתיעה למדי, שעלולה לפגוע בפרטיות ובאנונימיות (היחסית) של חלק מהמשתמשים. עקבו אחרי גיקטיים בגוגל תעודות בבקשה החברה שמאחורי מודל ה-AI המוכר והפופולרי קלוד, עדכנה לאחרונה את מדיניות הפרטיות שלה, כשלפי העדכון החדש, Anthropic עשויה לדרוש ממשתמשים [...]</description>
+      <title>האקזיט יחכה: AppsFlyer גייסה מיליארד דולר מגוגל ומטא</title>
+      <link>https://www.geektime.co.il/appflyer-raises-1b-from-google-meta-unity/</link>
+      <description>בחודשים האחרונים נפוצו דיווחים ושמועות על כך ש-AppsFlyer נמצאת על המדף, ובמגעים מתקדמים לקראת מכירה. אבל היום (ב'), טורפת (לפחות עכשיו) החברה את הקלפים, ומודיעה על גיוס חריג בהשתתפות מספר חברות ענק. עקבו אחרי גיקטיים בגוגל האקזיט יחכה AppsFlyer הודיעה היום (ב') על השלמת סבב גיוס חדש בהשתתפות של ענקיות המדיה והפרסום גוגל, מטא, Moloco [&amp;#8230;]</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-23T07:59:26+00:00</pubDate>
+      <pubDate>2026-06-22T15:38:51+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>יצא/ה מהקבוצה: מנכ&quot;ל וואטסאפ פורש במפתיע. המחליף יעלה למטא 900 מיליון דולר</title>
+      <link>https://www.geektime.co.il/whatsapp-head-steps-down/</link>
+      <description>וויל קאת'קארט, מי שהוביל את וואטסאפ בשבע השנים האחרונות, הודיע היום (ב') כי הוא פורש מהתפקיד. עם זאת, גם אחרי 16 שנות עבודה בחברה, הוא לא הולך לשום מקום ויישאר במטא. מוביל חדש שמגיע מחוץ לחברה עקבו אחרי גיקטיים בגוגל &amp;#34;וואטסאפ נמצאת במצב הטוב ביותר בהיסטוריה שלה &amp;#8211; וזה הרגיש כמו זמן טוב לקחת צעד [&amp;#8230;]</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T13:50:17+00:00</pubDate>
+      <importance>19</importance>
+    </item>
+    <item>
+      <title>&quot;יש אזעקה, נמשיך באודיו&quot;: מנכ&quot;ל אינטל מסביר למה הוא משקיע ביזמים הישראלים</title>
+      <link>https://www.geektime.co.il/intel-ceo-lip-bu-tan-israel/</link>
+      <description>בשנה האחרונה, ובכלל מאז שמונה לה מנכ&amp;#34;ל חדש, נראה שאינטל חוזרת למרכז הבמה של עולם הטכנולוגיה עם זינוק של יותר מ-500% במניה במהלך השנה האחרונה, עסקאות עם אנבידיה וטסלה, והשקעה משמעותית של הממשל האמריקאי. עכשיו מספק מנכ&amp;#34;ל אינטל ליפ בו טאן הצצה מעניינת לאסטרטגיה ולעתיד הקרוב של ענקית השבבים. בפודקאסט No Priors בו התארח הקדיש [&amp;#8230;]</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-22T12:19:31+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 16:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:01:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,38 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>New York primary could forecast future for Democrats. Here's what you need to know</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways</link>
+      <description>New York's primary election highlighted a question the Democratic Party is facing: just how progressive does it want to be? In safe seats, progressives win but in competitive seats, moderates prevail.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T05:00:00-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Political consultant on whether Trump is losing GOP support after war powers vote</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5867632/political-consultant-on-whether-trump-is-losing-gop-support-after-war-powers-vote</link>
+      <description>NPR's A Martínez asks Republican political consultant Doug Heye about whether Trump is losing support among congressional Republicans after the Senate voted to limit his war powers on Iran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T06:49:58-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal</title>
+      <link>https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection</link>
+      <description>The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T07:10:17-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Why are crisis pregnancy centers saying they can 'rule out' ectopic pregnancy?</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion</link>
+      <description>Under President Trump, more federal attention and support has gone towards anti-abortion Christian centers. A watchdog group says many of them mislead patients with promises to &quot;rule out&quot; ectopic pregnancies.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>

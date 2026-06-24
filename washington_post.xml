@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Wed, 24 Jun 2026 16:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:01:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -27,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Trump dismisses Iran’s rejection of nuclear inspections</title>
+      <link>https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/</link>
+      <description>Iran’s Foreign Ministry said there was no plan for the IAEA to inspect its damaged nuclear facilities, a day after Vice President JD Vance said conversations with inspectors could happen imminently.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-23T18:19:49+00:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
