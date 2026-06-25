@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 25 Jun 2026 22:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:31:38 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,30 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>מי יזכה לתמיכת ה-GOP? על אף הצבעת הסמכויות המלחמתיות?</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5867632/political-consultant-on-whether-trump-is-losing-gop-support-after-war-powers-vote</link>
+      <description>NPR's A Martínez שואל את היועץ הפוליטי דאג היי האם טראמפ מאבד תמיכה בקונגרס, לאחר שהסנאט אישר חקיקה שמגבלת את זכויות המלחמה שלו.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T06:49:58-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>מנהל IAEA אומר שבדקים יבקרו במפעלים גרעיניים לפי ההסכם החד-פעמי</title>
+      <link>https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection</link>
+      <description>ראש משרד האנרגיה הגרעיני של או&quot;ם, אמר שאתרי העשרה הגרעיניים של איראן יבקרו על ידי בדוקיו.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T07:10:17-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>יבוא הניהול החדש של הבחירות בטקסס? אזרחיו מתכוננים לפניו</title>
+      <link>https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline</link>
+      <description>יומיים לפני מערכות הבחירות, טקסס עתידה לקבל את המנהל החדש של בחירותיה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T11:32:06-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
