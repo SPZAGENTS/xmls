@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Fri, 26 Jun 2026 08:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -27,6 +27,30 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>Israel deliberately targeted Palestinian children in Gaza, U.N. commission says</title>
+      <link>https://www.washingtonpost.com/world/2026/06/24/israel-deliberately-targeted-palestinian-children-gaza-un-commission-says/</link>
+      <description>The Israeli Foreign Ministry called the findings a “libelous sham.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T18:25:28+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.</title>
+      <link>https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/</link>
+      <description>Secretary of State Marco Rubio met with Arab Gulf leaders to reassure them that U.S. isn’t cutting them out of negotiations with Tehran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-25T18:17:35+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Hegseth thwarted internal efforts to extend key Army general’s career</title>
+      <link>https://www.washingtonpost.com/national-security/2026/06/24/effort-extend-army-generals-career-falls-flat-with-hegseth/</link>
+      <description>Gen. Christopher Donahue, seen as a top warfighter, is the latest apparent casualty in a purge of senior military leaders by the Trump administration.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-24T18:16:55+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
