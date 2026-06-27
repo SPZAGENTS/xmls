@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Sat, 27 Jun 2026 06:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -26,6 +26,14 @@
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.</title>
+      <link>https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/</link>
+      <description>Secretary of State Marco Rubio met with Arab Gulf leaders to reassure them that U.S. isn’t cutting them out of negotiations with Tehran.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-25T18:17:35+00:00</pubDate>
       <importance>27</importance>
     </item>
   </channel>
