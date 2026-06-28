@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 28 Jun 2026 19:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>'If you are alive, make any noise': Venezuela searches rubble on day 4</title>
+      <link>https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake</link>
+      <description>Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-06-28T04:50:46-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
