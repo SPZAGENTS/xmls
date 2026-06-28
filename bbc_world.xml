@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Sun, 28 Jun 2026 16:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -53,12 +53,20 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>ארצות הברית ואיראן מחליפות בעתודה, כולן מאשימות זו את זו בהפרת הסגר</title>
-      <link>https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>איראן טוענת שהיא ביצעה התקפות משלימות נגד בסיסי חיל האוויר של ארצות הברית בכווית ובבחריין, לאחר שהאמריקנים טענו שהם פגעו במספר מטרות בתוך איראן.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a0/live/7c4274f0-727b-11f1-8e1d-bbbb1017d210.jpg</imageUrl>
-      <pubDate>2026-06-28T04:54:50</pubDate>
+      <title>Israel strikes southern Lebanon as Hezbollah condemns new deal</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a5/live/076a6550-7241-11f1-930d-75324f3b4c6e.jpg</imageUrl>
+      <pubDate>2026-06-27T21:35:40</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>DR Congo takes Rwanda to international court over decades of conflict</title>
+      <link>https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/245e/live/77afcab0-3e06-11ef-9e1c-3b4a473456a6.jpg</imageUrl>
+      <pubDate>2026-06-26T17:05:22</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
