@@ -2,96 +2,42 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Mon, 29 Jun 2026 18:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>לראשונה: החל מהיום ניתן למשוך מזומן ב-Twitch'</title>
-      <link>https://www.geektime.co.il/first-israeli-bank-supports-nfc-at-atm/</link>
-      <description>זה אמנם קורה פחות ופחות, אבל פעם בכמה זמן אתם נדרשים להוציא כסף מהכספומט: לבייביסיטר, לחתונה, בעל מקצוע שמתעקש או כל סיבה אחרת. אבל כשזה קורה, זה די מעצבן. אתם צריכים להוציא את כרטיס האשראי שלכם, לשחזר את הקוד שלו שלא השתמשתם בו מאז 2021 או להתעסק עם תהליכים ארוכים באפליקציות של הבנק או האשראי.</description>
+      <title>סוף לחגיגה: למה GitHub Copilot משנה תמחור ומי הולך לשלם על זה יותר?</title>
+      <link>https://www.geektime.co.il/github-copilot-plan-change/</link>
+      <description>&lt;p&gt;מאת: אור שוחט עד לאחרונה, GitHub Copilot נמכר במחיר קבוע, ללא קשר לכמות השימוש או מורכבות המשימה. המודל היה נוח לתכנון תקציבי, אך לא בר קיימא: ארגונים גילו שניתן לנצל אותו להרצת משימות כבדות על מודלים יקרים כמו Claude Opus, בעלות זהה למשימות שגרתיות. GitHub הגיבה במעבר לתמחור מבוסס טוקנים &amp;#8211; עלויות קלט ופלט לפי [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/github-copilot-plan-change/&quot;&gt;סוף לחגיגה: למה GitHub Copilot משנה תמחור ומי הולך לשלם על זה יותר?&lt;/a&gt; appeared first o</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-28T08:53:31+00:00</pubDate>
-      <importance>29</importance>
-    </item>
-    <item>
-      <title>מגה-גיוסים, אקזיטים ופיטורים כואבים: כך נראתה החצי שנה המשוגעת בהייטק הישראלי</title>
-      <link>https://www.geektime.co.il/israeli-ecosystem-h1-funding-roundup/</link>
-      <description>החצי הראשון של 2026 עומד להסתיים, כשהוא כולל חודש וחצי של לחימה מול איראן, הסלמה בלתי-פוסקת בצפון וחששות מהמשך המלחמה. ועדיין, הסטארט-אפים הישראלים מדווחים על חצי שנה מצוינת בכל הקשור לגיוסי הון. סך הגיוסים בחודש האחרון עמד על 7.6 מיליארד דולר, זינוק של כ-60% בהשוואה לחצי הראשון של 2025.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-26T14:02:58+00:00</pubDate>
-      <importance>29</importance>
-    </item>
-    <item>
-      <title>&quot;אחרי השבוע, חברת הסטארט-אפ 'גייסה 10 מיליון דולר' לפיתוח של אלגוריתמים AI.</title>
-      <link>https://www.geektime.co.il/arato-raises-10m-so-the-ai-stops-bullshhtting-you/</link>
-      <description>עקבו אחרי גיקטיים בגוגל אם יש משהו שלמדנו בשנה האחרונה, זה שכל חברה כמעט מרגישה צורך לדחוף AI למוצר שלה כדי להישאר רלוונטית. אבל בניגוד לתהליכי פיתוח מסורתיים של תוכנה, שמאפשרים לכתוב טסטים ולכסות מראש כמעט כל תרחיש אפשרי, LLMs הם חיה אחרת לגמרי. אי אפשר באמת לדעת מה המודל יענה כשהוא יפגוש משתמש יצירתי, [&amp;#8230;]
-
-הפוסט &lt;a href=&quot;https://www.geektime.co.il/arato-raises-10m-so-the-ai-stops-bullshhtting-you/&quot;&gt;סטארטאפ גייס 10 מיליון דולר כדי שה-AI שלכם יפסיק לפלוט שטויות&lt;/a&gt;</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-29T12:30:51+00:00</pubDate>
+      <pubDate>2026-06-29T15:15:05+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>תוכנית BITS תעזור לסטארט-אפים להפסיק לבעול כסף על AI</title>
-      <link>https://www.geektime.co.il/bits-for-startups-webinar-772026/</link>
-      <description>חוקי המשחק בשוק הסטארטאפים שינויים לחלוטין: אם פעם משקיעים הסתפקו במצגות או ב-POC מרשים, הרי שהיום הדרישה המרכזית היא הוכחת היתכנות עסקית ומכירות אמיתיות מול לקוחות אנטרפרייז גדולים. אלא שמייסדים בשלבים מוקדמים נתקלים כיום בשני חסמים משמעותיים שמקשים על הפריצה לשוק: &quot;מס הענן&quot; ועלויות AI: פיתוח פתרונות מתקדמים מבוססי סוכני AI וכלים גנרטיביים דורש משאבי [&amp;#8230;]
-
-(המשך)</description>
+      <title>בדרך להתנתק מאנת'רופיק וגוגל: Base44 משיקה מודל AI משלה</title>
+      <link>https://www.geektime.co.il/base44-has-its-own-model/</link>
+      <description>&lt;p&gt;כלי ה-Vibe Coding הפופולריים כמו בייס44 הישראלית, Lovable ואחרים מציעים לכם לפתח אפליקציות ואתרים בקלות בשפה טבעית &amp;#8211; אבל בפועל, מאחורי הקלעים, הם נעזרים במודלים של חברות ה-AI הגדולות כמו אנת'רופיק או גוגל כדי להפעיל את הכלים שלהם. המשמעות היא שאם המודלים האלו עמוסים ופועלים לאט, או שממשלת ארצות הברית מאלצת חברה מסוימת לחסום את [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/base44-has-its-own-model/&quot;&gt;בדרך להתנתק מאנת&amp;#039;רופיק וגוגל: Base44 משיקה מודל AI משלה&lt;/a&gt; appeared</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-29T08:35:51+00:00</pubDate>
+      <pubDate>2026-06-29T13:05:04+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>ה- AI התעלמה, ואז החברה נאלצה להחזיר את מאות העובדים שפיטרה</title>
-      <link>https://www.geektime.co.il/ford-learns-ai-and-juniors-are-not-enough-rehires-employees/</link>
-      <description>חברות רבות חושבות שמערכות AI יכולות להחליף עובדים ותיקים, ולחסוך להן משכורות. אבל אחרי האופוריה, מגלות שזה לא המצב, ואולי אפילו להפך. הידע של עובדים ותיקים נדרש כדי לאמן AI. מחזור-אנשי-ג'וניור-AI ב-Ford: החברה דיווחה שבשלוש השנים האחרונות היא גייסה מחדש כ-350 עובדים.</description>
+      <title>ה-AI והדולר שורפים לכם את ה-Runway? הכנס הזה בשבילכם</title>
+      <link>https://www.geektime.co.il/beyond-the-burn-2026-save-the-date/</link>
+      <description>&lt;p&gt;המציאות הכלכלית של סטארטאפים ישראליים השתנתה באופן דרמטי בשנתיים האחרונות. זה קרה בעקבות שני כוחות שפועלים במקביל &amp;#8211; שניהם בלתי נראים, ומתגלים רק כשכבר מאוחר מדי. הכוח הראשון הוא תנודת המטבע. כשסטארטאפ מגייס בדולרים אבל משלם בשקלים (שכר, משרדים וספקים), ירידה בשער הדולר פוגעת ישירות ב-Runway שלו. הערך השקלי של הכסף נשחק, וכל ירידה בשער [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/beyond-the-burn-2026-save-the-date/&quot;&gt;ה-AI והדולר שורפים לכם את ה-Runway? הכנס הזה בשבילכם&lt;/a</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-29T07:45:18+00:00</pubDate>
+      <pubDate>2026-06-29T11:46:16+00:00</pubDate>
       <importance>19</importance>
     </item>
     <item>
-      <title>&quot;זה לא הסלאקבוט המעפאן הזה&quot;: עובדי סיילספורס חששו מקלוד
-
-(Note: I corrected &quot;עובדים&quot; to &quot;עובדי&quot;, which is the correct plural form in modern Hebrew)</title>
-      <link>https://www.geektime.co.il/claude-tag-causes-confusion-within-salesforce-slack/</link>
-      <description>לפני שבוע חשפה חברת אנת'רופיק את הפיצ'ר החדש שלה, Claude Tag, ל-Claude, שאמור להפוך אותו לאחד מחברי הצוות שלכם. אבל משהו בהשקה הזאת היה נראה לנו מוזר. עכשיו מתברר שגם עובדי סיילספורס הצליחו להתבלבל מההשקה הזאת, וחוששים שהחברה אולי הכניסה סוס טרויאני לאחד ממוצרי הדגל שלה. האם הקניבליזציה בדרך? הפיצ'ר החדש של אנת'רופיק, Claude Tag, מאפשר לכם [&amp;#8230;]</description>
+      <title>&quot;צעד כואב מאוד&quot;: אלמנטור מפטרת שליש מהעובדים</title>
+      <link>https://www.geektime.co.il/elementor-lays-off-30-percent/</link>
+      <description>&lt;p&gt;חברת Elementor הישראלית הודיעה היום (ב') על מהלך קיצוצים משמעותי שבמסגרתו תיפרד מ-30% מכוח האדם שלה &amp;#8211; כ-100 עובדים בישראל ובחו&amp;#34;ל. עקבו אחרי גיקטיים בגוגל החברה הישראלית, המפתחת פלטפורמה לבניית אתרים מבוססי WordPress, הכריזה היום כי היא &amp;#34;נערכת לדור הבא של האינטרנט וסוכני ה-AI&amp;#34;, ועל כן החליטה לקצץ כשליש מהעובדים &amp;#8211; במה שהיא מכנה &amp;#34;מעבר [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.geektime.co.il/elementor-lays-off-30-percent/&quot;&gt;&amp;quot;צעד כואב מאוד&amp;quot;: אלמנטור מפטרת </description>
       <imageUrl></imageUrl>
-      <pubDate>2026-06-29T07:14:56+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>האיום החדש של טראמפ העלה את הגבולות של האוצר ל&quot;נטפליקס-טקס&quot;</title>
-      <link>https://www.geektime.co.il/trump-threat-netflix-tax/</link>
-      <description>בשנים האחרונות, מנסה משרד האוצר לייצר אפיק הכנסות חדש למדינה בדמות מס על שירותים דיגיטליים שכולנו צורכים, שזכה לכינוי &quot;מס נטפליקס&quot;. עם זאת, למרות השם, המס עשוי לכלול עשרות שירותים שונים בהם של גוגל, אפל ו-OpenAI. אבל עכשיו נראה שמי שעשוי לסייע במקצת ליוקר המחייה של הישראלים הוא דווקא נשיא ארצות הברית, דונלד טראמפ, שיוצא [&amp;#8230;]
-
-הפוסט &quot;האיום החדש של טראמפ חיסל את התוכניות של האוצר ל&amp;quot;מס נטפליקס&amp;quot;&quot;</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-28T15:45:37+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>גוגל נתקלת בבעיות בפיתוח כוח מחשוב ל-AI, ו-Meta תשלם את המחיר.</title>
-      <link>https://www.geektime.co.il/metas-gemini-access-got-capped-and-it-felt-it/</link>
-      <description>העסקה הענקית שנחשפה מוקדם יותר החודש, במסגרתה תשלם גוגל עשרות מיליארדי דולרים ל-SpaceX עבור כוח מחשוב, לא נולדה במקרה. דיווח חדש של Financial Times חושף כי מאחורי המהלך עומד מחסור חמור בכח מחשוב, שהוביל את גוגל לצמצם משמעותית את הגישה של לקוחותיה למודלי ה-AI שלה. הנפגעת המרכזית מהמהלך היא לא אחרת מאשר מטא, אחת הלקוחות [&amp;#8230;]</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-28T10:33:19+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>גוגל השיקה אפליקציית השקעות חדשה</title>
-      <link>https://www.geektime.co.il/google-finance-app/</link>
-      <description>גוגל החליטה שהזמן לעשות סדר בתיק ההשקעות שלכם, והיא משתמשת ב-AI שלה למשימה עם אפליקציית Google Finance החדשה, שנועדה לנתח מגמות, לתריע על מצבים מסוכנים, ולהסביר לכם את העובדות מאחורי הזינוק או ההתרסקות של המניות שלכם. 
-
-מכניסים את ה-AI לתיק ההשקעות שלכם: עקבו אחרי גיקטיים בגוגל, ואפליקציית Google Finance החדשה.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-28T07:48:50+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>&quot;אפקט GTA 6&quot;: מיקרוסופט שוברת את הקרש, המחירים נעלמים. לא במקרה.</title>
-      <link>https://www.geektime.co.il/microsoft-latest-price-hike-is-a-perfect-storm/</link>
-      <description>השבוע שעבר היה שבוע סוער בעולם הטכנולוגיה, עם המון מורדות, מעט עליות ואז שוב, עוד מורדות. התחיל עם השקת קונסולת ה-Steam Machine המסקרנת שרבים חיכו לה, ולבסוף התאכזבו מאוד מת&quot;ג הבעייתי שלה. המשיך עם פתיחת המכירה המוקדמת של GTA 6, והסתיים עם גל עליות המחירים החריג של אפל. אבל בסוף השבוע התברר כי [&amp;#8230;]</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-06-28T06:56:05+00:00</pubDate>
+      <pubDate>2026-06-29T09:35:08+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
