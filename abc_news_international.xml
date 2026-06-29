@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Mon, 29 Jun 2026 04:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 05:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -29,12 +29,20 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>ישראל נוקטת צעדים להכרה רשמית במות הארמנים במלחמת העולם הראשונה כרצח עם</title>
-      <link>https://abcnews.com/International/wireStory/israel-moves-formally-recognize-armenian-wwi-deaths-genocide-134289492</link>
-      <description>קבינט ישראל אישר הצעה להגדיר את האלימות נגד הארמנים על ידי האימפריה העות'מאנית במהלך מלחמת העולם הראשונה כרצח עם</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_5adadfde8f5d68878190594e7f87a1ab_4x3_384.jpg</imageUrl>
-      <pubDate>2026-06-28T15:37:58-04:00</pubDate>
-      <importance>27</importance>
+      <title>Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel</title>
+      <link>https://abcnews.com/International/wireStory/trump-presses-syria-hezbollah-raising-alarm-lebanon-israel-134286496</link>
+      <description>The White House has soured on Israel&amp;rsquo;s war with Hezbollah in Lebanon</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_1de06c560491e9e74d7f4febe195fd31_4x3_384.jpg</imageUrl>
+      <pubDate>2026-06-28T06:59:58-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>The scars of war among survivors in Sudan</title>
+      <link>https://abcnews.com/International/wireStory/scars-war-survivors-sudan-134239892</link>
+      <description>The war in Sudan has left deep scars, with thousands dead and millions displaced</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-06-26T09:48:49-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
