@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 06 Jul 2026 10:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -45,6 +45,14 @@
       <importance>33</importance>
     </item>
     <item>
+      <title>Iran Live Updates: Crowds Gather in Tehran for Ayatollah’s Funeral Procession</title>
+      <link>https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei</link>
+      <description>Tens of thousands of Iranians have viewed the casket of Ayatollah Ali Khamenei, who was exalted by some and despised by others. He was killed four months ago at the start of the U.S.-Israeli attacks.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/06/multimedia/06iran-funeral-promo-vfht/06iran-funeral-promo-vfht-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-07-06T07:55:16+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
       <title>After a Bitter Split, European Leaders Play Nice With Trump</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
       <description>A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.</description>
@@ -61,28 +69,20 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>What We Saw at Ayatollah Khamenei’s Funeral</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html</link>
+      <description>Our Middle East correspondent Abdi Latif Dahir attended the first day of funeral ceremonies for Ayatollah Ali Khamenei, the former supreme leader of Iran who was killed by U.S. and Israeli air strikes in February.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-05T20:21:13+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>Why Team Iran Is in a Tough Spot at the World Cup</title>
       <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
       <description>At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T17:00:14+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns</title>
-      <link>https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html</link>
-      <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T19:53:44+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
-      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>

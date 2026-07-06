@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 06 Jul 2026 10:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Russian missile and drone attack on Ukraine's capital kills at least 10</title>
+      <link>https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-10</link>
+      <description>Russia launched waves of missiles and drones targeting Kyiv early Monday that killed at least 10 people, authorities said.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-06T03:41:08-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
