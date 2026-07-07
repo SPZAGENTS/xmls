@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 07 Jul 2026 12:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -21,6 +21,14 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>Families of children killed in strike on Iranian school join leader’s funeral</title>
+      <link>https://www.washingtonpost.com/world/2026/07/05/families-children-killed-iran-school-bombing-join-leaders-funeral-tehran/</link>
+      <description>In Iran, the school deaths have become a symbol for U.S.-Israeli brutality and an unjust war. The Washington Post is reporting from the country under restricted conditions. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-05T21:07:46+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>In Mideast and worldwide, cautious relief over deal to end damaging war</title>
       <link>https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/</link>
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
@@ -29,12 +37,20 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>China test-fires long-range missile into Pacific, rattling U.S. allies</title>
-      <link>https://www.washingtonpost.com/national-security/2026/07/06/china-test-fires-long-range-missile-into-pacific-rattling-us-allies/</link>
-      <description>The unprecedented test of a nuclear-capable submarine-launched missile highlights Beijing’s growing force in the region.</description>
+      <title>Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting</title>
+      <link>https://www.washingtonpost.com/world/2026/07/06/russian-missiles-pierce-ukrainian-air-defenses-strike-kills-least-11/</link>
+      <description>The overnight attacks on Kyiv killed at least 19 people as Russia stepped up a new offensive.  Ukraine's president said NATO must do more to help his country intercept incoming missiles.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-07T00:57:46+00:00</pubDate>
+      <pubDate>2026-07-06T17:47:41+00:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Belarus gets squeezed as Putin seeks war help and Ukraine threatens strikes</title>
+      <link>https://www.washingtonpost.com/world/2026/07/07/belarus-squeezed-putin-seeks-war-help-ukraine-threatens-strikes/</link>
+      <description>Ukraine’s northern neighbor was used as a staging ground for Russia’s 2022 invasion, but the country seems intent on not being drawn further into the Kremlin’s war. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-07T09:00:00+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
