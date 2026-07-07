@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 07 Jul 2026 10:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,30 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>China test-launches a ballistic missile in the South Pacific and raises regional concerns</title>
+      <link>https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific</link>
+      <description>The launch, using a dummy warhead, took place the same day Australia and Fiji signed a mutual defense treaty meant to counter Chinese influence in the Pacific.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-07T01:29:03-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Tanker set ablaze after being struck by projectile in the Strait of Hormuz</title>
+      <link>https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz</link>
+      <description>Iranian state television said the tanker came under attack after ignoring warnings but did not directly claim the assault. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-07T01:28:45-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Man sues DHS after agents tracked him down for sending a scathing email to ICE</title>
+      <link>https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech</link>
+      <description>Federal agents tried to track David Streever to his home and hotel, and left him a warning notice that a critical email he sent the former head of ICE may have been illegal. Now he's suing.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-06T11:50:18-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
