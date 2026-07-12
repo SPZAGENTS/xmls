@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 12 Jul 2026 12:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Palestinian aid worker who organized World Cup screenings killed in Israeli strike</title>
+      <link>https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike</link>
+      <description>Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-11T17:09:56-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states</title>
+      <link>https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf</link>
+      <description>The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-11T21:32:36-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
