@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 13 Jul 2026 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -45,14 +45,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Lindsey Graham Championed Israel, Even as Wars Eroded American Support</title>
-      <link>https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</link>
-      <description>The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-12T19:42:08+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>After a Bitter Split, European Leaders Play Nice With Trump</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
       <description>A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.</description>
@@ -69,20 +61,28 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Live Updates: U.S. and Iran Edge Toward War Again</title>
-      <link>https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz</link>
-      <description>After more escalatory rhetoric and attacks, President Trump said the United States was renewing its shipping blockade of Iranian ports, and would charge a 20 percent fee on goods passing through the Strait of Hormuz.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/13/multimedia/13trump-145-vbwf/13trump-145-vbwf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-13T17:57:31+00:00</pubDate>
-      <importance>43</importance>
+      <title>Why Team Iran Is in a Tough Spot at the World Cup</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
+      <description>At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T17:00:14+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
-      <title>Iranian Hard-Liners Threaten Trump as U.S.-Iran Strikes Continue</title>
-      <link>https://www.nytimes.com/2026/07/13/world/middleeast/iran-hard-liners-threats-trump-us.html</link>
-      <description>Some Iranians are calling for revenge against President Trump and Prime Minister Benjamin Netanyahu of Israel for the February killing the country’s supreme leader.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/13/multimedia/13mideast-live-Iran-responses-jqck/13mideast-live-Iran-responses-jqck-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-13T15:31:10+00:00</pubDate>
-      <importance>43</importance>
+      <title>Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns</title>
+      <link>https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html</link>
+      <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T19:53:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
+      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>

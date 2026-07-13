@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 13 Jul 2026 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,38 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Trump says the U.S. will reinstate its blockade on Iran and charge a toll on ships</title>
+      <link>https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates</link>
+      <description>The move comes after the U.S. and Iran exchanged fire for the third weekend in a row, raising the specter of a return to all-out war after a shaky ceasefire took effect in June.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-13T12:53:40-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week</title>
+      <link>https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya</link>
+      <description>The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-13T08:02:33-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief</link>
+      <description>The U.S. strikes Iran for a third weekend as Iran retaliates by hitting Gulf nations, Sen. Lindsey Graham died Saturday at the age of 71, Congress returns from recess this week.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-13T04:48:40-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>States sue to stop Paramount-Warner Bros blockbuster merger</title>
+      <link>https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit</link>
+      <description>California is among the states suing to block Paramount from buying Warner Bros. Discovery in a Hollywood mega-merger that would unite some of the nation's largest movie studios and TV newsrooms.&lt;br&gt;&lt;br&gt;</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-13T12:30:12-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
