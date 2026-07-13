@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 13 Jul 2026 11:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -45,14 +45,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Lindsey Graham Championed Israel, Even as Wars Eroded American Support</title>
-      <link>https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</link>
-      <description>The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-12T19:42:08+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>After a Bitter Split, European Leaders Play Nice With Trump</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
       <description>A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.</description>
@@ -82,6 +74,14 @@
       <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T19:53:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
+      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
