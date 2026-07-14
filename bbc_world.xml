@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 14 Jul 2026 11:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -53,11 +53,19 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>How US commerce secretary's Epstein links were uncovered by British whistleblower</title>
-      <link>https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b7/live/dad63ca0-7e9b-11f1-bee8-53ce494e1abc.jpg</imageUrl>
-      <pubDate>2026-07-14T05:00:03</pubDate>
+      <title>US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468c/live/a01b76f0-7ede-11f1-84b4-d5196cc76857.jpg</imageUrl>
+      <pubDate>2026-07-13T18:52:46</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Sudan's paramilitary RSF chief sentenced to death over war crimes</title>
+      <link>https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f7/live/eb705460-7eaf-11f1-b5ec-67e9897fe2ad.jpg</imageUrl>
+      <pubDate>2026-07-13T12:02:19</pubDate>
       <importance>18</importance>
     </item>
   </channel>
