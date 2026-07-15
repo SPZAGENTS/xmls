@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Wed, 15 Jul 2026 08:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -29,11 +29,19 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Trump says U.S. military will reimpose blockade on Iranian ports</title>
-      <link>https://www.washingtonpost.com/world/2026/07/13/airstrikes-intensify-between-us-iran/</link>
-      <description>The president said the U.S. will impose a 20 percent fee on shipping through the Strait of Hormuz despite official assertions that fees would violate international law.</description>
+      <title>Trump retreats from shipping toll in Strait of Hormuz</title>
+      <link>https://www.washingtonpost.com/world/2026/07/14/oil-prices-jump-after-trumps-threats-strait-hormuz/</link>
+      <description>As European markets fell and oil prices hit a one-month high, President Donald Trump declared on Truth Social that the strait “is open to ALL Ship traffic except for Iran.”</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-13T21:39:12+00:00</pubDate>
+      <pubDate>2026-07-14T20:44:23+00:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>U.K. to designate Iran’s Islamic Revolutionary Guard Corps as a terrorist group</title>
+      <link>https://www.washingtonpost.com/world/2026/07/13/uk-designate-irans-islamic-revolutionary-guard-corps-terrorist-group/</link>
+      <description>U.K. authorities have linked the IRGC and its proxies to a wave of violent plots on British soil.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-13T13:35:53+00:00</pubDate>
       <importance>22</importance>
     </item>
   </channel>
