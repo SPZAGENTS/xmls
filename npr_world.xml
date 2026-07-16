@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 16 Jul 2026 16:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,38 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>The political risks from war in Iran. And, ICE's use of force is rising, report finds</title>
+      <link>https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force</link>
+      <description>The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers' use of force is not rare since President Trump took office for his second term.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-16T07:29:01-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Oil companies are making billions. In the U.S., calls to tax their windfall are growing</title>
+      <link>https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war</link>
+      <description>Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-16T05:01:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>TrumpRx promised a supermarket for cheaper drugs but delivered a boutique</title>
+      <link>https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead</link>
+      <description>President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-16T05:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Hong Kong official warns booksellers on security risks after raids</title>
+      <link>https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids</link>
+      <description>The police operation marks the third round of arrests targeting independent bookstores in four months.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-16T09:31:33-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
