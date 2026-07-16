@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Fri, 17 Jul 2026 01:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -29,20 +29,28 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Iran threatens region’s infrastructure as U.S. strikes expand</title>
-      <link>https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/</link>
-      <description>Rhetoric sharpened on both sides after days of renewed attacks, with Iranian state media reporting strikes around Tehran.</description>
+      <title>Problematic paragraph on Strait of Hormuz places strain on U.S.-Iran deal</title>
+      <link>https://www.washingtonpost.com/world/2026/07/15/trump-iran-signed-truce-still-cant-agree-what-its-terms-mean/</link>
+      <description>Ambiguous language on who controls the key choke point has led to escalating conflict.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-16T18:21:50+00:00</pubDate>
+      <pubDate>2026-07-16T18:34:40+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Iran releases U.S. citizen in goodwill gesture, Trump says</title>
+      <link>https://www.washingtonpost.com/world/2026/07/16/iran-releases-us-citizen-goodwill-gesture-trump-says/</link>
+      <description>Dena Karari had been trapped in Iran since December 2024, her attorney said. Several other Americans are believed to still be in Iranian custody.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-16T13:57:23+00:00</pubDate>
       <importance>22</importance>
     </item>
     <item>
-      <title>Snipers, warships and Europe’s escalating fight against cocaine smugglers</title>
-      <link>https://www.washingtonpost.com/world/2026/07/16/europe-new-cocaine-highway-fuels-calls-military-style-crackdowns/</link>
-      <description>A French attack that disabled a drug-smuggling boat in the Atlantic opened a new front, but European proposals stop short of the Trump administration’s more aggressive tactics.</description>
+      <title>U.S. and Iran exchange strikes after Trump threatens wider attack</title>
+      <link>https://www.washingtonpost.com/world/2026/07/15/us-hits-dozens-iranian-targets-trump-demands-renewed-negotiations/</link>
+      <description>The latest round of attacks comes amid continued threats by Trump to “knock out” Iran’s power plants and bridges unless Tehran returns to the negotiating table.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-16T05:34:27+00:00</pubDate>
-      <importance>17</importance>
+      <pubDate>2026-07-16T00:08:10+00:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
