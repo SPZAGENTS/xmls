@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Fri, 17 Jul 2026 03:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 04:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -19,6 +19,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141f/live/a8e752e0-69b7-11f1-9a2b-c1fb07dd1b47.jpg</imageUrl>
       <pubDate>2026-06-17T09:13:34</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war</title>
+      <link>https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict. </description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg</imageUrl>
+      <pubDate>2026-07-16T21:22:09</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan</title>
@@ -53,20 +61,12 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>More people around the world now favour China over the US, Pew study suggests</title>
-      <link>https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg</imageUrl>
-      <pubDate>2026-07-15T17:02:41</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Blasts reported in Iran as US launches new wave of strikes</title>
-      <link>https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb4/live/5f142cf0-815f-11f1-b976-0b9c15b0ccfc.jpg</imageUrl>
-      <pubDate>2026-07-16T23:57:26</pubDate>
-      <importance>23</importance>
+      <title>'Moment of joy' as Uganda discharges last Ebola patient</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The good news from Uganda comes as the WHO chief warns the virus in DR Congo is spreading fast.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/674d/live/ec3e9520-8105-11f1-b8b2-1fedac836136.jpg</imageUrl>
+      <pubDate>2026-07-16T17:15:32</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
