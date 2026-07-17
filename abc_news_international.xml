@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 17 Jul 2026 22:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -27,6 +27,30 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_2143f3b034f069a01eb93416f984abaa_4x3_384.jpg</imageUrl>
       <pubDate>2026-06-17T02:20:59-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Jordan's military says it shot down 8 missiles launched by Iran targeting the kingdom</title>
+      <link>https://abcnews.com/International/wireStory/jordans-military-shot-8-missiles-launched-iran-targeting-134805776</link>
+      <description>Jordan's military says it shot down 8 missiles launched by Iran targeting the kingdom</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-07-16T00:33:07-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>South Korea's central bank hikes rate for 1st time since 2023 to curb inflation, debt</title>
+      <link>https://abcnews.com/International/wireStory/south-koreas-central-bank-hikes-rate-1st-time-134804515</link>
+      <description>South Korea&amp;rsquo;s central bank on Thursday raised its key interest rate for the first time in more than three years, aiming to tighten money supply to combat inflation, worsened by the war in the Middle East, and slow the growth of the country&amp;rsquo;s high house...</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_fad756c430007b891ff275043fea1453_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-16T03:33:39-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Ukraine buries its unknown soldiers as families wait for identification</title>
+      <link>https://abcnews.com/International/wireStory/ukraine-buries-unknown-soldiers-families-wait-identification-134807151</link>
+      <description>In Kyiv, a brother and sister walk through a military cemetery, carrying carnations</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_9644cb5d5fc44dde7b934b8d30801c4b_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-16T08:02:10-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>
