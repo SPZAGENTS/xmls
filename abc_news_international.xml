@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 18 Jul 2026 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -29,11 +29,35 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Paris' Grand Mosque celebrates its 100th anniversary and interfaith dialogue</title>
-      <link>https://abcnews.com/International/wireStory/paris-grand-mosque-celebrates-100th-anniversary-interfaith-dialogue-134870913</link>
-      <description>The Grand Mosque of Paris is celebrating its centenary, honoring Muslim soldiers from French colonies who fought in World War I</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_876f1f4ce27ad747813811793cec55e2_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-18T07:22:51-04:00</pubDate>
+      <title>Iran executes a man convicted of killing a security force member during 2022 protests</title>
+      <link>https://abcnews.com/International/wireStory/iran-executes-man-convicted-killing-security-force-member-134872472</link>
+      <description>Iranian authorities have executed a man convicted of killing a security force member during 2022 protests</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_214ebf3e82656247ca64ef256f1e742f_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-18T10:09:18-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Iran says it is suspending commitments to interim deal with US as the two exchange attacks</title>
+      <link>https://abcnews.com/International/wireStory/iran-suspending-commitments-interim-deal-us-exchange-attacks-134869749</link>
+      <description>Iran says it has suspended its commitments under an interim deal with the U.S. as the countries have exchanged strikes targeting infrastructure and military sites</description>
+      <imageUrl>https://s.abcnews.com/images/US/wirestory_5adfef67554652580963684d9a663af2_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-18T10:10:40-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Why Britain is getting a new prime minister without a general election</title>
+      <link>https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513</link>
+      <description>Veteran Labour Party politician Andy Burnham is set to become Britain&amp;rsquo;s next prime minister on Monday</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_d63dea81b0fdc05cf0faf238311a5b4e_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-18T00:26:30-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>China rejects Trump's election interference claim as 'groundless accusations'</title>
+      <link>https://abcnews.com/International/wireStory/china-rejects-trumps-election-interference-claim-groundless-accusations-134840885</link>
+      <description>China says it has never interfered in U.S. elections and has no interest in doing so</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-07-17T08:19:30-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>

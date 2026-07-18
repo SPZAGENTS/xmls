@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sat, 18 Jul 2026 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,11 +37,27 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>D'oh! I can't believe I did that! Graceful ways to handle awkward moments</title>
-      <link>https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments</link>
-      <description>Yes, there is a way to gracefully address that you've been walking around with spinach in your teeth. Here are tactics to quickly defuse your most embarrassing, cringe-inducing moments.</description>
+      <title>Why is it so hard for the U.S. to win wars?</title>
+      <link>https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars</link>
+      <description>U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-18T05:00:00-04:00</pubDate>
+      <pubDate>2026-07-18T08:45:13-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>The U.S. and Iran blow past red lines as they lurch back toward all-out war</title>
+      <link>https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes</link>
+      <description>The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-18T02:01:20-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions</title>
+      <link>https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions</link>
+      <description>Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-18T06:45:43-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
