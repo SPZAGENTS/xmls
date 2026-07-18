@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sat, 18 Jul 2026 13:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -26,6 +26,30 @@
       <description>A Russian warship has fired warning shots near a U.K.-registered pleasure yacht in the English Channel</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_2143f3b034f069a01eb93416f984abaa_4x3_384.jpg</imageUrl>
       <pubDate>2026-06-17T02:20:59-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Israel's parliament dissolves ahead of Oct. 27 elections</title>
+      <link>https://abcnews.com/International/wireStory/israels-parliament-dissolves-ahead-oct-27-elections-134839937</link>
+      <description>Israel's parliament has dissolved after passing a series of controversial bills in marathon sessions in its last few days</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_644a8927076eb4089257a38909a0f0f6_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-17T04:02:06-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Why Britain is getting a new prime minister without a general election</title>
+      <link>https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513</link>
+      <description>Veteran Labour Party politician Andy Burnham is set to become Britain&amp;rsquo;s next prime minister on Monday</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_d63dea81b0fdc05cf0faf238311a5b4e_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-18T00:26:30-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>China rejects Trump's election interference claim as 'groundless accusations'</title>
+      <link>https://abcnews.com/International/wireStory/china-rejects-trumps-election-interference-claim-groundless-accusations-134840885</link>
+      <description>China says it has never interfered in U.S. elections and has no interest in doing so</description>
+      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
+      <pubDate>2026-07-17T08:19:30-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
