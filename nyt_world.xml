@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 19 Jul 2026 20:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -27,14 +27,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/11/multimedia/00int-bahrain-citizenship-1-ctmz/00int-bahrain-citizenship-1-ctmz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-17T09:00:53+00:00</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Soldiers Killed</title>
-      <link>https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz</link>
-      <description>The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-1240-kwcm/19mideast-live-promo-1240-kwcm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-19T16:50:56+00:00</pubDate>
-      <importance>53</importance>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -82,6 +74,14 @@
       <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T19:53:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
+      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
