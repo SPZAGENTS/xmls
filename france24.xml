@@ -2,18 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Mon, 20 Jul 2026 06:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Middle East live: US launches strikes to 'punish' Iran after troops killed</title>
-      <link>https://www.france24.com/en/middle-east/20260719-middle-east-live-us-launches-strikes-to-punish-iran-after-troops-killed</link>
-      <description>
-The United States began a new round of airstrikes early Monday targeting Iran after announcing the death of another American service member, and Iran fired missiles toward Jordan that risked widening the conflict into neighboring Israel. Follow our liveblog for the latest updates.
-</description>
-      <imageUrl>https://s.france24.com/media/display/15fbb27a-83c3-11f1-aa48-005056a97e36/w:1024/p:16x9/AP26194774981470.jpg</imageUrl>
-      <pubDate>2026-07-19T22:47:08</pubDate>
-      <importance>78</importance>
-    </item>
     <item>
       <title>Middle East live: Details of US-Iran peace agreement begin to emerge</title>
       <link>https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon</link>
@@ -22,6 +12,16 @@ A $300 billion reconstruction fund financed by the Gulf states, waiving sanction
 </description>
       <imageUrl>https://s.france24.com/media/display/444e1cb2-68cf-11f1-91f0-005056a90284/w:1024/p:16x9/Tehran-1.jpg</imageUrl>
       <pubDate>2026-06-17T02:58:17</pubDate>
+      <importance>63</importance>
+    </item>
+    <item>
+      <title>Lebanon and Israel conclude round of talks on IDF withdrawal</title>
+      <link>https://www.france24.com/en/lebanon-and-israel-conclude-round-of-talks-on-idf-withdrawal</link>
+      <description>
+Syria said on July 16 it had foiled an attempt to smuggle weapons to Hezbollah in Lebanon by seizing a shipment that included missiles at its border with Iraq. It comes after US President Donald Trump floated the idea of Syria intervening in Lebanon against the armed groupn, and amid talks between Beirut and Tel Aviv in Rome over the withdrawal of Israeli forces from the south of Lebanon. FRANCE 24's Renée Davis tells us more.
+</description>
+      <imageUrl>https://s.france24.com/media/display/a290865a-7254-11f1-b631-005056bfb2b6/w:1024/p:16x9/2026-06-27T102707Z-752970332-RC2A2MA35NUT-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg</imageUrl>
+      <pubDate>2026-07-16T13:37:12</pubDate>
       <importance>63</importance>
     </item>
     <item>
@@ -84,6 +84,15 @@ Israeli Defence Minister Israel Katz said on Monday that Israeli ground forces w
       <importance>58</importance>
     </item>
     <item>
+      <title>Kuwait, Bahrain respond to Iranian attacks amid growing escalation</title>
+      <link>https://www.france24.com/en/kuwait-bahrain-respond-to-iranian-attacks-amid-growing-escalation</link>
+      <description>
+The risk of a wider war in the Middle East is growing after authorities in Bahrain and Kuwait said they intercepted missiles and drones launched from Iran. Air raid sirens also sounded in Jordan's capital, Amman, while Israel said it detected Iranian missiles targeting the coastal city of Aqaba. The escalation comes after the US Embassy in Jordan urged American citizens, in a social media post, to avoid Aqaba's airport and seaport because of a specific and credible threat. Teaching Fellow in US</description>
+      <imageUrl>https://s.france24.com/media/display/911e0014-8375-11f1-bf57-005056a97e36/w:1024/p:16x9/EN-20260719-140220-140930-CS.jpg</imageUrl>
+      <pubDate>2026-07-19T13:42:39</pubDate>
+      <importance>58</importance>
+    </item>
+    <item>
       <title>Iran says deal to end war with US hinges on Israeli withdrawal from Lebanon</title>
       <link>https://www.france24.com/en/middle-east/20260616-middle-east-live-vance-says-strait-of-hormuz-will-reopen-without-tolls</link>
       <description>
@@ -92,16 +101,6 @@ Iran’s top diplomat said Tuesday that the tentative deal to end the war with t
       <imageUrl>https://s.france24.com/media/display/9adc1fec-688f-11f1-a81c-005056a97e36/w:1024/p:16x9/2026-06-15T064751Z-438398647-RC26ULADL8QX-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg</imageUrl>
       <pubDate>2026-06-16T03:07:25</pubDate>
       <importance>53</importance>
-    </item>
-    <item>
-      <title>Thousands flock back to south Lebanon despite Israeli strikes amid US-Iran deal</title>
-      <link>https://www.france24.com/en/thousands-flock-back-to-south-lebanon-despite-israeli-strikes-amid-us-iran-deal</link>
-      <description>
-Lebanon has been targeted by fresh Israeli strikes despite the peace deal agreement announced by the US and Israel. Despite the attacks and warnings from their government, many south Lebanese are desperate to go back home, with thousands of people driving back. But civilians still remain sceptic. FRANCE 24's Renée Davis tells us more from Beirut.
-</description>
-      <imageUrl>https://s.france24.com/media/display/b6399e7c-697f-11f1-8335-005056bf30b7/w:1024/p:16x9/000-B77874E.jpg</imageUrl>
-      <pubDate>2026-06-17T09:59:13</pubDate>
-      <importance>43</importance>
     </item>
   </channel>
 </rss>
