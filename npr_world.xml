@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 20 Jul 2026 08:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,12 +37,20 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>An Israeli paraglider tries to save migrating swifts that nest in the Western Wall</title>
-      <link>https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem</link>
-      <description>Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.</description>
+      <title>Deadly overnight Russian attack on Ukraine targets the capital</title>
+      <link>https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv</link>
+      <description>Russia launched 41 missiles and 125 attack drones across Ukraine overnight, according to the Ukrainian air force. </description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-19T06:00:00-04:00</pubDate>
-      <importance>32</importance>
+      <pubDate>2026-07-19T05:14:38-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Violence repeatedly erupts in dementia care despite warnings, inspections show</title>
+      <link>https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility</link>
+      <description>Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-19T07:00:00-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
