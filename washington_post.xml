@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 21 Jul 2026 22:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -21,6 +21,14 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>Trump pledges support for Lebanon peace efforts with Israel as clashes continue</title>
+      <link>https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/</link>
+      <description>The president met with his Lebanese counterpart, who is trying to restore government control over southern territory where Israel has been fighting Hezbollah.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-21T17:48:16+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>In Mideast and worldwide, cautious relief over deal to end damaging war</title>
       <link>https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/</link>
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
@@ -29,20 +37,12 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>Nearly 100 U.S. troops injured in last two weeks of Iran war, Pentagon says</title>
-      <link>https://www.washingtonpost.com/world/2026/07/20/iran-retaliates-against-us-strikes-gas-returns-4-gallon/</link>
-      <description>An intensifying cycle of violence has left at least three U.S. service members dead since the resumption of hostilities a week ago. </description>
+      <title>Hegseth, Caine appear before Senate as Iran war escalates</title>
+      <link>https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/</link>
+      <description>Lawmakers are expected to press for clarity on the Trump administration's strategy for the conflict as it seeks $67 billion in additional funding to cover related costs. </description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-21T01:31:29+00:00</pubDate>
-      <importance>27</importance>
-    </item>
-    <item>
-      <title>Ukraine bombs warehouses, targeting Wildberries — Russia’s version of Amazon</title>
-      <link>https://www.washingtonpost.com/world/2026/07/20/ukraine-bombs-warehouses-targeting-wildberries-russias-version-amazon/</link>
-      <description>Ukraine’s long-range drone attacks, including strikes this weekend on e-commerce warehouses, have undercut the Kremlin’s efforts to shield most Russian citizens from the war. </description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-07-20T18:22:55+00:00</pubDate>
-      <importance>17</importance>
+      <pubDate>2026-07-21T19:23:43+00:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
