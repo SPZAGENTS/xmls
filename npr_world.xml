@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 21 Jul 2026 17:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,12 +37,20 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown</title>
-      <link>https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora</link>
-      <description>Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.</description>
+      <title>Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait</title>
+      <link>https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates</link>
+      <description>The Houthis, a Shia militia in Yemen that's aligned with Iran, have announced a naval blockade of a key waterway, the Bab el-Mandeb Strait.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-21T07:12:41-04:00</pubDate>
-      <importance>37</importance>
+      <pubDate>2026-07-21T06:21:43-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>How soccer brings a Bhutanese community together in Harrisburg, Pa.</title>
+      <link>https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community</link>
+      <description>Harrisburg is home to one of the nation's largest communities of Nepali-speaking Bhutanese refugees and their families. Through soccer, generations have found connection, belonging and a way to carry forward a shared history.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-21T06:30:00-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
