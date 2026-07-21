@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 21 Jul 2026 08:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -19,14 +19,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/17/video/17vid-yacht-russia/17vid-yacht-russia-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-06-17T11:10:10+00:00</pubDate>
       <importance>18</importance>
-    </item>
-    <item>
-      <title>Hamas Names Khalil al-Hayya as Its New Leader</title>
-      <link>https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html</link>
-      <description>Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/20/world/20int-hamas-leader-00001/20int-hamas-leader-00001-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-20T17:22:44+00:00</pubDate>
-      <importance>58</importance>
     </item>
     <item>
       <title>Bahrain Revoked Their Citizenship, and Then Tried to Expel Them to Iran</title>
@@ -82,6 +74,14 @@
       <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T19:53:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
+      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
