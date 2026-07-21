@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 21 Jul 2026 18:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -21,14 +21,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Israeli air strike in Gaza City kills family of six, medics say</title>
-      <link>https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b85/live/38d92850-8511-11f1-bee8-53ce494e1abc.jpg</imageUrl>
-      <pubDate>2026-07-21T14:47:41</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan</title>
       <link>https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&amp;at_campaign=rss</link>
       <description>It's so hot the fuel can catch fire - the bikers tell the BBC they must live with the risk of injury and death.</description>
@@ -45,14 +37,6 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal</title>
-      <link>https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d3d/live/a63a1b50-84e1-11f1-bee8-53ce494e1abc.jpg</imageUrl>
-      <pubDate>2026-07-21T10:43:48</pubDate>
-      <importance>38</importance>
-    </item>
-    <item>
       <title>UK investigating reports Russian warship fired warning shots near yacht in English Channel</title>
       <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.</description>
@@ -67,6 +51,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png</imageUrl>
       <pubDate>2026-06-16T14:11:30</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers</title>
+      <link>https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7d/live/d48c2a30-84c7-11f1-b976-0b9c15b0ccfc.jpg</imageUrl>
+      <pubDate>2026-07-21T09:48:20</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
