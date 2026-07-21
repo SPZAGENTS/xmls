@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 22 Jul 2026 01:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 02:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -27,6 +27,22 @@
       <imageUrl>https://s.abcnews.com/images/International/wirestory_2143f3b034f069a01eb93416f984abaa_4x3_384.jpg</imageUrl>
       <pubDate>2026-06-17T02:20:59-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Conflicts and energy shocks threaten progress against hunger, UN agency head warns</title>
+      <link>https://abcnews.com/International/wireStory/conflicts-energy-shocks-threaten-progress-global-hunger-agency-134941975</link>
+      <description>Conflicts and disruptions to global energy markets could push millions more people into hunger by driving up fuel, fertilizer and food costs</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_d0cddcaa7917ca9aa0ef1f433c35d687_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-21T07:14:08-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>India tunnel disaster at a Himalayan hydropower project leaves 10 dead and 17 missing</title>
+      <link>https://abcnews.com/International/wireStory/india-tunnel-disaster-himalayan-hydropower-project-leaves-10-134941515</link>
+      <description>A suspected gas explosion has caused a tunnel collapse at a hydropower project in India's Sikkim state, near the Chinese border, leaving at least 11 people dead and 14 missing</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_3c3b93f3499b07775c0fbd68fead6439_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-21T09:14:12-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
