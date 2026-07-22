@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 22 Jul 2026 05:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 06:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -27,6 +27,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/06/11/multimedia/00int-bahrain-citizenship-1-ctmz/00int-bahrain-citizenship-1-ctmz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-17T09:00:53+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival</title>
+      <link>https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html</link>
+      <description>A.I.-generated images showing Gadi Eisenkot, the Israeli leader’s top challenger in upcoming elections, played on anti-Arab sentiments and used images seen as disrespectful to his son, who was killed in the recent Gaza war.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/21/multimedia/21int-israel-netanyahu-video-pkqc/21int-israel-netanyahu-video-pkqc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-07-21T19:12:29+00:00</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -74,14 +82,6 @@
       <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T19:53:44+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
-      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
