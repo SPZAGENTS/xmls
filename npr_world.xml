@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Wed, 22 Jul 2026 04:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,11 +37,27 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>How soccer brings a Bhutanese community together in Harrisburg, Pa.</title>
-      <link>https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community</link>
-      <description>Harrisburg is home to one of the nation's largest communities of Nepali-speaking Bhutanese refugees and their families. Through soccer, generations have found connection, belonging and a way to carry forward a shared history.</description>
+      <title>Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown</title>
+      <link>https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora</link>
+      <description>Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-21T06:30:00-04:00</pubDate>
+      <pubDate>2026-07-21T07:12:41-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Defense Secretary Pete Hegseth goes to the Hill with nearly $90B funding request</title>
+      <link>https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request</link>
+      <description>Defense secretary Pete Hegseth will appear on the Hill on Tuesday. He's looking for a nearly $90 billion funding boost, as the Iran war once again flares.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-21T06:41:41-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Nicaragua's President Ortega says no more elections, extending his 20-year rule</title>
+      <link>https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections</link>
+      <description>The announcement effectively canceled Nicaragua's next elections, originally scheduled for November 2027.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-21T15:10:42-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
