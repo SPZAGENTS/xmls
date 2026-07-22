@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 22 Jul 2026 17:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:00:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Iran launches missiles at Jordan</title>
-      <link>https://abcnews.com/International/wireStory/iran-launches-missiles-jordan-134974879</link>
-      <description>Missile alert sirens have sounded in Jordan&amp;rsquo;s port city of Aqaba as attacks across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an interim ceasefire deal that has collapsed</description>
-      <imageUrl>https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg</imageUrl>
-      <pubDate>2026-07-22T04:59:22-04:00</pubDate>
-      <importance>52</importance>
-    </item>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
       <link>https://abcnews.com/International/wireStory/uk-prime-minister-calls-actions-russian-warship-reckless-133952812</link>
@@ -37,12 +29,28 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Lebanon's prime minister calls for Israeli military withdrawal</title>
-      <link>https://abcnews.com/International/wireStory/lebanons-prime-minister-tours-shattered-southern-village-calls-134974776</link>
-      <description>Lebanon's prime minister has visited a southern village as a Lebanese-Israeli agreement brokered by Washington appears to have started following a monthslong war</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_0d900f405887fb5e0731f0146de04505_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-22T04:30:48-04:00</pubDate>
+      <title>A protest movement is challenging India's establishment. What to know about the 'Cockroaches'</title>
+      <link>https://abcnews.com/International/wireStory/protest-movement-challenging-indias-establishment-cockroaches-134975377</link>
+      <description>A joke has turned into a major protest movement in India, challenging Prime Minister Narendra Modi Hindu nationalist&amp;rsquo;s government</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_59d045fbd485635def01b01f3898307b_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-22T06:03:52-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>India tunnel disaster at a Himalayan hydropower project leaves 10 dead and 17 missing</title>
+      <link>https://abcnews.com/International/wireStory/india-tunnel-disaster-himalayan-hydropower-project-leaves-10-134941515</link>
+      <description>A suspected gas explosion has caused a tunnel collapse at a hydropower project in India's Sikkim state, near the Chinese border, leaving at least 11 people dead and 14 missing</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_3c3b93f3499b07775c0fbd68fead6439_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-21T09:14:12-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel</title>
+      <link>https://abcnews.com/International/wireStory/toxic-gas-slows-efforts-rescue-13-workers-trapped-134974633</link>
+      <description>Authorities say 13 workers are trapped inside a collapsed hydropower tunnel in India</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_fc48568b5d0ece2a3264bdc135ff24ce_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-22T04:06:42-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
