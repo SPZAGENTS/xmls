@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 23 Jul 2026 22:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,38 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump</title>
+      <link>https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote</link>
+      <description>Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war. </description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-23T13:35:02-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties</title>
+      <link>https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran</link>
+      <description>After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-23T06:55:44-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>In a first, Chinese woman wins the prestigious Fields Medal</title>
+      <link>https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal</link>
+      <description>Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-23T10:56:47-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>DOT cranks up its campaign to strip bike lane references from federal websites</title>
+      <link>https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites</link>
+      <description>Transportation officials have removed a growing list of safety materials that mention bike lanes from federal websites. Safety advocates warn that's undermining proven measures for reducing crashes.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-23T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
