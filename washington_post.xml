@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Thu, 23 Jul 2026 06:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -21,11 +21,35 @@
       <importance>42</importance>
     </item>
     <item>
+      <title>Trump meets with Lebanese leader, pledges support for peace efforts with Israel</title>
+      <link>https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/</link>
+      <description>The event marked the White House’s latest attempt to broker an Israeli pullout from southern Lebanon, where Israel has been fighting Hezbollah.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-21T20:29:51+00:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
       <title>In Mideast and worldwide, cautious relief over deal to end damaging war</title>
       <link>https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/</link>
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Hegseth says Iran war has cost $37.5 billion, defends request for more</title>
+      <link>https://www.washingtonpost.com/world/2026/07/21/red-sea-blockade-threatens-new-front-us-iran-war/</link>
+      <description>Some lawmakers appeared frustrated as they sought clarity on the Trump administration’s strategy for the conflict amid renewed hostilities and a $67 billion funding request.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-22T01:30:12+00:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Latest combat deaths show risk has shifted to troops far from Iran’s borders</title>
+      <link>https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/</link>
+      <description>Trump flew to Delaware to honor soldiers killed in the Iran war, which has proved deadly for those far from the front lines.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-22T17:08:32+00:00</pubDate>
       <importance>27</importance>
     </item>
   </channel>
