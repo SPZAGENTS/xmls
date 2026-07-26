@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 27 Jul 2026 00:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,11 +37,19 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Lebanese displaced by war turn to satellites to check their homes</title>
-      <link>https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite</link>
-      <description>Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.</description>
+      <title>U.S. pauses attacks on Iran for a second straight day and Tehran does too</title>
+      <link>https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran</link>
+      <description>The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-26T06:00:00-04:00</pubDate>
+      <pubDate>2026-07-26T13:16:06-04:00</pubDate>
+      <importance>37</importance>
+    </item>
+    <item>
+      <title>Climate change is now threatening a pillar of childhood: summer break</title>
+      <link>https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota</link>
+      <description>When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-26T05:00:00-04:00</pubDate>
       <importance>27</importance>
     </item>
   </channel>
