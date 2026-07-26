@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Sun, 26 Jul 2026 05:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -29,11 +29,19 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>The ICC looks ahead after the ouster of its chief prosecutor</title>
-      <link>https://abcnews.com/International/wireStory/icc-ahead-after-ouster-chief-prosecutor-135077922</link>
-      <description>Supporters of the International Criminal Court are trying to chart a course forward following the removal of the global institution&amp;rsquo;s chief prosecutor over allegations of sexual misconduct</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_23d9b4f51848f976cd3e300fdc6bc225_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-25T07:03:55-04:00</pubDate>
+      <title>Israel detains over 70 suspects following deadly violence in the West Bank</title>
+      <link>https://abcnews.com/International/wireStory/israel-detains-70-suspects-deadly-violence-west-bank-135084151</link>
+      <description>Israel's military says it has detained over 70 suspects across the occupied West Bank following violence that left two Israeli soldiers and four Palestinian villagers dead there</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_7a9c2b003418829220a58f778ef047d3_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-25T15:30:09-04:00</pubDate>
+      <importance>32</importance>
+    </item>
+    <item>
+      <title>Ukrainian attacks on holiday camps in partly Russian-occupied Zaporizhzhia kill 11</title>
+      <link>https://abcnews.com/International/wireStory/russian-attack-kills-3-ukraines-sumy-region-romania-135076941</link>
+      <description>Relentless cycle of tit-for-tat attacks dims hopes for a diplomatic end to war.</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_6c4dfdb04df911d135675b24ec2e6a7a_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-25T10:26:03-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
