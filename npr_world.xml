@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Sun, 26 Jul 2026 03:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 04:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -34,6 +34,14 @@
       <description>An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it's a question of how intense the phenomenon will be and where effects like heat and drought will strike.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>Paramount says it will pause its Warner acquisition while legal challenges play out</title>
+      <link>https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits</link>
+      <description>A dozen states and the Writers Guild of America had challenged the merger.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-24T18:26:21-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
