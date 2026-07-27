@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 27 Jul 2026 13:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -53,11 +53,35 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>What we know so far about the Berlin Pride ramming attack</title>
-      <link>https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>German Chancellor Friedrich Merz condemns the attack as &quot;heinous&quot; after a suspect drove a car into a crowd near the Tiergarten park. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b106/live/ee7413e0-8936-11f1-a7ab-8b30adf0800a.jpg</imageUrl>
-      <pubDate>2026-07-26T20:34:23</pubDate>
+      <title>Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say</title>
+      <link>https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa6/live/489f0bc0-8939-11f1-b0da-9113fb476dd1.jpg</imageUrl>
+      <pubDate>2026-07-26T21:23:53</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Oil price dives as US and Iran pause attacks</title>
+      <link>https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US says attacks on Iran have been halted to give &quot;talks some space&quot;, raising hopes of a resolution to the conflict.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg</imageUrl>
+      <pubDate>2026-07-27T10:43:02</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg</imageUrl>
+      <pubDate>2026-07-27T09:59:15</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>The Indian Army's first woman boxer is now chasing Commonwealth gold</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/b884e260-873c-11f1-a10e-a5d4f08bc20c.jpg</imageUrl>
+      <pubDate>2026-07-26T22:06:46</pubDate>
       <importance>28</importance>
     </item>
   </channel>
