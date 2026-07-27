@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 28 Jul 2026 00:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,20 +37,28 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief</link>
-      <description>Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.</description>
+      <title>Authors wary of content ownership despite court ruling on Anthropic case</title>
+      <link>https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case</link>
+      <description>The literary world is celebrating Anthropic's $1.5 billion settlement with authors. But AI firms may still train models on legally purchased books. What does that mean?</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-27T04:43:38-04:00</pubDate>
-      <importance>27</importance>
+      <pubDate>2026-07-27T16:49:57-04:00</pubDate>
+      <importance>22</importance>
     </item>
     <item>
-      <title>Can the U.S. and Iran take the off-ramp?</title>
-      <link>https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp</link>
-      <description>The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.</description>
+      <title>3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting</title>
+      <link>https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms</link>
+      <description>A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-27T01:57:59-04:00</pubDate>
-      <importance>27</importance>
+      <pubDate>2026-07-27T07:45:56-04:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'</title>
+      <link>https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets</link>
+      <description>The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-27T05:00:00-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
