@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Mon, 27 Jul 2026 19:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israelis denounce Trump’s deal with Iran</title>
@@ -26,6 +26,14 @@
       <description>Some world leaders hailed the deal, but many in the Middle East were cautious, saying important details remain to be settled and warning the accord could easily fall apart. </description>
       <imageUrl></imageUrl>
       <pubDate>2026-06-15T12:25:07+00:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea</title>
+      <link>https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/</link>
+      <description>The strikes by Yemen's Iran-backed Houthi rebels could add to the pressure on global oil markets on top of disruptions caused by the closure of the Strait of Hormuz.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-25T20:14:19+00:00</pubDate>
       <importance>27</importance>
     </item>
   </channel>
