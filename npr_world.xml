@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 28 Jul 2026 10:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:00:52 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -37,12 +37,20 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>With wildfires raging in France and Spain, fire crews race against next heat wave</title>
-      <link>https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires</link>
-      <description>French President Emmanuel Macron said France was &quot;facing a completely unprecedented fire,&quot; describing the situation as France's worst fire-related crisis since World War II.</description>
+      <title>Netanyahu to meet Trump in a first encounter since the Iran war began</title>
+      <link>https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war</link>
+      <description>The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.</description>
       <imageUrl></imageUrl>
-      <pubDate>2026-07-28T02:25:18-04:00</pubDate>
-      <importance>17</importance>
+      <pubDate>2026-07-28T03:42:11-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting</title>
+      <link>https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms</link>
+      <description>A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-27T07:45:56-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
