@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Wed, 29 Jul 2026 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -37,6 +37,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on</title>
+      <link>https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The two leaders sound encouraged after holding back-to-back bilaterals at the White House.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/eaaad6c0-8abe-11f1-9997-a1a12b7801e6.jpg</imageUrl>
+      <pubDate>2026-07-29T12:17:42</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>UK investigating reports Russian warship fired warning shots near yacht in English Channel</title>
       <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.</description>
@@ -53,12 +61,20 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Thousands sheltering in key Sudan city under threat again as fighting escalates</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6848/live/f72b2db0-8a68-11f1-b2ab-0dd01740f9f6.jpg</imageUrl>
-      <pubDate>2026-07-29T05:01:46</pubDate>
-      <importance>18</importance>
+      <title>'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack</title>
+      <link>https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9c/live/a9fea910-8aa2-11f1-a7ab-8b30adf0800a.jpg</imageUrl>
+      <pubDate>2026-07-29T05:01:12</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Saudi Arabia joins US in strikes on Iran-backed militias in Iraq</title>
+      <link>https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0514/live/6249cdc0-8b29-11f1-841c-ef08db9db338.jpg</imageUrl>
+      <pubDate>2026-07-29T13:48:41</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
