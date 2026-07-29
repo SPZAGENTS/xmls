@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Thu, 30 Jul 2026 01:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israel launches fresh strikes on Lebanon despite Trump criticism</title>
@@ -37,6 +37,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on</title>
+      <link>https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The two leaders sound encouraged after holding back-to-back bilaterals at the White House.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/eaaad6c0-8abe-11f1-9997-a1a12b7801e6.jpg</imageUrl>
+      <pubDate>2026-07-29T12:17:42</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>UK investigating reports Russian warship fired warning shots near yacht in English Channel</title>
       <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
       <description>The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.</description>
@@ -51,6 +59,30 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/e5acdee0-6983-11f1-b1db-af71d47507d6.png</imageUrl>
       <pubDate>2026-06-16T14:11:30</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>Saudi Arabia's dilemma as it tries to stay out of US-Iran war</title>
+      <link>https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg</imageUrl>
+      <pubDate>2026-07-29T18:41:31</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Salman Rushdie attacker convicted of terror offenses</title>
+      <link>https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg</imageUrl>
+      <pubDate>2026-07-29T22:15:33</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>Saudi Arabia joins US in strikes on Iran-backed militias in Iraq</title>
+      <link>https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0514/live/6249cdc0-8b29-11f1-841c-ef08db9db338.jpg</imageUrl>
+      <pubDate>2026-07-29T13:48:41</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
