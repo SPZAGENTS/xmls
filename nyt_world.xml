@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 29 Jul 2026 22:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -45,14 +45,6 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>Iran War Live Updates: New Strikes Engulf More Countries in Conflict</title>
-      <link>https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump</link>
-      <description>The U.S. and Saudi Arabia said they had carried out joint airstrikes on Iran-backed militias in Iraq, and Iran targeted U.S. military sites in Jordan.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-live-promo-1230pm-wpvl/29mideast-live-promo-1230pm-wpvl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-29T18:57:47+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>After a Bitter Split, European Leaders Play Nice With Trump</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
       <description>A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.</description>
@@ -69,20 +61,28 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Israel Strikes Mosque in Gaza City</title>
-      <link>https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html</link>
-      <description>The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/28int-gaza-mosque-01-ftmz-promo/28int-gaza-mosque-01-ftmz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-29T14:04:49+00:00</pubDate>
-      <importance>43</importance>
+      <title>Why Team Iran Is in a Tough Spot at the World Cup</title>
+      <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
+      <description>At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T17:00:14+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
-      <title>Hezbollah Attacks Strategic Area in Southern Lebanon, Israel Says</title>
-      <link>https://www.nytimes.com/2026/07/29/world/middleeast/israel-hezbollah-lebanon.html</link>
-      <description>The Israeli military said the Iran-backed militant group had used an explosive drone to target one of its vehicles on a strategic ridge, raising fears of a renewed escalation.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/29/multimedia/29mideast-lebanon-topart1-cmbq/29mideast-lebanon-topart1-cmbq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-07-29T14:39:51+00:00</pubDate>
-      <importance>43</importance>
+      <title>Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns</title>
+      <link>https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html</link>
+      <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T19:53:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
+      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
