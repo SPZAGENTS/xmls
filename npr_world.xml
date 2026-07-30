@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 30 Jul 2026 04:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq</title>
+      <link>https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq</link>
+      <description>The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-29T05:07:03-04:00</pubDate>
+      <importance>42</importance>
+    </item>
+    <item>
+      <title>U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic</title>
+      <link>https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates</link>
+      <description>The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-29T07:00:47-04:00</pubDate>
+      <importance>32</importance>
     </item>
   </channel>
 </rss>
