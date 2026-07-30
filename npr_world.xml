@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 30 Jul 2026 20:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump to face questions at G7 press conference. And, Tuesday's primary results</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-06-17T05:00:00-04:00</pubDate>
       <importance>17</importance>
+    </item>
+    <item>
+      <title>Russian strikes across Ukraine kill at least 8 civilians and wound dozens</title>
+      <link>https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war</link>
+      <description>The blitz expanded Russia's almost daily bombardment of Ukrainian cities as Moscow apparently looked to exploit Kyiv's critical shortage of Western-supplied anti-ballistic missile defenses.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-07-30T05:53:10-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
