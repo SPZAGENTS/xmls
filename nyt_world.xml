@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 31 Jul 2026 22:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Live Updates: G7 Leaders Praise Trump for U.S.-Iran Deal</title>
@@ -45,6 +45,14 @@
       <importance>33</importance>
     </item>
     <item>
+      <title>Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply</title>
+      <link>https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html</link>
+      <description>The new 15-point plan, released by the Board of Peace and announced by Trump, calls in part for Israel to end its attacks and Hamas to give up its weapons.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/31/multimedia/31int-gaza-trump-czfl/31int-gaza-trump-czfl-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-07-31T19:10:16+00:00</pubDate>
+      <importance>48</importance>
+    </item>
+    <item>
       <title>After a Bitter Split, European Leaders Play Nice With Trump</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
       <description>A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.</description>
@@ -61,28 +69,20 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral</title>
+      <link>https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html</link>
+      <description>Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/31/multimedia/31dc-ukraine-iran-topart-wqvk/31dc-ukraine-iran-topart-wqvk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-07-31T16:57:05+00:00</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>Why Team Iran Is in a Tough Spot at the World Cup</title>
       <link>https://www.nytimes.com/2026/06/16/world/middleeast/world-cup-iran-new-zealand-protests.html</link>
       <description>At its first game in Los Angeles, the men’s national team drew spectators who weren’t coming for the soccer, but rather to protest the regime in Tehran.</description>
       <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-worldcup-iran-us-lvpm/16int-worldcup-iran-us-lvpm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-06-16T17:00:14+00:00</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>Ebola Outbreak Could Become Worst on Record, Africa C.D.C. Chief Warns</title>
-      <link>https://www.nytimes.com/2026/06/16/world/africa/ebola-outbreak-congo.html</link>
-      <description>Health workers have warned that the outbreak, already one of the worst in decades, could take as long as a year to contain if infection rates do not flatten.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/16/multimedia/16int-africa-ebola-1-wkjg/16int-africa-ebola-1-wkjg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T19:53:44+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Roy Hattersley, Frontline Warrior of British Politics, Dies at 93</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/roy-hattersley-dead.html</link>
-      <description>A Labour Party deputy who spent years in opposition, he criticized Conservatives and members of his own party, and was at the heart of major political moments.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/06/15/multimedia/15Hattersley-pvfl/15Hattersley-pvfl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-06-16T21:29:29+00:00</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
