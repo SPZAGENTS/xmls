@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Fri, 31 Jul 2026 04:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:00:53 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>UK prime minister calls actions of Russian warship reckless but not sinister</title>
@@ -29,28 +29,12 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>Russian strikes across Ukraine kill at least 8 and injure dozens more</title>
-      <link>https://abcnews.com/International/wireStory/russian-strikes-ukraine-east-west-kill-8-wound-135216647</link>
-      <description>A Russian missile and drone attack across Ukraine has killed at least eight civilians, including children, and wounded over 50 others</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_63ab11e0ebe6a9aefdb547fe442bef3f_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-30T08:34:03-04:00</pubDate>
+      <title>Bank of England keeps key rate at 3.75% for the fifth time this year</title>
+      <link>https://abcnews.com/International/wireStory/bank-england-key-rate-375-time-year-135219562</link>
+      <description>The Bank of England kept its key interest rate on hold for the fifth time this year after a bigger-than-expected drop in the inflation rate last month gave policymakers breathing space to assess the fallout from renewed fighting in Iran</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_4c1858032eb701ae776d286db674d994_4x3_384.jpg</imageUrl>
+      <pubDate>2026-07-30T08:50:05-04:00</pubDate>
       <importance>22</importance>
-    </item>
-    <item>
-      <title>Haiti starts to register voters in violent capital under gang menace</title>
-      <link>https://abcnews.com/International/wireStory/haiti-starts-register-voters-violent-capital-gang-menace-135242955</link>
-      <description>Voter registration has started in Haiti&amp;rsquo;s capital and beyond, marking a critical milestone in the push for general elections even as concerns over widespread gang violence persist</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_36b6123f2a575d561bf8cd96aeb4ae40_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-30T18:13:07-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>The Mediterranean's warming waters are drawing hundreds of invasive species</title>
-      <link>https://abcnews.com/International/wireStory/mediterraneans-warming-waters-drawing-hundreds-invasive-species-135215553</link>
-      <description>Scientists say climate change is heating the Mediterranean Sea, inviting invasive fish species that harm native populations</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_54d283e12f16ac212473b26621c5ac37_4x3_384.jpg</imageUrl>
-      <pubDate>2026-07-30T02:26:11-04:00</pubDate>
-      <importance>17</importance>
     </item>
   </channel>
 </rss>
