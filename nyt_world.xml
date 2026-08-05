@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 05 Aug 2026 16:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:01:14 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>תקיפות ישראליות עלולות לערער את תוכנית השלום של טראמפ לעזה</title>
@@ -13,11 +13,19 @@
       <importance>48</importance>
     </item>
     <item>
-      <title>ניו זילנד סיימה את מירוץ הגרייהאונד. עכשיו זה צריך לנהל את התוצאות.</title>
-      <link>https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html</link>
-      <description>בזמן שהמדינה מקיימת את מרוץ הגרייהאונד האחרון שלה, הממשלה התחייבה למצוא בתים לכלבים ולתמוך באנשים שפרנסתם הייתה תלויה במירוץ.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/04/multimedia/04int-NZ-GREYHOUND-09-tqkf/04int-NZ-GREYHOUND-09-tqkf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-04T19:22:57+00:00</pubDate>
+      <title>ישראל תוקפת את לבנון לאחר שהאשימה את חיזבאללה בהפרת הפסקת אש</title>
+      <link>https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html</link>
+      <description>במקביל, מנהלי משא ומתן ישראלים ולבנונים ניהלו ברומא שיחות שמטרתן לטפח הסדר דיפלומטי ארוך טווח.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-05T13:52:36+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>גל חום שובר שיאים בדרום קוריאה מוביל לביטול משחקי בייסבול</title>
+      <link>https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html</link>
+      <description>המדינה תפסה גל חום שקבע שיא שסיכן גם את השחקנים וגם את הצופים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/05int-skorea-baseball-heat-hftv/05int-skorea-baseball-heat-hftv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T12:17:34+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -29,12 +37,12 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>גל חום שובר שיאים בדרום קוריאה מוביל לביטול משחקי בייסבול</title>
-      <link>https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html</link>
-      <description>המדינה תפסה גל חום שקבע שיא שסיכן גם את השחקנים וגם את הצופים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/05int-skorea-baseball-heat-hftv/05int-skorea-baseball-heat-hftv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-05T12:17:34+00:00</pubDate>
-      <importance>28</importance>
+      <title>החות'ים מאיימים להרחיב את התקפות ים סוף ולתבוע פגיעה במכלית סעודית</title>
+      <link>https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html</link>
+      <description>ערב הסעודית לא הגיבה לטענת החות'ים, שנתמכים על ידי איראן ונשבעו לסגור את &quot;כל דרכי הגישה&quot; למשלוחי הנפט הסעודים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/05/world/05int-Saudi-Houthis/05int-Saudi-Houthis-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T13:46:19+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>מתקפת הטילים הקטלנית של רוסיה על קייב מנצלת את ההגנה האווירית המדולדלת של אוקראינה</title>
@@ -45,19 +53,19 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>החות'ים מאיימים להרחיב את התקפות ים סוף ולתבוע פגיעה במכלית סעודית</title>
-      <link>https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html</link>
-      <description>ערב הסעודית לא הגיבה לטענת החות'ים, שנתמכים על ידי איראן ונשבעו לסגור את &quot;כל דרכי הגישה&quot; למשלוחי הנפט הסעודים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/05/world/05int-Saudi-Houthis/05int-Saudi-Houthis-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-05T12:02:12+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
       <title>כיצד הפכה מלחמת אוקראינה לקרב על השמים</title>
       <link>https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html</link>
       <description>רוסיה ואוקראינה מייצרות מספר גדול מתמיד של נשק אווירי חדשני, בתקווה לפריצת דרך מכיוון שהקרב הקרקעי קפוא ברובו.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/2026-06-23-ukraine-strikes-russia-index/2026-06-23-ukraine-strikes-russia-index-mediumSquareAt3X-v4.jpg</imageUrl>
-      <pubDate>2026-08-05T08:52:43+00:00</pubDate>
+      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/2026-06-23-ukraine-strikes-russia-index/2026-06-23-ukraine-strikes-russia-index-mediumSquareAt3X-v6.jpg</imageUrl>
+      <pubDate>2026-08-05T13:10:54+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>פינלנד מנסה להגן על ילדים מפני זיופים עמוקים, מתוך מחשבה על רוסיה</title>
+      <link>https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html</link>
+      <description>לפינלנד, שנזהרת ממידע מוטעה ממוסקבה ומחוצה לה, יש כף רגל על ​​מדינות אחרות באיתור חדשות מזויפות. אבל א.י. הוא אתגר חדש לגמרי.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/24/multimedia/24finland-AI-01-fwqv/24finland-AI-01-fwqv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T09:04:30+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
@@ -69,11 +77,11 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>פינלנד מנסה להגן על ילדים מפני זיופים עמוקים, מתוך מחשבה על רוסיה</title>
-      <link>https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html</link>
-      <description>לפינלנד, שנזהרת ממידע מוטעה ממוסקבה ומחוצה לה, יש כף רגל על ​​מדינות אחרות באיתור חדשות מזויפות. אבל א.י. הוא אתגר חדש לגמרי.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/07/24/multimedia/24finland-AI-01-fwqv/24finland-AI-01-fwqv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-05T09:04:30+00:00</pubDate>
+      <title>מקסיקו מכריזה מלחמה על אצות מסריחות</title>
+      <link>https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html</link>
+      <description>אקלים משתנה עוזר לתדלק את הצמיחה של גוש ענק של אצות ריח רע שנשטף בכמה קהילות חוף. מקסיקו נלחמת בחזרה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/04/multimedia/04cli-newsletter-Sargassum-01-hfzl/04cli-newsletter-Sargassum-01-hfzl-mediumSquareAt3X-v3.jpg</imageUrl>
+      <pubDate>2026-08-04T19:08:09+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
