@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Wed, 05 Aug 2026 05:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>שליח מועצת השלום נפגש עם נתניהו על עסקת פירוק הנשק של עזה וקורא להפסיק את השביתות</title>
-      <link>https://abcnews.com/International/wireStory/board-peace-envoy-meets-netanyahu-gaza-disarmament-deal-135334943</link>
-      <description>פקיד מועצת השלום המפקח על המעבר של עזה לאחר המלחמה נפגש עם ראש ממשלת ישראל בנימין נתניהו</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_d8474a47662a53aceacebc1ad331c912_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-03T18:10:09-04:00</pubDate>
-      <importance>52</importance>
-    </item>
     <item>
       <title>סטודנטים דרום קוריאנים נעצרו על פי החשד שפרצו לבסיס צבאי ארה&quot;ב</title>
       <link>https://abcnews.com/International/wireStory/south-korean-students-detained-allegedly-breaking-us-military-135351712</link>
@@ -29,11 +21,19 @@
       <importance>27</importance>
     </item>
     <item>
-      <title>המים של נהר הדנובה יורדים כל כך נמוך עד שספינות מלחמת העולם השנייה צצות</title>
-      <link>https://abcnews.com/International/wireStory/danube-rivers-water-dropping-low-world-war-ii-135357221</link>
-      <description>מפלס המים בנהר הדנובה ירדו כל כך נמוך בגלל הבצורת עד שספינות קרב גרמניות ממלחמת העולם השנייה צצות לעין</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_7f938261b92ebbc88330d5f1b892fb2e_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-04T13:50:39-04:00</pubDate>
+      <title>מנהיגי איראן מציגים חזית מאוחדת במלחמה, אך חלוקים בשאלה מהי המטרה</title>
+      <link>https://abcnews.com/International/wireStory/irans-leaders-show-united-front-war-divided-goal-135301653</link>
+      <description>ההנהגה של איראן מפגינה אחדות באסטרטגיית המלחמה שלה נגד ארה&quot;ב, אבל יש הבדלים חדים לגבי הסוף.</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_2c06501211d937c417c5f627a9ede1af_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-02T06:02:10-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>בעוד קולומביה מתכוננת להשבעה לנשיאות, המנהיג היוצא מכפיל את עצמו</title>
+      <link>https://abcnews.com/International/wireStory/colombia-prepares-presidential-inauguration-outgoing-leader-doubles-fraud-135342486</link>
+      <description>נשיא קולומביה גוסטבו פטרו חזר על הטענות על הונאה בבחירות ביוני, שבהן מפלגתו הפסידה במעט למנהיג השמרני אבלרדו דה לה אספרילה.</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_e5529cc4da75eafba8a055bec89b54ac_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-03T23:06:01-04:00</pubDate>
       <importance>17</importance>
     </item>
     <item>
@@ -45,11 +45,11 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>בעוד קולומביה מתכוננת להשבעה לנשיאות, המנהיג היוצא מכפיל את עצמו</title>
-      <link>https://abcnews.com/International/wireStory/colombia-prepares-presidential-inauguration-outgoing-leader-doubles-fraud-135342486</link>
-      <description>נשיא קולומביה גוסטבו פטרו חזר על הטענות על הונאה בבחירות ביוני, שבהן מפלגתו הפסידה במעט למנהיג השמרני אבלרדו דה לה אספרילה.</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_e5529cc4da75eafba8a055bec89b54ac_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-03T23:06:01-04:00</pubDate>
+      <title>המים של נהר הדנובה יורדים כל כך נמוך עד שספינות מלחמת העולם השנייה צצות</title>
+      <link>https://abcnews.com/International/wireStory/danube-rivers-water-dropping-low-world-war-ii-135357221</link>
+      <description>מפלס המים בנהר הדנובה ירדו כל כך נמוך בגלל הבצורת עד שספינות קרב גרמניות ממלחמת העולם השנייה צצות לעין</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_7f938261b92ebbc88330d5f1b892fb2e_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-04T13:50:39-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
