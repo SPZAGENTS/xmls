@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 05 Aug 2026 20:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>תקיפות ישראליות עלולות לערער את תוכנית השלום של טראמפ לעזה</title>
@@ -53,11 +53,19 @@
       <importance>23</importance>
     </item>
     <item>
+      <title>איראן אומרת שהיא מתקרבת להסכם סופי עם עומאן על מיצר הורמוז</title>
+      <link>https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html</link>
+      <description>ההסכם על נתיב מקובל למעבר ספינות במצר יאשרר למעשה את שליטתה של טהראן על נתיב המים המכריע.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/05int-iran-talks-1-cmqw/05int-iran-talks-1-cmqw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T17:08:46+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
       <title>כיצד הפכה מלחמת אוקראינה לקרב על השמים</title>
       <link>https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html</link>
       <description>רוסיה ואוקראינה מייצרות מספר גדול מתמיד של נשק אווירי חדשני, בתקווה לפריצת דרך מכיוון שהקרב הקרקעי קפוא ברובו.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/2026-06-23-ukraine-strikes-russia-index/2026-06-23-ukraine-strikes-russia-index-mediumSquareAt3X-v6.jpg</imageUrl>
-      <pubDate>2026-08-05T13:10:54+00:00</pubDate>
+      <pubDate>2026-08-05T17:28:32+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
@@ -74,14 +82,6 @@
       <description>בחיפוש אחר הפוגה מגלי החום האירופים, תיירי הקיץ נוהרים למרכז הדיפלומטי. אבל מנהיגי העיר נזהרים מצפיפות יתר.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-05T12:37:24+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>שינויי האקלים מגיעים לרחוב סומסום</title>
-      <link>https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html</link>
-      <description>פרק השבוע מתמקד בהשפעות המסוכנות של ההתחממות, מבלי להזכיר את שינויי האקלים.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-05T15:38:43+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
