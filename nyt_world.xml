@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 05 Aug 2026 11:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:01:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>ניו זילנד סיימה את מירוץ הגרייהאונד. עכשיו זה צריך לנהל את התוצאות.</title>
@@ -29,11 +29,19 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>מקסיקו מכריזה מלחמה על אצות מסריחות</title>
-      <link>https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html</link>
-      <description>אקלים משתנה עוזר לתדלק את הצמיחה של גוש ענק של אצות ריח רע שנשטף בכמה קהילות חוף. מקסיקו נלחמת בחזרה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/04/multimedia/04cli-newsletter-Sargassum-01-hfzl/04cli-newsletter-Sargassum-01-hfzl-mediumSquareAt3X-v3.jpg</imageUrl>
-      <pubDate>2026-08-04T19:08:09+00:00</pubDate>
+      <title>מתקפת הטילים הקטלנית של רוסיה על קייב מנצלת את ההגנה האווירית המדולדלת של אוקראינה</title>
+      <link>https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html</link>
+      <description>לפחות 17 בני אדם נהרגו, אמרו גורמים רשמיים, מכיוון שהמדינה חסרה נואשות בטילי יירוט שעלולים להדוף הפצצות רוסיות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/28Ukraine-Kyiv-Attack-mlkc/28Ukraine-Kyiv-Attack-mlkc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T07:58:16+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>כיצד הפכה מלחמת אוקראינה לקרב על השמים</title>
+      <link>https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html</link>
+      <description>רוסיה ואוקראינה מייצרות מספר גדול מתמיד של נשק אווירי חדשני, בתקווה לפריצת דרך מכיוון שהקרב הקרקעי קפוא ברובו.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/05int-ukraine-air-wars-hqgb/05int-ukraine-air-wars-hqgb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-05T08:52:42+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
