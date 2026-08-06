@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 06 Aug 2026 17:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:01:08 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>תמצית חדשות הבוקר</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-06T04:43:07-04:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>ברכות מפארק חיות בר במרכז סרי לנקה שהוא מקלט לפילים</title>
+      <link>https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants</link>
+      <description>בתקופה של סכסוך מוגבר בין פילים לבני אדם, כאשר בתי גידול של פילים הופכים לחקלאות אינטנסיבית, הפארק האקו הורולו הוא מקום בו בעלי החיים יכולים לרעות ללא הפרעה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-06T10:19:27-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>

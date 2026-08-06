@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Abc_News_International - Top Stories</title>
-    <lastBuildDate>Thu, 06 Aug 2026 17:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:01:08 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>2 חיילים נהרגו בלבנון במקרי המוות הישראלים הראשונים מאז הפסקת אש עם חיזבאללה ביוני</title>
@@ -18,6 +18,14 @@
       <description>דרום קוריאה אמרה שצפון קוריאה שיגרה טיל בליסטי קצר טווח לעבר הים</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_36ee2348fdd94d615efa6f0d9260edef_4x3_384.jpg</imageUrl>
       <pubDate>2026-08-06T05:42:15-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>חמוש הורג משפיע מדיה חברתית מקסיקנית במהלך שידור חי</title>
+      <link>https://abcnews.com/International/wireStory/gunman-kills-mexican-social-media-influencer-livestream-135401245</link>
+      <description>גורמים מקסיקנים אומרים שמשפיע על מדיה חברתית נהרג על ידי חמוש במהלך שידור חי במדינת סינלואה השסועה באלימות</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_9d835e32b1c61276c5a563913f9d36a4_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-06T07:43:03-04:00</pubDate>
       <importance>27</importance>
     </item>
     <item>
@@ -37,11 +45,19 @@
       <importance>17</importance>
     </item>
     <item>
-      <title>הירושימה מציינת 81 שנה לפצצת אטום כאשר ראש העיר מצטער על המרדף אחר נשק גרעיני</title>
-      <link>https://abcnews.com/International/wireStory/hiroshima-marks-81st-atomic-bomb-anniversary-mayor-deplores-135411503</link>
-      <description>הירושימה מציינת את יום השנה ה-81 להפצצת האטום של ארה&quot;ב על העיר במהלך מלחמת העולם השנייה</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_1d0af8bb88ad9ccd8958f751937ec6b0_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-06T02:53:40-04:00</pubDate>
+      <title>מפלגת השלטון של פקיסטן מובילה בהצבעה בקשמיר למרות קריאת החרם של הקבוצה האסורה</title>
+      <link>https://abcnews.com/International/wireStory/pakistans-ruling-party-leads-kashmir-vote-despite-boycott-135390039</link>
+      <description>מפלגת השלטון של פקיסטן לקחה את ההובלה בבחירות לאסיפה המחוקקת בקשמיר המנוהלת על ידי פקיסטן לאחר שהוכרזו תוצאות משני השלבים הראשונים של ההצבעה, אמרו גורמים רשמיים</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_3e3a7a8ff626ebeed3e2d12370074d4d_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-05T11:23:54-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>פלביו בולסונארו מכריז על חברו המתמודד לבחירות באוקטובר בברזיל</title>
+      <link>https://abcnews.com/International/wireStory/flvio-bolsonaro-announces-running-mate-brazils-october-election-135397149</link>
+      <description>פלביו בולסונארו, מועמד לנשיאות בברזיל ובנו של הנשיא לשעבר ז'איר בולסונארו, בחר את חברו למועמד לבחירות באוקטובר.</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_6b84c31d17ee9f0a668e6b381a780e4f_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-05T14:53:15-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
