@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 07 Aug 2026 16:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>נתפסו בדרכם לעזה, פעילים מספרים על התעללות במעצר ישראלי</title>
@@ -13,19 +13,11 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>ערב הסעודית, טורקיה ופקיסטן חותמות על הסכם הגנה משותף</title>
-      <link>https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html</link>
-      <description>ההסכם מתייחס להתקפה על כל אחת משלוש המדינות כאל התקפה על כולן. ערב הסעודית התמודדה לאחרונה עם תקיפות מל&quot;טים וטילים שהאשימה את בעלות בריתה של איראן בתימן ובעיראק.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/07/multimedia/07int-Saudi-pact-qjcb/07int-Saudi-pact-qjcb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-07T12:45:00+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>מדינת שלושת אתרי הגרעין המרכזיים של איראן</title>
       <link>https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html</link>
       <description>ייתכן שהסכסוך האט, אך לא נעצר, כך אמרו גורמים רשמיים ומומחים בתוכנית הגרעין של איראן.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/07/multimedia/07int-iran-nukes-fkvj/07int-iran-nukes-fkvj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-07T10:46:29+00:00</pubDate>
+      <pubDate>2026-08-07T13:18:35+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -34,14 +26,6 @@
       <description>לאחר שנמלטו מהשריפה הקשה ביותר של צרפת זה עשרות שנים, תושבי לה פורז', כפר ממערב לבורדו, חזרו הביתה 13 ימים לאחר מכן. הם מצאו עיירה בהריסות.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/05/multimedia/00int-france-fire-vmwl/00int-france-fire-vmwl-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-06T20:36:36+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>אוקראינה מתחננת בעולם להגנה אווירית. האם זה יקשיב יותר?</title>
-      <link>https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html</link>
-      <description>בעלות ברית מערביות מהססות יותר לוותר על טילי יירוט שהם עשויים להזדקק להגנתם, בעוד מלחמה משתוללת בחזיתות מרובות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/06/multimedia/06int-ukraine-patriots-hzcw/06int-ukraine-patriots-hzcw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-06T12:47:40+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -59,6 +43,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/06/world/06int-Yemen-Houthis-qqmgf/06int-Yemen-Houthis-qqmgf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-06T23:38:15+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>מתנחל ישראלי הואשם במותה של הפעילה אוודה חתאלין</title>
+      <link>https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html</link>
+      <description>כתב האישום היה מקרה נדיר שבו הרשויות הישראליות הגישו כתב אישום נגד ישראלי ברצח פלסטיני.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/06/world/06int-israel-settler-ponb/06int-israel-settler-ponb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-06T20:52:50+00:00</pubDate>
+      <importance>23</importance>
     </item>
   </channel>
 </rss>
