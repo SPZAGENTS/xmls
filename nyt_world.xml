@@ -2,8 +2,24 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 07 Aug 2026 12:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>נתפסו בדרכם לעזה, פעילים מספרים על התעללות במעצר ישראלי</title>
+      <link>https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html</link>
+      <description>בראיונות, יותר מ-20 בני אדם שניסו לפרוץ מצור ישראלי תיארו מכות, מכות חשמל והתעללות נוספת לאחר שנתפסו. ישראל הכחישה את ההאשמות.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/07/15/multimedia/00int-europe-flotilla-01-htbw/00int-europe-flotilla-01-htbw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-07T09:00:14+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>מדינת שלושת אתרי הגרעין המרכזיים של איראן</title>
+      <link>https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html</link>
+      <description>ייתכן שהסכסוך האט, אך לא נעצר, כך אמרו גורמים רשמיים ומומחים בתוכנית הגרעין של איראן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/07/multimedia/07int-iran-nukes-fkvj/07int-iran-nukes-fkvj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-07T09:02:36+00:00</pubDate>
+      <importance>28</importance>
+    </item>
     <item>
       <title>שריפות הרסו את הכפר שלהם בצרפת. עכשיו הם רוצים תשובות.</title>
       <link>https://www.nytimes.com/2026/08/06/world/europe/le-porge-france-fires-village.html</link>

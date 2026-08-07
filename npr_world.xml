@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 07 Aug 2026 12:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>איראן שואפת לאסור על ספינות אמריקאיות וישראליות ממיצר הורמוז ולחייב אחרים באגרה</title>
@@ -13,12 +13,28 @@
       <importance>32</importance>
     </item>
     <item>
+      <title>מי או מה זה 'לוקח צעד אחורה מהנראות'? החידון יודע</title>
+      <link>https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz</link>
+      <description>בנוסף, אם אתה יודע מה מייצג &quot;TMZ&quot;, אתה לפחות תקבל על השאלה ממש השבוע!</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-07T05:00:00-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
       <title>תמצית חדשות הבוקר</title>
       <link>https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief</link>
       <description>טראמפ מוציא צווים חדשים להגבלת אזרחות זכות מלידה, איראן חולקת פרטים על הסכם עם עומאן לפתיחת מצר הורמוז מחדש, טראמפ בלחץ למצוא פריצת דרך עם איראן.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-07T04:41:55-04:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>עיר סודאן הנצורה עומדת בפני תקיפות רחפנים בלתי פוסקות וסיכון לזוועות המוניות, מזהיר האו&quot;ם</title>
+      <link>https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war</link>
+      <description>מאות אלפי אזרחים באל-עובייד נפגעים מתקיפות רחפנים בלתי פוסקות ומתמודדים עם מחסור קריטי במים והתפרצות כולרה מחריפה, בעוד נשים ונערות מדווחות על שיעורים גבוהים של אלימות מינית.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-07T05:00:00-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
