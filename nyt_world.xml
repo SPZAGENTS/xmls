@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 09 Aug 2026 17:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 18:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>ישראל דוחה את תוכנית 15 הנקודות של טראמפ לפירוק חמאס מנשקו</title>
@@ -57,8 +57,16 @@
       <link>https://www.nytimes.com/article/canada-wildfires-2026.html</link>
       <description>פעילות השריפות התגברה בקולומביה הבריטית, עם אלפים שפונו מעמק אוקנגאן, שבועות לאחר שעשן מלהבות באונטריו חנוק את החוף המזרחי.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-08T20:30:51+00:00</pubDate>
+      <pubDate>2026-08-09T14:31:54+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>איראן, מחזיקה בהורמוז, דוחפת לחזרה ל-MOU של יוני</title>
+      <link>https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html</link>
+      <description>מיצר הורמוז הוא המנוף הטוב ביותר של איראן כדי לגרום לוושינגטון לשחרר את נכסיה הקפואים של איראן, להסיר את הסנקציות הכלכליות ולסיים את המצור הימי שלה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/09/multimedia/09int-iran-assess-mvzw/09int-iran-assess-mvzw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-09T14:44:02+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>איראן מנפיקה רשימת דרישות, מפחיתה את התקוות לפתיחת המצר מחדש</title>
@@ -74,14 +82,6 @@
       <description>תושבי איי צ'אגוס גורשו על ידי הבריטים לפני 60 שנה. הפליטים היו להוטים לחזור השנה, אבל תקוותיהם נתפסו בבליל של גיאופוליטיקה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/08/multimedia/08int-mauritius-trump-iran-10-ckfb/08int-mauritius-trump-iran-10-ckfb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-08T04:01:31+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>החות'ים טוענים למתקפה על מחנה צבאי תימן</title>
-      <link>https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html</link>
-      <description>המתיחות ההולכת וגוברת לאחרונה בין הקבוצה הנתמכת על ידי איראן לבין ממשלת תימן עוררה חשש כי הפסקת אש החלה מאז 2022 מתקרבת להתמוטטות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/08/multimedia/08int-yemen-houthis-1-kqch/08int-yemen-houthis-1-kqch-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-07T20:44:46+00:00</pubDate>
       <importance>23</importance>
     </item>
   </channel>
