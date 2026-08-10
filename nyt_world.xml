@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 10 Aug 2026 14:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>ישראל דוחה את תוכנית 15 הנקודות של טראמפ לפירוק חמאס מנשקו</title>
@@ -29,20 +29,20 @@
       <importance>38</importance>
     </item>
     <item>
-      <title>אירופה מתכוננת לגל חום נוסף. הנה מה שצריך לדעת.</title>
-      <link>https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html</link>
-      <description>אזהרות על טמפרטורות גבוהות היו במקום ברחבי מערב, מרכז ודרום אירופה ביום ראשון כאשר כיפת חום מתעצמת ברחבי היבשת.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/09/multimedia/09wea-europe-heat-fire-promo/09wea-europe-heat-fire-promo-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-09T12:23:03+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>עדיין מחכים לשלום בעזה</title>
       <link>https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html</link>
       <description>צלם עיתונות ב&quot;ניו יורק טיימס&quot; מפרט את העקירה והסכנה, במילים ובתמונות, שבאו להגדיר את ביתו.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/06/multimedia/10int-theworld-gaza-saher-promo/10int-theworld-gaza-saher-promo-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-08-10T04:36:22+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>דרום איראן סובל מהפצצות של ארה&quot;ב</title>
+      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html</link>
+      <description>בעוד הלחימה פחתה ברובה של איראן, תקיפות אוויריות של ארה&quot;ב כמעט קבועות באי קשם ובמקומות דרומיים אחרים שיפרו את החיים והפרנסה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/10/multimedia/10int-iran-south-01-wcpg/10int-iran-south-01-wcpg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-10T09:02:27+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>איראן, מחזיקה בהורמוז, דוחפת לחזרה ל-MOU של יוני</title>
@@ -57,16 +57,24 @@
       <link>https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html</link>
       <description>מינויו של מוחסן רזאי למזכיר המועצה העליונה לביטחון לאומי מצביע על כך שהמשמר הישן של איראן מגבש את הכוח.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/06/multimedia/00-int-iran-security-1-ltjf/00-int-iran-security-1-ltjf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-09T18:18:22+00:00</pubDate>
+      <pubDate>2026-08-10T11:37:22+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
-      <title>דרום איראן סובל מהפצצות של ארה&quot;ב</title>
-      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html</link>
-      <description>בעוד הלחימה פחתה ברובה של איראן, תקיפות אוויריות של ארה&quot;ב כמעט קבועות באי קשם ובמקומות דרומיים אחרים שיפרו את החיים והפרנסה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/10/multimedia/10int-iran-south-01-wcpg/10int-iran-south-01-wcpg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-10T09:02:27+00:00</pubDate>
+      <title>איראן מתעקשת כי מיצר הורמוז יישאר סגור עד שטראמפ יסכים לדרישות</title>
+      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html</link>
+      <description>דובר משרד החוץ האיראני אמר כי השיחות עם עומאן על נתיבי הספנות במצר הורמוז היו &quot;נפרדות&quot; מהדיונים לפתיחת נתיב המים מחדש.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/10/multimedia/1-int-iran-hormuz-gbkp/1-int-iran-hormuz-gbkp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-10T11:34:13+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>מתקפת מזל&quot;ט אוקראינית הורגת 13 בעומק רוסיה</title>
+      <link>https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</link>
+      <description>שביתה במרכז תעשייתי בטטרסטן סימנה את אחת ההתקפות הקטלניות ביותר על השטח הרוסי מאז תחילת המלחמה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-10T11:32:17+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>כשהאקלים מתחמם, ביברס מגיעים לאזור הארקטי של קנדה</title>
@@ -74,14 +82,6 @@
       <description>נמשך על ידי אקלים מתחמם, הסמל הלאומי הפרוותי של קנדה מיישב טריטוריה חדשה, מתחמק מצידי האינואיטים ומעצב מחדש את העולם שהם מוצאים.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-09T09:00:42+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>סוריה מסכימה לארגן מחדש את הנוכחות הצבאית הרוסית</title>
-      <link>https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html</link>
-      <description>לאחר יותר משנה וחצי של משא ומתן, סוריה ורוסיה הסכימו על פרמטרים חדשים לנוכחות הצבאית של רוסיה בסוריה. סוריה אמרה שהיא פותחת את הדרך לשלב חדש ביחסים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/09/multimedia/09int-syria-russia-hqgz/09int-syria-russia-hqgz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-09T15:57:54+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
