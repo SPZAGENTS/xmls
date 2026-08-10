@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 10 Aug 2026 09:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>ישראל דוחה את תוכנית 15 הנקודות של טראמפ לפירוק חמאס מנשקו</title>
@@ -61,14 +61,6 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>עדיין מחכים לשלום בעזה</title>
-      <link>https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html</link>
-      <description>צלם עיתונות ב&quot;ניו יורק טיימס&quot; מפרט את העקירה והסכנה, במילים ובתמונות, שבאו להגדיר את ביתו.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/06/multimedia/10int-theworld-gaza-saher-promo/10int-theworld-gaza-saher-promo-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-08-10T04:36:22+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
       <title>איראן, מחזיקה בהורמוז, דוחפת לחזרה ל-MOU של יוני</title>
       <link>https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html</link>
       <description>מיצר הורמוז הוא המנוף הטוב ביותר של איראן כדי לגרום לוושינגטון לשחרר את נכסיה הקפואים של איראן, להסיר את הסנקציות הכלכליות ולסיים את המצור הימי שלה.</description>
@@ -83,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/06/multimedia/00-int-iran-security-1-ltjf/00-int-iran-security-1-ltjf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-09T18:18:22+00:00</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>כשהאקלים מתחמם, ביברס מגיעים לאזור הארקטי של קנדה</title>
+      <link>https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html</link>
+      <description>נמשך על ידי אקלים מתחמם, הסמל הלאומי הפרוותי של קנדה מיישב טריטוריה חדשה, מתחמק מצידי האינואיטים ומעצב מחדש את העולם שהם מוצאים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-09T09:00:42+00:00</pubDate>
+      <importance>18</importance>
     </item>
   </channel>
 </rss>
