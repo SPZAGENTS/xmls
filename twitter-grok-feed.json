@@ -1,10 +1,20 @@
 {
   "metadata": {
     "agent": "twitter",
-    "version": "4.0",
-    "timestamp": "2026-07-31T13:03:52.771Z",
+    "version": "3.0",
+    "timestamp": "2026-08-11T15:00:34Z",
     "total_posts": 0,
-    "categories": {}
+    "error": "API Error 403 - Team monthly spending limit reached",
+    "error_code": "permission-denied",
+    "team_id": "cbe4c235-ec95-4f37-9138-085d4fec0f35",
+    "searches_attempted": 8,
+    "searches_failed": 8,
+    "status": "credits_exhausted",
+    "last_success": "2026-08-06T07:00:00Z",
+    "last_check": "2026-08-11T15:00:34Z",
+    "consecutive_failures": 17,
+    "alert_sent": true,
+    "action_required": "Recharge xAI API credits OR configure xurl OAuth2 credentials"
   },
   "posts": []
 }
