@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Tue, 11 Aug 2026 04:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 05:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>עשרות שנים של התעללות שנחשפו בבית הספר לאמנות במישיגן. וכן, השפעת מלחמת איראן על אמצע הקדנציה</title>
@@ -19,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-10T12:08:06-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>אלבמה יוצאת לבחירות מקדימות שניות לאחר חלוקה מחדש</title>
+      <link>https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting</link>
+      <description>מצביעי אלבמה שוב בוחרים מועמדים לארבעה מחוזות בקונגרס לאחר שהמדינה שינתה את מפת המחוזות לטובת הרפובליקנים. החלוקה מחדש גורמת לבלבול בקרב המצביעים.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-10T18:43:05-04:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
