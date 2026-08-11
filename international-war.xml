@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 11 Aug 2026 17:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:01:07 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>המזרח התיכון בשידור חי: איראן פרסמה רשימה של דרישות לפתיחה מחדש של מיצר הורמוז</title>
@@ -53,14 +53,6 @@
       <importance>57</importance>
     </item>
     <item>
-      <title>נתניהו הולך בחבל על הסכם פירוק עזה של טראמפ</title>
-      <link>https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html</link>
-      <description>ראש הממשלה בנימין נתניהו מישראל מנסה לספק את הדרישות המתחרות לעתים של בסיס הימין שלו ושל הנשיא טראמפ חודשים לפני בחירות קשות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/10/multimedia/10israel-netanyahu-01-cqzw/10israel-netanyahu-01-cqzw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-10T22:00:49+00:00</pubDate>
-      <importance>48</importance>
-    </item>
-    <item>
       <title>נשיא איראן מאשים את הלחץ הזר כשמומחה מזהיר שכלכלת המשטר מתקרבת לנקודת שבירה</title>
       <link>https://www.foxnews.com/world/irans-president-blames-foreign-pressure-expert-warns-regimes-economy-nears-breaking-point</link>
       <description>דיווחים על גניבת לחם, גבינה ובשר של איראנים מסופרמרקטים עולים בקנה אחד עם אינפלציית מזון העולה על 112%, מה שמעלה חשש לנקודת שבירה.</description>
@@ -83,6 +75,14 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/israeli-submarine.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-08-09T15:34:09-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>איראן נשבעה לשמור על מצר הורמוז סגור עד שארצות הברית תעמוד בדרישות</title>
+      <link>https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands</link>
+      <description>משמרות המהפכה של איראן אמרו ביום ראשון כי מצר הורמוז יישאר סגור עד שארצות הברית תעמוד בדרישותיה של טהראן, כולל הפסקת הסנקציות ופיצויים על נזקי מלחמה. המצור של נתיב האנרגיה המכריע הרעיד את השווקים והעלה את המחירים, בעוד שהנשיא דונלד טראמפ אמר שהוא נוקט בגישה נמוכה למשא ומתן עם איראן.</description>
+      <imageUrl>https://s.france24.com/media/display/da25f734-942e-11f1-84eb-005056bf30b7/w:1024/p:16x9/2026-08-06T132145Z-335753292-RC2YSMATHMCD-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg</imageUrl>
+      <pubDate>2026-08-09T20:14:34</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
