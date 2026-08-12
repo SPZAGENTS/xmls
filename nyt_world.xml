@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 12 Aug 2026 07:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>מה אנחנו יודעים על רעידת האדמה בקולומביה</title>
@@ -58,6 +58,30 @@
       <description>הנשיא לשעבר הורשע בפשעים נגד האנושות במהלך מלחמת האזרחים במדינה, פסק הדין הראשון מאז ברח לרוסיה ב-2024.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-08-11T15:00:43+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>בחירות בזמביה: הנשיא היצ'ילמה מתמודד עם תגובה נגדית לפני ההצבעה</title>
+      <link>https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html</link>
+      <description>הנשיא הקאינדה היצ'ילמה נבחר לפני חמש שנים, והבטיח להגן על חירויות האזרח באומה האפריקאית עתירת הנחושת שלו. כעת, הוא מואשם בדריסה עליהם.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/12/multimedia/12int-zambia-1-qcvp/12int-zambia-1-qcvp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-12T04:01:20+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>איך נייג'ל פרג' סיים להתמודד נגד הרוזן Binface בקלקטון</title>
+      <link>https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html</link>
+      <description>נייג'ל פרג' אילץ בחירות חדשות במושב הפרלמנט שלו לאחר שנכנס ללחץ על כספיו. המתמודד העיקרי שלו הוא הרוזן Binface, מועמד לחידוש.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-12T04:01:06+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>מדוע נייג'ל פרג' רץ נגד 'פח אשפה'</title>
+      <link>https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html</link>
+      <description>הכתבת שלנו אמיליה נירנברג מתארת ​​כיצד המנהיג הפוליטי הבריטי הימני נייג'ל פרג', המבקש להיבחר מחדש לפרלמנט, מתמודד עם יריב לא שגרתי: הרוזן בינפייס.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-12T04:00:01+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
