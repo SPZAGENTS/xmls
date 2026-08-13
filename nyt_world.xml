@@ -2,15 +2,31 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 13 Aug 2026 10:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:01:06 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>מה לדעת על הבחירות המיוחדות של יום חמישי בקלאקטון: פאראג' נגד Binface</title>
       <link>https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html</link>
       <description>נייג'ל פרג', מנהיג הימין הפופוליסט, כפה בחירות משנה במושב הפרלמנטרי שלו בקלאקטון לאחר שנכנס ללחץ על הצהרותיו הכספיות.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-farage-wtk-01-vgkz/13int-uk-farage-wtk-01-vgkz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-13T06:49:40+00:00</pubDate>
+      <pubDate>2026-08-13T07:46:39+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>פלסטינים לכודים על ידי מתנחלים במשך ימים כאשר הצבא הישראלי מופיע, ואז עוזב</title>
+      <link>https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html</link>
+      <description>הפרק מטיל זרקור על המאבק של הצבא לצמצם את אלימות המתנחלים ולהגן על פלסטינים החיים בגדה המערבית הכבושה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/12/multimedia/12int-westbank-1-bljm/12int-westbank-1-bljm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-13T01:01:06+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>&quot;קיץ אנגלי אינו אותו דבר יותר&quot;</title>
+      <link>https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html</link>
+      <description>עם החזאים שמוציאים אזהרה לטמפרטורות גבוהות מאוד, הקיץ הזה בדרך להיות אחד החמים עד כה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-wfmg/13int-uk-heat-wfmg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-13T06:39:59+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>איך נייג'ל פרג' סיים להתמודד נגד הרוזן Binface בקלקטון</title>
@@ -26,22 +42,6 @@
       <description>הנשיא הקאינדה היצ'ילמה נבחר לפני חמש שנים, והבטיח להגן על חירויות האזרח באומה האפריקאית עתירת הנחושת שלו. כעת, הוא מואשם בדריסה עליהם.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/12/multimedia/12int-zambia-1-qcvp/12int-zambia-1-qcvp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-12T04:01:21+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>מקרי המוות של אזרחים רוסים גדלים במהירות כאשר אוקראינה מרחיבה את המלחמה האווירית שלה</title>
-      <link>https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html</link>
-      <description>הקצב הגבוה יותר של התקיפות האוקראיניות עורר חוסר שביעות רצון בקרב הרוסים, אבל רחוק מלהיות ברור שזה ישנה את החשבון של הקרמלין לגבי המלחמה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/11/multimedia/11int-russia-deaths-01-hwpz/11int-russia-deaths-01-hwpz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-11T11:43:18+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>&quot;קיץ אנגלי אינו אותו דבר יותר&quot;</title>
-      <link>https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html</link>
-      <description>עם החזאים שמוציאים אזהרה לטמפרטורות גבוהות מאוד, הקיץ הזה בדרך להיות אחד החמים עד כה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-wfmg/13int-uk-heat-wfmg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-13T06:39:59+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
