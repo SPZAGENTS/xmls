@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Thu, 13 Aug 2026 17:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:01:10 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>נתניהו מסתכל על בסיס הבחירות כאשר החיכוך עם טראמפ גובר על הסכם עזה</title>
@@ -10,14 +10,6 @@
       <description>ראש ממשלת ישראל בנימין נתניהו דחה ביום ראשון תוכנית עזה בהובלת ארה&quot;ב שאושרה על ידי חמאס, תוך שהוא מרחיק בינו לבין הנשיא דונלד טראמפ כשהוא מנסה לחזק את בסיסו לקראת בחירות צמודות. &quot;נתניהו מוכן לנתק את הקשרים עם טראמפ על הסכם השלום בעזה בן 15 הנקודות כדי לקבל תמיכה מחברי הימין הקיצוני בקואליציה שלו&quot;, אומר עורך העניינים הבינלאומיים של FRANCE 24, פיליפ טורל.</description>
       <imageUrl>https://s.france24.com/media/display/8c50add2-949d-11f1-bb55-005056a90284/w:1024/p:16x9/EN-20260810-110534-110905-CS.jpg</imageUrl>
       <pubDate>2026-08-10T09:55:44</pubDate>
-      <importance>63</importance>
-    </item>
-    <item>
-      <title>ישראל, ארה&quot;ב עימות על נסיגת עזה</title>
-      <link>https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal</link>
-      <description>ראש ממשלת ישראל בנימין נתניהו דחה ביום ראשון את תוכנית 15 הנקודות לעזה שקידם נשיא ארה&quot;ב דונלד טראמפ והדגיש כי הצבא הישראלי לא ייסוג מהשטח הפלסטיני עד שהחמאס יפורק &quot;באמת&quot; מנשקו. באיראן אמרו משמרות המהפכה שמצר הורמוז לא ייפתח מחדש עד שארצות הברית תקבל את תנאי טהראן. כתבת צרפת 24, נגה טרנופולסקי, מספרת לנו את הדבר האחרון.</description>
-      <imageUrl>https://s.france24.com/media/display/ac58584a-93f4-11f1-a977-005056bfb2b6/w:1024/p:16x9/EN-20260809-140406-140556-CS.jpg</imageUrl>
-      <pubDate>2026-08-09T13:20:42</pubDate>
       <importance>63</importance>
     </item>
     <item>
@@ -53,6 +45,14 @@
       <importance>43</importance>
     </item>
     <item>
+      <title>איראן אומרת שטראמפ 'שיקר' לגבי השליטה האמריקאית במצר הורמוז</title>
+      <link>https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz</link>
+      <description>איראן כינתה את הטענה של הנשיא דונלד טראמפ כי וושינגטון שלטה במצר הורמוז &quot;שקרים ובדיות&quot; ביום חמישי, כאשר אברהים זולפגארי, דובר הפיקוד הצבאי המרכזי של איראן, אמר כי נתיב המים נמצא בשליטה מלאה של טהראן. איראן שמרה על השליטה בהורמוז, צינור אנרגיה חיוני, מאז פרוץ המלחמה במזרח התיכון ב-28 בפברואר.</description>
+      <imageUrl>https://s.france24.com/media/display/6464dea0-971e-11f1-b5b1-005056bfb2b6/w:1024/p:16x9/AP26168698034901.jpg</imageUrl>
+      <pubDate>2026-08-13T14:08:54</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>נמל התעופה של דרום קוריאה הופך לעמוס ביותר בעולם עבור תעבורה עולמית בתוך מלחמת איראן</title>
       <link>https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east</link>
       <description>לשדה התעופה אינצ'און היו 38.39 מיליון נוסעים בינלאומיים במחצית הראשונה של 2026, כאשר התנועה הופנתה ממוקדי המזרח התיכון. נמל התעופה אינצ'און של דרום קוריאה הפך לנמל התעופה העמוס ביותר בעולם עבור נוסעים בינלאומיים, בין השאר עקב הפרעה במזרח התיכון שנגרמה על ידי מלחמת איראן. במחצית הראשונה של 2026, על פי נתונים ראשוניים שנאספו על ידי ה</description>
@@ -77,11 +77,11 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>ישראל זוכה בנתוני התזונה של עזה לאחר טענות הרעבה &quot;עלילת דם&quot;, אומר שליח האו&quot;ם</title>
-      <link>https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says</link>
-      <description>סקר שנתמך על ידי האו&quot;ם מצא שלא תת תזונה חריפה נרחבת בעזה, מה שגרם לשגריר ישראל לקרוא לתביעות רעב קודמות עלילת דם.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/israel-ambassador-danny-danon-un-new-york-08-27-2025.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-08-11T06:00:15-04:00</pubDate>
+      <title>ממצאי יוניצ&quot;ף בעזה &quot;מנפצים לחלוטין&quot; את תביעות הרעב נגד ישראל, אומר משרד המדינה</title>
+      <link>https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says</link>
+      <description>ממצאים חדשים של יוניסף מעוררים בדיקה מחודשת של טענות הרעב בעזה, כאשר מחלקת המדינה אומרת שהנתונים &quot;מנפצים לחלוטין&quot; את הטענות שישראל הרעיבה בכוונה אזרחים.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/gaza-aid-delivery-tps-il-1.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-08-13T10:00:52-04:00</pubDate>
       <importance>32</importance>
     </item>
   </channel>
