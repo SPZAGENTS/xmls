@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 14 Aug 2026 19:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>עם הסכם חמאס של טראמפ בסכנה, קושנר מתכוון לבקר בישראל לשיחות בעזה</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-Israel-Kushner-vkbg/14int-Israel-Kushner-vkbg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-14T13:20:34+00:00</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>הטליבאן העיף את ארה&quot;ב מאפגניסטן. עכשיו הם רוצים את זה בחזרה.</title>
+      <link>https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html</link>
+      <description>בראיון, קרא שר החוץ של אפגניסטן לארה&quot;ב לפתוח מחדש את השגרירות שלה ולהשקיע במדינה - מכירה כמעט בלתי אפשרית לעת עתה, אומרים אנליסטים ודיפלומטים לשעבר.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-afghanistan-interview-1-fvpl/14int-afghanistan-interview-1-fvpl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-14T16:01:43+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>האם אל-עובייד של סודן יהפוך לאל-פאשר הבא? מה לדעת.</title>
@@ -58,14 +66,6 @@
       <description>ועדת הבחירות של האומה הדרום אפריקאית אמרה שעובדי הסקרים הותקפו ופתקי הצבעה נגנבו מכיוון ששני המועמדים הבכירים טענו להוביל.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-zambia-election-1-jkfg/14int-zambia-election-1-jkfg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-14T15:24:55+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>ריגושים חשמליים</title>
-      <link>https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html</link>
-      <description>מכירות האופנועים החשמליים גואה בפקיסטן, מכיוון שהמחירים בזמן מלחמה מאיצים את ההתרחקות מדלק מאובנים בעולם המתפתח.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-theworld-electric-motorcycles-promo-mhkq/14int-theworld-electric-motorcycles-promo-mhkq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-14T05:07:53+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
