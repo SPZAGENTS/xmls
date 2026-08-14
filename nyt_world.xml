@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 14 Aug 2026 08:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>מי הם החות'ים, המיליציה הנתמכת על ידי איראן שנכנסת למלחמת המזרח התיכון?</title>
@@ -61,11 +61,19 @@
       <importance>18</importance>
     </item>
     <item>
+      <title>פרג' זוכה בבחירות מיוחדות בבריטניה שהוא יזם, כצפוי</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html</link>
+      <description>נייג'ל פרג', מנהיג הרפורמים בבריטניה, ניצח בבחירות המשניות לפרלמנט בקלאקטון. הרוזן Binface, יריבו הראשי לבוש, הגיע למקום השני.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-14T05:34:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
       <title>ריגושים חשמליים</title>
       <link>https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html</link>
       <description>מכירות האופנועים החשמליים גואה בפקיסטן, מכיוון שהמחירים בזמן מלחמה מאיצים את ההתרחקות מדלק מאובנים בעולם המתפתח.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-theworld-electric-motorcycles-promo-mhkq/14int-theworld-electric-motorcycles-promo-mhkq-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-13T20:03:07+00:00</pubDate>
+      <pubDate>2026-08-14T05:07:53+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
