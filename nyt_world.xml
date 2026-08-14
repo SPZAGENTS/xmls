@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 14 Aug 2026 10:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:01:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>מי הם החות'ים, המיליציה הנתמכת על ידי איראן שנכנסת למלחמת המזרח התיכון?</title>
-      <link>https://www.nytimes.com/article/houthi-yemen-militia-iran.html</link>
-      <description>בתוך מלחמה בלתי פוסקת במזרח התיכון, נראה שהחמושים הנתמכים על ידי איראן עומדים לחדש את הסכסוך שלהם עם ממשלת תימן הנתמכת על ידי סעודיה.</description>
-      <imageUrl>https://static01.nyt.com/images/2024/01/10/multimedia/10israel-hamas-houthi-explainer-fbzl/10israel-hamas-houthi-explainer-fbzl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-13T09:19:44+00:00</pubDate>
-      <importance>43</importance>
-    </item>
     <item>
       <title>מתנחלים ישראלים חוזרים למצור על הגדה המערבית לאחר הפינוי</title>
       <link>https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html</link>
@@ -21,20 +13,20 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>מה לדעת על הבחירות המיוחדות של יום חמישי בקלאקטון: פאראג' נגד Binface</title>
-      <link>https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html</link>
-      <description>נייג'ל פרג', מנהיג הימין הפופוליסט, כפה בחירות משנה במושב הפרלמנטרי שלו בקלאקטון לאחר שנכנס ללחץ על הצהרותיו הכספיות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-farage-wtk-01-vgkz/13int-uk-farage-wtk-01-vgkz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-13T08:04:24+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>האם אל-עובייד של סודן יהפוך לאל-פאשר הבא? מה לדעת.</title>
       <link>https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html</link>
       <description>נטילת אל עובייד תאפשר לכוחות התמיכה המהירה החצי-צבאיים לבסס את אחיזתם במערב סודן, יעד אסטרטגי משמעותי.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-sudan-1-mlfc/14int-sudan-1-mlfc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-14T04:01:06+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>פרג' זוכה בבחירות מיוחדות בבריטניה שהוא יזם, כצפוי</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html</link>
+      <description>נייג'ל פרג', מנהיג הרפורמים בבריטניה, ניצח בבחירות המשניות לפרלמנט בקלאקטון. הרוזן Binface, יריבו הראשי לבוש, הגיע למקום השני.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-14T07:35:29+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>נשימתו האחרונה של חולה במחלקת אבולה בקונגו</title>
@@ -61,19 +53,19 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>פרג' זוכה בבחירות מיוחדות בבריטניה שהוא יזם, כצפוי</title>
-      <link>https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html</link>
-      <description>נייג'ל פרג', מנהיג הרפורמים בבריטניה, ניצח בבחירות המשניות לפרלמנט בקלאקטון. הרוזן Binface, יריבו הראשי לבוש, הגיע למקום השני.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-14T06:05:46+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
       <title>ריגושים חשמליים</title>
       <link>https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html</link>
       <description>מכירות האופנועים החשמליים גואה בפקיסטן, מכיוון שהמחירים בזמן מלחמה מאיצים את ההתרחקות מדלק מאובנים בעולם המתפתח.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-theworld-electric-motorcycles-promo-mhkq/14int-theworld-electric-motorcycles-promo-mhkq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-14T05:07:53+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>היתושים הנלחמים במחלות בברזיל</title>
+      <link>https://www.nytimes.com/video/world/americas/100000011042147/brazils-disease-fighting-mosquitoes.html</link>
+      <description>הכתבת שלנו, Apoorva Mandavilli, נכנסת למפעל יתושים בברזיל, שם מדענים מייצרים מיליוני יתושים כדי להילחם במחלות טרופיות קטלניות בעולם מתחמם.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-13T14:58:07+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
