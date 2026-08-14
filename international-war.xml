@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Fri, 14 Aug 2026 15:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:01:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>נתניהו נתן &quot;ניצחון לחמאס&quot; בכך שדחה את תוכנית השלום בעזה הנתמכת על ידי ארה&quot;ב</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://s.france24.com/media/display/0349848a-958a-11f1-836c-005056bf30b7/w:1024/p:16x9/000-C4AZ6KE.jpg</imageUrl>
       <pubDate>2026-08-12T17:48:46</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>עם הסכם חמאס של טראמפ בסכנה, קושנר מתכוון לבקר בישראל לשיחות בעזה</title>
+      <link>https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html</link>
+      <description>ג'ארד קושנר, עוזרו הבכיר של הנשיא טראמפ, צפוי להיפגש עם ראש הממשלה בנימין נתניהו מישראל, שדחה הסכם לפירוק חמאס מנשקו בתמיכת ארה&quot;ב.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-Israel-Kushner-vkbg/14int-Israel-Kushner-vkbg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-14T12:49:09+00:00</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>טראמפ אומר שהפסקת האש בלבנון עובדת. עבור התושבים, זה 'כלא'.</title>
@@ -75,14 +83,6 @@
       <imageUrl>https://s.france24.com/media/display/6464dea0-971e-11f1-b5b1-005056bfb2b6/w:1024/p:16x9/AP26168698034901.jpg</imageUrl>
       <pubDate>2026-08-13T14:08:54</pubDate>
       <importance>28</importance>
-    </item>
-    <item>
-      <title>צבא ארה&quot;ב איבד כ-25% ממל&quot;טי ריפר שלו, כאשר המלחמה באיראן מדלדלת את הארסנל</title>
-      <link>https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/</link>
-      <description>המטוס, שעלותו של עד 50 מיליון דולר כל אחד, זכה לשימוש כבד מסביב למיצר הורמוז - אבל הם יעדים קלים יחסית לאיראן ושלוחיה.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-13T15:39:43+00:00</pubDate>
-      <importance>27</importance>
     </item>
   </channel>
 </rss>
