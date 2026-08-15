@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 15 Aug 2026 18:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>מתקיפות ישראליות בלבנון נהרגו 9, אומרים גורמי בריאות</title>
@@ -10,6 +10,14 @@
       <description>משרד הבריאות הלבנוני אמר כי מספר ילדים נהרגו בשביתה במהלך הלילה, אחד הפיגועים הקטלניים ביותר מזה חודשים. צבא ישראל אמר שהוא מכוון לתשתיות של חיזבאללה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-15T13:28:12+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>מכיוון שהצבא לא מצליח להגן על פלסטינים, מנהיגים ישראלים מזדהים עם מתנחלים</title>
+      <link>https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</link>
+      <description>שר הביטחון כץ קרא לצבא להעביר למשטרה את האחריות להגנה על פלסטינים לאחר ששתי משפחות בגדה המערבית היו נצורות על ידי מתנחלים אלימים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-14T21:01:21+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
@@ -50,6 +58,14 @@
       <description>ג'ייסון ארדיי, הפרופסור השחור הצעיר ביותר בבית הספר, נמצא מת ביום שישי. בית הספר התעלם מסדרת אזהרות על סיפור חייו ופועלו.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-15T11:38:00+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>סורי שהורשע באוסטריה בהתעללות במלחמת אזרחים עצור בסוריה</title>
+      <link>https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html</link>
+      <description>מוסאב אבו רוקבה, מפקד המשטרה לשעבר, עזב את אוסטריה לאחר שערער על עונשו של שמונה שנים על פשעים שבוצעו במהלך מלחמת האזרחים בסוריה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-15T15:28:28+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
