@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 15 Aug 2026 09:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>עם הסכם חמאס של טראמפ בסכנה, קושנר מתכוון לבקר בישראל לשיחות בעזה</title>
@@ -45,6 +45,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>נזהר מטראמפ, אירופה מחפשת תפקיד בשיחות רוסיה-אוקראינה בסופו של דבר</title>
+      <link>https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html</link>
+      <description>דיפלומטים צרפתים, גרמנים ובריטים עובדים על פורמט למשא ומתן עתידי - גם אם רוסיה גילתה עניין מועט.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-russia-europe-ukraine-01-wqgp/15int-russia-europe-ukraine-01-wqgp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-15T04:01:09+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
       <title>הראפרים הפלסטינים שבדייד וסנט לבנט בירוק על אותנטיות</title>
       <link>https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html</link>
       <description>שבדייד, ראפר בגדה המערבית, מתח ביקורת על מוזיקאי פלסטיני בשיר, ואמר שאורח חייו המערבי והמילים היו רחוקות מהחיים בבית.</description>
@@ -53,12 +61,12 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>נזהר מטראמפ, אירופה מחפשת תפקיד בשיחות רוסיה-אוקראינה בסופו של דבר</title>
-      <link>https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html</link>
-      <description>דיפלומטים צרפתים, גרמנים ובריטים עובדים על פורמט למשא ומתן עתידי - גם אם רוסיה גילתה עניין מועט.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-russia-europe-ukraine-01-wqgp/15int-russia-europe-ukraine-01-wqgp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-15T04:01:08+00:00</pubDate>
-      <importance>23</importance>
+      <title>מקרי מוות מחום במדינה 'קרה' הם אזהרה לשאר אירופה</title>
+      <link>https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html</link>
+      <description>גל חום ביוני בבלגיה ובמדינות השכנות חשף חוסר מוכנות קטלני. זה סיכון כשגל נוסף פוגע באירופה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-15T04:01:10+00:00</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>רוסיה פעלה כדי לדרדר את ממשלת מולדובה הפרו-מערבית</title>
@@ -74,14 +82,6 @@
       <description>נייג'ל פרג', מנהיג הרפורמים בבריטניה, ניצח בבחירות המשניות לפרלמנט בקלאקטון. הרוזן Binface, יריבו הראשי לבוש, הגיע למקום השני.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-14T11:56:55+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>מקרי מוות מחום במדינה 'קרה' הם אזהרה לשאר אירופה</title>
-      <link>https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html</link>
-      <description>גל חום ביוני בבלגיה ובמדינות השכנות חשף חוסר מוכנות קטלני. זה סיכון כשגל נוסף פוגע באירופה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-15T04:01:09+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
