@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 16 Aug 2026 11:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>מתקיפות ישראליות בלבנון נהרגו 9, אומרים גורמי בריאות</title>
@@ -11,14 +11,6 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-15T16:09:55+00:00</pubDate>
       <importance>33</importance>
-    </item>
-    <item>
-      <title>בעוד סין דוחפת להתרחב באסיה, טראמפ מתמקד באיראן</title>
-      <link>https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html</link>
-      <description>בעלות ברית אסיה מתחילות לתהות אם ארצות הברית תגן עליהן או תוכל להגן עליהן במלחמה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/12/multimedia/00dc-trump-asia-01-vczm/00dc-trump-asia-01-vczm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-16T06:53:38+00:00</pubDate>
-      <importance>28</importance>
     </item>
     <item>
       <title>תוכנית YouTube האיראנית מציגה שאלות שמעטים מעיזים לשאול</title>
@@ -74,6 +66,14 @@
       <description>במולדובה, מוסקבה שילמה לכמרים אורתודוכסים, ערכה תוכנית לרכישת קולות והקימה מחנות אימונים על התערבות בבחירות - הכל במאמץ לדרדר את הממשלה הנוטה למערב.</description>
       <imageUrl>https://static01.nyt.com/images/2026/07/22/multimedia/22Moldova-Russia-Interference-06-hpzc/22Moldova-Russia-Interference-06-hpzc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-15T09:03:54+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>התפרצות כולרה חולה מעל גיל 90 בעיר הגדולה ביותר במיאנמר</title>
+      <link>https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html</link>
+      <description>מלחמת אזרחים ושלטון צבאי החלישו את מערכת הבריאות של מיאנמר, בעוד גשמי מונסון עזים הגבירו את הסיכון למחלות הנישאות במים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-16T08:44:45+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
