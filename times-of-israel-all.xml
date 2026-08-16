@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Times Of Israel All - Top Stories</title>
-    <lastBuildDate>Sun, 16 Aug 2026 06:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>תקיפות ישראליות דווחו בדרום לבנון לאחר שתושבי הגליל הזהירו לצפות לפיצוצים</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static-cdn.toi-media.com/www/uploads/2026/08/AP26227371828104-e1786835119173-1024x640.jpg</imageUrl>
       <pubDate>2026-08-15T23:06:20+00:00</pubDate>
       <importance>63</importance>
+    </item>
+    <item>
+      <title>ישראל לא יכולה לחכות לנצח לשלום שכן איראן בונה מחדש במהירות את תוכנית הטילים שלה - מאמר מערכת</title>
+      <link>https://www.jpost.com/opinion/article-905596</link>
+      <description>איראן נבנית מחדש</description>
+      <imageUrl>https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_3667,w_5500/719741</imageUrl>
+      <pubDate>2026-08-16T05:55:03</pubDate>
+      <importance>61</importance>
     </item>
     <item>
       <title>צה&quot;ל: טנק בעזה נפגע ממטען בהפרת שביתת נשק 'קשה'; לא נפגע חיילים</title>
@@ -74,14 +82,6 @@
       <description>חזרת הקואורדינטה האמריקאית</description>
       <imageUrl>https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_5014,w_7518/727982</imageUrl>
       <pubDate>2026-07-01T22:55:43</pubDate>
-      <importance>46</importance>
-    </item>
-    <item>
-      <title>כ-15 מתנחלים נכנסים לקוסרה למרות סגירת צה&quot;ל, תושבים פלסטינים מדווחים שהם חשים מאוימים</title>
-      <link>https://www.jpost.com/israel-news/defense-news/article-905583</link>
-      <description>אבא</description>
-      <imageUrl>https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_1868,w_3336/733986</imageUrl>
-      <pubDate>2026-08-15T17:06:51</pubDate>
       <importance>46</importance>
     </item>
   </channel>
