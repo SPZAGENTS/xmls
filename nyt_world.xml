@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 17 Aug 2026 07:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:01:07 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>קושנר מקיים שיחות עם חמאס לקידום תוכנית טראמפ לעזה</title>
@@ -21,11 +21,11 @@
       <importance>33</importance>
     </item>
     <item>
-      <title>מתקיפות ישראליות בלבנון נהרגו 9, אומרים גורמי בריאות</title>
-      <link>https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html</link>
-      <description>משרד הבריאות הלבנוני אמר כי מספר ילדים נהרגו בשביתה במהלך הלילה, אחד הפיגועים הקטלניים ביותר מזה חודשים. צבא ישראל אמר שהוא מכוון לתשתיות של חיזבאללה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-15T16:09:55+00:00</pubDate>
+      <title>ארה&quot;ב ואיראן פורצות את המועד האחרון להסכמה לעסקה רחבה לסיום המלחמה</title>
+      <link>https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html</link>
+      <description>הנשיא טראמפ אמר כי הפסקת אש שהוסכם ביוני תוביל להגבלות על תוכנית הגרעין של איראן ותסיים את הסכסוך, אך המדינות נראות רחוקות זו מזו.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-hfo-1-klhg/17int-iran-mou-hfo-1-klhg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-17T04:01:18+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
@@ -34,14 +34,6 @@
       <description>Azad, תוכנית דיונים מקוונת פופולרית, התמודדה עם נושאים שדוחפים את גבולות המערכת האוטוריטרית של איראן. יש מי ששאל איך זה נשאר באוויר.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-15T09:30:14+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>איראן אומרת שקטאר כבשה שלושה מטייסיה מוקדם במלחמה עם ארה&quot;ב</title>
-      <link>https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html</link>
-      <description>איראן מסרה כי אנשי הטיס מוחזקים מאז ה-2 במרץ, כאשר מטוסי הקרב שלהם הופלו. ממשלת קטאר לא הגיבה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-17T02:43:27+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
@@ -66,6 +58,14 @@
       <description>מוסאב אבו רוקבה, מפקד המשטרה לשעבר, עזב את אוסטריה לאחר שערער על עונשו של שמונה שנים על פשעים שבוצעו במהלך מלחמת האזרחים בסוריה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-15T15:28:28+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>'ג'ורג' יוקרתי', הרמאי המורשע במעגל הפנימי של נייג'ל פרג'</title>
+      <link>https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html</link>
+      <description>הבדיקה של המתנות והתמיכה שסיפק ג'ורג' קוטרל למר פרג', המנהיג הרפורמי של בריטניה, תימשך גם לאחר שניצח בבחירות המיוחדות בשבוע שעבר בקלקטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-posh-george-cjhm/13int-uk-posh-george-cjhm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-17T04:01:15+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
