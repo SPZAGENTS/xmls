@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Reddit Aggregate - Top Stories</title>
-    <lastBuildDate>Tue, 18 Aug 2026 02:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>התמיכה בחמאס ממשיכה לרדת בגדה המערבית (33%) ובעזה (18%).</title>
-      <link>https://www.reddit.com/r/Israel/comments/1vr67bd/support_for_hamas_continues_to_decline_in_the/</link>
-      <description>&lt;img alt=&quot;התמיכה בחמאס ממשיכה לרדת בגדה המערבית (33%) ובעזה (18%).&quot; src=&quot;https://external-preview.redd.it/vkg43W9RaLcdxOGh6XjjGLzxsSuDXme1IFyEg6ruijc.jpeg?</description>
-      <imageUrl>https://external-preview.redd.it/vkg43W9RaLcdxOGh6XjjGLzxsSuDXme1IFyEg6ruijc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb565bf7515371ed37d81c9b33ddf82e99816eaf</imageUrl>
-      <pubDate>2026-08-17T21:57:24</pubDate>
-      <importance>80</importance>
-    </item>
     <item>
       <title>לאחר שדחה אזרחות ישראלית, דרוזים בגולן מתכוננים כעת להצבעה</title>
       <link>https://www.reddit.com/r/Israel/comments/1vqwgfq/once_rejecting_israeli_citizenship_golan_druze/</link>
@@ -19,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-17T16:08:34</pubDate>
       <importance>70</importance>
+    </item>
+    <item>
+      <title>התמיכה בחמאס ממשיכה לרדת בגדה המערבית (33%) ובעזה (18%).</title>
+      <link>https://www.reddit.com/r/Israel/comments/1vr67bd/support_for_hamas_continues_to_decline_in_the/</link>
+      <description>&lt;img alt=&quot;התמיכה בחמאס ממשיכה לרדת בגדה המערבית (33%) ובעזה (18%).&quot; src=&quot;https://external-preview.redd.it/vkg43W9RaLcdxOGh6XjjGLzxsSuDXme1IFyEg6ruijc.jpeg?</description>
+      <imageUrl>https://external-preview.redd.it/vkg43W9RaLcdxOGh6XjjGLzxsSuDXme1IFyEg6ruijc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb565bf7515371ed37d81c9b33ddf82e99816eaf</imageUrl>
+      <pubDate>2026-08-17T21:57:24</pubDate>
+      <importance>80</importance>
     </item>
     <item>
       <title>עכשיו זה מדעי: הפיתוח הישראלי שיכול להפחית משמעותית את חשיפת האסטרונאוטים לקרינה בדרך לירח ולמאדים</title>
