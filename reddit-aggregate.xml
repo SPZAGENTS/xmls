@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Reddit Aggregate - Top Stories</title>
-    <lastBuildDate>Tue, 18 Aug 2026 07:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:00:50 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>לאחר שדחה אזרחות ישראלית, דרוזים בגולן מתכוננים כעת להצבעה</title>
@@ -53,6 +53,14 @@
       <importance>70</importance>
     </item>
     <item>
+      <title>הטעות הכי גדולה שיהודים עושים לגבי ישראל</title>
+      <link>https://www.reddit.com/r/Israel/comments/1vrcc4p/the_biggest_mistake_jews_make_about_israel/</link>
+      <description>הטעות הגדולה ביותר שיהודים עושים בנוגע לישראל, מאת יהושע הופמן, Future of Jewish, 2026-08-15. במשך כמעט 2,000 שנה,</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-18T02:21:01</pubDate>
+      <importance>60</importance>
+    </item>
+    <item>
       <title>מנהיגי האו&quot;ם הציתו להבה נצחית למפקד חמאס</title>
       <link>https://www.reddit.com/r/Israel/comments/1vqzhwj/un_leaders_lit_an_eternal_flame_for_a_hamas/</link>
       <description>&lt;img alt=&quot;מנהיגי האו&quot;ם הציתו להבה נצחית עבור מפקד חמאס&quot; src=&quot;https://external-preview.redd.it/IneaH4ZRDVjJJZleinjkMkmkQdaoE1Yi0yOZnjnRovE.png?width=640&amp;crop=smart&amp;am</description>
@@ -74,14 +82,6 @@
       <description>&lt;img alt=&quot;ישראלי מת בכלא פרואני, גופה מוחזרת לישראל — דיווחים&quot; src=&quot;https://external-preview.redd.it/pqULdPZF-5XqJFqQMUv4kOPvZBdNxnUU8YWKy3aKctE.png?widt</description>
       <imageUrl>https://external-preview.redd.it/pqULdPZF-5XqJFqQMUv4kOPvZBdNxnUU8YWKy3aKctE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=443e06395b4f9257c47f84eb0741f61539b43912</imageUrl>
       <pubDate>2026-08-17T15:53:55</pubDate>
-      <importance>60</importance>
-    </item>
-    <item>
-      <title>r/israel חזרה לאינטרנט</title>
-      <link>https://www.reddit.com/r/Israel/comments/1vqw3u9/risrael_is_back_online/</link>
-      <description>שלום לכולם, במהלך הימים האחרונים, r/Israel התמודדה עם כמות די משמעותית של פעילויות חטיבה, טרולים ושאר פעולות בחוסר תום לב. בשלב מסוים היה קשה להתמודד עם הכל</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-17T15:49:50</pubDate>
       <importance>60</importance>
     </item>
   </channel>
