@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 18 Aug 2026 12:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:01:08 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>ג'ארד קושנר פוגש את חמאס בנסיעה למזרח התיכון כדי לדחוף את הסכם עזה</title>
@@ -27,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-17T15:08:03+00:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>הרוסים מושכים מיליארדים מהבנקים, מחשש שהקרמלין יתפוס פיקדונות למלחמה</title>
+      <link>https://www.washingtonpost.com/world/2026/08/18/russians-pull-cash-banks-fearing-kremlin-will-seize-deposits-war/</link>
+      <description>הרוסים מושכים מיליארדים, גורמים לבעיות נזילות לבנקים ומערערים את יכולת הקרמלין להנפיק איגרות חוב למימון המאבק באוקראינה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-18T09:00:00+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
