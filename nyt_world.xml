@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 18 Aug 2026 05:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:01:06 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>קושנר פוגש את נתניהו במאמץ לשבור את הלוגם מעל עזה</title>
@@ -10,14 +10,6 @@
       <description>ראש ממשלת ישראל, בנימין נתניהו, סירב למשוך את צבא המדינה עד שהחמאס יתפרק לחלוטין מנשקו. אבל ממשל טראמפ נמצא בלחץ להראות התקדמות.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-17T21:23:29+00:00</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
-      <title>קושנר מקיים שיחות עם חמאס לקידום תוכנית טראמפ לעזה</title>
-      <link>https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html</link>
-      <description>יועצו של הנשיא נפגש עם נציגי הקבוצה הפלסטינית החמושה במצרים, אמרו כמה גורמים רשמיים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/16/multimedia/16trump-news-update-cvjg/16trump-news-update-cvjg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-16T21:16:17+00:00</pubDate>
       <importance>53</importance>
     </item>
     <item>
@@ -49,7 +41,7 @@
       <link>https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html</link>
       <description>מינויו של הנאמנים הקשוחים של האייתוללה מוג'טבה חמינאי למשרות בכירות מצביע על כך שהוא מוכן לשמור על המדינה על בסיס מלחמה ולבטל את ההתנגדות המקומית.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-assess-01-htwk/17int-iran-assess-01-htwk-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-17T09:42:00+00:00</pubDate>
+      <pubDate>2026-08-17T09:42:01+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -82,6 +74,14 @@
       <description>הנה כיצד גישה מהירה לתמונות לוויין מחזקת את אוקראינה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-17T20:38:44+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>'ג'ורג' יוקרתי', הרמאי המורשע במעגל הפנימי של נייג'ל פרג'</title>
+      <link>https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html</link>
+      <description>הבדיקה של המתנות והתמיכה שסיפק ג'ורג' קוטרל למר פרג', המנהיג הרפורמי של בריטניה, תימשך גם לאחר שניצח בבחירות המיוחדות בשבוע שעבר בקלקטון.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-posh-george-cjhm/13int-uk-posh-george-cjhm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-17T21:22:13+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
