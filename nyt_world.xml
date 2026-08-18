@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 18 Aug 2026 07:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:22:19 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>קושנר פוגש את נתניהו במאמץ לשבור את הלוגם מעל עזה</title>
@@ -26,14 +26,6 @@
       <description>הנשיא טראמפ אמר כי הפסקת אש שהוסכם ביוני תוביל להגבלות על תוכנית הגרעין של איראן ותסיים את הסכסוך, אך המדינות נראות רחוקות זו מזו.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-hfo-1-klhg/17int-iran-mou-hfo-1-klhg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-17T14:04:29+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>כאשר מלחמת איראן הופכת לקרב כלכלי, אסטרטגיה חדשה של ארה&quot;ב מזכירה את הישנים</title>
-      <link>https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html</link>
-      <description>ארצות הברית ואיראן מוכנות לעבור את המועד האחרון שהציבו לעצמן לתווך תנאים על שלום ותוכנית הגרעין של איראן.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-08-16T17:39:39+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
@@ -83,6 +75,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-posh-george-cjhm/13int-uk-posh-george-cjhm-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-17T21:22:13+00:00</pubDate>
       <importance>18</importance>
+    </item>
+    <item>
+      <title>כאשר מלחמת איראן הופכת לקרב כלכלי, אסטרטגיה חדשה של ארה&quot;ב מזכירה את הישנים</title>
+      <link>https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html</link>
+      <description>ארצות הברית ואיראן מוכנות לעבור את המועד האחרון שהציבו לעצמן לתווך תנאים על שלום ותוכנית הגרעין של איראן.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-08-16T17:39:39+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
