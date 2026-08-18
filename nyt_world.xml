@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 19 Aug 2026 00:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:01:05 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>קושנר פוגש את נתניהו במאמץ לשבור את הלוגם מעל עזה</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-17T21:23:29+00:00</pubDate>
       <importance>53</importance>
+    </item>
+    <item>
+      <title>תקיפה ישראלית קטלנית בעזה מעוררת ספקות לגבי תוכנית השלום של טראמפ</title>
+      <link>https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html</link>
+      <description>יממה לאחר ששליחו של הנשיא טראמפ, ג'ארד קושנר, ביקר בישראל כדי לקדם תוכנית תקועה לפירוז ובנייה מחדש של עזה, הצבא הישראלי אמר כי הוא מכוון למפקדי חמאס.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/18/multimedia/18int-gaza-1-zcwv/18int-gaza-1-zcwv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-18T21:13:16+00:00</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>החות'ים תובעים פגיעה בכלי סעודיה בעקבות הסלמה באלימות בים האדום</title>
@@ -49,7 +57,7 @@
       <link>https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html</link>
       <description>התקיפה באה בעקבות שורה של התערבויות צבאיות בסוריה בשנתיים האחרונות, ועוררה את התוכחה האמריקאית האחרונה בפעולות ישראל בשבועות האחרונים.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/18/world/middleeast/18vid-israel-strike-syria-cover-image/18vid-israel-strike-syria-cover-image-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-18T19:51:33+00:00</pubDate>
+      <pubDate>2026-08-18T21:16:37+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
@@ -74,14 +82,6 @@
       <description>בצ'וקו, אזור נידח, &quot;כאב, רעב וחוסר בית מחכים&quot; לניצולי רעידת האדמה בשבוע שעבר, אמר המושל. שאקירה ביקרה כדי לעזור לעורר מודעות.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/18/multimedia/18int-colombia-quake-choco-promo/18int-colombia-quake-choco-wfjl-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-18T16:32:08+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>בהלוויה של ראש הממשלה לשעבר ג'ו רונגג'י, העבר של סין מצל את ההווה שלו</title>
-      <link>https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html</link>
-      <description>בייג'ין רוצה לתאר את סין של היום כמי שמובילה את עידן הצמיחה של ג'ו רונג'י, אבל עבור סינים רבים, האופטימיות של אז התפוגגה מאז.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/18/multimedia/18int-china-funeral-tvch/18int-china-funeral-tvch-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-18T16:12:56+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
