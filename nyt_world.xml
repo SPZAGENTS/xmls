@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 19 Aug 2026 13:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:01:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>תקיפה ישראלית קטלנית בעזה מעוררת ספקות לגבי תוכנית השלום של טראמפ</title>
@@ -18,6 +18,14 @@
       <description>הגבלות מתגברות פגעו בכל חלק בעסקאות השטח, מה שמעורר דאגות אם הרשות הפלסטינית יכולה להישאר סולבנטית.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/18/multimedia/18int-WEST-BANK-ECONOMY-top-hjvl/18int-WEST-BANK-ECONOMY-top-hjvl-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-18T16:23:50+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>U.A.E מפסיק את קשרי הסחר עם איראן ואומר שזה היה ממוקד בטילים</title>
+      <link>https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html</link>
+      <description>האמירויות היו זה מכבר מרכז סחר מרכזי עבור איראן, ואנליסטים אומרים שזה היה המפתח למאמצים האיראניים להתחמק מהסנקציות הבינלאומיות, מה שהמדינה מכחישה.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/19/multimedia/19int-UAE-Iran-zctk/19int-UAE-Iran-zctk-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-19T10:39:49+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
@@ -57,7 +65,7 @@
       <link>https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html</link>
       <description>מיכאילו פדורוב, מנהיג צעיר פופולרי שפוטר בחודש שעבר, אמר שאסור לאפשר לרוסיה להכתיב מתי האוקראינים יוכלו לבחור את הממשלה הבאה שלהם.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/19/multimedia/19int-ukraine-fedorov-01-vtgb/19int-ukraine-fedorov-01-vtgb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-19T09:36:26+00:00</pubDate>
+      <pubDate>2026-08-19T09:36:27+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
@@ -74,14 +82,6 @@
       <description>בייג'ין רוצה לתאר את סין של היום כמי שמובילה את עידן הצמיחה של ג'ו רונג'י, אבל עבור סינים רבים, האופטימיות של אז התפוגגה מאז.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/18/multimedia/18int-china-funeral-tvch/18int-china-funeral-tvch-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-18T16:12:57+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>מסע של אמא להציל את בנה מאוקראינה הכבושה ברוסיה</title>
-      <link>https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html</link>
-      <description>הם עשו הצעה מסוכנת להתאחד לאחר שלוש שנים של פרידה, מחלה ומחסור - מסוג הנסיונות שעברו אלפים רבים של משפחות שנקרעו במלחמה במזרח אוקראינה.</description>
-      <imageUrl>https://static01.nyt.com/images/2025/12/16/multimedia/00int-ukraine-rescue-promo/00int-ukraine-rescue-1-cjlb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-18T20:55:38+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
