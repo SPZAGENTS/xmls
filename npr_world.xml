@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 20 Aug 2026 11:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>הצבא הישראלי פתח בחקירה פלילית אחר הרג של בני 5 ופרמדיקים</title>
@@ -11,6 +11,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-20T01:50:53-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>תמצית חדשות הבוקר</title>
+      <link>https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief</link>
+      <description>מדינות המפרץ מגיבות למלחמה ממושכת באיראן, החוב של ארה&quot;ב עולה על 40 טריליון דולר, חברות הנפט האמריקאיות חותמות על עסקאות ראשונות עם ונצואלה.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-20T04:52:29-04:00</pubDate>
+      <importance>27</importance>
     </item>
   </channel>
 </rss>

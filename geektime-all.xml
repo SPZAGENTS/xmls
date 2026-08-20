@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Thu, 20 Aug 2026 11:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>4 חודשים אחרי הסבב הקודם: Pentera מפטרת עוד 30 עובדים בישראל</title>
@@ -19,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-17T09:44:49+00:00</pubDate>
       <importance>29</importance>
+    </item>
+    <item>
+      <title>הלקוח לוחץ אבל אין לכם מושג למה המערכת איטית? זאת לא לגמרי אשמתכם</title>
+      <link>https://www.geektime.co.il/golden-path-to-observability/</link>
+      <description>מאת יובל סוסמנוביץ אתם בטח מכירים את התרחיש הבא: המערכת רצה בפרודקשן, המערכת נראת תקינה – אבל פתאום הלקוח מדווח שהיא איטית, או שאחד הפיצ'רים לא עובד כמצופה. אז אתם מתחילים לחפש: בוחנים את הלוגים במערכת אחת, עוברים על המטריקות במערכת שנייה, בודקים את ה-traces במערכת שלישית ומנסים להצליב את המידע ולהבין אם שורש הבעיה […] The post הלקוח לוחץ אבל אין לכם מושג למה המערכת איטית? זאת לא לגמרי אשמתכם appeared fi</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-20T08:31:17+00:00</pubDate>
+      <importance>19</importance>
     </item>
     <item>
       <title>אפל מפתיעה ומורידה את מחירי האייפונים בישראל</title>
@@ -74,14 +82,6 @@
       <description>עונת הנסיעות לחו&quot;ל בשיאה, ואחד הדברים שישראלים רבים עושים לפני הטיסה, לצד רכישת eSIM מתאים או ביטוח נסיעות, זה להוריד את אפליקציות הנסיעה המתאימות ליעד כמו Uber, Bolt או Lyft. אבל עבור חלק מהאנשים (לא שופטים אתכם), מדובר בהתעסקות מיותרת, והם פחות בקטע של התקנה, הרשמה, אימות מול חברות זרות, וכמובן, הזנת פרטי אשראי באתרים […] The post יותר טוב מ-Uber או Bolt? החל מהיום Gett זמינה גם בחו&quot;ל appeared first on</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-19T05:28:04+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>מיקרוסופט סוף סוף מתקנת את אחד הדברים הכי מעצבנים ב-Windows: התפריט</title>
-      <link>https://www.geektime.co.il/microsoft-windows-11-right-click-update/</link>
-      <description>כל מי שהשתמש אי פעם ב-Windows 11 מכיר את התסכול הזה: אתם עושים קליק-ימני, כלומר לוחצים על הכפתור הימני בעכבר כדי לבצע פעולה פשוטה על קובץ, ומקבלים תפריט חצי-אפוי ואיטי שחסרות בו מלא אפשרויות. ואז, כדי להגיע למה שאתם באמת צריכים, אתם צריכים ללחוץ על &quot;הצג אפשרויות נוספות&quot;, ורק אז מקבלים את התפריט המלא (והישן) […] The post מיקרוסופט סוף סוף מתקנת את אחד הדברים הכי מעצבנים ב-Windows: התפריט appe</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-18T14:22:29+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
