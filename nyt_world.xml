@@ -2,24 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 21 Aug 2026 10:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>ישראל פתחה בחקירה פלילית בנוגע להרג של הינד רג'ב ועובדי רפואה בעזה</title>
-      <link>https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html</link>
-      <description>שני מקרים מתוקשרים שעוררו גינוי בינלאומי להתנהלות המדינה בעזה הועברו למשטרה הצבאית. חקירות כאלה הובילו רק לעתים רחוקות להרשעות.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/19/multimedia/19int-Israel-idf-investigations-02-vflj/19int-Israel-idf-investigations-02-vflj-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-19T20:18:49+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
-      <title>מה לדעת על החזרה של הנסיך הארי ומייגן לבריטניה</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html</link>
-      <description>בני הזוג חוזרים לאחר שש שנים בארצות הברית. מה הם יעשו, ועוד הרבה, עדיין לא ברור.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-20T13:58:38+00:00</pubDate>
-      <importance>28</importance>
-    </item>
     <item>
       <title>2 חטיפות ב-4 ימים: עליות פיראטיות סומליות</title>
       <link>https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html</link>
@@ -49,7 +33,15 @@
       <link>https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</link>
       <description>במשך שבועות לא הייתה התקדמות דיפלומטית, אבל גם לא קרבות בקנה מידה מלא, שכן נראה ששני הצדדים מאמינים שהם יכולים להחזיק מעמד זמן רב יותר מהשני.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-20T17:14:53+00:00</pubDate>
+      <pubDate>2026-08-20T17:14:54+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
+      <title>איום טראמפ שם דגש על שותפי הסחר של איראן</title>
+      <link>https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html</link>
+      <description>הנשיא טראמפ הציע כי ארה&quot;ב תטיל עונשים כלכליים על מדינות שעושות עסקים עם איראן, אם כי הוא לא ציין אילו פעולות הוא ינקוט.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20xp-sanctions-china-topart-vctq/20xp-sanctions-china-topart-vctq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-21T07:13:24+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
@@ -58,14 +50,6 @@
       <description>לאחר שנים של תחנות כוח וערים, המלחמה האווירית של רוסיה פנתה לעבר מחסני הסופרמרקטים של אוקראינה.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-20T09:28:09+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>שר ההגנה לשעבר של אוקראינה קורא לבחירות, מלטף הפסקה עם זלנסקי</title>
-      <link>https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html</link>
-      <description>מיכאילו פדורוב, מנהיג צעיר פופולרי שפוטר בחודש שעבר, אמר שאסור לאפשר לרוסיה להכתיב מתי האוקראינים יוכלו לבחור את הממשלה הבאה שלהם.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/19/multimedia/19int-ukraine-fedorov-01-vtgb/19int-ukraine-fedorov-01-vtgb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-19T12:53:51+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
