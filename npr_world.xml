@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 21 Aug 2026 11:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>המלחמה באיראן והמכסים עולים לחקלאים. האם הרפובליקנים ישלמו בנובמבר?</title>
@@ -27,6 +27,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-20T12:49:11-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>תמצית חדשות הבוקר</title>
+      <link>https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief</link>
+      <description>טראמפ מאיים במסע לחץ כלכלי נגד איראן, SCOTUS לשקול אם פרויקט אולם הנשפים של טראמפ, משקיעים זורקים מניות ואג&quot;ח למרות מאמצי הממשלה להרגיע את השוק.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-21T04:46:00-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
