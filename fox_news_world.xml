@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Fox_News_World - Top Stories</title>
-    <lastBuildDate>Fri, 21 Aug 2026 13:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:02:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>טראמפ מאשר את הערוץ האחורי של משמרות המהפכה, אך קורא ל&quot;דגל הכניעה הלבן&quot; של איראן</title>
-      <link>https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender</link>
-      <description>טראמפ אישר ערוץ אחורי ישיר עם משמרות המהפכה לשיחות שלום ופרסם אזהרת הפצצה יוצאת דופן לעומאן עם תום הפסקת האש.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/donald-trump-phone-oval-office.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-08-17T08:10:59-04:00</pubDate>
-      <importance>42</importance>
-    </item>
     <item>
       <title>שר ההגנה הישראלי שם לב לכוח נאט&quot;ו כאשר המתיחות במזרח התיכון גוברת: &quot;הרפתקאות מסוכנות&quot;</title>
       <link>https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures</link>
@@ -21,20 +13,28 @@
       <importance>37</importance>
     </item>
     <item>
-      <title>קושנר מציב לחמאס אולטימטום חד: התפרק מנשקו או שישראל תקבל גיבוי של ארה&quot;ב כדי &quot;לסיים את העבודה&quot;</title>
-      <link>https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job</link>
-      <description>ג'ארד קושנר הזהיר את חמאס שעליו להתפרק מנשקו בתוך 60 עד 90 יום או להתמודד עם ישראל שתסיים את העבודה, לאחר פגישה נדירה פנים אל פנים בקהיר.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/jared-kushner-board-peace-washington-fox-news-001.jpeg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-08-17T19:00:43-04:00</pubDate>
-      <importance>37</importance>
-    </item>
-    <item>
       <title>הציונים הנוצרים לוקחים על עצמם 'תעמולה' אנטי-ישראלית מהלב המקראי</title>
       <link>https://www.foxnews.com/world/christian-zionists-take-on-anti-israel-propaganda-from-biblical-heartland</link>
       <description>החבר'ה לישראל חנכו מרכז מבקרים מרכזי בהר ברכה בגדה המערבית, והזמינו את הנוצרים בישראל לראות את ליבה התנכית של יהודה ושומרון ממקור ראשון.</description>
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/wallers-3.jpeg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-08-20T06:55:46-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>Hormuz crisis hides a deeper oil threat that could outlast the war</title>
+      <link>https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus</link>
+      <description>Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.</description>
+      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/irgc-navy-strait-hormuz-exercise.jpg?ve=1&amp;tl=1</imageUrl>
+      <pubDate>2026-08-23T06:00:56-04:00</pubDate>
+      <importance>27</importance>
+    </item>
+    <item>
+      <title>Woman in her 30s who pretended to be a child and lived with family found guilty of fraud</title>
+      <link>https://www.foxnews.com/world/woman-30s-pretended-child-lived-family-found-guilty-fraud</link>
+      <description>Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.</description>
+      <imageUrl>https://static.foxnews.com/foxnews.com/content/uploads/2026/08/oliveira-mug-shot-split.gif</imageUrl>
+      <pubDate>2026-08-22T21:22:40-04:00</pubDate>
+      <importance>27</importance>
     </item>
     <item>
       <title>איראן מנצלת את חבל ההצלה הפיננסי, הנשק הרוסי בזמן שטראמפ מסלים את הלוחמה הכלכלית 'המחצה'</title>
@@ -59,22 +59,6 @@
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cuba-city.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-08-19T11:23:14-04:00</pubDate>
       <importance>22</importance>
-    </item>
-    <item>
-      <title>שעון ההסכם עם איראן מגיע לאפס כאשר טראמפ דורש 'דגל לבן' עם מסע לחץ חדש בפתח</title>
-      <link>https://www.foxnews.com/world/iran-deal-clock-hits-zero-trump-demands-white-flag-new-pressure-campaign-looming</link>
-      <description>שר האוצר, סקוט בסן, מבטיח בידוד כלכלי חסר תקדים של איראן, כאשר המועד האחרון להסכם הגרעין של 60 יום עובר ללא הסכם סופי.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/trump-iran-nuclear-bomb-deal.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-08-17T13:59:50-04:00</pubDate>
-      <importance>22</importance>
-    </item>
-    <item>
-      <title>כלכלן המדינה הרוסי פוטר לאחר אזהרה חריפה לגבי עתידה הכלכלי של מוסקבה</title>
-      <link>https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future</link>
-      <description>VEB.RF, בנק הפיתוח של המדינה הרוסי, הכלכלן אנדריי קלפאך הזהיר שרוסיה מפסידה במלחמת ההתשה לפני יריתו, בעוד האיחוד האירופי מכין סנקציות גורפות.</description>
-      <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Andrei-Klepach.jpg?ve=1&amp;tl=1</imageUrl>
-      <pubDate>2026-08-17T11:43:35-04:00</pubDate>
-      <importance>17</importance>
     </item>
   </channel>
 </rss>

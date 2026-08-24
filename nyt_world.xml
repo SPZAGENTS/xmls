@@ -2,62 +2,86 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 21 Aug 2026 13:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:02:28 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
-      <title>2 חטיפות ב-4 ימים: עליות פיראטיות סומליות</title>
-      <link>https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html</link>
-      <description>מומחים חוששים שהסכסוך באיראן ודינמיקה אזורית אחרת מכינים את הבמה לקאמבק של פיראטים סומליים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-somalia-1-jbtg/20int-somalia-1-jbtg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-21T01:05:38+00:00</pubDate>
+      <title>U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations</title>
+      <link>https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html</link>
+      <description>Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-wwk-1-ztkm/22int-canada-trade-wwk-1-ztkm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T09:47:28+00:00</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Iran Warns Gulf States Not to Join Trump’s Economic War</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html</link>
+      <description>Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T17:00:10+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>המסר מאחורי האיומים של טראמפ על 'לוחמה כלכלית' נגד איראן</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html</link>
-      <description>האיומים של הנשיא טראמפ על &quot;יום D כלכלי&quot; נושאים איתות ברור לאיראן שהוא לא רוצה לחזור למלחמה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20dc-prexy01a-photo-jgzt/20dc-prexy01a-photo-jgzt-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-21T02:58:51+00:00</pubDate>
+      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
+      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T09:16:36+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
-      <title>צדקה מוסלמית בבריטניה עומדת בפני בדיקה של קשרים אפשריים לחמאס</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/muslim-charity-in-britain-possible-links-hamas.html</link>
-      <description>הרגולטורים הבריטיים חוקרים את קרן אל-ח'יר לאחר שהתובעים האמריקאים האשימו אדם המזוהה עם הקבוצה במימון טרור.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-uk-charity-1-tvjb/20int-uk-charity-1-tvjb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-21T09:04:05+00:00</pubDate>
+      <title>מה לדעת על התפרצות האבולה האחרונה</title>
+      <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
+      <description>ארגון הבריאות העולמי הכריז על מצב חירום בריאותי עולמי לאחר שכ-80 בני אדם מתו מהנגיף ברפובליקה הדמוקרטית של קונגו.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-ebola-wtk01a-photo-qwhj/23int-ebola-wtk01a-photo-qwhj-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-24T08:43:47+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
+      <title>Where Iran’s Young People Gather, the Government Sees Threats to Its Authority</title>
+      <link>https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html</link>
+      <description>In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-crackdown-01-gkch/24int-iran-crackdown-01-gkch-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-24T08:47:21+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
-      <title>טילים רוסיים הורגים לפחות 13 בקייב כשההגנה האווירית מתערערת</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html</link>
-      <description>מוסקבה מנצלת את מלאי המיירטים המדולדל של אוקראינה ומעצימה את ההתקפות, ומחמירה את מניין ההרוגים האזרחיים.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-20T14:20:37+00:00</pubDate>
+      <title>Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html</link>
+      <description>The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T14:10:00+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
-      <title>בעוד איראן וארה&quot;ב מתמודדות עם עימות לא פשוט, מי יצמץ ראשון?</title>
-      <link>https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</link>
-      <description>במשך שבועות לא הייתה התקדמות דיפלומטית, אבל גם לא קרבות בקנה מידה מלא, שכן נראה ששני הצדדים מאמינים שהם יכולים להחזיק מעמד זמן רב יותר מהשני.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-20T17:14:54+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>ג'ורג'יה מלוני חותכת את הימין הקשה בדרך לשלטון</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html</link>
-      <description>בראיון נדיר, המנודה הפוליטית של פעם משקפת את דרכה מ&quot;הצד הלא נוח של ההיסטוריה&quot; אל סף הנהגת הממשלה העמידה ביותר של איטליה לאחר המלחמה.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/11/multimedia/00int-meloni-profile-01-tmfc/00int-meloni-profile-01-tmfc-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-21T09:01:20+00:00</pubDate>
+      <title>Echoing Trump, Latin America’s Leaders Boost Allies Across Borders</title>
+      <link>https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</link>
+      <description>With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T09:01:52+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
-      <title>לג'ורג'יה מלוני יש הרבה מה לומר: הטייק אווי</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html</link>
-      <description>ראש ממשלת איטליה מוביל את מה שתהיה בקרוב הממשלה הארוכה ביותר בהיסטוריה שלאחר המלחמה של המדינה. היא מראה את עצמה בתורות מצחיקה ואכזרית בראיון נדיר.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/21/multimedia/21meloni-takeaways-1-kczl/21meloni-takeaways-1-kczl-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-21T09:04:12+00:00</pubDate>
+      <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</link>
+      <description>Bad harvests and attacks on trade passages threaten to drive food prices higher.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg</imageUrl>
+      <pubDate>2026-08-23T18:02:13+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>The Price of Bread</title>
+      <link>https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</link>
+      <description>War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-24T05:53:02+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Waking Up to an Escalating Canada-U.S. Trade War</title>
+      <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html</link>
+      <description>The two countries are locked in a potentially devastating tariff war after last-minute demands ended talks in Washington late Friday night.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/22/multimedia/22canadaletter-leblancembassy-gqjw/22canadaletter-leblancembassy-gqjw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-22T10:22:04+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
