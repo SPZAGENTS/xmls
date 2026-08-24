@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Mon, 24 Aug 2026 16:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Despite ceasefire, Israeli strikes still kill in Gaza and the West Bank</title>
@@ -15,16 +15,6 @@ Despite a ceasefire that has been in place since October 2025, violence continue
       <importance>58</importance>
     </item>
     <item>
-      <title>Middle East live: Iran warns of a harsh response to anticipated US sanctions</title>
-      <link>https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions</link>
-      <description>
-Iran’s foreign ministry spokesperson on Monday warned that Tehran would respond harshly to expanded US sanctions, including measures against countries it sees as cooperating with Washington. The prospect of expanded sanctions comes after weeks of impasse, with the United States having not yet dislodged Iran’s grip on shipping through the Strait of Hormuz. Follow our liveblog for the latest updates.
-</description>
-      <imageUrl>https://s.france24.com/media/display/20479e3e-9fa1-11f1-ab5c-005056bfb2b6/w:1024/p:16x9/000-C4CG2WF.jpg</imageUrl>
-      <pubDate>2026-08-24T12:50:27</pubDate>
-      <importance>53</importance>
-    </item>
-    <item>
       <title>102 former French and British ambassadors accuse Israel of ethnic cleansing</title>
       <link>https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing</link>
       <description>
@@ -32,6 +22,16 @@ Former British and French diplomats are urging action over what they say is Isra
       <imageUrl>https://s.france24.com/media/display/0151aad8-9e25-11f1-95fe-005056a90284/w:1024/p:16x9/2026-07-28T173818Z-1408717414-RC25NMACU30N-RTRMADP-3-PEOPLE-LINDSEY-GRAHAM.jpg</imageUrl>
       <pubDate>2026-08-22T12:30:20</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Middle East live: Iran warns of a harsh response to anticipated US sanctions</title>
+      <link>https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions</link>
+      <description>
+President Donald Trump on Monday said Iran is &quot;completely collapsing&quot; in a message posted on social media just hours before the US was set to announce details of new sanctions against Tehran. Iran’s foreign ministry has warned that Tehran will respond harshly to expanded sanctions, including measures against countries cooperating with Washington. Follow our liveblog for the latest updates.
+</description>
+      <imageUrl>https://s.france24.com/media/display/ac1a90c8-9fc0-11f1-8016-005056bfb2b6/w:1024/p:16x9/AP26236475592468.jpg</imageUrl>
+      <pubDate>2026-08-24T12:50:27</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Israeli strikes kill three, including child, in Gaza Strip</title>
@@ -93,14 +93,13 @@ Dozens of former senior French and UK diplomats on Saturday urged their governme
       <importance>33</importance>
     </item>
     <item>
-      <title>Israeli settlers kill Palestinian teen in the occupied West Bank</title>
-      <link>https://www.france24.com/en/israeli-settlers-kill-palestinian-teen-in-the-occupied-west-bank</link>
+      <title>US sanctions 'unlikely to get Tehran to bow down' despite effect on population</title>
+      <link>https://www.france24.com/en/us-sanctions-unlikely-to-get-tehran-to-bow-down-despite-effect-on-population</link>
       <description>
-Two Palestinians were killed Friday in the West Bank, one in Jenin, in the north, by Israeli army gunfire, and the other in the southern part of the territory by a settler, according to Palestinian sources and the army.
-</description>
-      <imageUrl>https://s.france24.com/media/display/1aac477c-9e07-11f1-a67f-005056a90284/w:1024/p:16x9/EN-20260822-100539-100703-CS.jpg</imageUrl>
-      <pubDate>2026-08-22T09:10:38</pubDate>
-      <importance>33</importance>
+Iran has warned that Tehran would respond harshly to expanded U.S. sanctions, including measures against countries it sees as cooperating with Washington. The expanded sanctions come after weeks of impasse. The United States has not dislodged Iran’s grip on the Strait of Hormuz, through which a fifth of the world’s traded oil passed before the war started nearly six months ago. Now, Washington is hoping the extra sanctions will bring change. FRANCE 24's Reza Sayah tells us about the atmosphere </description>
+      <imageUrl>https://s.france24.com/media/display/b35448ec-9d82-11f1-af0b-005056a97e36/w:1024/p:16x9/2026-05-18t123031z-169962266-rc2nblagco8j-rtrmadp-3-iran-crisis.jpg</imageUrl>
+      <pubDate>2026-08-24T12:34:40</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>
