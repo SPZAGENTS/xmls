@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Mon, 24 Aug 2026 14:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:01:07 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Morning news brief</title>
@@ -19,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-23T17:21:23-04:00</pubDate>
       <importance>27</importance>
+    </item>
+    <item>
+      <title>U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.</title>
+      <link>https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban</link>
+      <description>Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-24T07:27:44-04:00</pubDate>
+      <importance>22</importance>
     </item>
   </channel>
 </rss>
