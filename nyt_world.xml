@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 26 Aug 2026 01:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:01:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump Administration to Return Diplomats to Middle East Embassies</title>
@@ -53,6 +53,14 @@
       <importance>23</importance>
     </item>
     <item>
+      <title>U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
+      <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-25T22:58:03+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
       <title>Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs</title>
       <link>https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html</link>
       <description>Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.</description>
@@ -74,14 +82,6 @@
       <description>A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-rohingya-1-jgkb/25int-rohingya-1-jgkb-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-25T18:48:11+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>USA vs. Canada</title>
-      <link>https://www.nytimes.com/2026/08/25/world/us-canada-trade-war-dolly-parton.html</link>
-      <description>Our Canada bureau chief tells us how the countries got into a trade war and how people north of the border are experiencing the rift.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/26/multimedia/26int-theworld-canada-trade-promo/26int-theworld-canada-trade-promo-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-25T20:29:44+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
