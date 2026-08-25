@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 25 Aug 2026 16:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump Administration to Return Diplomats to Middle East Embassies</title>
@@ -25,7 +25,7 @@
       <link>https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html</link>
       <description>Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-birds-01-bthg/25int-oz-birds-01-bthg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-25T08:36:08+00:00</pubDate>
+      <pubDate>2026-08-25T08:36:09+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -74,6 +74,14 @@
       <description>In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-24T22:16:57+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>U.S. Removes Syria From Its List of Terrorism Sponsors</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html</link>
+      <description>The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25Syria-US-Sanctions-02-pglc/25Syria-US-Sanctions-02-pglc-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-25T13:03:53+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
