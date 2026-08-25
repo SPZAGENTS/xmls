@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Washington_Post - Top Stories</title>
-    <lastBuildDate>Tue, 25 Aug 2026 20:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>U.S. withdraws from military exercises with South Korea set for next month</title>
@@ -19,6 +19,22 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-24T22:22:05+00:00</pubDate>
       <importance>22</importance>
+    </item>
+    <item>
+      <title>Trump announces tariffs on Canadian vehicles, steel in escalation of trade war</title>
+      <link>https://www.washingtonpost.com/business/2026/08/24/trump-announces-tariffs-canadian-vehicles-steel-escalation-trade-war/</link>
+      <description>President Donald Trump offered no additional details about the levies, but he said they would take effect Jan. 1 — leaving time for the two sides to resume negotiations.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-24T15:09:02+00:00</pubDate>
+      <importance>22</importance>
+    </item>
+    <item>
+      <title>Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war</title>
+      <link>https://www.washingtonpost.com/politics/2026/08/25/trump-says-us-could-rename-lake-ontario-amid-canada-trade-war/</link>
+      <description>The president cited his tariff fight in a social media post, saying the United States doesn’t expect to be “doing much business with Ontario any longer.”</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-25T16:25:46+00:00</pubDate>
+      <importance>17</importance>
     </item>
   </channel>
 </rss>
