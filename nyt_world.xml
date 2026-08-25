@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 25 Aug 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:01:05 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals</title>
+      <link>https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html</link>
+      <description>Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-birds-01-bthg/25int-oz-birds-01-bthg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-25T04:01:08+00:00</pubDate>
+      <importance>28</importance>
+    </item>
     <item>
       <title>U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands</title>
       <link>https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html</link>
@@ -13,20 +21,12 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
-      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
-      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-23T09:16:37+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals</title>
-      <link>https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html</link>
-      <description>Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-birds-01-bthg/25int-oz-birds-01-bthg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-25T04:01:08+00:00</pubDate>
-      <importance>28</importance>
+      <title>How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
+      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
+      <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-25T05:12:26+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>Where Iran’s Young People Gather, the Government Sees Threats to Its Authority</title>
@@ -53,22 +53,6 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections</title>
-      <link>https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html</link>
-      <description>The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-23T14:10:00+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
-      <title>How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
-      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
-      <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-25T05:12:25+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
       <title>A New Effort to Punish Iran</title>
       <link>https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html</link>
       <description>The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.</description>
@@ -77,11 +61,27 @@
       <importance>23</importance>
     </item>
     <item>
+      <title>Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html</link>
+      <description>The Ukrainian president repeated his long-held position that elections in the middle of war would tear his country apart.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/23/multimedia/23int-ukraine-elections-01-glhw/23int-ukraine-elections-01-glhw-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-23T14:10:00+00:00</pubDate>
+      <importance>23</importance>
+    </item>
+    <item>
       <title>UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings</title>
       <link>https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html</link>
       <description>In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-24T22:16:57+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>The Price of Bread</title>
+      <link>https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</link>
+      <description>War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-24T05:53:02+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
