@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 26 Aug 2026 12:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>What to Know About Bank Melli, Singled Out in U.S. Call for Economic War</title>
-      <link>https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html</link>
-      <description>Bank Melli, Iran’s largest lender, already faces waves of sanctions that severely limit its ability to operate abroad. Every foreign branch must be shut down, Treasury Secretary Scott Bessent said.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/26/multimedia/26int-iran-bank-melli-lgjh/26int-iran-bank-melli-lgjh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-26T04:01:06+00:00</pubDate>
-      <importance>43</importance>
-    </item>
     <item>
       <title>Trump Administration to Return Diplomats to Middle East Embassies</title>
       <link>https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html</link>
@@ -45,6 +37,14 @@
       <importance>28</importance>
     </item>
     <item>
+      <title>Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict</title>
+      <link>https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html</link>
+      <description>Artifacts from Byblos have been on display in Paris in a show that highlights how modern-day conflict in the Middle East imperils the cultural heritage of the region.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-26T09:02:23+00:00</pubDate>
+      <importance>28</importance>
+    </item>
+    <item>
       <title>Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home</title>
       <link>https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html</link>
       <description>Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.</description>
@@ -61,14 +61,6 @@
       <importance>23</importance>
     </item>
     <item>
-      <title>U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil</title>
-      <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
-      <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-25T22:58:03+00:00</pubDate>
-      <importance>23</importance>
-    </item>
-    <item>
       <title>Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs</title>
       <link>https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html</link>
       <description>Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.</description>
@@ -82,6 +74,14 @@
       <description>The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25Syria-US-Sanctions-02-pglc/25Syria-US-Sanctions-02-pglc-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-25T13:03:53+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Airstrikes and Illegal Mining Add to Myanmar’s Troubles</title>
+      <link>https://www.nytimes.com/2026/08/25/world/asia/myanmar-junta-violence-rohingya.html</link>
+      <description>A thriving ‘conflict economy’ is extracting minerals while the military and armed groups inflict abuse on civilians, according to a new report on the scale of recent violence in Myanmar.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-rohingya-1-jgkb/25int-rohingya-1-jgkb-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-26T06:55:51+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>

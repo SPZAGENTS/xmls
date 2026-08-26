@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Wed, 26 Aug 2026 12:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:00:59 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>US-led Gaza peace board warns Hamas over kites after Israeli threat</title>
@@ -53,14 +53,6 @@ Israeli Prime Minister Benjamin Netanyahu said on Monday that Iran had attempted
       <importance>48</importance>
     </item>
     <item>
-      <title>What to Know About Bank Melli, Singled Out in U.S. Call for Economic War</title>
-      <link>https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html</link>
-      <description>Bank Melli, Iran’s largest lender, already faces waves of sanctions that severely limit its ability to operate abroad. Every foreign branch must be shut down, Treasury Secretary Scott Bessent said.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/26/multimedia/26int-iran-bank-melli-lgjh/26int-iran-bank-melli-lgjh-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-26T04:01:06+00:00</pubDate>
-      <importance>43</importance>
-    </item>
-    <item>
       <title>France and Saudi Arabia hold talks ranging from Middle East to esports</title>
       <link>https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports</link>
       <description>
@@ -93,6 +85,14 @@ Mohammed bin Salman has arrived in Paris for a two-day official visit with Frenc
       <imageUrl>https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/israeli-figther-jet.jpg?ve=1&amp;tl=1</imageUrl>
       <pubDate>2026-08-20T13:12:38-04:00</pubDate>
       <importance>37</importance>
+    </item>
+    <item>
+      <title>Israeli Lawmaker Smashes Palestinian Monument in West Bank</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html</link>
+      <description>Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25int-westbank-monument-ckfl/25int-westbank-monument-ckfl-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-25T18:52:03+00:00</pubDate>
+      <importance>33</importance>
     </item>
   </channel>
 </rss>
