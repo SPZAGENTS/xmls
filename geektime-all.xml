@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Thu, 27 Aug 2026 08:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>הסטארטאפ הישראלי שמגן על אנת'רופיק ו-NVIDIA גייס 140 מיליון דולר</title>
@@ -19,6 +19,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-26T07:42:17+00:00</pubDate>
       <importance>24</importance>
+    </item>
+    <item>
+      <title>אנבידיה בדרך לרכוש את Hugging Face ב-12.9 מיליארד דולר</title>
+      <link>https://www.geektime.co.il/nvidia-is-about-to-acquire-hugging-face-for-12-9b/</link>
+      <description>על פי דיווח חדש, NVIDIA קרובה לאחת מהרכישות המשמעותיות בתולדותיה. על פי הדיווח, מפלצת השבבים האמריקאית תנצל את הררי המזומנים שלה כדי לרכוש את אחת מפלטפורמות ה-AI החשובות בעולם תמורת מיליארדי דולרים, בעסקה שתבסס את מעמדה של NVIDIA בתעשיית ה-AI, ותחזק אותה בתחום שבו היא עדיין לא נחשבת לשחקנית משמעותית. מאגפת את תחום ה-AI על […] The post אנבידיה בדרך לרכוש את Hugging Face ב-12.9 מיליארד דולר</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-27T05:49:10+00:00</pubDate>
+      <importance>19</importance>
     </item>
     <item>
       <title>רשמי: יש תאריך לאירוע ההכרזה של האייפון הבא</title>
@@ -74,14 +82,6 @@
       <description>מאת: רו&quot;ח אייל סנדו מייסדת שמחזיקה מניות בחברה זרה עוברת לעמק הסיליקון, חוזרת לישראל אחרי יותר מעשור, עוזבת שוב ולבסוף מוכרת את המניות באקזיט. זה כבר לא תרחיש חריג במיוחד בהייטק, אבל מבחינת מס הוא עלול להיות מורכב. הסיבה היא שישראל עשויה להסתכל לא רק על יום האקזיט, אלא על כל הדרך שעברו המניות יחד […] The post אקזיט אחרי רילוקיישן עלול להפוך אתכם לכספומט של רשות המיסים, אבל יש מה לעשות appeared first on &lt;a href=</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-25T10:12:43+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>חולשה ב-SDK של AWS סיכנה אלפי חברות</title>
-      <link>https://www.geektime.co.il/aws-sdk-vulnerability-pi-security/</link>
-      <description>כשאתם משתמשים ב-API של AWS, אתם סומכים על זה שה-SDK מדבר אך ורק עם השרתים של אמזון. אבל מתברר שזה לא תמיד המצב. לפחות לא תמיד הוא היה. ככה טוענים בחברת אבטחת המידע הישראלית Pi, שגילתה שבאמצעות מניפולציה פשוטה של מחרוזת ה-Region, אפשר היה לגרום ל-SDK לנתב בקשות ישירות לשרתים של תוקפים. &quot;הרבה יותר גדול […] The post חולשה ב-SDK של AWS סיכנה אלפי חברות appeared first on &lt;a href=&quot;https://www.geektime.co.il</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-25T09:03:29+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
