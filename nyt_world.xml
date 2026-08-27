@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Thu, 27 Aug 2026 14:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:01:05 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/26/multimedia/26un-speech-gaza-01-qptj/26un-speech-gaza-01-qptj-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-26T16:16:09+00:00</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>ראש ממשלת קטאר נוסע לטהראן כאשר מלחמת איראן מתקרבת ל-6 חודשים</title>
+      <link>https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html</link>
+      <description>השייח' מוחמד בן עבדולרחמן אל ת'אני היה מתווך מרכזי בסכסוך, גם כשמדינתו האשימה את טהראן במאות התקפות טילים ומזל&quot;טים.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27iran-qatar-fwtz/27iran-qatar-fwtz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-27T11:38:41+00:00</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Scenes From a Destroyed Barbershop in Lebanon</title>
@@ -31,9 +39,9 @@
     <item>
       <title>Live Updates: Rescuers Scour Himalayan Valleys for Survivors After Deadly Flood</title>
       <link>https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods</link>
-      <description>More than 1,000 people were missing in Nepal and the Tibet region of China after a torrent of mud, water and ice swept away villages and bridges. Officials said 273 people had been confirmed killed.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/27/world/27nepal-live-promo-6am-ET/27nepal-live-promo-6am-ET-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-27T10:54:10+00:00</pubDate>
+      <description>More than 1,000 people were missing in Nepal and the Tibet region of China after a torrent of mud, water and ice swept away villages and bridges. Officials said at least 335 people had been killed.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27nepal-live-promo-8am-ET-qvcm/27nepal-live-promo-8am-ET-qvcm-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-27T11:56:08+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -66,14 +74,6 @@
       <description>The Delta system pulls together battlefield data to identify targets, creating a miles-wide “kill zone.” The technology is credited with helping to cut Russian advances to a near standstill.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/25/multimedia/25ukraine-software-03-bmwv/25ukraine-software-03-bmwv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-26T15:38:54+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War</title>
-      <link>https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html</link>
-      <description>Business owners are preparing for financial pain after the latest U.S.-Canada trade talks collapsed. But many Canadians are embracing a show of resistance.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/26/multimedia/26int-canada-trade-spirit-vgkw/26int-canada-trade-spirit-vgkw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-26T20:59:13+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
