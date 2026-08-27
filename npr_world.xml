@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Thu, 27 Aug 2026 09:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:00:51 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks</title>
+      <link>https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire</link>
+      <description>The official in charge of President  Trump's ceasefire plan for Gaza criticized Israel for its attacks on the Palestinian territory and warned that the alternative to the U.S. proposal is the next war.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-27T02:04:56-04:00</pubDate>
+      <importance>47</importance>
+    </item>
     <item>
       <title>Judge clears the way for Postal Service work on Trump's mail-in voting order for now</title>
       <link>https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots</link>
@@ -26,14 +34,6 @@
       <description>The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters' minds.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-26T10:58:58-04:00</pubDate>
-      <importance>17</importance>
-    </item>
-    <item>
-      <title>California says states, Meta agree to $17 billion settlement in child safety trial</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit</link>
-      <description>The social media giant also agreed to make sweeping changes to Instagram and Facebook.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-26T09:33:39-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
