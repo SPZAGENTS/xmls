@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:01:04 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Why Many Iranians Are Losing Hope After Six Months of War</title>
@@ -25,7 +25,7 @@
       <link>https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods</link>
       <description>A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-flood-promo-4PM-vcpz/28nepal-flood-promo-4PM-vcpz-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-28T20:46:22+00:00</pubDate>
+      <pubDate>2026-08-28T21:53:57+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -42,6 +42,14 @@
       <description>The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/00int-malaysia-rohingya-ljpv/00int-malaysia-rohingya-ljpv-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-28T09:04:28+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>A Melting Glacier in Nepal Was a Time Bomb. There Are More to Come.</title>
+      <link>https://www.nytimes.com/2026/08/28/climate/climate-forward-nepal-disaster.html</link>
+      <description>A geologist reflects on the disaster and explains why rapid warming will make deadly glacial floods far more common.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27cli-glaciers-01-bwmg/27cli-glaciers-01-bwmg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-28T21:04:05+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
