@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Npr_World - Top Stories</title>
-    <lastBuildDate>Fri, 28 Aug 2026 23:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>This house trumpets its history in the face of gentrification. Now it's a landmark</title>
-      <link>https://www.npr.org/2026/08/28/nx-s1-5921391/san-francisco-latin-rock-house-gentrification</link>
-      <description>A house in San Francisco covered in the painted faces of Latin rock artists was formally landmarked by the city. Its neighborhood has seen skyrocketing home prices and decades of redevelopment.&lt;br&gt;&lt;br&gt;</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-28T05:00:00-04:00</pubDate>
-      <importance>37</importance>
-    </item>
     <item>
       <title>After 6 months of war, Iran's battered regime remains entrenched</title>
       <link>https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war</link>
@@ -34,6 +26,14 @@
       <description>As the death toll rises from flash floods that hit the Nepal-Tibet border, experts are warning more flooding could be on the way. And, Fed Chairman Kevin Warsh is expected to give a key address today.</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-28T07:01:11-04:00</pubDate>
+      <importance>17</importance>
+    </item>
+    <item>
+      <title>A melting glacier contributed to the deadly Nepal floods. We can expect more like this</title>
+      <link>https://www.npr.org/2026/08/28/nx-s1-5945799/nepal-floods-climate-change-himalayas</link>
+      <description>As the climate continues to warm, scientists warn that the frequency of disasters like the floods in Nepal will increase.</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-28T05:00:00-04:00</pubDate>
       <importance>17</importance>
     </item>
   </channel>
