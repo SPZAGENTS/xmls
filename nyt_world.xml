@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Fri, 28 Aug 2026 17:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:00:57 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>Live Updates: New Nepal Flood Warning Complicates Desperate Himalayan Search</title>
-      <link>https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods</link>
-      <description>The Nepali police warned people to head for safety because more water could soak flood-ravaged villages. China said that the risk of a Tibetan lake overflowing had “gradually decreased.”</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/28nelal-live-promo-915am-ET-loke/28nelal-live-promo-645am-et-kcpw-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-28T13:43:13+00:00</pubDate>
-      <importance>33</importance>
-    </item>
     <item>
       <title>Why Many Iranians Are Losing Hope After Six Months of War</title>
       <link>https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html</link>
@@ -35,6 +27,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/20/multimedia/00int-saudis-houthis-1-hfwt/00int-saudis-houthis-1-hfwt-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-27T11:59:44+00:00</pubDate>
       <importance>33</importance>
+    </item>
+    <item>
+      <title>Live Updates: New Nepal Flood Warning Complicates Desperate Himalayan Search</title>
+      <link>https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods</link>
+      <description>A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-flood-promo-10AM-bhpz/28nepal-flood-promo-10AM-bhpz-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-28T14:50:55+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>Six Months In, Iran Appears Stronger and U.S. Goals Unclear</title>
