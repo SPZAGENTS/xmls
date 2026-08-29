@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:00:55 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.</title>
@@ -26,6 +26,14 @@
       <description>Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/29/multimedia/29int-turkey-israel-rivarly-01-qtvg/29int-turkey-israel-rivarly-01-qtvg-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-29T09:03:50+00:00</pubDate>
+      <importance>33</importance>
+    </item>
+    <item>
+      <title>Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes</title>
+      <link>https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html</link>
+      <description>The ferocity of Saturday’s assault prompted condemnations from Benjamin Netanyahu and other officials.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/29/multimedia/29int-westbank-qusra-tqwg/29int-westbank-qusra-tqwg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-29T21:54:49+00:00</pubDate>
       <importance>33</importance>
     </item>
     <item>
@@ -74,14 +82,6 @@
       <description>After trade talks collapsed, Mark Carney rallied the nation, Canadian businesses stood defiant, and President Trump moved to rename Lake Ontario.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/29/multimedia/29int-canada-letter-gvfp/29int-canada-letter-gvfp-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-29T10:00:05+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Fast Forward</title>
-      <link>https://www.nytimes.com/2026/08/29/briefing/fast-forward.html</link>
-      <description>How do we balance our desire for modern conveniences with our nostalgia for the uncomplicated felicity of our pre-internet past?</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-29T09:22:54+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
