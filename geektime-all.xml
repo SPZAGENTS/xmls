@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 16:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>לפני שנת הלימודים: מיקרוסופט מזכירה שאתם יכולים לקבל אופיס בחינם</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-29T08:42:23+00:00</pubDate>
       <importance>24</importance>
+    </item>
+    <item>
+      <title>המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין</title>
+      <link>https://www.geektime.co.il/ai-agent-architecture-context-window-solution/</link>
+      <description>מאת: יהודה נוימן לפני כמה חודשים ביקשתי מסוכן AI שאני בונה לנתח ריפו גדול. זה התחיל מבטיח – הוא קרא קבצים, מיפה תלויות, לרגע נראה בדיוק כמו הדמו שמריצים רגע לפני סבב גיוס – ואז נחנק. עצרתי את הריצה והסתכלתי על המספרים: הניתוח דרש 633 אלף טוקנים, לתוך חלון קונטקסט של 131 אלף. הרצתי על […] The post המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין appeared first</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-08-31T13:05:24+00:00</pubDate>
+      <importance>19</importance>
     </item>
     <item>
       <title>אנת'רופיק טוענת שצ'יפרה את המשתמשים בקלוד קוד, הם טוענים לפגיעה, ואיכשהו כולם צודקים</title>
@@ -74,14 +82,6 @@
       <description>נשיא ארצות הברית, דונאלד טראמפ, חתם במהלך סוף השבוע על צו נשיאותי, שמשנה רשמית את שמה של &quot;ימת אונטריו&quot; ל&quot;ימת אמריקה&quot;. המהלך מתרחש על רקע מלחמת הסחר שפרצה בין ארצות הברית לקנדה, וכוללת הטלת מכסים הדדיים על סחורות בשווי מיליארדי דולרים. עכשיו, בעקבות ההטרלה המוצלחת של טראמפ, גם האגם, שמהווה גבול טבעי בין שתי המדינות, […] The post גוגל מתיישרת לפי טראמפ: מחליפה את השם של ימת אונטריו appeared first on</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-30T14:22:57+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>בעקבות הרכישה של מאסק: OpenAI חוסמת את Cursor</title>
-      <link>https://www.geektime.co.il/openai-will-end-deal-with-cursor-because-of-elon-musk/</link>
-      <description>iOS נגד אנדרואיד. פלייסטיישן נגד אקסבוקס, AWS נגד Azure. לא חסרות יריבויות בעולם הטכנולוגיה, אבל נדמה שאין יריבות לוהטת יותר מזו של OpenAI. מה אין שם? כסף גדול, טכנולוגיה, מאבק על טאלנטים, התחום הכי חם בעולם כרגע, ובעיקר בעיקר הרבה ביף אישי בין סם אלטמן לאילון מאסק. השותפים לשעבר לא מפסיקים להתקוטט בכל הזדמנות, ועכשיו […] The post בעקבות הרכישה של מאסק: OpenAI חוסמת את Cursor appeared</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-30T08:44:04+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
