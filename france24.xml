@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>France24 - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 13:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:01:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East Live: US strikes Iran for first time in a month, Tehran retaliates</title>
@@ -12,16 +12,6 @@ US forces struck what they described as Iranian rocket launchers on the Strait o
 </description>
       <imageUrl>https://s.france24.com/media/display/803bfff6-9ca4-11f1-a549-005056bf30b7/w:1024/p:16x9/2026-08-19T143107Z-71025016-RC2VXMAQM9SU-RTRMADP-3-IRAN-CRISIS-USA-CARRIER.jpg</imageUrl>
       <pubDate>2026-08-30T23:02:17</pubDate>
-      <importance>63</importance>
-    </item>
-    <item>
-      <title>US-led Gaza peace board warns Hamas over kites after Israeli threat</title>
-      <link>https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat</link>
-      <description>
-The US-led board overseeing the Gaza peace plan warned Hamas on Tuesday to halt militant activity, including flying kites, after Israel threatened retaliatory strikes. A Board of Peace official said Israel must also respect the ceasefire, limiting military action to responses to “genuine and imminent threats.”
-</description>
-      <imageUrl>https://s.france24.com/media/display/71071d0c-a0ca-11f1-bdf3-005056bfb2b6/w:1024/p:16x9/ES-20260825-121107-121253-CS.jpg</imageUrl>
-      <pubDate>2026-08-25T21:49:37</pubDate>
       <importance>63</importance>
     </item>
     <item>
@@ -89,14 +79,24 @@ Israel's military said it carried out an air strike in the Jenin area in the Wes
       <importance>43</importance>
     </item>
     <item>
-      <title>US forces strike Iranian launchers on Larak island in Strait of Hormuz</title>
-      <link>https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz</link>
+      <title>Relentless heat worsens Gaza's ongoing struggle to access water</title>
+      <link>https://www.france24.com/en/relentless-heat-worsens-gaza-s-ongoing-struggle-to-access-water</link>
       <description>
-US forces struck Iranian rocket launchers on the Strait of Hormuz in the first military action in a month, a US official said Sunday. ⁠Iran's ⁠Revolutionary ​Guards ​said the attack on Larak ​island ‌killed and wounded ⁠several Iranian fighters and ​civilians, and ‌vowed to punish those ​responsible.
+In Gaza, securing drinking water is a relentless daily struggle. The war with Israel has destroyed critical water and sanitation infrastructure, and as temperatures soar, the extreme heat is escalating an already severe shortage into a deadly humanitarian crisis. Two and a half years of war with Israel have damaged or destroyed nearly 90% of Gaza’s water and sanitation infrastructure according to UNICEF.
 </description>
-      <imageUrl>https://s.france24.com/media/display/8e6966dc-a4af-11f1-a8ee-005056bf30b7/w:1024/p:16x9/000-C4AZ2KD.jpg</imageUrl>
-      <pubDate>2026-08-30T20:27:09</pubDate>
-      <importance>33</importance>
+      <imageUrl>https://s.france24.com/media/display/240c99ec-a529-11f1-8aad-005056bf30b7/w:1024/p:16x9/capture-9629343336a955b618609c3-22073425.jpg</imageUrl>
+      <pubDate>2026-08-31T10:49:13</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
+      <title>Iran, US trade fire in first exchange in a month</title>
+      <link>https://www.france24.com/en/video/20260831-iran-us-trade-fire-in-first-exchange-in-a-month</link>
+      <description>
+Iran attacked US military targets in the Middle East on Monday in retaliation following American strikes on an island in the Strait of Hormuz, the first exchange of fire for a month in a war that has engulfed the region.
+</description>
+      <imageUrl>https://s.france24.com/media/display/3fa00686-a528-11f1-a2b8-005056bfb2b6/w:1024/p:16x9/mini-29.jpg</imageUrl>
+      <pubDate>2026-08-31T10:49:03</pubDate>
+      <importance>38</importance>
     </item>
   </channel>
 </rss>

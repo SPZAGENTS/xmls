@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 13:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:01:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East Live: US strikes Iran for first time in a month, Tehran retaliates</title>
@@ -12,16 +12,6 @@ US forces struck what they described as Iranian rocket launchers on the Strait o
 </description>
       <imageUrl>https://s.france24.com/media/display/803bfff6-9ca4-11f1-a549-005056bf30b7/w:1024/p:16x9/2026-08-19T143107Z-71025016-RC2VXMAQM9SU-RTRMADP-3-IRAN-CRISIS-USA-CARRIER.jpg</imageUrl>
       <pubDate>2026-08-30T23:02:17</pubDate>
-      <importance>63</importance>
-    </item>
-    <item>
-      <title>US-led Gaza peace board warns Hamas over kites after Israeli threat</title>
-      <link>https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat</link>
-      <description>
-The US-led board overseeing the Gaza peace plan warned Hamas on Tuesday to halt militant activity, including flying kites, after Israel threatened retaliatory strikes. A Board of Peace official said Israel must also respect the ceasefire, limiting military action to responses to “genuine and imminent threats.”
-</description>
-      <imageUrl>https://s.france24.com/media/display/71071d0c-a0ca-11f1-bdf3-005056bfb2b6/w:1024/p:16x9/ES-20260825-121107-121253-CS.jpg</imageUrl>
-      <pubDate>2026-08-25T21:49:37</pubDate>
       <importance>63</importance>
     </item>
     <item>
@@ -95,6 +85,14 @@ Israel's military said it carried out an air strike in the Jenin area in the Wes
       <imageUrl>https://s.france24.com/media/display/fd7979b0-a2f5-11f1-9ae1-005056bf30b7/w:1024/p:16x9/2026-08-28T152358Z-1191338275-RC2R7NA7VEHT-RTRMADP-3-ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE.jpg</imageUrl>
       <pubDate>2026-08-28T17:14:47</pubDate>
       <importance>43</importance>
+    </item>
+    <item>
+      <title>School starts soon in Lebanon but thousands still shelter in them during war</title>
+      <link>https://abcnews.com/International/wireStory/school-starts-lebanon-thousands-shelter-war-136081906</link>
+      <description>Families sheltering in a school in Lebanon's city of Tyre are some of the hundreds of thousands of people displaced by the latest conflict between Israel and Hezbollah</description>
+      <imageUrl>https://s.abcnews.com/images/International/wirestory_e2fbcb914de19fd9b24e79498e219e43_4x3_384.jpg</imageUrl>
+      <pubDate>2026-08-31T06:41:36-04:00</pubDate>
+      <importance>42</importance>
     </item>
   </channel>
 </rss>
