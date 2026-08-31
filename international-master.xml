@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 19:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Latest flare-up between US and Iran bring conflict's lull to an end</title>
@@ -20,6 +20,16 @@ Iran's foreign minister has accused Israel's Benjamin Netanyahu of tricking the 
       <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27westbank-tour-01-fcqz/27westbank-tour-01-fcqz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-31T09:00:40+00:00</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’</title>
+      <link>https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt</link>
+      <description>
+A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ago off the coast of Tel Aviv at the orders of Israel’s founders. The discovery of its wreckage last week has given the country’s right-wing government ammunition to target the left and attempt to redirect the campaign for legislative elections in October.
+</description>
+      <imageUrl>https://s.france24.com/media/display/0ab78be2-a2bc-11f1-a8e8-005056bfb2b6/w:1024/p:16x9/Altalena-off-Tel-Aviv-beach.jpg</imageUrl>
+      <pubDate>2026-08-31T16:54:13</pubDate>
+      <importance>48</importance>
     </item>
     <item>
       <title>Middle East Live: US strikes Iran for first time in a month, Tehran retaliates</title>
@@ -84,14 +94,6 @@ Israel's military said it carried out an air strike in the Jenin area in the Wes
       <imageUrl>https://s.france24.com/media/display/fd7979b0-a2f5-11f1-9ae1-005056bf30b7/w:1024/p:16x9/2026-08-28T152358Z-1191338275-RC2R7NA7VEHT-RTRMADP-3-ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE.jpg</imageUrl>
       <pubDate>2026-08-28T17:14:47</pubDate>
       <importance>43</importance>
-    </item>
-    <item>
-      <title>School starts soon in Lebanon but thousands still shelter in them during war</title>
-      <link>https://abcnews.com/International/wireStory/school-starts-lebanon-thousands-shelter-war-136081906</link>
-      <description>Families sheltering in a school in Lebanon's city of Tyre are some of the hundreds of thousands of people displaced by the latest conflict between Israel and Hezbollah</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_e2fbcb914de19fd9b24e79498e219e43_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-31T06:41:36-04:00</pubDate>
-      <importance>42</importance>
     </item>
   </channel>
 </rss>
