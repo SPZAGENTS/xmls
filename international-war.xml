@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 12:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East Live: US strikes Iran for first time in a month, Tehran retaliates</title>
@@ -82,20 +82,22 @@ After six months of war, Iran’s leadership has coalesced around a hard core of
       <importance>33</importance>
     </item>
     <item>
-      <title>Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes</title>
-      <link>https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html</link>
-      <description>The intensity of Saturday’s assault prompted condemnations from Prime Minister Benjamin Netanyahu of Israel and other officials.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/29/multimedia/29int-westbank-qusra-tqwg/29int-westbank-qusra-tqwg-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-29T23:13:14+00:00</pubDate>
-      <importance>33</importance>
-    </item>
-    <item>
       <title>Iran's supreme leader calls for Muslim unity against US and Israel, and other Mideast news</title>
       <link>https://abcnews.com/International/wireStory/irans-supreme-leader-calls-muslim-unity-us-israel-136068585</link>
       <description>Iran&amp;rsquo;s supreme leader has called for Muslim countries to stand together against Israel and the United States</description>
       <imageUrl>https://s.abcnews.com/images/International/wirestory_49cf07bcd4f9166f93f51136892d76a6_4x3_384.jpg</imageUrl>
       <pubDate>2026-08-31T04:25:42-04:00</pubDate>
       <importance>32</importance>
+    </item>
+    <item>
+      <title>Iran, Qatar hold Hormuz talks as US blockade chokes Iran oil imports</title>
+      <link>https://www.france24.com/en/middle-east/20260827-iran-qatar-hold-hormuz-talks-as-us-blockade-chokes-iran-oil-imports</link>
+      <description>
+Officials from Iran and Qatar met on Thursday in Tehran for diplomatic talks on the strategic Strait of Hormuz, as a US naval blockade chokes oil supplies to Iran amid a domestic shortfall. The meetings follow a week of intense diplomacy in Iran involving separate meetings with officials from Oman and Pakistani seeking ways to end the war and reopen Hormuz.
+</description>
+      <imageUrl>https://s.france24.com/media/display/0144a124-a20f-11f1-ac9a-005056a97e36/w:1024/p:16x9/3a99f04c0e831574dc9a7047493ccbe23a273935.jpg</imageUrl>
+      <pubDate>2026-08-27T12:01:16</pubDate>
+      <importance>28</importance>
     </item>
   </channel>
 </rss>

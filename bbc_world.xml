@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 12:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:01:03 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>US strikes Iranian launchers on Larak Island in first known attack in weeks</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg</imageUrl>
       <pubDate>2026-08-31T08:34:25</pubDate>
       <importance>23</importance>
+    </item>
+    <item>
+      <title>Head teacher evacuated 900 children minutes before Nepal floods hit school</title>
+      <link>https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png</imageUrl>
+      <pubDate>2026-08-30T16:48:13</pubDate>
+      <importance>18</importance>
     </item>
     <item>
       <title>'A giant leap forward': Nasa launches powerful new space telescope</title>
@@ -29,11 +37,19 @@
       <importance>18</importance>
     </item>
     <item>
-      <title>Head teacher evacuated 900 children minutes before Nepal floods hit school</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da6/live/8518ba10-a482-11f1-bed8-470734b5b662.png</imageUrl>
-      <pubDate>2026-08-30T16:48:13</pubDate>
+      <title>How the US-Canada trade war is being felt on both sides of the border</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US-Canada trade war is being felt on both sides of the border.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png</imageUrl>
+      <pubDate>2026-08-31T00:05:22</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Monza memories - Italian GP in pictures through the years</title>
+      <link>https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A selection of images from the Italian Grand Prix at Monza, which has hosted more Formula 1 races than any other circuit.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c5/live/a6fe4ab0-a517-11f1-b109-879e35c24276.jpg</imageUrl>
+      <pubDate>2026-08-31T07:06:17</pubDate>
       <importance>18</importance>
     </item>
   </channel>
