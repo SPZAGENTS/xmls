@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 14:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:01:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27westbank-tour-01-fcqz/27westbank-tour-01-fcqz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-31T09:00:40+00:00</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders</title>
+      <link>https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html</link>
+      <description>The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-putin-xi-05-lbjf/31int-putin-xi-05-lbjf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-31T11:31:35+00:00</pubDate>
+      <importance>28</importance>
     </item>
     <item>
       <title>U.S. and Iran Exchange Strikes Overnight After Monthlong Calm</title>
@@ -29,12 +37,12 @@
       <importance>28</importance>
     </item>
     <item>
-      <title>See Nepali Rescue Workers Testing Aid Delivery by Drone</title>
-      <link>https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html</link>
-      <description>Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/30/multimedia/30int-nepal-relief-tmhf/30int-nepal-relief-tmhf-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-30T23:29:13+00:00</pubDate>
-      <importance>28</importance>
+      <title>Why Larak Island Is Strategically Important for Iran</title>
+      <link>https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html</link>
+      <description>The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31trump-news-larak-mzlp/31trump-news-larak-mzlp-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-31T11:38:03+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>U.A.E. To Review Banque Misr, Targeted by Iran Sanctions</title>
