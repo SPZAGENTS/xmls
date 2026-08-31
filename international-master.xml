@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 15:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:01:00 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Middle East Live: US strikes Iran for first time in a month, Tehran retaliates</title>
@@ -21,16 +21,6 @@ US forces struck what they described as Iranian rocket launchers on the Strait o
       <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27westbank-tour-01-fcqz/27westbank-tour-01-fcqz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-31T09:00:40+00:00</pubDate>
       <importance>58</importance>
-    </item>
-    <item>
-      <title>Middle East live: Iran says Hormuz strait still closed despite transit corridor talks with Oman</title>
-      <link>https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman</link>
-      <description>
-President Donald Trump on Wednesday said he believes Iran’s Supreme Leader Mojtaba Khamenei is “very seriously wounded”, but not dead. Khamenei has not been seen in public since the US and Israel launched the Iran war in February, prompting months of speculation over the new Iranian leader’s health. Follow our liveblog to see how the day's events unfolded.
-</description>
-      <imageUrl>https://s.france24.com/media/display/b202c63a-82ca-11f1-8183-005056bfb2b6/w:1024/p:16x9/AP26195647347050.jpg</imageUrl>
-      <pubDate>2026-08-26T06:04:05</pubDate>
-      <importance>53</importance>
     </item>
     <item>
       <title>'Retrospective incrimination: First we shoot, we kill, and then we find a reason why it happened'</title>
@@ -93,6 +83,16 @@ Israel's military said it carried out an air strike in the Jenin area in the Wes
       <imageUrl>https://s.abcnews.com/images/International/wirestory_e2fbcb914de19fd9b24e79498e219e43_4x3_384.jpg</imageUrl>
       <pubDate>2026-08-31T06:41:36-04:00</pubDate>
       <importance>42</importance>
+    </item>
+    <item>
+      <title>Relentless heat worsens Gaza's ongoing struggle to access water</title>
+      <link>https://www.france24.com/en/relentless-heat-worsens-gaza-s-ongoing-struggle-to-access-water</link>
+      <description>
+In Gaza, securing drinking water is a relentless daily struggle. The war with Israel has destroyed critical water and sanitation infrastructure, and as temperatures soar, the extreme heat is escalating an already severe shortage into a deadly humanitarian crisis. Two and a half years of war with Israel have damaged or destroyed nearly 90% of Gaza’s water and sanitation infrastructure according to UNICEF.
+</description>
+      <imageUrl>https://s.france24.com/media/display/240c99ec-a529-11f1-8aad-005056bf30b7/w:1024/p:16x9/capture-9629343336a955b618609c3-22073425.jpg</imageUrl>
+      <pubDate>2026-08-31T10:49:13</pubDate>
+      <importance>38</importance>
     </item>
   </channel>
 </rss>
