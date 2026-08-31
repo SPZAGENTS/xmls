@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 01:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:00:54 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27westbank-tour-01-fcqz/27westbank-tour-01-fcqz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-31T09:00:40+00:00</pubDate>
       <importance>58</importance>
+    </item>
+    <item>
+      <title>Mansour Abbas Recruits Yoav Segalovitz to Join Raam Party in Israeli Election</title>
+      <link>https://www.nytimes.com/2026/08/31/world/middleeast/israel-raam-recruits-zionist.html</link>
+      <description>Mansour Abbas has recruited a Jewish lawmaker best known for reducing the crime rate in Arab cities. Could that be enough to get Mr. Abbas a seat in the next government?</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-israel-arab-party-02-vmgf/31int-israel-arab-party-02-vmgf-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-31T22:08:38+00:00</pubDate>
+      <importance>38</importance>
     </item>
     <item>
       <title>Your Iran Questions, Answered</title>
@@ -34,14 +42,6 @@
       <description>The renewed attacks were the latest sign that the war that began six months ago appears far from over.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-mideast-attacks-pcjw/31int-mideast-attacks-pcjw-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-31T12:20:48+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy</title>
-      <link>https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html</link>
-      <description>The meeting, which China and Russia are attending, is focused on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31dc-g20-lktm/31dc-g20-lktm-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-08-31T19:04:43+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -73,7 +73,7 @@
       <link>https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html</link>
       <description>A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-31T17:52:03+00:00</pubDate>
+      <pubDate>2026-08-31T22:12:27+00:00</pubDate>
       <importance>18</importance>
     </item>
     <item>
