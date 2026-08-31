@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 22:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:00:58 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.</title>
@@ -16,7 +16,7 @@
       <title>Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders</title>
       <link>https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html</link>
       <description>A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-xi-1-kjfb/31int-xi-1-kjfb-mediumSquareAt3X.jpg</imageUrl>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-xi-1-kjfb/31int-xi-1-kjfb-mediumSquareAt3X-v2.jpg</imageUrl>
       <pubDate>2026-08-31T18:30:02+00:00</pubDate>
       <importance>28</importance>
     </item>
@@ -33,8 +33,16 @@
       <link>https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html</link>
       <description>The meeting, which China and Russia are attending, is focused on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31dc-g20-lktm/31dc-g20-lktm-mediumSquareAt3X-v2.jpg</imageUrl>
-      <pubDate>2026-08-31T18:15:34+00:00</pubDate>
+      <pubDate>2026-08-31T19:04:43+00:00</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>Israel and Greece Reach $3.5 Billion Defense Deal</title>
+      <link>https://www.nytimes.com/2026/08/31/world/middleeast/israel-greece-defense-deal.html</link>
+      <description>Despite the growing diplomatic isolation of the government, the agreement makes clear that the Israeli defense industry is still finding considerable demand abroad.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31int-israel-greence-1-wtgv/31int-israel-greence-1-wtgv-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-31T19:28:59+00:00</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>Why Larak Island Is Strategically Important for Iran</title>
@@ -73,15 +81,7 @@
       <link>https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html</link>
       <description>Rajendra Dawadi had less than 15 minutes to act on a warning of approaching floodwaters. His swift evacuation plan saved hundreds of lives.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31xp-nepalteacher1-wfcp/31xp-nepalteacher1-wfcp-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-31T14:34:04+00:00</pubDate>
-      <importance>18</importance>
-    </item>
-    <item>
-      <title>Coral Reefs Are Running Out of Time to Recover, Research Find</title>
-      <link>https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html</link>
-      <description>Rising sea temperatures mean reefs don’t have enough time to bounce back between intense heat waves, a new report warns.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31cli-reefs-jbft/31cli-reefs-jbft-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-08-31T04:01:06+00:00</pubDate>
+      <pubDate>2026-08-31T19:16:35+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>
