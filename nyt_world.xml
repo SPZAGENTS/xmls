@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 07:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes</title>
@@ -58,6 +58,14 @@
       <description>State and federal leaders are trying to avoid sharing sensitive intelligence with the Alternative for Germany should it take power in a state’s elections next week.</description>
       <imageUrl>https://static01.nyt.com/images/2026/08/30/multimedia/30int-germany-afd-01-pmkj/30int-germany-afd-01-pmkj-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-08-30T09:00:17+00:00</pubDate>
+      <importance>18</importance>
+    </item>
+    <item>
+      <title>Coral Reefs Are Running Out of Time to Recover, Research Find</title>
+      <link>https://www.nytimes.com/2026/08/31/climate/coral-reef-recovery-time.html</link>
+      <description>Rising sea temperatures mean reefs don’t have enough time to bounce back between intense heat waves, a new report warns.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/08/31/multimedia/31cli-reefs-jbft/31cli-reefs-jbft-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-08-31T04:01:05+00:00</pubDate>
       <importance>18</importance>
     </item>
   </channel>

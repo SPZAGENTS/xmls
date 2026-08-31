@@ -2,16 +2,8 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Mon, 31 Aug 2026 07:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
-    <item>
-      <title>US strikes Iranian launchers on Larak Island in first known attack in weeks</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July. </description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg</imageUrl>
-      <pubDate>2026-08-31T03:25:36</pubDate>
-      <importance>38</importance>
-    </item>
     <item>
       <title>Somali piracy surges as the impact of the US-Iran war ripples outwards</title>
       <link>https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -19,6 +11,14 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg</imageUrl>
       <pubDate>2026-08-29T01:14:13</pubDate>
       <importance>28</importance>
+    </item>
+    <item>
+      <title>US strikes Iranian launchers on Larak Island in first known attack in weeks</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg</imageUrl>
+      <pubDate>2026-08-31T04:54:32</pubDate>
+      <importance>23</importance>
     </item>
     <item>
       <title>'A giant leap forward': Nasa launches powerful new space telescope</title>
