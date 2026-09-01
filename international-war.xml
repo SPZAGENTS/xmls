@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 15:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:01:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Latest flare-up between US and Iran bring conflict's lull to an end</title>
@@ -32,6 +32,14 @@ Oil prices rose further Tuesday as renewed military exchanges between the United
       <imageUrl>https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg</imageUrl>
       <pubDate>2026-09-01T03:38:18</pubDate>
       <importance>48</importance>
+    </item>
+    <item>
+      <title>Israeli fire kills three in Gaza City during reported raid, medics say</title>
+      <link>https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg</imageUrl>
+      <pubDate>2026-09-01T12:58:44</pubDate>
+      <importance>43</importance>
     </item>
     <item>
       <title>Several killed in Israeli strikes on Gaza and West Bank</title>
@@ -90,14 +98,6 @@ Iran attacked US military targets in the Middle East in retaliation for the firs
       <imageUrl>https://s.france24.com/media/display/a984b044-a224-11f1-800d-005056bf30b7/w:1024/p:16x9/AP26213442630871.jpg</imageUrl>
       <pubDate>2026-08-31T10:43:37</pubDate>
       <importance>38</importance>
-    </item>
-    <item>
-      <title>Military leaders warn Hegseth against extending Iran war operations</title>
-      <link>https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/</link>
-      <description>A recent classified assessment advised that prolonged large-scale operations in the Middle East risk weakening U.S. capabilities elsewhere.</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-30T17:27:06+00:00</pubDate>
-      <importance>37</importance>
     </item>
   </channel>
 </rss>

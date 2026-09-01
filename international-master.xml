@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International Master - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 15:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:01:02 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Latest flare-up between US and Iran bring conflict's lull to an end</title>
@@ -52,6 +52,14 @@ A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ag
       <importance>48</importance>
     </item>
     <item>
+      <title>Israeli fire kills three in Gaza City during reported raid, medics say</title>
+      <link>https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg</imageUrl>
+      <pubDate>2026-09-01T12:58:44</pubDate>
+      <importance>43</importance>
+    </item>
+    <item>
       <title>Netanyahu condemns violence in West Bank</title>
       <link>https://www.france24.com/en/netanyahu-condemns-violence-in-west-bank</link>
       <description>
@@ -87,14 +95,6 @@ Israel's military said it carried out an air strike in the Jenin area in the Wes
       <imageUrl>https://s.france24.com/media/display/fd7979b0-a2f5-11f1-9ae1-005056bf30b7/w:1024/p:16x9/2026-08-28T152358Z-1191338275-RC2R7NA7VEHT-RTRMADP-3-ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE.jpg</imageUrl>
       <pubDate>2026-08-28T17:14:47</pubDate>
       <importance>43</importance>
-    </item>
-    <item>
-      <title>School starts soon in Lebanon but thousands still shelter in them during war</title>
-      <link>https://abcnews.com/International/wireStory/school-starts-lebanon-thousands-shelter-war-136081906</link>
-      <description>Families sheltering in a school in Lebanon's city of Tyre are some of the hundreds of thousands of people displaced by the latest conflict between Israel and Hezbollah</description>
-      <imageUrl>https://s.abcnews.com/images/International/wirestory_e2fbcb914de19fd9b24e79498e219e43_4x3_384.jpg</imageUrl>
-      <pubDate>2026-08-31T06:41:36-04:00</pubDate>
-      <importance>42</importance>
     </item>
   </channel>
 </rss>
