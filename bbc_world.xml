@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Bbc_World - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 08:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:01:06 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>&quot;מעולם לא הייתי באפגניסטן&quot;: שישה מיליון מגורשים נאלצו להתחיל מחדש תחת הטליבאן</title>
+      <link>https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>נכון לאוגוסט, המספר שנאלץ לחזור השנה מפקיסטן ומאיראן הגיע למיליון נוסף.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg</imageUrl>
+      <pubDate>2026-09-01T05:00:34</pubDate>
+      <importance>23</importance>
+    </item>
     <item>
       <title>US strikes Iranian launchers on Larak Island in first known attack in weeks</title>
       <link>https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -11,14 +19,6 @@
       <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg</imageUrl>
       <pubDate>2026-08-31T13:47:30</pubDate>
       <importance>23</importance>
-    </item>
-    <item>
-      <title>How the US-Canada trade war is being felt on both sides of the border</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US-Canada trade war is being felt on both sides of the border.</description>
-      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png</imageUrl>
-      <pubDate>2026-08-31T00:05:22</pubDate>
-      <importance>18</importance>
     </item>
   </channel>
 </rss>
