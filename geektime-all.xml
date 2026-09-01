@@ -2,8 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 16:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:00:56 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
+    <item>
+      <title>רכבת ישראל מאיימת בתביעה על אפליקציה בקוד פתוח שניסתה לעזור לנוסעים</title>
+      <link>https://www.geektime.co.il/israel-railways-vs-better-rail/</link>
+      <description>זה לא דבר חדש שמפתחים (והיום, בעזרת ה-Vibe Coding, כבר כולם) מנסים לשדרג את חיי היומיום שלנו, ובעיקר התחב&quot;צ, עם אפליקציות ושירותים שונים ולא רשמיים. אבל עכשיו, אחת מהאפליקציות הוותיקות בתחום, נמצאת בעין הסערה עם איום של רכבת ישראל על הפעילות שלה. עומס חריג רכבת ישראל שלחה לאחרונה מכתב התראה לפני תביעה למפתחי Better Rail, […] The post רכבת ישראל מאיימת בתביעה על אפליקציה בקוד פתוח שניסתה לעזור לנוסעים app</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-09-01T13:19:38+00:00</pubDate>
+      <importance>29</importance>
+    </item>
     <item>
       <title>ראיתם את הסרטון של הנהג הישראלי שישן בטסלה נוסעת? הוא נעצר</title>
       <link>https://www.geektime.co.il/israeli-tesla-driver-asleep-got-arrested/</link>
@@ -74,14 +82,6 @@
       <description>מאת: יהודה נוימן לפני כמה חודשים ביקשתי מסוכן AI שאני בונה לנתח ריפו גדול. זה התחיל מבטיח – הוא קרא קבצים, מיפה תלויות, לרגע נראה בדיוק כמו הדמו שמריצים רגע לפני סבב גיוס – ואז נחנק. עצרתי את הריצה והסתכלתי על המספרים: הניתוח דרש 633 אלף טוקנים, לתוך חלון קונטקסט של 131 אלף. הרצתי על […] The post המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין appeared first</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-31T13:05:24+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>אנת'רופיק טוענת שצ'יפרה את המשתמשים בקלוד קוד, הם טוענים לפגיעה, ואיכשהו כולם צודקים</title>
-      <link>https://www.geektime.co.il/anthropic-claude-code-limits/</link>
-      <description>אנת'רופיק הודיעה על עדכון של מגבלות השימוש בכלי הפיתוח Claude Code. על פי ההכרזה הרשמית, החל מאמצע ספטמבר המכסה השבועית של התוכניות בתשלום תגדל באופן קבוע ב-25 אחוזים. על פניו מדובר בבשורה משמחת למפתחים, אבל קריאה מדוקדקת של האותיות הקטנות חושפת מציאות קצת מורכבת יותר, שדווקא פוגעת במצב הנוכחי של המשתמשים. ירידה בפועל כדי להבין […] The post אנת'רופיק טוענת שצ'יפרה את המשתמשים בקלוד קוד, הם טוענים לפגיעה,</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-31T07:44:06+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
