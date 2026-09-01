@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Geektime All - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 19:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:01:05 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>רכבת ישראל מאיימת בתביעה על אפליקציה בקוד פתוח שניסתה לעזור לנוסעים</title>
@@ -35,6 +35,14 @@
       <imageUrl></imageUrl>
       <pubDate>2026-08-30T10:32:37+00:00</pubDate>
       <importance>29</importance>
+    </item>
+    <item>
+      <title>דייסון חושפת מברשת שיניים חדשה, ואם זה לא מספיק מוזר, יש בה מצלמה</title>
+      <link>https://www.geektime.co.il/dyson-announces-camerajet-toothbrush/</link>
+      <description>כשאנחנו אומרים לכם דייסון, אתם כנראה חושבים ובצדק על שואבי אבק. בכל זאת, לא כל חברה מצליחה להפוך לשם הנרדף של קטגוריה שלמה. אבל לדייסון יש עוד כמה קטגוריות מעניינות שהיא נכנסה אליהן כמו מאווררים, מטהרי אוויר ואפילו גאדג'טים לעיצוב השיער. אבל כעת, היא מחליטה להיכנס לתחום חדש לחלוטין, וכזה שאין שום סיכוי שהייתם יכולים […] The post דייסון חושפת מברשת שיניים חדשה, ואם זה לא מספיק מוזר, יש בה מצלמה appeared</description>
+      <imageUrl></imageUrl>
+      <pubDate>2026-09-01T16:21:58+00:00</pubDate>
+      <importance>19</importance>
     </item>
     <item>
       <title>סיילספורס מובילה גיוס של 160 מיליון דולר בסטארטאפ הישראלי HiBob</title>
@@ -74,14 +82,6 @@
       <description>קשה קצת להאמין עם קצב הפיתוחים בתחום, אבל רק לפני פחות משנה פרץ לחיינו OpenClaw (שאז עוד נקרא Clawdbot). תוך פחות מחודש, הפיתוח של פיטר סטיינברגר הפך לוויראלי כל כך שהוא הספיק לקבל איומים מ-Anthropic, לגרום למחסור ב-Mac Mini, לסדר לסטיינברגר אקזיט מהיר ל-OpenAI – וכמובן – הזניק הישר אל לב המיינסטרים (של המפתחים) את […] The post שוחרר OpenClaw 2.0: הנה מה שחדש (ויש הרבה) appeared first on &lt;a href=&quot;https://</description>
       <imageUrl></imageUrl>
       <pubDate>2026-08-31T16:52:32+00:00</pubDate>
-      <importance>19</importance>
-    </item>
-    <item>
-      <title>המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין</title>
-      <link>https://www.geektime.co.il/ai-agent-architecture-context-window-solution/</link>
-      <description>מאת: יהודה נוימן לפני כמה חודשים ביקשתי מסוכן AI שאני בונה לנתח ריפו גדול. זה התחיל מבטיח – הוא קרא קבצים, מיפה תלויות, לרגע נראה בדיוק כמו הדמו שמריצים רגע לפני סבב גיוס – ואז נחנק. עצרתי את הריצה והסתכלתי על המספרים: הניתוח דרש 633 אלף טוקנים, לתוך חלון קונטקסט של 131 אלף. הרצתי על […] The post המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין appeared first</description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-08-31T13:05:24+00:00</pubDate>
       <importance>19</importance>
     </item>
   </channel>
