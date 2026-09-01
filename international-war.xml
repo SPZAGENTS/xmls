@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Tue, 01 Sep 2026 12:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 13:01:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Latest flare-up between US and Iran bring conflict's lull to an end</title>
@@ -12,6 +12,16 @@ Iran's foreign minister has accused Israel's Benjamin Netanyahu of tricking the 
       <imageUrl>https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg</imageUrl>
       <pubDate>2026-08-31T15:33:57</pubDate>
       <importance>63</importance>
+    </item>
+    <item>
+      <title>Netanyahu's wife shares conspiracy claim that opposition leader knew of Oct 7 attacks in advance</title>
+      <link>https://www.france24.com/en/middle-east/20260901-netanyahu-s-wife-shares-conspiracy-that-opposition-leader-had-early-knowledge-of-oct-7-attacks</link>
+      <description>
+As Israel prepares for what are expected to be close-fought parliamentary elections in October, Prime Minister Benjamin Netanyahu's wife Sara on Monday shared a conspiracy theory that centre-left opposition figure Yair Golan had advance warning of the Hamas-led October 7, 2023 attacks.
+</description>
+      <imageUrl>https://s.france24.com/media/display/d6639a6e-a5e2-11f1-ad39-005056bf30b7/w:1024/p:16x9/AP26111417795307.jpg</imageUrl>
+      <pubDate>2026-09-01T09:36:21</pubDate>
+      <importance>53</importance>
     </item>
     <item>
       <title>Middle East live: Oil prices extend gains as US-Iran tensions flare again</title>
@@ -88,16 +98,6 @@ Iran attacked US military targets in the Middle East in retaliation for the firs
       <imageUrl></imageUrl>
       <pubDate>2026-08-30T17:27:06+00:00</pubDate>
       <importance>37</importance>
-    </item>
-    <item>
-      <title>Trump threatens to ‘hit Iran hard’ as strikes resume after month-long lull</title>
-      <link>https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull</link>
-      <description>
-President Donald Trump said Monday that the US would hit back against Iranian attacks on US targets in the Middle East, according to a Fox News reporter. The Iranian attacks were themselves a response to US strikes on an island in the Strait of Hormuz, the first flare-up in a month.
-</description>
-      <imageUrl>https://s.france24.com/media/display/6620eaf0-a51e-11f1-b104-005056bfb2b6/w:1024/p:16x9/2026-08-31T085336Z-115528668-RC2J9NAP5OBK-RTRMADP-3-IRAN-CRISIS-STRIKE.jpg</imageUrl>
-      <pubDate>2026-08-31T20:36:16</pubDate>
-      <importance>33</importance>
     </item>
   </channel>
 </rss>
