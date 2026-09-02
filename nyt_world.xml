@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Nyt_World - Top Stories</title>
-    <lastBuildDate>Wed, 02 Sep 2026 17:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:01:11 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Netanyahu’s Israel Is Looking for a Fight in Every Direction</title>
@@ -11,6 +11,14 @@
       <imageUrl>https://static01.nyt.com/images/2026/09/01/multimedia/01israel-netanyahu-assess-01-bjvz/01israel-netanyahu-assess-01-bjvz-mediumSquareAt3X.jpg</imageUrl>
       <pubDate>2026-09-02T13:03:55+00:00</pubDate>
       <importance>38</importance>
+    </item>
+    <item>
+      <title>Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again</title>
+      <link>https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html</link>
+      <description>President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.</description>
+      <imageUrl>https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-mediumSquareAt3X.jpg</imageUrl>
+      <pubDate>2026-09-02T14:00:47+00:00</pubDate>
+      <importance>33</importance>
     </item>
     <item>
       <title>U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break</title>
@@ -33,15 +41,7 @@
       <link>https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html</link>
       <description>China’s leader, Xi Jinping, is seeking to deepen ties with a longtime U.S. security partner and to project a larger role for Beijing in a region rocked by war.</description>
       <imageUrl>https://static01.nyt.com/images/2026/09/02/multimedia/02int-china-egypt-04-kgct/02int-china-egypt-04-kgct-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-09-02T13:34:54+00:00</pubDate>
-      <importance>28</importance>
-    </item>
-    <item>
-      <title>Some Allies Are Pushing Back on Trump’s Economic Approach</title>
-      <link>https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html</link>
-      <description>At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran.</description>
-      <imageUrl>https://static01.nyt.com/images/2026/09/01/multimedia/01dc-g20-lhbm/01dc-g20-lhbm-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-09-02T02:56:39+00:00</pubDate>
+      <pubDate>2026-09-02T14:53:05+00:00</pubDate>
       <importance>28</importance>
     </item>
     <item>
@@ -49,7 +49,7 @@
       <link>https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html</link>
       <description>The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.</description>
       <imageUrl>https://static01.nyt.com/images/2026/09/02/multimedia/02iran-US-Strikes-01-hpkv/02iran-US-Strikes-01-hpkv-mediumSquareAt3X.jpg</imageUrl>
-      <pubDate>2026-09-02T13:51:31+00:00</pubDate>
+      <pubDate>2026-09-02T14:53:29+00:00</pubDate>
       <importance>23</importance>
     </item>
     <item>
