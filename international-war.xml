@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>International War - Top Stories</title>
-    <lastBuildDate>Wed, 02 Sep 2026 19:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:01:01 GMT</lastBuildDate>
     <description>SPZ News Aggregator</description>
     <item>
       <title>Latest flare-up between US and Iran bring conflict's lull to an end</title>
@@ -48,6 +48,14 @@ As Israel prepares for what are expected to be close-fought parliamentary electi
       <importance>43</importance>
     </item>
     <item>
+      <title>What we know about reported strike on Iran wedding celebrations</title>
+      <link>https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.</description>
+      <imageUrl>https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a053/live/bb3c5450-a6c4-11f1-aed2-8d6da8d75094.png</imageUrl>
+      <pubDate>2026-09-02T10:33:47</pubDate>
+      <importance>38</importance>
+    </item>
+    <item>
       <title>UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah</title>
       <link>https://www.france24.com/en/tv-shows/focus/20260902-unifil-peacekeepers-patrol-south-lebanon-caught-between-israel-and-hezbollah</link>
       <description>
@@ -86,14 +94,6 @@ Iran attacked US military targets in the Middle East in retaliation for the firs
       <imageUrl>https://s.france24.com/media/display/a984b044-a224-11f1-800d-005056bf30b7/w:1024/p:16x9/AP26213442630871.jpg</imageUrl>
       <pubDate>2026-08-31T10:43:37</pubDate>
       <importance>38</importance>
-    </item>
-    <item>
-      <title>U.S. carries out new military strikes in Iran</title>
-      <link>https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/</link>
-      <description>President Donald Trump had warned after Tuesday's U.S. strikes that any retaliation would see Iran “hit again at a much harder and higher level.” </description>
-      <imageUrl></imageUrl>
-      <pubDate>2026-09-02T09:43:39+00:00</pubDate>
-      <importance>37</importance>
     </item>
   </channel>
 </rss>
